@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">827</title>
+                <title type="main">Miklós Oláh, Pál Gregorjánczy, Pál Bornemissza, Ferenc Batthyány,
+                    and Mihály Mérey to King Ferdinand I (Vienna, 10 July 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520710_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signatures and seal. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 66. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">72–73.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-07-10">10 July 1552</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh, Pál Gregorjánczy, Pál Bornemissza, Ferenc Batthyány, and
+                        Mihály Mérey </persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh, Pál Gregorjánczy, Pál Bornemissza, Ferenc Batthyány,
+                    and Mihály Mérey to King Ferdinand I (Vienna, 10 July 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>King Ferdinand I will understand from Maximilian’s letter in what cases
+                            István Losonczy has submitted supplications. Although they know King
+                            Ferdinand I would also give a gracious response on his own, they ask him
+                            to do so and give him what he is asking for because he is not
+                            undeserving of it.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Sacra Regia Maiestas Domine, Domine Clementissime, fidelium servitiorum
+                    nostrorum humillimam commendationem!</p>
+                <p>Intelliget Sacra Maiestas Vestra ex litteris serenissimi regis
+                        <persName>Maximiliani</persName>, domini nostri clementissimi, quibus de
+                    rebus dominus <persName>Lossonczy</persName><note type="critic">István
+                        Losonczy.</note> per suum internuntium huc missum supplicet.<note
+                        type="critic">See Losonczy’s <hi rend="italic">supplicatio</hi> to King
+                        Maximilian II on 29 June, 1552, ÖStA HHStA, UA AA Fasc. 64. Konv. B. fol.
+                        176–177.</note> Tametsi igitur nobis dubium non erat, quin Sacra Vestra
+                    Maiestas petitionibus eiusdem domini <persName>Lossonczy</persName> accedente
+                    imprimis intercessione, serenissimi regis filii sui, clementer esset responsura,
+                    petente id tamen a nobis non tam ipso domino <persName>Lossonczy</persName>,
+                    quam causa ipsa, facere non potuimus, quin ea qua debemus summissione,
+                    supplicemus Vestrae Maiestati, dignetur postulationibus eiusdem domini
+                        <persName>Lossonczy</persName> benignum dare responsum, et ea illi
+                    concedere, quae petit, neque enim in his quicquam est eiusmodi quod non merito
+                    videatur a Vestra Maiestate posse impetrare. Quod si et rerum ac temporum
+                    spectetur status, et in quantum discrimen ipse dominus
+                        <persName>Lossonczy</persName> pro Vestrae Maiestatis regnique ac
+                    reipublicae Christianae servitio se coniecerit, quantoque in periculo versetur,
+                    diligentius secum Maiestas Vestra reputarit, uti eandem facere non dubitamus.
+                    Longe ille ampliori etiam gratia et munificentia Vestrae Maiestatis dignus
+                    iudicabitur, neque dubium est, quin his, quae petit, impetratis, et ipse et
+                    ceteri sui similes ad omnia intrepide pro Vestra Maiestate subeunte reddantur
+                    alacriores. Dominus Deus <milestone unit="pb"/>servet Maiestatem Vestram felicem
+                    et incolumem quam diutissime.</p>
+                <p><placeName>Viennae</placeName> die 10. Iulii anno Domini 1552.</p>
+                <p>Sacrae Maiestatis Vestrae fidelissimi servitores</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Agriensis etc. manu propria</add>
+                    </seg>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Zagrabiensis</add>
+                    </seg>
+                    <note type="critic">Pál Gregorjánczy.</note>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Vesprimiensis</add>
+                    </seg>
+                    <note type="critic">Pál Bornemissza.</note>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Franciscus de Batian manu propria</add>
+                    </seg>
+                    <note type="critic">Ferenc Batthyány.</note>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Merey manu propria</add>
+                    </seg>
+                    <note type="critic">Mihály Mérey.</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

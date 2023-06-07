@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">801</title>
+                <title type="main">Queen Mary to Miklós Oláh (Ghent, 18 January 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520118_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy. We do not know the manuscript.
+                    </p>
+                    
+                </note>
+                <note type="publication"><hi rend="smallcap">Hatvani</hi> 1858, 316–318. </note>
+                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
+                    <hi rend="smallcap">Hatvani</hi> 1858, 316. [regesta]</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Belgium</country>
+                        <settlement>Brussels</settlement>
+                        <institution>AÉB</institution>
+                        <repository>Ref. Rel. I. Suppl. Vol. 8.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">88.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-01-18">18 January 1552</date>
+                <placeName>Ghent </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Queen Mary</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Queen Mary to Miklós Oláh (Ghent, 18 January 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Peter Landor, who was taking Hungarian wine to the Netherlands at Queen
+                            Mary’s order, turned to King Ferdinand I, asking him to confirm the tax
+                            exemption regarding Landor’s manor, which is located within the Queen
+                            Mary’s Óvár estate, which was already in the possession of Landor’s
+                            ancestors. Queen Mary had given this exemption to Landor’s ancestors,
+                            along with an extension of their coat of arms, shown by the copy made of
+                            the original that is attached to this mandate. They can learn the same
+                            from Landor’s petition, which is attached to this mandate. But since the
+                            King is busy with many other matters, Queen Mary asks Oláh to do what
+                            Landor asks for in his petition.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Maria etc.</p>
+                <p>Erwirdiger in Gott andachtiger, lieber gethreuer, wellicher massen
+                        <persName>Petter Lanndor</persName>,<note type="critic">Peter Landor
+                        delivered Hungarian wines to the Queen, see <hi rend="smallcap">Bozzay</hi>
+                        2018, 39.</note> so unns jeczundt unnser verordnung nach die hungerischen
+                    wein herab in diese Niederlanndt gebracht, umb fuerschrifft an die römische, zu
+                    Hungern unnd Behaim etc. kunigliche wirde, unnsern freundlichen geliebten herrn
+                    unnd brueder von wegen genediger bestettigung unnd confirmation ainer befreiung
+                    seiner voreltern hauß unnd hove zugelassen unnder unnser herrschaft
+                        <placeName>Hungrisch Altenburg</placeName><note type="critic">Óvár, today:
+                        Mosonmagyaróvár.</note> gelegen, die wir verweilter jarn ermeltten des
+                        <persName>Landor</persName> vorelltern inhalts hierin verschlossner
+                    abschrifft dem original freibrief gleich lauthundt genedigst vergundt unnd
+                        gegeben<note type="critic">We do not know either the original or the copy of
+                        this charter.</note> unnd dan auch besserung halber ires vorigen wappen
+                    unnderthenigist gebeten, hab ir aus beiligender seiner supplication verrer
+                    inhalts zu vernemen,<note type="critic">We do not know this petition.</note>
+                    dieweil wir in nach gestalt unnd gelegenhait jecziger leuf bei unns selbs
+                    ermessen khondten, das sein röm. kun. wirde dieser zeit mit vil anndern
+                    wichtigen geschefften unnd obligen beladen, unnd aber bedacht, das diese sache
+                    inhalt des supplicanten unnderthenigist anlangen, dieweil es ain hungerisch
+                    hanndlung unnd euer ambt betreffendt ist, durch euch mit meren bequemen unnd
+                    gelegenhait angebracht unnd erledigt werden khan, haben wir seiner römischen
+                    kuniglichen wirde etc. selbst person mit unnsern furschreiben nit <choice>
+                        <orig>bemuchen</orig>
+                        <supplied>bemuehen</supplied>
+                    </choice>, sonnder soliches furnemblich von wegen des supplicanten vorelltern
+                    erczaigten gehorsam unnd dienstbarkheit, auch das er unns jeczundt mit
+                    herabfuerung unnser hungerischen wein, wie obgedacht vleißig gedient, an euch
+                    verschreiben wellen, unnd begern demnach an euch, ganncz genediglichen ir wellet
+                    von unnserntwegen diese sachen neben andern euern ambtshanndlungen mit besten
+                    fueg, wie es sich schickhen, unnd was euch hierinnen furgelegen unnd thunlich
+                    ansehen wirdet, an hochermelten unnsern <persName>kunig</persName> unnd brueder
+                    die römische kunigliche wirde gelimpflich gelangen lassen, unnd darauf bei
+                    seiner lieb interiediern,<note type="critic">Uncertain reading.</note> darinnen
+                    bemuet und guetlich verholfen sein unnd fürdern, damit der supplicant seiner
+                    gehorsamen bit inhalt unnd vermog angeruerter seiner supplication aller gebuer
+                    unnd billichkhait nach genedigist geweret, dermassen das euer intercession unnd
+                    furderung ime durch dicz unnser schreiben bei euch ersprieslich unnd furtraglich
+                    gewest zu sein, wurglich empfinden möge. Daran erczaigt ir, unns besonnder
+                    angenemes genediges gefallen hinwider mit allen gnaden zu erkhennen unnd zu
+                    bedenkhen. </p>
+                <p>Geben zu <placeName>Genndt</placeName> in Flandern den 18<hi
+                        rend="super">ten</hi> tag January anno etc. im funfczehenhundert
+                    zwaiundfunfczigisten. </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head><hi rend="italic">Probably on the outer side:</hi></head>
+                <p>An herrn bischoffen zu Erla, canczler etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

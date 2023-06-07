@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">488</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 21 May 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340521_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340413_2</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 498–499.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340413_2" type="url">479</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >198–199.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-05-21">21 May 1534</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 21 May 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is responding to Oláh’s letter: he is happy to hear that they
+                            welcomed Candiano; he is asking him to make sure his horse does not go
+                            missing along with Monbelli, and Francesco II Sforza also sends his
+                            greetings. 2. The Italian and French affairs are calm, but it is feared
+                            that Philipp I, Landgrave of Hesse will start a Lutheran feud with King
+                            Ferdinand I and threaten the Württenberg principality. Sforza, Antonio
+                            de Leyva, and Jacobus a Flandira have all warned Emperor Charles V to
+                            help his younger brother. Emperor Charles V has moved the troops from
+                            Koroni to Sicily and left the city under Turkish sovereignty. He is
+                            asking Oláh to inform him about the Hungarian affairs.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Camillus Gilinus Nicolao Olao secretario Mariae salutem. </p>
+                <p>[1.] Ex litteris tuis, quam<note type="critic">Ep.
+                        479.</note><ref>/o:olahus.tei.15340413_2</ref> mihi Idibus Aprilis dedisti,
+                        <persName>Candianum</persName><note type="critic">Ambrogio Candiano.</note>
+                    ducis mei medicum tandem istuc pervenisse intellexi, quod certe mihi gratissimum
+                    fuit. Di faciant, ut eius curatura <persName>reginae</persName> nostrae valetudo
+                    melior indies fiat! Praeter litteras tuas is ad nos scripsit, quam libenti
+                    animo, quam nitide et prolixe hominem acceperitis. Innatus iste regius animus
+                    abunde prae se fert, quantum omni virtute et munificentia inter ceteros
+                    splendeat. Quod ad equum meum attinet, operam dabis, ne ex occasu
+                        <persName>Monbelli</persName> et ipse naufragium faciat, apud quem pro 4
+                    argenteis vasculis aureos LX deposui. Quare, ne simul pereant una cum
+                        <persName>Camiliano</persName> et <persName>Bannisio</persName>,<note
+                        type="critic">Probably Jakob Radich de Bannisis the Younger, nephew of the
+                        former Imperial Secretary and Canon of Trento, see <hi rend="smallcap">Von
+                            Hefner</hi> 1857, 96.</note> curabis, ex procuratione quadam vobis
+                    omnibus ius tradidi, quo sine negotio omnia mea recuperare possetis. De globo
+                    non est, quod ad te scribam, nosti hominum <del corresp="Olahus?"
+                        >impudetiam</del><add corresp="Olahus?" type="corr">impudentiam</add>, et
+                    quam perfidiose cum alienis semper transigant, si cum praeter conventum <del
+                        corresp="Olahus">impedes</del><add corresp="Olahus" type="corr"
+                        >inpendes</add>, ab haeredibus <persName>Monbelli</persName> ex illa pecunia
+                    accipies, quam pro <choice>
+                        <orig>arabone</orig>
+                        <supplied>arrhabone</supplied>
+                    </choice><note type="critic">arrhabo -onis m ‘deposit’.</note> vasorum causa
+                    reliqui. <persName>Ducem</persName><note type="critic">Francesco II
+                        Sforza.</note> nomine tuo salutavi, agit tibi gratias, et si qua in re bonam
+                    operam tibi navare poterit, cognosces hominem amicitia tua dignissimum et tui
+                    amantissimum. </p>
+                <p>[2.] Res Itala nunc mire quiescit, nec Gallum veremur, a Germanis valde
+                    suspensi sumus, aiunt enim <persName>Lantgravium</persName><note type="critic"
+                        >Philipp I, Landgrave of Hesse.</note> Lutheranam <milestone unit="pb"
+                    />faecem in Romanorum <persName>regem</persName> sollicitaturum et
+                    Virtenbergensi Ducatui imminere, quae vobis, si vera sunt, iamdiu cognita esse
+                    deberent. <persName>Caesar</persName> a <persName>duce</persName> meo, item
+                        <persName>Antonio a Leyva</persName><note type="critic">Antonio de Leyva
+                        (1480–1536) was Duke of Terranova and Prince of Ascoli. He was
+                        Commander-in-chief of the imperial army in the Duchy of Milan, and after the
+                        death of Francesco II Sforza, he became Governor of Milan under Emperor
+                        Charles V.</note> et <persName>Prato</persName>,<note type="critic">Jacobus
+                        a Flandria.</note> per dispositos equos monitus est, ut fratri subveniat,
+                    pecuniam et quam expeditissimam curet, hoc si praestiterit, brevi scies.
+                    Praesidium, quod <placeName>Coronii</placeName> nomine caesaris erat, in
+                        <placeName>Siciliam</placeName> traiecit, urbemque in Turcae potestate
+                    reliquit. Mirantur omnia caesaris servitia a Romanorum <persName>rege</persName>
+                    nihil intelligere; quid cum Turca ipso de Pannoniis transactum sit, tu, si quid
+                    habes, fac, ut intelligam. Serenissimae reginae dominae, dominae nostrae
+                    clementissimae manus meo nomine osculaberis, cui semper omnia nova Italica per
+                    litteras ducis mittentur. Vale, Olae Doctissime, et Gilinum tuum mutuo ama. </p>
+                <p>Ex <placeName>Mediolano</placeName> XII. Kalendas Iunias 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

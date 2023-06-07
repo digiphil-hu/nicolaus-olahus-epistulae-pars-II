@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">540</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 30 June 1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350630_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 555–556.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">134.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-06-30">30 June 1535</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 30 June 1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The other day he heard that the Emperor docked on Sardinia on the 11<hi
+                                rend="super">th</hi>, and he crossed over to Africa the day after.
+                            The Pope has announced a three-day vigil and fast for the well-being of
+                            the Emperor and his troops, and the will also pardon all those misguided
+                            who make a confession and pray for the Emperor. Giovanni Battista Cibo
+                            has conspired against his relative, Alessandro de’ Medici, but he was
+                            found out; it is rumored that Ippolito de’ Medici was the mastermind
+                            behind the conspiracy. Lucretia Caballis will tell the rest.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao suo salutem. </p>
+                <p>Apud nos recte est, idem de vobis optamus. Nuper audivimus
+                        <persName>caesarem</persName> nostrum cum classe in
+                        <placeName>Sardiniam</placeName> applicuisse XI. die et inde XII. in
+                    Aphricam transmisisse, praeterea nihil aliud certi habemus, verum optime ab
+                    omnibus de exitu rerum Aphricanarum existimatur.
+                        <persName>Pontifex</persName><note type="critic">Pope Paul III.</note>
+                    publico edicto indixit III dierum vigilias et ieiunium pro
+                        <persName>caesaris</persName> et eius exercitus incolumitate. Item omnium
+                    erratorum remissionem promittit eis, qui confitebuntur et pro caesare preces ad
+                    Deum effundent. Quid, quaeris? Caelum, maria ac terras pro Deo nostro nonne
+                    pugnare vides? Fac igitur, bono animo sis, fortunabit enim immortalis rector
+                    huius machinae iustissima incepta caesaris, et ad imperium eius Asiam non
+                    Aphricam adiunget. <persName>Episcopus Massiliensis</persName>,<note
+                        type="critic">Giovanni Battista Cibo (1503–1550), Cardinal Cibo’s brother,
+                        was Bishop of Marseille from 1530, see <hi rend="smallcap">Van
+                            Gulik–Eubel</hi> 1923, 238.</note>
+                    <persName>cardinalis Cibo</persName><note type="critic">Innocenzo Cibo acquired
+                        the rights of administration of the Episcopal See of Marseille in
+                        1517.</note> frater et <persName>ducis Florentiae</persName><note
+                        type="critic">Alessandro de' Medici.</note> consobrinus in <choice>
+                        <orig>consobrinam</orig>
+                        <supplied>consobrinum</supplied>
+                    </choice> ducem conspiravit, et nescio, quo pacto patefactis insidiis captus
+                    est, credimus illum brevi poenas daturum. Fama nos tenet, haec perpetrasse
+                    authore <persName>cardinalis Medices</persName>.<note type="critic">Ippolito de’
+                        Medici (1511–1535) acted as Florentine ambassador to Emperor Charles V at
+                        this time. For more on this case and his life, see <hi rend="smallcap">V.
+                            Thomsen</hi> 1986.</note> Reliqua de <persName>Lucretia</persName><note
+                        type="critic">Lucretia Caballis (vom Ross).</note> nostra intelliges, cuius
+                    litteris exempla multarum litterarum ad principem <choice>
+                        <orig>meam</orig>
+                        <supplied>meum</supplied>
+                    </choice> addidi. Tu vale et saepissime ad nos scribe de statu vestro et
+                    peregrinis novis. <persName>Cornelium Sceperum</persName> et
+                        <persName>coniugem</persName><note type="critic">Anna Isabella (Elizabeth)
+                        Donche.</note> salutabis mihi plurimum. Iterum vale et me, ut facis, ama. </p>
+                <p><placeName>Mediolano</placeName> pridie Kalendarum Iulias anno Domini
+                    MDXXXV.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

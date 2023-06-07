@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">490</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 31 May 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340531_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 501–502.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >388–389.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-05-31">31 May 1534</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 31 May 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Ambrogio Candiano has returned, but he had such a good time at the
+                            court that he had forgotten about his friends, wife, and homeland, and
+                            he was received in such a cordial way that he can only talk about the
+                            Queen’s greatness ever since. He will likely not even stay here but
+                            return to the Queen’s service, which Francesco II Sforza also supports.
+                            He is happy to hear that the Queen is doing well. 2. He should send the
+                            globe to Candiano with Giacomo Fagnano, he will make sure it gets to
+                            Ghilino. 2. His lord (Sforza) was happy to receive Oláh’s letter. If the
+                            Germans obey the emperor, good, if not, the emperor will not lack either
+                            advice or money. The Pope is suffering from gout and stomach-ache; and
+                            the Sultan set out on 11 June with 40,000 horsemen and two legions to
+                            aid Ibrahim Pargalı Pasha, who is said to have been driven out by the
+                            Persian army.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Camillus Gilinus <add corresp="Olahus" type="insert">secretarius
+                        Francisci Sforciae ducis Mediolani</add> Nicolao Olao salutem. </p>
+                <p>[1.] Rediit <persName>Candianus</persName><note type="critic">Ambrogio
+                        Candiano.</note> noster a <persName>regina</persName> et vobis omnibus adeo
+                    bene habitus, ut non solum amicorum, sed uxoris et patriae penitus sit oblitus.
+                    Hunc enim adeo prolixe accepistis, tanta humanitate hominem regina comprehendit,
+                    ut praeter istius animi magnitudinem, munificentiam et singularem prudentiam,
+                    quae in aliis principibus nostrae aetatis maxime desiderantur, nihil aliud
+                    loquatur. Quo fiet, ut nullo negotio ad nos posse redire putem, uxore tamen non
+                    reluctante, cui valde emancipatum esse intelligo. <persName>Dux</persName><note
+                        type="critic">Francesco II Sforza.</note> et hortabitur ambos et coget, si
+                    licebit, ne reginae voluntati adversentur, quam pro numine suspicit et
+                    veneratur. Laetor hunc in reginae curatione comitem fortunam habuisse, faxint
+                    di, ut melior et valentior indies evadat, hoc mihi praesertim nihil gratius
+                    atque iucundius esse poterit. </p>
+                <p>[2.] Reculas meas tibi cordi esse audio. Globus quamprimum absolutus
+                    erit, fac, <persName>Iacobo Fagnano</persName><note type="critic">Giacomo
+                        Fagnano was a merchant from Milan, we only know him from this
+                        correspondence.</note> negotiatori Mediolanensi
+                        <placeName>Antverpiam</placeName> deferatur, is
+                        <persName>Candiano</persName> pollicitus est,se curaturum, ut ad me
+                    incolumis perveniat. </p>
+                <p>Dux meus tibi gratias agit, quod tantum sibi tribuas et tuas litteras
+                    syllabatim legit, huius fidem et diligentiam in tuis aut amicorum rebus frustra
+                    nunquam, mihi crede, implorabis. Si Germani principes caesaribus nostris in
+                    futurum obsequentiores erunt, bene illis erit, sin aliter, Deo nostro
+                    Hispaniensi nec consilium, nec <quote>belli nervus</quote><note type="quote"
+                        >Cic. <hi rend="italic">Philipp</hi>. V,I,5.</note><note type="critic">I.e.
+                        ‘money’.</note> deerit. <persName>Pontifex</persName> adhuc in lecto cubat
+                    ex podagra et stomacho laborans. Turca, ut <choice>
+                            <orig>Imbramo basso</orig>
+                            <supplied><persName>Imbramo bassa</persName></supplied>
+                        </choice><note type="critic">Ibrahim Pargalı Pasha.</note>
+                    suppetias ferat, <placeName>Constantinopoli</placeName> castra movit tertio
+                    Iduum Iunii cum quadraginta millibus equitum et legionibus duabus. Duriores
+                    quippe apud Dalmatas rumores de eo pervenerant, scilicet Imbraimum a
+                        <persName>rege</persName> Persarum cum maiori parte copiarum esse
+                    profligatum et exercitus reliquias in quibusdam montium angustiis redactas. Haec
+                    si vera sunt, Hungariae ad vestram ditionem brevi adiungentur, reliqua ex
+                    insertis litterarum exemplis accipies. </p>
+                <p>Serenissimae dominae reginae, dominae nostrae clementissimae, ut
+                    debemus, omnia bona optamus, cuius salus et mihi et bonis omnibus non minus cara
+                    est, quam ipsius ducis vita. Dominae <persName>Lucretiae Virgini</persName><note
+                        type="critic">Lucretia Caballis (vom Ross).</note> electissimae meis verbis
+                    plurimam salutem dices, item amicis omnibus. Principes mei recte valent et animi
+                    causa rusticantur, <milestone unit="pb"/>cum ad regem proficiscar, te statim admonebo. Interim cura, ut valeas
+                    et me, ut facis, mutuo ama. </p>
+                <p><placeName>Mediolani</placeName> pridie Kalendarum Sextilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

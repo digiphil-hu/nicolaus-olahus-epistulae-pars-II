@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">661</title>
+                <title type="main">Ferenc Nyári to Miklós Oláh (Bzenec, 29 December 1545)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15451229_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original or autograph letter with seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                        <add corresp="Olahus" type="insert">Nyary ad rela 100 Florenorum.</add>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 184 – I. – 1. – No. 34.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1545-12-29">29 December 1545</date>
+                <placeName>Bzenec</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Nyári</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Ferenc Nyári to Miklós Oláh (Bzenec, 29 December 1545)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Nyári is sending Oláh a barrel of muscatel, he should drink it before it
+                            loses its sweetness because after that it is not good any more. Bernát
+                            will give him the 100 florins in Prague. If Oláh has anything to ask, he
+                            will gladly do it. At the same time, he suspects from Bernát’s late
+                            return that Oláh harbours resentment toward him for some reason. He asks
+                            him to tell him why, if that is the case, so that he can make amends.
+                            Because after the King, Oláh is the second person who he will never
+                            leave. About his own health he says that since he returned from Vienna,
+                            he cannot even get out of bed without help, but he is slowly on the
+                            mend.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Domine et Fautor Observandissime, servitiorum
+                    meorum commendationem!</p>
+                <p>Misimus Reverendissimae Dominationi Vestrae unum vas vini dulcis
+                    muscatellini, quod Dominatio Vestra Reverendissima interim, quoad amittet
+                    dulcedinem, ebibat, nam amissa dulcedine non facit tantum ad palatum. Ceterum
+                    illos centum Florenos, quos <persName>Bernardus litteratus</persName><note
+                        type="critic">Probably Bernát Zichy (†1567), who was Ferenc Nyári’s
+                        servitor, see <hi rend="smallcap">Odescalchi</hi> 1897, especially 32. In
+                        1550, he became Royal Deputy-Master of the Horse <hi rend="italic"
+                            >(vicemagister agazonum regalium)</hi>, see MNL OL, SML
+                        XV.22.-1.-1.</note> Reverendissimae Dominationi Vestrae
+                        <placeName>Pragae</placeName> accommodarat, eidem per praesentes relaxamus,
+                    et illos nunquam ab ipsa repetemus, insuper quemadmodum antea quoque ita et nunc
+                    officia nostra cum omni servitiorum genere unice commendamus. Quicquid enim
+                    oneris Reverendissima Dominatio Vestra nobis subeundum imposuerit, id omne quam
+                    libentissime subire sumus parati, et eidem pro voto inservire modo ipso iubeat.
+                    Praeterea ex tardo <persName>Bernardi litterati</persName> reditu arbitramur
+                    Reverendissimam Dominationem Vestram erga nos aliquam animi sui gravedinem <del
+                        corresp="author">esse</del><add corresp="author" type="corr"
+                        >concepisse</add>. </p>
+                <p>Quare Reverendissimam Dominationem Vestram tamquam dominum fautorem et
+                    amicum rogamus, velit eam, si quam habet in nos, gravedinem significare, ut
+                    possimus de ea re Reverendissimam Dominationem Vestram levire et nobis
+                    conplacare. Nam certo credat Reverendissima Dominatio Vestra, neminem post
+                    sacram maiestatem regiam, dominum nostrum clementissimum tenemus et habemus
+                    fautorem praeter Reverendissimam Dominationem Vestram, cui ex animo semper
+                    favere et obsequi <del corresp="author">semper</del> non destitimus, nec
+                    volumus. </p>
+                <p>In reliquo Reverendissimam Dominationem Vestram feliciter valere
+                    optamus, ipsamque Deus optimus maximus ad multos annos felicissimam et prosperam
+                    conservet ad vota. De nostra adversa valetudine haec scribere possumus, quod ab
+                    eo tempore, quo <placeName>Vienna</placeName> reversi sumus, absque aliorum
+                    auxilio e lecto surgere licuit minime, iam Dei optimi beneficio commodescere
+                    coepimus.</p>
+                <p>Ex castro nostro <placeName>Bzenecz</placeName> secundo die festi
+                    Innocentium anno 1545. </p>
+                <p>
+                    <seg type="signature">Franciscus Nyary de Bedeg comes Hontensis et magister
+                        agazonum regalium etc.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino, domino Nicolao Olaho episcopo Zagrabiensi
+                    cancellario etc. consiliario regiae maiestatis etc. domino et fautori
+                    observandissimo. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

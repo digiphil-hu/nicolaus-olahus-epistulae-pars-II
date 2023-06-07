@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">566</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 1 June [1536])</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360601_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 575–576.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 177–178. </p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 250. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">314.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-06-01">1 June [1536]</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 1 June [1536])</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He sends 30 copies of Declamatio, but if those are not enough, he can
+                            send more. He is happy to hear that his book can be sold, but in his
+                            opinion, this is only due to the fact that Oláh’s name is on the cover,
+                            so Oláh should congratulate himself first. He has written to Ressen, but
+                            he is in the countryside, and in Nanninck’s opinion, he will not write
+                            so soon; Nanninck is having these letters written out by a scribe
+                            because the dizziness is stopping him from writing himself. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Petrus Nannius Nicolao Olao salutem plurimam. </p>
+                <p>Optime et Eruditissime Olahe, mittimus tibi triginta exemplaria,<note
+                        type="critic">Of his <hi rend="italic">Declamatio de bello Turcis
+                            inferendo</hi>.</note> de numero nihil significaveras, quod si ista non
+                    sufficiunt, fac, ut sciamus. Vendibiles esse meos libellos plurimum gaudeo, sed
+                    ut vendibiles sint, nulli debeo, nisi tibi, cuius nominis titulum in fronte
+                    tanquam gemmam ostendunt. Deinde quia non nihil vel potius pleraque ex tuo
+                    ingenio orationi inserta sunt, res et maiestatem et ornamentum accepit, non
+                    aliter, quam <persName>Ulysses</persName> Palladis opera summam dignitatem
+                    corporis accepit, ut qui ante in litus: eiectus terrori esset comitibus
+                        <persName>Nausicae</persName>,<note type="critic">Nausicaa was Princess of
+                        Phaeacia, see Hom. <hi rend="italic">Od.</hi> VI.</note> postea universis
+                    Pheacensibus venerabilis videretur, versatur noster libellus in aula, inter
+                    heroum manus iactatur, sed, ut dixi, id totum tibi debetur. Quare in hac re
+                    velim, ut gratuleris, non mihi de meis, sed tibi de tuis rebus.
+                        <persName>Rutgerus Rescius</persName>,<note type="critic">Rutger
+                        Ressen.</note> cum <del corresp="Olahus">hac</del><add corresp="Olahus"
+                        type="corr">haec</add> scriberem, rusticatum abierat; misi tamen quendam ex
+                    meis, qui illum investigaret, sed puto illum non scripturum exclusum temporis
+                    angustia. Nos in his litteris amanuensis opera usi sumus, prohibiti capitis
+                    vertigine <choice>
+                        <orig>αὐτογραφείν</orig>
+                        <supplied>αὐτογράφειν</supplied>
+                    </choice>.<note type="critic">‘to write in your on hand.’</note> Tu, mi
+                    Carissime Domine, ita valebis, ut omnes docti optant, hoc est, et diutissime et
+                    felicissime. </p>
+                <p>Ipsis Kalendis Iuniis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">523</title>
+                <title type="main">Guilhelmus van den Steene to Miklós Oláh (Bergues, 6 January
+                    1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350106_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 439–441.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >135–136.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-01-06">6 January 1535</date>
+                <placeName>Bergues</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Guilhelmus van den Steene</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Guilhelmus van den Steene to Miklós Oláh (Bergues, 6 January
+                    1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is glad to be writing to Oláh, but it is rare that someone can take
+                            the letter. If it was up to him, he would stay in Leuven forever in the
+                            friendly company of educated men, but he has been relocated to the stone
+                            mine, which he finds difficult to take. Oláh and the Bishop of Brescia
+                            keep sowing the seeds of science even during wintertime; if only van den
+                            Steene had the opportunity to live among such people, who are nauseated
+                            by things beyond virtue and erudition – which others appreciate. The
+                            church Oláh is erecting is rock solid, the wind cannot touch it, and
+                            wilted, even dead studies are coming alive in it again. 2. Oláh wrote to
+                            van den Steene’s lord the other day to ask to transfer him, but his lord
+                            pretended not to understand Oláh’s words. So he asks him to write to him
+                            again and put in a good word for him by recommending him to the Queen’s
+                            service, but he should not mention that he has asked him to do so. He
+                            will not be ungrateful; Oláh will soon receive van den Steene’s latest
+                            book with a dedication to him. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Guilhelmus Lapidanus monachus Nicolao Olao salutem.<note type="critic"
+                        >On this letter, see <hi rend="smallcap">Verbeke</hi> 2005.</note></p>
+                <p>[1.] Gestiit iamdudum animus, Magnifice Domine, ad Magnificentiam Tuam
+                    litteras transmittere, sed huius animi mei desiderium, velut repagulis quibusdam
+                    coercuit, quo minus sese exprompserit in opus rarus tabellionum proventus, qui
+                    ad vos convolent. Itaque cum mihi sors iam demum obiecit nuntium opportunum,
+                    nolui sane praetermittere, quin ad te meum unicum maecenatem transcriberem.
+                    Velim, ita me di bene ament, me perpetuum, licet non familiarem sodalem, saltem
+                    clientulum apud te futurum, nimirum qui iam ex corona consortioque doctissimorum
+                    virorum, quos <placeName>Lovanium</placeName> non sine fenore peperit, ac in
+                    dies parturit, relegatus sum ad <choice>
+                        <orig>lapidicinam</orig>
+                        <supplied>lapicidinam</supplied>
+                    </choice>,<note type="critic">Paronomasia with Steene’s name.</note> aut si quid
+                    molestius est, ineptissimorum hominum abhorrentium ab omni morum civilitate ac
+                    pietate vitae praeseferentium, tamen ipso vestitu, ac tonso capillitio, miram
+                    sanctimoniae personam, si haec liceat illis in os dicere citra omnem invidiae
+                    notam, sed veritatis comes simultas est. </p>
+                <p>Apud te autem et reverendissimum dominum <persName>episcopum
+                        Brixinensem</persName>,<note type="critic">George of Austria.</note> absit
+                    adulatio, quid aliud etiam in saevissima bruma vernat, floret et maturescit,
+                    quam uberrima omnium bonorum studiorum seges? Deum immortalem, quanta nuper apud
+                    vos relucebat eruditio, quanta facundiae adulatio, quam regiae immo plusquam
+                    regiae dotes, adeo ut ipse stupefactus nescierim me vel hominibus terrenis, vel
+                    dis immortalibus adiunctum, utinam Lapidano concederent aliquando superi in
+                    eiusmodi virorum coetu vivere, quibus praeter unicam virtutem ac eruditionem
+                    cetera in rebus humanis, quantumvis magnifica vilescunt, atque in nauseam
+                    vertuntur. Tuae tamen Dominationi, mi Patrone Unice, integrum est tuum Lapidanum
+                    subrigere in aedificium ecclesiasticum,<note type="critic">Van den Steene plays
+                        with his name and alluds Mt16, 18: “Et ego dico tibi, quia tu es Petrus, et
+                        super hanc petram ædificabo Ecclesiam meam”.</note> non quod ambiam in summo
+                    culmine collocari tumidus, ac expositus omnibus superbiae ventis ac
+                    tempestatibus, sed ut vel exigua saltem mihi oblata esset materia virtutis
+                    exercendae, quam nec mihi arrogo, nec omnino a me alienam affirmo. Tum apud nos
+                    bona studia, iam flaccida, aut potius emortua reviviscerent. Tum monasterium non
+                    lapidibus terreis, sed vivis construeretur, tum vera religio refloresceret, ac
+                        <quote>tacentibus graculis cygni canerent.</quote><note type="quote"
+                        >Proverb., see Erasm. <hi rend="italic">Adag</hi>. 2297. III, III, 97. Tunc
+                        canent cygni, cum tacebunt graculi.</note>
+                </p>
+                <p>[2.] Scripsisti<note type="critic">We do not know this letter.</note>
+                    nuper mea causa, cuius rei gratia gratiam habeo immortalem, ut me promoveret
+                        <persName>dominus</persName><note type="critic">According to van den
+                        Steene’s dedication in his book <hi rend="italic">De non timenda morte</hi>,
+                        he was Franciscus Oudegherstius, i.e. François d’Oudegherste, the Abbot of
+                        the Abbey of St. Winnoc. See also <hi rend="smallcap">Verbeke</hi> 2005,
+                        176.</note> meus <milestone unit="pb"/>praelatus, sed is apertiorem requirit scripturam, ut qui ex litteris
+                    nequiverit intelligere, quorsum tenderet tuus sermo. Itaque etiam atque etiam
+                    rogo et obtestor, ut si quando permittant tuae occupationes, non graveris rursum
+                    transcribere ad meum dominum <persName>abbatem</persName>,<note type="critic"
+                        >François d’Oudegherste.</note> nullam mei faciens mentionem, quod
+                    Dominationem Tuam sollicitaverim ad id negotii, utpote ab ipso expascens, ut me
+                    dignetur in beneficium coadiutoriae promovere, promittens etiam ad hoc apud
+                    illustrissimam <persName>reginam</persName> tuum studium et operam. Nam,
+                    Observande mi Domine, non ausim ipse haec meo domino ob oculos ponere, neque
+                    aliqua ex parte praesens significare. Quaeso, sis mihi in hac re fautor et
+                    patronus, in te uno tota spes mea est fixa, non deero, si res fluat mihi
+                    feliciter, ingratus erga tua in me benemerita, sed quid tanta contentione
+                    verborum haec a tam candido tamque prompto domino expostulo, perinde quasi
+                    diffisus videar tua humanitate. Bene vale, mi Observande Domine, cui me totum
+                    despondeo devoveoque. De impresso meo opusculo<note type="critic"><hi
+                            rend="italic">De non timenda morte</hi> was printed in Leuven in
+                        1533.</note> tuo nomini dedicando spero te propediem resciturum. </p>
+                <p>Ex monasterio divi Quinoci<note type="critic">Benedictine Abbey of St.
+                        Winnoc.</note> ipso Epiphaniae anno 1534.<note type="critic">The author used
+                        the so-called Easter Style, meaning 1535, see <hi rend="smallcap"
+                            >Tournoy</hi> 2019, 173. Note 43.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

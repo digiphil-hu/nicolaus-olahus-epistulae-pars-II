@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">499</title>
+                <title type="main">Miklós Oláh to Elek Thurzó (Brussels, 27 July 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340727_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340413_3</ref>
+                        <ref>/o:olahus.tei.15341008_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 515–516.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340413_3" type="url">480</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15341008_1" type="url">510</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">404–405. </measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-07-27">27 July 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Elek Thurzó </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Elek Thurzó (Brussels, 27 July 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Leopold Schreiberstorff has brought him Thurzó’s letter, from which he
+                            has learnt that Thurzó is not angry with him; he will try to be worthy
+                            of Thurzó’s benevolence. 2. Thurzó should not give up in connection with
+                            Bálint Török, although if the King does not want to or cannot reform the
+                            country, there is no hope left. He wishes Lodovico Gritti would bring
+                            good news; but Gritti also rather favors himself. The Veneti are sending
+                            50 triremes, and the Pope is sending another 40 of them against
+                            Hayreddin Barbarossa Pasha. The Danish still have not elected a king
+                            from the two Christians. The Protestants are surrounded in Münster, but
+                            unless they run out of food, they cannot be defeated. 3. The Queen is
+                            better, and if there was peace in Hungary, she would not reject the idea
+                            of returning. Thurzó writes that by pledging loyalty he has lost more
+                            than he has gained – Oláh understands this well, and it is high time for
+                            rulers to appreciate good service. But he believes that the Queen will
+                            aim to do so, and he will also try to help Thurzó, just like Thurzó
+                            should help him recover his estates from Török.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolaus Olaus ad Alexium Turzonem. </p>
+                <p>[1.] <persName>Leopoldus <add corresp="Olahus" type="insert">a</add>
+                        <del corresp="Olahus">Schrayberstorffer</del><add corresp="Olahus"
+                            type="corr">Schrayberstorff</add></persName><note type="critic">Leopold
+                        Schreiberstorff was Steward in Queen Mary's court in the Netherlands, after
+                        which he accompanied to King Ferdinand I to serve him in the battle against
+                        the Turks in 1532. Between 1534 and 1539, he was in Queen Mary’s service as
+                        Steward again, see <hi rend="smallcap">Kerkhoff</hi> 2008, 61.</note>
+                    reddidit mihi his diebus litteras tuas,<note type="critic">Ep.
+                        480.</note><ref>/o:olahus.tei.15340413_3</ref> quibus confirmatus omnem
+                    animi molestiam deposui ex ea re susceptam, quod ob diuturnam tuam
+                    taciturnitatem te in me alieniori animo esse arbitrabar. Habeo gratias, quod tua
+                    pristina benevolentia te me prosecuturum scribas, ego quoque contendam viribus
+                    omnibus, ut me <del corresp="Olahus">hi</del><add corresp="Olahus" type="corr"
+                        >huc</add> idoneum reddam. Nihil mihi gratius fuit, quam me intellexisse te
+                    tuam pristinam sanitatem consecutum esse, quam velim diuturnam fore. </p>
+                <p>[2.] In meis rebus nolim te tuam authoritatem existimationemque apud
+                        <persName>Valentinum Thewrek</persName><note type="critic">Bálint
+                        Török.</note> minuere. Scio, <del corresp="Olahus">cuius</del><add
+                        corresp="Olahus" type="corr">cuius</add> hi sint generis hominum: plus
+                    rogati deteriores fiunt. Si rex vel non vult, vel non potest reformare regni
+                    Hungariae statum, quid sperandum est aliud, quam <add corresp="Olahus"
+                        type="insert">ut</add> rebus hoc ordine stantibus regnum totum desoletur.
+                    Quod si nunc non reformabitur, cum <persName>Cornelius</persName><note
+                        type="critic">Cornelis de Schepper.</note> a Turca redierit, et
+                        <persName>Gritti</persName><note type="critic">Lodovico Gritti.</note>
+                    exeat, quae spes est huius rei reliqua? Utinam <persName>Grithi</persName>
+                    aliquid boni afferat! Tamen vereor, ne magis sibi faveat, quam regis partibus,
+                    et utinam quae in parte regis sunt, sint duratura. Nova hic nulla sunt alia. </p>
+                <p>Contra illum <persName>Barbarossam</persName><note type="critic"
+                        >Hayreddin Barbarossa Pasha.</note> capitaneum maris per Turcam designatum
+                    Veneti quinquaginta triremes armare et <persName>Clemens</persName><note
+                        type="critic">Pope Clement VII.</note> quoque pontifex quadraginta <del
+                        corresp="Olahus">facturus</del><add corresp="Olahus" type="corr"
+                        >adiecturus</add> esse dicitur <del corresp="Olahus">quia debebit</del>.
+                        <persName>Rex</persName><note type="critic">King Henry VIII.</note> Angliae
+                    permanet in sua contra pontificem sententia. De cuius et etiam
+                        <persName>regis</persName><note type="critic">King Francis I.</note> Galliae
+                    contra has caesaris provincias malo animo et ut eas invadere cogitent, non est
+                    parvus rumor, sed in hunc diem <milestone unit="pb"/>non sunt ausi rem aggredi. In <placeName>Dania</placeName> de rege
+                    creando non minima est dissensio, pars cupit regem
+                        <persName>Christernum</persName><note type="critic">Christian II of Denmark
+                        remained in prison until his death.</note> captum, ad hoc autem suffragatur
+                    regis Galliae ac Angliae ac Lubeccensium practica, pars vult ducem Holsatiae
+                        <persName>Friderici regis</persName><note type="critic">Frederick I of
+                        Denmark.</note> nuper vita defuncti maiorem
+                        <persName>filium</persName>.<note type="critic">Christian III of Denmark,
+                        King of Denmark from 1534.</note> Adhuc dissident.
+                        <placeName>Monasterium</placeName><note type="critic">Münster.</note>
+                    civitas adhuc obsidetur; inclusi sunt Anabaptistae, Lutherani et Adamistae,<note
+                        type="critic">I. e. Adamites.</note> ut vocant. Episcopus eius civitatis
+                    adiutus aliorum principum et etiam caesaris copiis eam civitatem oppugnat,
+                    firmiter illi resistunt. Modica dicitur esse spes vi illam capiundi, si
+                    commeatus non deficiant, si obsessi superiores erunt, verendum erit, ne omnes
+                    hae provinciae illorum exemplo inficiantur haeresi. </p>
+                <p>[3.] Serenissima <persName>regina</persName> mea iam ex Dei gratia
+                    optime valet, et si futura est spes in Hungaria, non abiecit animum redeundi et
+                    rebus istic suis aliquamdiu providendi. Litteras suae maiestatis mitto ad te cum
+                    praesentibus. Quod te magnis incommodis magis, quam aliquo augmento commodi ob
+                    fidelitatem susceptam affectum esse scribis, non miror, si respectus esset
+                    servitiorum et fidelitatis, aliter ubique ageretur. Cum bonis servitoribus, <add
+                        corresp="Olahus" type="insert">quibus</add> curae <del corresp="Olahus"
+                        >his</del> et sollicitudines indies accrescunt, sed commoda minuuntur, et
+                    tamen principes magno beneficio se suos affecisse putant, cum verba eis
+                    dederint, promissisque nos aluerint solis, ac permiserint, ut aliquis pecuniis
+                    suis bona emat. Quicquid habes, scio te non gratis habere, sed tuis propriis te
+                    tibi ordinasse, quod tolerabilius esset, si quieta essent tempora, et rerum
+                    status non posset mutari. Id autem alii, qui rem non intelligunt, aliter
+                    interpretantur. Tempus esset, si bonorum servitia aliter recompensarentur. In
+                    regina nihil defuturum esse existimo, quicquid in rem tuam <del corresp="Olahus"
+                        >clementia</del><add corresp="Olahus" type="corr">clementiae</add> et <del
+                        corresp="Olahus">opera</del><add corresp="Olahus" type="corr">operae</add>
+                    <del corresp="Olahus">facere potest</del><add corresp="Olahus" type="corr"
+                        >praestare possit</add>, verum si Hungaria hoc modo <del corresp="Olahus"
+                        >durabit</del><add corresp="Olahus" type="corr">stabit</add>, vel aliam
+                    nobis non placentem induerit faciem ac conditionem, quid facere poterit? Ego,
+                    certus sis, et pedibus et manibus sum tibi deditus, et ubi scivero me tibi morem
+                    gerere posse, nihil praetermissurum. Vellem tamen istic potius me tibi
+                    gratificari et inservire in Hungaria, quam in solo alieno. Si erit tempus et res
+                    ita feret, velis bona mea e manibus <persName>Valentini Thewrek</persName>
+                    eripere, non cum imminutione authoritatis tuae et existimationis, sed quatenus
+                        <del corresp="Olahus">illi</del><add corresp="Olahus" type="corr">illa</add>
+                    <add corresp="Olahus" type="insert">id</add> patientur.
+                        <persName>Lucretia</persName><note type="critic">Lucretia Caballis (vom
+                        Ross).</note> commendat servitia et negotia sua tibi. </p>
+                <p><placeName>Bruxellis</placeName> 27. Iulii anno Domini 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

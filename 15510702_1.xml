@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">772</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 2 July 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510702_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Redditae in Zazsebes in Iulii.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás No. 26.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-07-02">2 July 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date when="1551-07-10"/>
+                    <placeName>Sebeș</placeName>
+                    <persName>Tamás Nádasdy </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 2 July 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Orsolya Kanizsai is well. She sent two melons with Antal Sárkány the
+                            day before yesterday, which Oláh sent on to the King. He tasted some of
+                            it yesterday and liked it a lot, he ate the rest today. 2. The Emperor
+                            is spending happy days in Augsburg, and he hopes for a peaceful ending
+                            to the Italian war. Prince Philip has gone to Genoa, Archduchess Mary is
+                            preparing for the Italian trip and is waiting for her husband,
+                            Maximilian. Two million in gold has been collected in India for the
+                            Emperor. The besiegers of Magdeburg are nearly out of food and water,
+                            and they will hopefully capitulate soon. The Turks are weakening, the
+                            Persians are close. Orsolya Kanizsai will have the opportunity to talk
+                            to George Martinuzzi and András (Bonaventura) Báthori.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Servitiorum meorum commendationem, Spectabilis et Magnifice Domine et
+                    Frater Observandissime! </p>
+                <p>[1.] Carissima domina <persName>coniunx</persName><note type="critic"
+                        >Orsolya Kanizsai.</note> Dominationis Vestrae bene valet. Nudiustertius per
+                        <persName>Sarcanum</persName><note type="critic">Antal Sárkány of Ákosháza
+                        (†1562) was Tamás Nádasdy’s retainer <hi rend="italic">(familiaris)</hi> and
+                        his <hi rend="italic">agens</hi> in Vienna, as well as Seneschal of Sárvár,
+                        see <hi rend="smallcap">Koppány</hi> 2013; and Sárkány’s letter to Nádasdy:
+                            <hi rend="smallcap">Komáromy</hi> 1910.</note> nostrum misit ad me duos
+                    pepones optimi coloris, quos mox ad <persName>maiestatem regiam</persName> misi,
+                    quae hoc anno alios non viderat. Hodie laudabat eos optimos esse. Unius partem
+                    heri degustaverat, hodie aliam partem absumpsit, sed enim adhuc servatur.<note
+                        type="critic">On 10 July, 1551, Sárkány wrote to Nádasdy from Vienna in a
+                        similar manner: Orsolya is in good health, and she sent another 300 melons,
+                        which he distributed among the lords, see <hi rend="smallcap">Komáromy</hi>
+                        1910, 400–402.</note></p>
+                <p>[2.] Nova haec sunt. Maiestas caesarea optime valet,
+                        <placeName>Augustae</placeName>que laetos agit dies Italicum bellum illinc
+                    prospectans, quod speratur pace interposita brevi confectum iri.
+                        <persName>Princeps Hispaniarum</persName><note type="critic">Prince Philip,
+                        later Philip II, King of Spain.</note> hodie <placeName>Genuam</placeName>
+                    applicare debebat. Serenissima <persName>regina</persName><note type="critic"
+                        >Archduchess Maria of Austria, later Holy Roman Empress.</note> Boemiae
+                    filia imperatoris in procinctu est iam itineris in Italiam traiciendi, exspectat
+                        <persName>Maximilianum</persName> regem maritum, qui his diebus erit
+                        <placeName>Genuae</placeName>. Duo milliones auri nunc nunc allati sunt
+                    imperatori ex India in Hispaniam illinc per cambium<note type="critic">Money
+                        changer, cambist.</note> forte <placeName>Augustam</placeName>.
+                    Magdeburgenses extremam obsessi acrius quam antea patiuntur inediam adeo, ut per
+                    minuta frusta laridi et alia victualium <del corresp="Olahus">generat</del>
+                    genera vinumque modicum distribuantur quotidie lancigeris,<note type="critic"
+                            ><hi rend="italic">lancigeri</hi>, <hi rend="italic">Landsknechts</hi>,
+                        meaning ‘infantrymen of peasant origin’.</note> qui in praesidio sunt urbis.
+                    Qui quam sint patientes huiusmodi frugalitatis, Dominatio Vestra novit, speratur
+                    indies deditio. In <choice>
+                        <orig>ea</orig>
+                        <supplied>eo</supplied>
+                    </choice> enim tractatu <milestone unit="pb"/>et vehementer supplicatur apud imperatorem. Turca animo et corpore laborat.
+                    Persae instant et alii eius vicini, sed haec Dominatio Vestra me melius ibi
+                    cognoscit. Praedicta<note type="critic">Nádasdy’s wife, Orsolya Kanizsai.</note>
+                    tamen communicare poterit dominis <persName>Varadiensi</persName><note
+                        type="critic">George Martinuzzi.</note> et <persName>capitaneo
+                        generali</persName>,<note type="critic">András (Bonaventura) Báthori.</note>
+                    quibus mea servitia commendet. Cupimus omnia illinc a vobis felicia audire.
+                    Deliberatio et informatio spectabilis maiestatis regiae iampridem, ut arbitror,
+                    ad Dominationem Vestram pervenit. Quae feliciter valeat., quibus mea servitia
+                    commendet. Cupimus omnia illinc a vobis felicia audire. Deliberatio et
+                    informatio spectabilis maiestatis regiae iampridem, ut arbitror, ad Dominationem
+                    Vestram pervenit. Quae feliciter valeat.</p>
+                <p>Ex <placeName>Wienna</placeName> secunda Iulii anno 1551.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino Thomae de Nadasd perpetuo comiti terrae
+                    Fogaras, iudici curiae regiae maiestatis ac supremo capitaneo regni Hungariae
+                    etc. domino et fratri observandissimo. </p>
+                <p>Cito, cito, cito. In Transylvaniam.</p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

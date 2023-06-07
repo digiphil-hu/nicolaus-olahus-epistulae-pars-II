@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">570</title>
+                <title type="main">Daniel Mauch to Miklós Oláh (Bolsano, 6 September 1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360906_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 579–580.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">66.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-09-06">6 September 1536</date>
+                <placeName>Bolsano</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Daniel Mauch</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Daniel Mauch to Miklós Oláh (Bolsano, 6 September 1536)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>After the assembly they are going to Trento for the wedding of one of
+                            Bernhard von Cles’ relatives, on which Cles is spending a lot of money,
+                            he has even invited the royal couple. They will then go to the
+                            Netherlands, after which he will report to Oláh in person. He briefly
+                            summarizes what he knows about people. Flute players have arrived, whom
+                            they will take home with them, to the beer region. Lorenzo Campeggio
+                            often mentions Oláh, and he has allowed Mauch to conduct legal studies.
+                        </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Daniel Mauch Nicolao Olao salutem. </p>
+                <p>Reverende et Magnifice Domine, Patrone mihi plurimum Honorande!
+                    Celebrantur hic provincialia comitia, quibus peractis ibimus
+                        <placeName>Tridentum</placeName> ad nuptias cuiusdam <persName>comitis de
+                        Laterano</persName><note type="critic">We do not know him more closely.
+                        Papal Count Palatine (<hi rend="italic">comes palatinus Lateranus</hi>,
+                        Count of the Sacred Palace of Lateran) was merely an honorary title.</note>
+                    cum consanguinea episcopi <persName>Tridentini</persName>,<note type="critic"
+                        >Bernhard von Cles.</note> qui maximo apparatu nuptiarum impensam solvet,
+                    nempe qui Romanorum <persName>regem</persName><note type="critic">King Ferdinand
+                        I.</note> cum <persName>consorte</persName><note type="critic">Anna
+                        Jagellonica.</note> et magnam turbam maximorum dominorum invitavit. Inde cum
+                    redierimus, parabimus nos pro itinere in inferiorem Germaniam.<note
+                        type="critic">Germania inferior was a Roman province, today: Luxembourg, the
+                        southern Netherlands, part of Belgium, and part of Germany.</note> Quo cum
+                    pervenero, de nostris rebus multa coram narrabo Dominationi Vestrae
+                    Reverendissimae. </p>
+                <p>Serenissimus Romanus <persName>rex</persName> redibit in Austriam. De
+                        <persName>caesare</persName> puto Reverendissimam Dominationem Vestram nihil
+                    latere. Res Danicae notiores vobis sunt, quam nobis. Interim felicissime et diu
+                    valeat Reverendissima Dominatio Vestra, cui me humillime commendo. Si me non
+                    fallit opinio, reverendissimus <persName>dominus</persName><note type="critic"
+                        >Lorenzo Campeggio.</note> meus ante festum sancti Michaelis<note
+                        type="critic">29 September.</note>
+                    <placeName>Brixina</placeName><note type="critic">Brixen.</note> exibit. Iam
+                    venerunt ad nos <persName>Muscutella</persName><note type="critic">We do not
+                        know him more closely.</note> tibicen cum sociis, quos vobis una nobiscum
+                    adducemus et cum maximo plausu intrabimus in regionem cervisiaticam, quod di
+                    bene vertant. </p>
+                <p>Praeterea unum, quod maxime scribendum fuit, paene praetermisissem,
+                    videlicet reverendissimum <persName>dominum</persName> meum de Reverendissima
+                    Dominatione Vestra saepe et honestissimam mentionem facere, atque omnino
+                    decrevisse a me <choice>
+                        <orig>audire</orig>
+                        <supplied>audiri</supplied>
+                    </choice>
+                    <hi rend="italic">Institutiones</hi> Iustiniani, ad quod cum laude peragendum
+                    Deus optimus maximus suam mihi gratiam concedat. Cetera boni aequique faciat
+                    Reverendissima Dominatio Vestra, cui me iterum commendo et
+                        <persName>Danum</persName><note type="critic">Jakob Jespersen.</note>
+                    sponsandum saluto. </p>
+                <p>Ex <placeName>Bulsano</placeName> octavi Idus Septembris 1536.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

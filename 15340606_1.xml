@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">493</title>
+                <title type="main">Miklós Oláh to Lieven van den Zande (Brussels, 6 June
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340606_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 505–508.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 35–39.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340317_1" type="url">472</ref>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340419_1" type="url">481</ref>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340529_1" type="url">489</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340702_1" type="url">497</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >217–219.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-06-06">6 June 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Lieven van den Zande</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Lieven van den Zande (Brussels, 6 June
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He attributes his late answer to having spent the last 12 days hunting
+                            with the Queen around Leuven, and before that he was busy with his tasks
+                            at the court; this is the reason and not some kind of alienation because
+                            that will never happen. 2. He has received two, that is, three letters
+                            from Lieven van den Zande, he will respond to all of them now. There is
+                            no need for Lieven to thank him for the books, and he should not accuse
+                            himself of being ungrateful because he only thanked him much later. This
+                            is how it is done between friends: it does not cause joy to do harm, but
+                            we interpret a friend’s every deed as good. 3. That Benedictine monk has
+                            indeed lied because Erasmus of Rotterdam has not left yet. He quotes
+                            from Erasmus’ letter of 22 April, in which their mutual friend writes
+                            about his illness and worries, then he reassures him that he will notify
+                            Lieven if Erasmus gets there. 4. Jakob Jespersen has not left his
+                            service due to his illness: if he served him when he was healthy, it is
+                            only right that Oláh should look after him and his medical treatment. As
+                            far as his Greek studies are concerned, beside Jespersen’s illness, it
+                            was also halted by his bureaucratic affairs, but he had only been at the
+                            beginner level anyway, as Buccius could also observe the other day. 5.
+                            The inquiry now being conducted against all church personnel is very
+                            strict and not in the Queen’s competence but that of the financiers,
+                            i.e. bankers, so he cannot help Jean Molinier, no matter how much he
+                            wishes he could do so.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolaus Olaus Levino Ammonio monacho Carthusiensi salutem. </p>
+                <p>[1.] Miraris, Ammoni Carissime, quod praeter meam naturam per hosce
+                    dies fuerim in respondendo negligentior. Non mireris, nam nisi me invitum
+                    occupationes primum meae quamplurimae, quibus fui iam a multis temporibus
+                    detentus, deinde absentia, per quam circum <placeName>Lovanium</placeName> in
+                    venationibus hos totos duodecim dies praeteritos cum regina mea occupati fuimus,
+                    ab officio me scribendi parumper retraxissent, non commisissem profecto, ut te
+                    tam suavem et mihi gratum amicum exspectatione mei responsi tamdiu tenerem
+                    suspensum. Sed nosti nostras curialium, dico, occupationes, volebam dicere
+                    miserias tumultuosas, quibus potius tu id, quod a me cessatum hactenus fuit,
+                    ascribito velim, quam meo in te alieno animo. Qui dum spirabit, mea sponte <add
+                        corresp="Olahus" type="insert">non</add> modo non alienabitur, sed, ut
+                    spero, cum aetate utriusque nostrum indies iam maturescente erga te augebitur. </p>
+                <p>[2.] Binas a te, immo ternas<note type="critic">Probably Ep. 472; Ep.
+                        481; and Ep.
+                        489.</note><ref>/o:olahus.tei.15340317_1</ref><ref>/o:olahus.tei.15340419_1</ref><ref>/o:olahus.tei.15340529_1</ref>
+                    (alteris enim veteres erant, quaedam inclusae) accepi litteras: alteras ultima,
+                    ni fallor, Aprilis, alteras hodie, dum e Lovanio reverteremur. Priores unus ex
+                    meis pueris acceperat, nescio, a quo tabellione incerto, quem ego non vidi. Has
+                    novissimas reddidit mihi <persName>Ioannes Langhius</persName><note
+                        type="critic">John de Lange.</note> a secretis
+                        <persName>Panormitani</persName>.<note type="critic">Jean II
+                        Carondelet.</note> Nunc ad utrasque accipe. </p>
+                <p>Agis mihi gratias de libellis a me tibi dono missis, et purgas te, ne
+                    ingratitudinis te accusem, quod prius gratias non egeris. Inter τοὺς φίλους<note
+                        type="critic">‘(Among) friends’.</note> non licet uti hac excusatione. Nam
+                    quae gratia agi <del corresp="Olahus">debetur</del><add corresp="Olahus"
+                        type="corr">debet</add> amico, sponte cupienti amico gratificari, et alioqui
+                    vera ἡ φιλία<note type="critic">‘friendship’.</note> seu ἀγαπή,<note
+                        type="critic">‘love’.</note> ut Paulino utar verbo, ab amico neque exspectat
+                    sibi referri gratiam, neque <quote>λογίζεται τὸ κακόν</quote><note type="quote"
+                        >1Cor 13:6.</note>,<note type="critic">‘it takes no pleasure in
+                        wrongdoing’.</note> sed omnia, quae <milestone unit="pb"/>amicus facit, sive sileat, sive multis verborum utatur cumulis
+                    gratitudinem referentibus, in bonam interpretatur partem. Non igitur erat opus
+                    aut excusatione silentii aut gratiarum actione te apud me uti. Minima res est,
+                    pro qua gratus es. Accipe animum meum in te benevolum, non ipsa munuscula
+                    papiracea, quae parvam merentur gratiam. Amor et desiderium tum erga Erasmum
+                    nostrum mihi satis sunt comperta. Nam iam pridem ex tuis verbis coram cognovi,
+                    quo studio animique in illum sis affectione. </p>
+                <p>[3.] <choice>
+                        <orig>Scribes</orig>
+                        <supplied>Scribis</supplied>
+                    </choice><note type="critic">Ep. 489. Cap.
+                        1.</note><ref>/o:olahus.tei.15340529_1</ref> quendam
+                        <persName>Benedictum</persName> ad te fuisse profectum, qui dixerit se
+                    comitem <persName>Erasmo</persName> ex <placeName>Colonia Agrippina</placeName>
+                    huc venienti fuisse, et laetaris illum iam esse apud
+                        <persName>reginam</persName> mihique gratularis illius me iucundissima frui
+                    consuetudine. Utinam, mi Ammoni, ita sint omnia vera, quae monachi nonnulli
+                    malitiosi invidia, ut arbitror, potius quam vera ducti religione, in
+                        <persName>Erasmum</persName> soliti sunt debachari, quam id verum est, quod
+                        <persName>Benedictinus</persName> ille tibi de <persName>Erasmo</persName>
+                    narravit. Somniaverat fortasse se vidisse <persName>Erasmum</persName>. Nondum
+                    illum puto se itineri potuisse <del corresp="Olahus">commisisse</del><add
+                        corresp="Olahus" type="corr">committere</add>. Nam praemisisset aliquem, qui
+                    suum mihi adventum nuntiaret. Cuius animum ex his litterarum<note type="critic"
+                        >Ep. 482.</note><ref>/o:olahus.tei.15340422_1</ref> suarum XXII. Aprilis ad
+                    me datarum fragmentis cognosces: “Ad Kalendas Aprilis coepi non bene quidem, sed
+                    aliquanto minus male habere, et in bonam spem erectus sum. At post dies octo
+                    gravissimis cruciatibus invasit sinistrum capitis et colli latus cum humero et
+                    brachio, qui sic illi haeret, ut videatur nusquam abiturus. Quinque mensibus non
+                    extuleram pedem domo. Ipso die Paschae<note type="critic">5 April.</note>
+                    sacrificavi in cubiculo. Me a reditu monachorum intemperies non deterrerent,
+                    nisi mihi metuerem a paralysi. Quod si iter esset quattuor aut quinque dierum,
+                    vel lectita curarem me istic deportandum. <add corresp="editor">Arguerent,
+                        inquis, te inconstatiae</add>,<note type="critic">Inserted after Erasmus’
+                        letter. Without these words the sentence does not make sense.</note> utinam
+                    hoc crimen in me haereret. <persName>Marchio</persName> nihil faciet,
+                        <persName>Hellenio</persName><note type="critic">Michaël Hillen von
+                        Hoochstraaten.</note> favet funigeris et iam volumina distracta sunt.
+                    Quamquam ille stolidus liber haud multum officiet meo nomini, hic timeo graviora
+                    a sectarum fautoribus, qui sibi persuadent Erasmum in mora esse, quo minus
+                    impune regnent ubique. <persName>Lutherus</persName> epistolam emisit
+                    simpliciter furiosam, nec aliud spirantem, quam odium parricidiale. De tuo in me
+                    studio, Olahe Carissime, profecto memorem mones, nec sum ignarus, quot et
+                    quantis nominibus tibi debeam. Id utinam officio quopiam insigni queam
+                    declarare! <persName>Levinus</persName><note type="critic">Lieven Algoet.</note>
+                    significat te parare reditum in Hungariam, quod ut tibi precor, quam
+                    felicissimum esse, ita mihi futurum est incommodum, sive redeo, sive non redeo.
+                    τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι<note type="critic">‘friends who love far
+                        away are not friends’. Oláh omitted one sentence of Erasmus’ letter
+                        here.</note> Vix haec potui scribere prae cruciatu. Crede mihi nullis
+                    hortamentis opus est ad reditum. Non deero occasioni.” Non igitur adhuc venit,
+                    neque animum abiecit redeundi, nisi eum inique et praeter ullam <milestone unit="pb"/>iustam rationem acrius impeterent aetatis suae iam senilis inimici
+                    capitales. Si venerit, vel aliquid ab eo certi habuero, faciam, ut scias. </p>
+                <p>[4.] Novi enim te virtutis illius mecum una esse amantem.
+                        <persName>Danus</persName>,<note type="critic">Jakob Jespersen.</note> si
+                    morbus illius pateretur, non desereret meum servitium. Laborat τῇ ὕδρωπι<note
+                        type="critic">‘from dropsy’.</note> morbo pestifero, provisum est a me illi
+                    et de hospitio et de medicis aliisque necessariis rebus. Nec sinam eum egere,
+                    cum sanus mihi servierit. Studium meum Graecanicum adeo mihi interruptum est
+                    ipsius morbo et meis aliis non modo aulae huius mihi molestis negotiis, sed
+                    etiam tum regis mei <persName>Ferdinandi</persName>, tum patriae meae rebus
+                    publicis et meis quoque privatis in Hungaria turbatis, ut parum nunc promoveam.
+                        <persName>Buccius</persName><note type="critic">See Ep. 489. Cap. 2. We do
+                        not know him more closely.</note><ref>/o:olahus.tei.15340529_1</ref> noster
+                    fuit apud me nuper. Ostenderam ei quaedam a me versa e Graeco exercitii gratia.
+                    Ea tamen talia sunt, qualia exspectare possunt a tirone. </p>
+                <p>[5.] Exactio illa,<note type="critic">Ep. 489. Cap.
+                        3.</note><ref>/o:olahus.tei.15340529_1</ref> qua nunc omnes ecclesiastici
+                    huius regionis urgentur, tam arcta est, difficilis et ἀνεὺ τῆς ἐλεημοσύνης,<note
+                        type="critic">‘ruthless’.</note> ut nemini adhuc crediderim, vel minimam ex
+                    ea partem esse relaxatam etiam ad quorumvis magnatum preces. Res agitur per
+                    financiarios, non per reginam, hi quales sint, puto te audivisse. Accipere
+                    dicuntur libentius ab aliis quam dare, hos urgent οἱ τραπεζίται,<note
+                        type="critic">‘bankers’.</note> qui iam olim huius exactionis gratia
+                    argentum crediderunt ad caesaris negotia. Quibus haec exactio est designata, si
+                    igitur nec ego, nec alii possunt <persName>Molendino</persName><note
+                        type="critic">Jean Molinier.</note> nostro, qui tamen apud me nec fuit, nec
+                    eum vidi hac in re gratificari, bono accipe animo. Nihil est, quod tum pro te,
+                    tum pro eo, qui dum <placeName>Tornaci</placeName> cum
+                        <persName>caesare</persName> essemus, <del corresp="Olahus">
+                        nonnihil</del><add corresp="Olahus" type="corr">nonnulla</add> humanitatis
+                    in me praestitit <del corresp="Olahus">officii</del><add corresp="Olahus"
+                        type="corr">officia</add>, non libenter essem obiturus, si in qua re eius
+                    voluntati satisfacere possem. </p>
+                <p>Mitto ad te <choice>
+                        <orig>Erasmum</orig>
+                        <supplied>Erasmi</supplied>
+                    </choice>
+                    <hi rend="italic">De praeparatione ad mortem</hi><note type="critic">This book
+                        was published in Basel in 1534.</note> et eiusdem <hi rend="italic">τὴν
+                        ἀπολογίαν</hi><note type="critic">‘his defence’.</note> adversus epistolam
+                        <persName>Lutheri</persName>, ut cum adhuc praesens alloqui
+                        <persName>Desiderium</persName> non possis, eius legendo opera cum illo
+                    confabulari videare. Vale et me ama. </p>
+                <p><placeName>Bruxellae</placeName> sexta Iunii anno 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

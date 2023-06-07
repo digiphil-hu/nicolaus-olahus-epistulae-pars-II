@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">720</title>
+                <title type="main">Miklós Oláh to Bernát Sárkány, Gábor Rajki, Antal Sárkány, István
+                    Gosztonyi, Péter Ivánczy, Farkas Ivánczy, Lénárd Gosztonyi, and other friends
+                    (Prague, 27 July 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490727_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – Sárkány Bernát – No. 1.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-07-27">27 July 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Bernát Sárkány, Gábor Rajki, Antal Sárkány, István Gosztonyi, Péter
+                        Ivánczy, Farkas Ivánczy, Lénárd Gosztonyi, and other friends</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Bernát Sárkány, Gábor Rajki, Antal Sárkány, István
+                    Gosztonyi, Péter Ivánczy, Farkas Ivánczy, Lénárd Gosztonyi, and other friends
+                    (Prague, 27 July 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has intervened with the King in their interest and arranged for the
+                            ispáns to be sent there by Saint Michael’s day. He is surprised that the
+                            investigation has been dragged out this long because the King sent the
+                            commissioners there a long time ago, and they should have finished
+                            already. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Egregii Domini,<note type="critic">Bernát Sárkány, Gábor Rajki, Antal
+                        Sárkány, István Gosztonyi, Péter Ivánczy, Farkas Ivánczy, Lénárd Gosztonyi
+                        and other friends.</note> Amici nobis Honorandi, salutem! </p>
+                <p>Ea, quae Dominationes Vestrae nobis scribunt, intelleximus. Nos pro
+                    negotio earundem apud <persName>regiam maiestatem</persName> satis superque
+                    laboravimus et perficiemus, ut ad festum sancti Michaelis archangeli<note
+                        type="critic">29 September.</note> proxime venturum commissarii illuc
+                    mittantur ad determinandum Dominationum Vestrarum omne negotium. Quod autem
+                    revisio illius hactenus dilata sit, miramur, nam commissarii
+                        <persName>maiestatis regiae</persName>, domini nostri clementissimi quia
+                    antea istuc iussi erant, potuissent Dominationum Vestrarum negotia finire.
+                    Dominationes Vestras feliciter valere optamus.</p>
+                <p>Ex <placeName>Praga</placeName> 27. Iulii anno Domini 1549.</p>
+                <p>
+                    <seg type="signature">Nicolaus Olahus episcopus Agriensis cancellarius regiae
+                        maiestatis manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Egregiis dominis Bernardo Sarkan, Gabrieli Rayky, Anthonio Sarkan,
+                    Stephano Gostony, Petro Iwanchy, Wolffgango Iwanchy et Leonardo Gostony et
+                    amicis nobis honorandis.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

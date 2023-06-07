@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">748</title>
+                <title type="main">Antal Verancsics to Miklós Oláh (Eger, 2 October 1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15501002_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Szalay</hi> 1865, 115–117.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>OSZK</institution>
+                        <repository>Fol. Lat. 1681. Vol. I.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">456v–459r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-10-02">2 October 1550</date>
+                <placeName>Eger</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Antal Verancsics</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Antal Verancsics to Miklós Oláh (Eger, 2 October 1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Having finished in Szolnok, Niklas von Salm and András (Bonaventura)
+                            Báthori came to Eger with the troops from the east of the river Tisza to
+                            discuss where they should fight. The Turks are not quiet any more: last
+                            time they attacked Szécsény and took prisoners, then they attacked Ság,
+                            but they were not successful there, and Ferenc Jakusich also retaliated
+                            for the Szécsény attack. 2. The Saxons and the Szeklers are said to have
+                            switched to Queen Isabella’s side in Transylvania, but the fact that the
+                            Queen and George Martinuzzi have different plans is dividing the
+                            assembly. Péter Petrovics is building a camp at Alba Julia, he has 3,000
+                            Serbians with him, as well as little John Sigismund. Martinuzzi is much
+                            stronger, he would easily defeat Petrovics, who can only hope for
+                            support from the Turks, but he has not yet brought the Turks and the
+                            Romanians over from Wallachia. He thinks that if they abandon Martinuzzi
+                            now and do not support him, it will be much more difficult to do so
+                            later. Like in Szapolyai’s case, who did not receive help in spite of
+                            the treaty of Oradea, while the Sultan conquered Moldova.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Antonius Wrancius Nicolao Olaho antistiti suo salutem!</p>
+                <p>[1.] Erecto iam <placeName>Zolnoccho</placeName>,<note type="critic"
+                        >Szolnok.</note> rebusque omnibus necessariis instructo et comes
+                        <persName>Salmus</persName><note type="critic">Niklas von Salm.</note> et
+                        <persName>Andreas Bathoreus</persName>
+                    <placeName>Agriam</placeName> venerunt traductis huc etiam gentibus, quae trans
+                    Tibiscum erant; <milestone unit="pb"/>puto, ut hic consulant, quid agendum erit
+                    imposterum, quove bellum promovendum. Turcae non omnino siluerunt. Proxime
+                    insperati <placeName>Secienium</placeName><note type="critic">Szécsény.</note>
+                    usque excurrerant, quae est arx <persName>Stephani Lossoncii</persName>,<note
+                        type="critic">István Losonczy.</note> oppidumque vi ingressi, abduxerunt
+                    homines L, unum occiderunt, pecora pauca reliquere. Arx etiam ipsa periclitata.
+                    Paucis diebus post invaserant et <placeName>Sagh</placeName>, sed non tam
+                    feliciter. <persName>Franciscus Iacossius</persName><note type="critic">Ferenc
+                        Jakusich or Jakosich was Castellan of Šahy from 1550, Vice-castellan of Eger
+                        between 1558 and 1559, and Vice-captain of Győr in 1567, see <hi
+                            rend="smallcap">Sugár</hi> 1993–1994, 77; and <hi rend="smallcap"
+                            >Gecsényi</hi> 2008c, 450.</note> praesidiorum eius loci praeses
+                    congressus cum latronibus obtinuit victoriam, ultaque
+                        <placeName>Secienii</placeName> iniuria occidit et vulneravit multos, cepit
+                    plures, nescitur tamen adhuc, an et damnum aeque recuperavit. Nunc iam videntur
+                    ferocire et maiora minitari, quantum nocituri, non divino. Sed si nova vis non
+                    supervenerit, hos praedones limitaneos nostrae copiae non pavebunt. </p>
+                <p>[2.] Ex Transsylvania adhuc turbulenta afferuntur. Et si quibusdam
+                    credi debeat, <milestone unit="pb"/>aiunt et Saxones et Seculos ad reginae iam
+                    auspicia transisse, Seculos etiam mutuo conflixisse in comitiis, quos
+                        <persName>reginae</persName><note type="critic">Queen Isabella
+                        Jagiellon.</note> et <persName>Heremitae</persName><note type="critic"
+                        >George Martinuzzi.</note> studia diviserunt;
+                        <persName>Petrovium</persName><note type="critic">Péter Petrovics.</note> ad
+                        <placeName>Albani</placeName><note type="critic">Alba Julia.</note> castra
+                    metasse, nec habere tria millia Rascianorum penes se, quamquam duo excederent,
+                    secumque esse <persName>pupillum</persName><note type="critic">Future King John
+                        Sigismund.</note>
+                    <persName>Ioannis</persName>,<note type="critic">King John I.</note>
+                    <persName>matrem</persName><note type="critic">Queen Isabella Jagiellon.</note>
+                    in urbe commorari. <persName>Heremitae</persName> vires longe maiores esse, et
+                    posse eum cum <persName>Petrovio</persName> tuto manum conserere ac victoriam
+                    sperare, honore tantum et fide arceri, ne in dominam et filium domini
+                    insurrexisse diceretur. Nec alia vi pollere <persName>Petrovium</persName> quam
+                    spe et exspectatione Turcici patrocinii, quo provinciales territi coguntur etiam
+                    per fas et nefas ab <persName>Heremitae</persName> studiis dimoveri; cum tamen
+                    fama non silet fidem ei omnes de se fecisse, remque propterea cum Moldavis ita
+                    transactam, ut ab irruptione illorum non sit impense <milestone unit="pb"
+                    />metuendum. Turcas <persName>Petrovius</persName> et Valacchos Transalpinos
+                    nondum induxit, venturos tamen cum voluerit. Sed fertur non audere adhuc tantum
+                    scelus, timens penes putrida etiam sanis partibus, ut sunt mores et perfidia
+                    Turcica, qui nobis non indulgent, neque commiserentur nostra causa, sed suae
+                    tantum servant nos opportunitati atque libidini, simulata pietate et dolosa
+                    amicitia. Futurum tamen quidquid est, haud longa exspectatione tenebimur. Utinam
+                    autem ea consequantur, quae vellemus; sed vereor, ne, si hac vice destituetis
+                        <persName>Heremitam</persName>, durior fiat imposterum, ut
+                        <persName>Ioannes</persName> olim, quando ei auxilia, quae ex pacto
+                        pacis<note type="critic">Thr treaty of Oradea in 1538.</note> debebantur,
+                        <persName>Solymano</persName><note type="critic">Suleiman I.</note>
+                    Moldaviam subiugante non fuere missa. Nam cum et illud accepimus, quod oratores,
+                    quos in Turciam dimiserat, ex itinere nuntiarint <del corresp="author"
+                        >ille</del>, ut esset bono animo, quandoquidem <add corresp="author"
+                        type="insert">omnia illi</add> laeta <del corresp="author">ei</del>
+                    Transsylvaniae <del corresp="author">viro</del> tuta <del corresp="author">vir
+                        afferret</del><add corresp="author" type="corr">apportarent</add>,
+                        <milestone unit="pb"/>quid quaeso aliud augurandum est, quam quodpiam novum
+                    cum Turca foedus, novam necessitatem, qua in pristinam eius gratiam restitui
+                    possit. Quod et <persName>Ioannes</persName> fecit, cum transactam pacem cum
+                    rege nostro recusavit promulgare. Ea igitur, quae cum
+                        <persName>Heremita</persName> agenda sunt, si agenda modo, mature agi
+                    suaderem, quia saepe dilata sublata sunt. Alioqui debebis mihi ignoscere, si
+                    quid videor in Areopago<note type="critic">The chief court in ancient
+                        Greece.</note> consulere, quod minus intelligam minusque deceat praesentem
+                    fortunam meam. Saepe tamen alias et in Hungaricis et in Transsylvanicis rebus
+                    vaticinia nostra exitus probavere, cum privatarum rerum studia, ubi prius est
+                    publicis consulendum, in multis consuevi arguere, nihili faciens odia, quae
+                        <milestone unit="pb"/>mihi amor veritatis peperisset. Vale. </p>
+                <p>II. Octobris 1550. <placeName>Agriae</placeName>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

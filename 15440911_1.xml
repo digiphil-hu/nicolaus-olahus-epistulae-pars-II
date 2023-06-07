@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">647</title>
+                <title type="main">Miklós Oláh and Ulrich von Eytzing to Johann Spölin (Vienna, 11
+                    September 1544)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15440911_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA Specialia, Fasc. 344.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">68.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1544-09-11">11 September 1544</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh and Ulrich von Eytzing</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Johann Spölin</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh and Ulrich von Eyzing to Johann Spölin (Vienna, 11
+                    September 1544)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They received his letter of 28 August on 7 September, in which he asks
+                            for their stance on certain points on Queen Mary’s behalf. In response,
+                            they state that a contract was made between the late Emperor Maximilian
+                            and King Vladislaus II in connection with the marriage between the House
+                            of Austria and the Hungarian Crown and matters of high importance,
+                            which, following the death of King Vladislaus II, the late King Louis
+                            confirmed according to the wishes of the entire Hungarian Crown, which
+                            was again confirmed based on the same contract by King Ferdinand I
+                            during his coronation in Székesfehérvár, when he took the [throne] of
+                            the Kingdom of Hungary. They recommend that all related debates that
+                            would take place between Emperor Charles V, King Ferdinand I, and Queen
+                            Mary, particularly regarding brotherly unity and love, should be avoided
+                            henceforward. Royal succession has not changed from what was known
+                            before, either.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Unnsern grus zuvor, hochgelerter, sonnder lieber her unnd freundt! </p>
+                <p>Unns ist vonn euch ain sendtschreybenn des datum den 28. Augusti diß 44
+                    jars gestellt auf sibendenn Septembris berurts jars zuekhomenn, darinnen ir in
+                    namenn unnd von wegenn der durchleuchtigisten, großmechtigisten fursstin unnd
+                    frawenn <del corresp="editor">frawenn</del>
+                    <persName>Maria</persName><note type="critic">Queen Mary.</note> etc. khünigin,
+                    unser allergnedigistenn frawenn etlicher puncten, so demselben eurm missive
+                    eingeleibt, euch bericht zu uberschickhen unnd zukhomen zu lassenn begerent.
+                    Daruf ir unns zu vernemenn, das weillundt <persName>kaiser
+                        Maximilian</persName><note type="critic">Emperor Maximilian I.</note>
+                    hochloblicher gedechtnus unnd <persName>kunig Ladislaws</persName><note
+                        type="critic">King Vladislaus II.</note> ainen contract unnd vertrag<note
+                        type="critic">On the contract in 1515, see <hi rend="smallcap"
+                            >Dybaś–Tringli</hi> 2019.</note> die heirat unnd vermahlung zwischenn
+                    dem haus Osterreich unnd der cron Hungern, auch ander vill hochwichtig
+                    vertragsarticl belangenndt gegenainander aufgericht und beschlossenn, <del
+                        corresp="author">welchei</del><add corresp="author" type="corr"
+                        >welchen</add> weillanndt <persName>khunig Ludwig</persName>,<note
+                        type="critic">King Louis II.</note> ermelltes Ladislaws eeleiplicher sün
+                    unnd nach seinem, des Ladislaws, abganng <del corresp="author"
+                        >regierder</del><add corresp="author" type="corr">regierender</add> herr und
+                    kunig, in der cron zu <placeName>Weisenpurg</placeName><note type="critic"
+                        >Székesfehérvár.</note> mit wissen und willenn der ganzen cron Hungern
+                    confirmirt unnd bestat, volgennds unnser allergnedigister herr, jetz romischer
+                    unnd regierender kunig etc., in antrettung des reich Hungern obberurten contract
+                    gleichermassen inn seiner mt. cronung daselbs zu
+                        <placeName>Weissenpurg</placeName> von newenn bestat unnd confirmirt. Darauf
+                    unnser rath unnd guetbedunckhen bey offt bestimpten vertrag unnd dem, so
+                    darinnen diser unnd anderer artickhl ordenlich unnd außtruckhlich vergleicht
+                    unnd aufgefurtt zu verharen unnd nit weiter hinder sich zu verhiettung lengers
+                    aufzugs disputation unnd unnser gnedigsten frawenn uncostenn zu grundten, unnd
+                    sonderlich, das auch diese sachenn zwischen der ro. unnd ir ku. mt. unnsers
+                    allergnedigistenn herrn unnd frawen, so brueder unnd schwester seien <milestone unit="pb"/>inn einigkheit unnd bruderlicher lieb, hingelegt mocht werdenn. Daraus
+                    nun dieses ewers begern, sonder zweifel guetter bericht zu erfindenn, dan uns
+                    sonnst die succession unnd absteigendenn linien soviler kunigclicher geschlecht,
+                    dergleichenn allter brieflicher gewarsamenn und außgegangnenn bevelhen kheiner
+                    andernn, dan jetz gehorter massen bewusst, dass habenn wir euch auf ewer
+                    schriftlich begernn hiemit vorstendigenn unnd durch seliche unnsere
+                    schrifftlichen antwurt nit pergenn wollen. Thuen euch <del corresp="author"
+                        >auch</del> hiemit, was euch vonn uns fruntlich lieb und dienst ist.</p>
+                <p>Datum <placeName>Wien</placeName> den aidlifften Septembris anno etc.
+                    im XLIIII<hi rend="super">ten</hi>. </p>
+                <p><seg type="signature">Nicolaus Olahus episcopus Zagabaviensis<note
+                            type="critic">I.e. Zagrabiensis.</note> etc. manu propria</seg>
+                </p>
+                <p>
+                    <seg type="signature">Ulrich freyherr von Eytzing manu propria</seg>
+                </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Dem edlenn unnd hochgelerten hern Johann Spolin,<note type="critic"
+                        >Johann Spölin.</note> beider rechtenn doctor, kunigin Maria etc. unnser
+                    gnedigistenn frawen rath, unserm sondernn gueten frundt. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

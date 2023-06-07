@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">766</title>
+                <title type="main">Miklós Oláh to Trnava Town Council (Vienna, 17 March
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510317_1</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Trnava</settlement>
+                        <institution>ŠAT MMT</institution>
+                        <repository>Altaristica</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-03-17">17 March 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Trnava Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Trnava Town Council (Vienna, 17 March 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Since the King has entrusted the <hi rend="italic">officium
+                                lectoratus</hi> of Esztergom to Antal Verancsics, which is not said
+                            to be accompanied by a dwelling, Oláh asks them to give Verancsics the
+                            most suitable of the houses that are vacant due to the deaths of the
+                            Archdeacons of Nógrád or Hont. 2. He thanks him for giving a house to
+                            Balázs Zathay, Archdeacon of Zvolen last year according to his request,
+                            although he hears that the previous guest has not moved out yet, even
+                            though he has another house in Trnava. So he asks him to have that house
+                            emptied and hand it over to Zathay in a state that he can already move
+                            in.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Prudentes et Circumspecti Domini, Amici Honorandi, salutem!</p>
+                <p>[1.] Quoniam maiestas regia, dominus noster clementissimus lectoratum ecclesiae
+                        Strigoniensis<note type="critic">See Ep. 745., Ep. 750., and Ep.
+                        751.</note><ref>/o:olahus.tei.15500902_1</ref><ref>/o:olahus.tei.15501023_1</ref><ref>/o:olahus.tei.15501110_1</ref>
+                    venerabili magistro <persName>Anthonio Wrantio</persName><note type="critic"
+                        >Antal Verancsics.</note> praeposito contulit, et domo idem beneficium istic
+                    carere dicitur, itaque vos tamquam amicos rogamus, ut ex duabus domibus per
+                    mortem olim archidiaconorum Neugradiensis et Honthensis vacantibus alteram, quae
+                    commodior est, ipsi Wrantio lectori intuitu nostrae amicitiae dare et conferre
+                    velitis, ne domo istic inter vos in capitulo primaria persona existens careat.
+                    Hoc si feceritis, in maioribus vobis rependemus, et ipse Wrantius lector idipsum
+                    apud nos in vestris negotiis promovendis cumulate referre studebit.</p>
+                <p>[2.] Ceterum gratiam habemus, quod anno superiori ad petitionem nostram et
+                    magistro <persName>Blasio Zanthai</persName><note type="critic">Balázs Zathay
+                        was Archdeacon of Zvolen between 1547 and 1562, see <hi rend="smallcap"
+                            >Kollányi</hi> 1900, 146.</note> archidiacono Zoliensi domum dederitis,
+                    sed quoniam eadem domus, ut intelligimus, adhuc nondum a priori hospite, qui
+                    alteram quoque domum ibidem habere dicitur, omnino libera est. Rogamus, ut etiam
+                    eandem domum, cum semel magistro Blasio dederitis, <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>retis</orig>
+                        <supplied><corr>vacuam face</corr>retis</supplied>
+                    </choice> et sibi liberam et modis omnibus expeditam inhabitandam concedatis.
+                    Nec superiorem idem amplius vel nobis, vel etiam ipsi regiae maiestati
+                    supplicare cogatur. Valete feliciter.</p>
+                <p><placeName>Viennae</placeName> 17. Martii 1551.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Agriensis cancellarius regiae
+                            maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Prudentibus ac circumspectis dominis iudici ac iuratis civibus civitatis
+                    Tyrnaviensis etc. amicis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

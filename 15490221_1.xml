@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">711</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Prague, 21 February 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490221_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 10.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-02-21">21 February 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Prague, 21 February 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The last time they had the opportunity to talk with Nádasdy and Pál
+                            Várday about the oversight of the counties on this side of the Danube
+                            was at the last Bratislava diet. They are hurrying to the lords of the
+                            Chamber so he can get the money collected through the tax collectors to
+                            Nádasdy. Because the King now really needs all the money he can get, he
+                            asks Nádasdy not to find it difficult to have the taxes collected in the
+                            territories he oversees on this side of the Danube and give it to
+                            Wolfgang Kremer or Christoph Linck. Since they have the 10 denarii, he
+                            has written to the councillors of the Chamber to send the county
+                            register to Nádasdy.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Spectabilis et Magnifice Domine, et Amice nobis Observandissime, <choice>
+                        <orig>s<gap extent="1" reason="damage" unit="word"/>tem</orig>
+                        <supplied>s<corr>alu</corr>tem</supplied>
+                    </choice> et obsequiorum nostrorum commendationem! </p>
+                <p>Recordamur <choice>
+                        <orig>Sp<gap extent="unknown" reason="damage" unit="word"/>em</orig>
+                        <supplied>Sp<corr>ectabil</corr>em</supplied>
+                    </choice> et Magnificam Dominationem Vestram credimus eius subsidii, quod ex <choice>
+                        <orig>d<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>d<corr>uo</corr></supplied>
+                    </choice> denorum nummorum a dominis regnicolis et <choice>
+                        <orig>sta<gap extent="unknown" reason="damage" unit="word"/>bus</orig>
+                        <supplied>sta<corr>ti</corr>bus</supplied>
+                    </choice> in proxima congregatione Posoniensi<note type="critic">The diet began
+                        on 16 October, 1548.</note> nobis in <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>um</orig>
+                        <supplied><corr>…</corr>um</supplied>
+                    </choice> sustentationem proxime oblatum est. Tunc temporis fueramus (uti
+                    recordamur) super ea re unacum reverendissimo domino
+                        <persName>archiepiscopo</persName><note type="critic">Pál Várday.</note>
+                    etc. Spectabili Magnificae Dominationi Vestrae locuti, ut eadem huius nostri
+                    oblati subsidii, in comitatibus <choice>
+                        <orig>Cis<gap extent="unknown" reason="damage" unit="word"/>bium</orig>
+                        <supplied>Cis<corr>danu</corr>bium</supplied>
+                    </choice> habitis curam diligentem gerere. Servitii <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>in</corr></supplied>
+                    </choice> intuitu vellet, et dominos similiter camerarios <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>ramus</orig>
+                        <supplied><corr>prope</corr>ramus</supplied>
+                    </choice>, quo per dicatores taxam denorum <choice>
+                        <orig>n<gap extent="unknown" reason="damage" unit="word"/>morum</orig>
+                        <supplied>n<corr>um</corr>morum</supplied>
+                    </choice> manibus Spectabilis Magnificae Dominationis Vestrae suo tempore <choice>
+                        <orig>f<gap extent="unknown" reason="damage" unit="word"/>liter</orig>
+                        <supplied>f<corr>ide</corr>liter</supplied>
+                    </choice> administrari curarent. Nam nobis circa regiam maiestatem <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>tibus</orig>
+                        <supplied><corr>praesen</corr>tibus</supplied>
+                    </choice> magnis sumptibus opus est, proinde iterum <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>umque</orig>
+                        <supplied><corr>iter</corr>umque</supplied>
+                    </choice> petimus Dominationem Vestram Magnificam, ne gravetur intuitu amicitiae
+                    nostrae et servitiorum praedictum subsidium in vicinis sibi comitatibus,
+                    Cisdanubium habitis diligenter et absque defectu aliquali exigi facere,
+                    exactumque secundum registrum dicatorum et ad manus suas acceptum aut ad nos
+                    nacta commoditate ubicumque Dei voluntate erimus mittere, aut si id fieri non
+                    posset, ad manus sive <persName>Kremmer</persName>,<note type="critic">Wolfgang
+                        Kremer.</note> sive <persName>Lynk</persName><note type="critic">Christoph
+                        Linck was a <hi rend="italic">factor</hi> in Vienna and Steward, see <hi
+                            rend="smallcap">Sarusi Kiss</hi> 2009; and <hi rend="smallcap"
+                            >Gecsényi</hi> 2010, 15.</note>
+                    <placeName>Viennae</placeName> assignari facere, qui nobis illud facile
+                    administrabunt. Quo vero haec decem nummorum pecunia rectius et sine damno exigi
+                    possit, scripsimus ad dominos consiliarios camerae, ut regestrum comitatuum, ex
+                    quibus deni illi nummi exigi debebant, ad Spectabilem Magnificam Dominationem
+                    Vestram mittant. Quod illos facere non diffidimus. Quicquid studii ac
+                    diligentiae hac in re eadem nobis praestiterit, nos idipsum omni genere
+                    amicitiae, et obsequiorum <milestone unit="pb"/>promereri apud Spectabilem
+                    Magnificam Dominationem Vestram studebimus, quam in reliquo optamus
+                    val&lt;ere&gt; felicissimam.</p>
+                <p><placeName>Pragae</placeName> 21. Februarii anno Domini 1549.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Frater et servitor Agriensis etc. manu
+                            propria.</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino Thomae de Nadasd comiti perpetuo terrae
+                    Fogaras iudici curiae et consiliario regiae maiestatis etc. ac supremo regni
+                    Hungariae capitaneo etc. domino et amico observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">469</title>
+                <title type="main">Miklós Oláh to Johan Weze (Brussels, 10 March 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340310_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 474.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >550–551.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-03-10">10 March 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Johan Weze</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Johan Weze (Brussels, 10 March 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He thanks him for the information. Oláh has already informed Weze about
+                            the legates’ return, for whose affairs there was not enough time. The
+                            Queen is sending a secretary for the election of the Danish King. The
+                            events in Württenberg have saddened him, and he fears that Lodovico
+                            Gritti’s slowness will end in disappointment.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem archiepiscopo Lundensi oratori Caroli caesaris. </p>
+                <p>Accepi his diebus tuas litteras XX. mensis Aprilis datas,<note
+                        type="critic">Probably on 20 April, 1533. We do not know this letter.</note>
+                    habeo gratias tibi cumulatissimas, quod de omnibus, quas in hunc diem
+                    speravimus, et acta sunt, certiorem me reddideris. Fac hoc et deinceps. De
+                    reditu oratorum<note type="critic">On the legates see Ep.
+                        449.</note><ref>/o:olahus.tei.15340208_1</ref> ex
+                        <placeName>Hamburga</placeName> et eorum tractatibus feci<note type="critic"
+                        >Ep. 456.</note><ref>/o:olahus.tei.15340217_2</ref> te proximis meis
+                    certiorem; hoc unum ex corde doleo, non datum eis esse tempus et occasionem, ut
+                    in rebus tuis aliquid aut tractare aut finire possent. Sed hae fortasse ex Dei
+                    voluntate reservatae sunt ad tempus magis opportunum. In
+                        <placeName>Daniam</placeName> misit <persName>regina</persName> secretarium
+                    quendam, ut animos illorum praeparet in electionem <milestone unit="pb"/>regis pro favore imperatoris. Ad festum sancti Ioannis Baptistae<note
+                        type="critic">24 June.</note> fiet electio. Mittentur hinc ad eum diem et
+                    alii potiores. Utinam ille sit futurus rex, de quo scribis. Nihil esset dubii in
+                    rebus tuis. </p>
+                <p>De rebus Virtenbergensibus cum summo animi mei dolore audivi.
+                        <persName>Rex</persName> curare debet, ut victor evadat. Nam si aliter alea
+                    fortunae, quod Deus longe avertat, ceciderit, turbabitur aestimatio regis et res
+                    Hungarica. Vereor, ne <persName>Griti</persName><note type="critic">Lodovico
+                        Gritti.</note> tarditas aliquid mali afferat et timeo, ne rex et nos omnes
+                    fallamur. Litteras <persName>Cornelii</persName><note type="critic">Cornelis de
+                        Schepper.</note> misi ad <persName>uxorem</persName>,<note type="critic"
+                        >Anna Isabella (Elizabeth) Donche.</note> nunc remitto illius ad eum. Rogo
+                    te, ut de rebus, ut istic processerint et ut transigentur, et an veniat
+                        <persName>Griti</persName>, facias me certiorem. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 10. Martii 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

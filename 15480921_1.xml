@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">694</title>
+                <title type="main">Miklós Oláh to Mihály Mérey (Vienna, 21 September 1548)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15480921_1</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>SNA</institution>
+                        <repository>SAR Korešpond. číslo 91. Fasc VI.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">28a.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1548-09-21">21 September 1548</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Mihály Mérey</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Mihály Mérey (Vienna, 21 September 1548)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Oláh has understood Mihály Mérey’s case from his letter. Menyhárt Balassa
+                            is already here, and Péter Pálffy is on his way, and as soon as he
+                            arrives, the King will deal with their case. As to the matter of the
+                            Forgách brothers, Mérey should know that Oláh is labouring on making
+                            sure the freedom of the homeland is preserved. As soon as the King asks
+                            to see the Forgách brothers, they should set out on their way; the King
+                            will look out for the interests of both the Forgách brothers and
+                            Wolfgang von Puchheim, as Ferenc Révay has informed him in writing. Then
+                            again, he does not believe that the King will do anything against the
+                            homeland and their freedom, as long as the Forgách brothers appear when
+                            called.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Egregie Domine et Amice nobis Honorande,<note type="critic">Mihály
+                        Mérey (†1572) was a jurist, Royal Councilor, and Chief Justice <hi
+                            rend="italic">(personalis praesentiae regiae in iudiciis
+                            locumtenens)</hi> between 1544 and 1562. He was Deputy Palatine <hi
+                            rend="italic">(vicepalatinus)</hi> from 1563 until his death.</note>
+                    salutem et nostri commendationem!</p>
+                <p>Negotium, de quo nobis Dominatio Vestra scripsit, ex litteris eiusdem
+                    abunde cognovimus. Dominus <persName>Balassa</persName><note type="critic"
+                        >Menyhárt Balassa.</note> iam hic est, et dominus <persName>Petrus
+                        Palffy</persName><note type="critic">Péter Pálffy (†1568) was a member of
+                        the noble Hungarian Pálffy family. On the conflict between him and Balassa
+                        regarding the castle of Čabraď, see <hi rend="smallcap">Virovecz</hi> 2015,
+                        especially 36–39.</note> quoque adventurus est, qui ubi advenerit,
+                        <persName>regia maiestas</persName>, dominus noster clementissimus negotii
+                    ipsius curam est habitura. Tamen Dominatio quoque Vestra ad eius transactionem
+                    adhuc commode advenire poterit. </p>
+                <p>Quod autem Dominatio Vestra in negotio <persName>dominorum
+                        Forgachiorum</persName><note type="critic">Zsigmond and László Forgách, see
+                        Ep. 688.</note><ref>/o:olahus.tei.15480915_1</ref> scribit, sciat Dominatio
+                    Vestra, quantum in nobis est, nos curaturos, quo libertas patriae nostrae et
+                    nostra observetur. Propterea si <persName>regia maiestas</persName> eos ad se
+                    venire iusserit, et litteras suae maiestatis viderint, statim ad suam maiestatem
+                    venire festinent, et sua maiestas tam negotiorum eorundem, quam <persName>domini
+                        de Pwcham</persName><note type="critic">Wolfgang von Puchheim.</note> curam
+                    est habitura, et bono modo transactura, et compositura, scripserat autem hoc
+                    eodem in negotio nobis dominus <persName>Reway</persName><note type="critic"
+                        >Ferenc Révay.</note> quoque. Cum tamen arbitremur suam dominationem istinc
+                    domum iam profectam esse, non existimavimus opus esse quicquam hac de re eidem
+                    scribere, si quid tamen eidem necessum fuerit, Dominatio Vestra eidem per
+                    litteras suas hoc modo poterit, quo perscripsimus, istud negotium dominorum
+                    Forgachorum significare. </p>
+                <p>Dominationem Vestram bene valere optamus.</p>
+                <p>Datum <placeName>Viennae</placeName> 21. die Septembris 1548.</p>
+                <p>Non arbitror maiestatem regiam, dominum nostrum clementissimum aliquid
+                    contra libertatem nostram et patriae nostrae facturam, quando domini
+                        <persName>Forgachii</persName> ad vocationem et mandatum suae maiestatis
+                    comparuerint, maiestas sua id faciet, uti credimus, quod iustum et e libertate
+                    nostra erit.</p>
+                <p>
+                    <seg type="signature">Nicolaus Olahus etc. cancellarius regiae maiestatis etc.
+                        manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Egregio domino Michaeli de Mere, personali praesentiae regiae
+                    maiestatis locumtenenti etc. domino et amico nobis honorando.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

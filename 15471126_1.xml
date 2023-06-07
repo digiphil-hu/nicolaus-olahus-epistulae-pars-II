@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">679</title>
+                <title type="main">Miklós Oláh to Ferenc Révay (Augsburg, 26 November 1547)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15471126_1</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>SNA</institution>
+                        <repository>SRA Korešpond. číslo 71.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">376.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1547-11-26">26 November 1547</date>
+                <placeName>Augsburg</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Révay</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Révay (Augsburg, 26 November 1547)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Ferenc Révay will learn from the letter written by the King what he has
+                            decided in Lajos Pekry’s case. Oláh has received Révay’s letter
+                            regarding the estates in Holíč and elsewhere, and he will talk to the
+                            King as soon as he can. They will make a decision about Révay’s affairs
+                            at the Trnava assembly. The Provost of Nagykapornak did well to give the
+                            40 florins to Révay, he should hand it over to Wolfgang Kremer without
+                            delay, who will get it to Oláh.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem et obsequiorum meorum commendationem, Magnifice Domine mihi
+                    Observandissime!</p>
+                <p>In negotio domini <persName>Pekry</persName><note type="critic">Lajos
+                        Pekry.</note> quid sua maiestas deliberaverit, Dominatio Vestra ex suae
+                    maiestatis litteris cognoscet. In negotio <placeName>Holycz</placeName> et
+                    aliorum bonorum ad maiestatem regiam devolutorum ea ipsa hora, qua has expedivi,
+                    accepi litteras Dominationis Vestrae, de quibus nondum maiestati suae loqui
+                    potui. Loquar tamen cumprimum enim erit et opportunitas, ac quicquid responsi
+                    habuero, faciam Dominationem Vestram certiorem. </p>
+                <p>In dieta Thirnaviensi concludant Dominationis Vestrae omnia ex animi <del
+                        corresp="Olahus">rei se</del> regii sententia et quae erunt omnibus nobis
+                    utilia atque commoda. Quod frater <persName>praepositi de Capornak</persName>
+                    pecunias 40 Florenorum iamdiu debitas ad manus Dominationis Vestrae dederit,
+                    bene fecit. Det eas Dominatio Vestra manibus <persName>Wolffgangi
+                        Cremer</persName><note type="critic">Wolfgang Kremer.</note> sine mora, ipse
+                    illas hic mihi curabit reddendas.</p>
+                <p>De conclusione huius dietae nihil adhuc certi scribere possum. Dominatio Vestra
+                    feliciter valeat.</p>
+                <p>Ex <placeName>Augusta Vindelicorum</placeName> 26. Novembris 1547.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Zagrabiensis cancellarius regiae
+                        maiestatis etc. cita manu</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Ad manus domini Francisci de Rewa locumtenentem palatinalis et comitis de
+                    Thwrocz, consiliarii regiae maiestatis etc. domini et amici observandissimi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">792</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Fronleiten, 15 November
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15511115_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 60. Konv. C.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">34.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-11-15">15 November 1551</date>
+                <placeName>Fronleiten</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Fronleiten, 15 November
+                    1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is sending him Giovanni Battista Castaldo’s letter of 7 November,
+                            from which he will learn that their army attacked Lipova on 4 November
+                            and occupied it, and they slayed down 2,000 of the 3,000 Turks Sokollu
+                            Mehmed Pasha had left to defend it, the rest retreated to the castle of
+                            Lipova with the rest of the sanjaks; there is great hope for destroying
+                            all of the Pasha’s army. 2. So now things may turn to the glory of not
+                            only Hungary but that of all of Christian Europe. He is trying to keep
+                            Oláh updated, who should inform Ferenc Újlaki, Pál Bornemissza, and the
+                            rest of the Hungarian councillors.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissime Devote Fidelis nobis Dilecte!</p>
+                <p>[1.] Transmittimus Devotioni Tuae exemplum litterarum, quas
+                    consiliarius noster et serenissimi principis domini
+                        <persName>Maximiliani</persName> regis Bohemiae etc. filii nostri carissimi
+                    bellicus locumtenens, <persName>Iohannes Baptesta Castaldus</persName><note
+                        type="critic">Giovanni Battista Castaldo.</note> ex castris ad
+                        <placeName>Lippam</placeName> positis die septima praesentis mensis
+                    Novembris ad nos dedit,<note type="critic">We only know a letter from 9
+                        November, 1551, see ÖStA HHStA UA AA Fasc. 60. Konv. C. 1551. XI. fol.
+                        22–23.</note> ex quibus Devotio Tua intelliget, quod ex singulari <add
+                        corresp="scriba" type="insert">quadam</add> gratia <del corresp="scriba">qua
+                        nos</del>
+                    <del corresp="scriba">omnipotens</del><add corresp="scriba" type="corr"
+                        >omnipotentis</add> ac <del corresp="scriba">aeternus</del><add
+                        corresp="scriba" type="corr">aeterni</add>
+                    <del corresp="scriba">Deus prosequetur</del><add corresp="scriba" type="corr"
+                        >Dei</add> exercitus noster ipsam civitatem <placeName>Lippam</placeName>
+                    <del corresp="scriba">fortiter</del> die 4. praesentis <del corresp="scriba"
+                        >firmiter for</del><add corresp="scriba" type="corr">mensis</add> tormentis
+                    bellicis conquassatam fortiter ingressus coeperit, ibidemque ex tribus millibus
+                    Turcarum selectorum ex universo exercitu <del corresp="scriba">Turcico
+                        Beglerbegi</del><add corresp="scriba" type="corr">et
+                            <persName>Beglergbego</persName>,<note type="critic">Sokollu Mehmed
+                            Pasha.</note> quos ad praesidium ac custodiam civitatis reliquerat, quos
+                        ad praesidium ac custodiam civitatis reliquerat</add>, circiter duo millia
+                    trucidaverunt, <del corresp="scriba">reliquis</del><add corresp="scriba"
+                        type="corr">reliquos</add> vero <add corresp="scriba" type="insert"
+                        >Turcos</add> cum suo <persName>sanziacko</persName> in arcem, quae ibi est,
+                    sese recepisset <del corresp="scriba"><add corresp="scriba" type="insert"
+                            >sesecumque</add></del>, magnamque <del corresp="scriba">tamen</del>
+                    esse spem non solum hos, qui in arcem illam profugerunt, verum reliquum etiam
+                        <add corresp="scriba" type="insert">totum</add> ipsius
+                        <persName>Baglerbegi</persName> exercitum <del corresp="scriba">Deo</del>
+                    eodem Deo optimo maximo propitio funditus <add corresp="scriba" type="insert"
+                        >brevi admodum tempore</add> oppressum iri. </p>
+                <p>[2.] Quae cum ita se habeant, <add corresp="scriba" type="insert">et
+                        non modo ad nostram regnique nostri Hungariae totiusque reipublicae
+                        Christianiae salutem et incrementum, sed autem ad gloriam ac laudem Dei
+                        pertinere videantur</add>. Nos sane Devotionem Tuam pro nostra in eandem
+                    clementia celare minime potuimus, ut non solum Devotio Tua de istis rebus
+                    certior <del corresp="scriba">reddatur</del> redducatur, sed eadem <add
+                        corresp="scriba" type="insert">per Devotionem Tuam</add> locumtenenti quoque
+                    nostro regni nostri Hungariae <del corresp="scriba">episcopo</del>
+                    <persName>Iauriensi</persName><note type="critic">Ferenc Újlaki.</note> ac
+                        <persName>Vesprimiensi</persName><note type="critic">Pál Bornemissza.</note>
+                    episcopis ceterisque consiliariis nostris Hungaricis <add corresp="scriba"
+                        type="insert">facta et illis litterarum illarum copia</add> communicarentur.
+                    Quare Devotio Tua una cum illis eidem <add corresp="scriba" type="insert"
+                        >etiam</add> omnipotenti Domino, cuius auspiciis res haec est feliciter
+                        conscripta<note type="critic">Uncertain reading.</note> dignas gratias agere
+                        <del corresp="scriba">debebant</del> priumquam laudis sacrificium celebrare
+                    debebit, quo is huiusmodi gratiarum actione et laudibus clementer
+                        attentis<milestone unit="pb"/>posthac etiam nobis <del corresp="scriba"
+                        >eandem gratiam suam</del> regnisque <del corresp="scriba">nostris
+                        Hungariae</del> ac dominiciis nostris et universae reipublicae Christianae
+                        <del corresp="scriba">adesse</del> propitius adesse <add corresp="scriba"
+                        type="insert">coeptumque opus ad felicem finem suique nominis sempiternam
+                        gloriam deducere</add> non dedigneretur, prout Devotionem Tuam facturam esse
+                        <del corresp="scriba">minimi</del><add corresp="scriba" type="corr"
+                        >minime</add> dubitamus. <del corresp="scriba">Et ista sancta</del></p>
+                <p>Datum in <placeName>Fronleik</placeName> die <del corresp="scriba"
+                        >16</del><add corresp="scriba" type="corr">15</add>. Novembris 1551.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Episcopo Agriensi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

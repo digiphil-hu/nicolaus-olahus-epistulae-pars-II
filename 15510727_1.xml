@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">775</title>
+                <title type="main">The Seven Mining Towns to Miklós Oláh (Banská Štiavnica, 27 July
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510727_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica</settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Kniha odpisov 1543-1556 Inv. 22.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p>
+                                            <note> </note>
+                                        </p>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-07-27">27 July 1551</date>
+                <placeName>Banská Štiavnica</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>The Seven Mining Towns</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">The Seven Mining Towns to Miklós Oláh (Banská Štiavnica, 27 July
+                    1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Oláh knows well that the Turks are already sitting here outside the Seven
+                            Mining Towns, which their envoys have already reported to the King on
+                            countless occasions. Unless the King sends them help, the Turks will
+                            undoubtedly conquer this treasure-house of the kingdom, so they place
+                            all their hope in Oláh and ask him to represent their interests.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, post servitiorum nostrorum humilem
+                    commendationem!</p>
+                <p>Scimus Dominationem Vestram Reverendissimam non ignorare, Turcam omni
+                    conatu planitiem sub hisce montanis devastare et hisce montanis civitatibus non
+                    solum inhiare, sed illarum faucibus iam insidere. Id quod non pridem per nuntios
+                    nostros sacrae <persName>regiae maiestati</persName>, domino nostro
+                    clementissimo et Dominationi Vestrae Reverendissimae abunde declarare curavimus.
+                    Quare nunc novissime in extremis periculis nostris scripto regiae maiestati,
+                    domino nostro clementissimo pro celerrimo praesidio supplicamus,<note
+                        type="critic">See the letter of the Seven Mining Towns’, Ep.
+                        768.</note><ref>/o:olahus.tei.15510421_1</ref> quod nisi maiestas sua sine
+                    aliqua procrastinatione nobis praestare dignabitur, sine dubio crudelissimus
+                    Christiani nominis hostis hunc regni thesaurum pro neglecto et derelicto sine
+                    aliquo obstaculo occupabit, de quo coram sua maiestate regia et Dominatione
+                    Vestra Reverendissima protestatum esse volumus. Omnis autem spes nostra secundum
+                    Deum in Dominatione Vestra Reverendissima nobis sita est. Quae ut nos
+                    intercessione sua paterna apud regiam maiestatem, dominum nostrum clementissimum
+                    iuvare dignetur humilliter eidem supplicamus, quam Deus altissimus quam
+                    diutissime incolumem conservare dignetur.</p>
+                <p>Datum <placeName>Sebnicii</placeName> ex congregatione nostra 27. Iulii
+                    anno <choice>
+                        <orig>1551<hi rend="super">to</hi></orig>
+                        <supplied>1551<hi rend="super">o</hi></supplied>
+                    </choice>.</p>
+                <p> Reverendissimae Dominationis Vestrae fideles servitores</p>
+                <p>nobiles iudices et iurati cives universaeque communitatis septem
+                    civitatum montanarum </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Reverendissimo domino, domino Nicolao Olaho episcopo ecclesiae
+                    Agriensis regni Hungariae supremo cancellario domino et patrono gratiosissimo.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

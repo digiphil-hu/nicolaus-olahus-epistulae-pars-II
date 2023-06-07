@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">582</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh ([Leuven], [March] 1537)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15370000_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. Dating based on
+                            <hi rend="smallcap">Polet</hi> 1936, 254.</p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 595–597.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 180–182.</p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 254. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >316–319.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1537-03">[March] 1537</date>
+                <placeName>[Leuven]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh ([Leuven], [March] 1537)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. There is such trust now between them that he can share funny things,
+                            not just serious ones. This morning he was waiting for the cart in vain,
+                            so he left on foot with his lad. But the lad had drunk with the
+                            courtiers the night before and kept it a secret. When they reached the
+                            first milestone, the boy lay down on the ground, threw off the pack, and
+                            no matter how hard Nanninck was shouting at him, he did not respond, and
+                            then made what was going on obvious by throwing up. Nanninck told him
+                            off, then took on the load, and they continued on their way; the boy
+                            kept stumbling and vomiting. Then they met a strong courier from
+                            Westphalia, whom Nanninck could transfer the load to; now Oláh can
+                            laugh. 2. He has arrived to Rutger Ressen, who has already been busy
+                            with the printing house: Oláh will soon receive his volume, in a small
+                            format, as requested. They have read the poems again, and Ressen is very
+                            happy that he is the one to publish it. The only place where they are
+                            stuck is the word τὸ, if Oláh wants to change it, he should let them
+                            know, and they suggest another small change in terms of conjugation.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Petrus Nannius Nicolao Olao salutem plurimam. </p>
+                <p>[1.] Audi, Doctissime Olahe, quod rideas, eo enim iam fiduciae
+                    progressus sum, ut non seria modo, sed et iocos tecum miscere audeo. Inest enim
+                    in moribus tuis et vultu maiestas, non horror, ita, ut qui ad tua colloquia
+                    venit, veneretur te, non timeat. Cum mane currum quaesissem, et usque ad
+                    septimam horam auriga me ludificatus fuisset, metuens, ne profectio mea usque ad
+                    merediem extrahetur, pedibus iter ingressus sum cum puero meo, qui pridie apud
+                    aulicos ministros plus satis potaverat atque hanc suam ebrietatem mira vafricie
+                    dissimulaverat. Cum <milestone unit="pb"/>processum esset ad primum ab urbe
+                    lapidem, puer subito defectus in viam se abiicit sarcina, quae illi imposita
+                    fuerat, in lutum provolvitur. Consternor animo ad subitam rem, rogo ecquid mali,
+                    puer nihil respondet, ceterum dubitantem me de genere mali vomitus subsecutus
+                    certiorem reddit, ibi ego οἷα ἦν εἰκὸς ἐργάζομαι<note type="critic">‘I do what
+                        is natural to do in cases like this’.</note> nec a minis, nec a conviciis
+                    tempero, sed frustra omnia, puer enim vix ad ingressum sufficiebat, mox enim ubi
+                    illum onerassem sarcina, cum onere subsidit, ibi ego: “Egone te, si vivo, ubi
+                    domum venero, mastigia senties, qui vir sim!” Ille autem et tacet et iacet. Cum
+                    nihil aliud consilii erat, Nannius tuus sarcinam in humeros suos transfert, pius
+                    admodum, pientior tamen futurus, si una puerum in scapulis quasi Christophorus
+                    aliquis gessasset, nam eo etiam opus erat. Quid multa? Fit <quote>bos
+                        clitellatus,</quote><note type="quote">Erasm. <hi rend="italic">Adag.</hi>
+                        1884. II,IX,84. Non nostrum onus, bos clitellas?</note> quamque nec
+                    itineribus, nec oneribus gestandis admodum aptus, gressumque puer comitatur
+                    herilem, sed, ut inquit ille, non passibus aequis, subinde adhuc titubat et ex
+                    imbecillitate et ex <del corresp="editor">in</del> reliquiis Bacchi, nondum enim
+                    per noctem crapulam decoxerat. Quid putas? Imprecor tot diras ministro tam male
+                    sobrio, ut putem <hi rend="italic">Ibim</hi> Ovidianam non plures continere. Tu
+                    rides, scio, et ego quoque nunc rideo, sed, mehercule, tunc non ridebam. </p>
+                <p>Cum iam plurimum itineris emensus fuissem, subito ex tanta tempestate
+                    fit serenitas, supervenit nobis ad extremum delassatus Westphalus quidam
+                    tabellarius tam robustus, ut pro basi colossis multis substerni possit, nec
+                    tamen prae lassitudine unquam latus moturus, ut Typhoeus illi, cui Sicilia
+                    incumbit, et cuius laeva est subiecta Peloro. In hunc onera omnia transfero, et
+                    meum et pueri pallium, et gladios utriusque, nam ei fatigatis, graves <del
+                        corresp="Olahus">esset</del><add corresp="Olahus" type="corr">esse</add>
+                    coeperant. Hactenus, quod rideas, nunc ad res tuas. </p>
+                <p>[2.] Hora secunda <milestone unit="pb"/>ad <persName>Rutgerum</persName><note type="critic">Rutger
+                        Ressen.</note> accessi, invenio illum nostris votis paratissimum, nulla
+                    excusatio de prelo occupato, vel de angustia temporis. Exspectabis igitur brevi
+                    libellum tuum<note type="critic"><hi rend="italic">D. Erasmi Rot. Epitaphia, per
+                            Clarissimos aliquot Viros conscripta</hi>, Lovanii apud Rutgerum
+                        Rescium, Martii 1537.</note> eis typis excusum, quibus volebas, addidi
+                    praeterea, quasi id in mandatis haberem, ut in parva forma imprimeret, ita enim
+                    te velle arbitror. Ibi cum eram, statim tuum carmen cum Rutgero iterum atque
+                    iterum relegi, placuit mire Rutgero gaudebatque et se impressorem et te eius
+                    carminis authorem esse, nec dubitat, quin tibi ea res et <choice>
+                        <orig>amplissimi</orig>
+                        <supplied>amplissimo</supplied>
+                    </choice> honori et sibi non exiguo emolumento futura sit. Ego summopere
+                    gaudebam me in iudicio non errasse, et ut nunc Rutgerum, ita omnes spero me,
+                    quicumque unquam legerit ὁμοψήφους<note type="critic">‘of the same
+                        opinion’.</note> habiturum. Inter legendum haesimus ad verbum τὸ<note
+                        type="critic">‘the’ [neutral article denoting the following word].</note>
+                    filent, quod mihi suspectum, Rutgero probum putumque videtur. Rogo, Domine, ut
+                    si quid de hoc vocabulo legeris, mihi significes; ego enim tibi omnia etiam tuta
+                    timeo, satis temporis est ad respondendum, nam ad decem dies iter suum Rutgerus
+                    suspendit, satis tamen mature nundinis Francfordiensibus occursurus. Illud
+                    deinde carmen, quod incredibilis est et acuminis et festivitatis: “non <choice>
+                        <orig>desiderium</orig>
+                        <supplied>desiderio</supplied>
+                    </choice>, sed fato est functus Erasmus”,<note type="critic">See Oláh’s poem,
+                            <hi rend="smallcap">Ipolyi</hi> 1875, 585. Cf. <hi rend="smallcap"
+                            >Neagu</hi> 2003, 350.</note> non nihil attinit Rutgerum, mallet
+                    “desiderium” poni, in accusativo casu, ut et animi cupiditati et cognomento
+                    Erasmi conveniret, nunc ob neutrum genus non convenire Erasmi cognominibus, ut
+                    autem intelligeres, quid velim, sic non nihil carmen immutavi. “Non desiderium,
+                    sed mors exstinxit Erasmum.” Tu quid placeat, per hunc <persName>Adrianum
+                        Stadium</persName>,<note type="critic">We do not know him more
+                        closely.</note> qui in coenobio ad Sanctam Claram hospitatur, rescribere
+                    potes. Nos audaciores sumus in rebus tuis, <milestone unit="pb"/>sed ita suadet verus et ingenuus in te amor. Epistola
+                        <persName>Dani</persName><note type="critic">Jakob Jespersen.</note> nunc
+                    melius placet, sentio enim non omnino esse ipsius pectoris et illi egregium
+                    Thesea adfuisse. Vale, Optime et Eruditissime omnium doctorum Patrone. </p>
+                <p>Eodem die, quo <placeName>Bruxellas</placeName> reliqui, 1537. </p>
+                <p>Mitto tibi duos libellos Graecos epistolarum.
+                        <persName>Rutgerus</persName> tibi de eleganti munusculo tuo multas agit
+                    gratias.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

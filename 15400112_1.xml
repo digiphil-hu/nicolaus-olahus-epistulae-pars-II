@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">611</title>
+                <title type="main">Miklós Oláh to János Zomor (Vienna, 12 January 1540)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15400112_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature. Seal has broken
+                            down.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Commendatione Olahi.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica</settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Missiles 1540.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1540-01-12">12 January 1540</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>János Zomor</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to János Zomor (Vienna, 12 January 1540)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The citizens of Kremnica and the other mining towns have to hold an
+                            inquiry into their own affairs and continue it. He believes Szomori
+                            remembers when Oláh talked about this with Szalay in Bratislava, and he
+                            asked him to take care of it; then it seemed that he was favorably
+                            disposed towards it. He asks him to support those Kremnica citizens and
+                            other subjects of the Queen who look him up, and they will not be
+                            ungrateful; he will mention Szomori to the Queen in return. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem plurimam et mei commendationem, Egregie Domine et Amice
+                        Honorandissime!<note type="critic">János Zomor or Szomori (†1570) was Royal
+                        attorney general (<hi rend="italic">director causarum</hi>) between 1542 and
+                        1562, and he became <hi rend="italic">personalis</hi> between 1562 and 1570,
+                        see <hi rend="smallcap">Fazekas</hi> 2021, 159; <hi rend="smallcap"
+                            >Fallenbüchl</hi> 1988, 143.</note></p>
+                <p>Cives Cremnicenses et aliarum civitatum montanarum serenissimae dominae
+                        <persName>reginae</persName> meae habebunt, ut ego arbitror, in proximis
+                    iudiciis quibusdam causis suis invigilare easque prosequi. Arbitror Dominationem
+                    Vestram memoria tenere, me <placeName>Posonii</placeName> cum domino nostro
+                        <persName>Ioanne Zalay</persName><note type="critic">János Szalay.</note>
+                    comite Posoniensi etc. fuisse hac in re locutum et Dominationem etiam Vestram
+                    rogasse, ut quatenus cum honore suo fore id posset, vellet et maiestatis
+                    reginalis et subditorum ipsius, si quae emergerent, negotia suscipere eorumque
+                    curam habere. Tam <persName>dominus noster comes Posoniensis</persName>, quam
+                    Dominatio Vestra fuerunt ad meam hanc petitionem tunc benevoli. Rogo igitur
+                    eandem, ut si aut Cremnisienses, aut alii cives et subditi maiestatis reginalis
+                    Dominationem Vestram requisiverint, velit eorum patrocinium suscipere, qui non
+                    erunt ei ingrati. Dum autem ego ad <persName>maiestatem reginalem</persName>
+                    salvus, ut in Dei spero clementia, pervenero, sicuti <persName>domino
+                        comiti</persName> fueram locutus, faciam suae maiestati de vobis mentionem.
+                    Dominatio Vestra valeat feliciter, quae commendet servitia mea domino comiti. </p>
+                <p><placeName>Viennae</placeName> 12. Ianuarii anno 1540. </p>
+                <p>
+                    <seg type="signature">Vester Nicolaus Olahus custos Albensis secretarius et
+                        consiliarius regius etc. sua manu</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Egregio domino Ioanni Somory vicemagistro tavernicorum regiorum etc.
+                    domino et amico honorandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

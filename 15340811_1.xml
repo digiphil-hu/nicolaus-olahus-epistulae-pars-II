@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">502</title>
+                <title type="main">Miklós Oláh to János Szalay (Ghent, 11 August 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340811_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 520.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">552.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-08-17">17 August 1534</date>
+                <placeName>Ghent </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>János Szalay</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to János Szalay (Ghent, 11 August 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Nothing has happened in the last three years about which he could have
+                            written to Szalay. He sends his apologies if he is mistaken, in any case
+                            his attitude to Szalay has not changed: he hopes that both Szalay,
+                            István Majláth, and the rest of their friends are well. He is sending
+                            his regards to the man who has returned home to Buda from Rome, and he
+                            warns Szalay to be careful with the Turks, he should mind his head.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Ioannem Zalay comitem Posoniensem. </p>
+                <p>Annis his tribus nihil fuit, de quo hic ad te scribere potuissem.<note
+                        type="critic">The last time Oláh wrote a letter to Szalay that we know of
+                        was on 10 December, 1530. See Ep.
+                        128.<ref>/o:olahus.tei.15301210_2</ref></note> Si quid in hoc erravi,
+                    ignosce. Nam etiam tacens eo in te animo fui, quo antea semper. Cuperem et te et
+                    alios amicos nostros bene valere, et maxime <persName>Maylathum</persName>.<note
+                        type="critic">István Majláth.</note>
+                    <del corresp="Olahus">hominem</del><add corresp="Olahus" type="corr"
+                        >Hominem</add><note type="critic">Probably István Brodarics. He worked in
+                        Rome as a diplomat between 1522 and 1525, then he returned home and settled
+                        down in Buda. His homecoming was connected to his appointment to Royal
+                        Chancellor, see <hi rend="smallcap">Kasza</hi> 2015, 52–70.</note> illum
+                    nostrum, qui cum monacho olim ex <placeName>Urbe</placeName>
+                    <placeName>Budam</placeName> venerat, saluta meo nomine et roga dicque ei, ut
+                    caveat sibi ab <choice>
+                        <orig>albocupuciatis</orig>
+                        <supplied>albocapuciatis</supplied>
+                    </choice>.<note type="critic">I.e. Turks, see <hi rend="smallcap">Kasza</hi>
+                        2012, 478. In October 1534, Brodarics traveled to Oradea to continue the
+                        peace talks between King Ferdinand I and King John I, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 96–103; and <hi rend="smallcap"
+                            >Kasza</hi> 2012, 431–432.</note> Nihil carius sibi esse ducat capite
+                    suo, quod mihi quoque nisi carum esset, haec non subirem. De aliis meis scribam
+                    postea, cum tempus dabitur. Vale et me habe commendatum. </p>
+                <p><placeName>Gandavi</placeName> 17. Augusti 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

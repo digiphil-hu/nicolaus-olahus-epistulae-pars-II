@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">674</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Prague, 16 August 1547)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15470816_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 6.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1547-08-16">16 August 1547</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Prague, 16 August 1547)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He received Nádasdy’s letter from the Piešťany bath today, and he is
+                            sad to hear that the bath has not improved his wife’s health. He
+                            believes God will look after Orsolya Kanizsai’s health, only they should
+                            not lose faith, and God will heal her even without medical help. 2. As
+                            for the Czech affairs, the King is steadily exposing the participants of
+                            the conspiracy, the other day he proscribed Captain Pflug, confiscating
+                            everything he owned, he has nothing left, except for 16,000 florins and
+                            the gold he managed to take with him; he has fled to King Francis I, or
+                            according to others, to the Emperor. The King has stripped all the towns
+                            that had joined the uprising of all their privileges, and he has called
+                            the next assembly for 24 August in Augsburg. 3. Nádasdy has surely heard
+                            that imperial legate Veltwijck returned from the Turks with a bogus
+                            ceasefire. He does not believe this ceasefire will help Hungary. Oláh is
+                            doing everything he can for Nádasdy, and he will continue to do so. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Spectabilis et Magnifice Domine, Domine mihi Observandissime!
+                    Servitiorum meorum commendationem! </p>
+                <p>[1.] Quas ad me Spectabilis Magnifica Dominatio Vestra ex thermis
+                        Pesthieniensibus<note type="critic">Pöstyén (today: Piešťany) had been
+                        famous for its medicinal springs since the Middle Ages. In 1549, Georg
+                        Werner also mentioned it in his book <hi rend="italic">About the Miraculous
+                            Waters of the Hungarian Monarchy</hi> (<hi rend="italic">De admirandis
+                            Hungariae aquis hypomnemation</hi>, Basel, 1551, C IIIrv.)</note> decima
+                    huius mensis dedit litteras, hodie mane sunt mihi redditae, quibus lectis magno
+                    sane sum affectus dolore, quod thermae illae ad sanitatem generosae et
+                    magnificae <persName>dominae</persName><note type="critic">Orsolya
+                        Kanizsai.</note> consortis Spectabilis Magnificae Dominationis Vestrae nihil
+                    contulerint, neque putassem eam ibi tamdiu perseveraturam. Ego <choice>
+                        <orig>fa<gap extent="unknown" reason="damage" unit="word"/>le</orig>
+                        <supplied>fa<corr>ci</corr>le</supplied>
+                    </choice> crediderim Deum omnipotentem longe alia ratione sanitati ipsius
+                    dominae consortis Spectabilis Magnificae Dominationis Vestrae provisurum, novit
+                    ipse quando et quibus rebus opus habemus, modo tota fiducia nos illi dedamus,
+                    neque fallor nostram spem, cum bonae fidei promissor, et possit praestare, quod
+                    promisit, promisit autem temporalia bona, simul et aeterna omnibus quicumque
+                    ipsius opem implorarent. Non possum itaque non vehementer probare, quod
+                    Spectabilis Magnifica Dominatio Vestra salutem dominae coniugis suae Deo
+                    commiserit. Ipse, dubio procul, citra opem medicorum, si ad salutem ita
+                    expediet, eam salvam faciet; quod ut faciat piis votis, precor.</p>
+                <p>[2.] Quod ad res Bohemicas attinet: <persName>regia maiestas</persName>
+                    fontes et coniurationis nuperrimae authores sine intermissione castigat,
+                    proscripsit nuper <persName>Gasparum Phlug</persName><note type="critic">Kaspar
+                        Pflug von Rabstein (†1585) was <hi rend="italic">Oberster Feldhauptmann</hi>
+                        of the Lutheran Bohemians from 1547, for more on this revolt and his
+                        conviction, see <hi rend="smallcap">Hoensch</hi> 1997, 194–195.</note>
+                    capitaneum, universa eius bona, arces videlicet, civitatesque et reliqua
+                    occupata sunt regiae maesitati, solus relictis, ut aiunt, <milestone unit="pb"/>consorti suae, nam liberis caret, circiter sedecim milibus Florenorum,
+                    viatico centum millium aureorum, ac rerum aurearum, gemmarumque ad valorem
+                    quinquaginta millium Florenorum, fugit ad <persName>Gallum</persName>,<note
+                        type="critic">King Francis I.</note> quidam dicunt ad
+                        <persName>caesarem</persName>, sed hoc non videtur verisimile. Civitates
+                    omnes, quae consenserant coniurationi, libertate, privilegiis et armis
+                    tormentisque bellicis exuit sua maiestas. Constituit diem conventus festum beati
+                        Bartholomei<note type="critic">24 August.</note> proxime venturum, ut tunc
+                    in eos, qui nocentes deprehensi fuerint, iure animadvertat. Quid postea sua
+                    maiestas actura sit, tempus docebit. Opinio quorundam est suam maiestatem
+                    praefectis his concessuram ad conventum imperialem
+                        <placeName>Augustae</placeName> celebrandam.</p>
+                <p>[3.] Non dubito Spectabilem Magnificam Dominationem Vestram
+                    intellexisse <persName>Gerardum</persName><note type="critic">Gerard Veltwijck
+                        (ca. 1500–1555), Imperial Envoy, negotiated with Ottoman Sultan Suleyman I,
+                        see <hi rend="smallcap">Severi</hi> 2001.</note> oratorem caesaris a Turca
+                    spe simulatarum induciarum rediisse. Hinc proxime profectus est ad
+                        <persName>caesarem</persName>. Non video spem liberandae afflictae
+                    Hungariae, solae induciae sufficiunt ad perdendam eam.<note type="critic">On the
+                        conditions of the truce, see <hi rend="smallcap">Severi</hi> 2001,
+                        242–243.</note></p>
+                <p>Ego voluntati, vel verius praecepto Spectabilis Magnificae Dominationis
+                    Vestrae per omnem dolorem pedum meorum omnemque miseriam et incommoditates
+                    plurimas parebo, manebo hic, quamdiu potero. Et non solum hoc pro Spectabili
+                    Maginifica Dominatione Vestra libenter facerem, sed etiam per annum in carcere
+                    sederem, tantum mandato eius satisfierit, quantum enim ei debeam, vix ore
+                    proloqui possum, minus calamo depingere, <milestone unit="pb"/>nam huc quoque beneficio et liberalitate Spectabilis Magnificae
+                    Dominationis Vestrae nuper veni, et deinceps quoque aliquamdiu illa me
+                    sustentabo. Nunc alia nova nulla sunt, si quae erunt, per primam occasionem
+                    Spectabili Magnificae Dominationi Vestrae perscribam. Precor Iesum Christum, ut
+                    Spectabilem Magnificam Dominationem Vestram servet diu incolumem, dominamque
+                        <persName>coniugem</persName> suam restituat sanitati, cui me totum meaque
+                    studia et officia commendo et dedo. </p>
+                <p>Datum <placeName>Pragae</placeName> 16. Augusti 1547.</p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino meo, domino Thomae de Nadasd, comiti
+                    perpetuo terrae Fogaras, iudici curiae et consiliario regiae maiestatis etc.
+                    domino mihi observandissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

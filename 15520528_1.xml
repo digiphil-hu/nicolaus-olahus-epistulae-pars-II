@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">813</title>
+                <title type="main">András (Bonaventura) Báthori to Miklós Oláh (Nyírbátor, 28 May
+                    1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520528_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Latin copy of Báthori’s Hungarian letter. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                    <p>Copia litterarum Bathori manu sua Hungarice scriptarum.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖSta HHStA</institution>
+                        <repository>UA AA Fasc. 64. Konv. A. </repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">107.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-05-28">28 May 1552</date>
+                <placeName>Nyírbátor</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>András (Bonaventura) Báthori</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">András (Bonaventura) Báthori to Miklós Oláh (Nyírbátor, 28 May
+                    1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has arrived to Bátor, but his legs are very weak, and he cannot use
+                            the fingers on his right hand. He sent one of his men to Giovanni
+                            Battista Castaldo as soon as he arrived, although he had already sent
+                            another two of his men earlier in the matter of Gherla, but none of them
+                            have returned. Oláh should not keep Márton Udvarbíró back either because
+                            he does not have any other servants. 2. The King has entrusted the issue
+                            of religion to him, but he cannot satisfy so many parties. The people of
+                            Debrecen already had a false prophet before, and now they have welcomed
+                            master Márton Kálmáncsehi, who had been banished from Sátoraljaújhely;
+                            the vicar will report as to how these servants are behaving in Berehove.
+                            The priests have taken the things Péter Petrovics’s servants wanted to
+                            steal to Ecsed, everything is out of control. The King has told him to
+                            pay the official of Tășnad: he gave him more than he had received so
+                            far, but he is still dissatisfied and wants the whole income.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine et Amice nobis Observandissime, salutem et
+                    servitiorum commendationem! </p>
+                <p>[1.] Iam divino auxilio huc ad <placeName>Bathor</placeName> venimus,
+                    licet in tam difficili via valde sum attritus et vereor, ne propriis meis
+                    viribus etiam incedere nequeam, nam sum valde debilis pedibus et dexterae meae
+                    manus digitis non possum omnino uti, haec ut Domino Deo visa sunt, ita fiant.
+                    Quamprimum eo veni, statim hominem meum misi ad dominum
+                        <persName>Castaldo</persName>,<note type="critic">Giovanni Battista
+                        Castaldo.</note> tametsi antehac quoque duos e potioribus servitoribus meis
+                    in negotio arcis <placeName>Wywar</placeName><note type="critic">Szamosújvár,
+                        Gherla today. In 1552, King Ferdinand I appointed Báthori Voivode of
+                        Transylvania and gave him the castle of Gherla, see <hi rend="smallcap"
+                            >Szongott</hi> 1898, 4.</note> et aliarum quoque rerum causa ad eundem
+                    miserim, eorum tamen nullus adhuc inde rediit. <persName>Martinum
+                        Wdwarbyro</persName><note type="critic">Márton Udvarbíró, we do not know him
+                        more closely.</note> quoque desideratissime cum bono responso exspectarem,
+                    nam certe mihi nullus servitorum meorum supermanebit, tempus etiam esset
+                    ingrediendi Transsilvaniam. Dominationem Vestram Reverendissimam rogo, nolit
+                    ipsum retardare. </p>
+                <p>[2.] Commiserat mihi praeterea regia maiestas curam quoque religionis,
+                    sed impossibile est me tot partibus intentum esse. Debreczenienses quamvis
+                    antehac satis perversum habuerunt doctorem, nunc magistrum
+                        <persName>Martinum</persName><note type="critic">Márton Kálmáncsehi Sánta,
+                        see <hi rend="smallcap">Bölcskei</hi> 1988, 13 and Note. 38. See also Ep.
+                        826. and György Draskovich’s letter of 10 July, 1552, <hi rend="smallcap"
+                            >Bunyitay</hi> 1887, 398–399.</note><ref>/o:olahus.tei.15520710_1</ref>
+                    sacramentarium, qui ex <placeName>Nova Civitate</placeName><note type="critic"
+                        >Sátoraljaújhely.</note> pulsus erat, in medium ipsorum accersiverunt.
+                    Servitores quoque ipsius <persName>Pettrovyth</persName><note type="critic"
+                        >Péter Petrovics.</note> quomodo sese gerant in oppido
+                        <placeName>Bereghzaz</placeName>,<note type="critic">On 1 December, 1552
+                        Kálmáncsehi attended on the synod in Berehove.</note> poterit referre
+                    plebanus eiusdem loci. Monachi res suas, quas idem servitores
+                        <persName>Pettrovyt</persName> diripere volebant, ad arcem
+                        <placeName>Echet</placeName><note type="critic">The castle of Ecsed belonged
+                        to the Báthori family.</note> transtulerunt, denique hic ubique locorum
+                    regnat error iste, usque adeo, quod nec ego, nec alius quispiam secularium
+                    officialium huic malo succurrere possit, nisi episcopatibus praeficiantur
+                    episcopi, qui servitorum suorum medio his de rebus secundum officii ipsorum
+                    debitum curam habeant. Poterit haec Dominatio Vestra regiae quoque maiestati
+                    referre, ego huiusmodi malum, quod ubique hic regnat, praevenire non possum.
+                    Commiserat etiam <persName>regia maiestas</persName>, ut officiali Thasnadiensi
+                    competens salarium darem, ego illi plus offerebam, quam olim ab episcopis
+                    solvebatur, sed non est contentus, ut animadverto, potius totos proventus sibi
+                    optaret, et nomen solum, seu regia maiestas, seu alter quispiam obtineat. Misi
+                    Dominationi Vestrae cum aliis litteris meis regestum. Quare Dominatio Vestra et
+                    promissis meis et votis ipsius, hac quoque in re, a sua maiestate informationem
+                    accipiat. Dominationem Vestram bene valere optamus.</p>
+                <p>Ex <placeName>Bathor</placeName> 28. Maii anno Domini 1552.</p>
+                <p>
+                    <seg type="signature">Andreas de Bathor manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino Nicolao Olaho episcopo Agriensi, sacratissimae
+                    regiae maiestatis cancellario etc. domino et amico nobis observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

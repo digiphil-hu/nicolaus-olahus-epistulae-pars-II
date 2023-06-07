@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">815</title>
+                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 31 May 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520531_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 64. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">129–130.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-05-31">31 May 1552</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 31 May 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>King Ferdinand I no doubt remembers that in the matter of the
+                            Szentgotthárd abbey he ordered that the wives of lords Pyrrhus Arco,
+                            András (Bonaventura) Báthori, and Jaroslav von Pernstein should hand it
+                            over to a religious man of the church on the condition that the new
+                            abbot will first pay Niklas von Salm’s son 300 florins, then an amount
+                            set annually to maintain his education. However, Báthori and Pernstein
+                            have transferred the abbey to a presbyter without Margit Széchy’s
+                            knowledge. At the same time, she did the same with a religious man.
+                            Since there have been two donations and both parties have presented
+                            their case, Oláh has postponed the decision until King Ferdinand I
+                            returns, all the more so because the Salm boys are not present, either.
+                            Anyhow, he thinks Margit Széchy has the right to decide, since it is her
+                            paternal ancestors who founded the abbey, and the Thurzó girls only
+                            earned a say in this through their paternal inheritance. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Sacratissime Rex Domine, Domine Clementissime, fidelitatis et
+                    servitiorum meorum in gratiam Sacratissimae Maiestatis Vestrae humillimam
+                    commendationem! </p>
+                <p>Credo Sacratissimam Maiestatem Vestram gratiose meminisse, qualem
+                    deliberationem facere dignata erat in negotio abbatiae Sancti Gothardi,<note
+                        type="critic">Szentgotthárd Abbey.</note> ut illam dominae <persName>uxor
+                        comitis ab Ark</persName><note type="critic">Margit Széchy married Pyrrhus
+                        Arco in 1551, see Ep. 811.</note><ref>/o:olahus.tei.15520526_1</ref> et
+                        <persName>coniuges</persName><note type="critic">Báthori’s first wife was
+                        Anna Thurzó, while his the second wife was Katalin Mindszenti. Jaroslav von
+                        Pernstein married Erzsébet Thurzó of Bethlenfalva in 1552.</note>
+                    <persName>Andreae Bathory</persName><note type="critic">András (Bonaventura)
+                        Báthori.</note> ac ipsius <persName>a Pernstan</persName>,<note
+                        type="critic">Jaroslav von Pernstein was the eldest son of  Johann von
+                        Pernstein.</note> quae ius patronatus in ipsa abbatia conferenda habent,
+                    alicui religioso vel saltem ecclesiastico viro, qui habitum assumeret, conferre
+                        deberent,<note type="critic">For this, see also Ep. 812. Cap.
+                        3.</note><ref>/o:olahus.tei.15520526_2</ref> ea conditione, ut ille, qui
+                    futurus esset abbas, trecentos Florenos filio quondam domini <persName>comitis
+                        Nicolai</persName>,<note type="critic">Niklas von Salm.</note> cui antea
+                    ipsa abbatia, per ipsas dominas, pari voto, collata fuerat, ad sustentationem
+                    studiorum ipsius quotannis ad certos annos dare deberet. Nunc <persName>Andreas
+                        Bathory</persName> et ipse <persName>a Pernsthan</persName>, inscia ipsa
+                        <persName>domina Zechy, uxore comitis ab Ark</persName>,<note type="critic"
+                        >Margit Széchy.</note> abbatiam ipsam cuidam praesbitero dederunt. Et ipsa
+                    quoque <persName>comitissa ab Ark</persName>, inscia illorum donationis, et quia
+                    etiam est soror maior natu praefatarum dominarum, ac ex bonis suis avitis et
+                    paternis abbatia ipsa fundata erat, cuidam religioso viro contulit. Et utraque
+                    pars mihi tamquam Sacratissimae Maiestatis Vestrae minimo servitori et
+                    cancellario in Hungaria illos praesentarunt in absentia Sacratissimae Maiestatis
+                    Vestrae, et cum duo sint donatarii, negotium hoc in adventum felicem
+                    Sacratissimae Maiestatis Vestrae consului reiiciendum, maxime cum etiam domini
+                    tutores filiorum quondam comitis <persName>Nicolai a Salm</persName>, qui
+                    aliquid ratione praedictae pensionis cum abbate futuro agere habebunt, nunc
+                    absint, nihilominus tamen <milestone unit="pb"/>nihil in monasterio interea in
+                    divinis servitiis negligitur. </p>
+                <p>Meo iudicio <persName>uxor ipsius ab Ark</persName>, tum quod abbatia
+                    ipsa non a matris, sed patris sui, <persName>Zechy</persName> maioribus fundata
+                    est, et <persName>filiae Thurzonis</persName><note type="critic">Anna Thurzó and
+                        Erzsébet Thurzó.</note> saltem ex patris <choice>
+                        <orig>eorum</orig>
+                        <supplied>earum</supplied>
+                    </choice>, a Sacratissima Maiestate Vestra impetrata gratia, aliquid interesse
+                    in iure patronatu habeant tum etiam quod primogenita matris est, merito a
+                    sororibus minoribus requiri, et sibi praeferri debuisset. Hoc tamen Sacratissima
+                    Maiestas Vestra, cum Deo dante feliciter revertetur, gratiose inter ipsas
+                    concludet. Rogavit nunc me ipsa <persName>comitissa ab Ark</persName>, ut in hoc
+                    ipsius negotio Sacratissimae Maiestati Vestrae supplicarem et significarem, quo
+                    pacto hoc negotium coram me actum esset, seque fore paratam in reditu
+                    Sacratissimae Maiestatis Vestrae abbatem eidem praesentare, cuius petitioni
+                    iustae non potui refragari. Deus optimus maximus Sacratissimam Maiestatem
+                    Vestram felicem et incolumem conservare ac reducere dignetur. In cuius
+                    clementiam me et servitia mea humillima iterum atque iterum unice commendo.</p>
+                <p>Ex <placeName>Vienna</placeName> ultima Maii anno Domini MDLII.</p>
+                <p>
+                    <add corresp="Olahus" type="insert">Eiusdem Sacratissimae Maiestatis Vestrae
+                        humilis et fidelis servitor ac capellanus</add>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Agriensis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Sacratissimae Romanorum, Hungariae, Boemiae etc. regiae maiestati
+                    domino, domino clementissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

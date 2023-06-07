@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">804</title>
+                <title type="main">Miklós Oláh to Péter Gutai (Vienna, 22 April 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520422_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                    <p>Paria litterarum reverendissimi domini cancellarii Gwthay.</p>
+                    <p>12. Maii.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 204 – Oláh Miklós – N. N. – 1552. 04. 22.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-04-22">22 April 1552</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date when="1552-05-12">12 May 1552</date>
+                    <placeName> </placeName>
+                    <persName>Péter Gutai</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Péter Gutai (Vienna, 22 April 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. If he understands it correctly, Gutai has strayed too much from the
+                            office he was entrusted with: it would have been Gutai’s task to
+                            indicate meticulously if dues are collected without authorization, and
+                            Oláh’s task to check with the Councillors of the Chamber. He handed in a
+                            petition to the King so he can understand the revenues, and if an amount
+                            needed for the defence of the castle is missing, he can take care of it;
+                            the King has responded to this supplicatio in a letter. 2. Oláh thus
+                            warns Gutai to behave as a counter-signer and stop accusing those with
+                            whom he has nothing to do. It is not good if they are going in different
+                            directions, and if Čabraď cannot put up with Gutai’s habits, Eger will
+                            do even less so, so he should mind his own business. He should trust him
+                            that if there is any injustice, and the provisor or someone else reports
+                            it, neither he nor the councillors of the Chamber will ignore it. So he
+                            should do his job, he cannot even complain about his payment because
+                            there are councillors of the Chamber who would happily swap places with
+                            him.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Egregie Amice nobis Dilecte!<note type="critic">Péter Gutai. This
+                        letter was probably delivered by Dobó and Oláh’s vicar, see his diary <hi
+                            rend="smallcap">Kovachich</hi> 1798, 92.</note></p>
+                <p>[1.] Prout nobis datur intelligi, nimis discessisti a tuo officio
+                    ingerendo te in nostrum et post nos in provisoris nostri negotium. Tui esset
+                    officii, si collectio, aut erogatio proventuum fieret indebite, annotare
+                    accurate, ut non istic imperiose pro tuo nunc cerebro, vituperiis, et
+                    captivitatem praesbiterorum agere, nobisque et dominis camerariis, tempore
+                    reddendarum rationum annotata diligenter praesentare, neque istinc rationes
+                    exigere. Nostrum est id cum dominis consiliis Camerae officium, nec ad ea
+                    negotia, quae ad nos tantum pertinent, te ingeras. Puta bona per defectum
+                    seminis aut alioqui ad nos devoluta, summa totius officii tui est, quod
+                    diligenter introitus et exitus proventuum ordinariorum episcopatus nostri
+                    adnotes. Nam in hoc nos ipsi supplicavimus sacrae <persName>maiestati
+                        regiae</persName>, domino nostro clementissimo, voluimus enim, quod sua
+                    maiestas proventus ipsos intelligeret, etsi defectum conservationis arcis,
+                    extenuitate proventuum perspiceret. Sua maiestas me et arcem istam, ex qua
+                    defensio partium omnium istarum immo totius regni pendet, gratiose provideret ex
+                    suo, sicuti sua maiestas regia ad supplicationem nostram humillimam litteras
+                    suas de ordine tali mihi dedit.</p>
+                <p>[2.] Quare ad id te moneo, ut fideliter in his agas,
+                        contrascribam,<note type="critic">Gutai was Counter-signer <hi rend="italic"
+                            >(constrascriba)</hi> between 1549 and 1551.</note> et non tibi
+                    cauponeris neque vituperiis et captivitatem praesbiterorum, cum quibus tu nihil
+                    agere habes, sed meum tamquam episcopi, ut vicarii mei, hoc est officium, istic
+                    insolens sis. Mala est pluralitas principum et iudicum indirectorum, mores istos
+                    tuos si <placeName>Chabragh</placeName><note type="critic">Čabraď.</note> ferre
+                    non potuit, nimis <placeName>Agria</placeName><note type="critic">Eger.</note>
+                    feret, quare omnino volumus, ut te hortamur, <quote>ne in messem alienam,
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>OLDALTÖRÉS<?oxy_custom_end?>
+                        tuam immittito falcem,</quote><note type="quote">Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> 1182. II,II,82. Quam quisque norit artem, in
+                        hac se exerceat: “neque in messem alienam mittamus falcem”.</note> sed in
+                    tuo tantum officio te fideliter contineas, adnotes diligenter omnia. Acceptio
+                    rationis te solum non concernis, sed a decimatoribus et aliis officialibus
+                    provisorite praeferente exigat rationem. Crede mihi, si quid istic praeter
+                    debitum, ut veterem fundationem ac commissionem, sive a provisore, sive ab alio
+                    exponetur, neque ego, neque domini camerarii id silentio praeteribimus, sed bene
+                    omnia trutinabimus tempore rationis per provisorem deinde. Nam satis in hoc
+                    oculati sumus. </p>
+                <p>Quare fac, ut omnia istic, quae ad maiestatem regiam, <choice>
+                        <orig>domini nostri clementissimi</orig>
+                        <supplied>dominum nostrum clementissimum</supplied>
+                    </choice> et me quoque post suam maiestatem veluti capellanum, ut servitorem
+                    suum pertinent, fideliter sine tumultu annotes, contentus tuo officio et
+                    proventibus, ut relique postea nobis, et dominis camerariis rationem accipere,
+                    sicuti idem quoque domini camerarii, de eis ad te scripserunt. Neque de
+                    tenuitate salarii tui conqueri potes, nam crede mihi, quod plus habes; si
+                    singula computare vis, quam unus ex dominis consiliariis Camerae, ex quibus
+                    aliqui dixerunt mihi, quod mallent loco tui istic <placeName>Agriae</placeName>
+                    esse, quam in Camera. Ad haec te fraterne monere volui. Nam duo episcopi esse in
+                    una ecclesia non possunt. Vale.</p>
+                <p><placeName>Viennae</placeName> 22. die mensis Aprilis anno Domini
+                    1552.</p>
+                <p>
+                    <seg type="signature">Agriensis etc. manu propria</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

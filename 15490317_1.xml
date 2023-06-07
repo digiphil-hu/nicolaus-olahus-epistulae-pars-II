@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">714</title>
+                <title type="main">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Prague, 17
+                    March 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490317_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15490326_1" type="url">715</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 41 – 1549 – No. 21.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-03-17">17 March 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Thurzó and Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Prague, 17
+                    March 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The King has told him that he has included the Eger soldiers’ payment
+                            that was dispensed the other day in the instructions for the Chamber and
+                            his mandate. He thus asks the Chamber to act accordingly, lest any
+                            damage should occur due to delay. He does not want to make a statement
+                            in connection with this issue because he was not the one who took on
+                            this burden. The Chamber knows that the house neighbours the enemy, and
+                            if they do not forward to him the payment the King has set, due to such
+                            expenses he will not even have enough money to support his family. He
+                            asks the Chamber to respond without delay so he knows what to
+                            expect.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime,<note type="critic">Ferenc Thurzó.</note> Reverende ac
+                    Egregii Domini et Amici nobis honorandissimi, salutem et nostri
+                    commendationem!</p>
+                <p>Dixit nobis <persName>maiestas regia</persName> se in statum et
+                    instructionem Dominationis Vestrae hinc nuper missam solutionem militum quoque
+                    Agriensium redegisse. Rogamus itaque Dominationes Vestras, plurimum velint
+                    solutionis ad <placeName>Agriam</placeName> fiendae iuxta commissionem suae
+                    maiestatis, si quam superinde acceperunt, curam diligentem habere, ne ex eius
+                    dilatione periculum aliquod (quod Deus avertat) contingat. De quo nos respondere
+                    nolumus, neque unquam id aut oneris, aut periculi, quod absit, <del
+                        corresp="Olahus">sufferendum</del><add corresp="Olahus" type="corr"
+                        >sufferendi</add> humeris nostris assumpsimus, neque deinceps assumemus.
+                    Sciunt enim Dominationes Vestrae eam domum hostibus finitimam esse. Praeterea si
+                    de salario nostro quoque aliquid Dominationibus Vestris <persName>regia
+                        maiestas</persName> commisit, non praetermittant, quin aliquid habeamus
+                    pecuniae in tanta rerum fere omnium charistia et ad sufferendas tantas, quantas
+                    quotidie in servitiis serenissimae maiestatis facere cogimur expensas, ad
+                    familiae nostrae non exigue nutritionem. Ad haec itaque rogamus Dominationes
+                    Vestras, velint sine dilatione responsum nobis dare, ut sciamus rebus nostris
+                    consulere. Quod Dominationibus Vestris maiori amicitiae officio rependere
+                    volumus, quas et feliciter valere cupimus.</p>
+                <p><placeName>Pragae</placeName> XVII. Martii anno Domini MDXLIX.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Agriensis
+                            cancellarius regiae maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino Francisco Thwrzo episcopo Nitriensi, praefecto
+                    ac reverendissimo et egregiis dominis magistro aliisque consiliariis camerae
+                    Hungaricae regiae maiestatis etc. dominis et amicis nobis honorandissimis.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

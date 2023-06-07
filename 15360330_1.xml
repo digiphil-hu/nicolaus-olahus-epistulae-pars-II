@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">563</title>
+                <title type="main">Miklós Oláh to István Brodarics (Ghent, 30 March 1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360330_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15360226_1</ref>
+                        <ref>/o:olahus.tei.15360422_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 569–574; <hi rend="smallcap">Kasza</hi>
+                    2012, 476–480.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15360226_1" type="url">562</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15360422_1" type="url">564</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >301–305.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-03-30">30 March 1536</date>
+                <placeName>Ghent</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>István Brodarics</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to István Brodarics (Ghent, 30 March 1536)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He was happy to receive Brodarics’ letter, from which he learned that
+                            in spite of the distance and time, they have mutually preserved their
+                            friendship. He assures Brodarics that he has not forgotten about him,
+                            either. 2. Oláh was held back from writing by the fact that they belong
+                            to opposing parties, and he did not want to appear suspicious in front
+                            of the rulers, and not without reason. 3. Now it is up to Brodarics and
+                            Ferenc Frangepán to make peace in the current favorable situation,
+                            otherwise the Turks or the feud between the parties will destroy the
+                            country. 4. He has spoken with Queen Mary in Brodarics’ name, who still
+                            resents the fact that Brodarics left her, but if she sees that Brodarics
+                            has acted in the interest of the country, it might soften her heart. 5.
+                            Oláh has a good place in Queen Mary’s court; he lives in peace, enjoys
+                            court life, and he has learned company; he only misses his old friends.
+                            6. Oláh has left King Ferdinand I’s court, thus making good on his
+                            promise to Queen Mary on the one hand, whom he did not want to leave in
+                            exile; on the other hand, his relationship with Tamás Szalaházy
+                            deteriorated, and Szalaházy hindered his career at the court. László
+                            Macedóniai’s death has shocked him, he was an excellent man, above
+                            reproach. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Stephanum Brodericum responsio. </p>
+                <p>[1.] Accepi tuas, Reverendissime Praesul, hesterno die litteras<note
+                        type="critic">Ep. 562.</note><ref>/o:olahus.tei.15360226_1</ref> brevissimas
+                    quidem, sed quae maximam mihi attulere laetitiam, ex quibus scilicet aperte
+                    intellexerim tuum in me veterem illum amorem et benevolentiam tanto nec
+                    temporum, nec locorum intervallo, quibus cum summa certe animi mei dolore
+                    seiuncti et fuimus et sumus, nondum refrixisse. Scribis ad me te putare meum in
+                    te affectum pristinum constantem adhuc esse, licet tamdiu nihil scripserim,
+                    quemadmodum tuus erga me amor nondum mutatus esset. Num arbitraris quampiam τὴν
+                        λήθην<note type="critic">‘forgetting’.</note> tantam esse posse, quae me in
+                    oblivionem tui adduceret? Aut me <persName>Protheo</persName> mutabiliorem, ut
+                    meis, quorum tu magis, quam alii, conscius es, moribus et affectibus mutatis
+                    veteris illius tuae in me φιλανθρωπίας<note type="critic">‘if I forgot about
+                        your humanity (towards me)’.</note> et meae rursus in te τῆς δουλείας τῆς
+                        φιλῆς<note type="critic">‘on the service I gladly do (for you)’.</note> non
+                    meminerim? Potestne aliquid eiuscemodi coniecturae <milestone unit="pb"/>in mentem tibi venire? Nonne a pueritia fere mea tu magna semper me
+                    prosecutus fuisti humanitate et benevolentia? Ac contra ego quoque te ut dominum
+                    et alterum parentem observavi, colui, suspexi et veneratus sum? Nihilque etiam
+                    aut prioribus <persName>Ludovici regis</persName><note type="critic">King Louis
+                        II.</note> et domini nostri communis aut posterioribus temporibus fuerit,
+                    quod non ultro citroque communicaverimus. Harum rerum et consuetudinum
+                    recordationem existimas homini bono excidere posse? Adeo me tui non oblitum esse
+                    cogites, ut vix ullum diem praeteritum esse sciam toto hoc peregrinationis meae
+                    tempore, quo de te non cogitarim. Tecum frequenter pransus sum, tecum somniavi,
+                    tecum collocutus sum. At me haec tibi vana praedicare putas? </p>
+                <p>
+                    <quote>
+                        <choice>
+                            <orig>οὕτῳ νην</orig>
+                            <supplied>οὕτω νῦν</supplied>
+                        </choice> Ζεὺς θείη, ἐρίγδουπος πόσις <choice>
+                            <orig>Ἥρις</orig>
+                            <supplied>Ἥρης</supplied>
+                        </choice>, <milestone unit="p"/> οἴκαδέ τ' ἐλθέμεναι καὶ <choice>
+                            <orig>νόστημον ἤμαρ</orig>
+                            <supplied>νόστιμον ἦμαρ</supplied>
+                        </choice> ἰδέσθαι·</quote>
+                    <note type="quote">Hom. <hi rend="italic">Od.</hi>. VIII, 465–466.</note><note
+                        type="critic">In Oláh’s exemplar of the Odyssey, there is an index finger in
+                        the margin, see Eisenstadt, Esterházy-Sammlung, No. 14844, fol. 70r.</note>
+                </p>
+                <p>Ut haec vera sunt. Quarum rerum testes sunt amici mei praesentes,
+                    quibuscum conversor, testes absentes, apud quos in meis litteris frequentem de
+                    te feci mentionem, maxime <persName>Ioannem archiepiscopum
+                        Lundensem</persName>,<note type="critic">Johan Weze.</note>
+                    <persName>Cornelium Scepperum</persName><note type="critic">Cornelis de
+                        Schepper.</note> et <persName>Ioannem Burgium</persName>,<note type="critic"
+                        >Giovanni Antonio da Burgio.</note> dum in <placeName>Anglia</placeName>
+                    oratorem agebat<note type="critic">Giovanni Antonio da Burgio negotiated between
+                        King Henry VIII and the Holy See in England between 1531–1532.</note>
+                    <persName>pontificis</persName>.<note type="critic">Pope Clement VII.</note></p>
+                <p>[2.] Quid itaque causae sit, cur nihil scripserim, quaeris? Partium nostrarum
+                    diversarum factio et studium, quod licet invitissimum, tamen quoquomodo me a
+                    scribendo retraxit, ne susurrones et perversi homines principes nostros in
+                    suspitionem aliquam de nobis inducerent, quamvis iniquam. Nam sicuti meae erga
+                    meos fidei bene conscius sum, ita de tua quoque in
+                        <persName>regem</persName><note type="critic">King John I.</note> tuum non
+                    dubito, ut ergo priora repetam. De meo in te pristino affectu adeo nihil est
+                    diminutum, ut is magis etiam sit auctus, itaque certo tibi persuadeas, me nec
+                    parentum fratrumque, qui in amore et affectibus his humanis primum iure naturali
+                    habere solent locum, nec aliorum quorumpiam maius, quam tui videndi habuisse
+                    desiderium. </p>
+                <p>[3.] Non raroque vehementer tibi timui, cum te intelligerem cum aliis partium
+                    vestrarum magistratibus inter hostes illos fidei versari, tuosque mores illorum
+                    conferre debere mandatis. Sed Deus optimus maximus sive voto meo, sive tuis
+                    precibus te illis eripuit ac incolumem hactenus conservavit. Ob hanc fortasse
+                    rem, ut tua opera, cura et sollicitudine perditum illud regnum patria nostra
+                    funditus non intereat nostra hac tempestate. Quod ut cures, ac publicae potius
+                    quieti, paci et saluti, quam privatorum aliquorum hominum affectibus inservire
+                    malis, per eam, quam patriae praeter omnes mortales debes caritatem, te rogo.
+                    Nam si res nostra Hungarica ita fluctuabit diutius, ut hactenus, etiam non
+                    irruentibus externis hostibus regnum ipsum ob perditorum utriusque factionis
+                    hominum rapinas et latrocinia seipsum desolabit, perdet et consumet. Si vero,
+                    quod Deus avertat, aliquo <milestone unit="pb"/>domus Austriacae infortunio,
+                    vicini vestri albocapuciati<note type="critic">I.e. Turks.</note> modica arrepta
+                    occasione, vel morte unus ex vobis, quae est, ut alia omnia nostra in manu Dei
+                    sita, Hungariam rursus non modo invaserint, sed occupaverint, et istic pedes
+                    sedemque, quod ipsi intendunt, sed vos non creditis, fixerint, quae servitus
+                    nostram miseram nationem, quae etiam nunc apud exteros populos tum multas ob
+                    res, tum maxime ob commercium Turcicum pessime ubique audit, non manebit?
+                    Vertetur Hungaria in praedam, officia, praefecturas et <quote>τὴν
+                        πολυκοιρανίαν</quote><note type="quote">Hom. <hi rend="italic">Il</hi>.
+                        II,204.</note><note type="critic">‘no good thing is a multitude of
+                        lords’.</note> Graecorum more, tyrannidi et servituti infidelium erit
+                    subiecta, olim in toto orbe nominatissima et Christianis etiam omnibus
+                    principibus formidolosa, nedum Turcis. Nunc ergo, dum adhuc tempus est, et
+                    periculum anteverti potest, adhibendus est modus et via, quibus et regnum
+                    afflictum, miserum et perditum, si non in pristinum florem, quod iam aetate
+                    nostra vix fiet, saltem in aliquam permansionis et quietis futurae speciem
+                    reducatur, nosque omnes quandoquidem meliorem annorum nostrorum partem iam
+                    transegimus in pace, in hac extrema aetate nostra Deo et nobis servire possimus. </p>
+                <p>Cuius rei fundamentum si nunc apud caesarem non statueritis, nescio, an postea
+                    unquam talem boni <del corresp="Olahus">fundamenti</del> aliquid faciendi
+                    nanciscemini occasionem. Quod si concordaveritis, quid obstabit utraeque
+                    factioni in mutuam amicitiam reductae, quin et arces finitimas regni, in quibus
+                    status pendet Hungariae, Turca in Persia occupato et forsan nunquam reversuro,
+                    non magno labore recuperare possint, et fines suos ita extendere proferre et
+                    munire, ut et preteritam ab aliquot iam annis acceptam ignominiam nova virtute
+                    sint recuperaturi, et Hungariae pacem perpetuam acquisituri. Quare,
+                    Reverendissime Praesul, tuae est industriae, prudentiae, virtutis et officii, ut
+                    unacum reverendissimo <persName>Colocensi</persName><note type="critic">Ferenc
+                        Frangepán.</note> ad id totas animi vires tuas intendas, quo vestris
+                    consiliis, cura et opera primum Hungariae et vobis ipsis, deinde nobis, pax et
+                    tranquillitas in hac vestra legatione requiratur.<note type="critic">“Ferenc
+                        Frangepán was a fellow legate of Brodarics during his trip to Italy in
+                        1536.” <hi rend="smallcap">Kasza</hi> 2012, 478.</note> Date operam, ut quod
+                    per hos annos nescio an fato magis omnium nostrum adverso, quam malis improborum
+                    hominum consiliis in illius Gordiani nodi modum involutum erat, vestra prudentia
+                    et cura nunc, dum occasio divinitus praebita est, dissolvatur. Rem plane
+                    conclamatam vos restaurate et in tranquillum deducite finem. Modum quaeritis,
+                    quo pacto id fiat. Litteris ea de re, ut difficile est, ita in securum agere,
+                    sed rem pro <choice>
+                        <orig>maiori</orig>
+                        <supplied>maiore</supplied>
+                    </choice> parte confeceritis, si publicae potius salutis, quam privati commodi
+                    rationem habueritis. </p>
+                <p>[4.] Quod ad serenissimam reginam meam attinet, acceptis litteris<note
+                        type="critic">Ep. 562.</note><ref>/o:olahus.tei.15360226_1</ref> tuis mox
+                    maiestatem suam accessi, et, ut iussisti, tuam illi servitutem diligentius, quam
+                    a me fieri potuit, commendavi multisque de te ultro citroque habitis verbis.
+                    Dixit se quoque litteras a te accepisse<note type="critic">We do not know these
+                        letters.</note> et illas mihi daturam. Quod tunc fieri non potuit, quia ob
+                    pleraque alia negotia non <milestone unit="pb"/>dabatur ei otium illas perquirendi. Quae tametsi ingrato animo ferat tuam a nobis
+                    profectionem, tamen animi eius alienati mitigatio hinc ex <choice>
+                        <orig>maiori</orig>
+                        <supplied>maiore</supplied>
+                    </choice> parte fieri poterit, si viderit res Hungaricas, quibus ipsa mirum in
+                    modum favet, rectificari, et tuam curam eo tendere, uti id fieri possit, non
+                    tantum pro suae maiestatis commodo, cui nihil, quod ad principem feminam
+                    pertineat, hic deest, quantum pro nominis Hungarici decore, et illius ac suae
+                    quoque, ut dicit, patriae salute. <del corresp="Olahus">Una</del><add
+                        corresp="Olahus" type="corr">Verum</add> hac de re plura cum sua maiestate
+                        <del corresp="Olahus">aget</del><add corresp="Olahus" type="corr"
+                    >agam</add>. Nunc cum postha erat in procinctu abeundi, nolui <del
+                        corresp="Olahus">cum</del> his meis litteris vacuum ad te eum abire. De
+                    ceteris plura propediem. </p>
+                <p>[5.] Arbitror te scire cupere, quo in statu res sint meae. Sum Deo volente sanus,
+                    et in pulchra, divite ac omnibus rebus, sive quod ad vitam hominis, sive quod ad
+                    voluptatem, si quis eam magnifacit, pertineat, referta patria, atque in summo
+                    otio, quiete et tranquillitate, in nulloque defectu, praeterquam quod a patria
+                    et amicis veteribus absim. Quod mihi ab aulicis rebus et conversatione virginum
+                    reginae, ad quam te <placeName>Posonii</placeName>,<note type="critic"
+                        >“Brodarics stayed in Pozsony in the vicinity of Queen Maria and so of
+                        Miklós Oláh from September 1526 until March 1527.” <hi rend="smallcap"
+                            >Kasza</hi> 2012, 479.</note> si memini, hortabar, superest temporis, id
+                    consumo partim lectionibus theologicis, partim aliis honestis occupationibus.
+                    Nec amicorum conversationes, bonorum et doctorum virorum mihi desunt, ut si
+                    verum fateri debeam, nihil omnino mihi deesse videam, quod ad honestum statum,
+                    honestamque vitae meae sustentationem pertineat. Illud tamen Homericum, postquam
+                    Graecissare coepi, aliquando venit mihi in mentem: </p>
+                    <quote>
+                        <lg>
+                            <l>ὡς οὐδὲν γλύκιον ἧς πατρίδος <choice>
+                                <orig>ἴδε τοκῆων</orig>
+                                <supplied>οὐδὲ τοκήων</supplied>
+                            </choice></l>
+                            <l><choice>
+                                <orig>γίγνεται</orig>
+                                <supplied>γίνεται</supplied>
+                            </choice>, εἴ περ <choice>
+                                <orig>τίς καὶ</orig>
+                                <supplied>καί τις</supplied>
+                            </choice> ἀπόπροθι πίονα οἶκον</l>
+                            <l>γαίῃ ἐν <choice>
+                                <orig>αλλωδαπῇ</orig>
+                                <supplied>ἀλλοδαπῇ</supplied>
+                            </choice> ναίει ἀπάνευθε τοκήων.</l>
+                        </lg></quote>
+                    <note type="quote">Hom. <hi rend="italic">Od</hi>. IX,34–36.</note>
+                
+                <p>Huius rei causa cuperem aliquando pacem domi fore, ut <quote>in uno
+                        ovili, sub uno pastore</quote><note type="quote">Cf. Calvin, <hi
+                            rend="italic">Comm. on St. Paul's Epistle to the Romans</hi>
+                        XV,8.</note> concluderemur, excluso Turcarum commercio. </p>
+                <p>[6.] Quaeris, cur a rege tam longe abiverim? Primum volui pro suscepta
+                    fidei et integritatis meae officio reginam in medio peregrinationis non
+                    deserere, bonique viri officium esse putavi, si eam secutus in diversis <add
+                        corresp="Olahus" type="insert">fortunis</add> tempore pacis rursus eo, unde
+                    digressa est, si firma futura esset pax, reducerem. Tum malui vestrarum et
+                    nostrarum partium hominum grassatorum concertationem ac tragoediam procul
+                    audire, quam coram oculis intueri. Postremo quia iam ab eo tempore, quo
+                        <persName>Thomas</persName><note type="critic">Tamás Szalaházy.</note>
+                    Vesprimiensis episcopus tempore <persName>Ludovici</persName> regis frustratus
+                    erat officio cancellarii et tu ad hanc dignitatem admissus, simultas erat inter
+                    me et ipsum orta, quae et <placeName>Posonii</placeName>, quia videbat me
+                    omnibus viribus tam antea, quam <placeName>Posonii</placeName>
+                <milestone unit="pb"/> tibi potius addictum, quam ei et tuis <del corresp="Olahus"
+                        >magnis</del><add corresp="Olahus" type="corr">magis</add> ornamentis, quam
+                        <del corresp="Olahus">ante</del><add corresp="Olahus" type="corr">aut</add>
+                    illius, aut ullius alterius studentem, aucta postea te abeunte crevit, meque non
+                    palam, sed occulte, ubi poterat, oppugnabat. Verbis quidem multa pollicebatur,
+                    re tamen ipsa parum praestabat, hinc etiam contra iura mea factae erant
+                    promotiones in curia nostra illae magnificorum nominum titulorum et hominum,
+                    quos ego certe tanti facio, quanti faciebam illum ipsum, quem dixi horum
+                    authorem. <persName>Macedonis</persName><note type="critic">László
+                        Macedóniai.</note> nostri mors maiorem mihi millies dolorem iniecit, quam si
+                    viginti per illum etiam sordidos homines mihi praelatos esse vidissem. Nam non
+                    admodum cupidus honoris ac divitiarum, utpote qui sciam neminem moriendi
+                    necessitatem vitare posse, quantumcumque ambitiosum et divitem satis esse
+                    putavi, quod Deus mihi <add corresp="Olahus" type="insert">parca manu</add>
+                    dedit, voluique custodia mea, quae licet desertam domum, sed non parvam habet
+                    vim vinorum et aliarum rerum. Quam tu, quamcumque in partem modo non Turcicam
+                    res Hungarica devolvatur, mihi integram conservare velis, oro. Habes et statum
+                    meum praesentem, et causam tam longinquae meae peregrinationis. Quod reliquum
+                    est, Deus te conservet ad meliora tempora incolumem et felicem, concedatque, ut
+                    aliquando una esse possimus. Me certo scito, hac una, ut dicit ille, regia causa
+                    excepta τῷ <choice>
+                        <orig>σώματι</orig>
+                        <supplied>σώματί</supplied>
+                    </choice> τε ψυχῇ<note type="critic">‘in body and soul’.</note> ubicumque sum,
+                    tuum illum veterem fore. Reverendissimo domino <persName>Colocensi</persName>
+                    archiepiscopo, item <persName>Thomae Nadasdi</persName>, si ad eum diverteris,
+                    cupio commendari obsequia. Cura me de conclusione pacis, quatenus licebit,
+                    ordinatim certiorem <del corresp="Olahus">facere</del><add corresp="Olahus"
+                        type="corr">facias</add>.</p>
+                <p><placeName>Gandavi</placeName> XXX. Martii 1536.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">698</title>
+                <title type="main">Miklós Oláh to Banská Štiavnica Town Council (Bratislava, 1
+                    December 1548)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15481201_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal. Difficult
+                            to read because the ink is smudged.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica</settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Missiles 1548.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1548-12-01">1 December 1548</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Banská Štiavnica Town Council (Bratislava, 1
+                    December 1548)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The letter is about a physician called Ioannes, Oláh asks not to give up
+                            their previous benevolence towards the physician.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem!</p>
+                <p>Intelleximus vos anno superiore Deo <gap extent="1" reason="illegible"
+                        unit="word"/>
+                    <gap extent="1" reason="illegible" unit="word"/> con<gap extent="unknown"
+                        reason="illegible" unit="word"/> vestro pro commodiori <gap extent="1"
+                        reason="illegible" unit="word"/> non sui ex vestro erga eum favore et
+                    benevolentia <gap extent="unknown" reason="illegible" unit="word"/>larii
+                        liberta<gap extent="unknown" reason="illegible" unit="word"/> commode <gap
+                        extent="unknown" reason="illegible" unit="word"/>s<gap extent="unknown"
+                        reason="illegible" unit="word"/> concessisse. Quid <gap extent="1"
+                        reason="illegible" unit="word"/> magno a vobis beneficio afflictum palam <choice>
+                        <orig>peren<gap extent="unknown" reason="illegible" unit="word"/></orig>
+                        <supplied>peren<corr>nem</corr></supplied>
+                    </choice>
+                    <gap extent="unknown" reason="illegible" unit="word"/>m<gap extent="unknown"
+                        reason="illegible" unit="word"/> dictum ista vos publice interdixisse, ne
+                    quid <gap extent="unknown" reason="illegible" unit="word"/>ruis<gap
+                        extent="unknown" reason="illegible" unit="word"/> amplius <gap extent="1"
+                        reason="illegible" unit="word"/> sed tamen ex hordeo coqueret. Propter quod
+                        <persName>Ioannes doctor</persName><note type="critic">We do not know him
+                        more closely.</note> non mediocriter et turbatus nequaquam <choice>
+                        <orig><gap extent="unknown" reason="illegible" unit="word"/>ne</orig>
+                        <supplied><corr>ordi</corr>ne</supplied>
+                    </choice> vitae augeretur postquam liberius coquendi triticeae <gap extent="1"
+                        reason="illegible" unit="word"/> per vos sibi sublata esset p<gap
+                        extent="unknown" reason="illegible" unit="word"/>inde ne idem
+                        <persName>Ioannes doctor</persName> pristinam erga se benevolentiam reliqua
+                    ulla ex parte diminutam esse sentiat, cumquam <gap extent="unknown"
+                        reason="illegible" unit="word"/>ntunde vitae <gap extent="1"
+                        reason="illegible" unit="word"/> sit <choice>
+                        <orig><gap extent="unknown" reason="illegible" unit="word"/>rigatum</orig>
+                        <supplied><corr>cor</corr>rigatum</supplied>
+                    </choice>. Rogamus Vos velint <gap extent="1" reason="illegible" unit="word"/>
+                    <gap extent="1" reason="illegible" unit="word"/> causam reliquam pristino vestro
+                    favore amplecti <gap extent="1" reason="illegible" unit="word"/>
+                    <gap extent="1" reason="illegible" unit="word"/> eo quo ante iure ei re<gap
+                        extent="unknown" reason="illegible" unit="word"/>
+                    <choice>
+                        <orig><gap extent="unknown" reason="illegible" unit="word"/>ciei</orig>
+                        <supplied><corr>perni</corr>ciei</supplied>
+                    </choice>rependemus, vosque bene <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>valere optamus</corr></supplied>
+                    </choice>. </p>
+                <p>Datum <placeName>Posonii</placeName> prima die Decembris <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>anno Domini</corr></supplied>
+                    </choice> 1548.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
+                            secretarius cancellarius regiae maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Prudentibus et circumspectis dominis iudici et iuratis civibus
+                    civitatis Semniciensis etc. amicis nobis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

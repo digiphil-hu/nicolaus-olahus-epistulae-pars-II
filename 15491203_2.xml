@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">729</title>
+                <title type="main">Wolfgang Haller to Miklós Oláh (Brussels, 3 December
+                    1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15491203_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original, partly autograph letter with signature and
+                            seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Haller de
+                        tape<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>c<?oxy_custom_end?>iariis.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 184 – I. – 1. – No. 21.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-12-03">3 December 1549</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Wolfgang Haller</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Wolfgang Haller to Miklós Oláh (Brussels, 3 December 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Wolfgang Haller already indicated to Oláh in his last letter that Emperor
+                            Charles V and Queen Mary have not written to King Ferdinand I in Oláh’s
+                            case due to different obstacles. But then the Queen finally wrote in her
+                            own hand to King Ferdinand I at the request of Haller’s and Nogarola’s
+                            wives, a copy of which he attaches to this letter, along with a
+                            translation. He is sorry that the Queen had not done so for a long time,
+                            but this is not Haller’s fault. God grant that [an answer?] arrives in
+                            time, and that it is fruitful. Haller also lets Oláh know that he will
+                            either furnish the wallpapers, and the blankets for the donkeys with
+                            coats of arms and inscriptions, or he will have to keep delaying them.
+                            P.S.: from the copies he can see the Queen’s determination; but because
+                            they could not persuade Emperor Charles V to write a letter, the Queen
+                            and Haller have done what they can.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Hochwirdiger fürst, gnediger fürst und herr, e. f.<note type="critic"
+                        >I.e. eure fürstliche.</note> gnaden sein mein ganz willig dienst jederzeit
+                    bevor! </p>
+                <p>Gnediger herr, ich hab e. f. gnaden mit jungster post anzaigt, was die
+                    verhinderung bracht hat, das <add corresp="author" type="insert">von</add> ro.
+                    kay. mt.<note type="critic">I.e. römische kaiserliche Majestät.</note> unnd der
+                    künigin an die ro. ku. mt.<note type="critic">I.e. römische königliche
+                        Majestät.</note> e. f. gnaden halben nit geschriben wer worden. Also seidt
+                    hat ir mt.<note type="critic">I.e. Majestät.</note> auf mein und der
+                        <persName>gräffin von Nogeroll</persName><note type="critic">Lucretia
+                        Caballis (vom Ross), see Ep. 610.</note><ref>/o:olahus.tei.15391117_1</ref>
+                    anhalten ain schreiben von ir mt. aigen handt an sein mt. in fast gutter form
+                    geschriben, wie e. f. gnaden in der copey, so ich hieneben neben ir mt. brief e.
+                    f. gnaden sambt ainer translatierten copey zuschickh. Ist unns wol laid, das ir
+                    mt. es nit lengst gefertigt hat, unnd genzlich ist unserer sollicitierung schuld
+                    nit. Got der herr geb, es zeitlich genug kom und e. f. gnaden wol erschieslich
+                    sey. E. f. gnaden wirt mich auch wissen lassen, ob ich die tappissereyen unnd
+                    eseldecken mit den wappen und dem titl also fertigen oder noch verziehen soll.
+                    Pit, e. f. gnaden in mein aigen sachen auch underthenigist bevolchen lassen
+                    sein. Damit bevelich ich mich e. f. g. meinem gnedigen fürsten und herren gannz
+                    underthanigclich. </p>
+                <p>Datum <placeName>Brüsl</placeName> den III<hi rend="super">ten</hi>
+                    Decembris anno etc. im XLIX<hi rend="super">ten</hi>. </p>
+                <p>
+                    <add corresp="author" type="insert">Ir mt. hat das dattum hintter sich umbe
+                        pesten willen gesizt, wie e. f. g. sehen in den copeyen mag. Weil die
+                        schreiben von kay. mt., wie ich geschriben hab, nit der massen haben erlangt
+                        kunden werden, hat ir mt. und mich fur im angesehen, es nit zu legen weitter
+                        furwaer. Es hat an mein anhalten nit gemangelt, und mer laidt genug gwissen
+                        ich nichtz ausrichten k. hab kunden.</add>
+                </p>
+            
+            <p>
+                <add corresp="author" type="insert">Ewr furstlichen gnaden untterdeniger dienner
+                </add>
+            </p>
+            <p>
+                <seg type="signature">
+                    <add corresp="author" type="insert">Wolff Haller.</add>
+                </seg>
+            </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <pb/>
+                <head>On the outer side:</head>
+                <p>Dem hochwirdigen fürsten und herren Herren Nicolaus Olahus, bischoven
+                    zu Erla, ro. ku. mt. rath unnd canzler in Hungern etc., meinem gnedigisten
+                    fursten und herren. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">439</title>
+                <title type="main">Miklós Oláh to Damján Neszmélyi (Brussels, 11 January
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340111_3</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 441–442; <hi rend="smallcap">Szendrei</hi>
+                    1890, 182–183; <hi rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1904, 319.
+                    [excerpt]</note>
+                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
+                    <hi rend="smallcap">Huszti</hi> 1998, 626.</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">300.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-01-11">11 January 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Damján Neszmélyi</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Damján Neszmélyi (Brussels, 11 January
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He does not know if Neszmélyi has forgotten about him, or if he only has
+                            a lot of things to do, and that is why he is not writing to him. In any
+                            case, it would be good if he did not only write to him when he needed
+                            something. He also asks him to let him know what is going on with his
+                            abbey because although Pemfflinger is also going to write to him about
+                            it, there are some things Neszmélyi can inform him better about.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad Daminanum de Nezmel<note type="critic">Damján Neszmélyi was
+                        Vice-prefect of Diósgyőr between 1532 and 1534, see <hi rend="smallcap"
+                            >Bessenyei</hi> 1998, 84.</note>
+                    <del corresp="Olahus">vicecapitaneum</del><add corresp="Olahus" type="corr"
+                        >vicepraefectum arcis</add>
+                    <placeName>Dyosgyewr</placeName>.<note type="critic">Diósgyőr.</note></p>
+                <p>Ita saepe fit, ut dum amici absunt, eorum non recordemur, quod video in
+                    me esse verificatum. Nam nescio, an ex oblivione, vel ex multis tuis
+                    occupationibus mei es omnino oblitus, nihilque ad me scribis. Optarem, ut non
+                    tunc saltem scriberes, cum aliquid tu hic habes rerum, quod <del
+                        corresp="Olahus">si</del><add corresp="Olahus" type="corr">sit</add> mea
+                    opera expediendum, sed etiam alio tempore. Ut ex tuis litteris veluti veteris
+                    mei amici intelligerem rerum mearum statum, plebanatum istum de
+                        <placeName>Myskolcz</placeName> ex petitione <persName>Sebastiani
+                        Pemflinger</persName><note type="critic">Sebestyén Pemfflinger.</note> amici
+                    mei reliqueram bono illi viro, qui <del corresp="Olahus">nostris</del><add
+                        corresp="Olahus" type="corr">nunc</add> in eo <del corresp="Olahus"
+                        >esset</del> est, ut esset vicarius meus et servitiis divinis primum, deinde
+                    meis istic rebus provideret. Abbatiam etiam de <placeName>Thapolcza</placeName>
+                        reliqui<note type="critic">See Ep.
+                        437.</note><ref>/o:olahus.tei.15340111_1</ref> sub protectione eiusdem
+                        <persName>Sebastiani</persName>, ut ad proventuum illius administrationem
+                    nomine meo aliquem honestum virum ordinaret. Nescio, quid in <del
+                        corresp="Olahus">utriusque</del><add corresp="Olahus" type="corr"
+                        >utrisque</add> rebus meis actum sit et agatur, etsi credam etiam ipsum me
+                    de his certiorem redditurum, tamen rogo etiam te, qui illorum locorum meliorem
+                    tenes notitiam, ut me de his fac certiorem. Et quantum post ipsum
+                        <persName>Pemflinger</persName> potes, cura, ne in absentia <del
+                        corresp="Olahus">danum</del><add corresp="Olahus" type="corr">damnum</add>
+                    patiar. Erit mihi id gratum. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 11. Ianuarii anno 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

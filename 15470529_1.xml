@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">672</title>
+                <title type="main">Miklós Oláh to Magdolna Székely of Ormosd (Meissen, 29 May
+                    1547)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15470529_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original, partly autograph letter with signature and
+                            seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"><hi rend="smallcap">Karácsonyi–Kollányi</hi> 1909, 542–543. </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 148a – Fasc. 1752. – No. 50.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1547-05-29">29 May 1547</date>
+                <placeName>Meissen</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Magdolna Székely of Ormosd</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Magdolna Székely of Ormosd (Meissen, 29 May
+                    1547)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Today he received the letters of Magdolna Székely of Ormosd and her
+                            husband, Johann von Pernstein, in which they ask him to help enforce the
+                            King’s new mandate with Pál Várday, which says the handover of Bojnice
+                            castle and 28,000 florins should be postponed. He has already written to
+                            her husband what he has accomplished in this matter and that there is no
+                            need for another mandate towards Várday, since three of these have
+                            already been issued: one has been sent to them, another has been sent
+                            via mail, in which the handover has been postponed until St George’s
+                            Day, and eight days ago he also sent one via mail to Várday that he
+                            should change his mind and postpone the deadline to the third day of
+                            Pentecost. The King has also informed Mihály Mérey about this, so it is
+                            completely unnecessary to increase the number of mandates. 2. The King
+                            will arrive to Prague soon, he can visit him there if he has anything to
+                            discuss with him. The war against the heretics has come to an end:
+                            Maurice, Elector of Saxony has been captured, and Wittenberg has been
+                            occupied.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Generosa et Magnifica Domina,<note type="critic">Magdolna Székely of
+                        Ormosd (†1556) was the second wife of Elek Thurzó (1490–1543). She is noted
+                        for the love letter addressed to her in 1528, which is the first preserved
+                        Hungarian love letter, see <hi rend="smallcap">Szőke</hi> 2014.</note> nobis
+                        <del corresp="Olahus">Honoranda</del><add corresp="Olahus" type="corr"
+                        >Honorandissima</add>, salutem et obsequiorum nostrorum commendationem! </p>
+                <p>[1.] Accepimus hodie litteras<note type="critic">We do not know this
+                        letter.</note> Dominae Vestrae una cum litteris adiunctis spectabilis et
+                    magnifici domini <persName>Ioannis a Prnstain</persName>,<note type="critic"
+                        >Johann III von Pernstein or Jan z Pernštejna (1487–1548) was
+                        Landeshauptmann of Moravia from 1515 to 1519 and 1526 to 1528, and Governor
+                        of Moravia from 1530 to 1532. From 1537 to 1548, he was Count of Kłodzko. In
+                        1544, he married Elek Thurzó’s widow, Magdolna Székely of Ormosd, see <hi
+                            rend="smallcap">Pálffy</hi> 2011, 80–82.</note> domini et mariti sui
+                    carissimi, quibus nos summopere rogant, ut mandatum novum <persName>maiestatis
+                        regiae</persName>, domini nostri clementissimi expediendum curaremus ad
+                    dominum <persName>Strigoniensem</persName>,<note type="critic">Pál
+                        Várday.</note> quo causa castri <placeName>Baynochz</placeName><note
+                        type="critic">Elek Thurzó received Bojnice Castle in 1527, see <hi
+                            rend="smallcap">Pálffy</hi> 2011, 77.</note> et viginti octo millium
+                    Florenorum ad reditum maiestatis regiae differetur. Iam antea Dominae Vestrae
+                    Magnificae ac domino marito suo carissimo perscripsimus, nos in hoc negotio
+                    eorum eam, quam potuimus, apud maiestatem regiam operam <del corresp="Olahus"
+                        >praestitimus</del><add corresp="Olahus" type="corr">praestitisse</add>. Ita
+                    ut non videatur opus novum mandatum ad dominum
+                        <persName>Strigoniensem</persName><note type="critic">Pál Várday.</note>
+                    dare, nam tria mandata ad eum sunt, in hac causa differenda data. Primum
+                    mandatum misimus ad manus domini mariti sui ac Dominae Vestrae, secundum
+                    mandatum misimus per postham, quo mandabatur, ut tam ista causa castri Baynocz
+                    quam alia generalia iudicia festi beati Georgii<note type="critic">24.
+                        April.</note> in aliud tempus differretur. Tertium et ultimum mandatum
+                    misimus similiter per postham ad dominum <persName>Strigoniensem</persName>,
+                    ante octavum ab hinc (ut arbitramur) diem, quo <del corresp="Olahus"
+                        >mandatis</del><add corresp="Olahus" type="corr">mando</add> propter certas
+                    et rationabiles <del corresp="Olahus">ex</del> causas animum maietatis suae
+                    moventes. Mandatum est eidem domino <persName>Strigoniensi</persName>, ut non
+                    modo generalia iudicia festi beati Georgii praeteriti, sed etiam brevia iudicia
+                    locumtenentiae suae, quae tertio die huius festi pentecostes incipere volebat,
+                    omnino ad alius tempus differat. Hoc idem autem significavit sua maiestas domino
+                    Michaeli quoque <persName>Merey</persName>,<note type="critic">Mihály Mérey
+                        (†1572) was a Personalis between 1544 and 1562. From 1562 until his death,
+                        he was a Deputy Palatine, see <hi rend="smallcap">Fallenbüchl</hi> 1988,
+                        132.</note> personali praesentiae suae maiestatis etc. Quare non est
+                    timendum Dominis Vestris, quin dominus <persName>Strigoniensis</persName> et
+                    etiam <persName>Merey</persName> causam Dominae Vestrae Magnificae una cum aliis
+                    causis generalibus et particularibus ad tot mandata regia omnino differant.
+                    Superfluum <milestone unit="pb"/>igitur videtur maiestati regiae, domino nostro
+                    clementissimo mandatum tot mandatis, quae observari debebunt, nunc addere. Hoc
+                    tamen Dominae Vestrae Magnificae voluimus significare, quod sicuti nos
+                    voluntatem maiestatis suae intelligimus, nec generalia, nec particularia iudicia
+                    vult ad longissimum tempus differri facere, ne alicui iustitia negata esse
+                    videatur. Quare Domina Vestra sit cum iuribus suis parata, ut cum iudicia
+                    incipienda maiestas regia mandaverit, Domina Vestra ipsa non desit defensioni
+                    suae. Nos quacumque in re iusta et licita Dominae Vestrae ac marito suo
+                    carissimo complacere et inservire poterimus, faciemus libenter, sicuti id etiam
+                    hactenus fecimus. Reliquum est, Dominam Vestram feliciter valere optamus.</p>
+                <p>Ex <placeName>Misnia</placeName> 29. May anno Domini 1547.</p>
+                <p>[2.] <add corresp="Olahus" type="insert">Maiestas regia, Deo bene
+                        adiuvante propediem erit <placeName>Pragae</placeName>. Si quid negotii
+                        Domina Vestra Magnifica habet, poterit illuc ad suam maiestatem mittere vel
+                        venire. Debellatis hostibus religionis et inoboedientibus, captoque duce
+                        Saxone <add corresp="Olahus" type="insert">alias</add>
+                        <persName>electore</persName><note type="critic">Maurice, Elector of
+                            Saxony.</note>
+                        <placeName>Vittembergam</placeName> quoque civitatem, domicilium
+                        haereticorum occupamus. </add></p>
+                <milestone unit="p"/>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus Zagrabiensis
+                            cancellarius regiae maiestatis etc.</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Generosae et magnificae dominae Magdalenae Zekel de Ormosd spectabilis
+                    et magnifici domini Ioannis a Pernstain consorti etc. dominae nobis
+                    honorandissimae.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

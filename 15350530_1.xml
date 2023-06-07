@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">537</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 30 May 1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350530_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 554.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">131.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-05-30">30 May 1535</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 30 May 1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He is not getting any letters from Oláh these days, although there is
+                            someone to take the letters, he thinks this must be due to Oláh’s
+                            nonchalance. They have received a letter from Rome, according to which
+                            the Pope has appointed six new Cardinals, including John Fisher, whom
+                            King Henry VIII is holding in jail. The rest, except for Caspare
+                            Contareno, who is above reproach, does not differ from the usual
+                            congregation of Cardinals. He voted for the Lutheran bishop from Paris
+                            to favor the French, he knows the rest. The imperial fleet consists of
+                            330 boats, and Lucretia Caballis will tell him about the Turkish
+                            affairs. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem. </p>
+                <p>Iam aliquot dies sunt, ex quo nullas tuas litteras accepimus, quod puto
+                    negligentia tua factum esse. Nam tu, qui in otio es, quid est, quod omnes ferme
+                    tabellarios ab hinc duos menses ad nos venientes praeteristi sine litteris tuis.
+                    Noli, amabo, Olae Carissime, hac mecum taciturnitate uti, et de rebus vestris
+                    fac me et de statu rerum tuarum frequenter certiorem. Ex litteris Urbanis
+                    intelleximus <persName>pontificem</persName><note type="critic">Pope Paul
+                        III.</note> VI cardinales designasse,<note type="critic">In the second
+                        Consistory for the promotion of cardinals, Pope Paul III created seven
+                        cardinals: Nicolaus Schönberg, Hieronymus de Ginutiis, Jacobus Simoneta,
+                        Johannes Fisher, Johannes de Bellayo, Gasparus Contarenus and Marinus
+                        Ascanius de Carraciolis. See <hi rend="smallcap">Van Gulik–Eubel</hi> 1923,
+                        23–24; and <hi rend="smallcap">De Vocht</hi> 1961, 241.</note> inter quos
+                    habetis <persName>episcopum Ruffensem</persName>,<note type="critic">John
+                        Fisher.</note> quem <persName>rex Anglus</persName><note type="critic">King
+                        Henry VIII.</note>
+                    <choice>
+                        <orig>vir sane bonus et intelligens</orig>
+                        <supplied>virum sane bonum et intelligentem</supplied>
+                    </choice> in carceribus habet.<note type="critic">He was executed not much
+                        later, on 22 June, 1535, at the order of King Henry VIII.</note> Reliqui,
+                    excepto <persName>Contareno patricio Veneto</persName><note type="critic"
+                        >Caspare Contareno or Gasparo Contarini (†1542) was Apostolic Legat and
+                        Cardinal, and he wrote the book <hi rend="italic">De magistratibus et
+                            republica Venetorum libri quinque</hi> (Veneto, 1551), see <hi
+                            rend="smallcap">De Vocht</hi> 1961, 241, 267–268.</note> philosopho et
+                    theologo, vitae integritate cum paucis conferendo, ab consueto cardinalium coetu
+                    non degenerant. In Gallorum gratia elegit <persName>episcopum
+                        Parisiensem</persName><note type="critic">Jean du Bellay (1492–1560) was
+                        Bishop of Paris from 1532.</note> Lutheranum, cetera nosti. Classis caesaris
+                    CCCXXX navium erit, apparatus ingens. Res Turcicas intelliges de
+                        <persName>Lucretia</persName><note type="critic">Lucretia Caballis (vom
+                        Ross).</note> nostra. Tu vale et <persName>Sceppero</persName><note
+                        type="critic">Cornelis de Schepper.</note> nostro me commenda. </p>
+                <p><placeName>Mediolano</placeName> XXX. Maii MDXXXV.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

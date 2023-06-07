@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">816</title>
+                <title type="main">István Dobó to Miklós Oláh (Eger, 7 June 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520607_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 64. Konv. B. </repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">68.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-07">7 June 1552</date>
+                <placeName>Eger</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>István Dobó</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">István Dobó to Miklós Oláh (Eger, 7 June 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. The other day the Pasha of Buda set out from Pest towards Veszprém,
+                            and when our troops heard about it, they turned back from Hatvan and
+                            Gyöngyös. They have captured a Turk, who has talked about Kara Ahmed
+                            Pasha’s arrival, he has already written to Oláh about it. They have
+                            since captured other Turks, one of whom said that he had set out towards
+                            Buda from Ahmed Pasha’s camp already a month ago. He says the Pasha is
+                            gathering troops in Belgrade, he has already recruited 40,000 people,
+                            and that the two Pashas have agreed amongst themselves that as soon as
+                            Ahmed crosses the Danube, the Pasha of Buda will start to besiege the
+                            castle of Eger, waiting for Ahmed to arrive from Szolnok. 2. He does not
+                            know if this is true, but he wanted to let Oláh know so he can act in
+                            time. He also asks him to let Mecskey come back without delay. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Domine mihi semper Observandissime et
+                    Gratiosissime, servitiorum meorum debitam semper et perpetuam exhibitionem!</p>
+                <p>[1.] Nuper cum <persName>bassa Budensi</persName><note type="critic"
+                        >Hadim Ali Pasha.</note> Danubium <placeName>Vesprimium</placeName><note
+                        type="critic">Veszprém.</note> versus a <placeName>Pestino</placeName>
+                    traicerat, quo fato a castello <placeName>Hathwan</placeName><note type="critic"
+                        >Hatvan.</note> et oppido <placeName>Gyengyes</placeName><note type="critic"
+                        >Gyöngyös.</note> reversi nostri fuerint, Dominationem Vestram
+                    Reverendissimam certificaveram,<note type="critic">See Ep.
+                        814.</note><ref>/o:olahus.tei.15520529_1</ref> Turcusque ille tunc captus,
+                    quae de venturo <persName>Ahmath bassa</persName><note type="critic">Kara Ahmed
+                        Pasha.</note> retulerat, Dominationi Vestrae Reverendissimae perscripseram.
+                    Nunc igitur per servitores <persName>maiestatis regiae</persName> et
+                    Dominationis Vestrae Reverendissimae ex eodem fato, tam maiestati regiae, quam
+                    Dominationi Vestrae Reverendissimae singulos Turcos cum singulis equis
+                    Turcalibus misimus, per quos Dominatio Vestra Reverendissima palam de omnibus
+                    certior fieri poterit, quae tam Turca iterum post praedictum fatum per
+                    stratagemata exercentes capti, quam etiam vulgus necnon peculiares mei homines,
+                    qui hodie <placeName>Buda</placeName> reversi sunt, de eisdem praedictis bassis
+                    referant. Est inter istos noviter captos Turcos, qui dicit iam mensem unum esse
+                    completum, ex quo ipse de castris <persName>Ahmath bassae</persName> esset
+                        <placeName>Budam</placeName> reversus, dicit eum bassam penes
+                        <placeName>Nandoralbam</placeName><note type="critic">Belgrade.</note>
+                    exercitum colligere, et iam plus quadraginta tunc millibus collectos fuisse, cum
+                    ipse de castris illius discessisse. Hic refert eosdem bassas mutuum hunc habere
+                    intellectum, ut quamprimum <persName>bassa Budensis</persName> certior
+                    redderetur, quod <persName>Ahmath bassa</persName>
+                    <placeName>Danubium</placeName>
+                    <choice>
+                        <orig>traieceret</orig>
+                        <supplied>traiecerat</supplied>
+                    </choice>, illico <persName>Budensis</persName> arcem hanc Dominationis Vestrae
+                    Reverendissimae obsessurus foret praestolandum <persName>Ahmatum</persName> sub
+                    fortalicium <placeName>Zolnok</placeName><note type="critic">Szolnok.</note>
+                    adventurum. Homo meus peculiaris refert, per quem mihi per fidum amicum idem est
+                    nuntiatum, ut ubi <persName>bassa Budensis</persName>
+                    <placeName>Vesprimio</placeName> reverteretur, illico castra movendi haberet
+                    animum ad obsidendam <placeName>Agriam</placeName>.<note type="critic"
+                        >Eger.</note></p>
+                <p>[2.] Haec pro certo mihi narratur, verum sintne certa vel incerta,
+                    penitus ignoro. Nihilominus tamen haec per celerem postam antequam de pluribus
+                    Dominatio Vestra Reverendissima certior reddatur transmittendum paucis duxi fore
+                    necessarium, ut valeat eadem Dominatio Vestra Reverendissima rebus tam acris
+                    istius quam nostris maturius providere, et bene consulere. </p>
+                <pb/>
+                <p>Quocirca pro honore nostro et Dominationi Vestrae Reverendissimae nos
+                    quoque et commodis regni istius Hungariae inservire valeamus. In his partibus
+                    maiestas regia nullas habet gentes praeter eas, quas perpaucas Dominatio Vestra
+                    Reverendissima hic <placeName>Agriae</placeName> residentes optime novit.
+                    Dominum collegam meum,<note type="critic">His colleague became István Mecskey.
+                        Since Dobó could not leave Eger, he sent Mecskey to the partial assembly to
+                        Szikszó in July, see <hi rend="smallcap">Csiffáry</hi> 2005, 114.</note>
+                    quisquis fuerit, Dominatio Vestra Reverendissima dignetur absque dilatione
+                    demittere. Ego interea quoad possum, pro mea humanitate in omnibus deficere
+                    nolo, sed modificationibus Deo volente inservire curabo, de praemissis vero, ut
+                    Dominatio Vestra Reverendissima brevi et sine mora consulere dignetur,
+                    Dominationem Vestram Reverendissimam valde, ut possum, oro. Quam in reliquis
+                    felicissime valere desidero.</p>
+                <p>Datum in <placeName>arce Agriensi</placeName> 7. Iunii anno Domini
+                    1552.</p>
+                <p>Eiusdem Dominationis Vestrae Reverendissimae deditissimus servitor</p>
+                <p>
+                    <seg type="signature">Stephanus Dobo de Rwzka etc.</seg>
+                </p>
+                <p>
+                    <add corresp="Olahus" type="insert">B. Copia litterarum Stephani Dobo.</add>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

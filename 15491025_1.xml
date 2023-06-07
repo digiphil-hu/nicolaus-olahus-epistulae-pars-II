@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">725</title>
+                <title type="main">Miklós Oláh to Sebestyén Szerémi (Prague, 25 October
+                    1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15491025_1</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with autograph emendations and
+                            signature. Seal has broken off.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other hand:</hi> Bona quondam Georgii Thurzo et Georgii
+                        Horvath rei comitatu Trencensiu confecti petunt. 1549.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 554 – No. 83.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">1r-2v.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-10-25">25 October 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Sebestyén Szerémi</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Sebestyén Szerémi (Prague, 25 October 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Oláh received two of Sebestyén Szerémi’s letters at the same time: in one
+                            he asks the King for the inheritance of the late György Thurzó, in the
+                            other for the inheritance of the late György Horváth. In light of their
+                            long friendship, Oláh tried to represent Szerémi’s interests; the King
+                            first wants to understand who is due what, he will decide after that. 2.
+                            While Oláh was working on this, the noblemen unexpectedly presented
+                            themselves to the King, waving around the title deeds and a letter of
+                            accreditation from Ferenc Thurzó, according to which the late Horváth’s
+                            benefices should go to their wives – and the King did not want to
+                            deprive them of it. This is what he wanted to let him know, and as soon
+                            as the King sees more clearly in connection with the Thurzó estates,
+                            Oláh will try to represent Szerémi’s interests.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Egrege Domine<note type="critic">Sebestyén Szerémi began his career as
+                        the secretary of Ambrus Sárkány of Ákosháza, then he became the secretary of
+                        Elek Thurzó. He became secretary of the Hungarian Chamber in 1547. Between
+                        1547 and 1554, he was a Councillor of the Hungarian Chamber, see <hi
+                            rend="smallcap">Gecsényi</hi> 2008a, 480–481.</note> et Amice nobis
+                    Honorande, salutem et nostri commendationem!</p>
+                <p>[1.] Binas litteras Dominationis Vestrae Egregiae eodem tempore recepimus, in
+                    quarum alteris bona quondam <persName>Georgii Thwrzonis</persName>,<note
+                        type="critic">György Thurzó.</note> alteris bona olim <persName>Georgii
+                        Horwath</persName>,<note type="critic">György Horváth.</note> omnino in
+                    comitatum Trinciniensium existentia eadem a <persName>regia
+                    maiestate</persName>, domino nostro clementissimo sibi impetrare petit. Sane pro
+                    veteri nostra necessitudine, quantum potuimus, sedulo utraque bona Dominationis
+                    Vestrae Egregiae ordinari studuimus, in eoque diligentes fuimus, nec ullis
+                    nostris laboribus pepercimus, verum sicut eadem quoque in suis litteris <del
+                        corresp="Olahus">ominatur</del><add corresp="Olahus" type="corr"
+                        >ominabatur</add> ac sibi timeri significavit, quominus voticompotes esse
+                    potuimus, illud restitit, quod regia maiestas responderit se intellegere velle,
+                    quae et quanta, cuiusque emolumenti ipsa bona Thwrzonis sint. Illis cognitis id
+                    postea facturam, quod faciendum videbitur.</p>
+                <p>[2.] In aliis bonis impedire ista. Nam forte eodem tempore, cum apud regiam
+                    maiestatem pro illis laboravimus, praeter opinionem adfuere nobiles cum litteris
+                    acquisitionis seu originalibus ipsorum bonorum, ad quorum uxores iure illarum
+                    litterarum attinere cernebantur, qui litteras quoque domini
+                        <persName>Nitriensis</persName><note type="critic">Ferenc Thurzó.</note>
+                    credentionales habebant, quibus perlectis cognovit regia maiestas ipsa bona
+                    Georgii Horwat ad uxores illorum spectare ex eo, quod istarum dominarum maiores
+                    praedicta bona utrique sexui acquisivissent, et hanc ob causam maiestas regia
+                    noluit illas his bonis ex misericordia quadam sua privare. Haec sunt, quae
+                    Dominationi Vestrae significare voluimus. Nostra opera et diligentia in
+                    promotionem rebus Dominationis Vestrae certe non defuit, sed praemissae causae
+                    obtinere, quin voticompotes vel in una, vel in altera re <milestone unit="pb"/>esse potuimus. Ubi de bonis olim Thwrzonis sua maiestas edocta fuerit,
+                    commoditate rei admittere iterum in illis impetrandis ea, qua poterimus,
+                    diligentia laborabimus, ac <choice>
+                        <orig>se</orig>
+                        <supplied>si</supplied>
+                    </choice> quid aliud quoque erit, in quo res Dominationis Vestrae promovendae
+                    erunt, quicquid eidem nostra diligentia praestare poterit, habebit eam, praesto.
+                    Eandem in reliquo optamus valere feliciter.</p>
+                <p><placeName>Pragae</placeName> 25. Octobris 1549.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Vester Nicolaus Olahus Agriensis
+                            cancellarius regiae maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Egregio domino Sebastiano Syrmiensi, consiliario Camerae Hungaricae regiae
+                    maiestatis ac domino et amico nobis honorando.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

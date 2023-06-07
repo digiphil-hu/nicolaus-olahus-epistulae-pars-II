@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">485</title>
+                <title type="main">Miklós Oláh to Sebestyén Pemfflinger (Brussels, 1 May
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340501_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 495–496.</note>
+                <note type="translation">
+                    <p>
+                    <hi rend="italic">In Hungarian:</hi>
+                        <hi rend="smallcap">Dobrossy</hi> 2000, 169.</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >413–414.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-05-01">1 May 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Sebestyén Pemfflinger</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Sebestyén Pemfflinger (Brussels, 1 May
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is happy that Sebestyén Pemfflinger has arrived to his wife. The
+                            Queen is also better, but a month ago she had such a high fever that
+                            they were sincerely worried about her life. 2. He thanks him for
+                            occupying the Miskolctapolca abbey in his name once again, and he asks
+                            him to look after it. If possible, he should bring back the monks who
+                            had scattered, and he should provide food from the supplies of the
+                            Miskolctapolca parish and the Diósgyőr castle. If the monastery is
+                            uninhabitable, they should move to the Miskolc building of the abbey or
+                            to the parish. The most important thing is to continue with the
+                            services, they should not neglect them.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Sebastianum <del corresp="Olahus">Pemfflinger</del><add
+                        corresp="Olahus" type="corr">Pemfflingerum</add> comitem Borsodiensem. </p>
+                <p>[1.] His diebus praeteritis redditae fuerunt mihi litterae tuae in
+                        <placeName>Valkenstain</placeName><note type="critic">Wolkenstein.</note>
+                        datae,<note type="critic">We do not know this letter.</note> ex quibus
+                    intellexi te sanum et incolumem ex <placeName>Dyosgieuur</placeName><note
+                        type="critic">Diósgyőr.</note> e multis calamitatibus et damnis ad
+                    carissimam <persName>coniugem</persName><note type="critic">Elisabeth von
+                        Puchheim.</note> tuam venisse. Habeo gratias Deo, qui te sanum reduxerit.
+                    Nihil est gratius, quam intellexisse te bene valere. Ex Dei gratia
+                        <persName>regina</persName> nostra serenissima iam melius valet, sed fere ab
+                    uno mense diebus interpositis illa infirmitate Posoniensi et Altenburgensi sua
+                    pristina, <choice>
+                        <orig><del corresp="Olahus">interruptis</del><add corresp="Olahus"
+                                type="corr">intermistis</add></orig>
+                        <supplied>intermixtis</supplied>
+                    </choice> febribus adeo aegrotabat, ut timorem non parvum nobis <del
+                        corresp="Olahus">incusserat</del><add corresp="Olahus" type="corr"
+                        >incusserit</add> vitae suae finiendae. Sed Deo ago gratias, qui eam sanam
+                        <del corresp="Olahus">fecerat</del><add corresp="Olahus" type="corr"
+                        >fecerit</add>. Nos quoque omnes bene valemus et exspectamus avido animo
+                    pacem Hungaricam. </p>
+                <p>[2.] Habeo gratias tibi, qui abbatiam de
+                        <placeName>Thapoltza</placeName> rursus meo nomine occupari feceris, eamque
+                    possideas. Rogo te, cura eam illiusque bona ut tua propria et defende. Nihil
+                    enim ex meis ita meum esse duco, ut tecum non sit commune. Si fieri potest,
+                    reducas monachos metu dilapsos, ne divina negligantur. De victualibus eis
+                    necessariis interea provideri ex proventibus plebaniae de
+                        <placeName>Myskoltz</placeName> poterit, vel rogo te ex victualibus arcis
+                        <placeName>Dyosgeuur</placeName> usque ad novum frumentum et vinum, ex
+                    quibus id, quod eis nunc datur, postea excipe. Si monasterium per sacrilegum
+                    illum <persName>Bebek</persName><note type="critic">Ferenc Bebek. On its
+                        antecedents, see Ep. 274; Ep. 372; and Ep.
+                        462.</note><ref>/o:olahus.tei.15320920_2</ref><ref>/o:olahus.tei.15330605_1</ref><ref>/o:olahus.tei.15340304_1</ref>
+                    adeo destructum est, ut habitare istic non possint, habet in Myskolcz abbatia
+                    domum. In qua vel etiam in domo plebani monachi habitare possunt, quo usque
+                    monasterium refici poterit aliquantisper. Et nihilominus in ecclesia parochiali
+                    Myskolchiensi monachi divina servitia debita monasterio continuare <choice>
+                        <orig>poterint</orig>
+                        <supplied>poterunt</supplied>
+                    </choice>, interea dum illud reformabitur. Si magno beneficio me <milestone unit="pb"/>vis afficere, cura, ut servitia divina uno vel alio modo non
+                    negligantur, quo usque exire hinc potero. <persName>Viceplebanus</persName>
+                    <del corresp="Olahus">Michel</del> ad me scripsit nihil. Cuperem, ut non
+                    perpetuo taceret, damnum alioqui patietur. De novitatibus mihi significatis
+                    habeo tibi gratias. Utinam iam pacem haberemus! Quam omnino spero, si rem bene
+                    intelligo futuram. Vale. </p>
+                <p><placeName>Bruxellae</placeName> prima Maii 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

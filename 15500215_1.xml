@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">734</title>
+                <title type="main">Miklós Oláh to Michael Manlich (Bratislava, 15 February
+                    1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15500215_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal. To this
+                            letter, see <hi rend="smallcap">Laczlavik</hi> 2014, 120–121.</p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Karácsonyi–Kollányi–Lukcsics</hi> 1912, 303.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other 18-century handwriting:</hi> 1550. 15. Febr.
+                        Litterae Nicolai Olahi episcopi Agriensis ad Michaelem Manlich datae, ut is
+                        Ioannem Catamum mediciae doctorem in Florenis Hungaricis 111, denariis 50,
+                        quibus archiepiscopus Strigoniensis Paulus de Varda eidem tenebatur, ipse
+                        vero debitum hocce solvendum in se assumpsit, interim aliter exsolvat.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 25. Fasc. M. No. 599.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-02-15">15 February 1550</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Michael Manlich</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Michael Manlich (Bratislava, 15 February
+                    1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The late Pál Várday owed doctor Joannes Maria Cataneus 111 florins and 50
+                            denarii, which debt Oláh has assumed. He asks that he pay 75 florins
+                            from the above-mentioned sum, which he will settle, and he should keep
+                            the receipt (which either the physician or a representative of his will
+                            provide to him).</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Carissime Domine Manli!<note type="critic">Michael Manlich was a factor
+                        of the Fuggers in Vienna, see <hi rend="smallcap">Laczlavik</hi> 2014, 121.
+                        On the network of the Manlich family, see <hi rend="smallcap"
+                            >Tózsa-Rigó</hi> 2013, 31.</note>
+                </p>
+                <p>Debebat reverendissimus quondam dominus
+                        <persName>Paulus</persName><note type="critic">Pál Várday died on 12
+                        October, 1549.</note> archiepiscopus Strigoniensis huic domino
+                        <persName>Ioanni Mariae Cataneo</persName>,<note type="critic">Johannes
+                        Maria Cataneus. We know a physician with the same name from the 1510s, who
+                        was in the service of Emperor Maximilian I, see <hi rend="smallcap"
+                            >Kostenzer</hi> 1970, 79–80. It is not clear if this is the same
+                        physician.</note> artis medicae doctori, centum et undecem Florenos
+                    Hungaricos in monetis et denarios quinquaginta, quos nos in nos ipsos
+                    recepimus.</p>
+                <p>Quare rogamus vos, velitis nomine nostro ipsi domino <persName>Ioanni
+                        Mariae</persName> doctori, vel homini suo, hos centum et undecem Florenos et
+                    quinquaginta denarios, singularem Florenum per septuaginta quinque cruciferos
+                    computandos persolvere, quos nos apud vos rectificabimus.</p>
+                <p>Praesentes vero una cum litteris quietantiae<note type="critic">A
+                        letter of discharge from debt.</note> praefati <persName>Ioannis
+                        Mariae</persName> doctoris, vel hominis sui, qui plenum mandatum ab eo
+                    habuerit, pro vestra expeditione reservare.</p>
+                <p>Datum <placeName>Posonii</placeName> quindecima die Februarii anno
+                    Domini millesimo quingentisemo quinquagesimo.</p>
+                <p>
+                    <seg type="signature">Nicolaus Olahus episcopus Agriensis, cancellarius regiae
+                        maiestatis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Domino Michaeli Manli factori Fucarorum Viennae constituto etc. amico
+                    nobis honorando.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

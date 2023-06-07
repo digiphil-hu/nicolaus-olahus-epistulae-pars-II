@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">597</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 4 December
+                    1537)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15371204_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 611–612.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 194–196.</p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 262. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >329–330.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1537-12-04">4 December 1537</date>
+                <placeName>[Leuven]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh ([Leuven], 4 December 1537)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Because he has not received a reply to his two previous letters, he
+                            now tries a third one. He and Johann Henckel Jr. have taken care of what
+                            he had tasked them with: they have paid the creditors. He has started to
+                            have bigger expectations for the lad than when he arrived. He spends all
+                            of his day in his bedroom with his books, Nanninck thinks he will not be
+                            disappointed in him. 2. If he can spare <hi rend="italic">Athila</hi>,
+                            he should send it to him because he desires it and many people are
+                            requesting it. He should publish his work already, he also knows that a
+                            reclusive musician has no clout. He is completely immersed in
+                            Demosthenes: he asks Oláh to tell him his opinion about his text. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem plurimam dicit. </p>
+                <p>[1.] Etsi nihil est, quod scribam, Vir non minus eruditione et
+                    humanitate, quam regiis natalibus Ornate Nicolae Patrone Unice, tamen, ut saltem
+                    elicerem responsum de binis litteris,<note type="critic">Ep. 595. and Ep.
+                        596.</note><ref>/o:olahus.tei.15371116_1</ref><ref>/o:olahus.tei.15371120_1</ref>
+                    quas ad te misi, si <choice>
+                        <orig>ono</orig>
+                        <supplied>otio</supplied>
+                    </choice> abundares, etiam nunc tertio scribendum putavi, cum is nuntius huc
+                    iturus esset, qui brevi recursu me certiorare possit, ut loquar iurisperitorum
+                    more. In Ioannis negotiis <persName>Henkel</persName><note type="critic">Johann
+                        Henckel the Younger.</note> egimus, ut a te in mandatis habebamus, quosdam
+                    enim ex creditoribus pecunia, quosdam <del corresp="editor">quosdam</del>
+                    fideiussionibus, quosdam spe mature solutionis in aliquot hebdomadas placavimus.
+                    De iuvene longe nunc aliam spem habeo, quam cum primum ad me veniret, sentio
+                    illum, quicquid hactenus <del corresp="Olahus">deliquis</del><add
+                        corresp="Olahus" type="corr">deliquit</add>, adolescentia, amore, malorum
+                    seductione potius, quam suopte ingenio peccavisse. Video illum quotidie in
+                    litteris in cubiculo assidue, ubi intra libros inclusus totos ferme dies
+                    transigit, quare ego hos dies, quos apud me egit, pro arrhabone et pignore in
+                    posterum frugalis vitae accipio, nec timeo me delusum <choice>
+                        <orig>eri</orig>
+                        <supplied>iri</supplied>
+                    </choice>, <choice>
+                        <orig>propterquam</orig>
+                        <supplied>praeterquam</supplied>
+                    </choice> enim, quod litteras amat, et timet et veneratur tuam dignitatem
+                    maxime, et ex certis rebus conperi quantopere reformidet tuas offensas, quae res
+                    potissimum spem meam et excitat et confirmat. </p>
+                <pb/>
+                <p>Ex colloquiis illius (nam mihi perfamiliaris est) sentio illum,
+                    quamquam diu a studiis feriatus sit, insignes reliquas veteris eruditionis
+                    retinuisse, quae, ut aliquem cumulum apud me accipiant, omni diligentia curabo. </p>
+                <p>[2.] Si posses carere tuo <hi rend="italic">Atthila</hi>, vellem, quod
+                    tandem desideriis meis succurreres, facultatemque dones uni aut alteri
+                    conmunicandi, qui miro ardore eum librum expetunt, horum vota, si per te liceat,
+                    non libenter frustrarer, digni enim sunt, quibus fetus tui ingenii committantur.
+                    Scis <quote>lucernam sub modio esse ponendam,</quote><note type="quote">Mt5, 15:
+                        “neque accedunt lucernam, et ponunt eam sub modio”. Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> 792. I,VIII,92.</note> et <quote>occultae
+                        musices nullum respectum,</quote><note type="quote">Erasm. <hi rend="italic"
+                            >Adag.</hi> 684. I,VII,84. Occultae musices nullus respectus.</note> nec
+                        <quote>talentum domini terrae infodiendum.</quote><note type="quote">Cf.
+                        Mt25, 25: “et timens abii, et abscondi talentum tuum in terra: ecce habes
+                        quod tuum est.”</note> Si tantae apud te authoritatis essem, quantum te et
+                    amo et veneror, iuberem pro imperio, ut orbi <choice>
+                        <orig>comicares</orig>
+                        <supplied>communicares</supplied>
+                    </choice> tua studia, quae, ut scis, a magnis viris delibata insigne encomium
+                    retulerunt, et quotidianis laudibus celebrantur. Ego, me Hercle, premo, ut
+                    possum, quod sentio, quamquam mihi invito non nihil erumpat, semper enim vereor,
+                    ne effusior laus quamquam infra meritum tibi videatur, nescio, quid blanditiarum
+                    referre. Quare fit, ut apud te de te rarius, apud alios de te liberrime loquar,
+                    ubi mea iudicia nulli verecundiae nec suspicioni astricta sunt. Totus sum in <hi
+                        rend="italic">Demosthene</hi><note type="critic">I.e. in book <hi
+                            rend="italic">Demosthenis De immunitate adversus Leptinem</hi>.</note>
+                    ubi, ut in superioribus litteris scripsi,<note type="critic">Ep.
+                        596.</note><ref>/o:olahus.tei.15371120_1</ref> tuas auxiliares manus
+                    imploro, opus, nisi tu aliter iubeas, tuis auspiciis in lucem prodibit, cui,
+                    quid est meorum studiorum, libenter consecratum velim. Vale, Unicum meis
+                    litteris Praesidium. </p>
+                <p>Pridie Nonas Decembres anno 1537.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

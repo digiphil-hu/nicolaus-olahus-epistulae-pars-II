@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">632</title>
+                <title type="main">Miklós Oláh to Banská Štiavnica Town Council (Zvolen, 14
+                    September 1542)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15420914_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Schembnitz. <hi rend="italic">Other
+                            contemporary handwriting:</hi> Adi 15. Septembris 1542 jare. Von Wolff
+                        Nadler uberrantwort die hernn commissary pevelhen, deß Kleen sach auff der
+                        ander hernn commissary auffzuschobenn.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica </settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Missiles 1542.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1542-09-14">14 September 1542</date>
+                <placeName>Zvolen</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Banská Štiavnica Town Council (Zvolen, 14
+                    September 1542)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Wolff Nadler has told them that Martin Klee and himself brought their
+                            complaint against each other in front of the Queen’s councillors and
+                            commissioners in Vienna last July. Klee then requested a stay in their
+                            dispute regarding the valuation until the commissioners arrive, which
+                            they expect to happen in the coming days, and so the issues can be
+                            discussed lawfully due to the postponement. However, despite all this
+                            they have been informed that Klee and his servants have continued with
+                            the valuation, so he orders Klee on behalf of the Queen not to continue
+                            with it on his own and not to cause damage but wait for the arrival of
+                            the commissioners. If they refuse to do so, the Queen as their landlord
+                            has the right to bring them to justice.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Unnser freundtlich grueß zuvor, liebenn herrnn unnd freundt! </p>
+                <p>Demnach unnß <persName>Wolff Nadler</persName><note type="critic">Wolff
+                        Nadler was a <hi rend="italic">Waldbürger</hi> (citizen of a mining town) in
+                        Banská Štiavnica, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009,
+                        600.</note> anzaigt unnd furbracht hat, wie <persName>Martin
+                        Clee</persName><note type="critic">Martin Klee.</note> unnd er im monnat
+                    Jully negst verganngen<note type="critic">July 1542.</note> zu
+                        <placeName>Wienn</placeName> vor khu. mt., unnser <persName>allergnedigisten
+                        frawen</persName> rätten unnd comissarien, unnsern herrn unnd freunden ir
+                    beschwerdt, so sy gegenainanndern gehabt, furbracht haben. Darauff dann
+                    gemellter <persName>Clee</persName> ain schrifftlicher abschidt ervolgt unnd,
+                    sovil die new schatzunng betrifft, ain stillstanndt biß auf gemellter herrn
+                    comissari ankhunfft (der wir dann tëglich gewarttig sein) aufferlegt wordenn,
+                    damit dieselbenn in irer khu. mt. namen die sachen weitter erledigen, unnd waß
+                    billich darinnen hanndlen mugen. Aber unangesehen des allen, so vernemen wir,
+                    daz sich der <persName>Clee</persName> oder sein dienner unnderstätt unnd
+                    vermaint, weitter dann die erst schatzung zu greiffen. Ist derhalben in namen
+                    hochgedachter khu. mt.,<note type="critic">I.e. königlichen Majestät.</note>
+                    unnser <persName>allergnedigsten frawenn</persName>, nochmalß unnser bevelh (wie
+                    dann zuvor auch beschehen), daz ir dem gemeltenn <persName>Clee</persName> nit
+                    weitter allain, sovil die erst rechtlich schatzung vermag, gestatten, auch
+                    khainß wegs ir ku. mt. camer zu nachtail eingriff thunn laßen, sonnder di sachen
+                    also biß auf gemellter herrn comissari ankhunfft beruehen laßen wolt. Wa aber
+                    annders ervolgte khundt, ir ermessen, daz sich ir khu. mt. alß euer richter
+                    oberkeitt pilliche ursach gegen euch zu beschweren und zu ersuechen haben,
+                    wurden. Haben wir euch freundtlicher maynung nit wellen verhallten, euch habenn
+                    darnach zu richten, damit waß euch freundtlich lieb ist und Got bevolhen. </p>
+                <p>Datum <placeName>Altensol</placeName> den 14. September anno etc.
+                        1542<hi rend="super">ten</hi>.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus custos Albensis
+                            etc.</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Denn ersamenn unnd weisen herrnn, n.,<note type="critic">I.e.
+                        Name.</note> richter unnd rat der stat Schembnitz, unnsern gutten
+                    freunnden.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

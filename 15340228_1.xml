@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">460</title>
+                <title type="main">Cornelis de Schepper to Miklós Oláh (Ljubljana, 28 February
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340228_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                        <ref>/o:olahus.tei.15340424_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 460.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 300–301.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340424_1" type="url">483</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >494–495.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-02-28">28 February 1534</date>
+                <placeName>Ljubljana</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Cornelis de Schepper</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Ljubljana, 28 February
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Upon arriving to Ljubljana, he learned that Péter Krusics has raided
+                            the Turks and ran off many, and according to Schepper, they cannot keep
+                            calm at the frontiers. Nobody knows anything about Ibrahim Pargalı
+                            Pasha, and there are no significant Turkish armed forces left in Europe.
+                            He does not know anything about Lodovico Gritti’s arrival, although
+                            Vespasian of Zara has arrived, they have not met yet. 2. He is stuck in
+                            Ljubljana because the rivers have flooded: the flood has destroyed
+                            bridges, and it is not possible to cross the straights. He sends his
+                            regards to Wolfgang Haller as well as some letters to his wife, Oláh
+                            should make sure she gets them.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Cornelius Scepperus Nicolao Olao suo salutem. </p>
+                <p>[1.] Ego iam perveni <placeName>Lubianam</placeName>, ubi intellexi
+                        <persName>Petrum Crusitz</persName><note type="critic">Péter Krusics or
+                        Petar Kružić (1495–1537) was Captain of Klis, Senj, and a famous defender of
+                        Klis until his heroic death in 1537. For more on his life, see <hi
+                            rend="smallcap">Jurković</hi> 2007.</note> fecisse excursionem in Turcas
+                    et profligasse aliquot illorum centurias. Non satis scio, quo consilio aut
+                    ratione, nisi quod praesidiarii isti de limitophore quietem pati non possunt. De
+                        <persName>Imbrahimo bassa</persName><note type="critic">Ibrahim Pargalı
+                        Pasha.</note> nihil scitur. Quidam dicunt profligatum illum a
+                        <persName>Tagmatz Sciach</persName><note type="critic">Tahmasp I
+                        (1514–1576), the second Shah of Safavid Iran, ruled from 1524 until his
+                        death in 1576.</note> Sophy,<note type="critic">Sophy was the name of the
+                        ruler of the Safavid dynasty of Iran (ca. 1501–1736), see <hi
+                            rend="smallcap">Floor</hi> 2016.</note> alii nescio quo confugisse.
+                    Constat, quicquid roboris Turcarum hic fuit, Europa excessisse. De
+                        <persName>Gryti</persName><note type="critic">Lodovico Gritti.</note>
+                    adventu nihil dum certi scio, tametsi advenerit <persName>Vespasianus
+                        Iaderensis</persName>;<note type="critic">Vespasian of Zara.</note> credo
+                    certiora vos istic scire, nam in <persName>Vespasianum</persName> non incidi. </p>
+                <p>[2.] Haesi hic <placeName>Lubianae</placeName> ob summa incrementa
+                    aquarum. Adeo enim <placeName>Savus</placeName> et
+                        <placeName>Labacus</placeName> et ceteri fluvii dissolutione nivium
+                    intumuere, ut pontibus fractis undique montis angustias <milestone unit="pb"/>iter prohibeant. Haec serenissimae reginali maiestati refer me nihil
+                    obmissurum, quod ad ipsius maiestatem aut Dominationem Vestram aliquo pacto
+                    spectare potest. <persName>Wolffgango Haller</persName> me commendabis,
+                    ceterisque dominis et amicis. Litterasque ad carissimam
+                        <persName>uxorem</persName><note type="critic">Anna Isabella (Elizabeth)
+                        Donche.</note> meam per fidum tabellarium transmittat, cui me ex animo
+                    commendo. </p>
+                <p>Ex <placeName>Lubiana</placeName> ultimo Februarii 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

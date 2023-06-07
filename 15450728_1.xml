@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">657</title>
+                <title type="main">Miklós Oláh to Ferenc Révay (Worms, 28 July 1545)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15450728_1</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>SNA</institution>
+                        <repository>SAR Korešpond. číslo 71.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">327–328.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1545-07-28">28 July 1545</date>
+                <placeName>Worms</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Révay</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Révay (Worms, 28 July 1545)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Oláh has presented everything that Ferenc Révay had written about to
+                            the King, and the King has responded briefly in writing, but Oláh wants
+                            to give a longer response. The King remembers settling the accounts with
+                            Révay in Vienna, and that the King remitted half of the loan due to
+                            Várday’s intercession. The Chamberlains are now giving him difficulties
+                            because they did not know about this relief, and they mentioned in
+                            Vienna that Révay is away because he is ailing, which is forgivable. In
+                            any case, the King will make sure that Révay does not suffer any losses,
+                            and as before, Oláh will do everything he can for him in the future as
+                            well. 2. As for the complaint about the expenses, it plagues all of
+                            them, especially Oláh, but they have to trust that they will get it back
+                            multiple times. Only God and he knows how much Oláh has done for the
+                            state. Révay must be happier than him, since he has found an honest,
+                            beautiful, and rich wife – is there any bigger fortune on earth? 3.
+                            Révay sent him Simontornyai’s letter and Báthori’s response, and Oláh
+                            read them to the King, who thinks the news about the Turks is unfounded,
+                            and he is waiting for Batthyány to make good on his promise regarding
+                            his service.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem et servitiorum meorum commendationem, Magnifice Domine mihi
+                    Observandissime!</p>
+                <p>[1.] Quae mihi in suis rebus Dominatio Vestra Magnifica scripserat, omnia
+                        <persName>maiestati regiae</persName>, domino nostro clementissimo abunde
+                    retuli. Ad ea litteris tamen maiestas sua Dominationi Vestrae Magnificae
+                    breviter respondit, ego tamen volui latioribus verbis suae maiestatis responsum
+                    ei significare. Sua maiestas dixit se memorem esse positae rationis cum
+                    Dominatione Vestra <choice>
+                        <orig>Reverendissima</orig>
+                        <supplied>Magnifica</supplied>
+                    </choice>
+                    <placeName>Viennae</placeName> et quod medio domini reverendissimi
+                        <persName>Strigoniensis</persName><note type="critic">Pál Várday.</note>
+                    <del corresp="Olahus">relaxaverit</del><add corresp="Olahus" type="corr"
+                        >benevole</add> relaxaverit dimidium crediti, quod autem domini camerarii
+                    nunc faciant difficultatem: de satisfacienda illa dimedietate nescire<note
+                        type="critic">Uncertain reading.</note> causam.<note type="critic">Probably
+                        from the proverb: ‘timendi causa est nescire’.</note> Nam etiam
+                        <placeName>Viennae</placeName> fuerat facta mentio absentiae Dominationis
+                    Vestrae Magnificae propter infirmitatem suam, quae excusare solet cuivis
+                    absentiam. Quare cum nunc si nec in procinctu continuis, nec multum contingere
+                    nos tardaturos <placeName>Pragae</placeName>, sed recta ituros
+                        <placeName>Wiennam</placeName>, tunc maiestas sua curabit, quod Dominatio
+                    Vestra Magnifica damnum non sit passura. Ego vero quicquid in negotiis
+                    quibuslibet Dominationi Vestrae Magnificae et sollicitandis et promovendis
+                    facere potui, feci certe ex animo, quod et in posterum <milestone unit="pb"/>sum facturus. </p>
+                <p>[2.] Querela illa expensarum magnarum non solius est Dominationis Vestrae
+                    Magnificae, sed omnium nostrum <add corresp="Olahus" type="insert">est</add>
+                    communis, maxime mea. Opus est, ut omnes germanius ad feliciora tempora, si quae
+                    Deus ex misericordia sua nobis unquam <choice>
+                        <orig>est</orig>
+                        <supplied>sunt</supplied>
+                    </choice> concessura, laborum, curarum et expensarum nostrarum praemium tum hic
+                    a principe nostro, tum in alio seculo ab illo altero, qui cuncta regit,
+                    expectaturi cumulatum. Quae ego iam in hoc officio meo frequentibus externis et
+                    longinquis itineribus ex meis expenderim, Deus scit et ego, faciam tamen
+                    quicquid et quoad possum, commodi et servitiorum reipublicae causa. Felicem
+                    Dominationem Vestram Magnificam prae me iudico, quae ex Dei clementia nacta sit
+                    dominam coniugem<note type="critic">Anna Paksy was Révay’s second wife from 1542
+                        after his first wife, Borbála Gyulay died around 1540. See <hi
+                            rend="smallcap">Frankl</hi> 1873, 7; and <hi rend="smallcap">Pálffy</hi>
+                        2009a, 10.</note> honestissimam, formosam et locupletem, tum sinu, tum
+                    nummis eam foventem; hac quae maior felicitas terrena esse potest? Eam tamen
+                    regia maiestas, dominus noster serenissimus abhorret, infelicitatemque esse
+                    putat, <del corresp="Olahus">non</del> tamen uti existimo non utramque, sed
+                    alterutram. De his alias plura.</p>
+                <p>[3.] Litteras <persName>Simonthornensis</persName><note type="critic">Probably
+                        Simontornyai. We do not know him more closely.</note> et responsum domini
+                        <persName>Bathori</persName>,<note type="critic">András (Bonaventura)
+                        Báthori.</note> quae Dominatio Vestra Magnifica ad me misit, perlegi
+                    maiestati regiae. </p>
+                <pb/>
+                <p>De Turca putat vanum illum esse rumorem. De domino <persName>Bathori</persName>
+                    exspectat ea servitia facultatis, quae verbis promittit. Quod restat, Dominatio
+                    Vestra Magnifica feliciter valeat cum suis liberis et domina
+                        <persName>coniuge</persName> sua carissimis, domina mea observanda ad multa
+                    tempora, quibus me commendo.</p>
+                <p>Ex <placeName>Vormatia</placeName> 28. Iulii anno 1545.</p>
+                <p>
+                    <seg type="signature">Servitor Nicolaus Olahus Zagrabiensis etc. citissima
+                        manu</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Magnifico domino Francisco de Rewa comiti de Thwrocz, vacante officio regni
+                    Hungariae palatini locumtenenti, consiliario regiae maiestatis etc. domino mihi
+                    observandissimo.</p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

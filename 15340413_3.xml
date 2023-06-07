@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">480</title>
+                <title type="main">Elek Thurzó to Miklós Oláh (Šintava, 13 April 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340413_3</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                        <ref>/o:olahus.tei.15340304_1</ref>
+                        <ref>/o:olahus.tei.1534727_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 489–490.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340304_1" type="url">462</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340727_1" type="url">499</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >405–407.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-04-13">13 April 1534</date>
+                <placeName>Šintava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Elek Thurzó</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Elek Thurzó to Miklós Oláh (Šintava, 13 April 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has received Oláh’s letter in which Oláh asks for his forgiveness
+                            if he has offended him, but Thurzó does not know what offence or
+                            estrangement he means: there is nothing to apologize for, especially in
+                            these confusing and hostile times. He believes Oláh will not bring up
+                            the length of time that has passed if he thinks about the severity of
+                            Thurzó’s illness, which was more dangerous than anything he had ever
+                            experienced, and it lasted virtually all of the autumn and winter, so he
+                            has become more sluggish not only in connection with his friends but
+                            with his home affairs as well. But their friendship has not changed, and
+                            when he has more time, he will write to his friends. 2. Even though he
+                            is sick, he has tried to settle Oláh’s issue with Bálint Török, but
+                            without success. Obviously Oláh also knows that Török holds nothing
+                            sacred, neither friends’ requests nor royal commands. The King will be
+                            meeting with Lodovico Gritti soon, everything depends on the outcome of
+                            this negotiation. 3. The Queen’s fickle health saddens him; he asks Oláh
+                            to recommend him to her. He wishes for the Pope and the neighboring
+                            rulers to unite and take advantage of the fact that the Turks are
+                            fighting in Persia.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Alexius Turzo comes etc. Nicolao Olao. </p>
+                <p>[1.] Reverende Domine, Amice Honorande, salutem! Litteras vestras de
+                    quarto mensis praeteriti datas<note type="critic">Ep.
+                        462.</note><ref>/o:olahus.tei.15340304_1</ref> accepimus, quibus in primis
+                    deprecari <milestone unit="pb"/>videmini, nescio, quam animi a vobis nostri alienationem, quam non
+                    aliunde colligitis, quam quod tanto tempore nihil ad vos litterarum dederimus.
+                    Cui quidem deprecationi non videmus, an locus ullus esse possit, praesertim in
+                    hoc rerum nostrarum turbine et temporum malignitate, quod ad eripienda sua bona
+                    ex quorundam faucibus pertinet. Nam quod ad temporis tractum spectat, quo nihil
+                    fere scripsimus, et ut vestrum est iudicium, nescimus, quam favoris et
+                    benevolentiae alienationem huic praebuimus. Non putamus certe transactum tempus
+                    hoc Dominationem Vestram pro argumento tracturam, si reputabit gravissimas
+                    aegritudines nostras et quibus periculosiores medicorum omnium sententia nunquam
+                    sensimus, integram fere hiemem, autumno iunctam occupavisse. Haec causa nos non
+                    solum, ut erga amicos pigriores solito essemus, sed etiam, ne domestica negotia
+                    curaremus, prohibuit.<note type="critic">Obscure sentence, it is likely that
+                        either something went wrong during the copying or Thurzó had not fully
+                        recovered by the time of writing.</note> Proinde, si quis Dominationis
+                    Vestrae animum inanis metus de mutatione benevolentiae nostrae occupavit,
+                    explodendus est. Manet enim et solida <choice>
+                        <orig>est</orig>
+                        <supplied>et</supplied>
+                    </choice> vetus illa nostri in vos animi benevolentia et favor, nec evelli
+                    facile tantopere radicata possit. Quod si quae interdum exigua ad horam sanitas
+                    redibat, exhausti atroci aegritudine vires non sufficiebant, ut interdum vel
+                    horam alteram dictandis ad amicos epistolis vacaremus, utcumque tamen volumus
+                    Dominationis Vestrae timorem illum vanum animo eiiciat. </p>
+                <p>[2.] Quamquam enim vires voluntati non responderint, egimus tamen, dum
+                    poteramus, apud dominum <persName>Valentinum Therek</persName><note
+                        type="critic">Bálint Török.</note> nec mediocri conatu, ut Dominationis
+                    Vestrae bona, quae usurpavit, pro se dimitteret. <quote>Sed o mores, o
+                        tempora!</quote><note type="quote">Cic. <hi rend="italic">In Cat.</hi>
+                        I,2.</note> Non dubitamus et vobis constare huius hominum generis ingenium,
+                    quod et alioqui suapte natura praefractum, temporis huius conditio efferavit, ut
+                    neque iussa regia, neque amicorum intercessiones aut respectus ab instituto
+                    illos revocare possint. Nihil nos apud dominum <persName>Valentinum</persName>
+                    efficere potuimus. Non enim illum intercessionis nostrae contemptum tolerare,
+                    aut subinde frustra repetere voluimus. Erat tenuis quaedam indiciorum spes, sed
+                    et ea in fumum abiit. Nunc <persName>maiestas regia</persName> (ut credimus ad
+                    festa Pentecostes<note type="critic">24 May.</note>) habitura est de stabiliendo
+                    aut transigendo potius regni statu cum <persName>Grithi</persName><note
+                        type="critic">Lodovico Gritti.</note> tractatus. Inde omnis ordo, omnis
+                    gubernandi regni modus pendet, qualiscumque futurus sit. Spes quidem magna
+                    reginalem maiestatem tenet, quo et nos bene sperare vult. Nisi tractatibus istis
+                    pro regni commodo absolutis frena vaganti licentiae imponantur, non videmus, hoc
+                    genus hominum qua alia via aut remedio coerceri possit. </p>
+                <p>[3.] De maiestatis reginalis adversa valetudine plurimum profecto
+                    tristamur, faxit Deus optimus maximus, ut maiestatem suam pristinae sanitati
+                    restituat. Scripsimus et nunc ad eius maiestatem, cui Dominatio Vestra
+                    servitutem nostram <milestone unit="pb"/>commendare velit, idque diligentissime. Commendet Dominatio Vestra
+                    maxima nos servitia, et quidem summa fide ac diligentia cum tempore serenissimi
+                    et clementissimi principis nostri, domini <persName>Ludovici</persName> regis,
+                    tum deinde quoque exhibuisse cum maxima rerum et bonorum meorum iactura. Quae et
+                    modo nos premit magnis ob fidelitatem et servitia incommodis et detrimentis
+                    oppressos, tantum abest, ut auctum me ab eius maiestate gloriari liceat. Cupio
+                    quidem eius maiestatis benevolentiam, et dum vita manebit, servire contendam. De
+                    rebus pontificis et vicinorum principum Dominatio Vestra ne intermittat ad nos
+                    scribere, optaremus illorum unionem. Quod si odiis contendere pergent,
+                    nihilominus erunt nobis grata, quae ex vestris litteris acceperimus. Nunc
+                    principibus nostris nescimus, an melior unquam arriserit occasio confinia nostra
+                    recuperandi. Vacua sunt enim omnia translatis in Persam
+                        <persName>Soffi</persName><note type="critic">Tahmasp I, Shah of
+                        Iran.</note> ad <persName>Ibraymum</persName><note type="critic">Ibrahim
+                        Pargalı Pasha.</note> praesidiis, quibus munita fuerant. Modo Deus id his
+                    inspiraret. Sed nescimus, quo fato nostro fiat, ut tot ac tantae occasiones sine
+                    fructu dilabantur semper. Dominatio Vestra, ut praemisimus, commendet servitia
+                    nostra maiestati reginali, et ipsa quoque valeat felix. </p>
+                <p>Ex <placeName>Sempthe</placeName> XIII. die Aprilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

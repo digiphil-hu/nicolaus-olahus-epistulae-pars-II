@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">542</title>
+                <title type="main">Cornelis de Schepper to Miklós Oláh (Brussels, 4 July
+                    1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350704_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 556–557.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 314.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">138.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-07-04">4 July 1535</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Cornelis de Schepper</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Brussels, 4 July
+                    1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He is sending Ghilino’s speech or letter for Oláh to read and then show
+                            to the Queen. Camillo Ghilino does not want to make a big deal of it,
+                            and he would not have written about it either, had he not been
+                            encouraged to do so by Antonio de Leyva. According to Schepper, no book
+                            can be so bad that it would be of no use, so Oláh should make sure that
+                            the work does not disappear after the Queen has read it, and he should
+                            write him what she thinks about it. Ulrich von Eytzing has arrived, and
+                            Johan Weze writes that he will send Schepper’s clothes and other things
+                            in a chest; Oláh should ask him what he knows about the clothes and
+                            recommend Schepper to him. He wishes the bride and groom much happiness. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Cornelius Scepperus Nicolao Olao suo <add corresp="Olahus"
+                        type="insert">salutem</add>. </p>
+                <p>Mitto ad Magnificentiam Vestram orationem seu epistolam cuius
+                        <persName>illius Mediolanensis</persName>,<note type="critic">Camillo
+                        Ghilino, see <hi rend="smallcap">De Vocht</hi> 1961, 245.</note> ut illam
+                    legat, et postea ostendat <persName>reginali maiestati</persName>, ad quam de
+                    eadem epistola scribo. Vult illam occultam esse, neque refert magnopere, ut
+                    edatur, nisi quod arbitror instinctu et admonitionibus domini <persName>Antonii
+                        de Layna</persName><note type="critic">Antonio de Leyva.</note> marchionis
+                        Modoeciae<note type="critic">He was Marquis of Pescara and
+                        Commander-in-chief of the imperial army in the Duchy of Milan from 1525.
+                        After Francesco II Sforza’s death (2 November, 1535), Emperor Charles V
+                        appointed him Governor of Milan.</note> ipsum inductum, ut scriberet. In
+                    summa nullus liber tam malus quin prosit, vide tamen, ne, cum regina eum
+                    legerit, perdatur. Iudicium siquidem ea de re meum ad ipsum sum authorem
+                    transcripturus. Et quia dominus <persName>Ulricus Eytzinger</persName><note
+                        type="critic">Ulrich von Eytzing (1499–1561), a courtier of Queen Mary.
+                        According to De Vocht, it “seems to be merely a wrong spelling”, and he was
+                        Ulric Ehinger, an international financial agent but he is wrong. See <hi
+                            rend="smallcap">De Vocht</hi> 1961, 245.</note> advenit, et
+                    reverendissimus <persName>Lundensis</persName><note type="critic">Johan
+                        Weze.</note> ad me scripsit se quasdam vestes meas in illius archam locasse
+                    huc ferendas una cum ipsius supellectile, quaeret ab eo
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?>Magnificentia
+                    Vestra, an de illis eisdem vestibus aliquid sciat, et me eidam commendabit.
+                    Novis sponsis<note type="critic">Probably Christina of Denmark and Francesco II
+                        Sforza.</note> precor felicitatem. Bene vale. </p>
+                <p><placeName>Bruxellae</placeName> IIII. Iulii XV<hi rend="super"
+                    >c</hi>XXXV.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

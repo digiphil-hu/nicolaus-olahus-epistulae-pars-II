@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">573</title>
+                <title type="main">Frans van Cranevelt to Miklós Oláh (Mechelen, 22 September
+                    1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360922_1sz</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Ms. I and ms. II are contemporary copies with
+                        Oláh’s emendations. Ms. III is a later copy. (1730)
+                            <ref>/o:olahus.tei.15340422_1</ref>
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 585–586. </note>
+                <note type="translation"/>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15360916_1" type="url">572</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">072.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <listWit>
+                    <witness xml:id="CE">Critical Edition</witness>
+                    <witness xml:id="I">Hungary, Budapest, MNL OL P 108 Rep. 71. Fasc. 23. p.
+                        72.</witness>
+                    <witness xml:id="II">Hungary, Budapest, ELTE EK, H 46, fol. 234r.</witness>
+                    <witness xml:id="III">Hungary, Budapest, ELTE EK, Kaprinai B087 217 01 p.
+                        460–461.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-09-22">22 September 1536</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Frans van Cranevelt</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Frans van Cranevelt to Miklós Oláh (Mechelen, 22 September
+                    1536)</head>
+                <floatingText>
+                    <body>
+                        <p>He has received Oláh's letter along with the epitaph. What Oláh writes
+                            about the Emperor’s achievements makes him very happy, if only stable
+                            peace was made between the Christian rulers! What Oláh has entrusted to
+                            him, i.e. correcting the poem, he will gladly do. He has read it several
+                            times, he liked it so much; he is sending his correction back, Oláh
+                            should forgive his haste.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Franciscus Craneveldius Nicolao Olao salutem.</p>
+                <p>Accepi litteras<note type="critic">Ep.
+                        572.</note><ref>/o:olahus.tei.15360916_1</ref> Dominationis Vestrae, Vir
+                    Ornatissime, cum epitaphiis eruditissimis, quae pro nostro in <persName>amicum
+                        defunctum</persName><note type="critic">Erasmus of Rotterdam.</note> amore
+                    singulari legi profecto lubentissime. Deinde, quae de prosperitate
+                        <persName>caesaris</persName> erant adscripta et anxietate Turcarum, mirum
+                    in modum placuerunt. Utinam inter principes ac monarchas Christianos solida pax <app>
+                        <lem wit="#CE #I"><del corresp="Olahus">constitui</del><add corresp="Olahus"
+                                type="corr">constituta esse</add></lem>
+                        <rdg wit="#II #III">constituta esse</rdg>
+                    </app> possit et vires eorum adversus Christiani nomini hostes exserantur ad
+                    laudem illius, qui dixit. Mihi vindictam et ego retribuam. Quod mihi delegaris
+                    provinciam, tua carmina doctissima castigandi, Vir Eruditissime, ego mihi tantum
+                    non arrogo, ut in hac re meam operam audeam polliceri, quoniam et semel lecta
+                    placuerunt, et saepius repetita magis semper magisque placuerunt. <app>
+                        <lem wit="#CE #I"><del corresp="Olahus">Excripta</del><add corresp="Olahus"
+                                type="corr">Exscripta</add></lem>
+                        <rdg wit="#II #III">Exscripta</rdg>
+                    </app> remittam. Sed huius viri properatio fuit in causa, ne nunc id facerem.
+                    Hic quidam submurmurant venisse a caesare scripta recentia, quibus optima
+                    quaedam nuntientur, faxit Deus, ut sint spe meliora. Valeat Dominatio Tua
+                    Reverendissima. </p>
+                <p><placeName>Mechliniae</placeName> XXII. Septembris 1536.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

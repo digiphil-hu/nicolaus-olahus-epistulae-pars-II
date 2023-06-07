@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">479</title>
+                <title type="main">Miklós Oláh to Camillo Ghilino (Brussels, 13 April 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340413_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340521_1</ref>
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 488–489.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340521_1" type="url">488</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >199–200.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-04-13">13 April 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Camillo Ghilino (Brussels, 13 April 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Ambrogio Candiano, the Sforzas’ physician, has arrived to them. He seems
+                            to be worthy of the task of healing the Queen, who has recovered so much
+                            that she can ride again. He has received the treasurer’s quarters and
+                            table for his use. Ghilino’s horse is well, they have sent it to Antwerp
+                            to the treasurer of Ghilino’s lord, but he is not riding it any more: he
+                            is dead. He will try to send his horse to him. Jemme Reinerszoon’s globe
+                            is not perfect yet. Conrad Wackers is trying to hurry up the artist, but
+                            Ghilino also knows how shrewd the Brabantians are – he will take care of
+                            this, too.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Camillum Gilinum a Secretis Francisci <del
+                        corresp="Olahus">Scorciae</del><add corresp="Olahus" type="corr"
+                        >Sforciae</add> ducis Mediolanensis. </p>
+                <p><del corresp="Olahus">Salve!</del> Litterarum illarum, de quibus olim
+                    locuti fuimus, γνωμόνικος<note type="critic">‘competent’.</note> Elegantissime
+                    et Strenuissime: <add corresp="Olahus" type="insert">Salve!</add>
+                    <persName>Medicus</persName><note type="critic">Ambrogio Candiano was Francesco
+                        II Maria Sforza’s physician, and he also healed Queen Mary of Hungary, see
+                            <hi rend="smallcap">Tiraboschi</hi> 1796, 626. In the poem addressed to
+                        Candiano, Oláh called him Angelus Candianus, see <hi rend="smallcap"
+                            >Hegedüs</hi> 1906, 396–398; <hi rend="smallcap">Fógel–Juhász</hi> 1934,
+                        18–19; <hi rend="smallcap">Neagu</hi> 2003, 316–317.</note> illustrissimi
+                        <persName>ducis</persName><note type="critic">Francesco II Sforza.</note>
+                    tui, quem tanto desiderio exspectabamus, aliquot post tuum a nobis discessum
+                    diebus ad nos applicuit. Dignus sane, ut videtur, vir, cui
+                        <persName>reginae</persName> valetudo committatur, quae iam ad equitationem
+                    usque convaluit. Domus et tabula quaestoris nostri est illi designata, qua
+                    uteretur ex animi sui sententia. Scis enim eos, qui pecuniam tractant, lautiores
+                    solere esse hospites. Equus tuus convaluit, quem miseramus
+                        <placeName>Antwerpiam</placeName>
+                    <milestone unit="pb"/> ad <persName>ducis</persName> tui
+                        <persName>quaestorem</persName>,<note type="critic">According to Ghilino’s
+                        answer, his name was Monbelli. We do not know him more closely.</note> sed
+                    ille maluit <persName>Charontis</persName><note type="critic">In Greek
+                        mythology, Kharon carries the souls across the river Styx.</note> naviculam,
+                    quam equum tuum equitare: dicitur enim vita esse functus. Curabimus tamen cum
+                        <persName>Banisio</persName>,<note type="critic">Probably Jakob Radich de
+                        Bannisis the Younger.</note> ut equus ad te perveniat. Globus<note
+                        type="critic">On the globe Jemme Reinerszoon made for Ghilino, see <hi
+                            rend="smallcap">Smet</hi> 1966/1967, 228–229.</note> ille caelestis
+                    nondum perfectus est. <persName>Goclenius</persName><note type="critic">Conrad
+                        Wackers.</note> artificem sollicitat, sed scis vafritiem<note type="critic"
+                        >Early modern form, as opposed to the classical <hi rend="italic"
+                            >vafritia</hi>, see <hi rend="smallcap">Ramminger</hi> 2008.</note>
+                    hominum Brabantinorum. Ultra praefinitam mercedem nescio, quid pluris somniat,
+                    dicit te non satisfecisse <persName>Gemmae</persName>,<note type="critic">Jemme
+                        Reinerszoon.</note> quod tibi annulorum artificium et legem demonstrarit.
+                    Vide hominis impudentiam! Conficiemus tamen id quoque cum eo.
+                        <persName>Banisius</persName> profectus est heri
+                        <placeName>Lovanium</placeName>. Cui, si nihil per hunc baliolum ad te
+                    scripserit, veniam dabis. Nova hic nulla, si quae istic habetis, fac me
+                    certiorem. Vale, Olai non immemor tui ex corde amantis. Commenda me, si
+                    aliquando occasio oblata fuerit, <del corresp="Olahus">magnifico</del> duci tuo.
+                    Vale iterum. </p>
+                <p><placeName>Bruxellae</placeName> 13. Aprilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">833</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Graz, 6 December 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15521206_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15521212_1" type="url">835</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 68. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">77.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-12-06">6 December 1552</date>
+                <placeName>Graz</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Graz, 6 December 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He received Giovanni Battista Castaldo’s and King Maximilian’s letter
+                            the other day in Leoben, as well as Castaldo and András (Bonaventura)
+                            Báthori’s two attached letters, in which they write about the office of
+                            the treasury and the inscriptio of the late Ferenc Vízaknai’s
+                            possessions and property rights on Peter Haller’s behalf. However, if
+                            Haller was made Treasurer, he could not be Councillor of Sibiu; Haller
+                            should rather be City Judge of Sibiu, and an appointment should be
+                            issued right away. He will write the answer to Castaldo and Báthori, but
+                            they cannot draw up the appointment without Oláh, so they are waiting
+                            for him here at the court. 2. He should not delay. He is sending these
+                            letters to him so that he can prepare everything. He should prepare
+                            Haller’s appointment to City Judge of Sibiu, and send it to him via
+                            mail. He is also sending some letters that had been written to Oláh,
+                            which he had kept back.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissime in Christo Pater, Fidelis sincere nobis
+                    Dilecte!</p>
+                <p>[1.] Superioribus diebus, cum adhuc essemus in <add corresp="scriba"
+                        type="insert">oppido nostro</add>
+                    <placeName>Leoben</placeName>, allatae fuerunt nobis annexae litterae
+                    spectabilis et magnifici fidelis nobis dilecti <persName>Iohannis Baptistae
+                        Castaldi</persName>,<note type="critic">Giovanni Battista Castaldo was Count
+                        of Cassano and Piadena.</note> marchionis <placeName>Cassani</placeName> et
+                    comitis Platinae, nostri consiliarii ac serenissimi principis domini,
+                        <persName>Maximiliani</persName> regis Bohemiae et filii nostri carissimi
+                    bellici locumtenentis, cum <del corresp="scriba"> quibus nobis
+                        adiuncti</del><add corresp="scriba" type="corr">adiuncto</add> exemplo
+                    binarum litterarum, <del corresp="scriba">et suorum</del><add corresp="scriba"
+                        type="corr">quas ipse <persName>Castaldus</persName></add> et spectabilis ac
+                    magnifici <persName>Andreae de Bathor</persName><note type="critic">András
+                        (Bonaventura) Báthori.</note> vaivodae nostri Transsylvaniensis <add
+                        corresp="scriba" type="insert"><del corresp="scriba">quas</del>
+                        coniunctim</add> super officio thesaurariatus et inscriptione bonorum et
+                    iurium possessionariarum egregii quondam <persName>Francisci
+                        Wyzacknay</persName><note type="critic">Ferenc Vízaknai (†1551).</note>
+                    <del corresp="scriba">quas coniunctim</del> pro egregio fideli nobis dilecto
+                        <persName>Petro Haller ab Hallerstain</persName><note type="critic">Peter
+                        Haller von Hallerstein (1490?–1569) was President of the Council in Sibiu,
+                        and Treasurer of King Ferdinand I in Transylvania between 1552 and 1553, see
+                            <hi rend="smallcap">Oborni</hi> 2002, 18 et passim; <hi rend="smallcap"
+                            >Gündisch</hi> 1947; and <hi rend="smallcap">Gündisch</hi> 1944.</note>
+                    consiliario nostro expediverunt, petiitque dictus <persName>Castaldus</persName>
+                    a nobis perhumillime, quod easdem litteras pro nostra in eundem
+                        <persName>Hallerum</persName> clementia gratiose confirmare dignaremur,
+                    prout Devotio Tua ex eisdem litteris suis cognoscere poterit.<note type="critic"
+                        >See <hi rend="smallcap">Szabó</hi> 2008, 14.</note> Deinde vero <add
+                        corresp="scriba" type="insert">in aliis litteris ad nos datis</add> ostendit
+                    nobis fideliter iam dictum <persName>Hallerum</persName>, cum creatus sit
+                    thesaurarius, magistrum civium <del corresp="scriba">Cibinii</del> civitatis
+                    nostrae Cibiniensis<note type="critic">Sibiu.</note> esse non posse, quin etiam
+                    si esse posset, tamen in fine praesentis mensis alium magistrum civium eligendum
+                    fore, eoque propter iudicat ex re nostra fore, quod iudex, quem nos creare
+                    debemus, nunc omnibus in rebus magistro civium <choice>
+                        <orig>assist<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>assist<corr>at</corr></supplied>
+                    </choice> et quod ipse <persName>Hallerus</persName> iudex Cibiniensis eligatur
+                    atque constituatur, et quod litterae desuper expediendae confestim istuc
+                    mittantur. Super his itaque iam dicto <persName>bellico locumtenenti
+                        nostro</persName><note type="critic">Giovanni Battista Castaldo.</note>
+                    respondimus, tum praedictarum litterarum ab ipso et praefato vaivoda nostro <del
+                        corresp="scriba">ex emandarum</del><add corresp="scriba" type="insert">super
+                        officio thesaurariatus et inscriptione bonorum quondam <persName>Francisci
+                            Wizacknay</persName> emanatorum confirmationem</add> tum iudicis
+                    Cibiniensis institutionem per Devotionem Tuam, tamquam nostrum per <milestone
+                        unit="pb"/>Hungaricam cancellariam expedire debere, ideoque id ad praesens
+                    Devotione scilicet Tua ab aula nostra regia adhuc absente fieri non posse,
+                    quamprimum autem reditura esset, sicuti brevi et in foras exspectaretur, tunc
+                    nos operam daturos, ut expeditio statim <add corresp="scriba" type="insert"
+                        >quemadmodum necessitas postulet</add> non mittatur. </p>
+                <p>[2.] Quandoquidem igitur Devotio Tua ipsamet considerare potest nostra
+                    plurimi referre, ne istiusmodi expeditioni longior mora interponatur. <add
+                        corresp="scriba" type="insert">Nos autem de eiusdem Devotionis Tuae actu
+                        nihil penitus audiamus</add>, visum est nobis Devotioni Tuae supradictas
+                    litteras cum exemplis eorum, quae sunt confirmanda transmittere eidem harum
+                    serie clementes iniungentes, quod non solum petitam confirmationem super officio
+                    thesaurariatus atque inscriptione praenominatorum bonorum et iurium
+                    possessionariorum a quondam <persName>Francisco Wyzacknay</persName>
+                    <add corresp="scriba" type="insert">relictorum ac per defectum seminis ad nos
+                        devolutorum</add>, sed etiam necessarias et opportunas litteras <del
+                        corresp="scriba">super in</del> de eligendo constituendoque suprafato
+                        <persName>Petro Haller</persName> in iudicem Cibiniensem citra omnem moram
+                    vel dilationem expediat <add corresp="scriba" type="insert">et ad nos per
+                        postham transmittat,</add> prout <add corresp="scriba" type="insert"
+                        >Devotionem Tuam</add> pro sua erga nos fide ac in pertractandis negotiis
+                    nostris diligentia et promptitudine facturam esse non ambigimus. Deinde <del
+                        corresp="scriba">postquam</del> transmittimus <del corresp="scriba"
+                        >tibi</del><add corresp="scriba" type="corr">eidem</add> cum praesentibus
+                    etiam <del corresp="scriba">litteras</del> inclusas <add corresp="scriba"
+                        type="insert">litteras</add> ad Devotionem Tuam datas, quas hactenus penes
+                    manus nostras retinuimus <del corresp="scriba">quia</del><add corresp="scriba"
+                        type="insert">non existimantes opus esse illas Devotioni Tuae mittere
+                        cum</add> eandem de die in diem ipsimet <del corresp="scriba"
+                        >exspectavimus</del><add corresp="scriba" type="corr">exspectaremus</add>.
+                        <add corresp="scriba" type="insert">Id quod clementer Devotioni Tuae
+                        significare voluimus.</add></p>
+                <p>Datum <placeName>Gratz</placeName> 6. Decembris 1552.</p>
+                <p><hi rend="italic">Probably on the outer side:</hi> Cancellario
+                    Hungarico.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

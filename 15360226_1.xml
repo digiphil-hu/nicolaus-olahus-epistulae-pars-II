@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">562</title>
+                <title type="main">István Brodarics to Miklós Oláh (Naples, 26 February
+                    1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360226_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15360330_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 569; <hi rend="smallcap">Kasza</hi> 2012,
+                    475–476; <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><hi
+                        rend="smallcap">Jovanović et al.</hi><?oxy_custom_end?> [2014].</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15360330_1" type="url">563</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">301.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-02-26">26 February 1536</date>
+                <placeName>Naples</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>István Brodarics</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date when="1536-03-29"/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">István Brodarics to Miklós Oláh (Naples, 26 February 1536)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>It has been a long time since they have written to each other, although
+                            they love each other like brothers. He can understand the situation,
+                            they were negotiating peace in Vienna for a long time, and now they are
+                            continuing here (in Naples), hopefully with good outcomes. He asks Oláh
+                            to recommend him to the Queen’s attention; if she is angry with him
+                            because he had left for Bratislava, he could say what Aeneas told Dido:
+                            he did not leave of his own accord.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Stephanus Brodericus episcopus Quinqueecclesiensis Nicolao Olao suo. </p>
+                <p>Carissime Domine et Frater, salutem plurimam et commendationem! Tamdiu
+                    nec tu quicquam ad me scribis,<note type="critic">The last letters we know
+                        between them, were written by Oláh to Brodarics on 18 February, 1533, and
+                        Brodarics to Oláh on 8 March, 1533.</note> nec ego ad te, licet et ego te
+                        <add corresp="Olahus" type="insert">ut</add> fratrem amem, et eundem
+                    affectum in te esse erga me non dubitem. Statum rerum nostrarum aperte
+                    intelligis. Tamdiu tractata est pax <placeName>Viennae</placeName>, ut huc nunc
+                    sit translata, hic, speramus, bonum exitum habebit, quod Deus concedere
+                    dignetur, bonorum omnium largitor, fortuna caesaris et fratris. </p>
+                <p>Rogo Tuam Dominationem, ut meam humillimam servitutem in gratiam sacrae
+                        <persName>reginalis maiestatis</persName>, dominae meae clementissimae
+                    commendare velis. Cui, si ob meum ex <placeName>Posonio</placeName> a se et a
+                    vobis discessum adhuc indignatur, possem vere illud dicere, quod est apud
+                    poetam: </p>
+                
+                    <quote>
+                      <lg>
+                           <l>Invitus regina tuo de limine cessi,</l>
+                           <l>sed me fata
+                               deum, quae nunc has ire per undas etc.</l>
+                           <l>imperiis egere
+                               suis.</l>
+                       </lg></quote>
+                    <note type="quote">Verg. <hi rend="italic">Aen</hi>. 460–461, 463. Brodarics
+                        knew another edition, than the basis of today critical editions where this
+                        passus is: “Invitus, regina, tuo litore cessi / sed me iussa deum, quae nunc
+                        has ire per umbras.”</note>
+                <p>Scribe iam tandem aliquid ad me saltem provocatus, et optime vale. </p>
+                <p><placeName>Neapoli</placeName> XXVI. Februarii anno a Christo nato
+                    1536.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

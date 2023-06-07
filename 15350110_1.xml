@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">524</title>
+                <title type="main">Miklós Oláh to Miklós Gerendi (Brussels, 10 January 1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340110_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 539–540.</note>
+                <note type="translation"><p><hi rend="italic"> In Hungarian:</hi>
+                    <hi rend="smallcap">V. Kovács</hi> 1971, 678–680.</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >552–554.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-01-10">10 January 1535</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Gerendi</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Miklós Gerendi (Brussels, 10 January 1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Unless they do something, their homeland will be consumed in this
+                            civil war. If Miklós Gerendi had marched to Transylvania with 3,000
+                            soldiers immediately after Lodovico Gritti’s death, that territory would
+                            already obey the King. Now that the Turks are fighting the Persians, now
+                            is the time to take back Hungary. 2. The islands in the New World, which
+                            have recently been discovered, are full of golden mountains. The other
+                            day a Spanish legate reported that a pearl the size of a hen’s egg was
+                            found on one of the islands. Although it is true that nothing from this
+                            will reach them because transportation is cumbersome and the empire will
+                            devour any amount of treasure, it fills him with hope. 3. Well, not
+                            concerning his own affairs because there are twelve Hungarian
+                            bishoprics, but even if there were one hundred, he would unlikely have a
+                            bigger chance to obtain one of them. Although it has already been
+                            confirmed in four royal letters, these are not obeyed, so his only hope
+                            is that Tamás Szalaházy and Gerendi will speak up for him. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Nicolaum Gerendi episcopum Transsylvaniensem. </p>
+                <p>[1.] Accepi tuas litteras.<note type="critic">We do not know this
+                        letter.</note> Non possum litteris explicare, quantum et ego tecum una
+                    doleam patriae nostrae ruinam, quae nisi aut vi adversarius eiiciatur, aut
+                    concordia res transigatur, in hac factione paulatim ipsa se consumet. Si statim
+                    post necatum <persName>Griti</persName><note type="critic">Lodovico
+                        Gritti.</note> missi fuissent saltem tria millia externorum militum tecum in
+                    Transsylvaniam, credo tua et tuorum opera omnis ea regio nunc regi pareret, et
+                    nec <persName>Maylath</persName><note type="critic">István Majláth.</note> esset
+                    vaivoda, nec <persName>Ioannes</persName><note type="critic">King John I.</note>
+                    Transsylvaniae incubaret. Ex qua etiam ea Hungariae pars, quae trans Tibiscum
+                    est ad oboedientiam praestandam facile cogi potuisset, sed quot, mi Domine,
+                    occasiones commodissimae, quot res rebus regiis faventes, sive fato, sive
+                    negligentia, vel τῇ <choice>
+                        <orig>πενεία</orig>
+                        <supplied>πενείᾳ</supplied>
+                    </choice> μᾶλλον<note type="critic">‘or rather due to the lack of money’.</note>
+                    hactenus <add corresp="Olahus" type="insert">sunt</add> praetermissae, si nunc,
+                    cum Turca omnes suas vires ex Europa ad bellum illud Persicum eduxit, et cum
+                    paucos habeamus obvios, si modo cum modicis viribus progrederemur, nostri nihil
+                    facient. Quae postea spes erit recuperandae Hungariae Turca reversuro? Credo et
+                    certo scio, ut scribis, Hungaros iam fractos esse. Idque ob acceptam iam novem
+                    annorum fere calamitatem, minime miror, sed hoc potius demiror, quod veteris
+                    decoris et fortitudinis nationis <milestone unit="pb"/>suae immemores, tot mala,
+                    tot utrinque captivitates, caedes, direptiones tam diu perferre potuerint.
+                    Serenissima <persName>regina</persName> facere posset, sine dubio faceret τὰ
+                    χρήματα, περὶ ὧν ἔγραψας;<note type="critic">‘the things about which you have
+                        written’.</note> quae fieri poterunt, non longe absunt ab illis locis, modo
+                    aliquid certi incipiant. Ingens ubique telum est necessitas. </p>
+                <p>[2.] Insulae illae orientales novi mundi, quae nostra aetate repertae
+                    sunt, plenae esse dicuntur aureis montibus. Nudiusquartus venit huc ex Hispaniis
+                    nuntius, qui retulit nunc rursus unam insulam repertam, in qua uniones in
+                    quantitate unius ovi gallinacei <del corresp="Olahus">reperiuntur</del><add
+                        corresp="Olahus" type="corr">reperiantur</add>. Infinitus est igitur istic
+                    thesaurus, sed ob maris tempestatem minimam eorum partem ad Hesperiam advehi
+                    videmus. Et quae etiam advehitur, latum regnum magnum consumit thesaurum, ex quo
+                    vix aliquid in nostrum usum pervenire potest. Nihilominus si unquam aliquid
+                    speravi, nunc maxime spero, maxime usque ad aestatis futurae exitum. </p>
+                <p>[3.] Dico autem me sperare non in meis privatis, sed publicis rebus
+                    Hungariae. Quid enim de meis sperare possum? Duodecim sunt episcopatus in
+                    Hungaria, si essent centum vel eo plures et vacarent omnes, sive id regis
+                    voluntate, sive aliorum procuratione, quod magis credo, <del corresp="Olahus"
+                        >fiet</del><add corresp="Olahus" type="corr">fiat</add>, nescio, an magna
+                    spes esset mihi locanda. In quaternis litteris regiis, quae mihi ante eos, qui
+                    mihi praeponuntur, tam firmae sunt datae, ut firmiores dari non potuerint, si
+                    usquam salva est fides, ex alia parte etiam meis per eos, quibus rex et non
+                    adversarius praeest, vi privor. Non, inquies, parent mandatis regiis; at in
+                        <placeName>Iaurino</placeName>,<note type="critic">Győr.</note> in
+                        <placeName>Nitria</placeName> remittenda parent, parent etiam in aliis, in
+                    quibus expressum habet mandatum, in meis tantum rebus non parent, videoque me in
+                    ea calamitate versari, de qua <persName>Hesiodus</persName> conqueritur: </p>
+                <quote>
+                    <lg>
+                        <l>ἕτερος δ' ἑτέρου πόλιν <choice>
+                                <orig>δὲ ἐξαλαπάξαι</orig>
+                                <supplied>ἐξαλαπάξει·</supplied>
+                            </choice></l>
+                        <l>
+                            <choice>
+                                <orig>οὐδὲ εὐορχοὺ χαρις οὐδ'</orig>
+                                <supplied>οὐδέ τις εὐόρκου χάρις ἔσσεται οὐδὲ</supplied>
+                            </choice> δικαίου</l>
+                        <l>
+                            <choice>
+                                <orig>οὐτ' ἀγαθοὺ μᾶλλον δ'</orig>
+                                <supplied>οὐδ' ἀγαθοῦ, μᾶλλον δὲ</supplied>
+                            </choice> κακῶν ῥεκτῆρα καὶ ὕβριν</l>
+                        <l>ἀνέρα τιμήσουσι· δίκη δ' ἐν <choice>
+                                <orig>χερσι αἰδὸς</orig>
+                                <supplied>χερσί· καὶ αἰδὼς</supplied>
+                            </choice></l>
+                        <l>οὐκ <choice>
+                                <orig>ἔστε</orig>
+                                <supplied>ἔσται</supplied>
+                            </choice>, βλάψει δ' ὁ κακὸς τὸν ἀρείονα φῶτα.</l>
+                    </lg>
+                </quote>
+                <note type="quote">Hesiod, <hi rend="italic">Works and Days</hi> 189–193.</note>
+                <p>Ob haec igitur sequetur his hominibus, quod idem Hesiodus dicit:</p>
+                <quote>
+                    <lg>
+                        <l>Ζεὺς <choice>
+                                <orig>δὲ ὀλέσει τουτῳ</orig>
+                                <supplied>δ' ὀλέσει καὶ τοῦτο</supplied>
+                            </choice> γένος μερόπων ἀνθρώπων.</l>
+                    </lg></quote>
+                <note type="quote">Hesiod, <hi rend="italic">Works and Days</hi> 180.</note>
+                <p>Summa mea est in te spes et in <persName>episcopo
+                        Agriensi</persName>,<note type="critic">Tamás Szalaházy.</note> si vos non
+                    praestabitis vestrum favorem et <milestone unit="pb"/>auxilium me absente in
+                    utraque re mea, ne scilicet contra regis promissum negligar semper, sed ut regia
+                    promissa mihi serventur, et ne meis, quae habui, tam indigne spolier, nescio in
+                    quo ultra sperare possim. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 10. Ianuarii 1535.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

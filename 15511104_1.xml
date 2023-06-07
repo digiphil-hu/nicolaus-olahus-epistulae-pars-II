@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">789</title>
+                <title type="main">Miklós Oláh, Ferenc Újlaki, and Pál Bornemissza to Hungarian
+                    Chamber (Vienna, 4 November 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15511104_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signatures and seals.
+                    </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> ut vina decimalia promontorii Reche
+                        per dominum Merey Posonii collecta permittantur abduci propter regiam
+                        totalem annuentiam.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 41 – 1551 – No. 111.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-11-04">4 November 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh, Ferenc Újlaki, and Pál Bornemissza</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh, Ferenc Újlaki, and Pál Bornemissza to Hungarian
+                    Chamber (Vienna, 4 November 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Mihály Mérey has reported that there are some Bratislava citizens who
+                            have vineyards on the foothills that belong to the Rača tithe, which the
+                            King has given to Mérey at Oláh’s intervention. And when the magistrate
+                            was due to collect the Bratislava tithe, these citizens sent a legate to
+                            Mérey, who had never paid the Rača tithe before, but they took a barrel
+                            of unpressed grape to Bratislava and pressed it there, and then sent it
+                            to the Archbishop’s house. Mérey said that during Pál Várday’s time
+                            these grapes were weighed in Bratislava, and the Archbishop could decide
+                            what to do with them. But because the King had given Mérey the rights of
+                            the Rača vineyards, it would be just if the grapes belonging to the Rača
+                            tithe were paid by both the Bratislava citizens and others in full. Oláh
+                            and his people think that the wine taken to the Bratislava decimator
+                            should also be handed over to Mérey, as the entire tithe is due to him
+                            according to the King’s decision.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverende ac Egregii Domini et Amici nobis Honorandi, salutem et nostri
+                    commendationem!</p>
+                <p>Retulit nobis dominus <persName>Michael de Mere</persName>,<note
+                        type="critic">Mihály Mérey.</note> quod forent certi cives civitatis
+                    Posoniensis, qui in promontoriis ad decimas de <placeName>Reche</placeName><note
+                        type="critic">Rača.</note> pertinentes vineas<note type="critic">On the vine
+                        of Rača, see <hi rend="smallcap">Vályi</hi> 1799, 184.</note> haberent, quas
+                    quidem decimas <persName>maiestas regia</persName>, dominus noster
+                    clementissimus ad nostram intercessionem pro solita arenda eidem domino
+                        <persName>Merey</persName> pro anno praesenti concessit; cumque
+                        <persName>decimator</persName> suus a praefatis civibus Posoniensibus
+                    decimas talium vinearum persolvi debere postulasset, dicti cives misso ad eundem
+                    dominum <persName>Merey</persName> nuntio eorum asseruissent se etiam antea
+                    nunquam ab huiusmodi vineis ipsorum decimas in <placeName>Reche</placeName>
+                    persolvisse, sed unas in torculari nondum expressas
+                        <placeName>Posonium</placeName> in vasis deduxissent, ibique pressis
+                    torcularibus et vinis in vasis collocatis decimae eorum in cellariis decimatae
+                    fuissent, et eas ad domum archiepiscopalem<note type="critic">On the tithing
+                        yard of the archiepiscopal palace in Bratislava, see <hi rend="smallcap"
+                            >Gál-Mlakár</hi> 2007, 290.</note> persolvissent, id quod etiam nunc
+                    Vestrae Dominationes eodem modo ab eisdem exigere vellent. Eundem vero dominum
+                        <persName>Merey</persName> respondisse, ut etiam si tempore quondam domini
+                        <persName>Strigoniensis</persName><note type="critic">Pál Várday.</note>
+                    decimae talium vinearum <placeName>Posonii</placeName> essent connumeratae et
+                    solutae, id liberum fuisse facere archiepiscopis, si decimas ipsas cum etiam
+                    aliis arendassent, vineas civium pro se reservassent, sed cum maiestas regia
+                    integras decimas ad <placeName>Reche</placeName> pertinentes nulla facta
+                    exceptione vinearum civium Posoniensium ipsi domino <persName>Merey</persName>
+                    arendaverit, omni iure et aequitate dignum fore, ut decimae omnium vinearum ad
+                    decimas <placeName>Reche</placeName> pertinentes tam a Posoniensibus, quam aliis
+                    omnibus sibi sine omni defecto persolverentur, sicque certi ex civibus decimas
+                    ibidem in <placeName>Reche</placeName> persolvissent, alii vero se in eorum
+                    domibus persolvere paratos obtulissent, modo a Vestris Dominationibus rursum
+                    propterea non inquietentur, et tandem etiam Vestrae Dominationes cum domino
+                        <persName>Merey</persName> in hoc convenissent, ut decimator domini
+                        <persName>Merey</persName> decimas talium vinearum ad decimas
+                        <placeName>Rechen</placeName> pertinentes connumerare et ibidem
+                        <placeName>Posonii</placeName> in vasis in hospitio eiusdem domini
+                        <persName>Merey</persName> locare deberet, quae vina usque ad nostram
+                    deliberationem <milestone unit="pb"/>idem dominus <persName>Merey</persName>
+                    inde abducere non faceret, quare periit. Nos idem domino
+                        <persName>Merey</persName>, ut hac de re ad Dominationes Vestras scriberemus
+                    admoneremusque, ut huiusmodi decimas vinearum civium Posoniensium Rechenses
+                    pertinentes ipsi domino <persName>Merey</persName> abducendas facere
+                    permitterent. Cum autem dignum nobis videatur, ut decimae talium vinearum sub
+                    decimis Rechensibus, quae decimae per maiestatem regiam ipsi domino
+                        <persName>Merey</persName> integre concessae sunt, omni iure eidem domino
+                        <persName>Merey</persName> dari debeant, rogamus Dominationes Vestras,
+                    velint huiusmodi decimas vinearum, quae a civibus Posoniensibus per suum
+                    decimatorem istic <placeName>Posonii</placeName>
+                    <choice>
+                        <orig>collecta</orig>
+                        <supplied>collectae</supplied>
+                    </choice> et in vasis <choice>
+                        <orig>locata</orig>
+                        <supplied>locatae</supplied>
+                    </choice> sunt, ipsi domino <persName>Merey</persName> abducendas permittere.
+                    Quas bene valere optamus.</p>
+                <p><placeName>Viennae</placeName> 4. Novembris anno Domini 1551.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Agriensis etc. manu propria</add>
+                    </seg>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Iauriensis etc.</add>
+                    </seg>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Vesprimiensis</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendo ac egregiis dominis camerae Hungaricae sacrae regiae
+                    maiestatis consiliariis etc. dominis et amicis nobis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

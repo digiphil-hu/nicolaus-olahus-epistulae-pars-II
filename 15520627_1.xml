@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">823</title>
+                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 27 June
+                    1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520627_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"/>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 15 – 1552 – február – No. 10.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-27">27 June 1552</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Milkós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 27 June
+                    1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Kamarjay chased them most recently a few days ago, but they could not pay
+                            him, in the end Ferenc Újlaki arranged for him to receive 200 florins on
+                            the condition that he will be satisfied with it and wait for the King to
+                            return and resolve his difficulties. Tamás Kamarjay had already written
+                            about these difficulties to the Controller while Albert Peregi was
+                            alive, as well as to the late Pál Várday, so that Várday and Oláh can
+                            inform the King about it together. However, as far as they can see,
+                            nothing has been done about it, so they are asking Oláh to get an answer
+                            from the King, although the Chamber cannot meet such a debt because it
+                            has hardly any revenue.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad dominum cancellarium.</p>
+                <p>Reverendissime Domine, Domine et Patrone Observandissime, servitiorum
+                    nostrorum commendationem!</p>
+                <p>Proxime praeteritis diebus cum instaret nobis dominus <persName>Thomas
+                        Kamariai</persName><note type="critic">Tamás Kamarjay.</note> et propter
+                    causas eas, quae certa descriptione contuentur, nihil ei <del corresp="author"
+                        >dare</del><add corresp="author" type="corr">numerare</add> possemus,
+                    effecit tandem reverendissimus dominus <persName>Iaurensis</persName><note
+                        type="critic">Ferenc Újlaki.</note> locumtenens regiae maiestatis, ut <del
+                        corresp="author">sub</del> Florenorum ducentos daremus ea lege, ut contentus
+                    his exspectaret reditum simul et resolutionem regiae maiestatis, domini nostri
+                    clementissimi de difficultatibus illis descriptis, quas olim vivente quondam
+                    reverendo domino <persName>Alberto praeposito</persName><note type="critic"
+                        >Albert Peregi died in 1546.</note> Camerae praefecto dominus magister
+                        rationum<note type="critic">Ferenc Kisserényi (†ca.1560) was Pál Várday’s
+                        retainer <hi rend="italic">(familiaris)</hi> and a Controller of the
+                        Hungarian Chamber in 1528–1529 and 1531–1549, see <hi rend="smallcap"
+                            >Szabó-Turákné Póka</hi> 2021, 261–262; and <hi rend="smallcap"
+                            >Remete</hi> 1963, 145.</note> conscripserat, ac reverendissimo olim
+                    domino <persName>Strigoniensi</persName><note type="critic">Pál Várday died in
+                        1549.</note> privatim ita dederat, ut ille <add corresp="author"
+                        type="insert">una</add> cum Reverendissima Dominatione Vestra maiestatem
+                    regiam de illis informaret ac resolutionem suae maiestatis <del corresp="author"
+                        >ea re de</del> scripto ad Cameram daret. Nondum autem intelligimus ullam
+                    esse difficultatem illarum <del corresp="author">resolutioni</del><add
+                        corresp="author" type="corr">resolutionum</add> factam et nihilominus
+                    dominus <persName>Kamariai</persName> nos urget immemor conditionis sibi coram
+                    domino <persName>locumtenente</persName> declaratae. Rogamus praeterim
+                    Reverendissimam Dominationem Vestram, ut ubi maiestas regia sacra redierit,
+                    velit a sua maiestate certum responsum accipere, stantibus <del corresp="author"
+                        >siquidem</del> enim et non resolutis illis difficultatibus antiquis non
+                    habet Camera modum, quo ipsi <persName>Camariai</persName> satisfaciat, licet
+                    alioqui ex pecunia contributionis (quae rebus turbatis spe omnium minor esse
+                    cepit) nihil in huiusmodi vetera debita solvi posset. Maiestate regia hoc ipsum
+                    expresse prohibere, ceteri autem proventus Camerae, hoc est tricesimales, adeo
+                    sunt tenues, ut vix ad quotidianas et occidentales necessitates <del
+                        corresp="author">expeditum</del> sufficiant. Reverendissimam Dominationem
+                    Vestram optamus valere feliciter.</p>
+                <p><placeName>Posonii</placeName> die 27. Iunii anno Domini 1552.</p>
+                <p>
+                    <seg type="signature">Reverendissimae Dominationis Vestrae deditissimi
+                        servitores.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Ad dominum cancellarium.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                
+            </div>
+        </body>
+    </text>
+</TEI>

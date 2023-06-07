@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">774</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 20 July 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510720_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 27.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-07-20">20 July 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 20 July 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He understood from Nádasdy’s letter of the third of this month that
+                            Nádasdy’s matters are dragging on; the King has done everything he can
+                            and will do so in the future to make sure there is no delay. If Miklós
+                            Báthori saves them, Oláh will send someone else to support Báthori. He
+                            will understand the rest from the King’s letter to András (Bonaventura)
+                            Báthori. 2. He has forwarded Nádasdy’s letter to Orsolya Kanizsai.
+                            Nádasdy should find out if he likes white wine. András (Bonaventura)
+                            Báthori will tell him the news.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem plurimam et servitiorum meorum commendationem, Spectabilis et
+                    Magnifice Domine et Frater Observandissime! </p>
+                <p>[1.] Ex litteris Dominationis Vestrae Magnificae tertia huius
+                        datis<note type="critic">We do not know this letter.</note> intellexi
+                    negotia istic adhuc protrahi; spero omnia feliciter successura. Hinc a
+                        <persName>maiestate regia</persName>, domino nostro clementissimo nihil
+                    praetermissum est hactenus, neque praetermittetur, quod negotia illa remorari
+                    posset, si istinc bona fide agantur. Si <persName>Nicolaus
+                        Bathori</persName><note type="critic">Miklós Báthori of Ecsed (ca.1520–1584)
+                        was the son of András Báthori (†1534) and brother of András (Bonaventura)
+                        Báthori, who was always loyal to the Habsburgs. Miklós was loyal to King
+                        John Sigismund I at first, then in 1561 he changed sides. From 1568 until
+                        his death, he was Judge Royal <hi rend="italic">(iudex curiae)</hi>, and <hi
+                            rend="italic">ispán</hi> of Szabolcs and Szatmár counties. See <hi
+                            rend="smallcap">Baráth</hi> 2008, especially 35.</note> eruet vos a
+                    malis, mittemus et alium, qui ei sit adiumento. Verum omnia intelligent
+                    Dominationes Vestrae ex litteris regiis nunc ad dominum <persName>capitaneum
+                        generalem</persName><note type="critic">András (Bonaventura) Báthori.</note>
+                    datis. Exspecto itaque iam in dies singulos a Dominationibus Vestris finem bonum
+                    omnium negotiorum. </p>
+                <p>[2.] Litteras Dominationis Vestrae Magnificae misi ad dominam meam
+                    observandissimam, dominam <persName>coniugem</persName><note type="critic"
+                        >Orsolya Kanizsai.</note> suam carissimam, quae feliciter valet. Post
+                    discessum Dominationis Vestrae Magnificae parum abfuit, quin per illum amicum
+                    nostrum cum suis cohaerentibus indicaret in interitum, quod Deus a me inmerito
+                    capiti illius, si meretur, inmittat. Dominatio Vestra expiscetur, an <choice>
+                        <orig>albus</orig>
+                        <supplied>album</supplied>
+                    </choice> cupiat et ambiat vinum de <placeName>Farnad</placeName>.<note
+                        type="critic">Farná was known for its wine, see <hi rend="smallcap"
+                            >Vályi</hi> 1796, 638.</note> Ego illi auxilio esse possem, qua de re,
+                    si quid intellexerat, faciat me, rogo, Dominatio Vestra certiorem. Nova, quae
+                    habui, intelliget Dominatio Vestra Magnifica a <persName>domino
+                        generali</persName>. Eandem feliciter valere opto, cui servitia mea
+                    commendo.</p>
+                <p>Ex <placeName>Wienna</placeName> 20. Iulii anno 1551.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino comiti Thomae de Nadasd perpetuo terrae
+                    Fogaras et comitatus Castriferrei comiti, iudici curiae et consiliario regiae
+                    maiestatis ac supremo regni Hungariae capitaneo etc. domino et fratri nobis
+                    observandissimo.</p>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

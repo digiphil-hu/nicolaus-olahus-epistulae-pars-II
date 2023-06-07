@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">707</title>
+                <title type="main">King Ferdinand I to Pál Várday and Miklós Oláh (Prague, 27
+                    January 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490127_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15490201_1" type="url">708</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA Misc. Fasc. 431A. Konv. B. 1540–1569 </repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">266–267.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-01-27">27 January 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pál Várday and Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Pál Várday and Miklós Oláh (Prague, 27
+                    January 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. A few days ago he wrote to the Emperor about the things they
+                            accomplished at the Bratislava diet and asked him to meet the Pope and
+                            represent the interests of both Hungary and Christian Europe, and make
+                            sure that the ecumenical council is not postponed because the defence of
+                            all of Christianity seems to depend on it. 2. The Emperor replied that
+                            he had already instructed his legate in Rome to take care of the
+                            requested matters, and he indicated that they could count on him. In
+                            addition, he also wrote that he understands their labours for Hungary,
+                            and he will hasten the cases of the bishops who still need
+                            confirming.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissimi in Christo Patres Devoti, Fideles
+                    Dilecti!</p>
+                <p>[1.] Dederamus proxime praeteritis diebus litteras ad sacram
+                        <persName>caesaream</persName> et Catholicam regiam maiestatem fratrem et
+                    germanum nostrum carissimum, quibus iuxta conclusionem cum fidelibus statibus et
+                    ordinibus regni istius nostrae Hungariae in conventu Posoniensi<note
+                        type="critic">This diet began on 16 October, 1548.</note> factam, a
+                    dilectione et maiestate eius perquam diligenter petivimus primum, ut sacra eius
+                    caesarea maiestas pro beneficio nedum regni Hungariae, sed totius etiam
+                    Christianitatis <del corresp="scriba">ad concordia et veritatem in fide et
+                        religione Christiana reducendae ad</del> ad fidei et religionis veritatem et
+                    concordiam reducendae, pro celebratione generalis et Germanici concilii apud
+                    summum sanctae Romanae et universalis ecclesiae
+                        <persName>pontificem</persName><note type="critic">Pope Paul III.</note>
+                    instaret atque efficere dignaretur, ne tam necessaria <del corresp="scriba"
+                        >rebus religionisque et</del> concilii celebratio diutius differatur, cum
+                    inde tuitio et conservatio totius Christianitatis atque adeo fidei et religionis
+                    Christianae manutentio dependere videatur <gap extent="unknown" reason="illegible" unit="word"/> <milestone unit="pb"/>a dilectione et maiestate eius caesarea etiam negotium remittendarum
+                    annatarum pro electis episcopis in regno Hungariae <del corresp="scriba"
+                        >commendare et</del> apud praefatum summum pontificem, ita <del
+                        corresp="scriba">promoveretur et commendaretur</del> promoveretur
+                    commendareturque, ut confirmationes et conservationes suas gratis et sine
+                    annatarum solutione obtinere possint, nisi alioqui vix tantum habeant <del
+                        corresp="scriba">unde se</del> propter multas <add corresp="scriba"
+                        type="insert">afflictiones et</add> oppressiones regni, unde se et arces
+                    suas hostibus Turcis finitimas sustentare et conservare quaeant. </p>
+                <p>[2.] Ad haec itaque nostra scripta dilectio et maiestas eius nobis <del
+                        corresp="scriba">respondit</del> iam respondit se de utroque negotio seria
+                    mandata et iussiones ad oratorem suum in Urbe <placeName>Roma</placeName>
+                    expedivisse, qui nomine maiestatis suae caesareae ista omnia apud <del
+                        corresp="scriba">summam</del> beatitudinem summi pontificis omni studio,
+                    cura, labore et diligentia sollicitare, curare et conficere debeat, obtulitque
+                    se erga nos dilectio et maiestas eius caesarea sibi uti Christiano imperatori et
+                    principi haec omnia etiam inposterum et quavis offerente se occasione <milestone unit="pb"/>apud sanctitatem summi pontificis magnae curae fore. Hoc autem
+                    dilectionis et maiestatis eius caesareae <del corresp="scriba">suae</del> nobis
+                    datum responsum ad Devotiones Vestras propterea perscribere voluimus, ut eidem
+                    simul et alii fideles regnicolae propensum clementem et plane paternam sacrae
+                    caesareae eius maiestatis propensionem, curam et sollicitudinem erga regnum
+                    Hungariae intelligerent, tum etiam, ut Devotiones Vestrae electis illis
+                    episcopis <del corresp="scriba">haec</del>, qui confirmationibus opus habent
+                        <del corresp="scriba">iudicentque</del>, haec praemissa iudicent, quo pro
+                    huiusmodi confirmationibus suis etiam ipsi instare et sollicitare possint. Qua
+                    in re et nos <del corresp="scriba">eis</del> authoritate, intercessione et
+                    promotione nostra illis praesto futuros esse clementer offerimus et pollicemur. </p>
+                <p>Datum <placeName>Pragae</placeName> die 27. Ianuarii 1549.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Reverendissimis in Christo patribus Paulo de Warda archiepiscopo
+                    Strigoniensi nec non Nicolao episcopo Agriensi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

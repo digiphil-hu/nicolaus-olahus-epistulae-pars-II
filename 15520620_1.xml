@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">820</title>
+                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 20 June 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520620_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 64. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">144.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-20">20 June 1552</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 20 June 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He will learn from Maximilian’s letter what he has written in response to
+                            Bertalan Horváth’s supplicatio, but Horváth is expecting an answer from
+                            King Ferdinand I, not Maximilian. He says that he will not go to Gyula,
+                            where Giovanni Battista Castaldo had sent him and where his station is,
+                            until he knows his family is safe. Oláh is asking King Ferdinand I to
+                            respond to Horváth, whose service is very important and indispensable
+                            now.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Sacratrissima Regia Maiestas Domine, Domine Clementissime, post
+                    orationum et fidelium servitiorum meorum in gratiam Maiestatis Vestrae
+                    commendationem! </p>
+                <p>Cognoscet Sacra Maiestas Vestra ex litteris serenissimi regis
+                        <persName>Maximiliani</persName> etc., domini mei clementissimi, quid
+                    serenitas sua penes supplicationem <persName>Bartholomei Horwath</persName><note
+                        type="critic">Bertalan Horváth was Captain of (Balassa)gyarmat, serving with
+                        25–100 equestrians in the 1552 Transylvanian campaign in Košice, Gyula, and
+                        Oradea, see <hi rend="smallcap">H. Németh</hi> 2000, 218.</note> in
+                    commendationem eiusdem scribat. Cum autem idem <persName>Bartholomeus
+                        Horwath</persName> responsum se Vestrae Maiestatis hic exspectare velle
+                    dixerit, propterea quod non prius ad <placeName>Gywla</placeName>,<note
+                        type="critic">Gyula.</note> unde per dominum
+                        <persName>Castaldum</persName><note type="critic">Giovanni Battista
+                        Castaldo.</note> dimissus est, et ubi stationem cum gentibus suis habet,
+                    redire se posse affirmet, quam uxorem et familiam in aperto plane loco nunc
+                    degentem in tuto collocarit, eoque facto liberius se inposterum servitiis
+                    Maiestatis Vestrae vacaturum asserat, volui paucis et ipse supplicare Vestrae
+                    Maiestati, dignetur virum hunc, cuius servitus hoc maxime tempore est summe
+                    necessaria, cito gratiosoque responso absolvere in his, de quibus eidem
+                    supplicavit, diutius etenim eum hic teneri, negotiis partium inferiorum curae
+                    suae commissis nequaquam conducere existimo, uti Maiestas Vestra facile
+                    intelligit. Quam Deus optimus maximus felicem et incolumem quam diutissime
+                    servare dignetur. </p>
+                <p>Datum <placeName>Viennae</placeName> die vigesimo mensis Iunii anno
+                    Domini millesimo quingentesimo quinquagesimo secundo.</p>
+                <p>
+                    <add corresp="Olahus" type="insert">Eiusdem Sacratissimae Maiestatis Vestrae
+                        fidelis et humilis servitor</add>
+                </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Agriensis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Sacratissimae Romanorum, Hungariae, Boemiae etc. regiae maiestati
+                    domino, domino meo clementissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">600</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 1 April 1538)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15380401_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 615–616.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 201–202.</p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 263–264. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >570–571.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1538-04-01">1 April 1538</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 1 April 1538)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is sending Conrad Wackers’ poems, if he wants to correct anything
+                            in it, he should let him know. There is no appropriate word for him to
+                            thank Oláh for his humanity the day before yesterday. He has handed over
+                            the quaestor’s document, but he only received 14 guilders from the 20
+                            because Johann Henckel Jr. had already taken six of it. He has paid the
+                            creditors back almost in full, but he still owes them three guilders. 2.
+                            He has talked to Wackers about <hi rend="italic">Athila</hi> a lot, and
+                            Wackers says that if Oláh wants to publish it, he should choose Rutger
+                            Ressen’s or Servaas van Sassen’s printing house, and he will take care
+                            of the preparations. Nanninck really loved Oláh’s poem; he admires
+                            Oláh’s spiritual strength that he was able to write such an elegant poem
+                            while in such deep mourning.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem plurimam. </p>
+                <p>[1.] Mitto tibi, Optime Patrone, carmina
+                        <persName>Conradi</persName><note type="critic">Conrad Wackers.</note>
+                    nostri, in quibus plerosque libros <persName>Erasmi</persName> elegantissime
+                    complexus est. Si quid praeterea <del corresp="Olahus">meam</del><add
+                        corresp="Olahus" type="corr">me</add> curare velis, scis tua merita eam tibi
+                    in me facultatem dare, ut me pro tuo mancipio summo iure uti posses. Agerem tibi
+                    gratias pro recenti ista tua ac nudiustertiana humanitate, si aut tu sustineres,
+                    aut ego pares invenire <del corresp="Olahus">posses</del><add corresp="Olahus"
+                        type="corr">possem</add>. Nunc gratitudo nostra intra pectus nostrum latere
+                    cogitur, quia aequalia verba reperire non potest. Dedimus quaestori
+                        chirographum<note type="critic">See Ep. 596. Cap.
+                        3.</note><ref>/o:olahus.tei.15371120_1</ref> in viginti Carolinos,<note
+                        type="critic">Carolusgulden minted by Charles V, was a coin minted in gold
+                        and silver.</note> non recepimus autem, nisi quatuordecim, nam
+                        <persName>Ioannes Henckhellus</persName><note type="critic">Johann Henckel
+                        the Younger.</note> iam olim sex Carolinos inde praecerpserat. Creditoribus
+                    ferme omnibus satisfecimus, nisi quod ipse adhuc fatetur aes alienum trium
+                    Carolinorum superesse, id tibi, Domine, propterea indico, ut si res illius
+                    imposterum arctiores esse coeperint, intelligas illum apud me nihil decoxisse,
+                    omnibus enim modis cupio tuae de me exspectationi satisfacere. </p>
+                <p>[2.] Cum Conrado <milestone unit="pb"/>tuo iussu salutem plurimam
+                    attulissem cum tuis scriptis, multa mentio fuit inter nos de tuo <hi
+                        rend="italic">Athila</hi>; multis modis iterum <del corresp="Olahus"
+                        >laudavis</del><add corresp="Olahus" type="corr">laudavit</add>, qua ex re
+                    incredibilem voluptatem sensi. Iussitque me tibi hoc renuntiari, si velles
+                    imprimi, se curaturum, ut sua opera vel ex prelo
+                        <persName>Rutgeri</persName><note type="critic">Rutger Ressen.</note> vel
+                        <persName>Servacii</persName><note type="critic">Servaas van Sassen or
+                        Servatius Sassenius was a printer in Leuven. He printed a few of Nanninck’s
+                        works for example <hi rend="italic">Declamatio Quodlibetica</hi> in
+                        1549.</note> emendatissime <del corresp="Olahus">egreti</del><add
+                        corresp="Olahus" type="insert">exiret</add>, seque valde cupere eam
+                    editionem maturari, fatebaturque se perlecto tuo <hi rend="italic">Athila</hi>
+                    melius Hungariae situm intelligere, quam unquam antea, etiam si eam variis
+                    tabellis depictam vidisset. Carmen<note type="critic">Probably Oláh’s <hi
+                            rend="italic">In mortem Matthaei fratris elegia</hi>, see <hi
+                            rend="smallcap">Tournoy</hi> 2006, 138.</note> tuum miris modis placuit,
+                    miror vim ingenii, quae plane, ut aiunt, Horatius <quote>rerum <choice>
+                            <orig>immersibilis</orig>
+                            <supplied>immersabilis</supplied>
+                        </choice> undis</quote><note type="quote">Hor. <hi rend="italic">Epist.</hi>
+                        I,II,22.</note><note type="critic">The form <hi rend="italic"
+                            >immersibilis</hi> was used in the Early Modern Period, see <hi
+                            rend="smallcap">Ramminger</hi> 2008.</note> inter maximos luctus et
+                    curas vivacissime sese exerit, et ut <del corresp="editor">ut</del>
+                    <quote>olor in morte dulcius canit,</quote><note type="quote">Cf. Hieron. <hi
+                            rend="italic">Epist.</hi> LX,1 and Hieron. <hi rend="italic">Epist.</hi>
+                        LII, 3, and Ovid., <hi rend="italic">Met.</hi> XIV,430: “carmina iam moriens
+                        canit exequialia cycnus”; Sen., <hi rend="italic">Phaed.</hi> 302: “dulcior
+                        vocem moriente cygno.”</note> ita tibi in acerbissimo funere dulcissima et
+                    elegantissima carmina contexuntur, nos paucissima annotavimus magis, ne
+                    adulatores videremur, quam quod censura ulla opus esset. </p>
+                <p><placeName>Lovanii</placeName> prima Aprilis 1538. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

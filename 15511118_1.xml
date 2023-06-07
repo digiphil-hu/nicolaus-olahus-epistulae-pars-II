@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">793</title>
+                <title type="main">Queen Mary to Miklós Oláh (Brussels, 18 November 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15511118_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy. We do not know the manuscript.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Hatvani</hi> 1858, 305–306.</note>
+                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
+                    <hi rend="smallcap">Hatvani</hi> 1858, 305. [regesta]</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15520106_1" type="url">798</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Belgium</country>
+                        <settlement>Brussels</settlement>
+                        <institution>AÉB</institution>
+                        <repository>Ref. Rel. I. Suppl. K. 8, 1.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">70.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-11-18">18 November 1551</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Queen Mary</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Queen Mary to Miklós Oláh (Brussels, 18 November 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Queen Mary thanks Oláh’s willingness to help Court Secretary Urban
+                            Scharberger, who was sent to Hungary. She also asks him to pay her claim
+                            of 500 florins from the inheritance of the late Archbishop of Esztergom
+                            in cash, if possible.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Maria etc. </p>
+                <p>Ehrwirdiger in Got andechtiger lieber Gethrewer! </p>
+                <p>Demnach wir durch unnsern secretari unnd gethreuen lieben
+                        <persName>Urban Scharberger</persName><note type="critic">Urban Scharberger
+                        was Secretary and Counsellor to Queen Mary, see <hi rend="smallcap"
+                            >Heiss</hi> 1976, 70, 79–80.</note> verstanden, das ir ihme in unnsern
+                    handlungen unnd geschefften, die er in Hungern unnd der orten herumb zu
+                    sollicitirn unnd zu verrichten gehabt, mererlei hulff unnd furderung guetwillig
+                    erczaigt unnd sonderlich verholffen gewest seit, damit unnser anforderung des
+                    nagst abgestorbnen <persName>erczbischoffen zu Gran</persName>,<note
+                        type="critic">Pál Várday died on 12 October, 1549, his successor was George
+                        Martinuzzi.</note> schuldt der hungerischen fl.<note type="critic">I.e.
+                        Florenorum.</note> 500 von weilendt <persName>Hannsen
+                        Dobrawiezkhi</persName><note type="critic">János Dubraviczky.</note>
+                    heerruerendt anfenglich die bezallung durch die römische, zu Hungern unnd Behaim
+                    kunigliche wirde etc., unnsern herrn unnd <persName>brueder</persName>
+                    freundtlich verwilliget unnd volgendt auch bei den hungerischen chamer rathen
+                    unnd des von <placeName>Gran</placeName><note type="critic">Esztergom.</note>
+                    seligen verordneten testamendtarien genuegsam justificiert unnd rectificiert
+                    worden. Darumben wir euch gancz gnadigen dannckh sagen, unnd hetten unns
+                    gleichwol hierauf zuvor gepflegte hanndlung gebuerlicher beczallung versehen.
+                    Dieweil aber solches bissheer nit beschehen, unnd die sachen also unerörttert
+                    austeen belieben, unnd doch annder glaubiger von gemelter erczbiszthumbs
+                    einkhomen beczalt werden, ist an euch unnser gnadiges <choice>
+                        <orig>bebegern</orig>
+                        <supplied>begebern</supplied>
+                    </choice>, dieweil die schuldt verbrieft gancz beweiszlich, unnd wir vernomen
+                    verrer justification nit notturfftig, ir wellet unns zu angenemben gefallen,
+                    nachmals daran unnd verholffen sein, damit wir angerurter fl. 500, <choice>
+                        <orig>uoverr</orig>
+                        <supplied>soverr</supplied>
+                    </choice> es immer mueglich, also bar vergenuegt, oder aber zum wenigisten
+                    derselben beczallung auff sichere unnd gewisse termin verwiesen, versicherndt,
+                    unnd derhalben gebuerliche verschreibung verferttigt werden. Wie ir dan in dem
+                    unnserm gnadigen verthrauen, unnd nach gelegenhait der sachen ewerm selbs
+                    guetbedunckhen nach verrer handlung furczunemen werdt wissen, zweifeln auch nit,
+                    hochermelte römische kunigliche w.<note type="critic">I.e. Wirde.</note> etc.
+                    werden fur sich selbst zu dem aller billicheit nach genaigt sein, solches
+                    hinwider gegen euch mit allen gnaden zu bedenkhen. </p>
+                <p>Geben zu <placeName>Brüssel</placeName> in Brabandt den 18<hi
+                        rend="super">ten</hi> November anno etc. 1551. </p>
+                <p>
+                    <seg type="signature">Maria.</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

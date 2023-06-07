@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">599</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 6 January 1538)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15380106_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 614–616.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 198–200. </p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 263. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >567–570.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1538-01-06">6 January 1538</date>
+                <placeName>[Leuven]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh ([Leuven], 6 January 1538)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is sorry he lives far away from his homeland, but it is a great
+                            fortune for his home country that it has acquired such a wise advisor.
+                            Oláh might be afraid that many people are hostile towards him, thinking
+                            that it was his ambition that took him to the court; but he is wrong:
+                            everyone admires him, and even Nanninck becomes great on his side
+                            because he is his friend. Oláh is trying to be of use to his homeland in
+                            foreign land, like Alcibiades, Joseph, or others. Nanninck asks that
+                            once Oláh returns home, he should not forget about him and allow him to
+                            take part in the holy frenzy. 2. He keeps rereading <hi rend="italic"
+                                >Athila</hi>, he cannot get enough of it; Oláh cannot complain about
+                            his tasks at the court if he is capable of such unparalleled work beside
+                            it. Johann Henckel Jr. asks Oláh to obtain this gift for him from the
+                            Queen, he knows Oláh can make anything happen, and Henckel does not want
+                            his friend to be separated from him.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem plurimam.</p>
+                <p>[1.] Etsi rarius scribas, Optime Patrone, id tibi vel ab iniquissimo
+                    concedendum est, nedum ego offendi debeam. Mi tuae gravissimae occupationes
+                    perquam notae sunt, quae utinam tam tibi suaves, quam huic curiae necessariae
+                    sunt. Et ut doleo te a natalibus sedibus abesse, ita gratulor patriae meae, quod
+                    temporibus difficillimis te fidissimum et prudentissimum consiliarium habeat,
+                    Hungaricis malis debemus, quod istic sis, quare eis hactenus infesti esse non
+                    debemus, quia nobis tam ingens commodum <choice>
+                        <orig>pepere</orig>
+                        <supplied>peperere</supplied>
+                    </choice>. Quod subvereris esse maligniores, qui putent te ambitione aulam
+                    sectari, omnino te puto opinione falli. Mirantur omnes tuam humanitatem, hoc
+                    scio, cupiunt omnes docti tibi innotescere <milestone unit="pb"/>et ego hic magni fio, quia tibi amicus sum, non id putes magnitudini
+                    fortunae tuae dari, virtutibus multis datur, modestiae, fidei, eruditioni,
+                    prudentiae tuae datur. Notum est, quis in patria fueris, quis adhuc esse possis,
+                    utcumque sunt <choice>
+                        <orig>accissae</orig>
+                        <supplied>amissae</supplied>
+                    </choice> res Hungaricae. Mea opinio est, quam puto omnium pectoribus insidere:
+                    te tua fide, ut in hanc aulam venires inpulsum esse, ut mortui <choice>
+                        <orig>reges</orig>
+                        <supplied><persName>regis</persName></supplied>
+                    </choice><note type="critic">King Louis II.</note>
+                    <persName>uxorem</persName><note type="critic">Queen Mary.</note> officiis
+                    demereri possis, et illius memoriam beneficiis coleres, spe otii litterarum
+                    allectum esse, consilio detrusum, constantia detineri <del corresp="Olahus"
+                        >possis et illius memoriam.</del>. Ego dum res tuas inspicio, si modo mihi
+                    fas hanc curiositatem assumere, videris mihi summa fide, pietate, prudentia,
+                    integritate tua consilia instituisse. Abes a patria, sed interim abes a tot
+                    offensionibus, quas <del corresp="Olahus">huic</del><add corresp="Olahus"
+                        type="corr">hinc</add> inde, dum fortuna Hungarica inter duos reges
+                    iactatur, oriri necesse est. Alter regum nihil habet, quod conqueratur, cum
+                    videat te in eis partibus esse, in quibus ipse olim vivo rege fuerat, <del
+                        corresp="Olahus">quod amet, cum videat,</del> hoc est in officiis reginae,
+                    et studium tuum intra pietatis limites consistere, et colendi veteris amici
+                    cineribus impendi. Alter etiam habet, quod amet, cum videat te tam bene de
+                    sorora sua mereri. Nihil tam dolet <persName>Cicero</persName>, quam se in <del
+                        corresp="Olahus">ulterutras</del><add corresp="Olahus" type="corr"
+                        >alterutras</add> partes descendisse et authorem pacis esse non posse, cum
+                    unius partis esse coeperat. Ego te arbitror in ista tua absentia
+                        <persName>Alcibiadem</persName>, <persName>Chabriam</persName> aliosque
+                    complures statuisse imitari, qui ad exteras nationes profugerunt, ut inde
+                    collectis viribus patriae laboranti <choice>
+                        <orig>succurretur</orig>
+                        <supplied>succurreretur</supplied>
+                    </choice>; <milestone unit="pb"/>hoc alii consilio faciunt, alii fato. Venditus in Aegyptum
+                        <persName>Ioseph</persName> fuerat, ut adversus famem Aegypto aliisque
+                    finitimis gentibus succurreret. Ego te, ut istic esses, fati necessitate, Dei
+                    voluntate, tuo consilio pertractum esse puto, quo in praesens nostrae patriae
+                    imposterum tuae prudentissimis consiliis prospiceres. Quamobrem maximam in spem
+                    adducor te non ita diu postea pro regia tua stirpe, pro summis virtutibus in
+                    summis fortunis in Hungaria futuram. Ita, ut etiam nunc libeat dicere, Domine,
+                    memor <choice>
+                        <orig>est</orig>
+                        <supplied>esto</supplied>
+                    </choice> mei, dum veneris in regnum tuum. Patere me frui ista dulci insania,
+                    quam mihi non a furore, sed a numine afflari puto, ac nunc me laetissimae sortes
+                    tuae exoptarem re eventu comprobata divinatorem certum existimabis. </p>
+                <p>[2.] Lego ac relego tuum <hi rend="italic">Athilam</hi> summa cum
+                    voluptate, eaque semper recenti, et citra sacietatem ita, ut verissime, ut illud
+                        <persName>Vergilii</persName> dicam: </p>
+                <quote>
+                        <lg>
+                            <l>Nec vidisse semel satis est, iuvat usque morari.</l>
+                        </lg></quote><note type="quote">Verg. <hi rend="italic">Aen</hi>.
+                        VI,487.</note>
+                <p>Quid habes, quod conqueraris de <choice>
+                        <orig>nogitiis</orig>
+                        <supplied>negotiis</supplied>
+                    </choice> tuis, quae te tam eloquentem, tam eruditum, tantarum lucubrationum
+                    fecundum esse sinant, ut neminem habeas <placeName>Lovanii</placeName>, qui
+                    tecum <choice>
+                        <orig>parie</orig>
+                        <supplied>paria</supplied>
+                    </choice> faciat, plane oportet in te esse divinam ingenii vim, quae inter tot
+                    spinas sollicitudinum non suffocatur. </p>
+                <p>Rogavit me <persName>Iohannes Henckhellus</persName>,<note
+                        type="critic">Johann Henckel the Younger.</note> ut posteaquam individuus
+                    socius <persName>reginae</persName> commeatu instructus in Italiam abiturus est,
+                    ut idem munus ei a regina impetres; scit te pro tuo merito omnia apud reginam
+                    posse, nec libenter vellet <persName>Martinum</persName> sibi eripi, quem amicum
+                    sibi caritate, integrum fide, admonitiorem consiliis <milestone unit="pb"/>prudentem semper expertus est. Ego tametsi iuvene isto non libenter
+                    careo, est enim moribus perquam humanis, tamen nolim ei mea causa quicquam <choice>
+                        <orig>remoror</orig>
+                        <supplied>remorae</supplied>
+                    </choice> obicii, aut ob meum affectum illius commoda retardari, amo enim eum
+                    non, quia mihi lucro est, sed quia bonus. Bene vale, Unice Patrone et
+                    Eruditissime! </p>
+                <p>Ipsa Epiphania Domini 1538. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

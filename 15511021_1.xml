@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">786</title>
+                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 21 October
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15501021_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 15 – 1551 – október – No. 4.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-10-21">21 October 1551</date>
+                <placeName> </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 21 October
+                    1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They have received Oláh’s recommendation about János Fejérthóy, who wants
+                            to buy tithes of grain and produce at a reasonable price, as he has been
+                            encouraged to do so. Then the royal mandate was transferred to Albert
+                            Somogyi’s petition. As for the wine, it was ordered to be conscribed so
+                            that the King can be informed, and Somogyi should wait and not have his
+                            hopes up regarding the fruit.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad dominum cancellarium.</p>
+                <p>Reverendissime Domine, Domine et Patrone Observandissime, servitiorum etc.!</p>
+                <p>Acceperamus litteras Reverendissimae Dominationis Vestrae in commendationem
+                    egregii domini <persName>Ioannis Feierthoy</persName><note type="critic">János
+                        Fejérthóy.</note> decimas frugum et bladorum<note type="critic">I.e. bladum,
+                        see <hi rend="smallcap">DuCange</hi> 1883; and <hi rend="smallcap"
+                            >Szovák</hi> 1983–2017.</note> civitatis
+                        <placeName>Zacolcza</placeName><note type="critic">Skalica.</note> sibi
+                    honesto pretio vendi postulantis, cui iam antea quoque eius harum rerum spem
+                    feceramus, postea allata sunt mandata regia ad supplicationem egregii domini
+                        <persName>Alberti Somogy</persName><note type="critic">Albert Somogyi was
+                            <hi rend="italic">viceprovisor</hi> of the archiespicopate of Esztergom,
+                        see <hi rend="smallcap">Laczlavik</hi> 2014, 117–118.</note> expedita. Quod
+                    ad litteras regias attinet, non videmus nobis esse integrum, ut aliter de
+                    decimis frugum dictae civitatis disponamus, quod tamen ad vina spectat, iussimus
+                    deferri ad nos rationem collectionis vinorum eam ubi acceperimus, poterimus suam
+                    maiestatem informare. Interim dominus Somogi aequori animo poterit exspectare et
+                    abstinere a spe frugum. Quod Reverendissimae Dominationi Vestrae volumus
+                    significare, quam optamus valere feliciter.</p>
+                <p><placeName>Posonii</placeName> die 21. Octobris 1551.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

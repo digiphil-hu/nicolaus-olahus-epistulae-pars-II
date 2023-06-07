@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">629</title>
+                <title type="main">Miklós Oláh and Ruprecht Haller to Banská Štiavnica Town Council
+                    (Banská Štiavnica, 16 July 1542)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15420716_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original, partly autograph letter with signatures and
+                            seals.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other handwriting:</hi> „1542. Litterae Nicolai Olahi
+                        custodis Albensis <choice>
+                            <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                            <supplied><corr/></supplied>
+                        </choice> dilationis <choice>
+                            <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                            <supplied><corr/></supplied>
+                        </choice> in causa passiva viduae Dubraviczkianae.”</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Bystrica</settlement>
+                        <institution>ŠABB MMBB</institution>
+                        <repository>Fasc. 168. Nr. 56.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1542-07-16">16 July 1542</date>
+                <placeName>Banská Štiavnica</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh and Ruprecht Haller</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh and Ruprecht Haller to Banská Štiavnica Town Council
+                    (Banská Štiavnica, 16 July 1542)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The widow of the late Dubraviczky has informed them that in the lawsuit
+                            between the widow of János Dubraviczky and Georg Schaffer, citizen of
+                            Banská Bystrica, the next court date has been set for the following
+                            Tuesday. However, Banská Bystrica is fully aware that the King has
+                            ordered troops to be sent to Esztergom by 20 July, and because Mrs
+                            Dubraviczky is affected by this and cannot appear as a result, he asks
+                            for the hearing to be adjourned.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Unnser freundtlich grueß unnd alles guets zuvor, sonnder lieb herrn
+                    unnd freundt! </p>
+                <p>Unnß hat herr <persName>Jhann Dabrawitzki</persName><note type="critic"
+                        >János Dubraviczky.</note> seligen verlaßne <persName>wittib</persName><note
+                        type="critic">Helena Kóváry.</note> angelanngt unnd zue versteen geben, wie
+                    auf ir freundtlich anlanngenn zwischen irer unnd <persName>Geörgen
+                        Schaffer</persName>,<note type="critic">Georg Schaffer.</note> burger im
+                        <placeName>Newennsoll</placeName>, ain rechtstag yedem tail alda vor euch zu
+                    erschinen auf negst khomenden dinnstag<note type="critic">11 July, according to
+                        the previous letter, Ep. 628.</note><ref>/o:olahus.tei.15420706_1</ref>
+                    amgestellt unnd benennt worden, dieweil euch dann bewisst, daz die ro. kho.
+                        mt.<note type="critic">I.e. römische königliche Majestät.</note> etc.
+                    ernnstlich bevolhenn unnd auferlegt hat, das ain yeder sein geburenden tail
+                    kriegsvolckh am sexten tag vor Jacobi<note type="critic">20 July.</note> zu
+                        <placeName>Grann</placeName><note type="critic">Esztergom.</note> berait
+                    unnd verttig habenn mueß. Derhalben gemelte <persName>fraw
+                        Dobrawitzkin</persName> diser zeit auch dermaßen mit sölichem beladen, das
+                    ir auf abgemelten tag vor euch zu erschinen nit muglich sein soll, unnd unns
+                    derhalben gebetten, euch zuschreiben, und bitten, das ir auf ditz mal gemelten
+                    tag also aufziehen und furan zeit verlenngern wolt, welches wir dann angesehen
+                    der nöttwendigen ursach halben also zu thun bitten. Damit waß euch lieb ist.</p>
+                <p>Datum <placeName>Crembnitz</placeName> denn 16. Julii anno etc. im
+                        42<hi rend="super">ten</hi>. </p>
+                <p>
+                    <add corresp="Olahus" type="insert">Dominationes Vestrae velint differre
+                        negotium hoc ad aliud tempus et usque ad id, ad quod ipsa domina
+                        Dominationem Vestram postea rursus requisiverit. Nam nunc est occupata tam
+                        in missione servitorum suorum ad expeditionem hanc generalem, et praeterea
+                        fratres quoque ipsius et consanguinei sunt omnes in hac expeditione.</add>
+                </p>
+                <p>
+                    <seg type="signature"><add corresp="Olahus" type="insert">Nicolaus Olahus custos
+                            Albensis etc.</add></seg></p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Ruprecht Haller etc.</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Denn ersamen unnd weisen herrn, n.,<note type="critic">I.e.
+                        Name.</note> richer und rat der stat Newensol, unnsern sonnder guetten
+                    freunden zu hannden. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

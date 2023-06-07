@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">631</title>
+                <title type="main">Miklós Oláh to Elek Thurzó (Kremnica, 28 August 1542)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15420828_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 196 – Irregestrata – Levelek – Thurzó I. Elek – Oláh
+                            Miklós</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">16r–17v.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1542-06-20">28 August 1542</date>
+                <placeName>Kremnica</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Elek Thurzó</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Elek Thurzó (Kremnica, 28 August 1542)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Although Elek Thurzó no doubt has already learned about everything, he
+                            is also sending him what he knows. As he knows, the bishopric of
+                            Transylvania is vacant, or better to say, it is usurped by Queen
+                            Isabella. The King has promised many times, not only to Queen Mary but
+                            also in three different letters, to promote Oláh and give him a vacant
+                            bishopric. His friends are keeping him going, but he has already noticed
+                            that the rulers prefer those who have become their followers recently
+                            compared to their old loyal people. So if Thurzó thinks there is hope to
+                            get this bishopric, he should lobby for it with the King in a letter or
+                            through Hans Hoffman. 2. As far as he knows, George Martinuzzi wants to
+                            sell in exchange for the bishopric what he would otherwise give away for
+                            free; in this case Serédi has been suspended, and his competitor is
+                            Orbán Batthyány. Oláh asks Thurzó to help him, if nothing else works,
+                            the way he did once upon a time against Tamás Szalaházy for the
+                            bishopric of Nitra. However, if the case has been decided, and there is
+                            no hope, he should let him know, too, so he does not rage in vain.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Spectabilis et Magnifice Domine, Patrone Observandissime, servitiorum
+                    meorum commendationem!</p>
+                <p>[1.] Tametsi non dubitem omnia Dominationi Vestrae Magnificae per dominos
+                        Fucaros<note type="critic">Fuggers.</note> et alios suos amicos significari,
+                    quaecumque vel in Germania vel aliis externis provinciis agantur, volui tamen
+                    eidem ego quoque significare, quae amici mei mecum communicant, quae Dominatio
+                    Vestra Magnifica ex scriptis praesentibus annexis intelliget. Hinc nihil est
+                    aliud, quod scribam, praeter furnariorum et carbonariorum strepitum et <choice>
+                        <orig>sordaciem</orig>
+                        <supplied>sordiciem</supplied>
+                    </choice>. </p>
+                <p>Novit optime Dominatio Vestra Magnifica episcopatum Transsylvaniensem
+                        vacare,<note type="critic">The bishopric of Transylvania had been vacant
+                        since 1540 or 1542. Neither Gerendi’s (†1540), not Statileo’s (†1542)
+                        appointment was confirmed by the Pope.</note> sed quid vacare dicam, cum
+                    regina Ioannis regis <persName>vidua</persName><note type="critic">Queen
+                        Isabella Jagiellon.</note> eum <del corresp="Olahus">possideret</del><add
+                        corresp="Olahus" type="corr">possideat</add>. Id quoquo non ignorat, quo
+                    modo <persName>maiestas regia</persName>, dominus meus clementissimus de mei
+                    promotione spem <add corresp="Olahus" type="insert">saepius</add> dederit non
+                    modo medio <persName>serenissimae reginae</persName>, dominae meae
+                    clementissimae, sed etiam per Dominationem Vestram Magnificam et litteris suis,
+                    ut opinor, ternis, quibus non tantum certificat, verum etiam promittit in verbo
+                    suo regio de primo episcopatu vacaturo mihi conferendo.</p>
+                <p>Amici mei, qui mihi benevolunt, et verbis et litteris crebris me sollicitant, ne
+                    mihi deessem. Ego etsi sciam, quam difficulter polleant principes nostri, quorum
+                    animum longa <add corresp="Olahus" type="insert">iam</add> conversatione et
+                    experientia didici, hoc tempore benemeritos et in servitiis veteranos promovere,
+                    eorumque maiorem ipsos habere rationem, qui ex latrocinio et proditione veteri
+                    ad novam accedunt nescio quam oboedientiam, quam quorum fides et integritas est
+                    eis cognita. Tamen ne aut amicis me assidue stimulantibus aut mihi omnino deesse
+                    videar, rogo Dominationem Vestram Magnificam, ut si putaverit spem aliquam hac
+                    in re esse, dignetur apud <milestone unit="pb"/>maiestatem regiam vel per litteras, vel medio domini <persName>Ioanis
+                        Hoffman</persName><note type="critic">Hans Hofmann.</note>
+                    <add corresp="Olahus" type="insert">vel alterius amici sui</add> partes suas, ut
+                    maiestas sua de praedicto beneficio mihi provideat. Non cupio aliud a
+                    Dominatione Vestra Magnifica in mei promotionem inpendi, quam millesimam partem
+                    eius operae atque diligentiae, quam ego in rebus et servitiis Dominationis
+                    Vestrae Magnificae mihi commissis semper praestiti. Quod si fiet, arbitrabor et
+                    meis rebus satis augmenti accessisse, et mihi vicem repensam. </p>
+                <p>[2.] Non ignoro <persName>Fratrem Georgium</persName><note type="critic">George
+                        Martinuzzi or Juraj Utješenović (1482/1484?–1551) was loyal to King John I.
+                        He was a Pauline monk from 1512 and had a brilliant career: he was Treasurer
+                        and later Bishop of Oradea, the he became Count of Bihar county in 1534,
+                        Governor in 1541, and finally Cardinal and Archbishop of Esztergom in 1551.
+                        For more on him, see <hi rend="smallcap">Oborni</hi> 2017.</note> huc
+                    tendere, ut episcopatum praefato vendat, quod alioqui gratis <del
+                        corresp="Olahus">facere</del> dare deberet, si quae est in eo pietatis
+                    religio, et ipsum <persName>Seredi</persName><note type="critic">Gáspár
+                        Serédi.</note> esse hac in re intermissum, <persName>Urbanumque
+                        Bathyani</persName>,<note type="critic">Orbán Batthyány.</note> si recte rem
+                    intelligo, competitorem esse. Attamen credo iam longa rerum et hominum novorum
+                    experientia maiestatem regiam satis edoctam esse, quid facere debeat et quam non
+                    fuerit hactenus, nec suae maiestati, nec regno suo tutum et commodum, novos
+                    homines fidelibus perpetuis praeponere. Qua ex re futurum esse arbitror, ut sua
+                    maiestas cautius sit deinceps in promovendis hominibus novis actura. Dignetur
+                    igitur Dominatio Vestra Magnifica pro meis servitiis in mei favorem apud
+                    maiestatem suam rem experiri, quae si aliter non successerit, velit addere illam
+                    artem, qua sapienter usa olim fuerat, dum oppugnatorem haberet
+                        <persName>Thomam</persName><note type="critic">Tamás Szalaházy.</note>
+                    quondam episcopum in episcopatu Nitriensi etc. Non deerunt fortasse amici, qui
+                    etiam me nolente subvenient. </p>
+                <p>Quod si nullam spem nunc fore, vel iactam iam alam esse Dominatio Vestra
+                    Magnifica putaverit, dignetur mihi significare, rogo, ne inscius rei delirare,
+                    et frustra lapidem Sisyphi volvere videar. Quod mecum aliquando <milestone unit="pb"/>fuerit actum, sibi factum esse Dominatio Vestra Magnifica non ignorat. Novit enim
+                    meam erga eandem a puero observantiam et serviendi animum. Si quid itaque
+                    Dominatio Vestra Magnifica agendum esse putaverit et egerit, dignetur <del
+                        corresp="Olahus">mihi</del> me certum reddere, ut sciam res meas ad id
+                    dirigere. Ego hic sum licet invitus, non imbrium aut belli incommodorum terrore,
+                    sed quia eius <quote>cantilenam me canere oportet, cuius curru
+                        vehor.</quote><note type="quote">Cf. old Hungarian proverb: ‟kinek szekere
+                        farkán ülsz, annak nótáját dudoljad.” KV 1866., see <hi rend="smallcap"
+                            >Erdélyi</hi> 1851, 362. No. 7112. See also Ep.
+                        466.</note><ref>/o:olahus.tei.15340304_5</ref> Dominationem Vestram
+                    Magnificam Deus conservet felicissimam et incolumem <del corresp="Olahus"
+                        >Cui</del> et reducat, cui servitia mea iterum commendo.</p>
+                <p><placeName>Cremniciae</placeName> 28. Augusti 1542.</p>
+                <p> Eiusdem Dominationis Vestrae Magnificae servitor</p>
+                <p><seg type="signature">Nicolaus Olahus custos Albensis etc.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino comiti Alexio Turzoni de Bethlenfalwa iudici
+                    curiae et locumtenenti regio etc. domino et patrono observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

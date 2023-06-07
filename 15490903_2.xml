@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">723</title>
+                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 3 September
+                    1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490903_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 15 – 1549</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">79r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-09-03">3 September 1549</date>
+                <placeName> </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 3 September
+                    1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The King has to negotiate with the Dóczy–Lipcsey family. They say they
+                            still have the letter in which Queen Beatrix transferred the castles of
+                            Slovenská Ľupča and Šášov to Orbán Dóczy for 8,000 florins. According to
+                            the János Zomor, it is not a big problem to recover the Šášov castle for
+                            the royal treasury. They thought that Christoph Konritz, the prefect of
+                            the Banská Bystrica copper mines, knew the case well, and when they
+                            wrote to him, Konritz answered that indeed that letter is in Oláh’s
+                            hands, and he last saw it a year ago. So they ask him to send the
+                            original letter to the Chamber so they can start the administration.
+                        </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad dominum cancellarium.</p>
+                <p>Reverendissime Domine, nobis Observandissime, servitiorum <choice>
+                        <orig>nostrae</orig>
+                        <supplied>nostrorum</supplied>
+                    </choice> commendationem!</p>
+                <p>Cogitur <persName>maiestas regia</persName>, dominus noster clementissimus
+                    quotannis numerare dominis nobilibus <persName>Doczy</persName> et
+                        <persName>Lyppchey</persName> iuxtam factam cum eis transactionem <del
+                        corresp="author">numerare</del> certam summam pecuniae. Et non obscure
+                    dicitur exstare adhuc litteras quondam <persName>Beatricis reginae</persName>,
+                    quibus inscripsisset tam <del corresp="author">eam</del> arcem Lypche,<note
+                        type="critic">Castle of Zólyomlipcse, Ľupčiansky hrad today.</note> quam
+                        Saskew<note type="critic">Castle of Saskő, Šášovský hrad today.</note>
+                    quondam reverendissimo domino <persName>Urbano episcopo
+                        thesaurario</persName><note type="critic">Orbán Dóczy of Nagylucse (†1491)
+                        was Bishop of Eger.</note> pro octo millibus Florenorum.<note type="critic">
+                        Beatrice of Aragon, Queen of Hungary gave these two castles to the Dóczy
+                        family via <hi rend="italic">inscriptio</hi>, which was why the family was
+                        in constant litigation regarding these possessions, see <hi rend="smallcap"
+                            >Wenzel</hi> 1876, 19–20.</note> Contulimus de his cum domino
+                        <persName>directore causarum regiarum</persName>,<note type="critic">János
+                        Zomor.</note> qui asserit posse non magno negotio <del corresp="author"
+                        >tibi</del> recuperari arcem Saskew pro fisco regio, liberarique <choice>
+                        <orig>maiestate</orig>
+                        <supplied>maiestas</supplied>
+                    </choice> regia ab praedicta pensione et obligatione. Existimabamus autem domino
+                        <persName>Christofero Kewrish</persName><note type="critic">Christoph
+                        Konritz. On the contract regarding the handover of the two castles in return
+                        for an annual amount of 600 florins, see ÖStA FHKA Hoffinanz–Ungarn RN 2.
+                        Konv. 1549 fol. 147–150.</note> praefecto fodinarum cupri Novosoliensis rem
+                    exactuus constare, ad quem cum scripsissemus, respondit haberi eas ipsas
+                    litteras apud manus Dominationis Vestrae Reverendissimae, quas <del
+                        corresp="author">ut</del> scribit se anno proxime praeterito vidisse immo et
+                    processum, quem pro recuperatione castrorum illorum instituisset felicis
+                    memoriae quondam dominus <persName>Ludovicus rex</persName>.<note type="critic"
+                        >King Louis II. In fact, King Wladislaus II confirmed Beatrice of Aragon’s
+                        donation, see <hi rend="smallcap">Ortvay</hi> 1894, 65.</note> Quare
+                    Dominatio Vestra Reverendissima de voluntate sacrae regiae maiestatis (ad quam
+                    etiam per annexas scripsimus) velit praedictas litteras originales in specie ad
+                    hanc regiam cameram dirigere, ut communicatore, directore et aliis fidelibus
+                    servitoribus suae maiestatis consilio incipiamus rem aggredi, in commodum et
+                    voluntatem domini nostri clementissimi. Reverendissimam Dominationem Vestram
+                    Deus servet feliciter.</p>
+                <p><placeName>Posonii</placeName> die 3. Septembris anno 1549.</p>
+                <p>Reverendissimae Dominationis Vestrae deditissimi servitores.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

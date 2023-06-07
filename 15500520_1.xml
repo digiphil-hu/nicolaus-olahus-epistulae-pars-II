@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">739</title>
+                <title type="main">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Vienna, 20
+                    May 1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15500520_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other hand:</hi> Posonii. prout iussit dominus
+                        cancellarius, litteras ad Maromarusiensium proventuum
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>???<?oxy_custom_end?>
+                        scribit.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15500423_1" type="url">437</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 41 – 1550 – No. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-05-20">20 May 1550</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Thurzó and Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Vienna, 20
+                    May 1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has understood what they last wrote about settling the Máramaros
+                            affairs, and by the time he had written the letter, he received another
+                            letter from them, in which they changed their previous idea and decided
+                            to send Nagyváthi to be the director of the Máramoros affairs and asked
+                            Oláh for a new letter. He has provided it, but he asks them to be more
+                            observant next time because they may miss the deadlines, and it is not
+                            good practice to keep making changes in public affairs. 2. They know
+                            well that he will soon go to the imperial assembly with the King, where
+                            he will need money, so they should bring money there for him on Saint
+                            Urban’s day. They also wrote about the tithes of Sáros and Bereg
+                            counties, but he cannot respond to that now, they will discuss it in
+                            person when they are all there.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverende ac Egregii Domini et Amici nobis Observandi, salutem!</p>
+                <p>[1.] Ea, quae Dominationes Vestrae prioribus litteris suis de
+                    expeditione negotiorum Maromarusiensium nobis scripserunt, intelleximus. Cumque
+                    litteras ad id necessarias expedivissemus, supervenerunt aliae quoque
+                        litterae<note type="critic">We do not know these letters.</note>
+                    Dominationum Vestrarum, quibus mutato priori proposito dominum
+                        <persName>Anthonium Naghwathy</persName><note type="critic">Antal Nagyváthi
+                        was Secretary of the Palatin in 1527, Castellan of Devín in 1543, and
+                        Personalis <hi rend="italic">(locumtenens personalis praesentiae)</hi> from
+                        1549, see <hi rend="smallcap">Fazekas</hi> 2021, 42; <hi rend="smallcap"
+                            >Gecsényi</hi> 2008b, 402.</note> loco directoris causarum Maromarusium
+                    mitti statuerunt, novasque litteras per nos expediri petierunt. Nos quidem eas
+                    quoque expedivimus, et una cum prioribis praesentibusque nostris ad Dominationes
+                    Vestras misimus. Iam stabit in earum arbitrio priorine, an posteriori
+                    expeditione velint uti. Verum deinceps in talibus rebus Dominationes Vestrae
+                    sint diligentiores, ne negotiorum <persName>regiae maiestatis</persName>
+                    expeditionem ad terminum praefixum differant. Nosque faciant tempestive de his
+                    rebus certiores, quae expediri debent. Nam praeterquam quod non est bona talium
+                    negotiorum crebra mutatio, non semper datur opportunitas huiusmodi negotia
+                    expediendi, tum quod maiestas regia crebro multis rebus occupatur. Interdum
+                    etiam solatii gratia venari solet, tum vero quod temporis brevitas in seriis
+                    negotiis damnum dare consuevit, sed de his satis.</p>
+                <p>[2.] Praeterea non ignorant Dominationes Vestrae maiestatem regiam et
+                    nos cum ea brevi ad comitia imperialia profecturos,<note type="critic">To
+                        Augsburg, see Ep. 738.</note><ref>/o:olahus.tei.15500511_1</ref> ubi
+                    praesente pecunia opus erit. Cum autem festum Urbani,<note type="critic">25
+                        May.</note> ad quod Dominationes Vestrae se nobis pecuniam daturas
+                        obtulerunt,<note type="critic">See Ep. 737. Cap.
+                        1.</note><ref>/o:olahus.tei.15500423_1</ref> in proximo sit, rogamus easdem,
+                        <milestone unit="pb"/>velint iuxta suam pollicitationem nobis pecuniam
+                    reddere. Ceterum scripserunt nobis Dominationes Vestrae de decimis
+                        <placeName>Saros</placeName> et <placeName>Bereg</placeName> comitatuum.
+                    Nunc ad id Dominationibus Vestris respondere non possumus, verum ubi eaedem huc
+                    venerint, tractabimus cum eis. Nescimus tamen, quid difficultatis Dominationes
+                    Vestrae in ea re faciunt, cum nec ipsi decimas illas arendant, nec aliis, qui
+                    multi essent, permittunt arendare, sed hoc reiicimus in adventum huc
+                    Dominationum Vestrarum, quas bene valere optamus.</p>
+                <p>Datum <placeName>Viennae</placeName> vigesima mensis Maii 1550.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Vester Agriensis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendo domino Francisco Thwrzo eipscopo Nitriensi praefecto,
+                    ceterisque consiliariis camerae Hungaricae regiae maiestatis etc. dominis et
+                    amicis nobis observandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

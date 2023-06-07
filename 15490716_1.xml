@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">719</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Prague, 16 July 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490716_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 12.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-07-16">16 July 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Prague, 16 July 1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Nádasdy should forgive Oláh for having taken a long time to answer,
+                            but his kidney problem and his bureaucratic affairs have hindered him.
+                            He only talked to the King about redeeming the Sopron tithe after
+                            Nádasdy had written to him. Since there is no decision yet in the case
+                            of Pál Bakics and Ferenc Révay, and the King wants them both to be happy
+                            with the decision, Oláh will only do anything afterwards, so that it is
+                            favourable for Nádasdy. 2. István Majláth has written to him that he is
+                            looking forward to the French intervention very much, but the King has
+                            repeated again that he has not yet received an answer from the imperial
+                            legate who is active among the French, and that he should talk to
+                            Wandar, the French secretary, which he has done. Wandar could not talk
+                            to the King due to some febrile illness, and then he went hunting, but
+                            he will return around the 20<hi rend="super">th</hi> of this month. They
+                            will talk to him, and he will write the response.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem et servitorum meorum commendationem, Spectabilis et Magnifice
+                    Domine et Frater Observandissime! </p>
+                <p>[1.] Ignoscat Dominatio Vestra Magnifica, quod tardius scribam, quam
+                    fortasse vellet. Mala valetudo ex renibus mea et occupationes etiam molestae me
+                    tardiorem in scribendo et fecerunt et faciunt. De redemptione decimarum
+                    Soproniensium, de qua Dominatio Vestra Magnifica nuper ad me scripserat,<note
+                        type="critic">We do not know this letter, but Oláh mentions it in his
+                        previous letter, see Ep. 716.</note><ref>/o:olahus.tei.15490411_1</ref> mox
+                    fui locutus <persName>maiestati regiae</persName>. Quia tamen negotium
+                        <persName>Bakyth</persName><note type="critic">Péter Bakics.</note> et
+                        <persName>Reway</persName><note type="critic">Ferenc Révay.</note> nondum
+                    est conclusum,<note type="critic">They fought about the possession of Holíč
+                        castle. They publicly insulted each other at the diet in 1546, see <hi
+                            rend="smallcap">Paulinyi</hi> 1934, 216–217, and 212. Note 34.</note>
+                    immo illud rursus sua maiestas Dominationi Vestrae Magnificae et domino
+                        <persName>locumtenenti</persName><note type="critic">Ferenc Révay.</note>
+                    tractandum commisit, non visum fuit suae maiestati in hoc aliter decernere, quam
+                    prius decreverat, ante quam finem videret tractatuum; cuperet enim utrumque
+                    praedictorum bonorum virorum eo esse contentum, quod conveniens et aequum esset.
+                    Ego sive nunc, sive postea faciam, quicquid in commodum Dominationis Vestrae
+                    Magnificae fore putavero.</p>
+                <p>[2.] Dominus et frater noster <persName>Maylath</persName><note
+                        type="critic">István Majláth.</note> dedit ad me nuper litteras suas,<note
+                        type="critic">We do not know this letter.</note> ex quibus postquam
+                    intellexi eum sollicite exspectare intercessionem
+                        <persName>Galli</persName>,<note type="critic">King Francis I.</note>
+                    <persName>maiestatem regiam</persName>, dominum nostrum clementissimum sum in
+                    negotio ipsius allocutus, respondit iterum, sicut prius, se nondum habere <milestone unit="pb"/>responsum ab <persName>oratore caesaris</persName> apud Gallum agente,
+                    dixit tamen, quod cum <persName>Wandar A.</persName><note type="critic">The
+                        French secretary of Emperor Charles V. We do not know him more
+                        closely.</note> secretario Gallo hac de re loquerer, quod feci. Is tamen,
+                    nescio, quo casu correptus febre, tunc, cum maiestas regia ante nonum diem
+                    venatum proficisceretur, non potuit regem alloqui. Ego quoque propter <choice>
+                        <orig>praemissam</orig>
+                        <supplied>praemissum</supplied>
+                    </choice> renum meorum dolorem non fui secutus <persName>regem</persName>,
+                    quamvis hic vocatus. Quare cumprimum <persName>maiestas sua</persName>
+                    revertetur, quod ad diem 20. huius futurum esse credo, et apud maiestatem regiam
+                    et apud <persName>Vonder A.</persName> secretarium sollicitato negotium, et
+                    quicquid responsi habuero, faciam Dominationem Vestram Magnificam certiorem.
+                    Quam unacum domina mea observandissima, domina coniuge sua carissima felicem
+                    valere opto, quibus servitia mea <add corresp="Olahus" type="insert">unice</add>
+                    commendo.</p>
+                <p>Ex <placeName>Praga</placeName> 16. Iulii anno 1549.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino Thomae de Nadasd comiti perpetuo terrae
+                    Fogaras <choice>
+                        <orig>iudi</orig>
+                        <supplied>iudici</supplied>
+                    </choice> curiae regiae maiestatis ac supremo regni Hungariae capitaneo etc.
+                    domino et fratri observandissimo. </p>
+                <p>Ad manus proprias <placeName>Posonii</placeName> vel in
+                        <placeName>Sarwar</placeName>. Cito, cito, cito, cito.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

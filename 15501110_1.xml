@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">751</title>
+                <title type="main">Antal Verancsics to Miklós Oláh (Eger, 10 November 1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15501110_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Szalay</hi> 1865, 146–147.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15501023_1" type="url">750</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>OSZK</institution>
+                        <repository>Fol. Lat. 1681. Vol. I.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">485r–486r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-11-10">10 November 1550</date>
+                <placeName>Eger</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Antal Verancsics</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Antal Verancsics to Miklós Oláh (Eger, 10 November 1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is very happy to have received his letter and the office of lector
+                            in Esztergom, God bless Oláh for his favour towards him. He was planning
+                            to hold his first mass on 1 January, but when he received news from
+                            Oláh’s letter as well as from Máté Szerdahelyi that Oláh wants him by
+                            his side, he turned all his efforts to making sure this happens as soon
+                            as possible. 2. He will report about Oláh’s estates when they are
+                            together in Esztergom. A lot of news has arrived from Transylvania about
+                            the Turks, he will say more about them in a longer letter in three
+                            days.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Antonius Wrancius Nicolao Olaho salutem!</p>
+                <p>[1.] Litteras tuas XXIII. Octobris datas,<note type="critic">Ep.
+                        750.</note><ref>/o:olahus.tei.15501023_1</ref> VIII. Novembris accepi, quae
+                    quidem me magna laetitia et voluptate affecerunt, idque non tam, ut nuntiae
+                    accessionis novi et opulenti beneficii,<note type="critic">On the <hi
+                            rend="italic">officium lectoratus</hi> of Esztergom, see Ep. 742. and
+                        Ep.
+                        750.</note><ref>/o:olahus.tei.15500902_1</ref><ref>/o:olahus.tei.15501023_1</ref>
+                    quam quod meis te obsequiis uti iam velle video; quamquam et dona et beneficia
+                    tua, quibus me prius etiam quam pene cognoveris, et ornare et locupletare
+                    coeperis, ita complector et excipio, ut nihil neque gratius, neque desideratius.
+                    Deus immortalis hanc tibi erga me benevolentiam simul et beneficentiam omni
+                    largitate et ea gratia referat, <del corresp="author">vices</del> quae tibi quam
+                    gratissima et quam amplissima <milestone unit="pb"/>provenire possit; ego vero enitar omni diligentia, ut gratitudini erga
+                    tantum, tamque munificum benefactorem meum nunquam desim ad mandata autem, quae
+                    das, quod attinet. Etsi consumptis iam et plane exantlatis omnibus his, quibus
+                    retroactae vitae meae anni per tantam varietatem fatorum cucurrerunt, statueram
+                    proximis Kalendis Iani primitias meas celebrare, ut secutus felici a tua in hoc
+                    sacrorum genere auspicia, is demum ipse quoque esse incepissem, qui dudum esse
+                    debebam, nec imposterum ordini meo et Spiritui Sancto refragarer, qui me ab
+                    initio mystem divinorum esse voluerint: tamen postquam et ex litteris tuis, et
+                    ex <persName>Matthaeo</persName><note type="critic">Máté Szerdahelyi.</note> tuo
+                    cognovi, quae me id temporis velles in tuis rebus non exilibus, distuli <milestone unit="pb"/>meam hanc cogitationem, et ad iniunctam a te provinciam appuli animum
+                    et omnem industriam. </p>
+                <p>[2.] De beneficiis tuis illud dixerim, ut mihi illic studeas
+                    benefacere, ubi tecum semper esse possim, esto, quod
+                        <placeName>Strigonii</placeName> simus. (Quis enim hoc non optet tibi?) Quia
+                    hic certe multum etiam imposterum laborabitur, <del corresp="author"
+                        >si</del><add corresp="author" type="corr">sive</add> id de Turcis, sive de
+                    praesidiis nostris rapacissimis velimus intelligere. Nova, quae ex Transsylvania
+                    habemus, triduo post scribam copiose,<note type="critic">In fact, he wrote the
+                        next letter five days later, see Ep.
+                        752.</note><ref>/o:olahus.tei.15501115_1</ref> nam multa uno tempore sunt
+                    allata. His autem maturandum fuit, ut quam primum de voluntate mea in tuis rebus
+                    tibi constaret. Vale. </p>
+                <p>X. Novembris 1550. <placeName>Agriae</placeName>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

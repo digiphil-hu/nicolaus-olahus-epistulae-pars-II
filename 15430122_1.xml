@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">634</title>
+                <title type="main">Miklós Oláh and Godschalk Ericksen to Banská Štiavnica Town
+                    Council (Kremnica, 22 January 1543)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15430122_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with seals.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica</settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Missiles 1543.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"> </measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1543-01-22">22 January 1543</date>
+                <placeName>Kremnica</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh and Godschalk Ericksen</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council </persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh and Godschalk Ericksen to Banská Štiavnica Town
+                    Council (Kremnica, 22 January 1543)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They are hereby letting them know that they have sent two couriers from
+                            Kremnica to the court of Bratislava on account of the Queen’s highly
+                            urgent affairs. Since those from Banská Štiavnica have affairs to settle
+                            both in connection with their own city and with other mining towns,
+                            beside the Queen’s affairs they will also represent the cases in
+                            connection with the mining towns; they hope that they will return within
+                            a few days. In the meantime, the Treasurer and Mr Buchsbaum are here in
+                            Kremnica, whose task is to discuss with the people of Banská Štiavnica
+                            the cases they will bring forward.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Unnsern freuntlichen grueß mit guetem willen zuvor, ersam, weiß,
+                    sonnder gut freundt! </p>
+                <p>Wir fuegen euch hiemit zu wissen, das wir zween als heut von hinen und
+                    in gar genotigen unnser <persName>gnedigisten frauen</persName> geschafften gen
+                        <placeName>Prespurg</placeName> zum rechten reiten und khomen mussen, weil
+                    dann ir auch sachen und handlungen euch unnd di <add corresp="author"
+                        type="insert">andern</add> perckhsteet betreffendt im rechten habt, wellen
+                    wir dieselben neben unser <persName>gnedigisten frauen</persName>, geschafften
+                    anfurdern, hoffen auch, ob Got will in wenig tagen wider hereinzukhomen.
+                    Mitlerweil beleiben der herr <persName>schatzmaister</persName><note
+                        type="critic">The Treasurer of Bratislava was Blasius Gross, see <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 430.</note> und her
+                        <persName>Puchspaum</persName><note type="critic">Buchsbaum was an agent of
+                        the Fuggers, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009,
+                        266.</note> hie innen, di haben verrer sachen mit euch zu handlen, wie ir
+                    von inen vernemen werden. Das wolten wir euch, dess ain wissen emphacht, also
+                    anzaigen unnd nit verhalten. Damit sei die gnad Gottes mit uns allen. Amen. </p>
+                <p>Geben <placeName>Cremnitz</placeName> den 22. tag Januarii anno etc. im
+                        43<hi rend="super">ten</hi>. </p>
+                <p><seg type="signature">Gotschalck Erycke etc.</seg></p>
+                <p>
+                    <seg type="signature">Nicolaus Olahus etc.</seg>
+                </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <pb/>
+                <head>On the outer side:</head>
+                <p>Den ersamen und weisen, unsern sondern gueten freundten, n.,<note
+                        type="critic">I.e. Name.</note> richter unnd rate der künigclichen perkhstat
+                    Schembnitz. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

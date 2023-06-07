@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">638</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Bratislava, 16 March 1543)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15430316_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter, missing cover.
+                    </p>
+                    
+                </note>
+                <note type="publication"><hi rend="smallcap">Karácsonyi–Kollányi</hi> 1909,
+                    232–234.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 2.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1543-03-16">16 March 1543</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Bratislava, 16 March 1543)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. It has not been decided yet if Nádasdy will be condemned or acquitted;
+                            Oláh is not out for Nádasdy’s blood, this is only claimed by those who
+                            are out for Oláh’s blood. Oláh is very much on Nádasdy’s side, he wishes
+                            him well, and he does not want to do anything that would alienate them
+                            from each other. 2. He would pay attention to Antal’s case if he was not
+                            weighed down by the trouble with his own little house in Székesfehérvár:
+                            the walls have been destroyed, there is not one seed of fruit or drop of
+                            wine, but the guard, the bell ringer, and the provisors still have to be
+                            paid. The chapter is writing him letters that resemble invectives; Tamás
+                            Várday, Mihály Mérey, and Máté Hencz have taken 32 barrels of wine from
+                            him, András Choron took another 32, while Imre Werbőczy has occupied his
+                            estates in Somogy county. His purse is empty until the next harvest, but
+                            the canonry has to be maintained. He asks him to make sure that six, or
+                            at least four barrels of wine are returned to him. 3. He does not know
+                            much about the imperial affairs. The Emperor is said to be going to
+                            Italy in May; Schepper went to Utrecht in February to negotiate; the
+                            English King made a pact with the Emperor to declare war against the
+                            French; the Scottish King has died, and a new one has been elected; and
+                            King Ferdinand I is taking care of his own as well as their shared
+                            affairs in Nuremberg. 4. He almost forgot about the purgatory: he did
+                            not want to accuse Nádasdy of denying the existence of the purgatory,
+                            but he should write to him what he meant by seculum so that Oláh can
+                            understand his point better.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem plurimam et servitiorum commendationem, Spectabilis et
+                    Magnifice Domini mihi Observandissime! </p>
+                <p>[1.] Litteras Dominationis Vestrae Magnificae heri accepi redditas mihi
+                    per <persName>Anthonium litteratum</persName>.<note type="critic">We do not know
+                        him more closely.</note> Nec condemnavi, nec absolvi Dominationem Vestram
+                    Magnificam, lis adhuc sub iudice est. Productas litteras regias videntur domini
+                    iudices sufficientes comprobare, sed procuratori reginali secus videtur.
+                    Quicumque dixerunt me sanguinem et facultates Dominationis Vestrae Magnificae
+                    sitire, ut duobus concludam verbis: mentiti sunt. Illi fortasse, qui hoc
+                    confixerunt, si qua eis daretur occasio, magis me sitirent, qui <del
+                        corresp="Olahus">et</del> honoris, sanguinis et facultatum Dominationis
+                    Vestrae Magnificae iuste augendarum fuerim semper et nunc quoque sim
+                    cupidissimus. Non igitur me alium putet Dominatio Vestra Magnifica, quam
+                    Christianum et bonum, quatenus gratia Dei optimi maximi mihi data fuerit, virum
+                    honestumque amantem ac veterem tuum Olahum, facturumque omnia, quae ex fide
+                    honoreque meo facere et possim, et debeam. Quorum Dominationem Vestram
+                    cupidissimam esse scio, si vere me amat, uti amare mihi persuasum habeo. In
+                    absentia Dominationis Vestrae Magnificae non minus aut plus praestiti in rebus
+                    maiestatis reginalis dominae utriusque nostrum clementissimae fidei et
+                    integritatis officique, quam in praesentia id est, quod debui. Quod Dominationem
+                    Vestram Magnificam non vitio, sed laudi, ut opinor, mihi daturam existimo, se
+                    tenet me, uti scribit, pro fratre. Cuius officium ego certe pro viribus semper
+                    exsequar. Nec volo ullum esse locum inter Dominationem Vestram Magnificam et me
+                    alienationis animorum, de qua scribit, sed potius augmenti amoris et
+                    benevolentiae, ac meorum in Dominationem Vestram Magnificam obsequiorum. Id enim
+                    non modo caritas evangelica, sed etiam ea aetas <del corresp="Olahus">ita</del>
+                    nostra, quam nunc agimus, exposcere videtur. Quare, Dominatio <milestone unit="pb"/>Vestra, haec ita esse sibi persuadeat. In his, de quibus controversia
+                    est, alius reperiri posset modus, si meum valeret consilium et Dominatio Vestra
+                    Magnifica vellet. </p>
+                <p>[2.] <persName>Anthonii litterati</persName>, pro quo Dominatio Vestra
+                    Magnifica mihi scribit et mandat propter notitiam etiam veterem, quae mihi cum
+                    domino <persName>Thoma</persName><note type="critic">Probably Tamás Mindszenti,
+                        who was the chaplain and secretary of István Brodarics, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 228.</note> custode nunc in purgatorio <choice>
+                        <orig>existentis</orig>
+                        <supplied>existente</supplied>
+                    </choice> apud dominum et fratrem nostrum communem
+                        <persName>Brodericum</persName><note type="critic">István Brodarics.</note>
+                    non vulgaris erat, omnis a me ratio haberetur, nisi magna me premeret necessitas
+                    et cura providendae domunculae meae Albensis. Paries solus est illius relictus
+                    et is quoque dirutus, nullum granum frumenti, ne guttula quidem vini,
+                        subcustodem,<note type="critic">‘aedituus secundarius’, see <hi
+                            rend="smallcap">DuCange</hi> 1883.</note> campanatorem,<note
+                        type="critic">‘ringer’, see <hi rend="smallcap">Ramminger</hi> 2008.</note>
+                    et alios quosdam iuxta constitutionem <choice>
+                        <orig>veterum</orig>
+                        <supplied>veterem</supplied>
+                    </choice>
+                    <add corresp="Olahus" type="insert">ministros ecclesiae</add> provisorem et
+                    familiam certam in domo alere debeo. Nihil istic est, quod pecuniis promptis non
+                    ematur <quote><add corresp="Olahus" type="insert">praeter aerem et
+                        aquam</add>.</quote><note type="quote">Cf. Thom. Aquin. <hi rend="italic"
+                            >Sent.</hi> De anima lib. 3. l. 1. n. 9.</note> Capitulum aliquot iam
+                    invectivas epistolas ad me scripsit verbis acerbis. Dominus magister
+                        <persName>Thomas</persName>,<note type="critic">Tamás Várday, see <hi
+                            rend="smallcap">Laczlavik</hi> 2013b, 29; <hi rend="smallcap"
+                            >Laczlavik</hi> 2013a, 24–25.</note>
+                    <persName>personalis praesentia regiae maiestatis</persName><note type="critic"
+                        >Mihály Mérey.</note> et <persName>Hencz Mathe</persName><note type="critic"
+                        >Máté Hencz of Asszupatak.</note> 32<note type="critic">Probably instead of
+                        32 vasa vini. See Ep. 139. Note 3.</note><ref>/o:olahus.tei.15301231_1</ref>
+                    vina mea occuparunt, ex quibus <del corresp="Olahus">nihil</del> nullum hactenus
+                    restituerunt. <persName>Andreas Choron</persName> similiter 32 vina. Nunc iterum
+                        <persName>Emericus Werbewczy</persName><note type="critic">Imre
+                        Werbőczy.</note> possessiones meas <placeName>Thazar</placeName>,<note
+                        type="critic">Taszár.</note>
+                    <placeName>Mernye</placeName>, <placeName>Zenthmyclos</placeName><note
+                        type="critic">Miklósfa.</note> et <placeName>Wade</placeName><note
+                        type="critic">Vadépuszta.</note> cum pertinentiis earum in comitatu
+                    Simigiensi occupavit. Pro quibus remittendis scripsi ad eum,<note type="critic"
+                        >We do not know this letter to Imre Werbőczy but another letter connected to
+                        this debate is Ep. 637.</note><ref>/o:olahus.tei.15430311_1</ref>
+                    <del corresp="Olahus">etsi</del> quas si non remiserit, mitto etiam ad
+                    Dominationem Vestram Magnificam nunc litteras domini
+                        <persName>locumtenentis</persName> et consiliariorum regiorum, quas
+                    dignetur, praeter id, quod ex officio suo est, etiam propter aequitatem et
+                    servitia mea ad significationem <milestone unit="pb"/>postea meam exsequi. Haec
+                    propterea scribo superiora, quod ex hac crumena mea, satis certe a tot annis,
+                    quibus <del corresp="Olahus">forizitanum</del><add corresp="Olahus" type="corr"
+                        >furizotanum</add><note type="critic">Hapax, probably from <hi rend="italic"
+                            >forizare</hi> meaning ‘for a negotiandi causa frequentare’, see <hi
+                            rend="smallcap">DuCange</hi> 1883; and <hi rend="smallcap">Szovák</hi>
+                        1983–2017.</note> ago, exhausta usque ad messem et vindemiam futuram.
+                    Pecuniis paratis onera custodiae perficere et domum familiamque illam me alere
+                    necesse sit. Quod quam <del corresp="Olahus">mihi</del> difficile sit ex
+                    pecuniis menstruis me praestare, Dominatio Vestra Magnifica cogitare potest.
+                    Curet eadem, et faciat, rogo plurimum, apud ipsum
+                    <persName>Anthonium</persName>, ut si non ipsa sex saltem quattuor vina reddat
+                    ad usum domus, <del corresp="Olahus">ut</del><add corresp="Olahus" type="corr"
+                        >ne</add> sit unde ministri illi se sustentent ad aliquot exiguum tempus.
+                    Faciam, quod Dominatio Vestra Megnifica iubet, et facerem absque hoc, nisi
+                    praemissa necessitas me urgeret. In futura vindemia, si hanc Deus et Turcae
+                    salvam nobis concesserint, non ipsum <persName>Anthonium</persName>,
+                    Dominationis Vestrae Magnificae intuitu, deseram etc.</p>
+                <p>[3.] Ex imperio nihil certi habeo. Non ignorat Dominatio Vestra
+                    Magnifica conventus imperiales tarde solere aliquid parere. Gallus nihil non
+                    molitur, nisi Deus per sua instrumenta mentem illius in meliorem frugem vertat.
+                        <persName>Caesar</persName> ex Hispaniis et Germania contra facit apparatum,
+                    fama est illum ad principium Maii in Italiam venturum. In Flandria Cornelius
+                    ille <persName>Scepperus</persName><note type="critic">Cornelis de
+                        Schepper.</note> noster circa principium Februarii profectus erat
+                        <placeName>Traiectum</placeName><note type="critic">Utrecht.</note>
+                    civitatem caesaris ad Mosam, ut cum nuntiis principum electorum Rheni et
+                    Lanthgravii tractaret in causa Elevensis<note type="critic">According to Pray,
+                        Levensis, i.e. Levice, but it does not make sense.</note> ducis. Verum
+                    illinc quoque ad bellum magis quam ad pacem videtur res inclinari. <persName>Rex
+                        Angliae</persName>,<note type="critic">King Henry VIII.</note> ut dicitur,
+                    acceptus est ad amicitiam caesaris <milestone unit="pb"/>et aperte Gallo in
+                    favorem caesaris bellum denuntiavit, Normanniamque Galli invadere parat.
+                        <persName>Rex Scotiae</persName><note type="critic">James V of Scotland died
+                        on 14 December, 1542.</note> mortuus est, et in locum eius alius
+                        electus.<note type="critic">His successor was Mary Stuart or Mary I of
+                        Scotland.</note>
+                    <persName>Maiestas regia</persName>,<note type="critic">King Ferdinand I.</note>
+                    dominus noster clementissimus est, ut in hunc diem adhuc accepi,
+                        <placeName>Nurembergae</placeName>. Sollicitat suam et nostram rem, quae
+                    stat <add corresp="Olahus" type="insert">eo</add> in loco, quem Dominatio Vestra
+                    Magnifica videt et me scit melius. Spes nostrae conservationis in Deo optimo
+                    maximo <del corresp="Olahus">sita est</del>, in cuius manu sunt omnia et sine
+                    cuius voluntate ne capillus quidem capitis nostri decidit, sita est, et in
+                    principibus nostris, et nobis quoque ipsis, si quid ex corde extremo hoc tempore
+                        <del corresp="Olahus">facere</del>
+                    <del corresp="Olahus">vacere</del><add corresp="Olahus" type="corr">facere</add>
+                    velimus. Haec sunt, ad quae Dominatio Vestra Magnifica rescribi voluit, cui
+                    mitto cum praesentibus aliquos poetarum novos lusus nunc ad me missos. Quod
+                    reliquum est, Dominationam Vestram Magnificam Deus maximus conservet felicem et
+                    fortunatam, cui servitia mea iterum commendo. </p>
+                <p>Ex <placeName>Posonio</placeName>
+                    <del corresp="Olahus">1543</del> 16. Martii 1543.</p>
+                <p>[4.] Paene oblitus eram purgatorii, de quo Dominatio Vestra Magnifica
+                    scribit. In minimo contendit mihi persuadere se <del corresp="editor">non</del>
+                    esse in illo hominum genere, qui purgatorium negent, scribendo futurum seculum.
+                    Seculum enim et purgatorii dicitur et illud aeternum. De utro velit intelligere,
+                    quod scribit, significet, ut facilius me inducat in suam opinionem.</p>
+                <p>
+                    <seg type="signature">Dominationis Vestrae servitor Nicolaus Olahus custos
+                        Albensis etc. sua manu</seg>
+                </p>
+                <p>De <persName>Anthonio</persName> litterato, quid fecerit Magnifica
+                    Dominatio Vestra, velit significare, eum enim ad responsionem eiusdem
+                    remisi.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">498</title>
+                <title type="main">Lieven van den Zande to Miklós Oláh (Ghent, 7 July 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340707_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 512–515.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 41–44.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >220–222.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-07-07">7 July 1534</date>
+                <placeName>Ghent</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Lieven van den Zande</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Lieven van den Zande to Miklós Oláh (Ghent, 7 July 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Jean Molinier arrived to him a few days ago, and they talked for two
+                            days, but even that seemed to be brief. Molinier said that he had a
+                            guest from Paris, who had seen it for himself that Chrysostomus’ works
+                            have started to be published in Paris, he suspects in several volumes.
+                            But it is unlikely that he will be able to access even a quarter of
+                            these, since even from the Latin works he only has the ones his friends
+                            have sent him. 2. Molinier also added that neither the Queen nor Oláh
+                            had seen him yet, even if they had planned to do so, and if Oláh wants
+                            to return the Santes Pagnino volume, he can send it to Ghent through
+                            Omaar van Edingen. Or it would be even better if he sent it to van den
+                            Zande so that he can read it a little as well. 3. He was sad to hear
+                            that Oláh wants to go home, but he recommends only to go when it is
+                            certain that there is peace in his homeland: war is not for him. 4. He
+                            is still hoping that Erasmus of Rotterdam will return home. In the
+                            meantime, if he has any reliable news about Thomas More and John Fisher,
+                            he should write it to him. Johannes Clautus has traveled to Erasmus, and
+                            van den Zande suspects that he does not wish to return home any more;
+                            and Erasmus is in need of a servant right now. Oláh should write him if
+                            he really wants to return home, he is namely preparing a small present
+                            for him.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Levinus Ammonius Carthusianus Nicolao Olaho secretario Mariae salutem. </p>
+                <p>[1.] Ante dies ab hinc non ita multos, Domine Olahe, scripsi<note
+                        type="critic">Ep. 497.</note><ref>/o:olahus.tei.15340702_1</ref>
+                    intervenisse litteris ad te meis, quas tum prae manibus habebam dominum
+                        <persName>Iohannem Molendinum</persName>,<note type="critic">Jean
+                        Molinier.</note> meum affinem et amicum singularem. Et fuit is apud me totum
+                    biduum, quamquam id totum biduum mihi quidem tanti viri desiderio perbreve esse
+                    videbat. Quis enim unquam talis viri colloquio possit satiari? Is inter alia
+                    memoratu digna hoc maxime retinendum mihi dixit, fuit apud me, inquit, non ita
+                    pridem Parisiensis quidam magnus ac praepotens hospes, qui persancte mihi
+                    narrabat omnia divi <persName>Chrysostomi</persName> opera Graece excudi coepta
+                    esse <placeName>Lutetiae</placeName>,<note type="critic">Paris.</note> quorum
+                    sese aliquot vidisse quaterniones deierabat, futurumque, ut absoluta tandem
+                    (chalcographorum <milestone unit="pb"/>supputatione) ad sex libras Grossorum aut paulo amplius (loquar magis
+                    vulgari more, quam Latino) ascendant emere volentibus. Aitque sese suspicari,
+                    non ea simul cuncta, sed particulatim et per tomos edenda esse, quod res sit
+                    ingentis molis ac momenti. Quid hic, mi Olahe, dicam? Nisi, ut gratuler eis, qui
+                    feliciter et bene nati tantum sibi thesaurum poterunt comparare. Hoc enim puto
+                    solum mihi integrum erit hac sane in re, nisi in me fortuna vices mutet suas, id
+                    quod equidem vix duco sperandum esse, ea est huius instituti conditio. De qua
+                    tamen ipsa non est, quod amplius dicere possim, praesertim per epistolam, neque
+                    fortassis admodum necesse est plura dicere, quod ipse non sis, ea est tua
+                    prudentia, rudis omnino monasticarum consuetudinum. Cum autem solus hic sim
+                    Graece (non dicam peritus), sed studiosus, non est ulla spes, ut ei, qui rem
+                    communem administrant, vel teruncium velint mea causa comparandis Graecis libris
+                    expendere, cum ne Latinos quidem ullos, nisi amicorum beneficio nactus non sim.
+                    Sed habeant, qui habere possunt. </p>
+                <p>[2.] Praeterea inter affinem meum et me nonnihil etiam de tua
+                    dignatione tractatum fuit eo colloquio, dicebamque te, inquam, mihi dixisse, tum
+                    in animo <choice>
+                        <orig>mihi</orig>
+                        <supplied>tibi</supplied>
+                    </choice> fuisse adire <placeName>Tornacum</placeName> illumque convenire, et
+                    reddere illi librum, quem ab illo commodatum habebas. Is negabat reginam fuisse
+                        <placeName>Tornaci</placeName> anno superiore, et nec te, nec ullum abs te
+                    nuntium vidisse. Ceterum si est illi (inquit) animus mihi restituere librum,
+                    mittat illum huc ad te <placeName>Gandavum</placeName>, quod facile erit,
+                    praesertim per dominum scribam <persName>Audomarum Edingum</persName>.<note
+                        type="critic">Omaar van Edingen of Ghent.</note> Is liber est
+                        <persName>Sanctis Pagnini Lucensis</persName><note type="critic">Santes
+                        Pagnino or Sanctes Pagninus Lucensis (1470–1536) was a Dominican friar,
+                        theologian, and philologist, see <hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 46.</note> grammatica.<note type="critic">Probably the <hi
+                            rend="italic">Thesaurus linguae sanctae</hi> edited in 1529.</note> Hoc
+                    itaque libro, mi Olae, si satis es usus, et vis illi reddere, id quod tamen in
+                    tua voluit esse potestate, facias, an non facias, curabis illum ad me deferri,
+                    ego salvum illum restituam. Nam alioqui pervelim ego quoque nonnihil eo uti
+                    libro, et est ille ea erga me benevolentia praeditus, ut lubens patiatur aliquot
+                    menses apud me eum librum haerere. Solet enim subinde mihi alium atque alium
+                    librum ad usuram mittere. Ad usuram dico (ne quis erret in verbo), quemadmodum
+                    dixit <persName>Plautus</persName>, <quote>usuramque eius corporis cepit
+                        sibi,</quote><note type="quote">Plaut. <hi rend="italic">Amph.</hi>
+                        108.</note> sed cur hoc apud te dico? Cum probe scias, quae sit eius vocis
+                    significatio. </p>
+                <p>[3.] Illud in epistola tua moleste tuli, quod
+                        <persName>Erasmo</persName> rescribente<note type="critic">Ep.
+                        482.</note><ref>/o:olahus.tei.15340422_1</ref> tibi de reditu in Hungariam
+                    tuo videaris non ita multo posthac abitum maturare. Equidem, mi Olae, nolim ego
+                    consilia interturbare tua, scio tibi probe constare huius voluntatis rationem,
+                    neque velim vel honorem, vel commodum tuum ulla in parte remorari, nonnihil
+                    etiam de meo, si quid esset meum, lubenter admensurus. Sed tamen illud pervelim,
+                    teque rogandum etiam duxerim, ne prius hinc discedas in patriam et natale solum,
+                    quam firma et constanti pace tuta illic omnia esse cognoscas. Quid opus est
+                    homini Musis et optimis studiis dedito in turbas tumultumque bellorum se
+                    immittere? Nihil minus convenit, quam Musis et Marti. Iampridem Dei magna
+                    bonitate e mediis periculis, atque adeo <milestone unit="pb"/>e praesentaneo ereptus exitio nihil est necesse tentare Deum, et rursum
+                    in discrimen temet iniicere, cum alioqui placida frui quiete liceat. Quod ipsum
+                    tamen ita dictum esse velim, existimes, Optime Vir, non ut praeeam tuis
+                    consiliis, sed ut agnoscas me tibi optime velle, utque omnes tuae res in tuto
+                    stationis portu consistant. </p>
+                <p>[4.] Porro de <persName>Erasmi</persName> ad nos reditu vix mihi spes
+                    superesse videtur, ita malum aliud super aliud subinde virum illum optimum
+                    invadit, ut nunquam non sit illi, iusta quidem illa, sed nobis tamen odiosa,
+                    causa differendi. Pervelim scire, quid actum sit de
+                        <persName>Moro</persName><note type="critic">Thomas More.</note> et
+                        <persName>episcopo Roffensi</persName><note type="critic">John
+                        Fisher.</note> in <placeName>Anglia</placeName>, si certum habes inde
+                    nuntium. Nam varius hic rumor et alioqui incertus circumfertur. Est autem in
+                    proclivi credere, certiora paululum istic in aula referri. Pervelim illud quoque
+                    scire, num <persName>Ioannes Clauthus</persName><note type="critic">Johannes
+                        Clauthus (†1534) entered Erasmus’ service in spring 1534. He was sent to
+                        England to collect information on Thomas More and John Fisher, but he
+                        unexpectedly died during this journey. See <hi rend="smallcap"
+                            >Bierlaire</hi> 1985.</note> profectus est ad
+                        <persName>Erasmum</persName> cum illo moraturus eique famulaturus. Audieram
+                    enim ex amiculo quopiam fore, ut abs te litteras ad <persName>Erasmum</persName>
+                    impetraret pro se commendatitias, quod <persName>Erasmus</persName> famulum
+                    requireret aliquem nostratem. Quod ipsum mihi quidem parum videtur olere
+                    desiderium revertendi, quid tibi videatur, nescio. </p>
+                <p>Postremo me certiorem facias, precor, an vere sit animus tibi propediem
+                    in natale solum te recipiendi. Omnino enim cupio tibi parare munusculum aliquod,
+                    tenue quidem illud, sed quale tamen a monacho possis exspectare, qui non prorsus
+                    a bonis studiis sit alienus. <persName>Buccius</persName><note type="critic">We
+                        do not know him more closely. See Ep.
+                        489.</note><ref>/o:olahus.tei.15340529_1</ref> noster multam tibi salutem
+                    iussit ascribi. Gaudeo fortunam aliquousque tollerabilem contigisse
+                        <persName>Panagatho</persName>,<note type="critic">Lieven Algoet.</note>
+                    idque potissimum tua commendatione. Dominus Iesus Tuam Dominationem servet
+                    incolumem, tuaque omnia consilia bene vertat. </p>
+                <p>E Valleregia Carthusiana iuxta <placeName>Gandavum</placeName> Nonis
+                    Iulii 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

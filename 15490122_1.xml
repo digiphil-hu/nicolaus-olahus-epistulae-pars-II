@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">703</title>
+                <title type="main">Miklós Oláh to Banská Štiavnica Town Council (Vienna, 22 January
+                    1549) </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15480122_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Štiavnica</settlement>
+                        <institution>ŠABB PBŠ MMBŠ</institution>
+                        <repository>Missiles 1549.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-01-22">22 January 1549</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Banská Štiavnica Town Council (Vienna, 22 January
+                    1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The Queen’s councillors have complained that due to the urging of the
+                            opposite side, they have been experiencing abuses during the lawsuit
+                            between Wolfgang Haller and the heirs of Peter Hillepradt in terms of
+                            the summons, laws, and deadlines, and because the people of Banská
+                            Štiavnica want to get through the lawsuit more quickly, they may cause
+                            quite a big damage to Haller and the Queen. So, in order to avoid even
+                            the perception of impropriety, no matter how much the other party is
+                            urging them, they should not hurry, and they should observe the laws and
+                            deadlines and make sure that Haller’s lawyer has at least one month to
+                            inform the procurator, whom Haller and the Queen will appoint to manage
+                            the affairs of the mining town.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Prudentes et Circumspecti Amici Honorandi! </p>
+                <p>Consiliarii <persName>reginalis maiestatis</persName> hic
+                        <placeName>Viennae</placeName> constituti conquesti sunt apud nos, quod ad
+                    instantiam adversae partis in causa inter magnificum dominum
+                        <persName>Wolffgangum Haller</persName><note type="critic">Wolfgang
+                        Haller.</note> etc., et matrem ac assertos haeredes quondam domini
+                        <persName>Petri Hilleprant</persName><note type="critic">Peter Hilleprandt
+                        was a Deputy Count of the Chamber <hi rend="italic">(Unterkammergraf)</hi>
+                        in Banská Štiavnica during the 1530s, see <hi rend="smallcap"
+                            >Meier–Piiarinen–Wegera</hi> 2009, 13.</note> vertente nimis inordinato
+                    processu, citatione, legitimis et debitis terminis, ac dilationibus ad
+                    deliberandum, et respondendum non distincta, nec legitimae praesentata nimis
+                    celeriter festinare velletis, ex quo non mediocre damnum in dominum
+                        <persName>Haller</persName> ac praecipue <persName>reginalem
+                        maiestatem</persName> redundare posset, de quo etiam legitime querelae ad
+                        <persName>regiam maiestatem</persName> pervenire possent. Ita quod in non
+                    levem suspicionem trahi possetis, quae cuilibet iudici maxime cavenda est,
+                    adhortamur itaque nos amice admonendo, quod causam tanti ponderis et momenti
+                    aliqua festinatione ac inordinatu processu, quantumvis instet adversarius, non
+                    acceleretis, sed debitis et legitimis terminis ac iuridicis dilationibus hoc
+                    negotium ita temperetis, ut advocatus domini <persName>Haller</persName>
+                    <placeName>Viennae</placeName> existens ad minimum unius mensis spatium habere
+                    possit ad informandum <persName>procuratorem</persName>, quem dominus
+                        <persName>Haller</persName> et fortasse deinceps reginalis maiestas pro
+                    negotii qualitate ad civitates montanas destinabit. Valete. </p>
+                <p>Ex <placeName>Vienna</placeName> vigesima secunda Ianuarii anno Domini
+                    1549. </p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
+                            et Agriensis cancellarius regius etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Prudentibus et circumspectis iudici et iuratis ceterisque civibus
+                    Semnitiensis dominis et amicis nobis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

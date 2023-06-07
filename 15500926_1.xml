@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">746</title>
+                <title type="main">Antal Verancsics to Miklós Oláh (Vienna, 26 September
+                    1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15500926_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Szalay</hi> 1865, 106–109; <hi rend="smallcap"
+                        >Karácsonyi–Kollányi–Lukcsics</hi> 1912, 414–415.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>OSZK</institution>
+                        <repository>Fol. Lat. 1681. Vol. I.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">448r–450v.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-09-26">26 September 1550</date>
+                <placeName>Eger</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Antal Verancsics</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Antal Verancsics to Miklós Oláh (Vienna, 26 September
+                    1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has arrived to Eger in one piece, where the prefects have welcomed
+                            him with affection, and he took his seat as Archdeacon on the 10<hi
+                                rend="super">th</hi>. His house is in a terrible state, and it will
+                            cost him a lot of money and effort to repair it. His income is small due
+                            to the nearby war, and the ceasefire will also expire soon, but he will
+                            endeavour to save money. 2. The castle of Szolnok has been fortified.
+                            Niklas von Salm negotiated with András (Bonaventura) Báthori the day
+                            before yesterday in Abád, then he went to Szolnok to appoint János
+                            Balassa to be the leader of the castle. The Turks have been quiet so
+                            far, in any case Báthori has 10,000 people on each side of the river.
+                            George Martinuzzi is said to have 25,000 people in Mediaș, who are
+                            quietly waiting for the King’s help. Verancsics cannot keep up with what
+                            to expect, but he hopes that the fragmentation of Transylvania will come
+                            to an end. 3. More and more people are refuting Martinuzzi in Péter
+                            Petrovics’s case. Martinuzzi is said to be lolling around his castle;
+                            Vinț has capitulated, but not without bloodshed; Cenad has been set on
+                            fire, and Pál Bánk, to whom he had entrusted Sebeș, slayed many of the
+                            defenders of Vinț. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Antonius Wrancius Nicolao Olaho antistiti suo salutem!</p>
+                <p>[1.] Scito me iam <placeName>Agriam</placeName><note type="critic"
+                        >Eger.</note> incolumem pervenisse nulloque vel periculo itineris vexatum
+                    vel incommodo, ubi a <persName>praefectis</persName><note type="critic">István
+                        Dobó and István Mekcsey.</note> tuis humaniter, a canonicis fraterne
+                    exceptus archidiaconatum IIII. Idibus Septembris<note type="critic">I.e. 10
+                        September. Verancsics became Canon of Eger in 1550 and Archdeacon of
+                        Szabolcs county in 1549.</note> feliciter occupavi. Domum meam inveni
+                    desolatam, hiantem ruinis, possessam milite, oppressamque fere ad culmen fimo
+                    equino. Cui purgandae instaurandaeque addixi non mediocrem et curam et pecuniam,
+                    multis aliis de suo <del corresp="author">desperantibus</del> et de crastino
+                    desperantibus. Proventus habeo satis tenues propter belli vicinitatem, quo non
+                    Agriensis <milestone unit="pb"/>tractus solum, sed iam, ut videmus, et Hungaria
+                    et Transsylvania tota adeo succensa est, ut induciae,<note type="critic">I.e.
+                        the Treaty of Edirne (1547).</note> quae quinquennales erant, vix legitimum
+                    finem assequentur. Porro et hic et ubique per omnes comitatus tanto spiritu
+                    omnis ordo, omnis status, omnis conditio, omnis aetas, omne denique pectus in
+                    arma ruit et manus hostem petit, ut huius motus initia maximum quoddam bellum in
+                    Turcas polliceri videatur. Nos tamen dabimus operam omni studio atque industria,
+                    ut et belli pericula evitemus, et alimentis non careamus. Et si copia defuerit,
+                    ad parsimoniam accurremus. Sed de privatis alias. Vocor ad publica, quae nunc
+                    ubique ab imo late commoventur. </p>
+                <p>[2.] Castellum <placeName>Zolnocchi</placeName>,<note type="critic"
+                        >Szolnok.</note> quod dudum etiam praeripiendum erat hostibus, iam
+                    exstructum et firmatum sic habemus, ut vim etiam non exiguam sustinere posset.
+                    Comes <persName>Salmus</persName><note type="critic">Niklas von Salm.</note>
+                    <milestone unit="pb"/> summus huius expeditionis dux, nudiustertius habito
+                    colloquio cum <persName>Andrea Bathoreo</persName><note type="critic">András
+                        (Bonaventura) Báthori.</note> in <placeName>Abad</placeName>,<note
+                        type="critic">Abád, today part of Abádszalók.</note> pago ad Tibiscum posito
+                    profectus est <placeName>Zolnocchum</placeName>, ut ei praeficiat
+                        <persName>Ioannem Balassam</persName>,<note type="critic">János
+                        Balassa.</note> insignem iuvenem, imponatque praesidia et munitiones
+                    necessarias cum machinis. Ex parte Turcarum nulli adhuc motus audiuntur,
+                    mirandumque est, quod sileant. His hic bene constitutis, quo signa illaturus est
+                    comes, sunt enim tum ei tum <persName>Bathoreo</persName>, alteri cis, alteri
+                    citra flumen ad <del corresp="author">XII</del><add corresp="author" type="corr"
+                        >X</add> ferme millium hominum, non facile intelligo, res enim secretissime
+                    et sine ullo tumultu geritur, tanta et in comite elucet solertia et scientia rei
+                    militaris, tanto et ceteri omnes consensu in rem bene gerendam incubuerunt. Et
+                    quanquam vox multitudinis est, quod <persName>Heremitae</persName><note
+                        type="critic">George Martinuzzi.</note> suppetias ibitur, mihi tamen quoniam
+                    ignotum est consilium, non audeo quicquam scribere, cum alioqui <milestone
+                        unit="pb"/>omnem expeditionis huius rationem tibi vel ab ipso initio
+                    constitisse certum est. De viribus <persName>Heremitae</persName> omnia maxima
+                    et plena spei bonae afferuntur. Dicitur habere XXV millium hominum copias,
+                    sedereque <placeName>Meggiessii</placeName>,<note type="critic">Mediaș.</note>
+                    ac silere non sine admiratione multorum. Nec id ex metu aut ignavia perhibent
+                    illum facere, sed exspectatione regii subsidii, cupientem cum integris, tum
+                    auctis viribus rem aggredi atque perficere, quam hactenus tanto artificio
+                    fabricavit. Ego iam illi nequeo non bene velle, post quam sic induxit animum, ut
+                    Christianae reipublicae opera eius consulatur. Faxit Deus, ut <del
+                        corresp="author">ei</del> succedat <add corresp="author" type="insert"
+                        >illi</add>, si probe agit, <del corresp="author">eique</del><add
+                        corresp="author" type="corr">cui</add> si <del corresp="author"
+                        >erit</del><add corresp="author" type="corr">omnino</add> succurrendum <add
+                        corresp="author" type="insert">erit</add>, succurratur iustis auxiliis, quo
+                    et Transsylvani rem secure amplecti audeant, quia feruntur id ipsum opperiri,
+                    dum adhuc neutri parti accesserunt, (solito enim agunt ingenio, ut etiam
+                        <persName>Gritteo</persName><note type="critic">Lodovico Gritti.</note> casu
+                        <del corresp="author">olim</del> egerunt), deturque <milestone unit="pb"
+                    />opera, ut ea provincia fractis <del corresp="author">obstantui</del><add
+                        corresp="author" type="corr">seditiosorum</add> conatibus non obtineri
+                    solum, sed etiam possessione occupari tenerique, et imposterum quicquid alicunde
+                    ingruerit, paucis castellis in quibusdam semitis constitutis fortiter tueri
+                    possit. </p>
+                <p>[3.] Rem <persName>Petrovii</persName><note type="critic">Péter
+                        Petrovics.</note> omnes, qui inde veniunt, magis quam
+                        <persName>Heremitae</persName> infirmant, facileque ita esse credo, quod et
+                    avaritia laboret, et audere raro solet, nullius magnitudinis appetens. Fertur
+                    aliud nihil agere, quam et dies et vires <choice>
+                        <orig>terrere</orig>
+                        <supplied>terere</supplied>
+                    </choice> in castella quadam, quae etiam si adimantur, parum sint et illi
+                    allatura emolumenti, et <persName>Heremitae</persName> detrimenti.
+                        <placeName>Vincium</placeName><note type="critic">Vinț. Martinuzzi lived
+                        here from 1546 until his death.</note> deditione accepit,
+                        <placeName>Cianadinum</placeName><note type="critic">Cenad. On the
+                        devastation of Cenad and the expulsion of István Szegedi Kis, see <hi
+                            rend="smallcap">Barta</hi> 1993, 91.</note> igne vastavit,<note
+                        type="critic">See <hi rend="smallcap">Oborni</hi> 2017, 156.</note> ab arce
+                    repulsus est. Nec <placeName>Vincii</placeName> accessionem incruenta victoria
+                    obtinuit. <persName>Paulus cognomento Bank</persName>,<note type="critic">Pál
+                        Bánk was Royal Castellan of Gherla and Deva, and Vice-Voivode in 1552–1553,
+                        see <hi rend="smallcap">Veress</hi> 1898, passim; and <hi rend="smallcap"
+                            >Oborni</hi> 2018, 436.</note> cui <persName>Heremita</persName>
+                    <placeName>Saxosabesum</placeName><note type="critic">Sebeș.</note> crediderat,
+                    facta in eos <del corresp="author">irruptione</del><add corresp="author"
+                        type="corr">eruptione</add>, qui Vincium receperant, non exigua caede
+                    affecit; ipse vulneratus <milestone unit="pb"/>abscessit. Quid deinceps futurum sit, Deus novit et Rhamnusia
+                        Adrastia,<note type="critic">I.e. Nemesis.</note> quae malos male perdet.
+                    Omnino tamen postquam in tantos motus coniecta est Transsylvania, cuius causa
+                    etiam reliquiis Hungariae non parum fortasse oborietur sollicitudinis,
+                    maturandum esse censerem in recipienda et firmanda validis praesidiis ea
+                    provincia, ne postea duobus aut etiam pluribus in tantae molis tantique momenti
+                    locis laboretur. Haec mea est de his sententia. Vale. </p>
+                <p>XXVI. Septembris 1550. <placeName>Agriae</placeName>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

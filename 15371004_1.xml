@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">592</title>
+                <title type="main">Frans van Cranevelt to Miklós Oláh (Mechelen, 4 October
+                    1537)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15371004_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 605–606.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >324–325.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1537-10-04">4 October 1537</date>
+                <placeName>Mechelen</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Frans van Cranevelt</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Frans van Cranevelt to Miklós Oláh (Mechelen, 4 October
+                    1537)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has read <hi rend="italic">Hungaria</hi>, which filled him with
+                            awe, and if there had been enough time, he would have copied it. But he
+                            does not want to delay him now because of the moving, he only asks him
+                            to publish it, this work should not be hidden. 2. He has heard that a
+                            book was published in Paris in which they accuse the Emperor. He is also
+                            attaching his letter to Theodor Adam Svallenberg in case someone from
+                            Oláh is going to Paris and can hand it over to him. He also sent Oláh’s
+                            epitaph the day before yesterday, along with his (von Cranevelt’s) Latin
+                            translation, if he does not like one, he should use the other.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p><del corresp="Olahus">Francis</del><add corresp="Olahus" type="insert"
+                        >Franciscus</add> Cranneveldius Nicolao Olao salutem. </p>
+                <p>[1.] Perlegi, quanta potui celeritate, <hi rend="italic">Hungariam</hi>
+                    tuam, Vir Ornatissime, in qua et naturae benignitatem et vivacissimum ingenium
+                    tuum sum magnopere demiratus, quo tot insignium locorum dotes, tot fluvium <del
+                        corresp="Olahus">dotes</del> cursus, tot hominum praeclara facinora
+                    complecti tam exacte, tanta sermonis luce potuisti. Si per temporis brevitatem
+                    licuisset, continuo exscripturus eram. Nunc, <del corresp="Olahus">quod</del>
+                    cum adornari peregrinationem hanc novam intelligam, non fuit consilium tuum <hi
+                        rend="italic">Athilam</hi> diutius invitum retinere, ne mihi quoque negotium
+                    facessat, illud autem abs te cupio impetrare, ne vir tantas inter chartas tuas
+                    diutius delitescat, sed in publicum prodeat,<note type="critic"><hi
+                            rend="italic">Athila</hi> was only published in 1568, by János Zsámboky.
+                        On the editions of Oláh’s historical works, see <hi rend="smallcap"
+                            >Tóth</hi> 2019, 124.</note> mirifica voluptate studiosos omnes
+                    affecturus. Quid enim possit esse praeclarius historiarum exacta cognitione? Sed
+                    vereor, ne nostro quoque tempore propter <del corresp="editor">propter</del>
+                    hominum scelera rursus exoriatur divinum aliquod flagellum ad mores hominum
+                    castigandos luxumque domandum. Omne in praecipiti vitium stetit, et quantum est
+                    in rebus inane? Utinam Deus precibus bonorum piorumque virorum flectatur ad
+                    misericordiam, quamquam ea quoque magna misericordia est, quam <del
+                        corresp="Olahus">pates</del><add corresp="Olahus" type="corr">pater</add>
+                    exhibet <milestone unit="pb"/>filio improbo, dum castigat et flagrum adhibet,
+                    cum sanari aliter non vult lenioraque remedia contemnit. </p>
+                <p>[2.] Audivi ex <persName>Brugensi</persName><note type="critic">We do
+                        not know him more closely.</note> quodam, qui
+                        <placeName>Parrisiis</placeName> fuit et latuit hoc bello, Gallos edidisse
+                    libellum recenti fetura XXXVI plus minus <del corresp="Olahus"
+                        >quateniores</del><add corresp="Olahus" type="corr">quaterniones</add>
+                    continentem, in quo multa adversus caesaream maiestatem calumniantur.<note
+                        type="critic">For more, see <hi rend="smallcap">Detering–Pulia</hi>
+                        2020.</note> Mirum est principes vulgi iudicio causam committere, et quaedam
+                    aperire mysteria, quae postea <del corresp="Olahus">forsitam</del><add
+                        corresp="Olahus" type="corr">forsitan</add> occultata cuperent. Sic bellum
+                    gerere deberent, veluti memores aliquando sese in gratiam redire posse.
+                        <quote>Sic oderis, inquit ille, tamquam aliquando amaturus.</quote><note
+                        type="quote">Erasm. <hi rend="italic">Adag</hi>. 1072. II, I, 72. Ama
+                        tanquam osurus, oderis tanquam amaturus.</note> Mitto his adiunctas litteras
+                    ad <persName>Zwallembergum</persName>,<note type="critic">Theodor Adam
+                        Svallenberg.</note> qui <placeName>Parisiis</placeName>
+                    <del corresp="Olahus">et</del><add corresp="Olahus" type="corr">est</add> in
+                    collegio Cameracensi, quas licebit aperire et si quis <del corresp="Olahus"
+                        >istius</del><add corresp="Olahus" type="corr">istinc</add> eo proficiscitur
+                    mittere, nam hinc nemo proficiscitur. Misi nudiustertius litteras unacum
+                    epitaphiis tuis et Graeco illo pro virili mea in Latinum converso duplici
+                        versione,<note type="critic">See Ep. 592. and the text editions of the
+                        poems: <hi rend="smallcap">Ipolyi</hi> 595. Cranevelt translated Oláh’s
+                        Greek poem. For the original poem see <hi rend="smallcap">Neagu</hi> 2003,
+                        350.</note><ref>/o:olahus.tei.15371004_1</ref> ut si altera minus arrideat,
+                    utaris altera, nisi malis utramque <quote>in spongiam incumbere</quote>.<note
+                        type="quote">Suet. <hi rend="italic">De vitis caesarum,</hi> Div. Aug. 85:
+                        “respondit, Aiacem suum in spongeam incubuisse”.</note><note type="critic"
+                        >Cranevelt liked citing this line, see Ep.
+                        585.</note><ref>/o:olahus.tei.15370428_1</ref> Vale, Vir Ornatissime, et
+                    Craneveldium inter tuos <choice>
+                        <orig>munera</orig>
+                        <supplied>numera</supplied>
+                    </choice>. </p>
+                <p><placeName>Mechliniae</placeName> 4. <choice>
+                        <orig>Ionas</orig>
+                        <supplied>Nonas</supplied>
+                    </choice> Octobris 1537.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

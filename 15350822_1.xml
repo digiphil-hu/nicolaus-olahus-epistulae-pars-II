@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">548</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 22 August 1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350822_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 561–562.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">132.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-08-22">22 August 1535</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 22 August 1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has received Oláh’s letter, from which he has learned about the
+                            progress made against the Anabaptists, the outcome of the Lübeck battle,
+                            John Fisher’s death, and all the rest. Francesco II Sforza is also
+                            sending his regards, with whom they have just heard that the Emperor has
+                            conquered Annaba, together with the 15 boats Hayreddin Barbarossa Pasha
+                            had left as a watch. A half-naked Barbarossa has fled to Algeria with
+                            4,000 soldiers of his; some think that he will perish there and atone
+                            for his sins, and this is all the Emperor needs. Oláh will call him a
+                            clairvoyant when he sees that Hungary will also belong to the Emperor.
+                            He also let the Spanish soldiers go and gathered 4,000 people who had
+                            suffered under the Barbarians, to use them against Mauritania, and
+                            possibly in Constantinople. There is no news of the Turks, they are busy
+                            with the Persians, and the Emperor’s enemies are idle. Ippolito de
+                            Medici has been poisoned. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao suo salutem. </p>
+                <p>Litterae tuae XII. Iulii Idibus Augusti mihi redditae sunt,<note
+                        type="critic">We do not know this letter.</note> ex his, quae in Germania
+                    adversus anabaptistas egregie facta sunt, percepi. Item exitum pugnae
+                    Lubeccensium in <persName>ducem</persName><note type="critic">King Christian III
+                        of Denmark.</note> Olsaciae, <persName>Ruffensis</persName><note
+                        type="critic">John Fisher.</note> occasum,<note type="critic">John Fisher
+                        was executed on 22 June, 1535 at the order of King Henry VIII. For more his
+                        execution, see <hi rend="smallcap">De Vocht</hi> 1961, 249–252.</note> et
+                    quicquid apud vos novi erat. <persName>Princeps</persName><note type="critic"
+                        >Francesco II Sforza.</note> meus, quoniam tuo nomine salutavi, de his
+                    omnibus seorsum tibi gratias agit et te resalutat. Nunc primum accepimus
+                        <persName>caesaris</persName> classem <placeName>Bonam</placeName>,<note
+                        type="critic">Annaba.</note> urbem Bartanae maritinam intercepisse cum XV
+                    triremibus <persName>Aenobarbi</persName>,<note type="critic">Hayreddin
+                        Barbarossa Pasha.</note> quas eo loci ad tuenda omnia illa habebat; urbs a
+                    militibus direpta, triremes incensae. <persName>Aenobarbus</persName> cum CCCC
+                    Turcis militibus seminudus vix aufugit Algerium versus. Sunt, qui putent hominem
+                    minime Arabum manus evasurum, in ipsoque itinere praeteritorum peccatorum poenas
+                    daturum, hoc tantum ad solidam Dei nostri caesaris felicitatem deerat. Quid quod
+                    et Hungaria ipsa ad eius imperium accedat, quo tempore me verissimum vatem
+                    profiteberis et in secundis rebus tuis mei aliquando mentionem facies. Caesar
+                    dimissis Hispanis militibus ad quatuor millia hominum conduxit ex his, qui
+                    diuturnam servitutem apud barbaros inserviverunt, horum opera ad debellandam
+                        <placeName>Mauritimam</placeName><note type="critic">I.e. Mauritania.</note>
+                    omnem utetur, et fortassis in <placeName>Constantinopolitana</placeName>
+                    expeditione. De Turca nihil novi habemus, ei instabat <persName>Persarum
+                        rex</persName>.<note type="critic">Tahmasp I, Shah of Iran.</note> Caesaris
+                    hostes, quos hoc tempore videtis, toti frigent. <del corresp="Olahus"
+                        >Marises</del><persName><add corresp="Olahus" type="corr">Medices</add>
+                        cardinalis</persName><note type="critic">Ippolito de’ Medici suffered from
+                        fever before he died. He probably died from malaria and was not poisoned,
+                        although there were such rumours, see <hi rend="smallcap">Crews</hi> 2003,
+                        109. For background, see Ep. 540.</note><ref>/o:olahus.tei.15350630_1</ref>
+                    veneno necatus est. Vale et frequenter scribe, et
+                        <persName>Sceppero</persName><note type="critic">Cornelis de
+                        Schepper.</note> et reliquis amicis me commenda.
+                        <persName>Gemmae</persName><note type="critic">Jemme Reinerszoon.</note>
+                    libellos accepi et de his tibi gratias habeo, miror ensem adhuc esse in itinere.
+                    Iterum vale. </p>
+                <p><placeName>Mediolano</placeName> X. Kalendas Septembris, hoc est XXII.
+                    Augusti 1535.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

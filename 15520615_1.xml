@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">818</title>
+                <title type="main">The Councillors of the Royal Lieutenancy Council in Bratislava to
+                    Miklós Oláh (Bratislava, 15 June 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520615_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with seals.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 58. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">54–56.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-15">15 June 1552</date>
+                <placeName> </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName>Bratislava</placeName>
+                    <persName>The Councillors of the Royal Lieutenancy Council in
+                        Bratislava</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date when="1552-06-17"/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">The Councillors of the Royal Lieutenancy Council in Bratislava to
+                    Miklós Oláh (Bratislava, 15 June 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Oláh knows what a hideous thing happened when they wanted to take
+                            Veszprém back: more than 10,000 people gathered at Pápa, the royal army
+                            was led by Teufel, but they froze so badly that they did nothing, and
+                            they learned about losing Veszprém from the farmers fleeing from there.
+                            He has it on good authority that the enemy did not hope to keep the
+                            castle, so they also had the large cannons removed from there and had
+                            them taken to Székesfehérvár. They did not allow anyone in, only those
+                            150 privates stayed in the castle with a small amount of food. They
+                            could only keep Veszprém by luring the royal army away from there so
+                            they do not besiege it, and they rowed across the Danube and looted
+                            around (Balassa)gyarmat while ours dispersed, and Veszprém had time to
+                            grow stronger. 2. Our troops could have recaptured Veszprém during this
+                            time, and they could have ended the incursions if they had joined forces
+                            and headed for Székesfehérvár, but it is shameful how many opportunities
+                            they squandered. A soldier who came from Pápa told them that Veszprém
+                            has indeed been fortified the way it used to be, and everyone from the
+                            area is fleeing there. Oláh should inform the King so he can select a
+                            person to lead the army who is capable of fighting the Turks. 3. András
+                            (Bonaventura) Báthori is busy, Tamás Nádasdy is ailing, so there is
+                            nobody for the Hungarians to follow as their leader. Oláh should get
+                            Maximilian to come to Hungary now, he has good people in Bratislava. The
+                            air is not healthy now in Vienna anyway, and the Hungarians would be
+                            really energized by the King’s presence.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime atque Amplissime Praesul, Domine nobis Observandissime,
+                    salutem et servitiorum nostrorum commendationem!</p>
+                <p>[1.] Intellexit iam hactenus Vestra Reverendissima Dominatio, quam
+                    irritum factum sit omne illud, quod de recuperando
+                        <placeName>Wesprimio</placeName><note type="critic">Veszprém fell on 1 June,
+                        1552. Drégely, Szécsény, Hollókő, Buják, Šahy and Balassagyarmat also fell
+                        in July, see <hi rend="smallcap">Pálffy</hi> 1999, 76.</note> tractabatur,
+                    fuerunt tempore obsidionis <placeName>Wesprimii</placeName>, et mox postea,
+                    congregata in <placeName>Papa</placeName> et aliis locis circumvicinis, plus
+                    quam decem millia hominum armatorum adfuerunt, primi quique <persName>regiae
+                        maiestatis</persName>, domini nostri clementissimi capitanei, tam
+                        <persName>Thayffel</persName>,<note type="critic">Erasmus Teufel (†1552) was
+                        an officer of the Habsburgs, and he was a Commander in the 1552
+                        campaign.</note> quam alii ex <placeName>Iaurino</placeName><note
+                        type="critic">Győr.</note> et <placeName>Komaron</placeName><note
+                        type="critic">Komárom.</note> profecti. Et tamen omnes illi usque adeo
+                    torpuerunt, et nullam bellicam diligentiam adhibuerunt, ut neque expugnationem
+                    et deperditionem <placeName>Wesprimii</placeName> aliter intellexerint, nisi
+                    quarto demum die ex agricolis quibusdam, qui ex illis partibus fugiebant,
+                    poterant nedum recuperare arcem illam, sed cum hoste quoque manus conserere et
+                    victoriam certissimam reportare. </p>
+                <p>Relatum nobis est per fidedignos, qui postea apud
+                        <placeName>Wesprimium</placeName> fuerunt, quod hostis quoque ipse de
+                    retentione illius arcis adeo desperaverit, ut omnes maiores bombardas, quae
+                    intus fuerant, exportari et in <placeName>Albam Regalem</placeName><note
+                        type="critic">Székesfehérvár.</note> deduci fecerit, nemine primario homine
+                    in illa arce dimisso, sed quibusdam dumtaxat gregariis centum et quinquaginta
+                    militibus, qui et ipsi paucissimum intus haberent commeatum; hanc unicam habuit
+                    retinendi <placeName>Wesprimii</placeName> spem, si posset exercitum illum
+                    nostrum congregatum technis et artibus suis aliorsum evocare et ab obsidione
+                    avertere, ac propterea citissimo gressu transfretavit Danubium, et excursiones
+                    quasdam ac depopulationes circa <placeName>Gyarmath</placeName><note
+                        type="critic">Today: Balassagyarmat.</note> et alibi fieri fecit, ut nostri
+                    vel dispergerentur, prout factum est, vel illum sequerentur, et interim
+                        <placeName>Wesprimium</placeName>
+                <milestone unit="pb"/> posset quiete munire, quod calidissimus hostis optavit. </p>
+                <p>[2.] Id magno nostro damno et ingenti nostrorum ducum ignavia assecutus
+                    est. Poterant interim nostri, simili arte et <placeName>Wesprimium</placeName>
+                    recuperare et hostem ab illis incursionibus revocare, si coacta manu versus
+                        <placeName>Albam Regalem</placeName> fuissent profecti. Deflendum profecto
+                    et lacrimandum est tantas frustra fieri impensas, tantas <persName>regiae
+                        maiestatis</persName> et miserrimi regni opes inaniter profundi, experientia
+                    docet capitaneos hos extraneos, non tantum de retinendo et eliberando regno
+                    curare, quantum ut amplissimis stipendiis se ipsos divites faciant et arces sibi
+                    tali quaestu coemant, nolentes interim capita sua quibuspiam periculis obiectare
+                    quemadmodum prisci illi Hungarorum capitanei regni metas ampliendo faciebant,
+                    qui et nunc vigilanti studio et diligentia <persName>maiestatis
+                        regiae</persName>, domini nostri clementissimi tot gentes iam conductitias
+                    equitum, cataphractorum et peditum habemus, ut dolendum vehementer sit, omnem
+                    bene gerendae rei occasionem ita frustrata elabi, et interim magnam <choice>
+                        <orig>insummi</orig>
+                        <supplied>insumi</supplied>
+                    </choice> pecuniam. Militaris quidem homo, qui hesterno die ad nos de
+                        <placeName>Papa</placeName> venerat, nobis retulit, ne nunc quidem
+                        <placeName>Wesprimium</placeName> esse aliter firmatum, quam fuerat, sed
+                    illos, qui intus sunt, admiratione quadam proxime quiescentis exercitus nostri
+                    ductos nunc primum cepisse miseros agricolas bonis et seductoriis verbis
+                    allicere ad conducenda robora congregare. Visum fuit nobis, Domine
+                    Reverendissime, super his omnibus ad Vestram Reverendissimam Dominationem
+                    scribere, quae cum hoc tempore sit primas huius afflicti regni nostri, sitque ex
+                    officio suo semper ad latus <persName>maiestatis regiae</persName>, habeatque
+                    apud suam maiestatem <milestone unit="pb"/>condignam et meritam suam praesentiam atque authoritatem, velit suam
+                    maiestatem adhortari, petere et orare, ne gentes istas magno sumptu conductas
+                    ita frustra torpescere et pecunias atque commeatum inaniter absummere patiatur,
+                    et signanter ut praeficiatur illis dux aliquis, homo militaris et qui Turcos non
+                    fama saltem, sed facie ad faciem noverit, quique illorum nedum truces aspectus,
+                    sed ne hastas quidem et frameas perhorrescat. </p>
+                <p>[3.] Iam postquam dominus <persName>Bathory</persName><note
+                        type="critic">András (Bonaventura) Báthori.</note> officio Transsilvanico
+                    est intentus, dominus vero <persName>Nadasdy</persName><note type="critic">Tamás
+                        Nádasdy.</note> non satis recte valeat, neminem habent Hungari, quem ut suum
+                    suaeque patriae et linguae ac militiae ducem sequantur, assueti alioqui prout
+                    longe hilarioribus animis, ita et factis felicioribus sub Hungaro capitaneo
+                    militare, sed haec omnia Vestra Reverendissima Dominatio exactius perpendere et
+                    tractare novit. Nobis erat in animo personaliter quoque pro his tractandis
+                        <placeName>Viennam</placeName> ascendere, sed intelligimus ex regnicolis,
+                    qui frequenter huc veniunt, fieri inter eos multa verba super hoc, quod
+                        <persName>regia maiestas</persName>, dominus noster clementissimus
+                    necessario hoc tempore, in longinquis partibus agat et regnum istud sua
+                    praesentia careat, scimusque pro certo, quod longe plura loquerentur et in
+                    desperationem caderent, si neque locumtenens aliquis suae maiestatis intra
+                    limites huius regni reperiretur, nam et in aliis quibuscumque suae maiestatis
+                    etiam parvis provinciis semper adest aliquis, qui vires suae maiestatis tenet.
+                    Immo nobis multo melius videretur, si Vestra Reverendissima Dominatio pro
+                    patriae istius communis salute efficeret apud serenissimum dominum
+                        <persName>regem Bohemiae</persName>,<note type="critic">Future King
+                        Maximilian II.</note> dominum nostrum <milestone unit="pb"/>gratiosissimum,
+                    ut hoc tempore sua maiestas hic in Hungaria habitaret, suaque praesentia omnes
+                    nos totumque regnum et incolas eius animaret. Habet hic
+                        <placeName>Posonii</placeName> sua maiestas gentes optimas, equites,
+                    cataphractos, habebit et plures, quibus posset, locis necessariis et toti regno
+                    subvenire, habet etiam aerem saluberrimum, quoniam
+                        <placeName>Viennae</placeName> audiatur esse aura non satis sana, et non
+                    carere civitatem ipsam aliqua mortalitate, esset profecto toti regno et omnibus
+                    eius incolis, res et vires et necessaria. Servet summus Deus Reverendissimam
+                    Dominationem Vestram felicissimam.</p>
+                <p><placeName>Posonii</placeName> die 15. Iunii <choice>
+                        <orig>1551</orig>
+                        <supplied>1552</supplied>
+                    </choice>.<note type="critic">Corrected according to <hi rend="smallcap"
+                            >Pálffy</hi> 1999, 77.</note></p>
+                <p>Eiusdem Dominationis Vestrae Reverendissimae servitores</p>
+                <p>
+                    <seg type="signature">Locumtenens et consiliarius regiae maiestatis Posonii
+                        constituti.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo in Christo patri, domino Nicolao Olaho, episcopo
+                    Agriensi, sacrae regiae maiestatis cancellario dignitissimo etc. domino nobis
+                    observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

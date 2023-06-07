@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">484</title>
+                <title type="main">Miklós Oláh to Johan Weze (Brussels, 24 April 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340424_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 493–495.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >548–550.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-04-24">24 April 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Johan Weze</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Johan Weze (Brussels, 24 April 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has not written to him recently because he did not know where to
+                            send the letter. The envoys sent to Hamburg have only agreed on a
+                            four-year ceasefire with the people of Lübeck. No progress has been made
+                            in Weze’s case because they were informed too late, and there was no
+                            time to gather the councilors, not a single Danish councilor turned up.
+                            2. Weze’s case completely depends on the outcome of the Danish king
+                            election: there are some who support the son of the late king and some
+                            who support King Henry VIII. He has reminded Stanshard to write more
+                            cordial letters to Weze, and he has forwarded what he had sent to Oláh.
+                            Oláh thinks these must have arrived because his have arrived. 3.
+                            Lodovico Gritti is taking turtle steps to get here. It is not in the
+                            king’s interest to kill Ibrahim Pargalı Pasha or to take him prisoner,
+                            either, he should rather be within the Hungarian borders to participate
+                            in its fortification. Schepper is already on his way to the Turkish
+                            Porte, where he will be of great help not only to the King but Oláh,
+                            too. He is also sending to Weze what he needs to know in case Gritti
+                            arrives in Schepper’s absence.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad archiepiscopum Lundensem oratorem caesaris. </p>
+                <p>[1.] Si tardius rescripseram, quam res postulabat, id ei rei tribue,
+                    quod postremis tuis litteris<note type="critic">We do not know this
+                        letter.</note> scripseras te hora datarum litterarum ad duces Bavariae <milestone unit="pb"/>profecturum. Nescivi igitur, quo meas litteras dirigerem, has quoque
+                    fere in dubium emisi. Oratores, qui <persName>caesaris</persName> nomine
+                        <placeName>Hamburgum</placeName> profecti erant, redierunt praeteritis
+                    diebus, summa tractatus eorum totius est, quod inducias cum Lubecensibus
+                    quadriennes confecerunt. Quibus modis et rationibus, credo te a
+                        <persName>rege</persName> intellecturum, nam de omnibus hinc solet certior
+                    fieri. In tuo negotio (quod cum summo animi dolore in reditu oratorum audivi et
+                    nunc quoque non sine maestitia scribere possum) nihil agi potuit. Nam
+                    quemadmodum decretum erat, <persName>Dani oratores</persName><note type="critic"
+                        >See Ep. 449. Cap. 2.: George of Austria as Bishop of Brixen, Maximiliaan
+                        van Zevenbergen, and Erhard
+                        Müller.</note><ref>/o:olahus.tei.15340208_1</ref> cum pleno totius regni
+                    mandato in <placeName>Hamburgo</placeName> vocati comparere debebant, sed
+                    intrusus ille <persName>archiepiscopus Lundensis</persName><note type="critic"
+                        >Johan Weze.</note> respondit oratoribus caesaris per litteras, non esse
+                    possibile tam brevi tempore se posse convocare regnum (hoc enim officium
+                    convocandi regni ad ecclesiam tuam pertinere dicitur) et de missione oratorum
+                    tractare, nam tarde fuisset hinc per litteras admonitus, excusavitque se et
+                    omnes alios regnicolas, quantum potuit. Ita nemo istic Danus comparuit. Si
+                    comparuissent aliqui, in rebus tuis tractatum esset per commissarios, quantum
+                    fuisset possibile. Nunc cum ita res contigerit, necessitati tribuenda est
+                    neglectio ista, non aut oratoribus caesaris aut mihi. Qui testor fidem boni viri
+                    eam <choice>
+                        <orig>curavi</orig>
+                        <supplied>curam</supplied>
+                    </choice> in his tuis rebus sollicitandis, et apud reginam et apud alios ubi
+                    opus fuit, habui, quam extremam habere potui, quamque fortasse in rebus meis
+                    privatis vix unquam habuissem. Quam etiam deinceps, si quae dabitur occasio, pro
+                    meo posse sum adhibiturus. Non diffido autem, quin ventura sit adhuc huic rei
+                    occasio. </p>
+                <p>[2.] Nam tua omnis res pendet in electione regis Dani, qui si futurus
+                    est ad votum caesaris, non desperandum est, sin contra votum, certe res ita erit
+                    difficilior. Nunc autem electio regis stat in statu incerto. Alii favent minori
+                        <persName>filio</persName><note type="critic">King Christian II of
+                        Denmark.</note> ducis <persName>Friderici</persName>,<note type="critic"
+                        >King Frederick I of Denmark.</note> alii <persName>regi
+                        Angliae</persName>,<note type="critic">King Henry VIII.</note> qui pecuniis
+                    omnes oppugnat. Non desunt etiam alii, qui regnum illud ambiant, hinc, quantum
+                    est possibile, curabitur, ne talis eligatur, qui sit adversus caesari. Alioqui
+                    negotium his provinciis maritimis imperatoris daretur. Quicquid igitur ad eam
+                    rem avertendam pertinet, regina curabit. Quod si successerit ex animi nostri
+                    sententia, facilior erit rerum tuarum tractatio. Ego quantum in me erit, nec spe
+                    praemii ulla, neque alias ullas ob rationes, quam quod tibi inservire <milestone unit="pb"/>ex animo cupiam, quandocumque tempus se praestiterit, non patiar, ut
+                    meum in te officium sis desideraturus. Tuum igitur erit iubere, meum iussa
+                    capessere. <persName>Ioannem Stanshardum</persName><note type="critic">We do not
+                        know him more closely, see Ep. 375. Note
+                        9.</note><ref>/o:olahus.tei.15330605_4</ref> admonui, ut meliores ad te
+                    daret litteras, dicit se plures dedisse. Ego quotquot per me dedit, omnes misi
+                    ad te cum meis. Quas, quia meae fuerunt redditae, credo non periisse. Nunc
+                    quoque ipsius mitto unas, cum aliis his annexas. </p>
+                <p>[3.] De adventu <persName>Griti</persName><note type="critic">Lodovico
+                        Gritti.</note> nihil adhuc certi audimus. Testudineo gressu procedit.
+                    Vereor, ne haec mora aliquid pariat gravius. De <persName>Vespasiani a
+                        Zara</persName> responso, quid a <persName>Griti</persName> retulerit, nihil
+                    scripsisti. Ex eo sciri potest, quando ille venturus sit.
+                        <persName>Imbrahimi</persName>, ut dicitur, aut interitus aut captivitas non
+                    parum obesse potest regiis rebus. Vellem eum salvum esse infra finem rerum
+                    Hungaricarum, et dum res regis firmari posset.
+                        <persName>Cornelius</persName><note type="critic">Cornelis de
+                        Schepper.</note> non incidet fortasse in <persName>Gritum</persName>, etiam
+                    si ille iam in via est, et continget eum ad Turcarum imperatorem recta
+                    proficisci. Quod si fiet, licet et rebus regiis non esset admodum utile, tamen
+                    et meis non minimum obesset, quia miseram ad eum de rebus meis informationem,
+                    hac igitur consideratione ductus mitto ad te etiam signaturam hanc, ut absente
+                        <persName>Cornelio</persName>, si interea <persName>Griti</persName>
+                    adveniret, iuxta eam meum cures negotium, pro quo habebis me ad omnia tua vota
+                    vicissim devinctum. Si quid est vel erit certi de <persName>Griti</persName> et
+                    de rebus aliis Hungaricis, rogo, fac me certiorem. <persName>Angliae
+                        regis</persName> matrimonium stat adhuc in priore statu. Et sententias et
+                    excommunicationem <persName>pontificis</persName><note type="critic">Pope
+                        Clement VII.</note> parum curare videtur, in pessimum aliorum exemplum.
+                    Vale. </p>
+                <p><placeName>Bruxellae</placeName> 24. Aprilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

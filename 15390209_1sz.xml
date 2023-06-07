@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">608</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 9 February 1539)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15390209_1sz</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Ms I. is a copy with Oláh’s emendations. Ms.
+                        II. is a later copy. (1730) <ref>/o:olahus.tei.15340422_1</ref>
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Tournoy</hi> 2006, 150–152.</note>
+                <note type="translation"/>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="CE">Critical Edition</witness>
+                    <witness xml:id="I">Hungary, ELTE EK, H 46, fol. 37r–38r.</witness>
+                    <witness xml:id="II">Hungary, Budapest, ELTE EK, Kaprinai B087 217 01 p.
+                        461.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1539-02-09">9 February 1539</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 9 February 1539)</head>
+                <floatingText>
+                    <body>
+                        <p>1. Oláh has his sympathy in his grief for his lost brother, and Nanninck
+                            wants to console him, but he cannot even ease his own sadness. He is
+                            sending this elegy for his consolation. 2. He has written him many times
+                            already what he thinks of <hi rend="italic">Athila</hi> and <hi
+                                rend="italic">Hungaria</hi>, he is not ashamed of his opinion,
+                            unless it seems spiteful.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendo domino Nicolao Olaho, thesaurario Albensi, archidiacono
+                    Strigoniensi, serenissimi Ferdinandi Romanorum regis atc. ac Mariae reginae a
+                    secretis et consiliis, Petrus Nannius salutem dicit.</p>
+                <p>[1.] Acerbissimos tuos luctus de amicissimo fratre<note type="critic"
+                        >Máté Oláh died in 1536, see Oláh’s epitaphs on his brother’s death: <hi
+                            rend="smallcap">Hegedüs</hi> 1906, 419–421; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 38–40; <hi rend="smallcap">Neagu</hi> 2003, 342
+                        –344. Oláh’s friends sent a heap of condolences, elegies, and epitaphs from
+                        the Netherlands to lessen his grief, which Nanninck published in print, see
+                            <hi rend="smallcap">Hegedüs</hi> 1906, 417; <hi rend="smallcap"
+                            >Tournoy</hi> 2006, 135–139. See the manuscripts: ELTE EK H 46, fol.
+                        31–43.</note> non lacrimis tantummodo, sed gravi aegritudine animi
+                    prosequor, et ex laboribus adversae valetudinis, qua nunc affligor, nihil tam
+                    triste sentio, quam cruciatus istius maeroris. Et ut libenter studium consolandi
+                    prae me ferrem (tametsi tua sapientia et animi fortitudo istiusmodi adminiculis
+                    non egeat), ita ipse vix <app>
+                        <lem wit="#CE #I"><choice>
+                                <orig>inven<gap extent="1" reason="damage" unit="word"/></orig>
+                                <supplied>inven<corr>io</corr></supplied>
+                            </choice></lem>
+                        <rdg wit="#II">invenio</rdg>
+                    </app>, quo maestitiam meam commitigem. Quamobrem, ut in te consolando nonnihil
+                    ipse acquiescerem, carmen hoc elegiacum super consolationes fraternae mortis,
+                    quod ad te mitto, condidi, qualecumque ab animo ita misere afflicto exprimere
+                    potui.</p>
+                <p>[Nunc utinam Pyliae…]<note type="critic">See <hi rend="smallcap"
+                            >Tournoy</hi> 2006, 150–151.</note></p>
+                <pb/>
+                <p>[2.] De <app>
+                        <lem wit="#CE #I"><del corresp="Olahus">tua</del><add corresp="Olahus"
+                                type="corr">tuo</add></lem>
+                        <rdg wit="#II">tuo</rdg>
+                    </app>
+                    <hi rend="italic">Athila</hi> et Hungariae descriptione<note type="critic">I.e.
+                            <hi rend="italic">Hungaria</hi>.</note> quid sentiam, iam saepius
+                    litteris meis testatus sum. Cuius me iudicii nunquam paenitebit, nisi quod
+                    malignius videor et nimis parce rei laudatissimae laudes impertiisse. Olim
+                    carmine testabimur, quantus mihi videare. Plura scriberem, sed doloribus morbi
+                    huius ita excrucior, ut vix compos <app>
+                        <lem wit="#CE #I"><choice>
+                                <orig>menti<gap extent="1" reason="damage" unit="word"/></orig>
+                                <supplied>menti<corr>s</corr></supplied>
+                            </choice></lem>
+                        <rdg wit="#II">menti</rdg>
+                    </app> sim.</p>
+                <p>Vale, Unicum <quote>Praesidium Meum!</quote><note type="quote">Cf. Hor.
+                            <hi rend="italic">Carm</hi>. I,I,2.</note><note type="critic">See Ep.
+                        598. Cap. 3.</note><ref>/o:olahus.tei.15371222_1</ref></p>
+                <p><placeName>Lovanii</placeName>, nona <app>
+                        <lem wit="#CE #I"><choice>
+                                <orig>Februar<gap extent="1" reason="damage" unit="word"/></orig>
+                                <supplied>Februar<corr>ii</corr></supplied>
+                            </choice></lem>
+                        <rdg wit="#II">Februarii</rdg>
+                    </app> anno MDXXXIX.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

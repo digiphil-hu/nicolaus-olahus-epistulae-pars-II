@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">457</title>
+                <title type="main">Adrien Amerot to Miklós Oláh (Leuven, 18 February 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340218_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340305_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 467–471.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 4–8.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340305_1" type="url">467</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >193–196.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-02-18">18 February 1534</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Adrien Amerot</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Adrien Amerot to Miklós Oláh (Leuven, 18 February 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. His answer to Lieven Algoet is late as his edition of Lucian was not
+                            with him and he could not quote from it. He now translates and discusses
+                            the required passage from Lucian [de parasito. c. 4.] in which the
+                            speaker, Parasitus – whom the author takes to speak for Lucian – defines
+                            art as “a system of applied knowledge, useful for some end in life”. If
+                            the definition applies to “parasitic”, then it is an art. To assess it,
+                            we have to juxtapose the features of art with “parasitic”. If art,
+                            “parasitic” is a system of knowledge. Hence, a parasite must be able to
+                            assess human nature and find himself someone he can handle. Assessing
+                            human nature is much more difficult than assessing the soundness of
+                            coins, as human nature is seldom revealed directly as Euripides says.
+                            Parasitic is a greater art than divination in respect of knowing obsure
+                            and hidden things. A parasite’s expertise of how to talk appropriately,
+                            with whom to familiarize himself is a sign of intelligence and
+                            knowledge. 2. The translation of the text is followed by a line-by-line
+                            commentary. The first part of the commentary discusses the definition
+                            along Aristotelian lines (a definition consists of a genus and a
+                            difference), states that the genus of the definition here is the phrase
+                            “system of applied knowledge”, and the rest is its difference,
+                            distinguishes a formal and a final element in the definition (the formal
+                            element being the genus, the final element its end), and concludes that
+                            the genus here is a certain character or disposition (habitus). Next,
+                            along a few philological remarks, the remaining sections of the
+                            translation are discussed and paraphrased: a) parasitic art should be
+                            measured against the features of other arts and its soundness assessed
+                            as the soundness of pots, b) a parasite, to cajole its victim, is
+                            capable to assess human nature as an assayor assesses the soundness of
+                            coins, and indeed parasitic art is more efficient than divination as
+                            human nature is not apparent, c) the authority of Euripides is called on
+                            to prove this point, d) the difficulties of parasitic art prove that it
+                            is an art. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p><persName>Hadrianus Amerotius</persName><note type="critic">Adrien
+                        Amerot of Soissons (†1560) studied Greek in Paris, then entered the College
+                        of the Lily at Leuven. His works <hi rend="italic">Compendium Graecae
+                            grammatices</hi> and <hi rend="italic">Libellus de dialectis
+                            Graecis</hi> were published in 1520 and 1534, respectively. He
+                        corresponded with Erasmus and Nicolas Perrenot de Granevelle, later entering
+                        his service in 1522. In 1545, he became Rutger Ressen’s successor as
+                        professor of Greek in the Collegium Trilingue Lovaniense. See <hi
+                            rend="smallcap">Gunderson</hi> 1985, 48; and <hi rend="smallcap">Van
+                            Rooy</hi> 2020.</note> Nicolao Olao secretario etc. reginae Mariae. </p>
+                <p>[1.] Quod serius, quam volui, et quam tua erga me benevolentia
+                    merebatur, ad <persName>Levini</persName><note type="critic">Lieven
+                        Algoet.</note> nostri litteras responderim, eo factum est, quod cum mihi
+                    litterae illius redderentur, non erat apud me <persName>Lucianus</persName> ex
+                    editione Florentina,<note type="critic">Probably Lucian’s <hi rend="italic"
+                            >editio princeps</hi>, which was printed by Lorenzo Francesco de Alopa
+                        in Florence in 1496, see <hi rend="smallcap">Garcia Ehrenfeld</hi> 2018,
+                        26.</note> qua inconsulta, responsionem praecipitare nolebam. Deinde illam
+                    nactus, ne tuus quidem periculose cuivis has ad te dare volui, praesertim cum
+                        <persName>M. Claudium</persName> contubernalem meum, qui has tibi reddidit,
+                    intra paucos dies istuc profecturum intelligerem, cui quamvis serius certe
+                    tutius meas litteras committere malebam.</p>
+                <p>Accipe igitur, Vir Clarissime, quae mihi ad eum locum
+                        <persName>Luciani</persName> explicandum dicenda occurrerunt. Verti autem
+                    primum locum ipsum deinde aliquando fusius et magis παραφραστικῶς<note
+                        type="critic">‘(rather) circumspectly’.</note> ipsum exposui, dialectici
+                    artificii rationem aperiendo, quo singulae inter se clausulae connectuntur et
+                    cohaerent, et eo studiosius id feci, quod ibi <persName>Lucianus</persName>
+                    accurate dialectici partes exsequitur. Sed <persName>Lucianum</persName> ipsum
+                    loquentem audi vel Parasitum<note type="critic"><hi rend="italic">De parasito
+                            sive artem esse parasiticam.</hi></note> potius ipsum: Ars est (ut ego
+                    me sapientem quendam audisse memini) collectio apprehensionum exercitatarum ad
+                    aliquem finem eorum, quae ad vitam pertinent, utilem. <hi rend="expanded"
+                        >Tychiades</hi>: Recte sane, ut ille dixit, sic tu quoque recordatus es. <hi
+                        rend="expanded">Parasitus</hi>: Si horum igitur omnium parasitica particeps
+                    est, quid nam aliud quam ars et ipsa fuerit? <hi rend="expanded">Tychi.</hi>:
+                    Ars nimirum, si quidem ita se res habeat. <hi rend="expanded">Para.</hi>: Age,
+                    singulis artis speciebus parasiticam applicemus, videamusque num cum illis,
+                    ipsius ratio <choice>
+                        <orig>concinat</orig>
+                        <supplied>concinnat</supplied>
+                    </choice>, quemadmodum ollae vitiosae pulsu solent explorari, num absonae
+                    tinniant. Oportet igitur hanc, sicut et omnem artem collectionem esse
+                    apprehensionem. Primum quidem, ut (qui parasitari velit) periculum faciat,
+                    discernatque, quisnam fuerit ad se alendum idoneus, ad huncque modum facto
+                    parasitandi exordio, haud quaquam eum mutata sententia instituti sui poenitebit.
+                    An argentarium artem quandam habere dicemus, qua nummos <milestone unit="pb"/>adulterinos a probis diiudicare sciat, hunc autem homines probos ab
+                    improbis sine arte discernere fatebimur? Idque cum quemadmodum nummi sic et
+                    homines ipsi protinus manifesti fiant. Haec eadem tamen et sapiens
+                        <persName>Euripides</persName> carpit conquerendo dicens: <quote>nullum
+                        signum innatum esse virorum corpori,</quote><note type="quote">Cf. Eur. <hi
+                            rend="italic">Med.</hi> 520., see <hi rend="smallcap">Fix</hi> 1843,
+                        125.</note> quo sceleratum quempiam internoscere liceat, quo quidem
+                    argumento, eo suapte natura est ars ipsa parasitica maior, si quidem tam incerta
+                    tamque ab hominum conspectibus abdita acutius videat, noritque quavis arte
+                    vaticinandi. Illud autem scire tum sermones loqui appositos, tum negotia agere,
+                    quibus et in familiaritatem sese insinuet, seque quam benignissimum nutritori
+                    suo praebeat, an non et intelligentiae et apprehensionis vehementis et fortis
+                    tibi esse videtur? </p>
+                <p>[2.] Hactenus <persName>Luciani</persName> Parasitus, mox sequuntur in
+                    praemissa verba scholia. Ut iaciat Parasitus fundamentum suae disputationis,
+                    more dialecticorum artis definitionem praemittit. Cum autem omnis diffinitio ex
+                    genere et differentia constare debeat, aut ex his, quae illorum vicem suppleant,
+                    in praemissa definitione, collectio apprehensionum exercitatarum, loco generis
+                    accipi debent, reliqua differentiae vicem obtinere. Datur autem haec diffinitio
+                    a partibus formae et fine. Sunt enim exercitatae apprehensiones, partes formales
+                    ipsius artis et utilitas eorum, quae ad vitam agendam pertinent, earundem finis.
+                    Nam nemo artem ullam perdidicit, nisi primum ab artis magistro, prima artis
+                    rudimenta comprehenderit, in eisque se exercuerit, quotquot autem in quaque arte
+                    percipienda praecepta erunt, totidem etiam erunt apprehensiones, quarum
+                    collectio diligenter exercitata facultatem operandi secundum artem praestabit,
+                    quam quidem <persName>Aristoteles</persName> ἕξιν,<note type="critic"
+                        >‘habit’.</note> hoc est habitum appellavit, qui merito, cum sit genus
+                    artis, primum in eius definitione locum obtinere debeat.
+                        <persName>Luciani</persName> vero Parasitus, vel is potius, quem is
+                    sequitur, a partibus formalibus <quote>σύστημα ἐγκαταλήψεων
+                        ἐγγεγυμνασμένων</quote><note type="quote"
+                        ><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>[Paras.
+                        4.2 σ. ἐ. συγγεγυ-]<?oxy_custom_end?>.</note><note type="critic">‘a
+                        coordinated system of knowledge used for a purpose that is useful in human
+                        life’. The Lucian editions tend to accept this version (συγγεγυμνασμένων)
+                        but ἐγγεγυμνασμένων can also be found in the manusripts. συγγεγυμνασμέναι
+                        means ‘systematized, coordinated’, while ἐγγεγυμνασμέναι means ‘acquired
+                        well, deeply ingrained’.</note> nominare maluit, ipsius videlicet artis
+                    originem generationemque spectans, siquidem philosophorum omnium consensu ex
+                    multis actibus exercitatis, quae hic ἐγκαταλήψεις ἐγγεγυμνασμέναι<note
+                        type="critic">‘thoroughly mastered knowledge’.</note> vocantur, generari
+                    solet habitus; κατάληψις<note type="critic">‘knowledge’.</note> autem sive
+                    ἐγκατάληψις sive ἐκκατάληψις,<note type="critic">‘knowledge’.</note> nam
+                    exemplaria variant, actum apprehendendi sive comprehendendi significat, a verbo
+                        καταλαμβάνω,<note type="critic">‘I perceive’.</note> quod apprehendere sive
+                    comprehendere Latine sonat, et σύστημα<note type="critic">‘system,
+                        composition’.</note> verbale quoque nomen est, quod collectionem, sive
+                    multitudinem collectam importat a verbo <milestone unit="pb"/>συνίσταμαι,<note type="critic">‘to compose’.</note> quod inter cetera
+                    significata etiam colligere significat. Hanc autem definitionem tamque bene
+                    convenienterque ab aliquo viro sapiente traditam. Parasitus refert, suoque
+                    negotio accomodat, argutaturque per locum a finitione suam parasitandi
+                    facultatem, dici debere artem, quandoquidem sicuti ceteris artibus, ita
+                    parasiticae quoque facultati, eam definitionem convenire asserat. At cuicumque
+                    definitio convenit et definitum, et contra cui definitum et definitio. Illud
+                    autem, quod legitur in impressione Lovaniensi Ἀλλὰ μὴ καθάπερ αἱ πονηραὶ χύτραι,
+                    quod inter cetera significata etiam colligere significat. Hanc autem
+                    definitionem tamque bene convenienterque ab aliquo viro sapiente traditam.
+                    Parasitus refert, suoque negotio accomodat, argutaturque per locum a finitione
+                    suam parasitandi facultatem, dici debere artem, quandoquidem sicuti ceteris
+                    artibus, ita parasiticae quoque facultati, eam definitionem convenire asserat.
+                    At cuicumque definitio convenit et definitum, et contra cui definitum et
+                    definitio. Illud autem, quod legitur in impressione Lovaniensi Ἀλλὰ μὴ καθάπερ
+                    αἱ πονηραὶ χύτραι,<note type="critic">‘But not like bad pots.’</note> non parum
+                    variatur in aliis exemplaribus. Nam duae illae voculae ἀλλὰ μὴ,<note
+                        type="critic">‘but not’.</note> in editione Florentina desunt, quam ego in
+                    ipsa versione secutus sum, eaque mihi convenientior lectio, veriorque visa est.
+                    Vult autem dicere Parasitus, perinde investigandum esse, an definitio illa
+                    facultati parasiticae congruat consonetque, singulas definitionis partes ad eam
+                    accomodando, atque solent ollae vetustate situque marcidae, aut alioqui
+                    corruptae, pulsu digitorum pertentari, num quem tinnitum absonum edant. Postea
+                    ibi δεῖ τοίνυν εἶναι<note type="critic">‘thus, it has to be’.</note> ostendit
+                    primam definitionis partem parasiticae convenire, traditque illud primum esse
+                    praeceptum, ut quisquis parasitus esse velit, ante omnia unum aliquem sibi
+                    deligat ac solerter deprehendat discernatque, an is idoneus fuerit, a quo
+                    commode possit ali, talique iacto parasitandi fundamento, nequaquam sententiam
+                    mutaverit, quasi parum in arte profecerit. Quod autem artis sit hoc ipsum
+                    dignoscere posse, probat a simili (ibi ἢ τὸν μὲν<note type="critic">‘or
+                        the’.</note>) quemadmodum facultas discernendi probos nummos ab adulterinis,
+                    ars est, quam argentariam appellamus, ita peritia deprehendendi mores hominum
+                    sinceros a corruptis ars etiam censeri debet, quam parasiticam appellandam esse
+                    ait, siquidem ea sit parasitica facultas. Deinde <add corresp="Olahus"
+                        type="insert">ibi</add> καὶ ταῦτα<note type="critic">‘that, too’.</note>
+                    etc. <del corresp="Olahus">Ibi</del> dicit et nummos et homines in hoc esse
+                    similes, quod utrorumque et probitas et vitium deprehendatur, illorum a
+                    numulario per artem argentariam, horum a parasito, per artem haud dubie
+                    parasiticam. Postea ibi αὐτὰ μέντοι<note type="critic">‘but those’.</note> etc.
+                    sibi ipsi authoritatem <persName>Euripidis</persName> obiicit, conquerentis
+                        <quote>nullum signum innatum esse virorum corpori,</quote><note type="quote"
+                        >Cf. Eur. <hi rend="italic">Med.</hi> 520., see <hi rend="smallcap">Fix</hi>
+                        1843, 125.</note> quo probum ab improbo discernere possemus, qua confutari
+                    posse videtur ante adducta similitudo. Deinde illam ipsam authoritatem contra
+                    adversarium retorquet oratorio more, ac in suum commodum convertit, argumentans
+                    a maiori, videlicet facultatem diiudicandi mores hominum probos ab improbis,
+                    nempe parasiticam, tanto magis artem censeri debere, quam argentariam, quod haec
+                    signo exteriori <milestone unit="pb"/>numismatis utitur, ad faciendum officii sui periculum, illa sine ullo
+                    signo sensibus patenti sagacius probitatem hominum ac vitia deprehendat, quam
+                    ulla peritia vaticinandi. Postremo confirmat hoc idem, exaggerando negotii sui
+                    difficultatem, in sermonibus arte componendis ceterisque multis rebus agendis ad
+                    conciliandam hominum, a quibus ali oportet, benevolentiam, quod quo difficilius
+                    est assequi, eo maioris etiam artis esse existimandum est. </p>
+                <p>Haec habui, Vir Ornatissime, quae ad litteras
+                        <persName>Levini</persName> nostri rogatu tuo in praesentia responderem, si
+                    quid erit vel in his, vel in aliis, in quo meam operam desideres, hoc tibi plane
+                    persuade me tam esse tuum, quam quod maxime. <persName>Levinum</persName> autem
+                    nostrum plurimum meo nomine salvere iubeas, ad quem scripsissem, nisi mihi
+                    temporis angustia <add corresp="Olahus" type="insert">otium</add> ademisset.
+                    Vale. </p>
+                <p><placeName>Lovanii</placeName> ex aedibus nostris ipso die sacrandis
+                    cineribus insigni anno 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

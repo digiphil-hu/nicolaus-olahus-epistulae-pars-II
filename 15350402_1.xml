@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">533</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh ([Rome?], 2 April 1535) </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350402_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 550–551.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination">130.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-04-02">2 April 1535</date>
+                <placeName>[Rome?]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh ([Rome?], 2 April 1535) </head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They are happy to hear that the Queen is better, Ambrogio Candiano is an
+                            excellent specialist. German infantrymen are boarding ships at
+                            Portofino, in four days Andrea Doria will take them to Hispania at the
+                            Emperor’s order. There is nothing to fear regarding Hayreddin Barbarossa
+                            Pasha either, he will get his just punishment. Oláh also already knows
+                            that the Sultan has been beaten by the Persians, he has lost all his
+                            military equipment, and his money is also gone, so the Emperor may soon
+                            become the ruler of the entire world. The Pope tends to side with the
+                            French, but he does not dare show it openly; the Veneti are loyal to the
+                            Emperor. The Prince of Ferrara laughs at the Italian alliance; and a
+                            feud has erupted among the Helvetians. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao suo salutem. </p>
+                <p>Unas tuas litteras VII. Martii datas<note type="critic">We do not know
+                        this letter.</note> proxime accepi, quibus me mones de omni statu rerum
+                    nostrarum, quod mirum in modum et <persName>principi</persName><note
+                        type="critic">Francesco II Sforza.</note> meo et mihi gratum fuit.
+                        <persName>Reginae</persName><note type="critic">Queen Mary of
+                        Hungary.</note> valetudinem indies fieri meliorem laetamur, utinam per
+                    aliquot saltem dies <choice>
+                        <orig>medicis</orig>
+                        <supplied>medici</supplied>
+                    </choice> dicto audiens esset, non enim vererer, quod pristinas vires brevi
+                    recuperatura esset. In <persName>Candiano</persName><note type="critic">Ambrogio
+                        Candiano.</note> fidem aut diligentiam non desiderabitis, vir certe probus
+                    est, et in re medica experientissimus. Germani pedites inter portum
+                        Delphini<note type="critic">Portofino. “Pliny; a port on the coast of
+                        Liguria. Now Porto Fino, and fifteen miles to the east, of Genoa”, see <hi
+                            rend="smallcap">MacBean</hi> 1773.</note> et Lunae<note type="critic"
+                        >Lunae portus: “Strabo; a very extensive port, or more truly a bay of
+                        Liguria, between Portus Veneris and Portus Ericis, twenty miles compass”,
+                        see <hi rend="smallcap">MacBean</hi> 1773.</note> conscendere, quatriduo
+                    post <persName>Andreas Auria</persName> cum XV triremibus suis transmittet in
+                    Hispaniam caesaris iussu. Is nunc primum <placeName>Barchinonae</placeName><note
+                        type="critic">Barcelona.</note> agit, classis eius cum
+                        <placeName>Luctatii</placeName><note type="critic">Probably Lucca, but it is
+                        not clear.</note> classe omnino conferenda est et numero navium et militum
+                    et remigum experientia, cuius adventus in Aphricam summe a <persName>Tuneti
+                        regulo</persName><note type="critic">Abu Abdallah Muhammad V al-Hasa.</note>
+                    et illius clitellis exspectatur. Quare fac, bono animo sis. Nec
+                        <persName>Aenobarbi</persName><note type="critic">Hayreddin Barbarossa
+                        Pasha.</note> vires pertimescendae sunt, dabit enim poenas sceleratissimus
+                    reipublicae Christianae hostis illatorum nobis damnorum. Eum pro certo habemus
+                    et a pecunia et militibus flagitiose imparatum esse, et si
+                        <persName>Gallo</persName> suasere classem nostram opperietur, quos risus
+                    brevi edet? Credo te iam intellexisse caesaris Turcarum copias a Persa
+                    labefactatas fuisse, bellicis tormentis omnibus amissis, et pecunia intercepta,
+                    quae tunc ei expeditissima erat, haec cum nobis quotidie per certissimos homines
+                    confirmantur, nos monent veriora esse veris, et Deum nostrum caesarem omnino
+                    totius orbis imperio brevi potiturum. <persName>Pontifex</persName><note
+                        type="critic">Pope Paul III.</note> edentulus in Gallionis partes propensior
+                    est, sed tamen hiscere non audebit, Veneta respublica non deseret caesarem.
+                        <persName>Dux Ferrariae</persName><note type="critic">Ercole II d’Este
+                        (1508–1559) was Duke of Ferrara from 1534.</note> foedus Italicum irrisit,
+                    quando cum reliquis Italiae proceribus consentire noluit, spero deos illi fore
+                    iratos. Helvetii nuper inter se dissidere coeperunt. Credo ob
+                        <placeName>Genevae</placeName> defectionem<note type="critic">I.e.
+                        Calvinism.</note> a <persName>duce Allobrogensi</persName><note
+                        type="critic">Charles III of Savoy (1486–1553), Duke of Savoy. The
+                        Allobroges were a Gallic people living below the river Rhine and the Alps
+                        during the Roman period.</note> utrinque tamen ab armis abstinetur.
+                        <persName>Sceperum</persName><note type="critic">Cornelis de
+                        Schepper.</note> nostrum meo nomine salutabis, item reliquos omnes amicos
+                    meos et praesertim lectissimam <persName>Virginem Lucretiam
+                        Caballam</persName>,<note type="critic">Lucretia Caballis (vom Ross).</note>
+                    et Gilini tui memor semper esto. Vale. </p>
+                <p>Ex vico Iovis<note type="critic">Vicus Iovis Fagutalis was a street on
+                        the Esquiline Hill in Rome.</note> VI. Nonas Aprilis MDXXXV.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

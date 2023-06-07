@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">692</title>
+                <title type="main">King Ferdinand I to Pál Várday and Miklós Oláh (Wiener Neustadt,
+                    19 September 1548)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15480919_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other later handwriting:</hi> 19. Sept. 1548.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 55. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">70rv.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1548-09-19">19 September 1548</date>
+                <placeName>Wiener Neustadt</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pál Várday and Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Pál Várday and Miklós Oláh (Wiener Neustadt,
+                    19 September 1548)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They will understand from the attached petition from the county of Sopron
+                            why Nádasdy rejected Ferenc Soós as commissioner in the feud between
+                            Nádasdy and the Sopron county. And although the county wants to replace
+                            Soós with Hans von Weispriach, <hi rend="italic">ispán</hi> of Sopron
+                            county, according to King Ferdinand I, it is no coincidence that Nádasdy
+                            objects to reinstating such a suspicious person as head of the county.
+                            He wants this feud to end and charges them (Várday and Oláh) with
+                            finding a worthy and suitable person to replace Soós, so that the
+                            commissioners can already make a report at the next Bratislava
+                            assembly.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus.<note type="critic">there is a comment on the margin:
+                        “ponetur titulus”.</note></p>
+                <p>Ex supplicatione comitatus Soproniensis <add corresp="scriba"
+                        type="insert">hisce adiecta</add> Fidelitas Vestra abunde intelliget, quod
+                    spectabilis et magnificus fidelis nobis dilectus <persName>Thomas de
+                        Nadasd</persName> etc. <add corresp="scriba" type="insert">acceptare</add>
+                    recusaverit et repudiarit egregium fidelem nobis dilectum <del corresp="scriba"
+                        >Simonem</del><persName><add corresp="scriba" type="corr">Franciscum</add>
+                        Soss de Mykebuda</persName><note type="critic">Ferenc Soós of Mikebuda was a
+                        retainer <hi rend="italic">(familiaris)</hi> and vidame <hi rend="italic"
+                            >(praefectus)</hi> of the Széchy family in Sopron, see <hi
+                            rend="smallcap">Koppány</hi> 2014, 227.</note> pro commissario in
+                    controversiis inter dictum <persName>Nadasd</persName> et comitatum Soproniensem
+                    versantibus. Et quamquam comitatus praedictus cuperet in locum ipsius
+                        <persName>Soss</persName> comitem suum <persName>Iohannem a
+                        Weisprach</persName><note type="critic">Hans von Weispriach or János
+                        Weispriach was <hi rend="italic">ispán</hi> of Sopron county, Baron of
+                        Kabold and owner of the castle in Landsee until 1548. For more on him and
+                        his family, see <hi rend="smallcap">Csermelyi</hi> 2013; and <hi
+                            rend="smallcap">Csermelyi</hi> 2021, 197–209.</note> substitui, nos
+                    tamen existimamus, quod nihilo serius nec inmerito <add corresp="scriba"
+                        type="insert">praefatus Nadasd</add> gravari, ipsumque a
+                        <persName>Weisprach</persName> tamquam personam suspectam, <add
+                        corresp="scriba" type="insert">cum nimirum comes sit illius comitatus</add>,
+                    reiicere posset. Idcirco nos cupientes huiusmodi controversias primo quoque
+                    tempore sopitas atque sublatas esse pro <del corresp="scriba">ea paterna animi
+                        nostri benevolentia</del> paterno animo nostro et benevolentia, qua fideles
+                    subditos nostros prosequi solemus, Fidelitati Vestrae mandamus, quod in locum
+                    praefati <persName>Francisci Soss</persName> aliquam aliam idoneam et aptam, nec
+                    suspectam personam <del corresp="scriba">deligatis</del><add corresp="scriba"
+                        type="corr">deligere</add> ac reliquis duobus commissariis ad memoratum
+                    negotium deputatis adiungere velint, ita ut huiusmodi commissio <del
+                        corresp="scriba">quamprimum fierit poterit</del><add corresp="scriba"
+                        type="corr">citra omnem moram et ea quidem celeritate</add> debitum et
+                    optatum effectum consequatur, <del corresp="scriba">ita ut</del><add
+                        corresp="scriba" type="corr">ut</add> nos ad proxime futurum generalem
+                    conventum Posoniensem<note type="critic">16 October, 1548, see <hi
+                            rend="smallcap">Mikó</hi> 2017, 69–73.</note> per dictorum
+                    commissariorum relationem <add corresp="scriba" type="insert">de statu eius
+                        negotii</add> informati, postea in huiusmodi causa ulterius progredi atque
+                    id quod necessitas ac status earum rerum postulaverit, ordinare, <del
+                        corresp="scriba">ac</del> statuere et providere queamus. In <milestone
+                        unit="pb"/>quibus <del corresp="scriba">devotiones</del><add
+                        corresp="scriba" type="corr">Devotio</add> et Fidelitas Vestrae exsequentur
+                    voluntatem nostram.</p>
+                <p>Datum in <placeName>Nova Civitate</placeName> 19. Septembris 1548.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Strigoniensi et Zagrabiensi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

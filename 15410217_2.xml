@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">615</title>
+                <title type="main">Miklós Oláh, Bartholomäus Haller von Hallerstain and János
+                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 17 February 1541)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15410217_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signatures and seals.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                    <p><hi rend="italic">Other handwriting:</hi> 1541. Um dem Rockenfinger
+                        Georg seiner maytt. kuchenmeister dem erb auszufolgen der comissarien
+                        vermittelung.</p>
+                    <p><hi rend="italic">Another handwriting:</hi> Fasc. 19. Nro. 11.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banská Bystrica</settlement>
+                        <institution>ŠABB MMBB</institution>
+                        <repository>Fasc. 19. Nr. 11.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1541-02-17">17 February 1541</date>
+                <placeName>Kremnica</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh, Bartholomäus Haller von Hallerstain and János
+                        Dubraviczky</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Bystrica Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh, Bartholomäus Haller von Hallerstain and János
+                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 17 February 1541)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They say at Queen Mary’s order that they should make sure the inheritance
+                            of her cook, Georg Rockelfinger, should be paid out on both his mother’s
+                            and his father’s side, which is with them, in Banská Bystrica.
+                            Rockelfinger’s inheritance should be handed over to Oláh without delay,
+                            so that the plaintiff can receive it, as is fair.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Namhafft, ersam unnd weiß lieb hern unnd freundt, unnser freundlich
+                    diennst sein euch zuvor! </p>
+                <p>Unns hat unnser <persName>genedigiste fraw</persName><note
+                        type="critic">Queen Mary.</note> bevolhen, euch zu sagen, das ir
+                        <persName>Jeorg Rockelfinger</persName>,<note type="critic">Georg
+                        Rockelfinger. We only know one document on him, his father’s last will from
+                        1536, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 256.</note>
+                    ir mt.<note type="critic">I.e. ihrer Majestät.</note> kuchenmaister, umb sein
+                    angepurrender tail seines erlebten vetterlichen unnd mutterlichen erbs bey euch,
+                    in dem <placeName>Neuensol</placeName>, unverzogenliche bezalung verschaffenn
+                    solt. Derhalben von wegen höchtsgenanter unnser <persName>genedigisten
+                        frawen</persName> unnser bevellich fur unns selbst freundtlich pittendt, ir
+                    wellt ime <persName>Rockelfynger</persName> sollchen seinen gepurrendenn tail
+                    one verner verzug zu hern <persName>Nicolaus Olaus</persName> hannden
+                    verschaffen unnd ime unclaghafft machen, wie dan an im selbst recht unnd pillich
+                    ist. Das wel wir unns anstat unnser gennedigsten frawen zu beschehen verlassen
+                    und thun, was euch lieb ist. </p>
+                <p>Datum <placeName>Cremnitz</placeName> den XVII. tag Februarii anno
+                    Domini XXXXI<hi rend="super">o</hi>.</p>
+                <p><seg type="signature"><add corresp="Olahus" type="insert">Nicolaus
+                            Olahus custos Albensis etc.</add></seg></p>
+                <p><seg type="signature"><add corresp="author" type="insert">Bartholmes
+                            Haller vom Hallerstain<note type="critic">Bartholomäus Haller von
+                                Hallerstein (1486–1551) was Secretary to Mary of Hungary.</note>
+                            etc.</add></seg></p>
+                <p><seg type="signature"><add corresp="author" type="insert">Jonnes
+                            Dubrawiczki</add></seg><note type="critic">János Dubraviczky.</note></p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Den namhafften, ersamen unnd weisen hern, richtern, rat unnd gemain
+                    der stat Neuensol, unnsern hern unnd freundenn.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

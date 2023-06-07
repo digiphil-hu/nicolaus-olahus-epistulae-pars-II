@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">603</title>
+                <title type="main">Miklós Oláh to a Friend (Brussels, 20 May 1538)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15380520_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 618–619.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >563–564.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1538-05-20">20 May 1538</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Friend</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to a Friend (Brussels, 20 May 1538)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Nobody knows better than his friend how miserable Hungary’s situation has
+                            been in the last few years, both due to the domestic political feuds and
+                            the Turkish attacks, and his friend has not only seen this, he has also
+                            suffered large financial damage as a result of it. He asks him to keep
+                            his promise, citing their childhood friendship. He does not know what is
+                            going on in Hungary; the other day they were hoping for peace, but it
+                            might have been a pipe dream. The ceasefire has also only brought
+                            renewed pillaging. He asks him to report to him about everything in
+                            detail and write him something healing. He does not have anything to
+                            write about Joannes, he will understand his situation from Joannes’ own
+                            letter.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad amicum.<note type="critic">We do not know him more
+                    closely.</note></p>
+                <p>Quantis minis, calamitatibus et periculis miserum et exhaustum iam
+                    penitus viribus regnum nostrum Hungariae per hos annos superiores, partim ab
+                    interna nostrorum factione, partim a Turcis sanguinariis Christinae reipublicae
+                    hostibus affectum sit, concussum et attritum, nemo est omnium, qui te melius
+                    noverit. Non modo enim in regno Hungariae hisce omnibus annis periculosis
+                    diversatus es, sed eorum omnium malorum partem maiorem non tantum oculis <add
+                        corresp="Olahus" type="insert">es</add> conspicatus <del corresp="Olahus"
+                        >es</del>, quantum cum magno rerum atque fortunarum tuarum dispendio
+                    expertus <del corresp="Olahus">es</del>. Quare tui esset officii me de rebus
+                    omnibus, quae istic aguntur, et crebro et diligenter certiorem facere. Non solum
+                    enim amicitia et mutua nostra familiaritas, quibus a puero sanctissime usi
+                    sumus, id a te exposceret, sed etiam, quod te id facturum et coram et per
+                    litteras fueras pollicitus, quod tuum promissum, ut exsequare, te vehementer
+                    rogo. Quid in rebus Hungariae sperandum sit, ignoro. Hactenus quidem magnam <milestone unit="pb"/>habuimus spem liberationis regni et nostrum omnium quietis. Quae quam
+                    vana fuerit, tu ipse cogitare poteris. Nam, per Deum immortalem, quid sibi <choice>
+                        <orig>volvunt</orig>
+                        <supplied>volunt</supplied>
+                    </choice> tam frequentes induciae? Quid aliud praestant boni, quam quod
+                    occasionem praebeant direptioni, praedae et ruinae regni et omnium bonorum. Quid
+                    etiam in hoc tempore induciae istae fecerunt, quam mala omnia et virium
+                    nostrarum domesticarum iacturam. Tu, si quid boni ex his annis futurum
+                    suspicaris, fac me tui consilii participem. De rebus nostris privatis quid ad te
+                    scribere possim, non satis cogitare valeo, nedum scire, hae tam involutae sunt
+                    multis et maximis difficultatibus, ut nisi Deus aliquis propitius subveniat,
+                    videntur incommodum finem habiturae. Tu <del corresp="Olahus">si</del> in eo es
+                    loco, ut omnia penitius cognoscere possis, si quid de his intellexeris, fac, ut
+                    sciam, remediumque adscribe, quo usus negotia ipsa nostra feliciores habere
+                    possint et progressus et exitus. De <persName>Ioanne</persName><note
+                        type="critic">We do not know him more closely.</note> nihil est, quod ad te
+                    scribam. Ex litteris ipsius propriis omnem rerum suarum conditionem intelliges.
+                    Si quid me praeterea facere voles, fac, ut animum tuum intelligam. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 20. Maii 1538.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">757</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Augsburg, 6 January 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510106_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 19.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-01-06">6 January 1551</date>
+                <placeName>Augsburg </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Augsburg, 6 January 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He received Tamás Nádasdy’s letter yesterday, from which he now
+                            understands that Nádasdy will announce the fate of the bishopric in
+                            Bratislava. He will be grateful for the services with which he is
+                            helping his sisters and nephews during the plague in Vienna. 2. He has
+                            done everything he can in connection with the Sopron tithe. There has
+                            been no news about the declaration of the three-year war. He has heard
+                            about the date from the imperial agent in Constantinople, but it is
+                            rumoured that the Sultan is not leaning towards a war, only Rüstem Pasha
+                            is goading him. He is doing everything he can to protect Szolnok, Eger,
+                            or Szigetvár. The plan is for him to return to Vienna in February,
+                            together with Maximilian. 3. Queen Mary has arrived together with the
+                            mail. She is well and ordered Nádasdy yesterday to make sure the scions
+                            of the fruit trees (pear, apple, cherry, peach, etc.) get to the
+                            postmaster or Christoph I von Eytzing because she wants to plant them in
+                            her Brabantian garden in February and graft the trees. Antal Verancsics
+                            is not leaving his office, although Oláh has given him the office of
+                            lector of Esztergom, but he wants to keep him by his side because he is
+                            of great use to him. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Servitiorum meorum commendationem, Spectabilis et Magnifice Domine et
+                    Frater Observandissime! </p>
+                <p>[1.] Heri ad noctem accepi litteras<note type="critic">We do not know
+                        this letter.</note> Dominationis Vestrae Magnificae. Gratum est mihi, quod
+                    Dominatio Vestra Magnifica scribit se mihi proscripturam, dum
+                        <placeName>Posonium</placeName> venerit, quid rerum pontificalium <choice>
+                        <orig>m<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>m<corr>ihi</corr></supplied>
+                    </choice> et ecclesiae meae reliquerit quondam
+                        <persName>Colocensis</persName><note type="critic">Ferenc Frangepán was
+                        Oláh’s predecessor as Bishop of Eger, and he was also Archbishop of Kalocsa.
+                        The Archbishopric of Kalocsa had been vacant since Frangepán’s death in
+                        1543.</note>
+                    <gap extent="1" reason="damage" unit="word"/>
+                    <choice>
+                        <orig>
+                            <gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>Dominationi</corr></supplied>
+                    </choice> Vestrae Magnificae reserviam. Nam hic si <gap extent="1" reason="damage" unit="word"/>
+                    <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>mihi</corr></supplied>
+                    </choice> deesset ex illis, minori pecunia <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>e</orig>
+                        <supplied><corr>solver</corr>e</supplied>
+                    </choice> possem. Curam Dominationis Vestrae Magnificae <choice>
+                        <orig>d<gap extent="unknown" reason="damage" unit="word"/>orore</orig>
+                        <supplied>d<corr>e s</corr>orore</supplied>
+                    </choice> et neptibus meis,<note type="critic">Oláh’s sisters, nephews, and
+                        nieces lived in Oláh’s Vienna palace, see Ep.
+                        736.</note><ref>/o:olahus.tei.15500323_1</ref> si pestis (quod absit)
+                        <placeName>Wiennae</placeName> saevierit, omnibus obsequiis meis reserviam. </p>
+                <p>[2.] De decimis Soproniensibus nihil est profecto, quod non fecerim.
+                    Iam propediem advenit terminus, in quo redimi poterunt, ne erit causa, quam
+                    obtendant adversarii, cum illas levata sua pecunia remittere non haberent. De
+                    promulgatione belli ad triennium nihil nos hic intelligimus. De <choice>
+                        <orig>data</orig>
+                        <supplied>decima</supplied>
+                    </choice> mensis Novembris accepimus litteras<note type="critic">We do not know
+                        this letter.</note> ab <persName>agente regio</persName><note type="critic"
+                        >Giovanni Maria Malvezzi was the resident agent of King Ferdinand I at the
+                        Constantinople Porte between 1547 and 1553, see <hi rend="smallcap"
+                            >Gausz</hi> 2015, 23.</note> ex <placeName>Constantinopoli</placeName>,
+                    caesarem tamen non esse inclinatum ad bellum intelligimus.
+                        <persName>Rustamum</persName><note type="critic">Rüstem Pasha.</note> quidem
+                    dicunt satis eum sollicitare, sed nihil hactenus effecisse, verum quidem esset,
+                    aliquam ostentationem fieri praeparationis terra et mari, sed eam potius pro
+                    pace futura emendicanda. Persa instare magnus Tartarus bellum Turcae denuntiasse
+                    dicitur, sed Deus novit, quid <del corresp="Olahus">hinc</del> ex his sequatur.
+                    De <placeName>Babaco</placeName><note type="critic">Babacum or Bagacum is the
+                        ancient name of Bavay, located north-east of Cambrai.</note> levando
+                    tractatur, nisi mors comitis mutationem adferat, mendacium est de filio iuniore
+                    regis. Saepe ego quoque vehementer moveor, sicut Flandros nobis <milestone
+                        unit="pb"/>ita nos quoque illis consilium dare nescire. Sed quid facias,
+                    veterem canimus cantilenam. Remisi litteras per Dominationem Vestram Magnificam
+                    ad me missas. Ego neque de <placeName>Zolnok</placeName>, neque de
+                        <placeName>Agria</placeName>, neque de <placeName>Zygeht</placeName>
+                    praetermisi, et deinceps quoque non praetermittam <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>tem</orig>
+                        <supplied><corr>maiesta</corr>tem</supplied>
+                    </choice> regiam, dominum nostrum clementissimum sollicitare, <choice>
+                        <orig>q<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>q<corr>uod</corr></supplied>
+                    </choice> dicit se his omnibus provisuram. <gap extent="1" reason="damage"
+                        unit="word"/> fere in fine sumus dietae. Heri <gap extent="unknown"
+                        reason="damage" unit="word"/> finitis rebus maiestas regia proposuit <choice>
+                        <orig>sta<gap extent="unknown" reason="damage" unit="word"/>s</orig>
+                        <supplied>sta<corr>tibu</corr>s</supplied>
+                    </choice> de auxilio Hungariae ferendo, his <choice>
+                        <orig>d<gap extent="unknown" reason="damage" unit="word"/>bus</orig>
+                        <supplied>d<corr>ie</corr>bus</supplied>
+                    </choice> responsum habebimus, ut spero, bonum. Cogitamus iam
+                        <placeName>Wiennam</placeName> versus reverti unacum serenissimo rege
+                        <persName>Maximiliano</persName>, quod in mense Februario omnino futurum
+                    esse existimo. Bonum esset nihilominus eis vocamur. </p>
+                <p>[3.] Serenissima regina <persName>Maria</persName>, domina nostra clementissima
+                    in die Circumcisionis Domini ad noctem per postham huc venit; sana est, simul
+                    cum imperatore et omnibus nostris principibus. Heri iussit mihi, ut Dominationi
+                    Vestrae Magnificae mandarem, nomine suo, quo statim acceptis praesentibus
+                    surculos sive ramos arborum fructiferarum, videlicet pirorum, pomorum,
+                    cerasiorum, persicarum et aliorum fructuum non vilium, sed meliorum, quos
+                    Dominatio Vestra Magnifica novit et experta est, decerpi, decidi faciat, et ad
+                    unum quidemque manipulorum eorundem surculorum nomina et genera fructuum per
+                    schedam adfigat, ut dinosci possunt eorum sine recto<note type="critic"
+                        >Uncertain reading.</note> assignet, ad manus magistri postharum, vel
+                    hominis <milestone unit="pb"/>domini <persName>Christophorii
+                        Eyczynger</persName><note type="critic">Christoph I von Eytzing (1501–1563)
+                        was Governor of the Archduchy of Austria under the Enns between 1547 and
+                        1551.</note> locumtenentis Austriae, qui pro his ad eadem mittat ita, ut si
+                    non ante omnia ad finem huius mensis hic sua maiestas reginalis surculos istos
+                    habere possit, qui in <choice>
+                        <orig>f<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>f<corr>uturo</corr></supplied>
+                    </choice> mense Februario in Brabantia <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>in horto</corr></supplied>
+                    </choice> suo quem optimum plantavit <choice>
+                        <orig><gap extent="1" reason="damage" unit="word"/>boribus</orig>
+                        <supplied><corr>et ar</corr>boribus</supplied>
+                    </choice> inseri possint. Hoc <gap extent="unknown" reason="damage" unit="word"
+                    /> Dominationi Vestrae Magnificae mandat, quae <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>vestram</corr></supplied>
+                    </choice> diligentiam praecipuam hac in re facere, ut maiestatis suae mandato <choice>
+                        <orig>satifia<gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied>satifia<corr>mus</corr></supplied>
+                    </choice>. Has subito iusso maiestati suae ad Dominationem Vestram Magnificam
+                    scripsi. </p>
+                <p>De rebus aliis, postquam plura, cum regia maiestate loqui potero, plura et
+                    apertiora scribam. <persName>Vrantius</persName><note type="critic">Antal
+                        Verancsics.</note> non <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>rmisit</orig>
+                        <supplied><corr>praete</corr>rmisit</supplied>
+                    </choice> officium suum, ordinavi ei l<choice>
+                        <orig><gap extent="1" reason="damage" unit="word"/>toratum</orig>
+                        <supplied>l<corr>ec</corr>toratum</supplied>
+                    </choice> Strigoniensium,<note type="critic">Verancsics aspired to the <hi
+                            rend="italic">officium lectoratus</hi> of Esztergom, see Ep. 745. and
+                        Ep.
+                        750.</note><ref>/o:olahus.tei.15500902_1</ref><ref>/o:olahus.tei.15501023_1</ref>
+                    qui expeditis meis et suis rebus veniet ad me, quem apud me semper tenebo,
+                        fidei<note type="critic">Uncertain reading.</note> enim quoque hic retineo.
+                    Dominationem Vestram Magnificam unacum domina mea observandissima, carissima
+                        <persName>coniuge</persName><note type="critic">Orsolya Kanizsai.</note> sua
+                    feliciter <del corresp="Olahus">ad</del> hoc novo anno et multis aliis
+                    sequentibus vivere valereque opto, quibus servitia mea commendo.</p>
+                <p>Ex <placeName>Augusta</placeName> sexta Ianuarii anno 1551.</p>
+                <p>
+                    <seg type="signature">Servitor et frater Agriensis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino Thomae de Nadasd perpetuo comiti terrae
+                    Fogaras iudici curiae regiae maiestatis ac supremo regni Hungariae capitaneo
+                    etc. domino et fratri observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

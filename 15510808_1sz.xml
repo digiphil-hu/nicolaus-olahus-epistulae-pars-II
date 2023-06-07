@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">776</title>
+                <title type="main">Miklós Oláh to Banská Štiavnica Town Council (Vienna, 8 August
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510808_1sz</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Ms. I. is the original letter with signature and
+                            seal. Ms. II. is a copy.
+                        <ref>/o:olahus.tei.15340422_1</ref>
+                        
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 586. </note>
+                <note type="translation"><p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 156–157.</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="CE">Critical Edition</witness>
+                    <witness xml:id="I">Slovakia, Banská Štiavnica, ŠABB PBŠ MMBŠ, Missiles
+                        1551.</witness>
+                    <witness xml:id="II">Slovakia, Banská Štiavnica, ŠABB PBŠ MMBŠ, Kniha odpisov
+                        1543–1556 Inv. 22.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-08-08">8 August 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Banská Štiavnica Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Banská Štiavnica Town Council (Vienna, 8 August
+                    1551)</head>
+                <floatingText>
+                    <body>
+                        <p>He has presented their letter to the King and what a pressing situation
+                            they are in, although he had already written letters to the captains of
+                            the neighbouring areas to watch over the defence of the mining towns and
+                            not to tolerate any harm. They should thus not give up hope, the King
+                            will not abandon them, and they will soon receive great help from
+                            Germany and Bohemia to protect them from the Turkish attacks.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Prudentes et Circumspecti Domini Amici Honorandi, salutem et nostri
+                    commendationem! </p>
+                <p>Litteras Dominationum Vestrarum, quas <persName>maiestati
+                        regiae</persName> scripserant, reddidimus, et etiam in qua trepidatione
+                    essent, et quomodo negotia eorum agerentur, suam maiestatem edocuimus. Tametsi
+                    autem sua maiestas proximis litteris suis mandarat omnibus capitaneis suis
+                    ubique in confiniis existentibus, ut Dominationum Vestrarum defensioni
+                    invigilarent, neque paterentur eisdem aliqua damna aut incommoda per hostes
+                    inferri, nihilominus tamen rursum sua maiestas iussit omnibus suis militibus et
+                    capitaneis ubique existentibus, ut Vestram defensionem curare debeant. Igitur
+                    Dominationes Vestrae velint bono esse animo, neque animum despondeant. Nam a
+                    maiestate sua non deserentur brevique tam a Germania quoque Bohemia et aliis
+                    provinciis suae maiestatis haereditariis auxilium habebunt adeo, ut bene ab
+                    insultibus et excursionibus Turcicis tuti ac securi esse poterunt. Dominationes
+                    Vestras optamus valere feliciter. </p>
+                <p><placeName>Wiennae</placeName> VIII. die Augusti 1551. </p>
+                <p><app>
+                        <lem wit="#CE #I">
+                            <seg type="signature">
+                                <add corresp="Olahus" type="insert">Vester Agriensis etc. manu
+                                    propria</add>
+                            </seg>
+                        </lem>
+                        <rdg wit="#II">Vester Agriensis etc. manu propria</rdg>
+                    </app><milestone unit="pb"/></p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the other side:</head>
+                <p>Prudentibus et circumspectis dominis iudici et iuratis civibus
+                    civitatis Semniciensis dominis et amicis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

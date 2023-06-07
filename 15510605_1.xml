@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">769</title>
+                <title type="main">[Miklós Oláh] to András (Bonaventura) Báthori (Vienna, 5 June
+                    1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510624_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter, probably with signature but
+                        it is not readable. A 18<hi rend="super">th</hi>-century register attrubited
+                        it to Oláh and the author of this register could have read the sign. The
+                        seal belongs to Oláh (as Dávid Faragó evidenced) and there is a few of his
+                        autograph emendations.</p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 148a – Fasc. 1754. – No. 13.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-06-05">5 June 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>[Miklós Oláh]</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>András (Bonaventura) Báthori</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">[Miklós Oláh] to András (Bonaventura) Báthori (Vienna, 5 June
+                    1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He understands what András (Bonaventura) Báthori has written about Ferenc
+                            Balog, and Balog himself has witnessed how diligently Oláh has
+                            interceded in this case with the King. He has looked for the rest of his
+                            letters at the Imperial Court Chancellery, including the one to the
+                            King, but they have not turned up yet. About the matter between Leonhard
+                            Harrach and Báthory concerning the castle of Devín, the King says that
+                            he will send a German lord and Mihály Mérey there, so that they can come
+                            to an agreement, if possible. If it is not possible, a legal proceeding
+                            will take place in Hungary also in the case in which Báthory is involved
+                            in a lawsuit with another German about the hayfields around the castle
+                            of Devín. Oláh is doing what he can, he has written about the rest to
+                            Nádasdy.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Magnifice Domine et Amice Observandissime, salutem et servitiorum
+                    nostrorum commendationem!</p>
+                <p>Ea, quae Magnificentia Vestra nobis et scripsit<note type="critic">We
+                        do not know this letter.</note> et a domino <persName>Francisco
+                        Balog</persName><note type="critic">Ferenc Balog was Provisor of Šintava,
+                        see <hi rend="smallcap">Bakonyi</hi> 2017, 198–199.</note> provisore suo
+                        <placeName>Syntaniensi</placeName><note type="critic">Šintava.</note>
+                    nuntiavit, intelleximus, nos in omnibus Magnificentiae Vestrae negotiis,
+                    quemadmodum idem dominus <persName>Franciscus</persName> nobis testis est,
+                    diligenter apud <persName>maiestatem regiam</persName> laboravimus, de cetero
+                    quoque in quibuscumque rebus Magnificentiae Vestrae inservire poterimus,
+                    libenter et ex animo inservire volumus. </p>
+                <p>Litteras autem eiusdem maiestati regiae unacum nonullis aliis litteris
+                    datas ac deperditas iussit sua maiestas in cancellaria Germanica diligenter
+                    requiri, quae hactenus repertae quidem non sunt, adhibebitur tamen a nobis
+                    diligens sollicitatio, ut eas Magnificentia Vestra repertas rehabeat. </p>
+                <p>In negotio vero arcis <placeName>Dewen</placeName>,<note type="critic"
+                        >Devín.</note> quod ratione nonnullarum terrarum cum
+                        <persName>Harrag</persName><note type="critic">Leonhard Harrach von Rohrau
+                        und Pirckenstein (1514–1590) was a Privy Councilor and legate of Emperor
+                        Charles V during the negotiation in Diószeg (today: Tuta), see <hi
+                            rend="smallcap">Oborni</hi> 2017, 210.</note> magistro curiae
+                    serenissimi principis domini Caroli archiducis Austriae etc. Magnificentia
+                    Vestra habet, respondit sua maiestas brevi ad faciem terrae contentiosae unum ex
+                    dominis Germanis et alterum dominum <persName>Michaelem de Mere</persName><note
+                        type="critic">Mihály Mérey.</note> missurum, ut si fieri poterit, illud per
+                    concordiam transigatur, id, quod si non successerit, iuris processu in Hungaria
+                    revidebitur de negotio vero, quod Magnificentia Vestra cum altero quodam domino
+                    Germano habet super fenili<note type="critic"><hi rend="italic">fenile</hi>,
+                        i.e. ‘locus, ubi fenum ponunt’, see <hi rend="smallcap">DuCange</hi> 1883;
+                        and <hi rend="smallcap">Szovák</hi> 1983–2017.</note>
+                    <add corresp="Olahus" type="insert">circa Dewen</add>. Eam sua maiestas quam
+                    prius fecerat, reddidit relatorum, prout haec omnia idem <persName>Franciscus
+                        Balog</persName>, cui <gap extent="1" reason="damage" unit="word"/>
+                    <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>prius</corr></supplied>
+                    </choice> negotium intimavimus, Magnificentiae Vestrae fusius referet, nos
+                    omnibus <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>viribus</corr></supplied>
+                    </choice>, quibus Magnificentiae Vestrae poterimus inservire, non erimus
+                    defuturus <gap extent="1" reason="damage" unit="word"/>
+                    <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/>auca</orig>
+                        <supplied><corr>nova p</corr>auca</supplied>
+                    </choice> habentur, quae tamen sunt, ea spectabili et magnifico domino comiti <choice>
+                        <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
+                        <supplied><corr>Thomae de</corr></supplied>
+                    </choice>
+                    <persName>Nadasd</persName> etc. perscripsimus, qui ea cum Magnificentia Vestra <choice>
+                        <orig>com<gap extent="1" reason="damage" unit="word"/></orig>
+                        <supplied>com<corr>mendata habeant. Quam</corr></supplied>
+                    </choice> optamus valere feliciter. </p>
+                <p><placeName>Viennae</placeName> quinta die Iunii 1551. </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Magnifico domino Andreae de <choice>
+                        <orig>Batho<gap extent="1" reason="damage" unit="word"/></orig>
+                        <supplied>Batho<corr>ry comitatuum</corr></supplied>
+                    </choice> Zathmar et Zabolch comiti, magistro <choice>
+                        <orig>t<gap extent="1" reason="damage" unit="word"/></orig>
+                        <supplied>t<corr>avernicorum</corr></supplied>
+                    </choice> regalium ac supremo regni Hungariae capitaneo domino et amico
+                    observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

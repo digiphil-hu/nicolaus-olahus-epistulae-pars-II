@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">838</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Graz, 16 December 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15521216_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 68. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">123r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-12-16">16 December 1552</date>
+                <placeName>Graz</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Graz, 16 December 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has been informed that Oláh has arrived to Bruck an der Mur. He orders
+                            him to come straight to the court with his immediate accompaniment, and
+                            he should leave his servants whom he can do without for a few days in
+                            Bruck. He should not take umbrage that he is not receiving him in airy
+                            Ebersdorf, but he will be ten days late because he has made a detour to
+                            Leoben. Lestár Feledi and György Rakovszky are rumoured to be with him;
+                            he should bring them, too.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. </p>
+                <p>Intelleximus Devotionem Tuam in oppidum nostrum
+                        <placeName>Buckam</placeName><note type="critic">Bruck an der Mur.</note>
+                    salvam et incolumem apprendisse idque nobis pro nostra etiam <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>eadem</corr></supplied>
+                    </choice> clementia nobis <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>magis</corr></supplied>
+                    </choice> atque gratum accedit. Quare eidem nunc clementer committimus, ut <del
+                        corresp="scriba">minori</del><add corresp="scriba" type="corr">minima</add>
+                    qua poterit familia cras se recta huc ad aulam nostram regiam conferat, et <del
+                        corresp="scriba">reliquam familiae suae partem</del> reliquos servitores
+                        <del corresp="scriba">quibus</del> suos, <del corresp="scriba">quibus carere
+                        potest</del> quos non semper <del corresp="scriba">ad</del> necesse est
+                    Devotioni Tuae ad manum esse istic <placeName>Bruckae</placeName> per aliquot
+                    adhuc dies relinquas, neque id gravetur attente, quod nos etiam licet in arce
+                    nostra <placeName>Eberstorff</placeName><note type="critic">Ebersdorf.</note>
+                    satis multum <del corresp="scriba">aurae</del> salubris aurae ceperimus te et
+                    non recta huc profecti sumus, sed <del corresp="scriba">prius antea per diem
+                        dies</del><add corresp="scriba" type="corr">ex itinere</add> in oppidum
+                    nostrum <placeName>Leoben</placeName> divertimus, et ibi decem dies moram
+                    habuerimus. Factum est eo etc.</p>
+                <p>Datum <placeName>Gratz</placeName> 16. Decembris 1552.</p>
+                <p>Postscripta cum intelligamus etiam cum Devotione Tua esse <gap extent="1" reason="illegible" unit="word"/> fidelem nobis dilectum <persName>Eustachium a Veledy</persName><note
+                        type="critic">Lestár Feledi.</note> et <persName>Georgium
+                        Rakowsky</persName>.<note type="critic">György Rakovszky.</note> Ideo
+                    volumus quod ipsos quoque <gap extent="1" reason="illegible" unit="word"/> adducat.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Cancellario Hungarico.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

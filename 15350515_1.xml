@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">536</title>
+                <title type="main">Maciej Przybyło to Miklós Oláh (Wrocław, 15 May 1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350515_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 553–554.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >064–065.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-05-15">15 May 1535</date>
+                <placeName>Wrocław</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Maciej Przybyło</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Maciej Przybyło to Miklós Oláh (Wrocław, 15 May 1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Oláh reminded him to write more frequently; he did want to write, but
+                            there was nobody to take the letter. Now, however, he will make an
+                            effort: the present bearer of the letter, Hieronymus Kromeier, is a
+                            member of the Wrocław council and the brother-in-law of Przybyło, and he
+                            will stay in Antwerp for a while. After he leaves, his nephew will take
+                            his place, who is the son of Mikołaj Nipszyc; so now they will have an
+                            opportunity to exchange letters more frequently. He recommends
+                            Hieronymus to his attention, he can support Oláh with his advice and
+                            service. 2. They have received news from Krakow that a large Turkish
+                            army is leaving for Hungary, but they do not know what is planned. King
+                            Sigismund I the Old is fighting the Romanians; Johann Henckel is active
+                            as a priest in Košice, and he is having a better time in his homeland
+                            than in Poland. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Mathias Auctus physicus Vratislaviensis Nicolao Olao suo. </p>
+                <p>[1.] Admonebar diligenter tuis ad me datis litteris,<note type="critic"
+                        >We do not know this letter.</note> ut frequens ad te in scribendo forem.
+                    Certo id persuasum habeas me ex animo et saepius voluisse ad te scribere, modo
+                    talium aliquem fidum latorem habuissem. Tabellionum itaque defectus omnem
+                    excusationum sarcinam in se cumulabit. Iam vero si frequentior, quam antea, non
+                    agnoscar facile negligentiae meae et oscitacioni ad scribendum veniet. Dabo
+                    autem operam sedulo, ut minime talibus a <del corresp="Olahus">me</del><add
+                        corresp="Olahus" type="corr">te</add> notabor. Nam praesentium exhibitor,
+                    dominus <persName>Ieronimus cognomine Kromer</persName>,<note type="critic"
+                        >Probably Georg Hieronymus Kromeier (†1551), who was Councillor and
+                        Chamberlain of the city of Wrocław, see <hi rend="smallcap">Kneschke</hi>
+                        1864, 296.</note> civis ac homo ordinis senatorii Vratislaviensis affinisque
+                    meus carissimus (duas namque sorores in coniuges habemus), vir integrae fidei et
+                    undequaque honestus, <placeName>Antverpiae</placeName>
+                <milestone unit="pb"/> per longum est mansurus. Et tandem post suum inde discessum
+                        <persName>Ioannem Schebitz</persName>,<note type="critic">Jan
+                        Nipszyc.</note> filium ex sorore ipsius, patre vero <persName>Nicolao
+                        Schebicz</persName><note type="critic">Mikołaj Nipszyc.</note> capitaneo
+                    moderno Vratislaviensi ortum illic in locum sui est relicturus, ut occasio et
+                    opportunitas ad longum nobis nedum dandarum, sed etiam reddendarum utrinque
+                    litterarum dabitur. </p>
+                <p>Hunc autem dominum <persName>Ieronimum</persName> ita apud te
+                    commendatum iri peto atque fratrem mihi amantissimum, sibique consilio et opera
+                    (si illi necessum contra malitiam aliquorum fuerit) adesse <choice>
+                        <orig>velit</orig>
+                        <supplied>velim</supplied>
+                    </choice>. Et quicquid officiorum ac benevolentiae illi exhibueris, id totum
+                    mihi perinde gratum sit futurum ac si mihi ipsi exhiberes, inde agnoscat
+                    amicitiam nostram et consuetudinem antiquam, non nisi firmissimam adhuc inter
+                    nos exstare, ut alter alterius gratia, etiam in longa locorum distantia vel
+                    amicis officium suum praebeat. </p>
+                <p>[2.] Ex <placeName>Cracovia</placeName> nuper accepi Turcarum sat
+                    numerosum exercitum Hungariam venire. Quid autem constituere se facturos, nondum
+                    certo scio. Quidam illos Moraviam, alii Slesiam, reliqui Cepusium<note
+                        type="critic">I.e. Scepusium.</note> petituros asserunt. <persName>Ioannes
+                        vaida</persName><note type="critic">King John I.</note> cum suis gentibus
+                    illis iungitur. <persName>Rex Poloniae</persName><note type="critic">King
+                        Sigismund I the Old.</note> cum Valacho iterum bellum habet. Cum Moschis pax
+                    exstat nulla. Cristas Galli per sacratissimam caesaream maiestatem speramus
+                    gratia Domini deposituras. <persName>Doctor Henckelus</persName><note
+                        type="critic">Johann Henckel.</note>
+                    <placeName>Cassoviae</placeName> concionatorem agit, meliusque illic, ut in solo
+                    paterno, quam hic valet. Reginali maiestati servitia mea per opportunitatem
+                    aliquando offeras, feliciter et longum te valere cupio. Auctum tibi
+                    deditissimum, ut consuevisti, ama. </p>
+                <p><placeName>Vratislaviae</placeName> XV. Maii MXV<hi rend="super"
+                    >c</hi>XXXV.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

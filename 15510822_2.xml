@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">779</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 22 August 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510822_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Ad istas responsum est ex
+                        Fogaras.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 28.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-08-22">22 August 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 22 August 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He briefly responds to two of Nádasdy’s letters. The evil demon with
+                            whom Péter Bakics is doing business should be hoisted with his own
+                            petard. Queen Isabella has left Transylvania, and the news came three
+                            days ago that Șoimuș, Lipova, and Timișoara are all theirs (ours) again.
+                            He has responded to András (Bonaventura) Báthori’s letter. Sokollu
+                            Mehmed Pasha has gone over to Zemplén, he will wait for the Tatar there.
+                            Attention should be paid to Oláh’s voivode brothers, lest they convert
+                            to the Islamic faith. He did not write about Bakics’s pride because he
+                            knew he had sent a copy of the report to him. He will do what he can in
+                            the case of the orphans. 2. Orsolya Kanizsai is well, he has sent Pál
+                            back to her so she has someone to talk to. András Choron is dead, István
+                            Zichy is on his way with Pál Rátkay. The King wants to conscript 40,000
+                            new horsemen, 3,000 lancers are coming from Padua tomorrow, then 800
+                            armoured cavalry are arriving from Moravia. He does not feel up to
+                            writing about the rest now because he is ready to collapse, he should
+                            let Báthori and Giovanni Battista Castaldo know about these and give
+                            them his regards. Maximilian is expected in Genoa, Andrea Doria has gone
+                            to meet him in Barcelona.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Spectabilis et Magnifice Domine et Frater Observandissime, servitiorum
+                    meorum commendationem! </p>
+                <p>[1.] Binas hoc die accepi litteras<note type="critic">We do not know
+                        these letters.</note> Dominationis Vestrae de data 10. huius, sed quas
+                    breviter respondeo. Cacodaemon ille, qui meo immerenti capiti discrimen
+                    moliebatur, <quote>cadet aliquando in foveam, quam aliis parat.</quote><note
+                        type="quote">Erasm. <hi rend="italic">Adag.</hi> 52. I,I,52. Incidit in
+                        foveam quam fecit.</note> Is ille est, qui cum
+                        <persName>Bakyth</persName><note type="critic">Péter Bakics.</note>
+                    commercium habet, de quo alias plura. Deum glorifico, qui res vestras immo meas
+                    prosperavit et sine sanguine totas ex animi mei sententia perfecit. Iam
+                    enitendum est, ut <placeName>Babatum</placeName><note type="critic">Bavay, see
+                        Ep. 757. Cap. 2.</note><ref>/o:olahus.tei.15510106_1</ref> levatum teneamus,
+                    in quo nos hic dies et noctes meditamur. </p>
+                <p><persName>Reginam</persName><note type="critic">Queen Isabella
+                        Jagiellon.</note> exivisse ex Transsylvania;<note type="critic">She left
+                        Transylvania after George Martinuzzi convinced her to cede Transylvania to
+                        King Ferdinand I, see <hi rend="smallcap">Oborni</hi> 2017, 248.</note>
+                    <placeName>Solymos</placeName>, <placeName>Lyppam</placeName><note type="critic"
+                        >Șoimuș and Lipova were engagement gifts to Queen Isabella, see <hi
+                            rend="smallcap">Oborni</hi> 2017, 211.</note> et postremo 14. huius
+                        <placeName>Themeswar</placeName><note type="critic">Timișoara.</note> in
+                    manibus nostris iam esse audivimus ante triduum,<note type="critic">George
+                        Martinuzzi turned over the castles to King Ferdinand I, but the friar lied
+                        to Sokollu Mehmed Pasha saying that the castles were turned over by Péter
+                        Petrovics, see <hi rend="smallcap">Horváth</hi> 1896, 49.</note> et ad
+                    litteras Dominationum Vestrarum capitanei <persName>Bathori</persName><note
+                        type="critic">András (Bonaventura) Báthori.</note> et aliorum hodie
+                    respondimus. <persName>Begler begum</persName><note type="critic">Sokollu Mehmed
+                        Pasha (ca.1505–1579), Governor-General of Rumelia (1551–1555) was sent by
+                        Suleiman I to drive the Habsburg troops out off Transylvania, see <hi
+                            rend="smallcap">Oborni</hi> 2017, 223; and <hi rend="smallcap"
+                            >Dakić</hi> 2012, 36–61.</note> quoque in
+                        <placeName>Zemplinium</placeName> 3. huius ex
+                        <placeName>Nandoralba</placeName><note type="critic">Belgrade.</note>
+                    traiecisse intelleximus, <del corresp="Olahus">cum</del> et Tartares quosdam
+                    illuc exspectari. Cum vaivodis fratribus meis<note type="critic">Oláh was indeed
+                        related to the Voivode of Wallachia., see Ep. 641; and <hi rend="smallcap"
+                            >Szilágyi</hi> 2021.</note><ref>/o:olahus.tei.15431211_1</ref> agendum
+                    vobis esse, ne partim essent aliarum quam Christianarum, frenderent dentes suos
+                    in Alcoranum. Non nihil ea res rebus nostris accessionis adderet.</p>
+                <p>De insolentia et petulantia <persName>Bakyth</persName> ideo non
+                    scripsi, quod scivi litterarum relatoriarum copiam ad te missam fecisse, et
+                    volui scribendo <choice>
+                        <orig>extarbare</orig>
+                        <supplied>exturbare</supplied>
+                    </choice> animum. Mecum quoque rem habet et non minus tum propter te, cum
+                    propter me turbat. Hic <milestone unit="pb"/>apud regiam maiestatem nihil neglexi, quod ad me et te pertinuit. Est
+                    animi constantis, quod vult dimidietatem bonorum apud orphanos<note
+                        type="critic">See the letter on the Czobor orphans, Ep.
+                        741.</note><ref>/o:olahus.tei.15500620_1</ref> esse. In hocque nunc
+                    laboramus, convivens aliquid cum ille sit in expeditione, sed res non
+                    negligetur. Erit tempus, quo advolare poteris, non festinis,<note type="critic"
+                        >Rare use instead of festino.</note> sed lente, ut dicitur in proverbio. </p>
+                <p>[2.] Domina <persName>coniunx</persName><note type="critic">Orsolya
+                        Kanizsai.</note> Dominationis Vestrae carissima, domina mea observandissima
+                    recte valere dicitur. <persName>Paulum</persName><note type="critic">Probably
+                        Pál Miklós, Tamás Nádasdy’s servant, see <hi rend="smallcap"
+                            >Károlyi–Szalay</hi> 1882, 53 and 107.</note> remisi, quem ad me
+                    miserat, ut haberet, cum quo confabularetur. <persName>Choron</persName> est
+                        mortuus.<note type="critic">András Choron wrote his last letter to Tamás
+                        Nádasdy on 8 August, 1551, see <hi rend="smallcap">Varga</hi> 2001, 269; so
+                        he died some time between 8 and 22 August.</note>
+                    <persName>Zychy</persName><note type="critic">István Zichy was Captain of Pápa,
+                        see HHStA UA AA Fasc. 61. Konv. C. 1551 s.d. fol. 70–72. He occurs in the
+                        correspondence between Tamás Nádasdy and his wife, see <hi rend="smallcap"
+                            >Károlyi–Szalay</hi> 1882, 49, 135, and 152.</note> cum collega suo
+                        <persName>Paulo Rathkay</persName><note type="critic">Pál Rátkay (†1556) was
+                        Captain of Pápa in 1543 and participated in many battles, for example the
+                        one at Telekes (1549), see <hi rend="smallcap">Budai</hi> 1805, 157.</note>
+                    est in posta. Maiestas regia novos equites praeter priores conscribi iussit ad
+                    40.000. Cras advenient hastati pedites ex <placeName>Patavia</placeName> boni
+                    3000, ex Moravia post quintum dies ad 800 cathaphracti, hic ex Austria totidem
+                    fere. Circa <placeName>Zygeth</placeName><note type="critic">Szigetvár.</note>
+                    aliquid praeclari agetur ad Galli cautum rubei, in aliis etiam litteris non
+                    dormient. Maxime opus esset, si vel dominus <persName>Bathori</persName> vel
+                    Dominatio Vestra proprius esset. De aliis externorum regnorum novis scribere
+                    etiam non possum, quia lapsus sum propter negotia et scripturam assiduam. Ad
+                    dominum <persName>Bathori</persName> nulla raptim scripsi, credo, quod
+                    Dominationem Vestram litteris suis de his <milestone unit="pb"/>certiorem reddet. Commendet me dominis <persName>capitaneo
+                        generali</persName>,<note type="critic">Giovanni Battista Castaldo.</note>
+                    <persName>thesaurario</persName><note type="critic">George Martinuzzi.</note> et
+                    aliis, si egi sicut in hospitia, nolo pauciores, quam viginti equos gradarios
+                    omnes, mihi coemi facias, ex his eligam duos aut unum. Deus conservet
+                    Dominationem Vestram felicem et incolumem. </p>
+                <p>Ex <placeName>Wienna</placeName> 22. Augusti anno 1551.</p>
+                <p>
+                    <seg type="signature"> Servitor et frater Agriensis etc. manu propria</seg>
+                </p>
+                <p><persName>Maximilianum regem</persName> ad finem huius mensis immo ante
+                    exspectamus <placeName>Genuam</placeName>, <persName>Andreas a
+                        Doria</persName><note type="critic">Andrea Doria.</note> iam ante aliquot
+                    dies cum Gallenis ivit ei obviam <placeName>Barcinonam</placeName>.
+                        <persName>Caesarea maiestas</persName> et <persName>regia</persName> optime
+                    valent. </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino comiti Thomae de Nadasd perpetuo terrae
+                    Fogaras et comitatus Castriferrei comiti, iudici curiae et consiliario regiae
+                    maiestatis etc. domino et amico nobis observandissimo. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

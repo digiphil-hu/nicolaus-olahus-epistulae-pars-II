@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">475</title>
+                <title type="main">Conrad Wackers to Miklós Oláh (Leuven, 28 March 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340328_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 484.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 148–149.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >190–191.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-03-28">28 March 1534</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Conrad Wackers</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Conrad Wackers to Miklós Oláh (Leuven, 28 March 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>It was foolish to recommend that particular person in Oláh’s attention,
+                            but he pursued him very aggressively to help him find a way to Oláh.
+                            Indeed he speaks Greek and Hebrew, and he is not the most despicable
+                            person, either, so if he has put in a good word for him already, good,
+                            but it is not a problem if he has not done so, either.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Conradus Goclenius domino Olao thesaurario Albensi secretario reginae
+                    Mariae. </p>
+                <p>Scio me impudenter facere, nec video, quo colore possim deprecari
+                    culpam, qui huic <persName>Franciscano</persName><note type="critic">We do not
+                        know him more closely.</note> litteras ad te dederim.<note type="critic">See
+                        Ep. 436.</note><ref>/o:olahus.tei.15340102_1</ref> Sed, ut vere dicam,
+                    expugnavit me homo, ut est illud genus non nimis verecundum, assiduis
+                    flagitationibus, ut aliquid litterarum ad Tuam Excellentiam darem, quo illi
+                    aditus esset paratior ad ea, quae sine tuo sicut affirmat incommodo ambit. Tuo
+                    monitu si vera praedicat, istuc reversus, velut ad opportuniora institutae
+                    venationis <milestone unit="pb"/>tempora, quo sermone mihi certe plus iniecit audaciae, ut non sim
+                    veritus de illo ad te scribere, qui tibi notior est, quam mihi. Nam nisi quod
+                    aliquot praelectionibus interfuit, seque tum Graecae, tum Hebraicae linguae, per
+                    quam studiosum praedicat, equidem gravius testimonium non habeo dicere, quamquam
+                    in sua gente non videtur postremae notae. Quod si in hunc aliquid beneficii apud
+                        <persName>reginam</persName> conferre decrevisti, licet illi benefacere, ut
+                    homini, quem fortasse virum bonum experiundo comperies. Si ad eam rem non est
+                    opportunitas et idonea tempestas, verbum non amplius addo. Quod enim nec in mea,
+                    nec in amici causa quamtumvis coniuncti postularem a tanto viro, id pro ignoto
+                    nulla ratione debeo postulare. Bene vale, Domine Clarissime! </p>
+                <p><placeName>Lovanii</placeName> quinto Kalendas Aprilis anno
+                    MDXXXIIII.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

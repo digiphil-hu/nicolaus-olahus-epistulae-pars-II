@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">822</title>
+                <title type="main">Chapter of Oradea to Miklós Oláh (Oradea, 25 June 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520625_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter, seal is missing.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Bunyitay</hi> 1883, 385–386; <hi rend="smallcap"
+                        >Bunyitay</hi> 1887, 397–398.</note>
+                <note type="translation"><p><hi rend="italic"> In Hungarian:</hi>
+                    <hi rend="smallcap">Bunyitay</hi> 1883, 385. [regesta]; <hi rend="smallcap"
+                        >Bunyitay</hi> 1887, 397. [regesta]</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA Misc. Fasc. 425. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">24.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-25">25 June 1552</date>
+                <placeName>Oradea</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Chapter of Oradea</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Chapter of Oradea to Miklós Oláh (Oradea, 25 June 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. The Chapter of Oradea reports to Oláh that the Lutherans have come to
+                            Oradea after István Losonczy banned them from Pâncota, and they are
+                            threatening the unity of faith in the city. 2. They have not received
+                            any help, or at least the right to take action against them, from any
+                            secular leader, not even András (Bonaventura) Báthori. The Lutherans
+                            have already taken over several parishes, and they have thrown out the
+                            priests. They ask Oláh to intercede with the King so he intervenes in
+                            time, lest this epidemic spreads even further.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Domine nobis Gratiosissime, post humillima
+                    orationum nostrarum in Domino devotarum suffragia, obsequiorumque nostrorum
+                    promptam subiectionem!</p>
+                <p>[1.] Inter plurima mala, quae nos hoc turbulentissimo tempore undique
+                    perturbant, libentissime ac summa cum fidutia ad Reverendissimam Dominationem
+                    Vestram tamquam ad sacram anchoram sacerdotii dignitatis confugimus omnes post
+                    gratiosissimam sacrae maiestatis tutelam, quam non ambigimus unacum eadem
+                    Reverendissima Dominatione Vestra protectionem nostram gratiose velle suscipere
+                    et gratiosius nos capellanos suos in suam tutelam susceptos conservare cupere. </p>
+                <p>Temeraria ac caeca perversitas Lutheranorum, quos his proximis tantum
+                    diebus magnificus dominus <persName>Stephanus Lossoncy</persName><note
+                        type="critic">István Losonczy.</note> expulsos de oppido suo
+                        <placeName>Pankotha</placeName><note type="critic">Pâncota.</note> profugos
+                    ac divagos fecit, civitatem <placeName>Waradiensem</placeName><note
+                        type="critic">Oradea.</note> invasit virus<note type="critic">The Chapter of
+                        Oradea calls the Lutheran faith a virus or <hi rend="italic">pestis</hi>
+                        (plague) as did his contemporaries, István Brodarics, Chapter of Sibiu, and
+                        Camillo Ghilino, see <hi rend="smallcap">Kasza</hi> 2012, 92; <hi
+                            rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1902, 260; <hi
+                            rend="smallcap">Szilágyi</hi> 2022; in this edition: Ep.
+                        531.</note><ref>/o:olahus.tei.15350311_1</ref> perversae suae doctrinae nunc
+                    clam, nunc palam per singulas domos infundendo. Non desunt iam plerique, qui
+                        <quote>auribus prurientibus</quote><note type="quote">2Tim4, 3.</note> ita
+                    infecti sunt, ut timendum sit, ne alios nondum adhuc corruptos brevi tempore
+                    corruptissimos reddant, et sanam rempublicam nostram hactenus conservatam de
+                    meliore fidei conditione deturbent et pessumdent. </p>
+                <p>[2.] Auxilium autem vel potestatem puniendi pestiferos ipstos
+                    Lutheranos a nullo principe saeculari habemus, ne ab ipso quidem, qui<note
+                        type="critic">András (Bonaventura) Báthori was Voivode of Transylvania
+                        between 1552 and 1553.</note> in regimine episcopatus hic primas est, quem
+                    quia Lutherani factionis ipsorum persuasionibus favorabilem animadvertunt,
+                    audacter undique in rempublicam nostram confluunt, et impune quoscumque
+                    seducunt, plures etiam plebanatus iam nunc turpiter eiectis plebanis sub
+                    episcopatu Waradiensi occupaverunt, in quibus pro libidine sua Lutheranam
+                    tyrannidem exercent etiam nolente pro maiore parte populo. </p>
+                <p>Quare Reverendissimae eidem Dominationi Vestrae, velut confidentissimo
+                    patrono humillime et devote supplicamus, dignetur in primis ob divinae bonitatis
+                    respectum sacram <persName>regiam maiestatem</persName> nostri causa in hoc
+                    saluberrimo negotio interpellare, dignetur sacra sua maiestas mature subvenire,
+                    ne contagium hoc Lutheranorum <milestone unit="pb"/>latius in dies in cordibus fidelium serpere valeat, quod sua sacra
+                    regia maiestas facile nunc evitabit, si et mandata sua dederit et mandatis suis
+                    potestatem expellendi vel puniendi Lutheranos uni integerrimo ex fidelibus suis
+                    addiderit. </p>
+                <p>In reliquo, Eandem Reverendissimam Dominationem Vestram Deus altissimus
+                    diu felicem et incolumem nobis conservetur, cui nos humillime iterum atque
+                    iterum ex animo commendamus.</p>
+                <p>Datum <placeName>Waradini</placeName> sabbato post festum nativitatis
+                    beati Ioannis Baptistae anno Domini 1552.</p>
+                <p>Eiusdem Reverendissimae Dominationis Vestrae obsequiosissimi
+                    capellani</p>
+                <p>
+                    <seg type="signature">capitulum ecclesiae Waradiensis.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino, domino Nicolao Olaho episcopo Agriensi et
+                    cancellario sacrae regiae maiestatis Romanorum, domino nobis gratiosissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

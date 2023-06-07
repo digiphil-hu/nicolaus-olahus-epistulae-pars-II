@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">506</title>
+                <title type="main">Guilhelmus van den Steene to Miklós Oláh (Leuven, 18 September
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340918_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 522–523.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >386–387.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-09-18">18 September 1534</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Guilhelmus van den Steene</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Guilhelmus van den Steene to Miklós Oláh (Leuven, 18 September
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has gathered the courage to write to Oláh. He is ashamed anyway how
+                            arrogantly vacuous some of the monks are and how much they hate letters,
+                            but he has to obey the order to return from here – how unfair this will
+                            be for him, since there are no Erasmuses, Ressens or Wackerses. He is
+                            asking Oláh to help him. 2. Oláh says that van den Steene has promised
+                            to come to Brussels and wait for him there; it was easy for him to make
+                            such a promise because he desired his company, but then he concluded
+                            that he has nothing that would suit Oláh’s expectations, so they should
+                            better postpone this meeting to a time when he is certain that he will
+                            not be a burden for Oláh any more. He has started to teach Johann
+                            Henckel Jr., he is a talented and excellent young man.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Guilhelmus Lapidanus monachus Nicolao Olao salutem.<note type="critic"
+                        >On this letter, see <hi rend="smallcap">Verbeke</hi> 2005.</note>
+                </p>
+                <p>[1.] Tuus illibatus animi candor in tuis litteris<note type="critic">We
+                        do not know this letter.</note> abunde relucens Reverendissimae Dominationi
+                    effecit, ut meas ad te litteras posthac audentius sim emissurus, praesertim cum
+                    praeclarum semper existimarim et in primis optandum summatibus placuisse viris.
+                    Homuncio quidem sum infimae notae, sed quid tum? Si modo apud tuam dignitatem
+                    sim in aliquo numero, id sane in suprema portione felicitatis ducerem, atque
+                    inde (uti non dubito) ingens <choice>
+                        <orig>Αγαθῶν</orig>
+                        <supplied>ἀγαθῶν</supplied>
+                    </choice> σωρὸς<note type="critic">‘the masses of the good’.</note> mihi
+                    accresceret. Non equidem magnopere facio immensas opes supra popularem
+                    facultatem, quas non ambire docuit me mea tenuitas, modo alicubi mihi prospectum
+                    esset praesidio bonorum virorum de honesta aliqua conditione, ubi daretur libere
+                    citra amusorum molestias vivere in studio litterario, quo nihil <milestone unit="pb"/>mihi magis in votis. </p>
+                <p>Haec autem non existimes, Vir Doctissime, horsum spectare, tanquam mei
+                    instituti, nempe monastici (cui me consecravi perpetuo, cuius iugum fero ita
+                    lubens, ut quam lubentissime) me poeniteret, verum displicet mihi imperitia
+                    superba, et pertinax odium in litteras, praesertim eorum, qui tonsura et habitu
+                    monachismum professi, nihil sincere religionis operibus exprimunt. Habito nunc
+                    demum cum venia domini mei primatis <placeName>Lovanii</placeName> in
+                    contubernio doctissimorum virorum, quorum non est istic infecundus proventus,
+                    sed postquam inde fiet mei revocatio<note type="critic">From Leuven to
+                        Sint-Winoksbergen (Bergues-St. Winoc).</note> iussu superioris, cui
+                    obtemperandum est mihi in omnibus, di boni, quam inaequalis erit mihi haec
+                    commutatio! Non enim Erasmos, Budaeos, Goclenios, Rescios tum invenire dabitur.
+                    Itaque, mi Domine Observandissime, in tuum sinum ingenue effundo animi mei curas
+                    fretus nimirum tua iam e litteris perspecta humanitate, precor, summe tuam
+                    benevolentiam, si aliquando se offerat occasio promovendi Lapidanum (nam apud
+                    dominationem illustrissimam scio plurimum valere tuam authoritatem) velis tum
+                    redire in mei memoriam, measque partes agere, idque in studiorum gratiam, quorum
+                    ut tu inter magnates unicum lumen es, ita et ego inter tirones haud minimus sum,
+                    non dico cultor, sed admirator. </p>
+                <p>[2.] Quod scribit Tua Dominatio me iampridem exspectatum
+                        <placeName>Bruxellis</placeName>, quemadmodum Deo dato fidem dederam me
+                    venturum, hoc facis Hercle ex ingenita quadam ergo studiosos, tametsi de facie
+                    ignotos, propensione. Leviter id quidem spoponderam, nimirum tractus tam cari
+                    mei domini desiderio, sed ut mihi <del corresp="Olahus">voluptatis</del><add
+                        corresp="Olahus" type="corr">voluptati</add> erat istud polliceri, ita
+                    rursus mihi displicui, pennasque demisi, ubi succurrebat, nihil esse in me, quod
+                    tuae exspectationi respondeat. Hinc distuli, donec cognovissem id tibi gratum
+                    fore, nam se impudenter ingerere <del corresp="Olahus">in</del> colloquio,
+                    potissimum magnorum virorum hoc semper indecorum et agreste sum arbitratus.
+                    Veniam itaque propediem ob id, quia persuasum habeo nihil mea hac audacia te
+                    offensum iri; tum de omnibus latius colloquemur. </p>
+                <p>Dominum Ioannem, ni fallor, cognomine <persName>Henckel</persName><note
+                        type="critic">Johann Henckel the Younger.</note> suavissimae indolis ac
+                    optimae spei adolescentem iam in meam disciplinam recepi, spero me in erudiendo
+                    eo non lusurum operam, tam dextri est ingenii, tam ad litteras accommodi. Bene
+                    valeat Tua Dominatio, cui me velim semper commendatum. Raptim scriptum. </p>
+                <p><placeName>Lovanii</placeName> XVIII. Septembris <del corresp="Olahus"
+                        >1533</del><add corresp="Olahus" type="corr">1534</add>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

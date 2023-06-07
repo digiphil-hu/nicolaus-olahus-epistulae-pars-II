@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">642</title>
+                <title type="main">Miklós Oláh to Kristóf Batthyány (Prague, 21 January
+                    1544)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15440121_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 1314 – No. 34385.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1544-01-21">21 January 1544</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Kristóf Batthyány</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Kristóf Batthyány (Prague, 21 January 1544)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Oláh has understood from Batthyány's letter what he wants him to do: if
+                            the King sends him as a legate or on some other official trip, Oláh
+                            should promote Battyhány’s affairs alongside the ruler. Now the King is
+                            sending Battyhány to Zagreb, to the Slavonian assembly. Oláh asks
+                            Battyhány to promote the recovery of both the possessions of Oláh’s
+                            friends and his own tithe, as the King has ordered. The King has not
+                            responded to the letter regarding Batthyány’s payment, but Oláh will be
+                            on it. The King says about donating Gyulai’s estates that this cannot be
+                            done while Gyulai’s son is alive; so Oláh now turns to Batthyány,
+                            thinking that the King will listen to the servitors’ advice once Gyulai
+                            dies.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Salutem plurimam et mei commendationem, Magnifice Domine et Amice
+                        Honorandissime!<note type="critic">Kristóf Batthyány (†1571) was Royal
+                        Grand-cup-bearer from 1534 until his death, see <hi rend="smallcap"
+                            >Fallenbüchl</hi> 1988, 91.</note></p>
+                <p>Ex litteris<note type="critic">We do not know this letter.</note>
+                    Dominationis Vestrae Magnificae mihi redditis intellexi, quibus in rebus meam
+                    desideret operam. Si quae res et occasio occurrerit, in qua Dominatio Vestra
+                        <persName>suae maiestati</persName><note type="critic">King Ferdinand
+                        I.</note> servire possit, sive in legatione obeunda, sive in aliis negotiis
+                    curandis, ego ero apud maiestatem suam regiam, dominum nostrum clementissimum
+                    sollicitator Dominationis Vestrae Magnificae. Maiestas sua hanc eiusdem
+                    oblationem serviendi clementer et audivit et accepit. Nunc sua maiestas
+                    Dominationem Vestram ad conventum Sclavonium <placeName>Zagrabis</placeName>
+                    celebrandum designavit. Quam rogo, velit ibi bonis meis amicis et promotor esse
+                    in decimis meis restituendis, sicuti maiestas sua mandavit. <choice>
+                        <orig>De litteris</orig>
+                        <supplied>Ad litteras</supplied>
+                    </choice> ad <persName>Albertum praepositum</persName><note type="critic">Albert
+                        Peregi.</note> pro restitutione salarii dandas nondum sua maiestas
+                    respondit, ego tamen suam maiestatem sollicitabo. De bonis
+                        <persName>Gywlai</persName><note type="critic">István Gyulai was <hi
+                            rend="italic">viceispán</hi> of Varasd county and a retainer <hi
+                            rend="italic">(familiaris)</hi> of the Batthyány family. See <hi
+                            rend="smallcap">Terbe</hi> 2010, 60, and 66.</note>
+                    <del corresp="Olahus">petendis</del> Dominationi Vestrae Magnificae dandis
+                    respondit sua maiestas, quod interea, dum vivit adhuc filius illius unus,<note
+                        type="critic">János Gyulai (†1567), Ferenc Batthyány became his
+                        guardian.</note>
+                <milestone unit="pb"/> non potest cuipiam conferre bona illius legitime. Advertar igitur
+                    Dominationem Vestram de illius vivi adhuc filii vel morte, vel vita, et
+                    quamprimum eius exitum significet, maiestatem suam arbitror rationem servitiorum
+                    Dominationi Vestrae habituram. Ego vero in his, quibus a me fieri poterit, ero
+                    sincerus amicus et servitor Dominationis Vestrae, quae valeat feliciter, et me
+                    habeat commendatum.</p>
+                <p>Ex <placeName>Praga</placeName>
+                    <del corresp="Olahus">11</del><add corresp="Olahus" type="corr">21</add>.
+                    Ianuarii anno 1544.</p>
+                <p>
+                    <seg type="signature">Vester Nicolaus Olahus episcopus Zagrabiensis etc. sua
+                        manu</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Magnifico domino Christophori de Bathyan pincernarum regalium
+                    magistro, et consiliario regio etc. domino et amico honorandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

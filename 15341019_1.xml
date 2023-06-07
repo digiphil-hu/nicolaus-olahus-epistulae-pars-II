@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">517</title>
+                <title type="main">Christian Kellenaer to Miklós Oláh (Veurne, 19 October
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15341019_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 535–537.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >055–057.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-10-19">19 October 1534</date>
+                <placeName>Veurne</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Christian Kellenaer</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Christian Kellenaer to Miklós Oláh (Veurne, 19 October
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. It was difficult for him to decide that he can write to Oláh, who is
+                            busy with important public affairs, and he did not want to seem
+                            ungrateful either, especially not with Oláh – there are very few
+                            supporters of his among the adherents of the Christian religion who can
+                            support others with such zeal. 2. He has learnt that Oláh has also
+                            treated others with such magnanimity, and when he turned to Oláh for
+                            help, he did not reject him or send him away, instead he welcomed him to
+                            his family, put him up as a guest, to the extent that he felt that only
+                            the gods live like this. For this he will always be grateful, so it took
+                            him a while to take up a pen because he did not want to tarnish the
+                            beacon that had fallen on him. 3. As far as his affair is concerned, he
+                            will write about it another time because it will be a long story. In any
+                            case, he wants to let Oláh know that it was difficult for him that this
+                            winter they did not deepen their study of Greek together; he does not
+                            know what to think about this change, but he is certain that it can be
+                            explained. He asks him to support him and take him in when he is in
+                            Flanders next time. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p><persName>Christianus Sacheus</persName><note type="critic">Christian
+                        Kellenaer, Chrétien Kelders, or Christianus Cellarius taught Greek and Latin
+                        in the Pedagogy the Lily, then by 1530, he taught Greek at the Collegium
+                        Trilinge. For more on his life, see <hi rend="smallcap">De Vocht</hi> 1954,
+                        291–296 and passim; and <hi rend="smallcap">Polet</hi> 1936, 255–256.</note>
+                    Nicolao Olao servitium. </p>
+                <p>[1.] Diu dubius anxiusque steti, veluti in trivio haerens, num
+                    Dominationem Tuam meis litteris interpellarem, necne, alio enim recenti adhuc
+                    acceptorum beneficiorum stimulante memoria, quae sine summa ingratitudinis nota
+                    et nefario scelere me praeterire non posse colligebam, alio repellente pudore,
+                    cum verebar importunis meis neniis Tuae Dominationi maximis gravissimisque
+                    reipublicae muneribus occupatissimo obstrepere, amaram tamen hanc animi
+                    contentionem tandem discidi et quasi vim huic pudori intuli, vicitque gratitudo.
+                    Nam in alteram partem audaciam, scilicet vel in ingratitudinem peccandum erat,
+                    huic cedens victoriae palmam, in illam certe impingere malui, quod cum honestius
+                    mihi visum est et aequius, satiusque esse duxi <del corresp="Olahus">in
+                        amore</del> importunus magis, quam minus gratus videri. Quis enim tam
+                    obtuso, inepto et stupido pectore possit, ut a tanto praesule adeo magnifica
+                    insperata et omnino necessaria accepta beneficia non agnosceret? Quis tantum
+                    virum non tam genere clarum, quam virtute, eruditione, summa rerum prudentia,
+                    singulari quoque et rara quadam eloquentia, nobilem cum primis et insignem non
+                    admiraretur, suspiceret, observaret, <quote>nisi a cote natus, vel a tigride
+                        enutritus.</quote><note type="quote">Erasmus of Rotterdam to Francis
+                        Cassander on 6 March, 1531, see <hi rend="smallcap">Allen</hi> 1938, 156:
+                        “possem e cotibus prognatus, a tigride enutritus videri.”</note> Non enim
+                    quicquam auribus tuis datum iri putes, te obsecro, si quod res est, ipsa urget,
+                    libere dixero, rarissimas sane esse inter Christianae religionis professores seu
+                    cultores divini tui ingenii aves, tanta caritatis flamma accensi, tam attente
+                    rebus omnibus laudatissimis et maxime expetendis studiosi, tam candide et
+                    clementer <milestone unit="pb"/>omnia interpretantis, tanto studio, ardore adiuvandis (quos favore omni
+                    et auxilio destitutos cernis) inflammati, quod nuper evidentissimo argumento
+                    erga me declarasti. </p>
+                <p>[2.] Accepimus interdum et legimus quosdam beneficos et liberales in
+                    alios exstitisse, verum ab his officio prius vel obsequio fuisse provocatos. Tu
+                    vero me ignobilem prorsus et vel ipso <quote><persName>Iro</persName>
+                        pauperiorem</quote><note type="quote">Proverb, see Erasm. <hi rend="italic"
+                            >Adag.</hi> 576. I,VI,76. Iro, Codro pauperior.</note> ad haec
+                    ferocitate fortunae, ut numero, quod res est, dicam, ad stipem fere redactum,
+                    non ut iam vulgo fieri consuevit, operam tuam subsidiumque ambientem protinus
+                    contorto collo es aspernatus. Non <quote>torvo vultu</quote><note type="quote"
+                        >Cf. Ovid. <hi rend="italic">Met.</hi> XIII,3–4; Tac. <hi rend="italic"
+                            >Ann.</hi> XV,72.</note> reverberasti, non diris verbis reiecisti, sed
+                    hunc extremae sortis homunculum antea visum, nunquam nescio, quo fato, aut quo
+                    agitatus numine omnino certe praeter meritum et exspectationem benignissime in
+                    tuam familiam recepisti, nec ut vulgare aliquod mancipium quemadmodum, tamen
+                    fortuna postulabat mea, me tractasti, verum bonum bono accumulans, ut familiarem
+                    omnino et collegam, neque te mihi communem aulicum, sed vere Christianum
+                    exhibuisti, cum vili huic corpusculo tanta calamitate oppresso, mensam tecum cum
+                    deliciis cupedisque instructissimam, tum piis doctis honestisque colloquiis
+                    suavissimum gratissimumque convivium facere tua celsitudo dignata sit. Deorum
+                    equidem me vitam vivere existimabam prodigiosam, mehercule, in tanto rerum
+                    fastigio, comitatem illam et humanitatem quoties recordor, recordor autem
+                    quotidie, penitus obstupesco, nec potius quicquam in votis habeo, quoniam
+                    referendi beneficii nunquam mihi potestatem futuram scio, quam non a Mercurio,
+                    sed a Deo optimo maximo dignam heroinis tuis et multifariam animi virtutibus,
+                    quibus te exornatum et quasi coruscantem conspexi, commode exacteque
+                    concipiendis describendisque facultatem suppeditari, quo propensam saltem erga
+                    te meam voluntatem declararem. </p>
+                <p>At nunc, cum huic muneri rude meum ingeniolum multis partibus impar
+                    esse cognosco, manum reprimo, ne ebur atramento candefacere studens
+                    excellentissimas tui animi dotes, luce ipsa meridiana magis perspicuas, et
+                    nullis non admirandam tuam dignitatem meis <del corresp="Olahus">imbris</del>
+                    <choice>
+                        <orig>nebulisque</orig>
+                        <supplied>nebulis</supplied>
+                    </choice> obfuscem verius, quam illustrem. Hoc unum tamen dignitatem tuam minime
+                    latere volo, nempe me ei debere omnia meque ipsum, atque adeo esse obaeratum, ut
+                    dum vixero, nunquam meum nomen ex eius aere delere queam. Quare me uti
+                    deditissimo mancipio, uti licebit quando, quando volet, nequicquam <milestone unit="pb"/>enim imperare poterit, ubi non statim promptum et ad manum suum habebit
+                    Christianum, si modo quicquam esse possit, in quo illius tenuitas ipsi usui esse
+                    possit. </p>
+                <p>[3.] Ceterum de statu rerum mearum <del corresp="Olahus">domi
+                        tuae</del> scribam, quamprimum nactus fuero opportunitatem. Nam longior
+                    foret fabula, nec nunc tempus patitur, siquidem tot involvor, immo obruor
+                    negotiorum undis, et componendis domini mei litteris huc illuc transmittendis
+                    adeo occupor, ut vix aliquid mei meis habeam, et difficillime hanc unam
+                    extorserim epistolam. Hoc tamen imprimis te scire velim magnopere me dolere tuis
+                    non paruisse consiliis et quod ultro magnifica oblata liberalitate fruens,
+                    honestissimo Graecarum litterarum studio hanc tecum hiemem non transegerim,
+                    rectius profecto multo et consultius, tum meis moribus, tum studiis (nolo tamen
+                    male mihi ominari), sed ut protasin <del corresp="Olahus">videam</del><add
+                        corresp="Olahus" type="corr">video</add>, timeo catastrophen, fuisset
+                    prospectum, at nescio, quo pacto quasi a natura nobis innato vitio plerique
+                    omnes in re nostra caecutimus, et non nisi icti sentimus. Nam ut verbo dicam uno
+                    omnia, hic non nisi genialiter, asotice et bacchice vivitur, rarissima sunt
+                    sacra Minervae, ut interim sileam, si non exosos, saltem risui esse doctos et
+                    studiosos. Nequaquam enim <quote>amaracum sus sustinet,</quote><note
+                        type="quote">Cf. Erasm. <hi rend="italic">Adag.</hi> 338. I,IV,38: “Denique
+                        amaracinum fugitat sus”.</note> molestissimo, ita me Musae bene ament, animo
+                    fero, diram hanc et iniquam metamorphosim. Sed de his fusius aliquando, tua,
+                    rogo, dignitas congestum hoc tumultuarie et confuse chaos, planeque, quod dici
+                    solet <quote>scopas dissolutas,</quote><note type="quote">Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> 495. I,V,95. Scopae dissolutae. Scopas
+                        dissolvere.</note> benigne, ut omnia solet, interpretetur. Siquidem effusum
+                    ex tempore idque alta nocte, in mediis quoque negotiorum undis proxime
+                    scripturus ordine, rerumque dignitatem pro captus nostri imbecillitate et
+                    agresti nostra Musa sane observare curabimus.</p>
+                <p>Postremo te etiam atque etiam rogo et obsecro, ut, si quid sit, in quo
+                    Christiano tuo commodare poteris, ne graveris pii hominis, ut hactenus ultro et
+                    non lacessitus fecisti, praestare officium. Nam transactis his hibernis mensibus
+                    rursum in Flandriam, vel quo facta ferant, sum me recepturus. Vale. </p>
+                <p>Ex arce Furnensi in curia illustrissimi archiepiscopi Bremensis
+                    Octobris die undevigesimo 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

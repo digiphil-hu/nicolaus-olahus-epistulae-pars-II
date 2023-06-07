@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">509</title>
+                <title type="main">Cornelis de Schepper to Miklós Oláh (Cambrai, 4 October
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15341004_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                        <ref>/o:olahus.tei.15341011_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 524–526.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15341011_1" type="url">512</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >504–507.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-10-04">4 October 1534</date>
+                <placeName>Cambrai</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Cornelis de Schepper</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date when="1534-10-07">7 October 1534</date>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Cambrai, 4 October
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He wrote to Oláh before he left, but he has not received a response
+                            either to that or to the letter to the Queen, only Jean II Carondelet
+                            has replied. Now he is writing to the Queen briefly, emphasizing two
+                            things: on the one hand, he is on his way and has not received a letter
+                            from her; on the other hand, she should order the financiers to pay his
+                            wages both retrospectively and in advance. He is not greedy, he is not
+                            motivated by money like many other people, but he does not wish to look
+                            nonchalant, and so far they have not really made an effort to pay him.
+                            He has written about this to Wolfgang Haller as well. 2. Briefly about
+                            the Hungarian affairs. He has heard that Lodovico Gritti conquered
+                            Mediaș after killing Imre Czibak, then he fled to Belgrade, having lost
+                            his sons and others. Schepper’s opinion about this is that Szapolyai
+                            should subjugate himself to King Ferdinand I, otherwise he will not be
+                            able to deal with Gritti. The Hungarians do have something to fear while
+                            Ibrahim Pargalı Pasha is alive, but now there is an opportunity to
+                            change this. The King will either choose one of the two or neither of
+                            them. If he wants to keep the peace with the Turks, Gritti already
+                            thirsts for Hungarians’ blood. If he sides with the voivode and the
+                            Hungarians, he may win: the voivode should first receive his just
+                            punishment, then he should receive him back in his good graces; Schepper
+                            will recommend the same to the Queen. He is openly saying this to Oláh
+                            because there were some who participated in the negotiation but only
+                            looked after their own interests, not those of the state. Schepper will
+                            not spare time or effort to act in the state’s interest and asks Oláh to
+                            help him.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao <del corresp="editor">Olao</del> suo. </p>
+                <p>[1.] Ex <placeName>Brugis</placeName> ante dies quattuordecim
+                        scripsi<note type="critic">Ep.
+                        507.</note><ref>/o:olahus.tei.15340919_1</ref> ad Dominationem Vestram de
+                    abitu meo, quem conieci fore in brevi. Ad eas litteras, quas tum scripsi ad
+                        <persName>reginalem maiestatem</persName>, nihil dum mihi responsum fuit per
+                    eandem, nec per Reverendissimam Dominationem Vestram, solus
+                        <persName>Panormitanus</persName><note type="critic">Jean II
+                        Carondelet.</note> id fecit, quod exspectabam, quodque se facturum
+                    receperat, hoc est, rescripsit. Quia tamen ex ipsius litteris deprehendi fore,
+                    ut reginalis maiestas nonnulla ad me perscriberet, speravi una cum ipsius
+                    maiestatis litteris tuas quoque adfuturas; quod non accidit. Iterum nunc scribo
+                    ad maiestatem ipsius breviter, duo insinuans: alterum, quod iam sim in itinere
+                    et nihil invenerim litterarum; alterum, quod ab ipsius maiestate peto, ut istis
+                    financiariis iubeat mihi persolvi stipendium ordinatum ex officio consiliarii
+                    pro tempore absentiae praeterito et <milestone unit="pb"/>futuro, eo scilicet quo sum vacaturus, sicut vacavi in negotiis
+                    caesareae maiestatis, in quo non sum importunus. Tantum habeatur mei ratio sicut
+                    aliorum, prout vult caesar. Neque ex pecunia dependeo, sed ne penitus meis rebus
+                    desim, neve illi sibi iussum ab ipsius reginali maiestate non putent. Ego, sicut
+                    ille Deus testis est, qui in excelsis habitat, neque periculis, neque laboribus,
+                    neque fortunis, neque vitae meae peperci in rebus dominorum meorum, neque adhuc
+                    parcam, si modo sit ex usu reipublicae. Temere autem nunquam me amplius obiiciam
+                    sicut fieri, neque verbis inductus, neque minis. Nam ut
+                        <persName>poeta</persName><note type="critic">Sextus Propertius.</note>
+                    optime ait: </p>
+                <quote>
+                    <lg>
+                        <l>Mi natura dedit leges ex sanguine ductas,</l>
+                        <l>ut melior nequeam iudicis esse metu.</l>
+                    </lg></quote>
+                    <note type="quote">Prop. IV, 11,47–18: “mi natura dedit leges a sanguine ductas,
+                        / nec possis melior iudicis esse metu.”</note>
+                
+                <p>Tantum abest, ut ullius fortunae metu inducar, neque admodum moveor
+                    cupiditatibus, quae fere illudunt magnae parti hominum. Docuit enim me studium
+                    philosophiae ab huiusmodi rebus alienum esse. Neque tamen incurius<note
+                        type="critic">‘carefree’, see <hi rend="smallcap">Hoven</hi> 2006,
+                        274.</note> aut negligens omnino videri cuperem. Quare privatarum rerum eo
+                    libentius iniicio memoriam, et ut ostendam me Dominationi Vestrae nihil non
+                    maximum minimum fidere. Quare citra molestiam ubi tempus erit, Dominatio Vestra
+                    poterit admonere reginalem maiestatem, ut aerariis istis iubeat mei absentis
+                    rationem haberi. Nam etsi hoc fiat, adhuc satis indiligentes erunt in solvendo.
+                    Sufficit autem, ut intelligant maiestatis ipsius hanc esse voluntatem. Sequatur,
+                    quicquid potest. Scripsi de hac re ad <persName>Wolffgangum Haller</persName>. </p>
+                <p>[2.] De rebus Hungariae breviter dicam, quid sentiam. Intellexi
+                        <persName>Gritum</persName><note type="critic">Lodovico Gritti.</note> post
+                    patratam caedem <persName>Emerici Cybach</persName><note type="critic">In
+                        Gritti's absence, Imre Czibak plotted against him and became Deputy Voivode
+                        of Transylvania. Gritti later captured and beheaded him (12 August, 1534),
+                        as a result of which an uprising erupted against Gritti.</note> obsessum in
+                    oppido <placeName>Mitbisch</placeName><note type="critic">Mediaș.</note> et inde
+                    aufugisse <placeName>Bellogradum</placeName> amisso filio et aliis. Ea de re
+                    quid <milestone unit="pb"/>sentiam, hoc est. <persName>Ioannem Scepusiensem</persName><note
+                        type="critic">King John I.</note> et Hungaros omnes in extremam redactos
+                    esse necessitatem submittendi se <persName>Ferdinando</persName> regi, sine
+                    cuius auxiliis <persName>Grito</persName> pares esse non poterunt ex limitibus
+                    Turcorum adducturo quicquid illic est virium. Nam iussi sunt illi subesse
+                    sanchsachi omnes et efferate, tam ob acceptam ignominiam, quam ob
+                        <persName>Griti</persName> iunioris caedem, filii, cui parabat praeter
+                    episcopatum Agriensem dominium Transsylvaniae. Si bene meministi verborum inter
+                    nos habitorum, facile intelliges, quorsum res spectent. </p>
+                <p>Est et vivente <persName>Imbrahimo</persName><note type="critic">
+                        Ibrahim Pargalı Pasha.</note> bassa timendum Hungaris a Thurcis, nisi
+                    inveniant rationem sese tutandi adversus illorum violentiam. Et nunc tempus est,
+                    quale nunquam erit, neque de Maio praeterito aliquid aliud arbitrare, fuit enim
+                    ille causa secutarum et secuturarum rerum nostrarum, quales nosti. </p>
+                <p>Omnino habet rex duo, e quibus potest alterum desumere aut neutrum. Nam
+                    si servare vult pacem cum Turcis et permittere <persName>Gritum</persName>, qui
+                    iam leaena amisso catulo severior, inhiabit sanguini Hungarorum, quibus poterit <choice>
+                        <orig>maedis</orig>
+                        <supplied>modis</supplied>
+                    </choice>, in eosdem exercere impotentem iram, de qua nosti, erunt et Hungarorum
+                    et Turcarum vires longe minores. Conficient enim se invicem, et poterit tertius
+                    insurgere utrasque vires confecturus. Si se Turcis iungat, actum de Hungaris; si
+                    se <persName>vaivodae</persName> et Hungaris, dominabitur.
+                        <persName>Vaivoda</persName>, quas debet, poenas dabit, aut recipietur in
+                    gratiam, quod magis laudo. Et ut <persName>regina</persName> id consilium non
+                    aspernetur, etiam atque etiam admoneo. Ad te libere scribo, fuere homines quidam
+                    in causa, quominus plurima sint transacta, quae transigi in summum decus
+                    potuere. Hi solo studio rerum sunt privatarum ducti, quasi non illi ex salute
+                    publica <milestone unit="pb"/>dependerent, qua sine neque privatae securae esse possunt, sed ea fuit
+                    obcaecatio non vestra modo Hungarorum, sed et alibi adhuc eas iecit radices, ut
+                    difficilis sit exstirpatu. Nunc tandem tempus per me non stabit, neque huic
+                    corpori, quod semel devovi reipublicae atque utinam pro ea dignus essem, aut
+                    mori, aut vivere, sum parciturus. Vos modo, qui estis apud principem prudentia
+                    et cognitione rerum praeditam, et quod ad prudentiam maxime attinet, experientia
+                    adversarum rerum iam induratam, agitote, ut meminerit generis sui et
+                    authoritatis, quantumque in ipsius est maiestate, authoritate et iudicio non
+                    desit fratribus suis. Deesse autem posset, si non consuleret in medium, quae
+                    optima quaeque convenientissima. Nemo enim fratrum pace maiestatum ipsorum
+                    dixerim, tamdiu versatus est in Hungaria, neque melius novit res gentis illius.
+                    Haec ad te optimo animo scripsi. Res sunt in summo. Neque temere vaticinamur de
+                    malae gentis exterminio. Bene spera et vale. Ego summo mane abeo, si quid
+                    rescriptum voles, scribe in Hispanias. Vale iterum, Amice et Frater plusquam
+                    Dilecte. </p>
+                <p>Ex <placeName>Cameraco</placeName> 4. Octobris 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

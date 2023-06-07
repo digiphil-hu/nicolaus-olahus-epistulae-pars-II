@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">756</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Augsburg, 30 December 1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15501230_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"><hi rend="smallcap">Pray</hi> 1806, II, 224–225; <hi
+                        rend="smallcap">Karácsonyi–Kollányi–Lukcsics</hi> 1912, 454.
+                    [excerpt]</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 – Oláh Miklós – N. Tamás – No. 18.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-12-30">30 December 1550</date>
+                <placeName>Augsburg</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Augsburg, 30 December 1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They received news two days ago that Niklas von Salm had died in Eger
+                            after a short illness. Before his death, he wrote to Oláh that he wanted
+                            Oláh to be with him, and Oláh also wanted to be there, but it was not to
+                            be. If he had been in Eger, he would have performed his funeral; but he
+                            is still here, waiting for Queen Mary, and once she arrives, they will
+                            travel to Vienna together. The members of the royal family are well. He
+                            is waiting for a reply to two or three of his letters from Nádasdy, to
+                            whom he sends his regards, together with his wife.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Spectabilis et Magnifice Domine et Frater Observandissime, servitiorum
+                    meorum commendationem! </p>
+                <p>Hoc biduo venit huc fama dominum <persName>comitem a
+                        Salm</persName><note type="critic">Niklas von Salm.</note> post aliquanti
+                    temporis aegritudinem <placeName>Agriae</placeName><note type="critic"
+                        >Eger.</note> mortuum esse, corpore exesum.<note type="critic">For a long
+                        time, Salm’s time of death was dated February 1550 in the literature, based
+                        on <hi rend="smallcap">Bergmann</hi> 1844, 228. He was buried on 15 January,
+                        see Oppolitanus 1551. Based on this letter, news of his death arrived from
+                        eger to Augsburg on 28 December, in other words, he must have died at the
+                        beginning of December.</note> Doleo ex animo id hoc tempore contigisse, non
+                    solum propter me, sed magis propter <persName>maiestatem regiam</persName>,
+                    dominum nostrum clementissimum, sed quis fato resistere potest? Vereor, ne <add
+                        corresp="Olahus" type="insert">occulto Dei iudicio premamur, et ne</add>
+                    pedum Sancti Adalberti eum pupugerit, et calice Sancti Ioannis impeditus fuerit.
+                        <persName>Nadasdi</persName> non fuit ibi. Cupiebat pauper<note
+                        type="critic">Sc. Niklas von Salm.</note> (ut paulo ante mortem ad me
+                        scripserat)<note type="critic">We do not know this letter.</note> me ibi cum
+                    eo esse, et ego quoque certe id plurimum voluissem, sed fata restitere. Si eos
+                    comites habuisset, quos tempore occupationis <placeName>Agriae</placeName>,
+                    credo, quietori fuisset animo. Sed quid frustra de morte eius lacrimamur omnes
+                    nos, quoque idem manet finis, Deus animae illius misereatur. Si
+                        <placeName>Agriae</placeName> fuissem, extremum illi funus peregissem, et
+                    hoc, quod Christianus Christiano, episcopus mortuis debet, non praetermitto. </p>
+                <p>Nos adhuc hic haeremus. Exspectamus serenissimam
+                        <persName>Mariam</persName> reginam <add corresp="Olahus" type="insert">hoc
+                        biduo</add>, qua adveniente confectisque rebus credo nos non admodum diu hic
+                    moraturos, sed post unum mensem <placeName>Wiennam</placeName> versus
+                        profecturos.<note type="critic">They only leave for Vienna in March.</note>
+                    Imperator, regia maiestas, Maximilianus, Ferdinandus, princeps Hispaniarum,
+                    principes nostri clementissimi ex clementia Dei optime <milestone unit="pb"/>valent. Ego quoque mediocriter. Exspectabam ad binas aut ternas
+                    litteras meas a Dominatione Vestra responsum, sed hactenus nullum habui. Deus
+                    optimus maximus Dominationem Vestram cum domina
+                        <persName>coniuge</persName><note type="critic">Orsolya Kanizsai.</note> sua
+                    carissima, domina mea observandissima felicem conservare dignetur.</p>
+                <p>Ex <placeName>Augusta</placeName> 30. Decembris 1550.</p>
+                <p>
+                    <seg type="signature">Servitor et frater Agriensis etc. manu propria</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili et magnifico domino Thomae Nadasdi comiti perpetuo terrae
+                    Fogaras iudici curiae regiae maiestatis et supremo regni Hungariae capitaneo
+                    etc. domino et fratri observandissimo.</p>
+                <p>Ad manus proprias. Cito, cito, cito.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

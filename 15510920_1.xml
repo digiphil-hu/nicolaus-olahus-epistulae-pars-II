@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">783</title>
+                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 20 September 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510920_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 185 a – Oláh Miklós – N. Tamás – No. 29.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-09-20">20 September 1551</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Tamás Nádasdy</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 20 September 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He had wanted to celebrate his first mass as a bishop in Eger for a long
+                            time. He decided to celebrate it in Bratislava, at the next diet, where
+                            he has also invited his friends from Transylvania. He is sending the
+                            letters he wrote to them to Nádasdy, he should hand them over to them if
+                            the diet proceeds according to plan, but if things turn out differently,
+                            he should not hand the letters over. The Hungarians defeated quite a few
+                            Frenchmen in Italy.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Servitiorum meorum commendationem, Spectabilis et Magnifice Domine et
+                    Frater Observandissime! </p>
+                <p>Iamdudum fuit mihi animus, ut primitias meas
+                        <placeName>Agriae</placeName><note type="critic">Eger.</note> vel si ibi
+                    propter negotia regia fieri non posset, hic peragerem. Verum <choice>
+                        <orig>c<gap extent="unknown" reason="damage" unit="word"/>m</orig>
+                        <supplied>c<corr>u</corr>m</supplied>
+                    </choice> nec <placeName>Agriae</placeName>, neque hic hactenus id fuerit <gap extent="unknown" reason="damage" unit="word"/>, decrevi tandem, ut <placeName>Posonii</placeName>
+                    <choice>
+                        <orig>v<gap extent="unknown" reason="damage" unit="word"/>lum</orig>
+                        <supplied>v<corr>e</corr>lum</supplied>
+                    </choice> meum proficiam, si dieta ipsa celebrabitur. Quare quosdam amicos meos
+                    Transsilvanienses invitavi, litterasque meas ad illos datas ad Dominationem
+                    Vestram Magnificam misi eo proposito, ut si Dominationibus Vestris celebratio
+                    dietae secundum opinionem sacrae maietatis regiae indictae videbitur, litteras
+                    meas mittere ad eos, ad quos sonant, unacum regiis litteris velit. Si vero de
+                    dieta aliud Dominationibus Vestris videbitur, litteras quoque meas non mittat.
+                    In Italia nostri Hungari aliquot Gallos profligarunt. Dominatio Vestra Magnifica
+                    feliciter valeat, et mea servitia habeat commendata.</p>
+                <p>Ex <placeName>Vienna</placeName> 20. Septembris 1551.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Agriensis etc.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Spectabili ac magnifico domino comiti Thomae de Nadasd perpetuo terrae
+                    Fogaras ac comitatus Castriferrei comiti iudici curiae regiae maiestatis ac
+                    supremo regni Hungariae capitaneo etc. domino et amico observandissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

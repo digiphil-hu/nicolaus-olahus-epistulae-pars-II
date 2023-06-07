@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">477</title>
+                <title type="main">Cornelis de Schepper to Miklós Oláh (Dubrovnik, 3 April
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340403_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 485–486.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 303–305.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >498–499.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-04-03">3 April 1534</date>
+                <placeName>Dubrovnik</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Cornelis de Schepper</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Cornelis de Schepper to Miklós Oláh (Dubrovnik, 3 April
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. The Sanjak from Herzegovina has sent a servant and 40 horsemen for
+                            him, to lead him to Constantinople. He has also written that Lodovico
+                            Gritti is still there, and he is likely going to wait for him.
+                            Hieronymus of Zara is ailing in Rijeka. Something big is brewing on the
+                            sea: 200 Turkish boats are leaving, headed by Hayreddin Barbarossa
+                            Pasha. Ibrahim Pargalı Pasha has negotiated a truce with the Persians,
+                            and they are discussing peace, which the Turks are very happy about. 2.
+                            This is what he knows for certain. Now he is hitting the road and
+                            entrusts himself to the barbarians, whom – trusting the Lord – he is not
+                            only not afraid of, but he is hoping for victory. He will appear like a
+                            tyrant: with sword and crozier.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Cornelius Sceperus Nicolao Olao suo salutem. </p>
+                <p>[1.] Hodie misit ad me <persName>Perybeg Baltogly</persName><note
+                        type="critic">Balta oğlu Piri Bey. No data is available that he may have
+                        been the sanjak-bey of Herzegovina in 1534. Mihaloğlu besieged Klis together
+                        with Mehmed Bey, see <hi rend="smallcap"
+                            >Özkılıç–Coşkun–Sivridağ–Yüzbaşıoğlu–Toköz</hi> 2005, 33, 45; <hi
+                            rend="smallcap">Göyünç</hi> 1969, 26–27.</note> Sansachus Hertzogoninae
+                    ex slavis<note type="critic">‘slave’, see <hi rend="smallcap">Du
+                        Cange</hi>.</note> suum unum cum quadraginta equis,<note type="critic">i.e.
+                        equitibus. Fourty horses seem to be too many for two travellers.</note> qui
+                    me hinc sunt abducturi <placeName>Constantinopolim</placeName>. Scribit idem
+                        <persName>Sansachus</persName>
+                    <persName>Aloisium Griti</persName><note type="critic">Lodovico Gritti.</note>
+                    esse <placeName>Constantinopoli</placeName> adhuc, neque tam cito inde esse
+                    abiturum, hortatus, ut eo me conferam. Id quod facturus sum die Lunae proximo,
+                    non exspectato <persName>Hieronimo de Zara</persName>,<note type="critic"
+                        >Hieronymus of Zara.</note> qui in eis, quae regiam maiestatem concernunt
+                    mihi adiunctus, aegrotus mansit in <placeName>oppido Sancti Viti
+                        Liburniae</placeName>.<note type="critic">Rijeka.</note> Omnino magnum
+                    aliquid mari moliuntur Turcae parata classe ducentarum navium actuariarium,
+                    triremium dico et biremium. In quam piratae remigesque sine numero
+                    proficiscuntur indies. Huius ducatum habiturus est
+                        <persName>Barbarossa</persName>,<note type="critic">Hayreddin Barbarossa
+                        Pasha.</note> ab ineunte aetate piratarum alpha. Quid intendant, Deus novit,
+                    neque omnino me clam est, sed nunquam defuit suis ipsius gratia. Vae autem
+                    illis, per quos in id inductus est. <persName>Imbrahimus bassa</persName><note
+                        type="critic">Ibrahim Pargalı Pasha.</note> amissa parte copiarum nescio,
+                    quibus artibus iuvenes illos Persas fratres induxit ad inducias, quibus
+                    stantibus ipsorum <persName>Sophy</persName><note type="critic">Tahmasp I, Shah
+                        of Iran.</note> fratrum mater cum alter viro Persa sene, maximaeque in ea
+                    gente authoritatis <placeName>Constantinopolim</placeName> ventura est brevi de
+                    pace actura. Ipse <persName>caesar</persName> Turcarum, cuius re in ambiguo
+                    erant, rursus emersit. Non queo dicere, quanto cum gaudio Turcae nuntium hunc de
+                    induciis cum <persName>Sophy</persName> firmatis accepere. Longa enim militia
+                    erecti, ad hanc non inviti modo, sed desperati contendebant. Nunc autem
+                    feliciora tempora sperant. Nam quod ad classem attinet, non tam militum, quam
+                    remigum capax futura est, magisque praedationi, quam bello utilis quantumvis
+                        <milestone unit="pb"/>numerosa. Subsistit autem
+                        <persName>Imbrahimus</persName> Halapiae, donec, quid mater
+                        <persName>Sophy</persName> cum <persName>caesare</persName> magno
+                    transegerit, exploratum habuerit; neque in itinere est, quemadmodum ultimi
+                    tabellarii, qui ex <placeName>Constantinopoli</placeName> venerant, retulere.
+                    Illi enim nomine lapsi sunt <persName>Barbarossam</persName> pro
+                        <persName>Imbrahimo</persName> putantes. </p>
+                <p>[2.] Haec sunt, quae verissima esse ego scio. Dispono interim
+                    conscientiae meae hac Domini resurrectione,<note type="critic">Easter Monday was
+                        on 5 April.</note> ut sumpto viatico sanctissimi ipsius corporis et
+                    sanguinis, tutius audaciusque me committere possim fidei barbarorum, a quibus
+                    ipsius praesidio fretus nihil metuo, immo certissimam spero victoriam, et
+                    quorundam sceleratorum hominum conatibus obviaturum in rem totius reipublicae
+                    Christianae et principum nostrorum. Ibo autem tyrannico illo modo, quo priore
+                    vice, in gladio et baculo scilicet. Interim me serenissimae reginali maiestati
+                    et <persName>Panormitano</persName>,<note type="critic">Jean II
+                        Carondelet.</note> ceterisque dominis et amicis plurimum commenda. Et bene
+                    vale. Commenda me <persName>Conrado Goclenio</persName><note type="critic"
+                        >Conrad Wackers.</note> et <persName>Petro Aegidio</persName>,<note
+                        type="critic">Peter Gilles (1486–1533) was a humanist and a famous printer.
+                        He was a friend of Erasmus of Rotterdam and Thomas More, who dedicated his
+                        work <hi rend="italic">Utopia</hi> to him. Gilles died on 11 November, 1533,
+                        but Schepper would not have known of his death at the time of writing this
+                        letter. See <hi rend="smallcap">De Vocht</hi> 1961, 204–206.</note> si ad
+                    eos scripseris. </p>
+                <p>Ex <placeName>Rhagusio</placeName> 3. Aprilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

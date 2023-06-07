@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">462</title>
+                <title type="main">Miklós Oláh to Elek Thurzó (Brussels, [4 March] 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340304_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. Dating based on
+                        Ep. 480. <ref>/o:olahus.tei.15340413_3</ref>
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 462–464.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340413_3" type="url">480</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >401–402.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-03-04">[4 March] 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Elek Thurzó</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Elek Thurzó (Brussels, [4 March] 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He is worried that Thurzó is angry with him, and that is why he is not
+                            writing to him when he is still sending letters to others. Bálint Török
+                            still has his possessions, there has been no progress there. The feud
+                            between the Pope and King Henry VIII is intensifying. 2. He does not
+                            want to say too much about the Queen’s health, they hope that she will
+                            regain her strength once the weather gets better. If Thurzó is angry, he
+                            should drop it because he has no reason for it, and he should help them
+                            again with his old kindness. 3. Lodovico Gritti’s progress is slower
+                            than it should be, but he is not even certain any more if they can
+                            expect anything good from him. If he can, he should help him recover his
+                            estates from Bálint Török: Oláh is namely not an enemy of the King but
+                            his faithful servant and does not deserve this.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolaus Olaus ad Turzonem locumtenentem regium. </p>
+                <p>[1.] Subvereor, ne mihi succenseas, quod cum ad
+                        <persName>reginam</persName> et ad alios litteras tuas dederis, ad me
+                    nullas. Causam, cur id fiat, cogitare non possum, nam nullam unquam me
+                    praestitisse certo scio occasionem, quam ob rem hanc tui animi favoris et
+                    benevolentiae a me alienae praeberes demonstrationem. At fortasse nihil ego
+                    quoque scripsi, quo tuas ad me dares. Scripsi profecto, dum aliquid hic contigit
+                    scriptu dignum. Nec meum officium scribendi intermisi, sed a multo tempore nihil
+                    fuit, de quo scribere potuissem. Et praeterea postquam vidi nullum istic rerum
+                    mearum progressum fieri, <persName>Valentinumque Thewrek</persName><note
+                        type="critic">Bálint Török.</note> mea perinde ac hostis exigua bona vi
+                    tenere, in qua re aliquoties ad te scripsi, in rebus his meis privatis toties
+                    tibi obstrepere <add corresp="Olahus" type="insert">nolui</add>. </p>
+                <p>In aliis vero publicis nihil erat, in quo scribendum esset, praeter
+                    verborum scriptorumque inter <persName>pontificem</persName><note type="critic"
+                        >Pope Clement VII.</note> et <persName>regem Angliae</persName><note
+                        type="critic">King Henry VIII.</note> concertationem. Qui excommunicationem
+                    propter repudiatam <persName>reginam</persName><note type="critic">Catherine of
+                        Aragon.</note> contra se latam inique ferens, nunc indies ex Anglia famosos
+                    contra pontificem emittit libellos,<note type="critic"><hi rend="italic"
+                            >libellus famosus</hi> (plur. <hi rend="italic">libelli famosi</hi>)
+                        means ‘defamatory publication’, ‘libel’ or ‘pasquinades’. See Ep. 463. Cap.
+                        2. and Ep. 471. Cap.
+                        1.</note><ref>/o:olahus.tei.15340304_2</ref><ref>/o:olahus.tei.15340312_1</ref>
+                    qui aperte illius inoboedientiam et contemptum pontificis declarant; quae sicuti
+                    nihil mea intereat, ita <del corresp="Olahus">malim</del><add corresp="Olahus"
+                        type="corr">malui</add> ab aliis, quam me <milestone unit="pb"/>intelligi. </p>
+                <p>[2.] De <persName>reginae</persName> nostrae valetudine frequenti non
+                    putavi esse scribendum. Erat enim et est nunc quoque spes illius sanitatis
+                    pristinae recuperandae, cuius quidem sanitatis, si Dei voluntate contingeret,
+                    quam infirmitatis <del corresp="Olahus">malim</del><add corresp="Olahus"
+                        type="corr">malui</add> esse significator. Nihilominus etiam me ad te <add
+                        corresp="Olahus" type="insert">nil</add> scribente nunquam mei officii
+                    immemor fui, sed ut ab adolescentia semper, ita et nunc dum occasio se
+                    praestitit, hic tibi inservivi; quibus in rebus si non nunc, aliquando tamen
+                    intelliges; cuius mei in te officii plurimi sunt testes, tui nominis
+                    observantissimi. Quamobrem si aliquam in me indignationem, quam tamen non merui,
+                    ex meo silentio conceperis, rogo, eam depone et me tua pristina benevolentia,
+                    animo et favore prosequere. Nam ita tibi persuadeas me <del corresp="Olahus"
+                        >etiamsi</del><add corresp="Olahus" type="corr">sive</add> tacentem vel
+                    scribentem tibi <del corresp="Olahus">tamen</del> esse in omnibus honestis rebus
+                    deditum. Quod regina rarius scribat, quam solita fuit, infirmitati magis
+                    tribuendum est, quam alteri rei; quae fecit iam a multo tempore, ut non modo non
+                    scriberet et rebus aliquibus aut privatis aut publicis se immisceret, sed etiam
+                    ne domo egrederetur, verum speramus eam vernis amoenisque his temporibus
+                    advenientibus, convalituram; tunc ad te scribet. </p>
+                <p>[3.] <persName>Gritei</persName><note type="critic">Lodovico
+                        Gritti.</note> exitus tardior est, quam deberet; qui si etiam venerit, quid
+                    ab eo sperari possit boni in partem regis, nescio. Prius erat mihi spes aliqua,
+                    ut regnum miserum <add corresp="Olahus" type="insert">illud</add> aliquando
+                    pristinam suam libertatem recuperaturum esset. Nunc aut parva est, aut nulla,
+                    nisi Deus ultra humanam rationem miraculo rem Hungariae in pristinam redderet
+                    aut dignitatem, aut libertatem. Utcumque sit, credo te et alios dominos in rem
+                    maiestatis regiae consulturos, ne vestro tempore regnum illud perire possit, tam
+                    nobile, praeclarum et nuper inclytissimum. In meis rebus, si quid authoritate
+                    tua facere poteris, rogo, fac et effice, ut <persName>Valentinus
+                        Thewrek</persName> mea bona remittat. Non sum regis hostis, non patriae, non
+                    illius, sed potius ut mea fert conditio, horum omnium fidelis et bonus servitor, <choice>
+                        <orig>nonque</orig>
+                        <supplied>neque</supplied>
+                    </choice> mereor, ut hac me iniuria afficiat. Qua in re si aliquid feceris, ad
+                    ea, quibus me prosecutus es beneficia, non minimum adiicies cumuli. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

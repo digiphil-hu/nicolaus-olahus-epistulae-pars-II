@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">699</title>
+                <title type="main">[Mihály Révay] to Miklós Oláh [?], [1548])</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15480000_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Probably author’s copy with autograph
+                        emendations. Dating according to Fraknói. Today, the pages of the collection
+                        of letters are jumbled up. I followed Fraknói’s edition, see <hi
+                            rend="smallcap">Frankl</hi> 1873, 46.</p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Frankl</hi> 1873, 46.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>SNA</institution>
+                        <repository>SRA Korešpond. č. 91. Fasc. IX.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">80v and
+                                            79rv.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1548">[1548]</date>
+                <placeName>[?]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>[Mihály Révay]</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">[Mihály Révay] to Miklós Oláh [?], [1548])</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has heard from András Paludsky that Oláh is enjoying good health: he
+                            is very happy about this because what would be more desirable for him
+                            than Oláh being well? Oláh can namely not rest day or night, he is so
+                            busy with public affairs. He has heard that Oláh has authority with the
+                            King like nobody else. That is why he is asking for his help to make
+                            sure he can study in Italy for as long as possible, so that he can be of
+                            even more benefit to the homeland.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad reverendissimum dominum Nicolaum Olahum.<note type="critic">This
+                        letter can be found in the booklet containing Mihály Révay’s letters, it is
+                        probably an authorial draft or copy. Dating based on <hi rend="smallcap"
+                            >Fraknói</hi> 1873, 46. Mihály Révay (ca. 1530–1583), Ferenc Révay’s
+                        eldest son, who studied at the University of Padua. After his father’s death
+                        (1553), he became <hi rend="italic">ispán</hi> of Turóc county, from 1569
+                        Royal Counselor <hi rend="italic">(consiliarius Hungaricus)</hi>, and from
+                        1578 Royal Master of the Doorkeepers. Oláh supported him after his father’s
+                        death, see <hi rend="smallcap">Frankl</hi> 1873; and <hi rend="smallcap"
+                            >Pálffy</hi> 2009a, 10–12.</note></p>
+                <p>Intellexi ex <persName>Andrea Paluczki</persName>,<note type="critic"
+                        >András Paludsky or Palugyay was Imre Paludsky’s brother, see their father’s
+                        last will in 1546: MNL OL P 852. 1. No. 3. Imre was Royal Notary and Scribe
+                        from 1551 and 1554, reporting to Oláh, see <hi rend="smallcap">Fazekas</hi>
+                        2019, 31; and <hi rend="smallcap">Majláth</hi> 1891, 33.</note> Domine et
+                    Patrone summa observantia Colende, te prospera frui valetudine. Gratulatus sum
+                    profecto adeo hoc <del corresp="author">nunctio</del><add corresp="author"
+                        type="corr">nuncio</add>, ut affectum meum verbis exprimere non possim. Quid
+                    enim mihi <milestone unit="pb"/>optabilius, quid gratius evenire possit, quam
+                    te, in quo universa patriae nostrae cura tamquam in cardine posita est, recte
+                    valere? Tibi enim non die, non noctu quiescere licet, tantae tibi curae
+                    reipublicae conservandae causa incumbunt. Ita, ut recte illud Homeri observare
+                    videaris,</p>
+                <quote>
+                    <lg>
+                        <l>οὐ χρὴ παννύχιον εὕδειν βουληφόρον <choice>
+                                <orig>ἀνδρά</orig>
+                                <supplied>ἄνδρα</supplied>
+                            </choice>.</l>
+                    </lg></quote>
+                <note type="quote">Hom. <hi rend="italic">Il</hi>. 2,24.</note>
+                <p>Cognitum mihi est, Patrone Carissime, te imprimis authoritate apud
+                        <persName>regem</persName> valere, nullumque ex magnatibus aeque liberum ad
+                    eius maiestatem aditum habere. Quamobrem oro te, velis negotia nostra apud regem
+                    studio, consilio, authoritate promovere, <milestone unit="pb"/>ut diutius <del
+                        corresp="author">ingenia nostra</del><add corresp="author" type="corr">bonis
+                        studiis</add> in Italia excultrice ingeniorum operam navare <del
+                        corresp="author">litteris</del> possimus, quo tandem utilius patriae multis
+                    modis afflictae inserviamus. Quod si feceris, facies rem <del corresp="author"
+                        >et</del> te dignissimam, nobis utilem atque gratam, nosque perpetuo tibi ac
+                    familiae tuae devinctissimos reddes. Nec quin hoc summo studio facturus sis
+                    dubito, perspectum est enim mihi, quam tu adolescentibus studiosis faveas.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

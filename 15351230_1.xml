@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">555</title>
+                <title type="main">Miklós Oláh to Pieter Nanninck (Brussels, 30 December
+                    1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15351230_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi>
+                        <ref>/o:olahus.tei.15351229_1</ref>
+                        <ref>/o:olahus.tei.15351231_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication"><hi rend="smallcap">Nannius</hi> 1536, a3v–a4r; <hi
+                        rend="smallcap">Polet</hi> 1936, 245–246.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15351229_1" type="url">554</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15351231_1" type="url">556</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-12-30">30 December 1535</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Pieter Nanninck (Brussels, 30 December
+                    1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has received Nanninck’s <hi rend="italic">Declamatio</hi>, and he
+                            really liked it both for the pious reasoning and Nanninck’s persuasion
+                            that he wants to hear strong arguments. He thanks him for choosing him,
+                            and to his request he says: is Nanninck not moved by the opinion of all
+                            those smart friends who advise him not to keep this text fortified with
+                            arguments, authorities, and historical examples to himself? In his
+                            opinion, if anyone wants to talk him out of publication, he should
+                            ignore them and publish this work. The few trifles that he has compiled
+                            as notes he is sending attached to this letter. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolaus Olahus Petro Nannio salutem plurimam dicit. </p>
+                <p>Declamationem,<note type="critic"><hi rend="italic">Declamatio de bello
+                            Turcis inferendo</hi>, see Ep.
+                        554.</note><ref>/o:olahus.tei.15351229_1</ref> qua, Doctissime Nanni, nuper
+                    usus es in frequenti clarissimorum virorum consessu, heri ad multam noctem
+                    accepi. Quae adeo mihi arrisit, tum ob argumentum pium et sanctum, tum ob
+                    ingenii tui praestantis ad id persuadendum, quod velis validas rationes et
+                    argumenta, ut nulla me nunc res maiore voluptate adficere potuisset. Gratias
+                    igitur habeo tibi, mi Nanni, immortales, qui inter alios tuos amicos me
+                    potissimum delegeris, cui eruditionis et ingenii tui fructus communicares.
+                    Expetis meam censuram iudiciumque, cuius sententia vel supprimere, vel edere
+                    hanc tuam meditationem decreveris. Quid est, mi Nanni, in me, cuius rei causa
+                    meum praestoleris iudicium? An non te tot doctissimorum virorum, qui te
+                    audierunt, applausus sententiaeque movere debent, ne diu patiare tuam <milestone
+                        unit="pb"/>hanc et rationibus, et authoritatibus, et argumentis, et exemplis
+                    historiisque satis firmatam dictionem apud te desidere? Mea haec est sententia
+                    quantulacumque, ut etiam si qui essent, qui te ab edenda hac tua declamatione
+                    dehortarentur, tu tamen neglectis illorum verbis rem tam piam, iustam et
+                    necessariam, maxime hoc tempore, in vulgum prodere debes. Quare fac, Optime
+                    Nanni, ne nos et bonos omnes hac tua frustreris fetura. Quae autem mihi visa
+                    sunt ad rem bene declamatam aliquid afferre posse cumuli, ex meis istis
+                        παρεκβατικῶς<note type="critic">‘(discussed) through digressions’.</note>
+                    annotatis et huic epistolae subiunctis accipies. Vale. </p>
+                <p>Ex <placeName>Bruxella</placeName> tertio Kalendas Ianuarii 1535.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

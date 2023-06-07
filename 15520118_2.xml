@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">802</title>
+                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 18 January
+                    1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520118_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft with appendix on the fol. 2.
+                    </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"/>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 15 – 1552 – január – No. 15.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-01-18">18 January 1552</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Milkós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 18 January
+                    1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>The farmers belonging to the King’s castle in Čabraď are complaining
+                            again about János Krusics’s cruelty and ask him not to abandon them in
+                            this predicament and support them. They have written to the King,
+                            although reluctantly, lest he thinks they are guided by anger, so they
+                            ask Oláh to support these unfortunate people and not only remove this
+                            godless person but also punish him because these unfortunate people do
+                            not even dare open their mouth any more, Krusics punishes their envoys
+                            ruthlessly.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Domine et Patrone nobis Observandissime,
+                    servitiorum nostrorum commendationem!</p>
+                <p>En iterum venerunt huc coloni <persName>maiestatis regiae</persName> sacrae ex
+                    pertinentiis arcis <placeName>Chabrag</placeName><note type="critic"
+                        >Čabraď.</note> novas adferentes querelas de immanitate ac crudelitate
+                    ipsius <persName>Ioannis Krwsith</persName> rogantque propter Deum, ne eos in
+                    tantis calamitatibus deseramus, sed ipsos omni nostro auxilio iuvemus, si quo
+                    modo a tantis cruciatibus aliquod suspirium eis impetrare possimus. Scripsimus
+                    per annexas ad maiestatem suam, quamquam inviti, ne id nos aliquo modo affectu
+                    potius maiestas sua, quam re ipsa inductos facere existimet. Quamobrem et
+                    Reverendissimam Dominationem Vestram hac in parte vehementer oramus, <del
+                        corresp="author">istorum miserorum causam suscipere ac per occasionem apud
+                        maiestatem suam instare velit, ut tandem sua maiestas aliquando de istorum
+                        ex istius crudelis hominis tyrannide gratiosa eliberatione cogitare dignetur
+                        atque illum tyrannum aut alio transferre aut eius libidinem opprimendi
+                        coercere ac retundere velit. Qui ex inquisitione de sua crudelitate ex
+                        voluntate et mandato maiestatis regiae nuper facta, non modo nulla
+                        poenitudine ducitur, sed multo crudelior et miseris colonis intolerabilior
+                        est redditus et factus, ut plane cum quadam admiratione nobis est, quod
+                        maiestas sua regia tot de istius hominis immanitate, querelas silentio
+                        praeterire potest.</del><add corresp="author" type="corr">dignetur bonum
+                        patronum agere miserorum istorum idque Dei et pietatis respectu et per
+                        occasionem apud maiestatem regiam efficere, ut re ipsa, si ita placeat <del
+                            corresp="author">certe</del> denuo explorata non solum removeat nefarium
+                        hominem, sed puniri de iure faciat, eo iam miseros redegit, ut ne hiscere
+                        quidem audeant, sed nefandissima quaeque tolerare rogantur. Nam nuntios
+                        querelas deferentium odiosissime persequitur, nec tutum est vel litteras
+                        scibere vel mittere nuntios, nos non sine causa veremur, ne quid deterius
+                        accidat a desperatis colonis, qui <del corresp="author">hucusque</del> ad
+                        caelum clamant vindicem orantes.</add> Reverendissima Dominatio Vestra
+                    maximum pietatis opus fecerit, si se horum miserorum apud suam maiestatem
+                    benignum praestiterit patronum. Id quod ipsam <add corresp="author"
+                        type="insert">benigne</add> facturam esse confidimus, quam et feliciter
+                    valere optamus.</p>
+                <p><placeName>Posonii</placeName> die 18. Ianuarii 1552.</p>
+                <p>Reverendissimae Dominationis Vestrae deditissimi servitores</p>
+                <p>
+                    <seg type="signature">Camerae Hungaricae consiliarii.</seg>
+                </p>
+            </div>
+            <div style="handwritten" type="verso">
+                <pb/>
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino Nicolao Olaho episcopo ecclesiae Agriensis, sacrae regiae
+                    maiestatis consiliario ac regni Hungariae summo cancellario etc. domino et
+                    patrono nobis observandissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

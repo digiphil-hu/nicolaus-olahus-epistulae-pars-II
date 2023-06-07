@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">436</title>
+                <title type="main">Conrad Wackers to Miklós Oláh (Leuven, 2 January 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName> DigiPhil <ref type="url">http://digiphil.hu</ref>
+                    </orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340102_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                        <ref>/o:olahus.tei.15340115_2</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 438–439.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Firu</hi> 1968, 146–147.</p></note>                 <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15340115_2" type="url">441</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository> P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >189–190.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-01-02">2 January 1534</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Conrad Wackers</persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Conrad Wackers to Miklós Oláh (Leuven, 2 January 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Good people also support the causes of good people’s
+                            friends. 2. Wackers thus recommends Francis Dilft to Oláh’s attention,
+                            who excels even among his students in terms of his erudition and
+                            eloquence.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Conradus Goclenius domino Nicolao Olao secretario et consiliario
+                    reginae Mariae.</p>
+                <p>[1.] Non solum <quote>boni ad bonorum convivia ultro
+                        accedunt,</quote><note type="quote">Erasm. <hi rend="italic">Adag.</hi> 935.
+                        I,X,35. Boni ad bonorum convivia ultro accedunt.</note> ut est in proverbio,
+                    verum etiam, cum similitudo sit <quote>amicitiae conciliatrix,</quote><note
+                        type="quote">Cf. Cic. <hi rend="italic">Lael.</hi> 37.</note> boni bonorum
+                    amicitias non solum conviviis, sed omnibus rebus humanis potiores ultro ambiunt.
+                    Haec enim est vis virtutis, ut ubicumque apparet, ardorem quendam mutuae
+                    benevolentiae in generosis animis excitet, cum autem saepe numero quantum
+                    tenuitas orationis nostrae patiatur, tuas eximias virtutes et raras ingenii
+                    dotes, incredibilem modestiam et erga omnes eruditione eminentes animum
+                    benevolentissimum depraedicarem. </p>
+                <p>[2.] Huiusmodi facem animo domini <persName>Dilfi</persName><note
+                        type="critic">Probably Francis Dilft or Frans van der Dilf (†1550). For more
+                        on his life, see <hi rend="smallcap">Allen</hi> 1926, 256–257; and <hi
+                            rend="smallcap">Bierlaire</hi> 1985. According to Wacker’s later letter,
+                        the recommended person was a Franciscan monk, see Ep.
+                        475.</note><ref>/o:olahus.tei.15340328_1</ref> subieci, ut nisi se quocumque
+                    modo in ius necessitudinis tuae insinuet, vitam sibi omnino iniucundam sit
+                    putaturus. Proinde apud me egit omni genere contentionis obtestationisque, ut
+                    illi apud te amicitiae iter patefacerem. Ego vero homini nobili, re lauta ac
+                    splendida, et quod mihi illum arctissima necessitudine copulavit, inter tot meos
+                    discipulos eruditissimo et exacti iudicii et facundiae praecellentis, id quod ex
+                    oratione eius ad caesarem augustum, quam ad te pro testimonio adiunxi, facile
+                    intelliges, <milestone unit="pb"/>hoc officium denegare non potui, omnino
+                    denegaturus nisi <persName>Dilfum</persName> nostrum omnibus modis tuae
+                    amicitiae idoneum iudicarem. </p>
+                <p>Quem si digneris propius inspicere, certo scio illum sic tuae
+                    excellentiae in amicitia responsurum, ut dicturus sis non minus praeclare tecum
+                    esse actum propter talis viri in amicorum tuorum accessionem, quam ille sese
+                    putabit esse felicem, si a benevolentia tua non excludatur. Quod ad me attinet,
+                    tantum abest, ne verear illud Horatianum: <quote>ne incutiant aliena mihi
+                        peccata pudorem,</quote><note type="quote">Hor. <hi rend="italic"
+                            >Epist.</hi> II, 18, 77.</note> ut ex <persName>Dilfi</persName> nostri
+                    integritate et amoenissimis moribus me quoque aliquid gratiae adepturum ausim
+                    sperare, qui illum mea commendatione tuae dignitati quasi in manus tradiderim.
+                    Bene vale. </p>
+                <p><placeName>Lovanii</placeName> 4. Nonas <choice>
+                        <orig>Ianuarii</orig>
+                        <supplied>Ianuarias</supplied>
+                    </choice> anno 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

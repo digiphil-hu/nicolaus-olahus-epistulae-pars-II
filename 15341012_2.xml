@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">514</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 12 October 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15341012_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 532–534.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >393–394.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-10-12">12 October 1534</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 12 October 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He did not write because he was supposed to travel to King Ferdinand
+                            I. He is happy to hear that the Queen is feeling better, and Ambrogio
+                            Candiano will already be there in case she gets ill again. 2. Will he
+                            briefly summarize what is going on with everyone? With Francesco II
+                            Sforza, Christina of Denmark, Erasmus of Rotterdam, and King Christian
+                            II. They have heard that King Henry VIII is still living with his
+                            mistress, but she is said to be discontented, wanting to instigate the
+                            King to great vileness. The death of More and Fisher would be a great
+                            loss for Christianity. He asks him to inform him about the Münster
+                            affair, the reason Philip II, Count of Nassau-Wiesbaden has left, and
+                            when his globe is going to be ready. 3. As far as the Italian affair is
+                            concerned: Pope Clement VII died on 25 September, following a long
+                            illness; the Cardinals have arrived, and they entered the conclave on
+                            the day before the ides of October – if only they elected a good pope!
+                            4. Hayreddin Barbarossa Pasha has crossed over to Africa and occupied
+                            Tunis. A monster was born in Veroli on 21 September. The Italian fleet
+                            is getting ready; if the Veneti side with us, there will be a clash with
+                            Barbarossa. Ibrahim Pargalı Pasha is said to have been driven out by the
+                            King of Persia, and he has lost 30,000 of his men. Lodovico Gritti has
+                            had Imre Czibak killed, and he is attacking a castle in Transylvania –
+                            if only he was brought to justice! </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Camillus Gilinus <add corresp="Olahus" type="insert">secretarius ducis
+                        Mediolani</add> Nicolao Olao secretario etc. salutem. </p>
+                <p>[1.] Accepi uberrimas litteras tuas XXI. Septembris datas,<note
+                        type="critic">We do not know this letter.</note> officii humanitatis
+                    plenissimas, quibus iamdiu testatam singularem tuam erga me benevolentiam novo
+                    mihi scribendi genere confirmas. Non est, Olahe Honoratissime, quod mecum
+                    taciturnitatem multorum dierum excutes. Nos, inquam, nos in causa fuimus, qui me
+                    brevi in Germaniam ad serenissimum <persName>regem</persName> profecturum tot
+                    litteris testati sumus.<note type="critic">See Ep.
+                        505.</note><ref>/o:olahus.tei.15340827_1</ref> Laetor
+                        <persName>reginam</persName> nostram rarissimam et cum illa antiquitate
+                    clarissima conferendam bene valere, nec est, quod autumnum timeas, in tempore
+                    enim <persName>Candianum</persName><note type="critic">Ambrogio Candiano.</note>
+                    habebitis, si quid sinistri impenderet, sed puto deos omnia nostra fortunaturos.
+                    Non possum non permulta maiestati suae debere, quae clementia sua me nihili
+                    hominem comprehendat. Ego pro hac re ne ingratus videar, ut soleo, istius animi
+                    magnitudinem et in omnibus rebus excellentissimam virtutem admirari non
+                    desistam, hoc certe consilio, ut pro eius servitio caput meum semper exponam. </p>
+                <p>[2.] Dux meus maiestatem suam, ut vere servum decet, suspicit et
+                    admiratur, et lectione tuarum litterarum valde delectatur.<note type="critic"
+                        >Ep. 511.</note><ref>/o:olahus.tei.15341010_1</ref> Dux illustrissima
+                        <persName>Christina</persName>,<note type="critic">Christina of Denmark,
+                        Duchess-consort of Milan.</note> ne istic negligentiae arguatur, crebrius
+                    scribet. <persName>Roterodamus</persName> noster, quem summe observo propter
+                    illam ingenii vim et singularem doctrinam, et famae et vitae suae consuluit, dum
+                        <placeName>Friburgi</placeName>, quod reliquum est, consumere in animo
+                    habet. Mihi crede, nunquam nebulones isti vestri censores pulpitarii,<note
+                        type="critic">“Liber, ut videtur, continens quae ad pulpitum cantantur, vel
+                        recitantur.” See <hi rend="smallcap">DuCange</hi> 1883.</note> qui in
+                    patinarum contemplatione non Christi vitae, in ventrem et nates creverunt, ut
+                    cucurbitae, a maledictis abstinuissent, adipi et ventri suo nati. Quae de
+                        <persName>Christerno</persName><note type="critic">Probably, Christian II of
+                        Denmark, the father of Christina.</note> rege nobis scripsisti, duces mei
+                    aequissimis auribus et libentissime audivere. Di faciant, si in caesaris rem
+                    est, ut reliquae votis nostris res pendeat, idque ut ex litteris tuis
+                    intelligamus, operam diligenter dabis. </p>
+                <p><persName>Regem Anglum</persName><note type="critic">King Henry
+                        VIII.</note> cum <choice>
+                        <orig>pollice</orig>
+                        <supplied><persName>paelice</persName></supplied>
+                    </choice><note type="critic">Anne Boleyn.</note> adhuc vivere relicta
+                        <persName>coniugis</persName><note type="critic">Catherine of Aragon.</note>
+                    suae consuetudine audiebamus, verum ex Gallia incerto quodam rumore ferebatur, <choice>
+                        <orig>pollicem</orig>
+                        <supplied>paelicem</supplied>
+                    </choice> non bene de rege contentam, et ipsum regem facinoris tanti conscientia
+                    frigide <choice>
+                        <orig>pollici</orig>
+                        <supplied>paelice</supplied>
+                    </choice> auscultare; hoc si verum est, ex te scire optamus. Magnum certe
+                    naufragium respublica Christiana fecisset ex morte
+                        <persName>Roffensis</persName>,<note type="critic">John Fisher.</note> item
+                        <persName>Mori</persName>,<note type="critic">Thomas More.</note> quorum
+                    integritatem et doctrinam omnes boni in caelum ferunt. Monasteriensis<note
+                        type="critic">Münster.</note> expeditionis exitum fac ex tuis litteris
+                    intelligamus. Item quid afferat <persName>dominus a Nassau</persName><note
+                        type="critic">Philip II, Count of Nassau-Wiesbaden (1515–1566).</note> et
+                    abitionis eius a caesare causam, et num globus meus <milestone unit="pb"/>ad umbilionem pervenerit.<note type="critic">‘to reach the end, to be
+                        finished’, see <hi rend="smallcap">Hoven</hi> 2006, 593.</note></p>
+                <p>[3.] Res Itala in hoc statu est: pontifex <persName>Clemens
+                        VII</persName><note type="critic">Pope Clement VII.</note> moritur XXV.
+                    Septembris ex longa aegritudine, parentalia ei decernuntur more antiquo. Gallici
+                    cardinales VII <placeName>Romam</placeName> ingressi sunt VI. Kalendas Octobris.
+                        <persName>Salzpurgensis</persName>,<note type="critic">Matthäus Lang von
+                        Wellenburg.</note> item <persName>Tridentinus</persName><note type="critic"
+                        >Bernhard von Cles.</note> sunt in itinere. Urbani ad electionem futuri
+                    pontificis non parum factioni caesaris proderunt. Utinam Hispani adessent,
+                    melior quippe res nostra foret. Candidati pontificatus sunt <persName>Firnesius
+                        Hipporediensis</persName>,<note type="critic">Alessandro Farnese,
+                        Cardinal-Bishop of Ostia e Velletri, who became Pope Paul III. On his
+                        election and his reign, see <hi rend="smallcap">Rebecchini</hi> 2007.</note>
+                    <persName>Campeius</persName>,<note type="critic">Lorenzo Campeggio.</note>
+                    <persName>Senensis</persName>,<note type="critic">Probably Giovanni Piccolomini,
+                        Archbishop of Siena between 1503 and 1529. He became a Cardinal in
+                        1517.</note>
+                    <persName>Sanctoseverinus</persName>,<note type="critic">Antonio
+                        Sanseverino.</note>
+                    <persName>Savonensis camerarius</persName>,<note type="critic">Agostino Spinola,
+                        Camerlengo of the Holy Roman Church and Administrator of Savona.</note>
+                    <persName>Franciscus Sanctae Crucis Hispanus</persName>,<note type="critic"
+                        >Francisco de Quiñones, Cardinal-Priest of S. Croce in Gerusalemme.</note>
+                    <persName>Ciko Genuensis</persName>.<note type="critic">Innocenzo Cibo,
+                        Archbishop of Genoa.</note>
+                    <placeName>Romae</placeName> satis tranquille agitur. <persName>Ascanius
+                        Columna</persName><note type="critic">Ascanio I Colonna (1500–1557) was Duke
+                        of Urbino, recognized by Emperor Charles V as Grand Contestable of the
+                        Kingdom of Naples in 1520. For more, see <hi rend="smallcap">Petrucci</hi>
+                        1982.</note> rebus urbanis moderatur et pacatam civitatem habet. In conclavi
+                    cardinales omnes pridie Iduum Octobris<note type="critic">Ghilino was wrong: the
+                        election ended on the following day (13 October), not on 14 October. The
+                        election only lasted three days, from 11 to 13 October, see <hi
+                            rend="smallcap">Rebecchini</hi> 2007, 157.</note>
+                    <choice>
+                        <orig>intrabant</orig>
+                        <supplied>intrabunt</supplied>
+                    </choice>, utinam nobis pontificem designent bonum, cuius arbitratu et
+                    authoritate respublica meliorem statum sortiatur. </p>
+                <p>[4.] <persName>Aenobarbus</persName> cum classe in Aphricam traiecit,
+                    et <placeName>Tunetum</placeName><note type="critic">Tunis.</note> occupavit.
+                        <persName>Regulus</persName><note type="critic">Abu Abdallah Muhammad V
+                        al-Hasa (1526–1543).</note> in arce satis debili adhuc se continet, nec
+                    caesaris auxilio frustrabitur. <placeName>Verulis</placeName><note type="critic"
+                        >Veroli.</note> ab Urbe Roma per XXXX lapidem distantibus natum est
+                    monstrum, ad hoc exemplum, XXI. Septembris. Quod reginae ostendes, item
+                        <persName>Lucretiae Virgini</persName>.<note type="critic">Lucretia Caballis
+                        (vom Ross).</note> Classis in regnis <placeName>Neapolis</placeName> et
+                        <placeName>Siciliae</placeName> LXXX triremum nomine caesaris, item
+                        <placeName>Genuae</placeName> et in Hispaniis paratur, quae proximo vere
+                    exibit adversum Turcicam. Si Veneti nobiscum sentiunt, actum certe esset de
+                        <persName>Aenobarbo</persName>. Fama nos tenet
+                        <persName>Imbraimum</persName><note type="critic">Ibrahim Pargalı
+                        Pasha.</note> a <persName>rege Persarum</persName><note type="critic"
+                        >Tahmasp I, Shah of Iran.</note> penitus profligatum et in eo proelio ad XXX
+                    millia equitum Turcarum desiderata. Si quid ulterius certe audiemus, dabo
+                    operam, ut scias. <persName>Gritteus</persName>,<note type="critic">Lodovico
+                        Gritti.</note> cuius iussu <persName>Cibak</persName><note type="critic"
+                        >Imre Czibak.</note> in Transsilvania trucidatus fuit, in arce quadam<note
+                        type="critic">Mediaș.</note> obsidetur intercepta maiori suorum parte a
+                    Transsilvanis. Utinam suae temeritatis poenas luat.
+                        <persName>Dux</persName><note type="critic">Francesco II Sforza.</note> meus
+                    te valde diligit, tum virtute tua, tum ob servitium erga maiestatem reginae
+                    fidelem tuum. Serenissimae dominae <persName>reginae</persName>, dominae nostrae
+                    clementissimae, item illustrissimae <persName>Dorotheae</persName><note
+                        type="critic">Dorothea of Denmark.</note> et <persName>Virgini
+                        Lucretiae</persName> me multum commendabis. Item omnibus amicis. Vale,
+                    Amicorum Optime! </p>
+                <p><placeName>Mediolano</placeName> IIII. Iduum Octobris 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">607</title>
+                <title type="main">Miklós Oláh to King Ferdinand I [Brussels, 1538]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15380000_2</idno>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature. Undated
+                        letter attached to two Memoriales written on Queen Mary’s behalf. </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 38.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">66r–68v.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1538">[1538]</date>
+                <placeName>[Brussels] </placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to King Ferdinand I ([Brussels, 1538])</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. King Ferdinand I should send one of his councilors to travel to the
+                            mining towns together with the Queen’s councilors and commissioners and
+                            represent King Ferdinand there. The Queen recommends this person to be
+                            Georg Werner, who is well-versed both in the language and local affairs.
+                            2. Because last year the Queen was stripped of her income from the
+                            estates of Khust and Mukachevo as well as other estates by force, she is
+                            asking for his advice as to how she could recover them. 3. King
+                            Ferdinand I recently asked the Queen to send the letter of inscription
+                            about the thirtieth in Bratislava, but because the Queen thinks that
+                            some want to take advantage of the situation and want to claim the
+                            thirtieth for themselves, she asks him not to allow this to happen and
+                            not to act against her rights. In addition, the Queen hopes that King
+                            Ferdinand I will leave the thirtieth with the Queen, as he declared in
+                            his own hand in 1534. 4. Although the Queen holds Mosonmagyaróvár, it is
+                            the property of the King and his children, and because it is important
+                            in terms of defense, it should be fortified, lest it become an easy
+                            entryway for the Turks. The Queen has already spent 4,000 Rhenish
+                            florins on fortifying it from her own money, King Ferdinand I should
+                            support her in this in his letter – the Queen will do everything she can
+                            to support the fortification. 5. The Queen has heard that King Ferdinand
+                            I is sending commissioners to chart the mines in Banská Bystrica. King
+                            Ferdinand I has written to Queen Mary several times to return the Sopron
+                            tithe, but Queen Mary asks him to officially transfer this property to
+                            her. 6. Although Zsigmond Stettner, the Mosonmagyaróvár thirtieth tax
+                            collector who has abused his office several times when collecting the
+                            tax, restrained himself at the King’s order last year, the Queen asks
+                            that he stop his excessive tax collection, and King Ferdinand I instead
+                            transfer the oversight of collecting the thirtieth to the Vienna
+                            Treasury.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Serenissime et Potentissime Rex, Domine Clementissime!</p>
+                <p>[1.] Serenissima domina mea, <persName>Maria regina</persName> etc., soror
+                    Maiestatis Vestrae Sacrae carissima, domina mea clementissima vigore
+                    commissionis mihi datae, haec me <gap extent="1" reason="damage" unit="word"/>entur ex affectu sororio a Maiestate Vestrae Sacra pro hoc tempore praesenti
+                    optat.</p>
+                <p>Maiestas Vestra Sacra dignetur unum ex consiliariis suis deligere, qui cum
+                    consiliariis et commissariis serenissimae dominae reginae meae ad hoc deputatis
+                    et etiam consiliario sacrae caesareae maiestatis, qui una aderit, nomine Vestrae
+                    Sacrae Maiestatis proficiscatur ad montanas civitates et intersit illis
+                    tractatibus et rebus agendis, quae istic curari, provideri ac pro necessitate
+                    tractari et consuli debebunt, et specialiter in his, quae pertinebunt ad negotia
+                    regni et qui unanimi ac concordi cum aliis commissariis consilio ea maxime
+                    curet, quae ad bonum et commodum ambarum Maiestatum Vestrarum et regni Hungariae
+                    pertinebunt. Quia autem egregius <persName>Georgius Vernerus</persName>,<note
+                        type="critic">Georg Werner (ca.1490–1556) was a Notary, and later a Judge in
+                        Prešov in the 1530s. From 1534, he was <hi rend="italic">camerae
+                            magister</hi>, and he became Royal Councillor in 1536. From 1552, he
+                        participated in the reorganization of the Transylvanian financial system,
+                        see <hi rend="smallcap">Póka</hi> 2011; <hi rend="smallcap">Rensing</hi>
+                        1933; <hi rend="smallcap">Csepregi</hi> 2006.</note> Maiestatis Vestrae
+                    consiliarius tum propter linguae scientiam, tum quia etiam antea in rebus
+                    montanis, veluti commissarius eo missus versatus fuerit, illarumque rerum
+                    tractandarum experientiam habeat, petit serenissima regina mea Maiestatem
+                    Vestram Regiam, velit hunc <persName>Georgium Vernerum</persName> nomine suo ad
+                    hanc provinciam obeundam mittere.</p>
+                <p>[2.] Cum res Hungarica in eum pacis statum iam devenerit, quem Maiestas Vestra
+                    Serenissima novit, et serenissima regina mea bonis suis, nempe cameris salium
+                    Maromarusiensium ac castris <placeName>Hwzth</placeName>,<note type="critic"
+                        >Khust.</note>
+                    <placeName>Mwnkach</placeName>,<note type="critic">Mukachevo.</note>
+                    <placeName>Diosgyewr</placeName>,<note type="critic">Diósgyőr, part of Miskolc
+                        today.</note>
+                    <placeName>Czepel insula</placeName>,<note type="critic">Csepel island, belongs
+                        to district XXI of Budapest today.</note> ac oppidis <placeName>Veteri
+                        Buda</placeName><note type="critic">Óbuda, district III of Budapest
+                        today.</note> ac <placeName>Kelenfewlde</placeName>,<note type="critic"
+                        >Kelenföld, part of district XI of Budapest today.</note> necnon aliis bonis
+                    a multis annis violenter privata fuerit, earumque omnibus proventibus frustrata,
+                    dignetur Maiestas <milestone unit="pb"/>Vestra Sacra pro eo amore ac benevolentia fraterna, qua erga serenissimam dominam
+                    meam afficitur, dare consilium, modum, viam et auxilium, ut bona praefata per
+                    commissarios et consiliarios serenissimae reginae meae, quos ad hoc designavit
+                    recuperari, et authoritate patrocinioque Maiestatis Vestrae Regiae reoccupari
+                    possint, ac ut de praeteritis etiam dictorum bonorum introitibus et emolumentis
+                    hactenus interceptis serenissima regina mea contentetur, nihilque damni
+                    patiatur, quemadmodum Maiestas Vestra Sacra de <del corresp="Olahus">rebus</del>
+                    utrisque rebus praemissis litteris sufficientibus serenissimam reginam meam
+                    assecuravit et certificavit.</p>
+                <p>[3.] Temporibus superioribus Sacra Maiestas Vestra scripserat ad serenissimam
+                    reginam meam, ut exemplum litterarum inscriptionum, quas super tricesima
+                    Posoniensi haberet, ad Maiestatem Vestram Sacram mitteret etc. Serenissima
+                    regina mea nihil hinc aliud opinatur, quam nonnullos apud Maiestatem Vestram
+                    Sacram esse, qui privati magis, quam Vestrae Maiestatis commodi gratia
+                    tricesimam ipsam Posoniensem pro se vendicare <del corresp="Olahus"
+                        >vellent</del> cuperent, eamque ob rem instare et Maiestatem Vestram hac in
+                    re sollicitare. Rogat igitur serenissima domina mea Maiestatem Vestram Sacram
+                    plurimum, ut talium, qui vel nunc, vel in posterum contra iura sua apud
+                    Maiestatem Vestram Sacram agere vellent, sollicitationes et persuasiones
+                    admittere nolit, prout serenissima regina mea sperat, Maiestatem Vestram id
+                    fraterne facturam, sed quia Maiestas Vestra praeter illam solutionem 18°032
+                    Florenorum Rhenensium, qui super ipsa tricesima Posoniensi assignati erant,
+                    eandem tricesimam in recompensam etiam urburarum Bistriciensium serenissimam
+                    reginam meam optimo iure concernentium, et in valore annuo tricesimae ipsae
+                    circiter aequalium, quas Maiestas Vestra Sacra Fucaris<note type="critic"
+                        >Fuggeris.</note> inscripsit, usque ad eliberationem et remissionem earum in
+                    manibus <milestone unit="pb"/>serenissimae dominae meae reliquerit, quemadmodum id ex responso Maiestatis
+                    Vestrae Sacrae chirographo suo <placeName>Pragae</placeName> XI. Februarii anno
+                    1534 signato plane constat, Maiestas Vestra Sacra consideratis fraterne
+                    praemissis iuribus serenissimae reginae in rebus ipsius tricesimae Posoniensis
+                    nihil innovare velit, sed eam prout hactenus usque ad eliberationem et
+                    remissionem urburarum Bistriciensium et donec de aliis quoque obligationibus et
+                    petitionibus, quas serenissima regina mea a Maiestate Vestra Sacra habet,
+                    persolvetur, vel alia via acceptabili a Maiestate Vestra Sacra de his sua
+                    serenitas assecurabitur in manibus eiusdem relinquere.</p>
+                <p>[4.] Arx <placeName>Owar</placeName><note type="critic">Óvár, part of
+                        Mosonmagyaróvár today.</note> licet sit nunc in manibus serenissimae reginae
+                    meae, proprietas tamen illius spectat ad Vestram Sacram Maiestatem et liberos
+                    eiusdem, qui in dominium illius arcis succedent. Haec quia est in finibus
+                    Hungariae et Austriae, non parum adferre poterit utrisque provinciis pro
+                    temporis conditione aut quietis, aut <del corresp="Olahus">periculi</del>
+                    perturbationis veluti fores et tutela utriusque provinciae. Cuius rei causa arx
+                    ipsa non parum eget fortificatione, maxime in propugnaculis et aggeribus. Ad
+                    quae paranda licet serenissima regina mea introitus et redditus omnes arcis
+                    eiusdem (demptis his provisionibus et impensis, quae fuerunt ad quotidianam
+                    conservationem arcis necessariae) expenderit, et praeter ea ex suis etiam
+                    propriis ultra 4°000 Florenorum Renensium addiderit, tamen haec omnia parum
+                    fecisse videntur ad tantum opus perficiendum, maxime cum aggeres ipsi
+                    propugnaculorum propter fundamentum non satis firmum, quotidie corruant et
+                    fossam repleant, aditumque faciliorem (quod Deus avertat) hostibus, si qui
+                    adessent, parent. Quare serenissima regina rogat Sacram Maiestatem Vestram uti
+                    dominum et fratrem suum carissimum, velit subsidia illa, quae aut nunc aut
+                    deinceps, secundum <milestone unit="pb"/>oblationem regnicolarum ex pertinentiis ipsius arcis <placeName>Owar</placeName>
+                    Maiestati Vestrae solvi debebunt, ad munitionem et reparationem propugnaculorum
+                    aggerumque ac aliorum locorum ipsius arcis non validorum deputare et super hoc
+                    litteras dare, ut partim ex aliis subsidiis Maiestatis Vestrae pro tempore
+                    exhibendis, partim ex hoc subsidio possit pro parte aliqua munitioni arcis
+                    eiusdem pro temporis conditione et necessitate semper provideri. Quicquid
+                    serenissima regina mea pro parte sua ad huiusmodi munitionem secundum facultatem
+                    ac vires suas impendere poterit, faciet id libentissimae, et neque rebus suis,
+                    neque viribus parcet, quatenus hae suppetent.</p>
+                <p>Hoc idem serenissima domina mea fieri a Maiestate Vestra Sacra petit, etiam in
+                    bonis aliarum arcium suarum, quarum omnium successio ad Maiestatem Vestram et
+                    eiusdem liberos devolvetur. Qumquidem subsidiorum Maiestatis Vestrae ad arces
+                    tales finitimas fortificandas deputatio non nova est res, sed aliorum etiam
+                    regum Hungariae temporibus pro temporis et locorum conditione facta, immo dum
+                    necessitas expetivit, arcium talium finitimarum munitiones totius etiam regni
+                    subsidio sunt adiutae et sublevatae. Harum enim conservatio non aliud parit,
+                    quam regni et totius reipublicae quietem atque salutem.</p>
+                <p>[5.] Quia serenissima regina mea intellexit Maiestatem Vestram ad instantiam
+                    Fucarorum certos commissarios montanarum rerum peritos propediem missuram ad
+                    perlustrandas fodinas Bistricienses,<note type="critic">Banská Bystrica.</note>
+                    rogat serenissima regina Maiestatem Vestram, velit his, qui eo profecturi sunt,
+                    commissariis committere, ut dum per consiliarios et commissarios reginalis
+                    maiestatis requisiti fuerint, debeant montanas reginales unacum aliis
+                    commissariis perlustrare, ac bonum <milestone unit="pb"/>modum et ordinem ostendere consulereque, quo modo montanae ipsae maiestatis
+                    reginalis dominae meae clementissimae commodius, et cum minori impensa ad
+                    Maiestatem Vestram ac totius regni commodum coli possint.</p>
+                <p>Saepius Maiestas Vestra Serenissima ad dominam meam clementissimam pro remissione
+                    decimarum Soproniensium litteras suas dedit, scire velit Maiestas Vestra, quod
+                    iam olim decimas easdem ipsi serenissimae reginae meae pro sex millibus
+                    Florenorum inscripserat et obpignoraverat, quas ipsa quoque in eadem summa
+                    alteri inscripsit. Rogat igitur serenissima domina mea Maiestatem Vestram, velit
+                    inscriptionem hanc, quam eidem serenissimae reginae fecit, in vigore suo et
+                    eandem penes ius suum relinquere.</p>
+                <p>[6.] <persName>Sigismundus Stetner</persName><note type="critic">Zsigmond
+                        Stettner was Collector of the thirtieth in Óvár, see <hi rend="smallcap"
+                            >Takáts</hi> 1898, 424.</note> modernus <choice>
+                        <orig>trigesimator</orig>
+                        <supplied>tricesimator</supplied>
+                    </choice> Sacrae Maiestatis Vestrae in <placeName>Altemburgo</placeName><note
+                        type="critic">The German name of Óvár.</note> multas (sicuti serenissima
+                    domina mea saepius de hoc informata fuit) exactiones indebitas et insolitas ac
+                    serenissimae reginae intollerabiles in <choice>
+                        <orig>trigesima</orig>
+                        <supplied>tricesima</supplied>
+                    </choice> illa facere consuevit, ita ut serenissima regina parte sua iusta, quae
+                    eam concernit, frustretur et in ea damnificetur, facta fuerat anno superiore ex
+                    Sacrae Maiestatis Vestrae voluntate et consensu quaedam limitatio de modo et
+                    ordine exactionis trigesimae ipsius Altemburgensis, contra quae ipse
+                        <persName>Sigismundus</persName> nunc agit. Quare serenissima regina mea
+                    rogat plurimum Maiestatem Vestram, velit exactionem ipsius trigesimae in priore
+                    limitatione ex voluntate et consensu Maiestatis Vestra facta relinquere et illa,
+                    quae iuste ad serenitatem suam pertinent, non turbari permittere atque
+                    committere trigesimatori praefato, ut ab huiusmodi exactionibus indebitis, quae
+                    praeter limitationem prius factam a se nunc fiunt, omnino desistat. Velit etiam
+                    Maiestas Vestra consiliariis Camerae Maiestatis Vestrae Wiennensi mandare, ut
+                    huiusmodi innovationes <milestone unit="pb"/>serenissimae reginae meae damnosas fieri non permittant.</p>
+                <p>
+                    <seg type="signature">Eiusdem Serenissimae Maiestatis Vestrae fidelis et humilis
+                        servitor, Nicolaus Olahus</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

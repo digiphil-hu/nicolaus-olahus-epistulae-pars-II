@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">700</title>
+                <title type="main">[Mihály Révay] to Miklós Oláh [?], [1548?])</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15480000_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Probably author’s copy with autograph
+                        corrections. Fraknói published Révay’s other letter to Oláh and dated it
+                        1548. This letter is undated. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>SNA</institution>
+                        <repository>SAR Korešpond. č. 91. Fasc. IX</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">72–73.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1548">[1548?]</date>
+                <placeName>[?]</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>[Mihály Révay]</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">[Mihály Révay] to Miklós Oláh ([?], [1548?])</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He happens to have a suitable courier, so he did not want to miss the
+                            opportunity to write to Oláh. He asks him to support his cause with the
+                            King, if he does it, he will be in his debt forever. Even if he cannot
+                            return the favour, he does not want to be ungrateful.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad reverendissimum Nicolaum Olachum.<note type="critic">See Ep.
+                        699.</note><ref>/o:olahus.tei.15480000_1</ref></p>
+                <p>Cum, Reverendissime Domine Patrone mihi omnibus officiis Colende,
+                    haberem proprium tabellarium, nolui <del corresp="author">intermittere</del><add
+                        corresp="author" type="corr">praetermittere</add>, ni hae tanta occasione
+                    scribendi, quin et ad Tuam Reverendissimam Dominationem aliquid darem
+                    litterarum, propter summam benevolentiam Tuae Reverendissimae Dominationis erga
+                    nos, quam spero fore perpetuam, ita enim confirmatam in animo Dominationis Tuae
+                    Reverendissimae, ut in <milestone unit="pb"/>omni loco, tempore et occasione
+                    nostram dignitatem, omniaque nostra negotia promovere et defendere, tua
+                    authoritate paratus sis. Quapropter oro <del corresp="author">Tuam
+                        Reverendissimam</del><add corresp="author" type="corr">vehementer</add>, ut
+                    Dominatio Tua Reverendissima apud serenissimam <persName>regiam
+                        maiestatem</persName><note type="critic">King Ferdinand I.</note> omnes res
+                    nostras promovere studeat. Quod si fecerit Reverendissima Dominatio Tua, erimus
+                    Dominationi Tuae Reverendissimae devinctissimi omni genere obsequiorum. Nam
+                    gratiam referre non possumus, sed tamen ingrati omnino esse nolumus, de ingrato
+                    enim bene mereri stultissimum est, ut etiam noster Theognis ait:</p>
+                <quote>
+                    <lg>
+                        <l>Δειλοὺς δ’ <choice>
+                                <orig>εὒ</orig>
+                                <supplied>εὖ</supplied>
+                            </choice> ἕρδοντι ματαιοτάτη χάρις <choice>
+                                <orig>ἐστί</orig>
+                                <supplied>ἐστίν·</supplied>
+                            </choice></l>
+                        <l>ἶσον καὶ σπείρειν πόντον ἁλὸς <choice>
+                                <orig>πολίης</orig>
+                                <supplied>πολιῆς</supplied>
+                            </choice>.</l>
+                    </lg>
+                </quote>
+                <note type="quote">Theognis, <hi rend="italic">Elegies</hi> 105–106.</note>
+                <p>Optime valere cupio quam diutissime Dominationem Tuam Reverendissimam
+                    ad utilitatem reipublicae. Vale.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

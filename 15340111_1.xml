@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">437</title>
+                <title type="main">Miklós Oláh to Sebestyén Pemfflinger (Brussels, 11 January
+                    1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName> DigiPhil <ref type="url">http://digiphil.hu</ref>
+                    </orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340111_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 441; <hi rend="smallcap">Szendrei</hi>
+                    1890, 181–182; <hi rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1904, 318.
+                    [excerpt]</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >298–299.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-01-11">11 January 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                </correspAction>
+                <correspAction type="recieved">
+                    <placeName> </placeName>
+                    <persName>Sebestyén Pemfflinger</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Sebestyén Pemfflinger (Brussels, 11 January
+                    1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. The Queen is starting to recover from a long illness, thanks
+                            to an old wench. Wolfgang von Puchheim traveled to Austria at the end of
+                            November, and Oláh sent several letters to the Pemfflingers with him,
+                            but he has not received a response to any of them. 2. Furthermore, he is
+                            quite worried because he does not know what Pemfflinger has accomplished
+                            in the matter of Oláh's abbey. He asks him to let him know both about
+                            the revenues as well as who will provide pastoral care there. 3. He is
+                            hopeful regarding the Hungarian affairs; Gritti will be leaving Turkey
+                            this month.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad Sebastianum Pemflynger. </p>
+                <p>[1.] Cupio te cum domina tua <persName>coniuge</persName><note
+                        type="critic">Elisabeth, daughter of Hans von Puchheim and Barbara Strein
+                        von Schwarzenau. Pemfflinger married her before 1526, see <hi
+                            rend="smallcap">Kubinyi</hi> 2009, 753.</note> et feliciter valere!
+                        <persName>Regina</persName> post diuturnam aegrotationem iam Deo volente
+                    melius valet. </p>
+                <pb/>
+                <p>Multi confluunt medicii ad eius curam, una tamen vetula mulier non
+                    parum inter catervam medicorum illi profuit. Speramus ipsam in dies melius
+                    habituram. Nos omnes unacum aliis omnibus amicis vestris bene valemus.
+                        <persName>Wolffgangus a Pwhem</persName><note type="critic">Wolfgang von
+                        Puchheim was Commissioner of the Mining District and <hi rend="italic"
+                            >ispán</hi> of Zvolen county, see <hi rend="smallcap">Szántó</hi> 1977,
+                        47.</note>
+                    
+                    <choice>
+                        <orig>consanguinius</orig>
+                        <supplied>consanguineus</supplied>
+                    </choice> vester<note type="critic">Wolfgang von Puchheim was Pemfflinger’s
+                        brother-in-law.</note> pro curandis suis rebus profectus ad
+                        <placeName>Austriam</placeName> est in fine Novembris praeteriti; litteras
+                    ad vos plures<note type="critic">We do not know these letters.</note> huic dedi,
+                    ad quas nullum habui responsum. </p>
+                <p>[2.] Non parvum angor et sollicitor, quod nesciam, quo modo res meas
+                    abbatiae istic ordinaveritis, et quem procuraveritis meo nomine, ad proventus
+                    illius curandos, quo pacto etiam illa <persName>viceplebanus de
+                        Myskolcz</persName>,<note type="critic">We do not know him more closely. See
+                        Ep. 372. Note 5.</note><ref>/o:olahus.tei.15330605_1</ref> quem in
+                    provisorem meum istic locatis, meas res istic gerat, ab eo enim nullas unquam
+                    litteras accepi. Quare rogo te plurimum, ut tam de abbatiae meae<note
+                        type="critic">The Abbey of (Miskolc)tapolca.</note> rebus ac proventibus,
+                    quam quo pacto istic servitia divina constituta a te sint, fac me certiorem. Et
+                    committas <persName>viceplebano de Myskolcz</persName>, ut et ipse de rebus
+                    plebaniae ad me scribat. </p>
+                <p>[3.] De rebus regis et nostris communibus Hungaricis spem bonam habeo.
+                        <persName>Gritti</persName><note type="critic">Lodovico Gritti.</note>
+                    exibit hoc mense ex <placeName>Turcia</placeName>, rem ipsam componet, sed quid
+                    timeam, paucis perscribere non possum. Nova hic nulla sunt. Quando aliqua erunt,
+                    non pigebit me ea tibi significare. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 11. Ianuarii anno 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

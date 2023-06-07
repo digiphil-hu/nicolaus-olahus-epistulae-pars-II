@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">803</title>
+                <title type="main">Miklós Oláh to Ferenc Újlaki (Prague, 22 January 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520122_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 205 – No. 746.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-01-22">22 January 1552</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Újlaki</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Újlaki (Prague, 22 January 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They will travel to Vienna tomorrow; the Czechs, Moravians, and Silesians
+                            have offered everything that the King desired, and they are ready for
+                            the campaign. Things are going well in Transylvania and around Oradea.
+                            If Rafael Podmaniczky does not want to return to Várpalota, he cannot be
+                            of service to the King in another way. He believes they will be in
+                            Vienna in eight days.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, servitiorum meorum commendationem! </p>
+                <p>Cras Deo favente hinc versus <placeName>Wiennam</placeName>
+                    proficiscemur. Omnia, quae sacratissima <persName>maiestas regia</persName>
+                    voluit et optavit, uno omnium consensu a Boemis, Moravis et Slesitis <del
+                        corresp="Olahus">satis</del><add corresp="Olahus" type="corr">suae</add>
+                    <add corresp="Olahus" type="insert">maiestati</add> benevole oblata sunt. Nihil
+                    iam instare videtur, quam ut paremus nos ad futuram expeditionem. In
+                    Transsilvania quoque et alibi circa <placeName>Waradinum</placeName><note
+                        type="critic">Oradea.</note> res omnes prospere succedunt in Dei gloriam. Si
+                        <persName>Podmaniczki</persName><note type="critic">Rafael Podmaniczy
+                        (†1558) was <hi rend="italic">ispán</hi> of Trencsén county from 1544. For
+                        more on his family and on him, see <hi rend="smallcap">Lukinich</hi>
+                        1943.</note> ob eas rationes, quas Dominatio Vestra Reverendissima ex <del
+                        corresp="Olahus">ipsius</del><add corresp="Olahus" type="corr">illius</add>
+                    informatione perscripsi, ad <placeName>Palotham</placeName><note type="critic"
+                        >The castle of Palota (today: Várpalota) had been in the possession of this
+                        family since 1533, <hi rend="smallcap">Lukinich</hi> 1943, 170–171.</note>
+                    cum gentibus reverti <add corresp="Olahus" type="insert">nunc</add> non cogitat,
+                    potest nihilominus suae maiestati aliter servire in locis aliis. Non erit id,
+                    qua suam maiestatem, si verae sunt rationes, quas ille recensuit. Haec
+                    Dominationi Vestrae <choice>
+                        <orig>Reverendissimi</orig>
+                        <supplied>Reverendissimae</supplied>
+                    </choice> significare volui. Arbitror nos ad octavum huius diei diem
+                        <placeName>Viennae</placeName> Deo propitio constituturos. Dominatio Vestra
+                    feliciter valeat, et velit litteras praesentibus annexas mittere ad eos rogo,
+                    quibus adscriptae sunt. </p>
+                <p>Ex <placeName>Praga</placeName> 22. Ianuarii anno 1552.</p>
+                <p>
+                    <seg type="signature">Frater et servitor Agriensis etc. sua manu</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino Iauriensi etc. locumtenenti regiae maiestatis
+                    etc. domino observandissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

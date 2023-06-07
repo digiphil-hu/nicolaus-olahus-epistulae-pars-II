@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">825</title>
+                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 28 June 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520628_2</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 66. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">111.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-06-28">28 June 1552</date>
+                <placeName>Vienna</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 28 June 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Since at Maximilian’s order someone had to be sent to Mihály Perényi’s
+                            wedding on his behalf, he sent Mihály Révay, who also went to Košice on
+                            his way home, and King Ferdinand I will learn from Ferenc Révay’s
+                            attached letter what he heard from György Serédy. 2. In addition, the
+                            Provost of Leles was also here, and he says that Petrovics sent three
+                            legates to Poland recently, but they made a detour to Lelesz, and one of
+                            them, called Ördög, talked to the Provost, but he could not find out why
+                            they were going to Poland.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Sacratissime Rex, Domine Clementissime, orationum devotarum et fidelium
+                    servitiorum humillimam commendationem!</p>
+                <p>[1.] Cum his diebus ex mandato serenissimi regis
+                        <persName>Maximiliani</persName>, domini mei clementissimi ad nuptias
+                    magnifici <persName>Michaelis de Peren</persName><note type="critic">Mihály
+                        Perényi (†1557), <hi rend="italic">ispán</hi> of Zemplén married Lukács
+                        Székely’s daughter, Katalin Székely of Ormosd and Kövend (†1587) on 3 July,
+                        1552, see <hi rend="smallcap">Szabó–Hanák</hi> 2021, 125; and <hi
+                            rend="smallcap">Kovachich</hi> 1798, 93.</note> aliquem nuntium de more,
+                    nomine Vestrae Maiestatis suaeque serenitatis deligere me oportuisset, nemineque
+                    alio sese tum offerente egregium <persName>Michaelem de Rewa</persName>,<note
+                        type="critic">Mihály Révay.</note> filium videlicet domini
+                        <persName>Reway</persName><note type="critic">Ferenc Révay.</note> in aulam
+                    Vestrae Maiestatis commendatum eo dimisissem. Isque in reditu ex illis partibus
+                        <placeName>Cassowiam</placeName><note type="critic">Košice.</note>
+                    divertisset, ibi quae ex domino <persName>Georgio Seredy</persName><note
+                        type="critic">György Serédy.</note> intellexit, cognoscet Maiestas Vestra ex
+                    hac praesentibus inclusa scriptura, manu eiusdem <persName>Michaelis de
+                        Rewa</persName> confecta,<note type="critic">For a copy of Révay’s report,
+                        see ÖStA HHStA UA AA Fasc. 66. Konv. A. fol. 112–113.</note> quae mihi pro
+                    mei officii ratione ad Maiestatem Vestram visa sunt perscribenda.</p>
+                <p>[2.] Venit praeterea hodie huc <persName>praepositus de
+                        Lelez</persName><note type="critic">György Bódy was Provost of Leles between
+                        1547 and 1557, see <hi rend="smallcap">Pankovics</hi> 2013, 21.</note>
+                    narravitque mihi proximis diebus ex Transsylvania tres nuntios in
+                        <placeName>Poloniam</placeName> ad <persName>Petrowyth</persName><note
+                        type="critic">Péter Petrovics.</note> euntes in itinere ad
+                        <placeName>Lelez</placeName><note type="critic">Leles.</note> divertisse, et
+                    ex his unum cognomento <persName>Ewrdeg</persName>,<note type="critic">Ördög or
+                        Eördögh. We do not know him more closely.</note> cuius frater superiori anno
+                    in Transylvania vivente adhuc <persName>Fratre Georgio</persName><note
+                        type="critic">George Martinuzzi was killed on 17 December, 1551.</note>
+                    fuerat interfectus, in arcem ad ipsum praepositum ascendisse, secumque esse
+                    collocutum, sed se nulla ratione elicere ab eo potuisse, quid negotii acturi in
+                        <placeName>Poloniam</placeName> proficiscantur. Quod item ad Vestram
+                    Maiestatem volui pro debito officii mei perscribere. Servet eandem summus Deus
+                    felicem et incolumem quam ditutissime. </p>
+                <p><placeName>Viennae</placeName> die decimo octavo mensis Iulii anno
+                    Domini 1552.</p>
+                <p>
+                    <add corresp="Olahus" type="insert">Eiusdem Sacratissimae Maiestatis Vestrae
+                        fidelis et oboediens servitor</add>
+                </p>
+                <p>
+                    <seg type="signature"><add corresp="Olahus" type="insert">Agriensis etc. manu
+                            propria</add></seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Sacratissimae Romanorum Hungariae Bohemiae etc. regiae maiestati
+                    domino, domino meo clementissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

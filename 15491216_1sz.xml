@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">731</title>
+                <title type="main">Royal Lieutenancy Council in Bratislava to Miklós Oláh
+                    (Bratislava, 16 December 1549)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15491216_1sz</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Ms. I, the original collection of letters has
+                        been lost. Ms. II is a copy.<ref>/o:olahus.tei.15340422_1</ref>
+                    </p>
+                </note>
+                <note type="publication"><hi rend="smallcap">R. Kiss</hi> 1908, 209–210.</note>
+                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
+                    <hi rend="smallcap">R. Kiss</hi> 1908, 209. [regesta]</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="CE">Critical Edition</witness>
+                    <witness xml:id="I">MNL OL Khuen–Héderváry cs. lt. No. 101.</witness>
+                    <witness xml:id="II">EFK Cat. V. Tit. IIg. No. 180.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-12-16">16 December 1549</date>
+                <placeName>Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Royal Lieutenancy Council in Bratislava</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Royal Lieutenancy Council in Bratislava to Miklós Oláh
+                    (Bratislava, 16 December 1549)</head>
+                <floatingText>
+                    <body>
+                        <p>Oláh should know that they are writing to the King on behalf of the sons
+                            of the late Mihály Büdy. They are sending the supplicatio written on the
+                            orphans’ behalf so that he understands what they are asking from the
+                            King. They think the matter is worth supporting and ask Oláh to make
+                            sure that what they are asking for and their recommendation is taken
+                            into sufficient account.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ad dominum cancellarium.</p>
+                <p>Reverendissime etc.!</p>
+                <p>Scribimus ad <persName>regiam maiestatem</persName>, dominum nostrum
+                    clementissimum in commendationem filiorum quondam egregii <persName>Michaelis
+                        Bydy</persName>,<note type="critic">Mihály I Büdy (†1546) was loyal to Queen
+                        Mary and King Ferdinand I, so he became <hi rend="italic">ispán</hi> of
+                        Bereg county in 1545 and Castellan of Mukachevo from 1543.</note> praefecti
+                    arcis <placeName>Munkach</placeName>, Reverendissima Dominatio Vestra cognoscet.
+                    Mittimus etiam ad suam maiestatem supplicem libellum nobis eorundem orphanorum
+                        nomine<note type="critic">Mihály Büdy’s orphans were Mihály II, Klára, and
+                        Farkas. In 1547, Mihály II became <hi rend="italic">ispán</hi> of Bereg
+                        county. He later married Oláh’s niece, Anna Oláh. See <hi rend="smallcap"
+                            >Nagy</hi> 1858, 280–281.</note> porrectum, ex quo pariter intelliget
+                    Reverendissima Dominatio Vestra, quid illi petant a sua maiestate. Nobis causa
+                    ipsa multis rationibus favore visa est bene digna ac proinde Reverendissima
+                    Dominatio Vestra, ut solet, favere ipsis supplicantibus velit, ut impetrent,
+                    quod petunt et nostra commendatio pondus habuisse videatur. Optamus
+                    Reverendissimam Dominationem Vestram feliciter valere etc. </p>
+                <p><placeName>Posonii</placeName> die 16. Decembris 1549. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">653</title>
+                <title type="main">Miklós Oláh to Lajos Pekry (Worms, 15 April 1545)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15450415_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Karácsonyi–Kollányi</hi> 1909, 417–418. [partly edited, from
+                    Cap. 2.]</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15450521_1" type="url">654</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 142 – Fasc. 31. No. 63.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1545-04-15">15 April 1545 </date>
+                <placeName>Worms</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Lajos Pekry</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Lajos Pekry (Worms, 15 April 1545)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Oláh has intervened with the King for Pekry, he will learn the King’s
+                            response from his letter addressed to him. In Oláh's opinion, Pekry
+                            should cease the hostilities with Brodarics and concentrate on his
+                            tasks. The lien he established with the King, which he needs to pay for
+                            the preservation of the castle of Lykava, will be advantageous for
+                            Pekry. Although Pekry writes that he has heard that the King will hand
+                            the castle over to Révay, he should rest easy, Oláh does not know of
+                            anything of the sort, and he should not believe the rumour. However, he
+                            does not understand why he did not allow the royal collectors of the
+                            thirtieth into Ružomberok. It is common practice for the King to deploy
+                            such collectors of the thirtieth into towns, he should not resist him.
+                            2. In other news, the King is in Worms, he is negotiating about his new
+                            campaign there. The Emperor left Brussels on the 7<hi rend="super"
+                                >th</hi> of this month, and he is headed for Worms, but he is making
+                            his way slowly lest he relapse into the illness from which he has only
+                            recently recovered. Pekry writes that he is planning to go to Slavonia,
+                            Oláh wishes him safe travels and asks him to work with Oláh’s churchmen
+                            to represent Oláh’s interests there.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Magnifice Domine, Amice nobis Honorandissime, salutem et obsequii
+                    commendationem! </p>
+                <p>[1.] Redditae sunt nobis litterae Dominationis Vestrae Magnificae,
+                    quibus rogat nos, ut coram <persName>maiestate regia</persName>, domino nostro
+                    clementissimo negotium eiusdem ageremus. Id nos fecimus ea diligentia atque
+                    studio, quod amicitia nostra postulare videbatur, exemplaque litterarum, quae
+                    nobis Dominatio Vestra cum suis litteris una miserat, maiestati regiae (prout
+                    oportuit) eadem adamussim declaravimus, quod responsum maiestas sua ad
+                    intercessionem nostram dignata est facere, poterit eadem ex litteris suae
+                    maiestatis ad unguem intelligere. Ceterum simultates, quas intelligimus
+                    Dominationem Vestram cum domino <persName>Brodaryth</persName><note
+                        type="critic">Mátyás Brodarics, István Brodarics’s brother. He was Prefect
+                        of Lykava around 1544–1545. <hi rend="smallcap">Faragó</hi> 2022.</note>
+                    habere, si eadem consilio nostro uti voluerit, eas simultates deponet, seque
+                    servabit atque accomodabit omni fidelitatis officio. Ad eam obligationem, quam
+                    eadem cum maiestate regia haberet proventusque quantum <add corresp="scriba"
+                        type="insert">conservationem</add> ad arcem <placeName>Lykawa</placeName>
+                    pertinet reddere ac restituere, eo enim pacto censemus eidem utile fore et
+                    quiete pacificeque permanere posse. Ubi autem Vestra Dominatio Magnifica scribit
+                    se accepisse maiestatem regiam arcem <placeName>Lykava</placeName> domino
+                        <persName>Francisco de Rewa</persName><note type="critic">Ferenc
+                        Révay.</note> inscripsisse, id nos non intelleximus, nec cum scitu nostro
+                    est, quare ne eadem quoque credat. Intelleximus porro, quod Dominatio Vestra
+                    Magnifica tricesimatores maiestatis regiae ad <milestone unit="pb"/>oppidum suum <placeName>Rosombergh</placeName><note type="critic"
+                        >Ružomberok.</note> vocaret, noluisset intromittere. In qua ratione eadem
+                    fecerit, miramur. Maiestas enim regia, ubicumque visum fuerit suae maiestati,
+                    potest officiales suos collocare, nec est conveniens, ut eadem suae voluntati
+                    repugnet. Non censemus enim ad damnum et detrimentum colonis illius oppidi fore
+                    exactionem tricesimae propter frequentem commeationem hominum, unde non nihil
+                    lucri oppidani habere possent, eo enim pacto oppidum quoque aedificare
+                    posse.</p>
+                <p>[2.] Nova scribere <del corresp="Olahus">nos</del> Vestrae Dominationi
+                    Magnificae haec <choice>
+                        <orig>possimus</orig>
+                        <supplied>possumus</supplied>
+                    </choice>, quod maiestas regia hic <placeName>Vormicae</placeName><note
+                        type="critic">Worms.</note> est, agitque et tractat cum imperialibus de
+                    futura expeditione, speramusque brevi de futura expeditione conclusuram.
+                    Caesarea maiestas autem septima die huius mensis
+                        <placeName>Bruxellis</placeName> movit se, rectaque dirigit gressum suum huc
+                        <placeName>Vormaciam</placeName>, sed paulatim incedit, ne ex itinere aliqua
+                    molestia afficeretur, nunc enim pristinae valetudini est restitutus. Hinc se
+                    deinde confert eo, quo salus ac defensio Chistianitatis postulaverit. Quod autem
+                    scribit Dominatio Vestra Magnifica, quod brevi in Sclavoniam haberet animum
+                    eundi, Deus altissimus faxit eidem prosperum iter, sanumque et incolumem ducat
+                    et reducat. Rogamusque eandem, ut hominibus nostris, qui is episcopatu nostro
+                    sunt constituti a nobis, <milestone unit="pb"/>velit eadem omni auxilio in negotiis omnibus, quibuscumque invenerint,
+                    esse, quod nos vicissim omni officio amicitiae studebimus recompensare. In
+                    reliquo felicissime Dominationem Vestram Magnificam valere optamus.</p>
+                <p>Datum <placeName>Vormacie</placeName> 15. die mensis Aprilis anno
+                    Domini 1545.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
+                            etc.</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Magnifico domino Lodovico Pekry de Petrowyna etc. domino et amico
+                    nobis honorandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">721</title>
+                <title type="main">Miklós Oláh to Bratislava Town Council (Prague, 26 August 1549)
+                </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15490826_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"/>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Bratislava</settlement>
+                        <institution>AMB MMB</institution>
+                        <repository>Listy a listiny inv. č. 6340.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1549-08-26">26 August 1549</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Bratislava Town Council</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Bratislava Town Council (Prague, 26 August
+                    1549)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>They will understand from the King’s letter what injustices and abuse
+                            Sándor Rokawy’s wife has suffered from a Bratislava barber, and what
+                            King Ferdinand I is planning to do in the matter. He is asking them to
+                            do everything for Rokawy so that he can return to Eger and that Rokawy
+                            and his family are left alone by this Bratislava barber.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Prudentes et Circumspecti Domini et Amici Honorandi, salutem et nostram
+                    commendationem!</p>
+                <p>Ex litteris regiae maiestatis ad vos datis intelligetis, quibus iniuriis et
+                    contumeliis et verberibus uxor egregii <persName>Alexandri
+                        Rakowy</persName>,<note type="critic">Sándor Rokawy.</note> aulici regiae
+                    maiestatis a quodam barbitonsore concive vestro <persName>Urbano
+                        Regio</persName><note type="critic">We do not know him more closely.</note>
+                    vocato sit affecta, et quid sua maietas a Dominationibus Vestris propter tale
+                    facinus fieri velit. Quare et nos easdem rogamus, diligenter velint suadente
+                    communi iustitia ipsi Alexandro Rakowy de praefato barbitonsore citra dilationem
+                    iustitiam et debitam exsecutionem facere, ut ipse Rakowy, ex quo aulicus et
+                    contrascriba regiae maiestatis est,<note type="critic">He was Counter-signer <hi
+                            rend="italic">(constrascriba)</hi> until 30 August, 1549, see Ep. 675.
+                        Cap. 3.</note><ref>/o:olahus.tei.15470818_1</ref>
+                    <placeName>Agriam</placeName> ad servitia regiae maiestatis primo quoque tempore
+                    redire possit. Deinde Dominationes Vestrae curent committere, ut ipse Alexander
+                    Rakowy cum uxore et liberis suis in hospitio suo ab ipso barbitonsore et aliis
+                    quietus permanere possit. Nam si deinceps quoque talibus iniuriis a quopiam
+                    afficietur, regia maiestas non aequo animo feret, quandoquidem ipse est aulicus
+                    suae maiestatis, credimus autem Dominationes Vestras nostra etiam maiori
+                    amicitia id reponere volumus, easdem valere optamus.</p>
+                <p>Datum <placeName>Pragae</placeName> 26. Augusti 1549.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Agriensis
+                            cancellarius regiae maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Prudentibus ac circumspectis dominis, iudici ac iuratis civibus civitatis
+                    Posoniensis dominis et amicis nobis honorandis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

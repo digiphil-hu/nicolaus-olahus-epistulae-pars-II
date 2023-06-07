@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">677</title>
+                <title type="main">Miklós Oláh to Ferenc Batthyány (Augsburg, 17 November
+                    1547)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15471117_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original, partly autograph letter with autograph
+                            emendations, signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 1314 – No. 34391.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1547-11-17">17 November 1547</date>
+                <placeName>Augsburg</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Ferenc Batthyány</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Ferenc Batthyány (Augsburg, 17 November
+                    1547)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. A response to his letter has arrived from the King, he will understand
+                            it from the King’s letter. He has intervened on Batthyány’s behalf in
+                            the past, he will continue to do so in the future. As far as Keglevich’s
+                            case is concerned, he has done what Batthyány asked him to do both in
+                            his letter and through a legate, especially reducing his sentence and
+                            letting him go – he believes he has successfully intervened on his
+                            behalf. 2. There is no other news, except for the fact that the Queen
+                            will arrive within 4-5 days. Although he has never missed the
+                            opportunity to speak up for Hungary in front of the King, it would be
+                            good now, when the representatives of the other provinces will also be
+                            present, for one or two legates to come from Hungary, too. If Batthyány
+                            happened to be one of them, he could meet the Queen, and they could
+                            reminisce about the old times. If he could arrive within a month of
+                            today, that would still work. 3. Since Ferenc Révay and Batthyány write
+                            through Pethő to the King that they are sending legates from the Trnava
+                            assembly, the King should expect them, and when they come, they should
+                            have a letter of accreditation addressed to the Queen, Maximilian, and
+                            the rest of the ecclesiastic and secular leaders.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Magnifice Domine, et Amice nobis Honorandissime, salutem et servitiorum
+                    nostrorum commendationem! </p>
+                <p>[1.] Ad litteras, quas Magnifica Dominatio Vestra his diebus per
+                    dominum <persName>Naydeker</persName><note type="critic">We do not know him more
+                        closely.</note> ad <persName>regiam maiestatem</persName>, dominum nostrum
+                    clementissimum miserat, responsum a sua maiestate accepimus; quod quale sit,
+                    Magnifica Dominatio Vestra ex litteris suae maiestatis ad se datis clare
+                    intelliget. Nos quamadmodum hactenus semper fecimus, ita inposterum quoque
+                    operam, et intercessionem nostram, apud suam maiestatem in rebus Dominationis
+                    Vestrae desiderari non patiemur.</p>
+                <p>Quod ad negotium domini <persName>Keglewith</persName><note
+                        type="critic">Péter Keglevich, see Ep.
+                        668.</note><ref>/o:olahus.tei.15461108_1</ref> attinet, quaemadmodum
+                    Dominatio Vestra et per litteras, et per nuntium nos petiit, pro eo apud regiam
+                    maiestatem intercessimus, praesertim ut in captivitate mitius et remissius, quam
+                    hactenus, tractaretur, nec dubitamus, quin deinceps aliquam remissionem molestae
+                    captivitatis suae nostra hac intercessione sit habiturus. Itaque quod potuimus,
+                    nunc diligenter praestitimus, deinceps etiam ubi Deo duce
+                        <placeName>Viennam</placeName> revertemur, quicquid eius causa apud suam
+                    maiestatem efficere poterimus, operam nostram libenter commodabimus.</p>
+                <p>[2.] Novi nunc Dominationi Vestrae Magnificae aliud scribere non
+                    possumus, nisi quod serenissima domina <persName>Maria regina</persName>, domina
+                    nostra clementissima, intra quatuor, aut quinque dierum spatium huc adveniet. Et
+                    licet nos hactenus quoque semper tam in Saxonia, quam alibi solo amore in
+                    patriam moti et orando, et sollicitando, apud caesaream maiestatem nihil <milestone unit="pb"/>eorum pratermiserimus, quae ad eripiendum a tyrannide regnum istud
+                    Hungariae pertinere arbitrati sumus, et neque posthac ullo tempore
+                    praetermissuri simus, tamen nunc et propter praesentiam ipsius dominae reginae
+                    et praesertim cum aliae quoque provinciae regiae maiestatis, utpote Austria,
+                    Styria, Carinthia, et aliae privatios suos hic habeant legatos, ne a quopiam
+                    dici posset ex sola Hungaria deesse legatos, omnino necessarium videretur, ut ex
+                    Hungaria quoque, si non plures, vel saltem unus <add corresp="Olahus"
+                        type="insert">aut duo</add>
+                    <del corresp="Olahus">mitteretur</del><add corresp="Olahus" type="corr"
+                        >mitterentur</add>, qui regni ipsius praesidium <del corresp="Olahus"
+                        >solicitaret</del><add corresp="Olahus" type="corr">sollicitarent</add>. Et
+                    si Dominatio Vestra Magnifica forte a dominis <del corresp="Olahus"
+                        >regnicolis</del> mitteretur, posset ipsam dominam reginam hic videre <add
+                        corresp="Olahus" type="insert">et veteres fabulas renovare</add>. Dominatio
+                    Vestra etiamsi a die datarum praesentium computanda in spatio unius mensis
+                    quoque huc adveniret, satis commodo tempore veniret. Hoc voluimus Dominationi
+                    Vestrae Magnificae ex animo significare, quam felicissime valere cupio.</p>
+                <p>Datum <placeName>Augustae Vindelicorum</placeName> 17. die Novembris
+                    anno Domini 1547.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
+                            cancellarius regiae maiestatis etc. manu propria</add>
+                    </seg>
+                </p>
+                <milestone unit="p"/>
+                <p>[3.] <add corresp="Olahus" type="insert">Postquam per
+                            <persName>Pethew</persName><note type="critic">Probably János Pethő of
+                            Gerse (†1577). He became a Baron in 1549, and he was Captain of Lipova
+                            from 1552 and Captain of Košice from 1558. From 1561 until his death, he
+                            was Master cup-bearer. The Pethő family was a distant relation to the
+                            Nádasdy family, see <hi rend="smallcap">Szeremlei</hi> 1913, 923–924;
+                            and <hi rend="smallcap">Pálffy</hi> 2002, 326–327.</note>
+                        <persName>dominus locumtenens</persName><note type="critic">Ferenc
+                            Révay.</note> et Dominationes Vestrae ad maiestatem regiam scripserunt
+                        se ex conventu Thirnaviensi oratores huc missuros,<note type="critic">At the
+                            end of 1547, Oláh, Ferenc Batthyány, Mihály Mérey and Georg Werner
+                            became legates, see <hi rend="smallcap">Fraknói</hi> 1876, 128.</note>
+                        maiestas regia illos exspectat. Habeant hi, dum advenerint, litteras
+                        credentiae ad serenissimam reginam Mariam, principem Maximilianum filium
+                        regiae maiestatis et ad alios electores ecclesiastices et seculares, qui
+                        omnes nunc hic sunt.</add></p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Magnifico domino Francisco de Batthyan consiliario regiae maiestatis
+                    etc. domino et amico nobis honorandissimo.</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

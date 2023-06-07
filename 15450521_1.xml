@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">654</title>
+                <title type="main">Lajos Pekry to Miklós Oláh (Čachtice, 21 May 1545)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15450521_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Fair copy or draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15450415_1" type="url">653</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 148a – Fasc. 339. – No. 6.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1545-05-21">21 May 1545</date>
+                <placeName>Čachtice</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Lajos Pekry</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Lajos Pekry to Miklós Oláh (Čachtice, 21 May 1545)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He thanks for Oláh’s intervention to represent his interests. What
+                            Oláh writes in connection with Brodarics is not necessary any more
+                            because he has since made up with him: he will pay him a little, he will
+                            make sure he has nothing to complain about. If Brodarics has anything to
+                            complain about, it is that he has many people to support, which is
+                            expensive. 2. As for the fact that he did not want to allow the King’s
+                            collectors of the thirtieth to Ružomberok, he should believe him that he
+                            would have let them in if magistrate Sibrik’s had been present, as
+                            Sibrik can also testify. But after Pekry had left Liptovský Hrádok,
+                            Dubowsky appeared in Ružomberok and drove out the King’s men, and he
+                            threw their flags into the mud, thus bringing great shame on Pekry. He
+                            has written about this to Révay and the rest of the councillors but has
+                            not received a response yet. As far as the Slavonian trip goes, he will
+                            do what he can. 3. Finally, he wanted to tell him that while the King
+                            held him captive last year, Báthori took Pekry’s customs house in
+                            Liptovský Hrádok by force; Pekry tried to convince Báthori through
+                            Várday and then Peregi to give it back to him. They could not come to an
+                            agreement, and in the meantime the civil servants attacked Liptovský
+                            Hrádok, set it on fire, and captured seven people.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Amice plurimum Observandissime, post salutem et
+                    obsequiorum meorum sinceram commendationem!</p>
+                <p>[1.] Redditae sunt mihi litterae Dominationis Vestrae Reverendissimae,
+                    quibus scribit litteras meas unacum supplicatione et aliarum litterarum exemplis
+                    maiestati regiae, domino nostro clementissimo praesentasse, egisseque coram sua
+                    maiestate negotia mea, faxit Deus, ut hanc singularem suam erga me benivolentiam
+                    laboremque Dominationis Vestrae Reverendissimae tamquam domino de me bene merito
+                    inservire ac omni officio amicitiae rependere possim. Ceterum quod scribit
+                    Dominatio Vestra Reverendissima intellexisse me cum egregio domino
+                        <persName>Mathia Brodaryth</persName><note type="critic">Mátyás
+                        Brodarics.</note> simultates habere.<note type="critic">See Ep.
+                        653.</note><ref>/o:olahus.tei.15450415_1</ref> Id certe non opus erat
+                    cuipiam eidem scribere, quandoquidem ego de omnibus iuxta limitationem dominorum
+                    cum ipso concordavi, et pro maiori parte omnia praeter paucam pecuniam iam
+                    praemanibus habet; studebo illam quoque sine dilatione administrare, daboque
+                    operam, ut in nullo de me conqueri poterit. Si autem in aliquo defecerit, non
+                    est mihi ascribendum, ex quo ipse non plus quam duodecim equitibus in officium
+                    arcis habuerit ordinem, nonnumquam tamen quadraginta vel quinquaginta equites
+                    aluit, uxorem insuper et liberos ac multam superfluam familiam circiter
+                    octuaginta personas, ad quos arte multo maior copia commeatum quam limitatio
+                    dominorum ostendit, fuit necessaria, nihilominus volens maiestati regiae in
+                    omnibus parere, limitationique dominorum satisfacere de omnibus cum dicto
+                        <persName>Brodaryth</persName> concordavi.</p>
+                <p>[2.] Ubi tandem Reverendissima Dominatio Vestra accepisse scribit me
+                    tricesimatores maiestatis regiae ad oppidum meum
+                        <placeName>Rosombergh</placeName><note type="critic">Ružomberok.</note>
+                    noluisse intromittere, certo persuasum sibi habeat mihique credat, visis
+                    litteris sive maiestatis tricesimatores in ipsum meum oppidum praesente domino
+                        <persName>Sybryk</persName><note type="critic">Gergely Sibrik (†1553)
+                        studied law, and he became a member of the Royal Lieutenancy Council in
+                        Bratislava in 1547.</note> praefecto tricesimarum <add corresp="scriba"
+                        type="insert">me</add> honorifice <del corresp="scriba">et pacifice</del>
+                    praeter omnem renitentiam intromisisse, eosque illic pacifice servasse et
+                    defendisse iuxta continentiam litterarum maiestatis regiae proinde ad me
+                    datarum, prout id dominus <persName>Sybryk</persName> testare poterit. Sed post
+                    meum e <placeName>Lypthowya</placeName><note type="critic">Liptovský
+                        Hrádok.</note> discessum dominus <persName>Ioannes Dobowsky</persName><note
+                        type="critic">Johannes Dubowsky.</note> nescire unde motus missis hominibus
+                    suis in oppidum <choice>
+                        <orig>meam</orig>
+                        <supplied>meum</supplied>
+                    </choice>
+                    <placeName>Rosombergh</placeName>, qui manibus armatis tricesimatores maiestatis
+                    regiae illinc expulerunt, vexillumque in lutum proiecerunt ac in minimas partes
+                    dilacerarunt, unde mihi non mediocris ignominia iuribusque oppidi mei ingens
+                    detrimentum cessit, qua de re haec domino <persName>locumtenenti</persName><note
+                        type="critic">Pál Várday.</note> aliisque consiliariis maiestatis regiae
+                    quod inde sim facturus, scripserim, nullum tamen responsum mihi dederit, igitur
+                    in hac re petens nil mihi ascribendum est.</p>
+                <pb/>
+                <p>Quod vero attinet ad negotium regni Sclavoniae, ego cum hic tum etiam
+                    illic in omnibus mihi possibilibus Dominationi Vestrae Reverendissimae, necnon
+                    hominibus eiusdem, <del corresp="author">prodesse</del> ubi opera mea eguerint,
+                    prodesse volo et polliceor.</p>
+                <p>[3.] Demum volui Dominationi Vestrae Reverendissimae id esse notum,
+                    qualiter magnificus dominus <persName>Andreas de Bathor</persName>, proximis
+                    annis cum videlicet in captivitatem maiestatis regiae tenebar, teloneum quoddam
+                    ad arcem meam <placeName>Wywar</placeName><note type="critic">Liptóújvár, today:
+                        Liptovský Hrádok.</note> spectantem ad arcem suam Scepusiensem vi occuparat,
+                    in cuius pacifico dominio ab eo tempore, quo maiestas regia arcem
+                        <placeName>Wywar</placeName> mihi donavit, fui semper pro cuius remissione,
+                    cum <placeName>Viennam</placeName> deductus fuissem, dictum dominum
+                        <persName>Bathori</persName> primo medio domini
+                        <persName>locumtenentis</persName> etc. deinde per dominum
+                        <persName>Albertum praepositum</persName><note type="critic">Albert
+                        Peregi.</note> et etiam per servitores meos certis vicibus amice et fraterne
+                    requisivi, petens, ne teloneum meum vi teneret, sed illud mihi pacifice
+                    remitteret, cum et alioqui non habeam, quibus me sustentarem. Qui licet semper
+                    amice responderit offerens rem velle intelligere et rectificare, tamen huiusmodi
+                    placidis suis verbis nullum finem habere potui, quin potius officialis eiusdem
+                    arcis Scepusiensis nescitur quamobrem teloneum non more telonii, sed ut
+                    tricesimam in nostrum maximum detrimentum et etiam totius comitatus
+                    Lypthowyensis exigere non cessavit, quod cum ulterius pati non potuissem,
+                    teloneum desecantem feceram, quod paulo post meum e
+                        <placeName>Lypthowya</placeName> discessum rursum officiales de
+                        <placeName>Sepes</placeName> levare, et etiam fortalicium ex ecclesia in
+                    possessione illa habita erigere et fortiter munire curaverunt. Hoc intellecto
+                    officiales <choice>
+                        <orig>maiestati</orig>
+                        <supplied>maiestatis</supplied>
+                    </choice> de praefata <placeName>Wywar</placeName> statim fortalicium illud <del
+                        corresp="author">non</del> me absente adorti sunt, ac illud cum secus
+                    expugnare non potuissent, combusserunt, septemque homines illinc captos ad
+                        <placeName>Wywar</placeName> duxerunt. Id propterea Dominationi Vestrae
+                    Reverendissimae notum esse volui, ut si aliter maiestati regiae questum fuerit,
+                    Dominatio Vestra Reverendissima ne credat, sed coram sua maiestate me defendat,
+                    et rogo atque supplico tamquam domino confidentissimo, velit mihi rebusque meis
+                    apud maiestatem regiam singulari esse patrocinio.</p>
+                <p>Misi rursum litteras meas ad maiestatem suam, quas ut eandem suae
+                    maiestati praesentare <del corresp="author">velit</del> et iuxta illas in his,
+                    quae suae maiestati scripsi, partes suas interponere velit, rogo, et etiam <milestone unit="pb"/>responsum a sua maiestate obtinere ne recuset, illudque per postam
+                    remittere, quod eidem, quoad vixero, inservire studebo. Quicquid autem Dominatio
+                    Vestra Reverendissima mecum in mea necessitate fecerit, sentiet non ingrato
+                    homini fecisse. In reliquo ipsam feliciter valere opto, cui me et mea servitia
+                    commendo.</p>
+                <p>Datum in <placeName>Cheythe</placeName> feria quarta ante festum
+                    Pentechosten 1545.</p>
+                <p>
+                    <seg type="signature">Ludovicus Pekry de Pethrowyna comes Lypthowyensis
+                        etc.</seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo domino, Nicolao Olah episcopo ecclesiae Zagrabiensi ac
+                    cancellario consiliarioque maiestatis regiae etc. domino plurimum
+                    observandissimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

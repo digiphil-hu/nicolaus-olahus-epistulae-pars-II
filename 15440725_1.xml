@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">645</title>
+                <title type="main">Miklós Oláh to Leonhard von Vels (Prague, 25 July 1544)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15440725_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi>
+                        <hi rend="italic">Other 18-century handwriting:</hi> 1544. Litterae Nicolai
+                        Olahi episcopi Zagrabiensis responsum in captivati privigni Quirini
+                        Schlacher 25. Iulii Fasc. 69. Lit. 2. N. 24. Pragae. </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Slovakia</country>
+                        <settlement>Banksá Bystrica</settlement>
+                        <institution>ŠABB MMBB</institution>
+                        <repository>Fasc. 168. No. 42.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1544-07-25">25 July 1544</date>
+                <placeName>Prague</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Leonhard von Vels</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Leonhard von Vels (Prague, 25 July 1544)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Schlacher, an illustrious Banská Štiavnica citizen, laments that his
+                            16-year-old stepson, who had gone to take care of some affairs, was
+                            caught by Dubowsky’s servitors. They thought they would find silver on
+                            him, although of course there was none on him, and he has been in
+                            captivity ever since. Schlacher asked Oláh to talk to Vels and make sure
+                            the youngster is released; Dubowsky should receive the same order from
+                            the King.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Generose et Magnifice Domine Observandisime, salutem et obsequiorum
+                    commendationem!</p>
+                <p>Lamentatur is circumspectus <persName>Quirinus Schlaher</persName><note
+                        type="critic">Quirin Schlacher or Schlachter was a <hi rend="italic"
+                            >Waldbürger</hi> in Banská Štiavnica and later became Mayor of the city.
+                        In 1544, he launched a foundation for Lutherans students in Wrocław, see <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 598; <hi
+                            rend="smallcap">Scheible</hi> 1996, 276; and <hi rend="smallcap"
+                            >Probszt</hi> 1958, 139.</note> civis Scemniciensis, qualiter
+                    superioribus temporibus quendam adolescentem annorum nactum sedecim, privignum
+                    suum negotiorum suorum quorundam causa <placeName>Wratislaviam</placeName>
+                    proficiscentem servitores domini <persName>Ioannis Dobowczky</persName><note
+                        type="critic">Probably Johannes Dubowsky. We only know him from a document
+                        from the year 1535 (Archiv of Banksá Bystrica), see <hi rend="smallcap"
+                            >Meier–Piirainen–Wegera</hi> 2009, 231.</note> ob suspicionem quandam
+                    eductionis argenti, cum ne minimum quidem argenti granum apud eundem repertum
+                    fuisset, in via publica sociis ipsius interemptis cepissent et in hunc usque
+                    diem in dura captivitate idem dominus <persName>Doboczky</persName> eum teneret.
+                    Unde rogavit me idem <persName>Quirinus</persName>, ut pro eodem adolescente
+                    Dominationem Vestram Magnificam interpellarem, cui non potui meam operam
+                    denegare. Rogo itaque Dominationem Vestram Magnificam, velit et aequitatis et in
+                    mei gratiam cum domino <persName>Ioanne Doboczky</persName> agere, ut praefatum
+                    adolescentem ex captivitate liberum dimittere, et dimitti facere velit; sicuti
+                    etiam idem dominus <persName>Ioannes Doboczky</persName> ex litteris regiae
+                    maiestatis, domini nostri clementissimi, hac in re ad eum datis id in commissis
+                    et mandatis <choice>
+                        <orig>habet</orig>
+                        <supplied>habeat</supplied>
+                    </choice>. Dominationem Vestram Magnificam feliciter valere opto.</p>
+                <p>Datum <placeName>Pragae</placeName> vigesimaquinta Iulii anno Domini
+                    millesimo quingentesimo quadragesimo quarto.</p>
+                <p>
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
+                            etc. manu propria</add>
+                    </seg>
+                </p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Generoso et magnifico domino Leonardo libero baroni a Fels,<note
+                        type="critic">Leonhard von Vels, nephew of Bernhard von Cles, made a
+                        successful military career. He participated in the siege of Vienna in 1529
+                        and became a successor of Wilhelm von Roggendorf as Grand Master of the
+                        Court <hi rend="italic">(Oberhofmeister)</hi>, see <hi rend="smallcap"
+                            >Kasza</hi> 2021, 29.</note> supremo magistro curiae ac capitaneo
+                    exercitus regiae maiestatis in Hungaria generali etc. domino observandisimo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">593</title>
+                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 5 October 1537)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15371005_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 606–607.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi>
+                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 189–190.</p>
+                    <p><hi rend="italic">In French:</hi>
+                        <hi rend="smallcap">Polet</hi> 1936, 259. [regesta]</p>
+                </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >574–576.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1537-10-05">5 October 1537</date>
+                <placeName>Leuven</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Pieter Nanninck</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 5 October 1537)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Although Ludolphus, who has arrived with Rutger Pathius, has not brought
+                            any letter, he has reported that Oláh is well. Nanninck is suffering
+                            from his eye disease, he inherited trouble from two poets: Virgil had
+                            headaches, while Horace had eye infections. He has taken on Pathius’
+                            brother as a convivial fellow, but in a way that Nanninck’s brother is
+                            feeding him and Nanninck is teaching him, this way they divide worry and
+                            profit between them. Both Oláh and the Queen trust Pathius so much that
+                            they do not need to worry they will be disappointed; but he does not
+                            want Pathius to learn that Nanninck’s brother had his doubts. He cannot
+                            write more now due to his grief, he has lost his sister.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem plurimam. </p>
+                <p>Etsi nihil litterarum ad me attulit <persName>Ludolphus</persName><note
+                        type="critic">He was probably a protégé of Oláh, see <hi rend="smallcap"
+                            >Polet</hi> 1936, 259.</note> noster, qui huc cum
+                        <persName>fratre</persName><note type="critic">See Ep. 590. Cap.
+                        2.</note><ref>/o:olahus.tei.15370928_1</ref>
+                    <persName>Rutgeri</persName><note type="critic">Rutger Pathius.</note> venit,
+                    tamen quia mihi <milestone unit="pb"/>te recte valere nuntiavit, multisque negotiis impeditum esse, cur minus
+                    scriberes, statui mollius mihi ferendum esse desiderium tuarum litterarum, quod
+                    tum lenies, ubi tua negotia permiserint. Nos cum medicis diu luctati sumus
+                    adversus lippitudinem,<note type="critic">See Ep.
+                        583.</note><ref>/o:olahus.tei.15370310_1</ref> quam tamen in hoc genere mali
+                    rectius ὀφθαλμίαν<note type="critic">‘eye disease’.</note> vocavero. Duo summi
+                    poetae sua vitia in me exonerarunt: <persName>Vergilius</persName> capitis
+                    dolorem, <persName>Horatius</persName> lippitudinem, mallem potius virtutes
+                    transtulissent ἀλλὰ τὰ παρόντα <choice>
+                        <orig>ἐὐ</orig>
+                        <supplied>εὖ</supplied>
+                    </choice> τίθεσθαι δεῖ.<note type="critic">‘but the current things have to be
+                        settled’.</note> Ego <persName>fratrem</persName>
+                    <persName>Rutgeri</persName> tui in ὁμοτράπεζον<note type="critic">‘convivial
+                        fellow’.</note> accepi, quamquam alendi negotium in <persName>fratrem
+                        meum</persName><note type="critic">We do not know his name, but according to
+                        Nanninck, he later entered the service of Emperor Charles V and settled in
+                        Ghent. Nanninck reports in 1548 that his brother had been the victim of a
+                        night attack at the Imperial Court and killed one of his assailants but he
+                        was released thanks to the intercession of his powerful friends and the
+                        Hague Senate, see <hi rend="smallcap">Polet</hi> 1936, 3.</note> transtuli,
+                    docendi mihi reservavi, ita inter nos cura et lucrum partitur; is, ut est
+                    sollicitus, praesertim in nova familia rogavit ex me, numquid periculi in
+                    posterum foret de solutione; respondi omnia secura esse. Talem esse
+                        <persName>Rutgerum</persName>, et in tanta gratia apud reginam, ut nihil
+                    tale de eo metuendum sit, deinde tui apud eum tanta reverentia, ut etiam si
+                    talis non esset, qualis quam maxime est, te tamen salvo, nunquam illum ausurum
+                    solutionem differre, tantum abesse, ut omitteret, deinde ipsum iuvenem verbis
+                    tuis mihi commendatum, idque me scire ex litteris
+                        <persName>Dani</persName>,<note type="critic">Jakob Jespersen.</note> si
+                    modo ea scripsit ex tuo mandato. Nolim tamen has fratris mei haesitationes
+                        <persName>Rutgero</persName> indices, scio enim eum stulta sollicitudine
+                    moveri, teque mihi ultro indicaturum, si quid in hoc nomine periculi esset, quod
+                    ego nullum omnino arbitror. </p>
+                <p>Nos maluimus pauca, quam nihil scribere, ne aut opportunitate <milestone unit="pb"/>tabellarii non uterer, aut loquacitate tuas hoc tempore gravissimas
+                    occupationes accumularem, deinde luctus, in quo nunc sum, amisi enim unicam
+                        <persName>sororem</persName>,<note type="critic">Marguerite, wife of Jordan
+                        van Foreest, died in September 1537, see <hi rend="smallcap">Polet</hi>
+                        1936, 3.</note> vix mihi permittit ullum usum litterarum, cuius causa brevi
+                    in <placeName>Hollandiam</placeName> propero. Tu, mi Unice et Doctissime et
+                    Humanissime Patrone, diu nobis studiisque feliciter vivas. </p>
+                <p>3. Nonas Octobres 1537.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

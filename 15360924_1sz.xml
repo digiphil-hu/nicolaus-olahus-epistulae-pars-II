@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">574</title>
+                <title type="main">Cornelis De Schrijver to Miklós Oláh (Antwerp, 24 September
+                    1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360924_1sz</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Ms. I and ms. II are contemporary copies with
+                        Oláh’s emendations. Ms. III is a later copy. (1730)
+                            <ref>/o:olahus.tei.15340422_1</ref>
+                    </p>
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 586. </note>
+                <note type="translation"><p><hi rend="italic">In Romanian:</hi>
+                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 156–157.</p></note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15361005_1" type="url">576</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >072–073.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+                <listWit>
+                    <witness xml:id="CE">Critical Edition</witness>
+                    <witness xml:id="I">Hungary, Budapest, MNL OL P 108 Rep. 71. Fasc. 23. p.
+                        72–73.</witness>
+                    <witness xml:id="II">Hungary, Budapest, ELTE EK, H 46, fol. 234v.</witness>
+                    <witness xml:id="III">Hungary, Budapest, ELTE EK, Kaprinai B087 217 01 p.
+                        461.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-09-24">24 September 1536</date>
+                <placeName>Antwerp</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Cornelis De Schrijver</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Cornelis De Schrijver to Miklós Oláh (Antwerp, 24 September
+                    1536)</head>
+                <floatingText>
+                    <body>
+                        <p>He is sending the piece he has written for the Queen, which his brother
+                            has printed, along with other works he has published. He placed an
+                            epigram on the cover so the whole world knows how good Oláh has been to
+                            him. He is also sending the epigrams he wrote on Erasmus of Rotterdam’s
+                            death. He is recommending him to Cornelis de Schepper and Maximiliaan
+                            van Zevenbergen.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Cornelius Grapheus Nicolao Olao salutem. </p>
+                <p>Magnifice Domine! Quem dicavi augustissimae
+                        <persName>reginae</persName> libellum,<note type="critic"><hi rend="italic"
+                            >Ad optimam heroidem Mariam, Hungariae reginam, sacrorum bucolicorum
+                            aeglogae tres</hi>, see Ep.
+                        551.</note><ref>/o:olahus.tei.15351201_1</ref> eum una cum aliis nonnullis
+                    per <persName>fratrem</persName><note type="critic">Johannes Grapheus was a
+                        printer in Antwerp.</note> meum excusum, <milestone unit="pb"/>tandem ad te mitto. Ut autem mundus non ignoret tuum erga me
+                    beneficium, nempe te mihi exhibendo libello apud reginam fuisse ducem, posui pro
+                    fronte libelli epigramma, quo mea Musa meam erga te testatur gratitudinem.
+                    Epitaphia quoque, quae <persName>Erasmo</persName> demortuo scripsi, ad te cum
+                    praesentibus misi. Te vero oro, ut haec qualia, qualia sunt, boni consulas. Vale
+                    et me amicis commenda, praesertim domino <persName>Cornelio
+                        Sceppero</persName><note type="critic">Cornelis de Schepper.</note> et
+                        <persName>Maximiliano Transilvano</persName>,<note type="critic">Maximiliaan
+                        van Zevenbergen.</note> ad quem quoque privatim scribo. Rursum vale. </p>
+                <p><placeName>Antverpiae</placeName> VIII. Kalendas Octobris anno MDXXXVI. </p>
+                <p
+                    ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Epitaphium
+                    domini Erasmi Roterodami per Grapheum]<?oxy_custom_end?><note type="critic"><hi
+                            rend="smallcap">Ipolyi</hi> 1875, 586–587. In Romanian: <hi
+                            rend="smallcap">Albu–Capoianu</hi> 1974, 157–158.
+                    </note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p>[Aliud]<?oxy_custom_end?><note type="critic"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974,
+                    158.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p>[Aliud]<?oxy_custom_end?><note type="critic"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974,
+                    158.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p>[Aliud]<?oxy_custom_end?><note type="critic"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974,
+                    158.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p>[Aliud]<?oxy_custom_end?><note type="critic"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587–588. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974,
+                    158.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                <p>[In Erasmi imaginem]<?oxy_custom_end?><note type="critic"><hi
+                            rend="smallcap">Ipolyi</hi> 1875, 588. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974,
+                    158–159.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+            </div>
+        </body>
+    </text>
+</TEI>

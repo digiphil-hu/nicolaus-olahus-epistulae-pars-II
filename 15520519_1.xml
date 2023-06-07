@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">810</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Innsbruck, 19 May 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15520519_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 64. Konv. A.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">61r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-05-19">19 May 1552</date>
+                <placeName>Innsbruck</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Innsbruck, 19 May 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>He has received Oláh’s and István Dobó’s letter, from which he
+                            understands how Dobó went about the matter of the Boldogkő castle. He is
+                            sending back the letters Maximilian wrote in his absence: he has signed
+                            them, Oláh should put the Hungarian seal on them, and they should be
+                            sent out for enforcement so that he can recover the castle of Gyula. He
+                            will take on the expenses Dobó incurred in this matter.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissime in Christo Pater, Fidelis sincere nobis
+                    Dilecte!</p>
+                <p>Redditae sunt nobis et tuae et egregii <persName>Stephani
+                        Dobonis</persName><note type="critic">István Dobó.</note>
+                    <del corresp="scriba">de P</del> arcis Agriensis castellani litterae,<note
+                        type="critic">Oláh sent him Dobó’s letter, see Ep.
+                        809.</note><ref>/o:olahus.tei.15520516_3</ref> ex quibus abunde intelleximus
+                    tum ea, quae ipse <persName>Dobo</persName> iuxta mandatum et instructionem
+                    nostram in negotio arcis <placeName>Baldokew</placeName><note type="critic"
+                        >Castle of Boldogkő.</note> egit, tum etiam <del corresp="scriba"><gap
+                            extent="1" reason="illegible" unit="word"/>
+                    </del> praesertim autem ex litteris pro signatura ad nos missas ea, quae
+                    serenissimo principi domino <persName>Maximiliano</persName> regi Bohemiae,
+                    filio nostro carissimo atque tibi in eo ipso negotio a nobis scribi debere visa
+                    sunt, probantes itaque clementer hanc dilectionis suae et tuam consultationem et
+                    deliberationem, atque adeo litterarum desuper conscriptarum <del
+                        corresp="scriba">cum</del> tenorem et continentiam illas manu nostra
+                    significavimus, et tibi cum praesentibus remittimus, ut sigillo nostro Hungarico
+                    per te <del corresp="scriba">obsignatae</del> primum obsignentur, et deinde ad
+                    exsecutionem mittantur, ut restitutio arcis <placeName>Giwlae</placeName><note
+                        type="critic">Gyula.</note> iam tandem fiat et ulterius id, quod plurimum
+                    optamus, non differatur. <add corresp="scriba" type="insert">Expensas, quas ipse
+                            <persName>Dobo</persName> iam faciet et adhuc facit in praesenti negotio
+                        per Cameram nostram exsolvi ordinavimus.</add></p>
+                <p>Datum <placeName>Oeniponti</placeName> die 19. Maii 1552.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the other side:</head>
+                <p> Reverendissimo in Christo patri Nicolao Olaho episcopo Agriensi
+                    compatri consiliario et in regno nostro Hungariae cancellario nostro, fideli et
+                    sincero nobis dilecto.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

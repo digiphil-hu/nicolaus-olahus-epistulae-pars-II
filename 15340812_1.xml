@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">503</title>
+                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 12 August 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340812_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 504–505.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >389–390.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-08-12">12 August 1534</date>
+                <placeName>Milan</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Camillo Ghilino</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 12 August 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Since
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>count
+                            Maximilian’s<?oxy_custom_end?> men have arrived to buy a gyrfalcon,
+                            Ghilino is taking the opportunity to write to Oláh. The Empress suffered
+                            a stillbirth, which has saddened everyone. The Pope is suffering from
+                            dysentery, and the physicians have given up on him, even if he is
+                            somewhat better now. Hayreddin Barbarossa Pasha is said to be heading
+                            for Malta. They have learned from a letter from Sicily that King Francis
+                            I has sent Antonio Rincon to the Turks, and that the Sultan’s envoy
+                            suffered a shipwreck on his way home and has been captured, but he has
+                            been ransomed. Lodovico Gritti has arrived to Belgrade to mediate
+                            between King Ferdinand I and Szapolyai, he wishes he was successful. He
+                            would like to hear about the English affairs.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Idem Nicolao Olao salutem.</p>
+                <pb/>
+                <p>Scripsi superioribus diebus ad te de omnibus rebus, quae hic
+                    circumferebantur et litteris tuis, quas ad me <persName>Candiano</persName><note
+                        type="critic">Ambrogio Candiano.</note> dedisti, respondi.<note
+                        type="critic">Probably Ep. 490. and Ep.
+                        491.</note><ref>/o:olahus.tei.15340531_1</ref><ref>/o:olahus.tei.15340531_2</ref>
+                    Nunc venientibus istuc Maximiliani comitis familiaribus emptum hirifalcos<note
+                        type="critic">The gyrfalcon according to Hoven, i.e. the largest of the
+                        falcon species (falco rusticolus). See <hi rend="smallcap">Hoven</hi> 2006,
+                        246.</note> non falcones, officii mei esse censui haec paucula tibi exarare,
+                    quo meam sempiternam erga te observantiam facilius cognoscere posses.
+                        <persName>Augustae</persName><note type="critic">Isabella of
+                        Portugal.</note> abortus<note type="critic">This son was stillborn. The
+                        Empress had seven pregnancies and suffered two miscarriages.</note> nos
+                    omnes sollicitos reddidit. Utinam caesari in danda filiis opera melior ei
+                    fortuna arrideat, sed deos spero caesari, deo nostro<note type="critic">After
+                        this word, a word missing.</note> fore propitios.
+                        <persName>Pontifex</persName><note type="critic">Pope Clement VII.</note> ex
+                    Urbanis litteris III. Nonarum Sextilis<note type="critic">3 August.</note>
+                    disenteria gravissime laborabat, hominem medici in desperatis habebant, quamvis
+                    meliusculus esset factus.<note type="critic">Indeed, he died soon, on 25
+                        September.</note>
+                    <persName>Aenobarbus</persName><note type="critic">Hayreddin Barbarossa
+                        Pasha.</note> cum classe Turcica <placeName>Zaznithum</placeName> versus
+                    navigabat oppugnaturus <placeName>Melitam</placeName><note type="critic"
+                        >Malta.</note> incerto tamen rumore. Ex <persName>Siculis</persName>
+                    litteris nobis nuntiatum est <persName>Gallum</persName><note type="critic">King
+                        Francis I.</note> misisse ad Turcas Rineonem<note type="critic">Antonio
+                        Rincon (†1541) was an envoy of King Francis I to Szapolyai, later to Sultan
+                        Suleiman I and he was sent to Constantinople between 1530 and 1541 several
+                        times, see <hi rend="smallcap">Setton</hi> 1984, passim; and <hi
+                            rend="smallcap">Kasza</hi> 2015, 91–92 and 156.</note> Hispanum. Item
+                    Turcae oratorem redeuntem ex Gallia naufragium fecisse in sirtibus minoribus
+                    captum et postea redemptum ad caesarem suum profectum. Audivimus
+                        <persName>Gritteum</persName><note type="critic">Lodovico Gritti.</note>
+                    <placeName>Albam Graecam</placeName><note type="critic">Belgrade.</note>
+                    pervenisse pro componendis inter <persName>regem</persName><note type="critic"
+                        >King Ferdinand I.</note> nostrum et <persName>Ioannem</persName><note
+                        type="critic">King John I.</note> rebus. Utinam ex sententia nostra, quod
+                    reliquum est, succedat. Ego de Anglicis rebus certior fieri cupio.
+                        <persName>Rimoldus</persName><note type="critic">We do not know him more
+                        closely.</note> operam suam tibi praestabit, quo me possis rariora et
+                    constantissima docere. Salutabis meo nomine clarissimam <persName>Virginem
+                        Lucretiam</persName>.<note type="critic">Lucretia Caballis (vom
+                        Ross).</note> Valere cupio Olaum meum et serenissimae dominae, dominae
+                    reginae, dominae nostrae clementissimae pedes deosculor. Vale, Amicorum Optime,
+                    et <persName>Bannisio</persName><note type="critic">Jakob Radich de Bannisis the
+                        Younger.</note> me commenda, cui et in primis tibi globum meum curae esse
+                    cupio. Si <persName>Rotterodamus</persName> noster in patriam rediit, fac, ex te
+                    intelligam. </p>
+                <p><placeName>Mediolano</placeName> pridie Idus Sextilis 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">526</title>
+                <title type="main">Miklós Oláh to Jodocus Hoetfilter (Brussels, 25 January
+                    1535)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15350125_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 542–543.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >555–556.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1535-01-25">25 January 1535</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh </persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Jodocus Hoetfilter</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Jodocus Hoetfilter (Brussels, 25 January
+                    1535)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Their mutual friend, Johannes Stanshardus has shown him Hodfilter’s
+                            letter, according to which Hodfilter is looking after Oláh’s affairs –
+                            although Oláh has not even asked him to do so. This is a sign of true
+                            friendship, and he hopes that he will be able to return the favor one
+                            day. As to Oláh’s possessions, he hopes that if Hungary is not
+                            completely destroyed, he will get them back one day, but not due to fear
+                            but because he fulfilled his duties at the court. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad Iodocum Hothfelther<note type="critic">Jodocus
+                        Hoetfilter or Jodokus Hodfilter (1500–1551) was Provost of Lübeck from 1533
+                        and became Bishop of Lübeck in 1548. He graduated from Cologne and became
+                        Secretary of Lorenzo Campeggio during his journey through Germany. For more
+                        on his life, see <hi rend="smallcap">Illigens</hi> 1896, 9–10; <hi
+                            rend="smallcap">Kötter</hi> 1993, 334.</note> dominum dominum
+                    praepositum Lubicensem et ad gradus Moguntinenses, secretarium cardinalis
+                        Campegii.<note type="critic">Lorenzo Campeggio.</note></p>
+                <pb/>
+                <p><persName>Iohannes Stanshardus</persName><note type="critic">We do not
+                        know him more closely, see Ep. 375. Note 9.</note> utriusque nostrum amicus
+                    ostendit mihi litteras tuas ad eum datas,<note type="critic">We do not know this
+                        letter.</note> in quibus scripsisti te meam rem curae habere et cupere mihi
+                    gratificari. Habeo tibi gratias cumulatas, qui nullo a me officio amicitiae
+                    provocatus, tam humane operam tuam mihi pollicearis. Ea semper est verae
+                    humanitatis laus, ut etiam eorum, quos licet non norimus, tamen nosse velimus,
+                    nobis cordi sint negotia. Si quid vicissim esset, in quo animi mei erga te grati
+                    argumentum declarare possem, nihil hoc facerem libentius., in quibus scripsisti
+                    te meam rem curae habere et cupere mihi gratificari. Habeo tibi gratias
+                    cumulatas, qui nullo a me officio amicitiae provocatus, tam humane operam tuam
+                    mihi pollicearis. Ea semper est verae humanitatis laus, ut etiam eorum, quos
+                    licet non norimus, tamen nosse velimus, nobis cordi sint negotia. Si quid
+                    vicissim esset, in quo animi mei erga te grati argumentum declarare possem,
+                    nihil hoc facerem libentius.</p>
+                <p>In rebus meis etsi nunc profligatis et in hostium manus devolutis,
+                    tamen ut spes mihi est, si tota Hungaria non peribit, aliquando <del
+                        corresp="Olahus">rediturus</del><add corresp="Olahus" type="corr"
+                        >redituris</add> suam sententiam perscribet idem
+                        <persName>Stanshardus</persName>; quas, si fieri poterit, in futurum rerum
+                    eventum cuperem expeditas fore. Non ob conscientiae, de quo scribis, scrupulum
+                    aut timorem rei alicuius, ubi non sit timor (haec enim Italiae mores et religio
+                    me non pluris, quam re ipsa <choice>
+                        <orig>sunt</orig>
+                        <supplied>sint</supplied>
+                    </choice>
+                    <add corresp="Olahus" type="insert">ferenda esse</add> edocuerunt), sed ut
+                    curiae nostrae <del corresp="Olahus">quantumvis</del> Romanae legibus videar
+                    satisfecisse, et nostros Hungaros, qui nunc ob Turcae vicinitatem non magnopere
+                    talia curant, hac re vicisse. Vale feliciter et me habe commendatum. </p>
+                <p><placeName>Bruxellae</placeName> 25. Ianuarii 1535.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

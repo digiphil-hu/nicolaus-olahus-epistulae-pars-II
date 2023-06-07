@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">764</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Augsburg, 9 March 1551)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15510309_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria </country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 57. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">27r.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1551-03-09">9 March 1551</date>
+                <placeName>Augsburg</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Augsburg, 9 March 1551)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>Gergely Bornemissza, George Martinuzzi’s legate, has handed over Oláh’s
+                            letter. Bornemissza has come to Augsburg and presented what had been
+                            entrusted to him. Since King Ferdinand I wants to be in Vienna within
+                            eight days, he has postponed the legate’s matter until then to think
+                            about the answer. He will let Oláh know so Oláh can be there when he
+                            arrives.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissime Fidelis nobis Dilecte! </p>
+                <p>Reddidit nobis litteras<note type="critic">We do not know this
+                        letter.</note> Devotionis Tuae <persName>Gregorius
+                        Bornemissa</persName><note type="critic">Gergely Bornemissza.</note> nuntius
+                    reverendissimi <persName>episcopi Waradiensis</persName>,<note type="critic"
+                        >George Martinuzzi.</note> qui hodie huc
+                        <placeName>Augustam</placeName><note type="critic">Augsburg.</note>
+                    applicuit, nosque <del corresp="scriba">tamen</del><add corresp="scriba"
+                        type="corr">primum</add> a meridie inter secundam et tertiam horam convenit
+                    et mandata sua nobis exposuit. Cum utro <del corresp="scriba"> cras
+                        discessivi</del> cras discedere et intra octiduum
+                        <placeName>Viennam</placeName> dante Deo pervenire statuerimus, eiusdem
+                    nuntii expeditionem eo usque differendam esse censuimus, ut illis omnibus <del
+                        corresp="scriba">maturius deliberare</del> ponderitis <del corresp="scriba"
+                        >eo</del><add corresp="scriba" type="corr">tanto</add> melius respondere, et
+                    deinde ipsum nuntium, quem <del corresp="scriba">eo etiamsi</del> pro nunc eo
+                    remisimus, recta ad ipsum <persName>Waradiensem</persName><note type="critic"
+                        >Martinuzzi was also Bishop of Oradea.</note>
+                    <del corresp="scriba">ac remittere</del><add corresp="scriba" type="corr"
+                        >expedire</add> possimus. Quod <del corresp="scriba">tibi</del><add
+                        corresp="scriba" type="corr">Devotioni Tuae</add> ideo significamus, ut in
+                    adventu istic nostro <del corresp="scriba">nobis tu</del> Devotio Tua quoque ibi
+                    adsit. </p>
+                <p>Datum <placeName>Augustae</placeName> die 9. Martii 1551.</p>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>Probably on the outer side:</head>
+                <p>Agriensi.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

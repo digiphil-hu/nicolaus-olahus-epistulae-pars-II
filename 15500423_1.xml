@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">737</title>
+                <title type="main">Hungarian Chamber to [Miklós Oláh] (Bratislava, 23 April
+                    1550)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15500423_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft. There is no addressee but
+                        according to the content, it should be written to Oláh. </p>
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15500520_1" type="url">739</ref>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>E 15 – 1550 – április.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"/>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1550-04-23">23 April 1550</date>
+                <placeName> Bratislava</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Hungarian Chamber</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>[Miklós Oláh]</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Hungarian Chamber to [Miklós Oláh] (Bratislava, 23 April
+                    1550)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. They wanted to talk to Oláh about the details of the payment when they
+                            were last in Vienna, but they did not have the time. In any case, they
+                            wanted to let him know that they are ready to pay both last year’s and
+                            this year’s salarium before Saint Urban’s day. 2. They will also take
+                            care of the leasehold of the tithes of the Sáros and Bereg county tithe
+                            districts. The Sáros leasehold would be 800 florins, but because part of
+                            this is collected by others, as they have already written to Oláh, they
+                            have only been able to collect 550 florins so far. They will pay the
+                            leasehold of the two other tithe districts, 730 florins, in full, plus
+                            the leaseholds of Prešov, Bardejov, and Zebyn, a total of 215 florins.
+                            Since they have already paid 1,000 florins, they only owe 502 florins,
+                            which they will take care of. 3. As for the income of the Eger
+                            bishopric, which Oláh is asking for from the day he took his seat, there
+                            the King’s order binds them, according to which it has to be counted
+                            from the date of his appointment; in this matter it would be better if
+                            Oláh himself discussed it with the King.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Reverendissime Domine, Domine et Fautor nobis Observandissime, post servitiorum
+                    nostrorum commendationem!</p>
+                <p>[1.] Quamquam valde cupiebamus cum Reverendissima Dominatione Vestra, dum proxime
+                        <placeName>Wiennae</placeName> essemus, de tota ratione solutionis, qua
+                    Reverendissima Dominatio Vestra ab hac Camera exspectat, concludere, tamen cum
+                    neque Reverendissimae Dominationi Vestrae, neque nobis eam ad rem satis vacuum
+                    tempus esset, coacti sumus ea propemodum infecta istinc discedere. Sed cum satis
+                    cognitum habeamus Reverendissimam Dominationem Vestram finalem resolutionem
+                    huius negotii exspectare, significandum eidem esse duximus, quod quantum attinet
+                    ad restantias denariorum decem Reverendissimae Dominationis Vestrae debitas et
+                    ad eam partem salarii, quae eidem de anno praterito solvenda restat, nos paratos
+                    esse, tam de his, quam de alia media parte queri pro praesenti anno debetur, ad
+                    diem Divi Urbani proxime futurum<note type="critic">25 May.</note> contentam
+                    reddere. Sicut nos quid coram facturos obtulimus, et eidem etiam in scriptis
+                    exhibuimus. </p>
+                <p>[2.] Curabimus praeterea <del corresp="author">pro eodem tempore</del>
+                    Reverendissimae Dominationi Vestrae persolvi reliquam partem arendae decimarum
+                    comitatus Saros, et duorum districtuum comitatus Beregh, quanta a nobis iuste
+                    dari debere videtur. Supputamus autem arendam decimae comitatus Saros ad
+                    Florenorum octingentos, prout ea decima prioribus annis semper fuit arendata.
+                    Sed quia magnam eius partem alii perceperunt, sicut Reverendissimae Dominationi
+                    Vestrae etiam in scriptis dedimus, nos pro ea parte, quae ad rationem regiae
+                    maiestatis percepta est, iuxta priorem computum nostrum, quem <add
+                        corresp="author" type="insert">similiter</add> Reverendissimae Dominationi
+                    Vestrae coram proposuimus, nunc quoque computamus Florenorum <milestone
+                        unit="pb"/>quingentos et quinquaginta, ea tamen lege et conditione, ut si
+                    Reverendissima Dominatio Vestra perfecerit, ut reddantur ea, quae alii
+                    perceperunt, nos Reverendissimae Dominationi Vestrae, quod reliquum est usque ad
+                    completionem octingentorum Florenorum solvere teneamur. Decimas vero duorum
+                    districtuum <placeName>Wary</placeName><note type="critic">Vary.</note> et
+                        <placeName>Kazzon</placeName><note type="critic">Koson.</note> in comitatu
+                    de Beregh, quae consueverunt arendari Florenorum septingentis et triginta sex,
+                    integre persolvemus, et tamen etiam lege, ut Reverendissima Dominatio Vestra
+                    curet eam partem, quam dominus <persName>Andreas Bathory</persName> de eisdem
+                    decimis percepit restitui. Ad haec accedunt decimae civitatuum
+                        <placeName>Eperies</placeName>, <placeName>Bartpha</placeName> et
+                        <placeName>Lebyn</placeName>,<note type="critic">Instead of Zebyn. Today:
+                        Sabinov.</note> quorum arenda ad rationem regiae maiestatis percepta facit
+                    Florenorum ducentos et quindecim. Facit itaque summa arendae dictarum decimarum
+                    modo praescripto Florenorum mille quingentos et duos. In quam rationem cum
+                    soluti sint antea Reverendissimae Dominationi Vestrae Floreni mille, restant
+                    Florenorum quingenti et duo, quos <del corresp="author">ut supra dictum
+                        est</del> cum aliis solutionibus <del corresp="author">ad praedictum diem
+                        Divi Urbani</del> Reverendissimae Dominationi Vestrae omnino curabimus
+                    expediri. </p>
+                <p>[3.] Quantum vero pertinet ad eam partem proventuum episcopatus Agriensis, quam
+                    sibi Reverendissima Dominatio Vestra a die occupationis arcis Agriensis reddi
+                    petit, nos quidem minime gravate in <choice>
+                        <orig>eo</orig>
+                        <supplied>ea</supplied>
+                    </choice> quoque petitione Reverendissimae Dominationi Vestrae responderemus,
+                    sed obstat nobis commissio regiae maiestatis, quae proventus in rationem
+                    Reverendissimae Dominationi Vestrae cedentes non a die occupationis <del
+                        corresp="author">arcis</del>
+                    <placeName>Agriae</placeName>, sed a die, <milestone unit="pb"/>quo declarata
+                    est Reverendissima Dominatio Vestra in episcopum Agriensiem, computari iussit.
+                    Intelligemus quidem allegationem Reverendissimae Dominationis Vestrae contra
+                    praemissam regiae maiestatis commissionem, et facile ei allegatione fidem
+                    habemus, sed nos commissionem regiae maiestatis propterea excedere non possumus,
+                    nec licet nobis maiestatem suam de hac Reverendissimae Dominationis Vestrae
+                    allegatione interpellare propter causas, quae Reverendissima Dominatio Vestra
+                    hoc per se commodius et facilius facere possit, et res eiusdem postulet, nos si
+                    prior maiestatis regiae commissio per eandem ad instantiam Reverendissimae
+                    Dominationis Vestrae abrogata fuerit, hac in re libentissime id praestabimus,
+                    quod cupit eadem Reverendissima Dominatio Vestra, cui alioqui perpetuo
+                    gratificari et inservire <choice>
+                        <orig>parate</orig>
+                        <supplied>parati</supplied>
+                    </choice> sumus. Optamus eandem bene valere.</p>
+                <p>Datum <placeName>Posonii</placeName> vigesima tertia die Aprilis 1550. </p>
+                <pb/>
+                <p>Ceterum cum regia maiestas dictas decimas Saros et duorum in Bereg districtuum
+                    pro praesenti quoque anno ad provisionem arcium <placeName>Saros</placeName> et
+                        <placeName>Hwzth</placeName> arendari iusserit, rogamus Reverendissimam
+                    Dominationem Vestram, ut committat <persName>provisori</persName> suo Agriensi,
+                    ne eas cuique alii arendet, parati autem simus de eisdem quoque cum
+                    Reverendissima Dominatione Vestra convenire et solvere more consueto.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

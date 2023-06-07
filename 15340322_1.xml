@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">474</title>
+                <title type="main">Miklós Oláh to Johan Weze (Brussels, 22 March 1534)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15340322_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy.
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 481–484.</note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >544–547.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1534-03-22">22 March 1534</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Johan Weze</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to Johan Weze (Brussels, 22 March 1534)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. He has received two letters from him, he is answering both now. He
+                            wishes Cornelis de Schepper an auspicious trip. Otherwise, the Emperor
+                            will not have another good opportunity like this to attack the Turks,
+                            when they are fighting in Persia. He has sent Schepper’s letter to
+                            Schepper’s wife, and Schepper’s courier has also been here. A Danish
+                            clerical envoy has brought letters of accreditation, they tried to send
+                            the orders after the legates who had been sent to Hamburg, so that they
+                            can represent Weze’s affairs, but it is probably already too late. 2. He
+                            is happy to hear about the Hungarian news, but he also knows that since
+                            Mohács even a tiny spark is enough for home affairs to end in tragedy
+                            again. Although now the Turks seem to be busy with the Persian war, they
+                            can attack again any time, and due to the lack of fortresses there is
+                            nothing to stop them from ravaging the country again. 3. As far as
+                            Weze’s affairs are concerned, he was happy to help, but the whole thing
+                            will be decided after a king has been elected. 4. The Queen is better,
+                            although her illness has become chronic; fortunately several people are
+                            visiting her. Christina of Denmark has left for Milan, and the English
+                            situation is getting worse: Oláh is afraid that this matter will even
+                            surpass the Lutheran predicament.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad archiepiscopum Lundensem oratorem caesaris. </p>
+                <p>[1.] Binas litteras<note type="critic">We do not know these
+                        letters.</note> tuas nudiustertius accepi: alteras, quae XV. Ianuarii
+                    praeteriti, alteras, quae secunda huius mensis datae erant. Utraeque fuerunt
+                    mihi gratissimae, primum, quod intellexi certam
+                        <persName>Cornelii</persName><note type="critic">Cornelis de
+                        Schepper.</note> ad <placeName>Constantinopolim</placeName> profectionem,
+                    quam antea veluti sub nube intellexeram, deinde quod te memoriam mei habere
+                    cognovi. Nam nullas tuas a septima Februarii<note type="critic">According to Ep.
+                        449., Oláh received Weze’s letter on 6
+                        February.</note><ref>/o:olahus.tei.15340208_1</ref> acceperam. Summatim
+                    igitur ad eas litteris respondebo. </p>
+                <p><persName>Cornelii</persName> profectionem et reversionem felicem et
+                    faustam exopto. Aliam ego exspectabam negotiorum rationem. Occupato nunc in
+                        <placeName>Persia</placeName> Turca, nulla salutarior, melior et commodior
+                        <persName>caesari</persName> nostro commoditas fuisset <milestone unit="pb"/>vires illius frangendi, et non dico <placeName>Hungariam</placeName>
+                    saltem, sed Europam recuperandi, quam nunc divinitus data fuerit, sed heu quo
+                    fata res mortalium trahunt. </p>
+                <p>Litteras ad <persName>uxorem</persName><note type="critic">Anna
+                        Isabella (Elizabeth) Donche.</note>
+                    <persName>Cornelii</persName> misi per <persName>decanum
+                        Brugensem</persName>,<note type="critic">Mark Lauwerijns.</note> qui heri
+                    casu ad me huc venerat, et reversus est hodie servitor etiam
+                        <persName>Cornelii</persName>; hoc die applicuit huc incolumis cum equis,
+                    cras vadit <placeName>Brugas</placeName>. <persName>Fetialis</persName><note
+                        type="critic">We do not know him more closely.</note> Danorum quidam, ut
+                    antea scripseram,<note type="critic">See Ep.
+                        456.</note><ref>/o:olahus.tei.15340217_2</ref> venerat huc per postham cum
+                    litteris solis, cum illo nihil firmum in rebus tuis agi potuit. Nam nihil aliud
+                    fuit, quam cursor cum litteris credentiis. Iam ante illius huc adventum res tua
+                    demandata erat et verbis et scriptis in instructione commissariis, qui
+                        <placeName>Hamburgam</placeName> profecti sunt, ut illius curam haberent
+                        sollicitam.<note type="critic">See Ep.
+                        449.</note><ref>/o:olahus.tei.15340208_1</ref> Cum quibus quid egerim, etiam
+                    ipse perscripsi aliis meis. Curabo, ut <persName>reginae</persName> litterae
+                    hinc ad eos mittantur, sed arbitror iam id frustra futurum. Nam exspectamus
+                    eorum reditum ad festum Paschae<note type="critic">5 April.</note> vel circiter. </p>
+                <p>[2.] De Hungarorum et illius, quem nominas, ad regem<note type="critic"
+                        >King Ferdinand I.</note> nostrum adventu laetor, sed nisi rex aliter
+                    stabilierit sua negotia, non multum fundamenti in ea re pono. Nam fundamento
+                    alio non strato quam facile illi veniunt, tam facile abeunt. Et modica
+                    contingente occasione nova rursus tragoedia, novum bellum orietur, quod quam
+                    difficile nostri sustineant, iam a septennio<note type="critic">Since the battle
+                        of Mohács (in 1526).</note> fere experti sumus. De te nihil dubito, quin
+                    quando tempus erit, rem meam diligenter perficias; quae quanto melius
+                    perficientur, tanto ego ero tibi obligatior. A Turca hoste nihil patior, sed a
+                    Turca amico <persName>Valentino</persName>,<note type="critic">Bálint
+                        Török.</note> qui mihi hoste Turca est acerbior. Ex adventu
+                        <persName>Griti</persName>,<note type="critic">Lodovico Gritti.</note> quis
+                    sit finis rerum Hungariae secuturus, videbimus, verum timeo, ne diutius
+                    remoretur, quam speramus. Ab initio ego et scripsi et dixi commercium Turcicum
+                    esse formidolosum, nubeculisque simillimum, huc et illuc vento agitatis, dum
+                    hostis eos urget ex <placeName>Persia</placeName>, libenter quaerunt in Europa
+                    pacem, dum illinc nihil timent, non aliud dies et noctes somniant, quam
+                    Hungariam totam et aliam Christianitatem; eorum animus, fides et promissio
+                    pendet ex rerum progressu. Tuum quod dicis esse somnium, mihi non somnium, sed
+                    vaticinium videtur. Nam si etiam victi fuerint, aut saltem attriti, quid multum
+                    de nobis iam extenuatis curant caesare quiescente, et ut res demonstrat, nihil
+                    magis, quam <milestone unit="pb"/>quietem amante. Cogemur nos facere quod illi volunt, nolimus, velimus.
+                    Nam ubi sunt claustra regni, quae illis vel minimum saltem resistere possent, si
+                    erimus eorum votis contrarii, a <placeName>Taurino</placeName> usque
+                        <placeName>Strigonium</placeName>, immo usque <placeName>Viennam</placeName>
+                    planitiem habent. Tria millia Turcarum, etiam si totam Hungariam nos sine
+                    arcibus illis amissis finitimis haberemus, dum volunt nos adoriri, Hungariae non
+                    minimam partem exurere possunt, si milites illis opponere voluerimus, non
+                    venient eo, ubi milites sentiunt, sed ubi nulli erunt. Praeterea quis est, qui
+                    tam latos Hungariae campos et vias militum praesidiis custodire possit? Nos
+                    illis nocere non multum possumus. Illi veniunt modica manu, dum volunt et nobis
+                    negotium facessunt, quandoquidem claves, quae sunt arces, amissae habent
+                    Hungariae, sed de his coram planius et exactius possemus commentari, quam
+                    litteris. Si scis Hungariae situm, haec omnia tu ipse diiudicabis, quae nunc
+                    scribo. </p>
+                <p>[3.] De mea in rebus tuis cura non est, quod gratias agas. Nam et feci
+                    et facturus sum omnia, in quibus tibi inservire potero libentissime. Gratumque
+                    est, dum tibi gratificari possum, vellem tamen, ut res Danica, quod ad regis
+                    electionem pertinet, securior esset. Qui quis futurus sit adhuc, incertum est.
+                    Post conventum Lubecensem, in quam partem res devolvetur, videbimus.
+                        <persName>Reginam</persName> ego de re illa, quam scribis, admonere possum,
+                    sed video, ut res hic agatur. Accipimus, quod dant, verbis plus faciunt multo,
+                    quam stipite duro. Mores huius patriae iam fere a triennio vidi, pacis potius,
+                    quam belli nunc cupidae. </p>
+                <p>[4.] <persName>Regina</persName> adveniente iam verno tempore melius se
+                    habere cepit, et speramus pristinam sanitatem, sed chronicam habet valetudinem.
+                    Quae mutatur nunc in melius, nunc in deterius. Spem habemus tamen, quod nostrum
+                    omnium votis sua maiestas sanabitur. Nobilis a <placeName>Siesnek</placeName>
+                    huc venit. Optime <persName>maiestas regia</persName> fecit, quod eum huc
+                    visitatum miserit. Nam <persName>caesar</persName> miserat ante quadragesimam
+                        <persName>dominum a Lassaw</persName><note type="critic">Probably John de
+                        Lassaw.</note> visum reginam, qui in die ultima Saturnaliorum hinc reversus
+                    est ad caesarem. <persName>Christierna</persName><note type="critic">Christina
+                        of Denmark.</note> princeps sponsa <persName>Mediolani ducis</persName>, ut
+                        scripsi,<note type="critic">See Ep.
+                        464.</note><ref>/o:olahus.tei.15340304_3</ref> antea discessit hinc
+                        undecima<note type="critic">In Ep. 464. Oláh wrote that Christina would
+                        leave on 10 April.</note><ref>/o:olahus.tei.15340304_3</ref> huius mensis.
+                    Res Anglicae indies fiunt contra <persName>pontificem</persName><note
+                        type="critic">Pope Clement VII.</note> deteriores, vereor, ne superent
+                        <persName>Lutherum</persName>. Nam res iam, si verum est quod praedicatur,
+                    devenisse dicitur ad demolitionem locorum sacrarum.
+                        <persName>Vespasianus</persName><note type="critic">Vespasian of
+                        Zara.</note> quid retulerit, fac me certiorem. Non mihi valde placet, quod
+                    sine <persName>Griti</persName> redierit, de quo quid speretur, cura, ut sciam.
+                    Mitto litteras <persName>Stanshardi</persName><note type="critic">We do not know
+                        him more closely, see Ep. 375. Note
+                        9.</note><ref>/o:olahus.tei.15330605_4</ref> et
+                        <persName>decani</persName><note type="critic">Mark Lauwerijns.</note> ad
+                        <persName>Cornelium</persName>. Vale. </p>
+                <p><placeName>Bruxellae</placeName> 22. Martii 1534.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

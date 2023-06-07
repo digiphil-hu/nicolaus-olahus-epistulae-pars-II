@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">567</title>
+                <title type="main">Miklós Oláh to István Brodarics (Brussels, 18 June 1536)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15360618_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15360422_1</ref>
+                    </p>
+                    
+                </note>
+                <note type="publication">
+                    <hi rend="smallcap">Ipolyi</hi> 1875, 576–577; <hi rend="smallcap">Kasza</hi>
+                    2012, 482–484.</note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p>
+                        <hi rend="bold">On the outer side:</hi>
+                    </p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei.15360422_1" type="url">564</ref>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Hungary</country>
+                        <settlement>Budapest</settlement>
+                        <institution>MNL OL</institution>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="pagination"
+                                            >306–308.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1536-06-18">18 June 1536</date>
+                <placeName>Brussels</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>István Brodarics</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">Miklós Oláh to István Brodarics (Brussels, 18 June 1536)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Gabriel Sanchez has handed over Brodarics’ letter of 22 April to him.
+                            He was sad to hear about Brodarics’ illness, especially because he is
+                            likely suffering from the same; he asks about the treatment, as soon as
+                            he knows what it is, he will let Brodarics know. 2. If Hungary was
+                            indeed peaceful, he would plan to return home, only the chaotic state of
+                            the country and his promise to Queen Mary have kept him from returning
+                            home. 3. Brodarics writes that Oláh would be appreciated at home; Oláh
+                            feels he has a good place beside King Ferdinand I, he is happy with his
+                            lot. 4. He has recommended Brodarics to the Queen, and he will keep
+                            doing so. 5. He has learnt from Johan Weze’s letter that Weze and Ferenc
+                            Frangepán have already traveled to Hungary; Oláh hopes that they will be
+                            successful. 6. He trusts that God will punish King Francis I for his
+                            treachery. </p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Nicolai Olai ad eundem responsio. </p>
+                <p>[1.] <persName>Gabriel Xanthus</persName><note type="critic">Gabriel
+                        Sanchez.</note> protonotarius Apostolicus, nuntius serenissimi Romanorum
+                    regis apud sedem Apostolicam, quo cum mihi iam a multis annis non vulgaris fuit
+                    amicitia, misit ad me ex <placeName>Urbe</placeName> litteras tuas XXII. Aprilis
+                    praeteriti datas,<note type="critic">Ep.
+                        564.</note><ref>/o:olahus.tei.15360422_1</ref> mihi vero hic nudiustertius
+                    redditas. Vix possum calamo perstringere, quanto dolore sim affectus, cum ex
+                    ipsis litteris tuam ex multis, ut scribis, laboribus et renum incommodis <del
+                        corresp="Olahus">contrariam</del><add corresp="Olahus" type="corr"
+                        >contractam</add> aegritudinem intellexerim. Si aegritudo corporis partiri
+                    posset, certe non minimam ad tempus in me illius partem susciperem. Sed cum id
+                    fieri nequeat, precor Deum optimum maximum, ut omnia haec tua incommoda cito
+                    avertat, et desideratam tibi concedat et corporis et animi felicitatem. Metuo
+                    plurimum etiam mihi de illo <del corresp="Olahus">renato</del><add
+                        corresp="Olahus" type="corr">renum</add> malo, cuius iam praeludia sensi.
+                    Huius rei causa sollicitus fui et undique percontari non destiti eius mali
+                    remedium. Iamque propediem aliquot ab amicis habiturus sum receptas experimento
+                        <del corresp="Olahus">conservatas</del><add corresp="Olahus" type="corr"
+                        >comprobatas</add>, quas cum habuero, earum faciam te <del corresp="Olahus"
+                        >pertaesum</del><add corresp="Olahus" type="corr">participem</add>. </p>
+                <p>[2.] Spem te mihi dare pacis in Hungaria futurae et me non diu, nisi id
+                    sponte facere velim, patria cariturum laetor mirum in modum. Nihil mihi in hac
+                    vita pace Hungariae bona contingere posset optatius, non mei commodi causa, sed
+                    quietis <del corresp="Olahus">et</del><add corresp="Olahus" type="corr">et
+                        publici</add> boni <del corresp="Olahus">patriae publici</del><add
+                        corresp="Olahus" type="corr">patriaeque</add> permansionis. Ego neque
+                    hactenus abfui, ut perpetuo <del corresp="Olahus">ac</del> solo patrio carere
+                    vellem. Quid enim eo homini suavius <milestone unit="pb"/>esse potest? Sed tot mala, scelera, caedes, quae per hos annos utrinque
+                    commissa sunt, audire, quod etiam ipsum mihi grave fuit, quam videre malui. Ita
+                    nolui patriae ipsius ruina, cladi ac periculo interesse. Malui praeter alias
+                    causas, quas antea ad te perscripsi, officio boni viri iampridem a me suscepto
+                    apud reginam meam inter omnes alios Hungaros satisfacere, quam istic ea intueri
+                    quae nollem. Cuius rei me hactenus non poenituit. Nisi enim membrum esse
+                    Hungariae, et nonnihil patriae me debere putarem, nescio, an alibi, quam hic
+                    animam Deo reddere mallem. </p>
+                <p>[3.] Quod scribis me in patria honoratum locum habere posse et te, ut
+                    id fiat, diligentem operam navare, de omni <del corresp="Olahus">tua</del><add
+                        corresp="Olahus" type="corr">tuo</add> in me singulari studio, amore et
+                    benevolentia, quae non aliter, quam oraculum Apollinis mihi a primis annis
+                    perspecta sunt, ago et habeo gratias immortales, relaturus perpetuas pace omnium
+                    nostrum parta. Quis tamen id sit, non intelligo. <del corresp="Olahus">Laus deo
+                        sit gratia</del><add corresp="Olahus" type="corr">Laus Deo et principibus
+                        meis sit gratia, locus</add> satis honoratus apud serenissimum regem meum
+                    mihi etiam hactenus non defuisset, si me iudicio potius, quam casu <del
+                        corresp="Olahus">hinc</del><add corresp="Olahus" type="corr">huc</add>
+                    conferre <del corresp="Olahus">voluissem</del><add corresp="Olahus" type="corr"
+                        >noluissem</add>, et si Dei potius, quam hominum promotionem non
+                    exspectavissem. Quid igitur velis intelligere, cupio a te certior fieri. Quo in
+                    proposito tuo permanere <del corresp="Olahus">te velim</del><add
+                        corresp="Olahus" type="corr">velis</add>, si id mihi salutare imprimis, et
+                    umeris meis ferendum esse existimaveris. Nam </p>
+               
+                    <quote>
+                        <lg>
+                            <l>Cui non conveniet sua res, ut calceus olim,</l> 
+                            <l>si pede maior erit, subvertet, si minor, uret.</l>
+                        </lg></quote>
+                    <note type="quote">Hor. <hi rend="italic">Epist</hi>. I,10,42–43.</note>
+                
+                <p>[4.] Serenissimae reginae meae non modo commendavi, ut iussisti,
+                    servitia tua, sed post alios sermones ea fere verba, quae ad me ad <add
+                        corresp="Olahus" type="insert">hoc</add> propositum scripseras, recensui.
+                    Dixit se optare et desiderare videre ea ita esse futura. Imposterum quoque, quod
+                    ad rem tuam commendendam pertinet, sicuti hactenus feci, nihil a me
+                    praetermittetur. </p>
+                <p>[5.] Reverendissimum dominum <persName>Lundensem</persName><note
+                        type="critic">Johan Weze.</note> cum reverendissimo domino
+                        <persName>Frangepano</persName><note type="critic">Ferenc Frangepán.</note>
+                    ad Hungariam profecturos iampridem ex litteris<note type="critic">We do not know
+                        this letter.</note> ipsius Lundensis intellexeram. Faxit Deus, ut rebus
+                    istic e bono publico utilitateque reipublicae Christianae cito confectis felices
+                    revertantur, de quorum fine, rogo te, velis me certiorem facere, elaborareque
+                    interea, ut quemadmodum scribis, bonus sequatur cura et opera tua, sic: </p>
+               
+                    <quote>
+                        <lg>
+                            <l>In freta dum fluvii current, dum montibus umbrae</l>
+                            <l>Lustrabunt, convexa polus dum sidera pascet,</l>
+                            <l>semper
+                                <del corresp="Olahus">honor</del><add corresp="Olahus" type="corr"
+                                    >honos</add> nomenque tuum laudesque manebunt.</l>
+                        </lg></quote>
+                    <note type="quote">Verg. <hi rend="italic">Aen</hi>. I, 607–609.</note>
+                
+                <p>[6.] De <persName>Gallo</persName><note type="critic">King Francis
+                        I.</note> res omnis nobis est cognita, de quo taceo potius, quam aliquid
+                    dicam. Hoc unum spero Deum tot malarum rerum et toties turbatae reipublicae
+                    Christianae authorem, quisquis is sit, vindicaturum. </p>
+                <pb/>
+                <p>Tot <del corresp="Olahus">iam</del><add corresp="Olahus" type="insert"
+                        >inita et iam</add> in lucem prodita consilia, <del corresp="Olahus"
+                        >facta</del> tot nuntii et litterae interceptae, tot irritamenta hostium
+                    Christi conveniuntne Catholico principi? Credo satis eum negotii undique
+                    habiturum.</p>
+                <p><persName>Cornelium Scepperum</persName><note type="critic">Cornelis de
+                        Schepper.</note> tuo nomine salutavi, commendat vicissim servitia sua tibi
+                    et dixit se ad te scripturum, cum primum otium nactus fuerit. Vale feliciter et
+                    me tuum esse scito, ubicunque sim futurus, illum, quem nosti veterem Olahum. </p>
+                <p><placeName>Bruxellae</placeName> 18. Iunii anno 1536.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

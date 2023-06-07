@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">836</title>
+                <title type="main">King Ferdinand I to Miklós Oláh (Graz, 13 December 1552)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>digital edition</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>project director</resp>
+                    <persName>
+                        <surname>Palkó</surname>
+                        <forename>Gábor</forename>
+                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>arranged for publication</resp>
+                    <persName>
+                        <surname>Szilágyi</surname>
+                        <forename>Emőke</forename>
+                        <forename>Rita</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML-editor</resp>
+                    <persName>
+                        <surname>Fellegi</surname>
+                        <forename>Zsófia</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>creator</resp>
+                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
+                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
+                    <ref type="url">http://www.iti.mta.hu/</ref>
+                </publisher>
+                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
+                </pubPlace>
+                <date>2023</date>
+                <availability>
+                    <p>©Free Access - no-reuse <ref type="url"
+                            >http://www.europeana.eu/rights/rr-f/</ref>
+                    </p>
+                </availability>
+                <idno type="PID">o:olahus.tei.15521213_1</idno>
+                
+            </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+            </seriesStmt>
+            <notesStmt>
+                <note type="critIntro">
+                    <p>
+                        <hi rend="italic">Notes:</hi> Original draft.
+                    </p>
+                    
+                </note>
+                <note type="publication"> </note>
+                <note type="translation"> </note>
+                <note type="outer_side">
+                    <p><hi rend="bold">On the outer side:</hi> Episcopo Agriensi.</p>
+                </note>
+                <relatedItem type="responseTo">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem type="hasResponse">
+                    <bibl>
+                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Austria</country>
+                        <settlement>Vienna</settlement>
+                        <institution>ÖStA HHStA</institution>
+                        <repository>UA AA Fasc. 68. Konv. B.</repository>
+                        <idno/>
+                        <msName/>
+                    </msIdentifier>
+                    <msPart style="letter">
+                        <msIdentifier/>
+                        <physDesc>
+                            <objectDesc>
+                                <supportDesc>
+                                    <extent>
+                                        <measure type="quantity" unit="folio">112rv.</measure>
+                                        <dimensions unit="mm">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>
+                                        <p/>
+                                    </condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </physDesc>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la"/>
+            </langUsage>
+            <textClass>
+                <keywords corresp="Letter" scheme="GETTY_AAT">
+                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date when="1552-12-13">13 December 1552</date>
+                <placeName>Graz</placeName>
+            </creation>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>King Ferdinand I</persName>
+                    <orgName/>
+                </correspAction>
+                <correspAction type="recieved">
+                    <date/>
+                    <placeName> </placeName>
+                    <persName>Miklós Oláh</persName>
+                    <orgName/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div style="handwritten" type="letter">
+                <head type="title">King Ferdinand I to Miklós Oláh (Graz, 13 December 1552)</head>
+                <floatingText type="regesta">
+                    <body>
+                        <p>1. Although he wants to spare Oláh because he knows Oláh is unwell, he
+                            still has to summon him to his court as soon as his health permits, he
+                            should come to Bruck an der Mur, which is six miles away, and he should
+                            let him know when he has arrived. From there he should only take his
+                            immediate accompaniment to the court. 2. Oláh knows that King Ferdinand
+                            I has summoned Lestár Feledi to make him Captain of Košice, but because
+                            no answer has arrived from him since then, King Ferdinand I asks Oláh to
+                            inform him as soon as he learns anything, or if he has not received King
+                            Ferdinand I’s letter, Oláh should send it to him again; King Ferdinand I
+                            can namely not tolerate Košice remaining without a captain.</p>
+                    </body>
+                </floatingText>
+                <pb/>
+                <p>Ferdinandus etc. Reverendissime in Christo Pater, <del corresp="scriba"
+                        >Devote</del> Fidelis nobis Dilecte!</p>
+                <p>[1.] Quamquam infirmitati, <del corresp="scriba">Tuae</del><add
+                        corresp="scriba" type="insert">qua Devotionem Tuam impediri audivimus</add>,
+                    pro ea clementia, qua Devotionem Tuam prosequimur, libenter admodum parceremus,
+                    ne <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>enim</corr></supplied>
+                    </choice> viae et rigidi temporis molestia subscribenda esset, attamen cum
+                    Devotionis Tuae opera et praesentia hoc tempore in pertractandis arduis
+                    gravissimisque tam publicis quam privatis regni nostri Hungariae negotiis
+                    summopere indignamus, non potuimus praetermittere, quin Devotionem Tuam <del
+                        corresp="scriba">hac</del> ad nos <del corresp="scriba">et</del> in aulam
+                    hanc nostram regiam evocaremus, <add corresp="scriba" type="insert">etiamsi
+                        eandem sua sponte non diutius quam per imbecillitatem expedire emansuram
+                        esse credamus.</add> Devotioni Tuae <add corresp="scriba" type="insert">ob
+                        id</add> gratiose iniungentes, <del corresp="scriba"><gap extent="1" reason="illegible" unit="word"
+                                /></del><add corresp="scriba" type="corr">ut quamprimum</add> sive suae
+                    valetudinis incommodo fieri poterit, <del corresp="scriba">quod</del> sese <del
+                        corresp="scriba">citra ullam moram</del> in viam det atque huc ad nos
+                    veniat, ita tamen quando in oppidum nostrum <del corresp="scriba"
+                        >Bruck</del><add corresp="scriba" type="corr"
+                        ><placeName>Pruck</placeName></add>,<note type="critic">Bruck an der
+                        Mur.</note> quod sex miliaribus hinc abest, appulerit, <add corresp="scriba"
+                        type="insert">paucis</add> aliquot istic diebus moram trahat. Donec de
+                    adventu suo <del corresp="scriba">a Devotione Tua</del> certiores reddamur,
+                    prout nos illico <add corresp="scriba" type="insert">etiam Devotio Tua de
+                        eo</add> certiorem reddere debebit, <del corresp="scriba">ut ita</del>
+                    postea <del corresp="scriba">sic</del><add corresp="scriba" type="corr"
+                        >vero</add> a nobis admonita <del corresp="scriba"><gap extent="1" reason="illegible" unit="word"
+                                /></del><add corresp="scriba" type="insert">iuxta ordinationem a nobis
+                        dandam</add> minori qua poterit familia et comitiva propter praesentium
+                    temporum periculum ad aulam nostram regiam <del corresp="scriba">accomodare
+                        queat sicut et alii offocales et ministri facere poterant</del><add
+                        corresp="scriba" type="corr">accomodat</add>.<note type="critic">See Ep.
+                        833.</note><ref>/o:olahus.tei.15521206_1</ref>
+                </p>
+                <p>[2.] Deinde Devotio <del corresp="scriba">Vestra</del> Tua non ignorat
+                        <persName>Eustachium a Veledy</persName><note type="critic">Lestár
+                        Feledi.</note> in regiam <milestone unit="pb"/>aulam nostram evocatum fuisse hac de causa, ut ei <persName>capitaneum
+                        Cassoviensem</persName><note type="critic">Until 1552, György Serédy was
+                        Captain of Košice, Feledi became his successor.</note>
+                    <del corresp="scriba">conferat</del><add corresp="scriba" type="corr"
+                        >conferamus</add>. Posteaquam autem nobis (quatenus <del corresp="scriba"
+                        >nobis</del> nos cognitum habemus) nullum plane responsum ab ipso <del
+                        corresp="scriba">nobis</del> relatum est, <add corresp="scriba"
+                        type="insert">nostrum autem plurimi intersit, ut praefatae civitati nostrae
+                        Cassoviensi de capitaneo tempestive provideatur</add>
+                    de<gap extent="1" reason="illegible" unit="word"/> Devotioni Tuae benigniter committimus, si responsum aliquod ab ipso
+                    accepisset, quod nos de eo evestigio informet, sin autem nihil dum ab ipso
+                    accepisset, <del corresp="scriba">quod</del><add corresp="scriba" type="corr"
+                        >volumus quidem, Tua Devotio</add> eo illico per proprium nuntium rescribat
+                    et exemplum priorum litterarum nostrarum transmittat, denuo firmissime iste <del
+                        corresp="scriba">mandat</del><add corresp="scriba" type="corr"
+                        >mandando</add>, quae citra omnem moram aut largi<gap extent="1" reason="illegible" unit="word"/>
+                    nem sese in aulam nostram regiam conferat, prout summa rei necessitas
+                    postulat. Non possumus enim <del corresp="scriba"> diutius concedere</del><add
+                        corresp="scriba" type="corr">ferre</add>, quod
+                        <placeName>Cassovia</placeName><note type="critic">Košice.</note> diutius
+                    quam parsi<gap extent="1" reason="illegible" unit="word"/> capitaneo careat. In eis Devotio Tua factura <choice>
+                        <orig><gap extent="1" reason="illegible" unit="word"/></orig>
+                        <supplied><corr>sit</corr></supplied>
+                    </choice> nobis rem maxime gratam clementia nostra regia erga ipsum
+                    recognoscenda.</p>
+                <p>Datum <placeName>Grätz</placeName> 13. Decembris 1552.</p>
+                <pb/>
+            </div>
+            <div style="handwritten" type="verso">
+                <head>On the outer side:</head>
+                <p>Reverendissimo in Christo patri Nicolao Olaho episcopo Agriensi nostro
+                    consiliario et per regnum nostrum Hungariae cancellario devoto fideli nobis
+                    dilecto.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
