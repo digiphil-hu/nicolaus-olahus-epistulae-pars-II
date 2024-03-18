@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">771</title>
-                <title type="main">Miklós Oláh to Ferenc Révay (Vienna, 1 July 1551)</title>
+                <title key="body" n="771" type="main">Miklós Oláh to Ferenc Révay (Vienna, 1 July
+                    1551)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,46 +55,48 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.155107071_1</idno>
-                
+                <idno type="PID">olahus.tei.15510701_1</idno>
+                <idno type="ITIdata">Q473428</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15510701_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature. Seal has broken
-                            down.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature. Seal has
+                        broken down. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -117,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -130,107 +202,106 @@
             </textClass>
             <creation>
                 <date when="1551-07-01">1 July 1551</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Ferenc Révay</persName>
-                    <orgName/>
+                    <persName>Ferenc Révay<idno type="ITIdata">Q53802</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Ferenc Révay (Vienna, 1 July 1551)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He received Ferenc Révay’s letter yesterday after breakfast, then he
-                            took out the small chest in which he guards confidential materials, but
-                            he could not find Lajos Pekry’s reversalis, about which Révay had
-                            written to him. He asked the King to have someone look around in case he
-                            has it, and he told him he would do so, but then he departed for a hunt.
-                            According to Oláh’s recollections, Pekry’s letters are either with the
-                            Chamberlain or the causarum director; Révay should search for the letter
-                            in Bratislava with the above-mentioned. He had the copy of the letter
-                            looked up in the royal book, he is sending it now. 2. After Pekry’s
-                            death, his widow immediately presented herself to the King to ask for
-                            his protection, which she did receive after one year. The King has not
-                            yet made a decision in connection with returning Pekry’s castle, but
-                            Oláh thinks that the widow is not due anything from the castle, maybe
-                            only her dowry.</p>
+                        <p xml:id="reg.p.1">1. He received Ferenc Révay’s letter yesterday after
+                            breakfast, then he took out the small chest in which he guards
+                            confidential materials, but he could not find Lajos Pekry’s reversalis,
+                            about which Révay had written to him. He asked the King to have someone
+                            look around in case he has it, and he told him he would do so, but then
+                            he departed for a hunt. According to Oláh’s recollections, Pekry’s
+                            letters are either with the Chamberlain or the causarum director; Révay
+                            should search for the letter in Bratislava with the above-mentioned. He
+                            had the copy of the letter looked up in the royal book, he is sending it
+                            now. 2. After Pekry’s death, his widow immediately presented herself to
+                            the King to ask for his protection, which she did receive after one
+                            year. The King has not yet made a decision in connection with returning
+                            Pekry’s castle, but Oláh thinks that the widow is not due anything from
+                            the castle, maybe only her dowry.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Salutem et obsequiorum meorum commendationem, Magnifice Domine et
+                <p xml:id="p.1">Salutem et obsequiorum meorum commendationem, Magnifice Domine et
                     Frater Observandissime!</p>
-                <p>[1.] Heri post prandium accepi litteras Dominationis Vestrae Magnificae. Mox
-                    capsam, quae secretiora continet, revolvi meam, non potui reperire reversales
-                    litteras <persName>Pekry</persName>, nec <del corresp="Olahus">primam</del><add
-                        corresp="Olahus" type="corr">primas</add>, nec <del corresp="Olahus"
-                        >secundam</del><add corresp="Olahus" type="corr">secundas</add>, de quibus
-                    Dominatio Vestra Magnifica scribit. Accessi maiestatem suam regiam admonuique,
-                    ut in domo sua illas perquiri iuberet, solet enim sua maiestas tales litteras
-                    aliquando apud se retinere. Dixit se id facturam. Nondum tamen ad ea intelligere
-                    potui, an id fuerit, hodie enim summo mane profecta est venatum. Si ego bene
-                    recordor, litterae hae <persName>Pekry</persName> vel apud dominos cameraros
-                    Hungaros, vel apud <persName>directorem causarum</persName>,<note type="critic"
+                <p xml:id="p.2">[1.] Heri post prandium accepi litteras Dominationis Vestrae
+                    Magnificae. Mox capsam, quae secretiora continet, revolvi meam, non potui
+                    reperire reversales litteras <persName>Pekry</persName>, nec <del
+                        corresp="Olahus">primam</del><add corresp="Olahus" type="corr">primas</add>,
+                    nec <del corresp="Olahus">secundam</del><add corresp="Olahus" type="corr"
+                        >secundas</add>, de quibus Dominatio Vestra Magnifica scribit. Accessi
+                    maiestatem suam regiam admonuique, ut in domo sua illas perquiri iuberet, solet
+                    enim sua maiestas tales litteras aliquando apud se retinere. Dixit se id
+                    facturam. Nondum tamen ad ea intelligere potui, an id fuerit, hodie enim summo
+                    mane profecta est venatum. Si ego bene recordor, litterae hae
+                        <persName>Pekry</persName> vel apud dominos cameraros Hungaros, vel apud
+                        <persName>directorem causarum</persName>,<note type="critic" xml:id="note.1"
                         >János Zomor.</note> si quae sunt, esse habentur, nam si tractatione
-                        scoriarum<note type="critic"><hi rend="italic">scoria</hi> meaning ‘stabulum
-                        equorum’, see <hi rend="smallcap">DuCange</hi> 1883.</note> memini tales
-                    litteras; nescio, an per dominum <persName>Nadasdi</persName>, vel per
-                    camerarios Austriacos, qui <persName>Pekry</persName> negotium, si memini,
-                    tractarunt, eo fuisse missas. Quare Dominatio Vestra istic
-                        <placeName>Pisonii</placeName><note type="critic">Bratislava.</note> apud
-                    dominos camerarios vel directorem causarum de eis sciscitetur. Ego quoque cum
-                    primum maiestas sua redierit, suam maiestatem regiam hac in re interpellabo.
-                    Litterarum regiarum <add corresp="Olahus" type="insert">copiam</add>, quae datae
-                    erant ipsi <persName>Pekry</persName>, requiri feci in libro regio, quam ad
+                        scoriarum<note type="critic" xml:id="note.2"><hi rend="italic">scoria</hi>
+                        meaning ‘stabulum equorum’, see <hi rend="smallcap">DuCange</hi>
+                        1883.</note> memini tales litteras; nescio, an per dominum
+                        <persName>Nadasdi</persName>, vel per camerarios Austriacos, qui
+                        <persName>Pekry</persName> negotium, si memini, tractarunt, eo fuisse
+                    missas. Quare Dominatio Vestra istic <placeName>Pisonii</placeName><note
+                        type="critic" xml:id="note.3">Bratislava.</note> apud dominos camerarios vel
+                    directorem causarum de eis sciscitetur. Ego quoque cum primum maiestas sua
+                    redierit, suam maiestatem regiam hac in re interpellabo. Litterarum regiarum
+                        <add corresp="Olahus" type="insert">copiam</add>, quae datae erant ipsi
+                        <persName>Pekry</persName>, requiri feci in libro regio, quam ad
                     Dominationem Vestram mitto. </p>
-                <p>[2.] Statim post mortem <persName>Pekry</persName>
-                    <persName>vidua</persName><note type="critic">Lajos Pekry’s second wife was
-                        Erzsébet Báthori (†1562), see <hi rend="smallcap">Nagy</hi> 1862,
-                        200.</note> eius miserat ad maiestatem regiam duos suos, si bene memini,
-                    servitores, quorum medio supplicabat, ut eam maiestas regia acciperet, veluti
-                    viduam et orbam marito in protectionem et tutelam suam regiam. Deinde, ut dare
-                    dignatum ei illam communem prorogationem infra annum, quae solet dari viduis,
-                    iure et suo et <milestone unit="pb"/>consuetudine regni, ex consilii deliberatione maiestas sua illi haec more solito
-                    concessit. Nondum tunc <del corresp="Olahus">fuit</del> quicquam maiestas sua
-                    vel cogitaverat, vel deliberaverat de repetitione, si bene recordor, arcis
-                        <persName>Pekry</persName>, postea ea per maiestatem suam de illa repetenda
-                    fuerint deliberata et conclusa, quae Dominatio Vestra Magnifica scit. Misi
-                    itaque et copiam prolixationis illius, quae etsi ante deliberationem maiestatis
-                    regiae fuit emanata. Non videtur tamen mihi <choice>
+                <p xml:id="p.3">[2.] Statim post mortem
+                        <persName>Pekry</persName><persName>vidua</persName><note type="critic"
+                        xml:id="note.4">Lajos Pekry’s second wife was Erzsébet Báthori (†1562), see
+                            <hi rend="smallcap">Nagy</hi> 1862, 200.</note> eius miserat ad
+                    maiestatem regiam duos suos, si bene memini, servitores, quorum medio
+                    supplicabat, ut eam maiestas regia acciperet, veluti viduam et orbam marito in
+                    protectionem et tutelam suam regiam. Deinde, ut dare dignatum ei illam communem
+                    prorogationem infra annum, quae solet dari viduis, iure et suo et <milestone
+                        unit="pb"/>consuetudine regni, ex consilii deliberatione maiestas sua illi
+                    haec more solito concessit. Nondum tunc <del corresp="Olahus">fuit</del>
+                    quicquam maiestas sua vel cogitaverat, vel deliberaverat de repetitione, si bene
+                    recordor, arcis <persName>Pekry</persName>, postea ea per maiestatem suam de
+                    illa repetenda fuerint deliberata et conclusa, quae Dominatio Vestra Magnifica
+                    scit. Misi itaque et copiam prolixationis illius, quae etsi ante deliberationem
+                    maiestatis regiae fuit emanata. Non videtur tamen mihi <choice>
                         <orig>illam</orig>
                         <supplied>illa</supplied>
                     </choice> obesse posse arcis ipsius repetitioni et recuperationi, quia vidua
                     haec et matrona nihil iuris habet in arce (quae devoluta est omnium iudicio ad
                     suam maiestatem, si captivas ille aliquid intrasse non habet) praeter dotem
                     suam, de qua extra arcem quoque contentari potest. </p>
-                <p>Haec ad Dominationis Vestrae Magnificae litteras rescribere volui, quae negotium
-                    conveniret cum domino directore causarum et si videtur, etiam regiarum
-                    litterarum copiam ei dare velit. Quod restat, Dominatio Vestra feliciter valeat
-                    et me commendatum habeat.</p>
-                <p>Ex <placeName>Wienna</placeName> prima Iulii 1551.</p>
-                <p>
+                <p xml:id="p.4">Haec ad Dominationis Vestrae Magnificae litteras rescribere volui,
+                    quae negotium conveniret cum domino directore causarum et si videtur, etiam
+                    regiarum litterarum copiam ei dare velit. Quod restat, Dominatio Vestra
+                    feliciter valeat et me commendatum habeat.</p>
+                <p xml:id="p.5">Ex <placeName>Wienna</placeName> prima Iulii 1551.</p>
+                <p xml:id="p.6">
                     <seg type="signature">Frater et servitor Agriensis etc. citissima manu</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Magnifico domino Francisco de Rewa comiti comitatus de Thwrocz ac vacante officio
-                    regni Hungariae palatini locumtenenti, consiliario regiae maiestatis etc. domino
-                    et fratri observandissimo.</p>
+                <p xml:id="p.7">Magnifico domino Francisco de Rewa comiti comitatus de Thwrocz ac
+                    vacante officio regni Hungariae palatini locumtenenti, consiliario regiae
+                    maiestatis etc. domino et fratri observandissimo.</p>
             </div>
         </body>
     </text>

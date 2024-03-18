@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">463</title>
-                <title type="main">Miklós Oláh to Tamás Szalaházy (Brussels, 4 March 1534)</title>
+                <title key="body" n="463" type="main">Miklós Oláh to Tamás Szalaházy (Brussels, 4
+                    March 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340304_2</idno>
-                
+                <idno type="PID">olahus.tei.15340304_2</idno>
+                <idno type="ITIdata">Q473125</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340304_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                        <ref>/o:olahus.tei.15331130_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. <ref>/o:olahus.tei.15331130_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 464–465.</note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 464–465.</note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15331130_1" type="url">429</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15331130_1" type="url">429</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -134,11 +134,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,36 +208,32 @@
             </textClass>
             <creation>
                 <date when="1534-03-04">4 March 1534</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Szalaházy</persName>
-                    <orgName/>
+                    <persName>Tamás Szalaházy<idno type="ITIdata">Q258359</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Szalaházy (Brussels, 4 March 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He was very happy about his letter from November, which he has only
-                            received recently. He thanks him for what he has accomplished in
-                            connection with Bálint Török. He does not understand what Török’s
-                            problem is with him, why he considers Oláh his enemy, since they serve
-                            the same lord. 2. Even Szalaházy has realized that King Henry VIII
-                            disobeys both the pope and the Roman church, so much so that he is
+                        <p xml:id="reg.p.1">1. He was very happy about his letter from November,
+                            which he has only received recently. He thanks him for what he has
+                            accomplished in connection with Bálint Török. He does not understand
+                            what Török’s problem is with him, why he considers Oláh his enemy, since
+                            they serve the same lord. 2. Even Szalaházy has realized that King Henry
+                            VIII disobeys both the pope and the Roman church, so much so that he is
                             having satirical pamphlets printed in England against the Pope. All the
                             priests have contributed to the costs of the Emperor’s war against the
                             Turks, in line with their annual income and with the Pope’s permission;
@@ -184,51 +241,53 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolai Olai ad Thomam episcopum Agriensem cancellarium Hungariae. </p>
-                <p>[1.] Magna me laetitia tuae litterae affecerunt, quas ultima Novembris
-                        datas<note type="critic">Ep. 429.</note><ref>/o:olahus.tei.15331130_1</ref>
-                    XXV. Februarii praeteriti accepi. In tuo erga me favore et benevolentia nunquam
-                    dubitavi, nam de eis, quibus ego quoque sincero animo inservire cupio, nullo
-                    unquam tempore haesitare soleo, ex meo enim illorum in me animum metior. Gratias
-                    itaque tibi habeo immortales de opera et cura, quod in rebus meis apud
-                        <persName>Valentinum Theuurek</persName><note type="critic">Bálint
-                        Török.</note> praestiteris. Miror, cur in me tantum sit concitatus.
-                    Arbitratur me fortasse esse hostem patriae. Quid ab eo commerui? Quid feci?
-                    Nonne et ego pro mea conditione <persName>regi</persName> servivi et regio suo?
-                    Nonne et damna maxima et multas rerum et expensarum mearum iacturas in parte
-                    regis, quam ipse fovet, perpessus sum ab initio, et nunc quoque patior, num vana
-                    servitia ac labores, quatenus mea fuit utilitas, subivi? Quid me pessumdare
-                    molitur? Cur cibum e faucibus eripit? Deus illi ignoscat. Mea res cum aliorum
-                    rebus non usque adeo est coniuncta, ut eam seiungere non posset, si cogitaret
-                    aut sciret me in eorum debere esse numero, qui ab initio
-                        <persName>regi</persName> et <persName>reginae</persName> constanter et
-                    fideliter servierunt et nunquam vacillaverint. Quod me mea fides in principes
-                    meos suscepta facere coegit, et hanc ob rem me defendere potius, quam inique
-                    turbare deberet. Si haec eum non movent, movere possent mea et patri suo
-                        <milestone unit="pb"/>antea, dum occasio se praestitit, et postea ei
-                    praestita officia. Verum haec illi <quote>surdo decanto,</quote><note
-                        type="quote">Cf. Erasm. <hi rend="italic">Adag.</hi> 387. I,IV,87. Surdo
-                        canis. Surdo fabulam narras.</note> si quid in necessitate mea ex meis mecum
-                    communicaret, tollerabilius esset. Quem in hac parte videtur imitari et
-                        <persName>Hyeronimus</persName><note type="critic"> Jeromos Horváth of
-                        Vásonkő or Jeromos Kruzich of Klis.</note> tuus, qui nihil penitus de me
-                    cogitare dicitur, sed spero in rebus omnibus meliora. </p>
-                <p>[2.] <persName>Angliae regem</persName><note type="critic">King Henry
-                        VIII.</note> ab inoboedientia <persName>pontificis</persName><note
-                        type="critic">Pope Clement VII.</note> defecisse, puto te intellexisse. Adeo
-                    non oboedit ecclesiae Romanae, ut nihil sit tam turpe, quod non in papam evomat
-                    libellis famosis,<note type="critic">See Ep. 462. Cap.
-                        1.</note><ref>/o:olahus.tei.15340304_1</ref> qui in
+                <p xml:id="p.1">Nicolai Olai ad Thomam episcopum Agriensem cancellarium Hungariae. </p>
+                <p xml:id="p.2">[1.] Magna me laetitia tuae litterae affecerunt, quas ultima
+                    Novembris datas<note type="critic" xml:id="note.1">Ep.
+                            429.<ref>olahus.tei.15331130_1</ref></note> XXV. Februarii praeteriti
+                    accepi. In tuo erga me favore et benevolentia nunquam dubitavi, nam de eis,
+                    quibus ego quoque sincero animo inservire cupio, nullo unquam tempore haesitare
+                    soleo, ex meo enim illorum in me animum metior. Gratias itaque tibi habeo
+                    immortales de opera et cura, quod in rebus meis apud <persName>Valentinum
+                        Theuurek</persName><note type="critic" xml:id="note.2">Bálint Török.</note>
+                    praestiteris. Miror, cur in me tantum sit concitatus. Arbitratur me fortasse
+                    esse hostem patriae. Quid ab eo commerui? Quid feci? Nonne et ego pro mea
+                    conditione <persName>regi</persName> servivi et regio suo? Nonne et damna maxima
+                    et multas rerum et expensarum mearum iacturas in parte regis, quam ipse fovet,
+                    perpessus sum ab initio, et nunc quoque patior, num vana servitia ac labores,
+                    quatenus mea fuit utilitas, subivi? Quid me pessumdare molitur? Cur cibum e
+                    faucibus eripit? Deus illi ignoscat. Mea res cum aliorum rebus non usque adeo
+                    est coniuncta, ut eam seiungere non posset, si cogitaret aut sciret me in eorum
+                    debere esse numero, qui ab initio <persName>regi</persName> et
+                        <persName>reginae</persName> constanter et fideliter servierunt et nunquam
+                    vacillaverint. Quod me mea fides in principes meos suscepta facere coegit, et
+                    hanc ob rem me defendere potius, quam inique turbare deberet. Si haec eum non
+                    movent, movere possent mea et patri suo <milestone unit="pb"/>antea, dum occasio
+                    se praestitit, et postea ei praestita officia. Verum haec illi <quote
+                        xml:id="quote.1">surdo decanto,</quote><note type="quote"
+                        xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi> 387. I,IV,87.
+                        Surdo canis. Surdo fabulam narras.</note> si quid in necessitate mea ex meis
+                    mecum communicaret, tollerabilius esset. Quem in hac parte videtur imitari et
+                        <persName>Hyeronimus</persName><note type="critic" xml:id="note.3"> Jeromos
+                        Horváth of Vásonkő or Jeromos Kruzich of Klis.</note> tuus, qui nihil
+                    penitus de me cogitare dicitur, sed spero in rebus omnibus meliora. </p>
+                <p xml:id="p.3">[2.] <persName>Angliae regem</persName><note type="critic"
+                        xml:id="note.4">King Henry VIII.</note> ab inoboedientia
+                        <persName>pontificis</persName><note type="critic" xml:id="note.5">Pope
+                        Clement VII.</note> defecisse, puto te intellexisse. Adeo non oboedit
+                    ecclesiae Romanae, ut nihil sit tam turpe, quod non in papam evomat libellis
+                        famosis,<note type="critic" xml:id="note.6">See Ep. 462. Cap.
+                            1.<ref>olahus.tei.15340304_1</ref></note> qui in
                         <placeName>Anglia</placeName> passim imprimuntur. In hac caesaris dicione
                     omnes spirituales reddituum suorum annuorum medietatem ex pontificis indultu
                     nunc solvunt caesari, nomine expeditionis Turcicae, quae lentissime his omnibus
                     annis processit. Credo, in posterum quoque ita procedet, maxime cum profectus
-                    sit <persName>Cornelius</persName><note type="critic">Cornelis de
-                        Schepper.</note> iam secundo <placeName>Constantinopolim</placeName>, utinam
-                        <persName>Grithi</persName><note type="critic">Lodovico Gritti.</note> aut
-                    iam attulerit aut afferat aliquid boni. Multa sunt, quae me contrarium credere
-                    cogant, quae litteris non possent committi. Vale. </p>
-                <p><placeName>Bruxellae</placeName> quarta Martii 1534.</p>
+                    sit <persName>Cornelius</persName><note type="critic" xml:id="note.7">Cornelis
+                        de Schepper.</note> iam secundo <placeName>Constantinopolim</placeName>,
+                    utinam <persName>Grithi</persName><note type="critic" xml:id="note.8">Lodovico
+                        Gritti.</note> aut iam attulerit aut afferat aliquid boni. Multa sunt, quae
+                    me contrarium credere cogant, quae litteris non possent committi. Vale. </p>
+                <p xml:id="p.4"><placeName>Bruxellae</placeName> quarta Martii 1534.</p>
             </div>
         </body>
     </text>

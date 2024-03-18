@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">595</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 16 November
-                    1537)</title>
+                <title key="body" n="595" type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 16
+                    November 1537)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15371116_1</idno>
-                
+                <idno type="PID">olahus.tei.15371116_1</idno>
+                <idno type="ITIdata">Q473255</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15371116_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,44 +80,31 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy. Dating about <hi rend="smallcap">Polet</hi>
-                            1936, 259.</p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. Dating about <hi rend="smallcap"
+                            >Polet</hi> 1936, 259.</p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 609–610.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 609–610.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 191–192.</p>
-                    <p><hi rend="italic">In French:</hi>
-                        <hi rend="smallcap">Polet</hi> 1936, 259–261. [regesta]</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 191–192; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1480–1485. [On 20 November 1537 dated.]</p>
+                    <p><hi rend="italic">In French:</hi><hi rend="smallcap">Polet</hi> 1936,
+                        259–261. [regesta]</p>
                 </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -140,11 +137,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -153,39 +211,35 @@
             </textClass>
             <creation>
                 <date when="1537-11-16">16 November 1537</date>
-                <placeName>[Leuven]</placeName>
+                <placeName>[Leuven]<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh ([Leuven], 16 November
                     1537)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He did not write because he thought it was better if he forgot to
-                            write about something than disturb Oláh in his attending to the
-                            Hungarian affairs. When Johann Henckel Jr. arrived, he did not suspect
-                            he should write then, either. 2. He made a good deal by buying the
-                            pandects, although the price of books has also increased due to the war.
-                            He wants him to publish <hi rend="italic">Athila</hi>, and a letter or
-                            poem of theirs should be placed at the beginning. Oláh has his speech in
-                            praise of Thucydides, he has given it to him to read so he can
+                        <p xml:id="reg.p.1">1. He did not write because he thought it was better if
+                            he forgot to write about something than disturb Oláh in his attending to
+                            the Hungarian affairs. When Johann Henckel Jr. arrived, he did not
+                            suspect he should write then, either. 2. He made a good deal by buying
+                            the pandects, although the price of books has also increased due to the
+                            war. He wants him to publish <hi rend="italic">Athila</hi>, and a letter
+                            or poem of theirs should be placed at the beginning. Oláh has his speech
+                            in praise of Thucydides, he has given it to him to read so he can
                             understand that they agree on this issue. 3. We would not be talking
                             about Hungaria in such a tragic way if it had not received such a big
                             blow; if only he would describe all the heroes from Attila to this day.
@@ -193,62 +247,67 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Idem Nicolao Olaho salutem plurimam. </p>
-                <p>[1.] Quod ad te non scripsi, Humanissime Patrone, ut ingenue fatear,
+                <p xml:id="p.1">Idem Nicolao Olaho salutem plurimam. </p>
+                <p xml:id="p.2">[1.] Quod ad te non scripsi, Humanissime Patrone, ut ingenue fatear,
                     vehementissime doleo, ac potius nunc in facto culpam, quam cum facerem,
                     sentiebam. Tunc enim, quia recenter a te digressus eram ac ferme colloquis
                     exhaustum videbatur, quicquid in litteris scribi oporteret, non putavi me
                     peccaturum, si scriptis meis non interpellassem sollicitudines tuas de rebus
                     Hungaricis, ut omittam alias curas. Quod autem
-                        <persName>Iohannes</persName><note type="critic">Probably Johannes Henckel
-                        the Younger.</note> venisset non in iussu meo, putabam te satis ex eo
-                    intellecturum, quod tam probe τὴν προθεσμίαν<note type="critic">‘the
-                        deadline’.</note> observaverat: iusseras enim intra triduum aut quatridum
-                    sequi, quod et fecit. Istis causificationibus blandiebar vel inertiae, vel
-                    pudori meo, nunc tua admonitione satis intelligo non debuisse me ob tam
-                    leviculas res scribendi officium intermittere, sed ut doleo me deliquisse, ita
-                    gratae cuiusdam voluptatis mihi sensum affundit, cum tantopere te videam mei
-                    homuncionis litteras requirere. </p>
-                <p>[2.] <persName>Ulrico</persName><note type="critic">Probably Ulrich
-                        Zasius.</note> de libris Pandectarum satisfeci, emptio mihi valde placuit,
-                    nam ob bellum Gallicum ingens pretium <milestone unit="pb"/>libris accrevit. Ego
-                    quod item tibi verbis <persName>Ioannis</persName> renuntiari mandaveram, ita
-                    ipsum hunc tuum alumnum tractabo, ut meritis tuis et nostra amicitia par est.
-                        <hi rend="italic">Atthilam</hi> tuum valde cuperem, quem utinam tandem mundo
-                    invulges; cupio in frontispicio libri locum dare vel epistolae, vel carmini
-                    nostro. Habui olim orationem in laudes Tucydidis, ubi praecepta historiae <choice>
+                        <persName>Iohannes</persName><note type="critic" xml:id="note.1">Probably
+                        Johannes Henckel the Younger.</note> venisset non in iussu meo, putabam te
+                    satis ex eo intellecturum, quod tam probe τὴν προθεσμίαν<note type="critic"
+                        xml:id="note.2">‘the deadline’.</note> observaverat: iusseras enim intra
+                    triduum aut quatridum sequi, quod et fecit. Istis causificationibus blandiebar
+                    vel inertiae, vel pudori meo, nunc tua admonitione satis intelligo non debuisse
+                    me ob tam leviculas res scribendi officium intermittere, sed ut doleo me
+                    deliquisse, ita gratae cuiusdam voluptatis mihi sensum affundit, cum tantopere
+                    te videam mei homuncionis litteras requirere. </p>
+                <p xml:id="p.3">[2.] <persName>Ulrico</persName><note type="critic" xml:id="note.3"
+                        >Probably Ulrich Zasius.</note> de libris Pandectarum satisfeci, emptio mihi
+                    valde placuit, nam ob bellum Gallicum ingens pretium <milestone unit="pb"
+                    />libris accrevit. Ego quod item tibi verbis <persName>Ioannis</persName>
+                    renuntiari mandaveram, ita ipsum hunc tuum alumnum tractabo, ut meritis tuis et
+                    nostra amicitia par est. <hi rend="italic">Atthilam</hi> tuum valde cuperem,
+                    quem utinam tandem mundo invulges; cupio in frontispicio libri locum dare vel
+                    epistolae, vel carmini nostro. Habui olim orationem in laudes Tucydidis, ubi
+                    praecepta historiae <choice>
                         <orig>nonnullam</orig>
                         <supplied>nonnulla</supplied>
                     </choice> attexui, quae nunc apud te est. Hanc cum publice habuissem, nactus sum
                     tuum <hi rend="italic">Atthilam</hi>, ibi inter reliqua videbam te in historia
                     praestitisse, quae ego observata volebam, miris modis gaudebam me in illis
-                    praeceptiunculis non <quote>aberrasse a scopo,</quote><note type="quote">Cf.
-                        Erasm. <hi rend="italic">Adag.</hi> 930. I,X,30. Scopum attingere: “haud
-                        procul abest a scopo”… “id est aberrare a scopo”.</note> nam ut id credam,
-                    facit tua istarum rerum ἀκριβεστάτη<note type="critic">‘the most precise
-                        possible’.</note> observatio. Atque hinc est, quod tibi illam orationem
-                    legendam tradiderim, ut intelligeres, quam nostra iudicia in hac re consentiant. </p>
-                <p>[3.] De Hungaria hic nunc iactantur minus tragica, quod si non tantum
-                    vulnus accepimus, utinam dignareris mihi iudicare, miris enim modis discrucior
-                    Christianismum in Christianissima gente deleri, vel potius cum sanguine
-                    Christianorum effundi. Utinam <persName>Atthilae</persName> temporibus, tui
-                        <persName>Hunniadis</persName><note type="critic">John Hunyadi.</note> et
-                        <persName>Mathiae</persName><note type="critic">King Mathias I.</note> et
-                    ceterorum usque ad hoc aevi adiungeres, ut qui cum summo ingenio pari eruditione
-                    singula loca descripsisti cum dotibus suis, etiam heroas omnes, quos illa terra
-                    produxit, describas. Nos aliena lacessimus, non nostra condimus, habemus enim in
-                    manibus <hi rend="italic">Demosthenem adversum Leptinem</hi>, qui tui nominis
-                    auspiciis brevi prodibit,<note type="critic">Nanninck dedicated this edition to
-                        Oláh. It was published on 30 April, 1542.</note> ubi in praefationem statui
-                    dicare Hungariam totam apud te latere ita, ut tibi integrum non sit id opus diu
-                    supprimere. Vale, Unico Patrone, quem nec aula deliciis, nec <milestone unit="pb"/>fortuna procellis frangunt, quique nec minus feliciter animi
-                    perturbationes vincis, quam olim <persName>Huniades</persName> tuus Turcas.
-                    Iterum vale, sed basilice αὐτὸς <choice>
+                    praeceptiunculis non <quote xml:id="quote.1">aberrasse a scopo,</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi>
+                        930. I,X,30. Scopum attingere: “haud procul abest a scopo”… “id est aberrare
+                        a scopo”.</note> nam ut id credam, facit tua istarum rerum ἀκριβεστάτη<note
+                        type="critic" xml:id="note.4">‘the most precise possible’.</note>
+                    observatio. Atque hinc est, quod tibi illam orationem legendam tradiderim, ut
+                    intelligeres, quam nostra iudicia in hac re consentiant. </p>
+                <p xml:id="p.4">[3.] De Hungaria hic nunc iactantur minus tragica, quod si non
+                    tantum vulnus accepimus, utinam dignareris mihi iudicare, miris enim modis
+                    discrucior Christianismum in Christianissima gente deleri, vel potius cum
+                    sanguine Christianorum effundi. Utinam <persName>Atthilae</persName> temporibus,
+                    tui <persName>Hunniadis</persName><note type="critic" xml:id="note.5">John
+                        Hunyadi.</note> et <persName>Mathiae</persName><note type="critic"
+                        xml:id="note.6">King Mathias I.</note> et ceterorum usque ad hoc aevi
+                    adiungeres, ut qui cum summo ingenio pari eruditione singula loca descripsisti
+                    cum dotibus suis, etiam heroas omnes, quos illa terra produxit, describas. Nos
+                    aliena lacessimus, non nostra condimus, habemus enim in manibus <hi
+                        rend="italic">Demosthenem adversum Leptinem</hi>, qui tui nominis auspiciis
+                    brevi prodibit,<note type="critic" xml:id="note.7">Nanninck dedicated this
+                        edition to Oláh. It was published on 30 April, 1542.</note> ubi in
+                    praefationem statui dicare Hungariam totam apud te latere ita, ut tibi integrum
+                    non sit id opus diu supprimere. Vale, Unico Patrone, quem nec aula deliciis, nec
+                        <milestone unit="pb"/>fortuna procellis frangunt, quique nec minus feliciter
+                    animi perturbationes vincis, quam olim <persName>Huniades</persName> tuus
+                    Turcas. Iterum vale, sed basilice αὐτὸς <choice>
                         <orig>βασιλικότατος</orig>
                         <supplied>βασιλικώτατος</supplied>
-                    </choice>.<note type="critic">‘as you are of royal fibre yourself’.</note></p>
-                <p>Decimo Kalendas<note type="critic">Dating based on <hi rend="smallcap"
-                            >Polet</hi> 1936, 259.</note> Decembres 1537.</p>
+                    </choice>.<note type="critic" xml:id="note.8">‘as you are of royal fibre
+                        yourself’.</note></p>
+                <p xml:id="p.5">Decimo Kalendas<note type="critic" xml:id="note.9">Dating based on
+                            <hi rend="smallcap">Polet</hi> 1936, 259.</note> Decembres 1537.</p>
             </div>
         </body>
     </text>

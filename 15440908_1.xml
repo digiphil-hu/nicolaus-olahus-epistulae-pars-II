@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">646</title>
-                <title type="main">Miklós Oláh to Chapter of Zagreb (Vienna, 8 September
-                    1544)</title>
+                <title key="body" n="646" type="main">Miklós Oláh to Chapter of Zagreb (Vienna, 8
+                    September 1544)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15440908_1</idno>
-                
+                <idno type="PID">olahus.tei.15440908_1</idno>
+                <idno type="ITIdata">Q473306</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15440908_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,40 +80,24 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with autograph emendations, signature
-                            and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with autograph emendations,
+                        signature and seal. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Laszowski</hi> 1917, 189–192.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Laszowski</hi> 1917, 189–192.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -135,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,92 +203,89 @@
             </textClass>
             <creation>
                 <date when="1544-09-08">8 September 1544</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Chapter of Zagreb</persName>
-                    <orgName/>
+                    <orgName>Chapter of Zagreb</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Chapter of Zagreb (Vienna, 8 September
                     1544)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has received two of their letters, in which they indicate that they
-                            wanted to visit Oláh to congratulate him on his appointment. Indeed, it
-                            would have been proper for the limbs to get to know the head once he was
-                            appointed; he also wanted to visit them, but the King kept sending him
-                            elsewhere. 2. He indeed really wants to take up his seat, but his
-                            official tasks keep taking him away. But they should not worry, they can
-                            always count on him, and they should not take his absence the wrong way.
-                            What is more, they should make sure to preserve his benevolence towards
-                            them. 3. And if they had not given him cause, Oláh never would have
-                            wanted to hurt them; Oláh would have deserved a visit from them before
-                            they occupied the territory. Regarding the occupation they say that they
-                            never would have dared to do so without the authorization in
-                            Bornemissza’s letter – but Bornemissza is doing many things he has not
-                            authorized. 4. They accuse him of having behaved dishonourably towards
-                            them, when in fact the opposite is the case. He has instructed his
-                            vicarius and other officers not to do anything that would cause a
-                            commotion among the farmers, they should be protected according to their
-                            own laws instead. 5. He praises their diligence in connection with
-                            reinforcing the bulwarks and walls of the castle. As for the church
-                            services, they should make sure they do not dishonour the church, and
-                            the archdeacons should faithfully take care of the things their master
-                            has entrusted to them. 6. If the King’s affairs allow it, Oláh will
-                            visit them this autumn. He has presented their letter to the King, and
-                            they will learn the King’s response from his letter to them. 7.
-                            Following his wishes, he entrusts his predecessor’s estate (his
-                            sacerdotal vestments, crozier, cross, etc.) to them, they should not
-                            lose any of it; they should also seal the chest in which they put it, as
-                            should Tompa and Czeglédi from Oláh’s side.</p>
+                        <p xml:id="reg.p.1">1. He has received two of their letters, in which they
+                            indicate that they wanted to visit Oláh to congratulate him on his
+                            appointment. Indeed, it would have been proper for the limbs to get to
+                            know the head once he was appointed; he also wanted to visit them, but
+                            the King kept sending him elsewhere. 2. He indeed really wants to take
+                            up his seat, but his official tasks keep taking him away. But they
+                            should not worry, they can always count on him, and they should not take
+                            his absence the wrong way. What is more, they should make sure to
+                            preserve his benevolence towards them. 3. And if they had not given him
+                            cause, Oláh never would have wanted to hurt them; Oláh would have
+                            deserved a visit from them before they occupied the territory. Regarding
+                            the occupation they say that they never would have dared to do so
+                            without the authorization in Bornemissza’s letter – but Bornemissza is
+                            doing many things he has not authorized. 4. They accuse him of having
+                            behaved dishonourably towards them, when in fact the opposite is the
+                            case. He has instructed his vicarius and other officers not to do
+                            anything that would cause a commotion among the farmers, they should be
+                            protected according to their own laws instead. 5. He praises their
+                            diligence in connection with reinforcing the bulwarks and walls of the
+                            castle. As for the church services, they should make sure they do not
+                            dishonour the church, and the archdeacons should faithfully take care of
+                            the things their master has entrusted to them. 6. If the King’s affairs
+                            allow it, Oláh will visit them this autumn. He has presented their
+                            letter to the King, and they will learn the King’s response from his
+                            letter to them. 7. Following his wishes, he entrusts his predecessor’s
+                            estate (his sacerdotal vestments, crozier, cross, etc.) to them, they
+                            should not lose any of it; they should also seal the chest in which they
+                            put it, as should Tompa and Czeglédi from Oláh’s side.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendi ac Honorabiles in Christo Fratres Dilecti, salutem! </p>
-                <p>[1.] Binas parvo intervallo eodem fere exemplo accepimus litteras<note
-                        type="critic">We do not know this letter.</note> Vestras, quibus scripsistis
-                    saepe studium vobis fuisse nos invisendi, nobisque et nostrae huic vocationi non
-                    litteris tantum, aut privata salutatione, sed publico omnium vestrum suffragio
-                    et applausu congratulandi, se id commode, et non nobis in publicis regiae
-                    maiestatis negotiis in exteris regnis agentibus, facere licuisset. Equidem
-                    conveniebat, ut postquam divina vocatione ad hoc munus episcopale electi sumus,
-                    membra suum caput cognovissent. Et in hisque ad coalescendum totum corpus facere
-                    visa fuissent, bene, cohaerere, verum quando <persName>regia
-                        maiestate</persName> ita volente, in publicis suae maiestatis et regni
-                    coacti fuerimus magnis itineribus, voluntatem suae maiestatis in exteris etiam
-                    et procul dissitis regnis sequi. Vestra haec excusatio facile a nobis veniam
-                    impetrabit, maxime cum per privatas personas aliquam partem vestrae erga nos
-                    observantiae et officii exsecuti fueritis.</p>
-                <p>Quod autem gratias Deo agitis de nostra hac vocatione, deque suscepta
-                    episcopatus nostri cura, quod novissimis hisce diebus <quote>olim
-                        florentissimum, nunc paene desertum,</quote><note type="quote">Cf. Ep. 13.
-                        Cap. 3., and Ep. 175. Cap.
-                        2.</note><ref>/o:olahus.tei.15290711_1</ref><ref>/o:olahus.tei.15311002_1</ref>
+                <p xml:id="p.1">Reverendi ac Honorabiles in Christo Fratres Dilecti, salutem! </p>
+                <p xml:id="p.2">[1.] Binas parvo intervallo eodem fere exemplo accepimus
+                        litteras<note type="critic" xml:id="note.1">We do not know this
+                        letter.</note> Vestras, quibus scripsistis saepe studium vobis fuisse nos
+                    invisendi, nobisque et nostrae huic vocationi non litteris tantum, aut privata
+                    salutatione, sed publico omnium vestrum suffragio et applausu congratulandi, se
+                    id commode, et non nobis in publicis regiae maiestatis negotiis in exteris
+                    regnis agentibus, facere licuisset. Equidem conveniebat, ut postquam divina
+                    vocatione ad hoc munus episcopale electi sumus, membra suum caput cognovissent.
+                    Et in hisque ad coalescendum totum corpus facere visa fuissent, bene, cohaerere,
+                    verum quando <persName>regia maiestate</persName> ita volente, in publicis suae
+                    maiestatis et regni coacti fuerimus magnis itineribus, voluntatem suae
+                    maiestatis in exteris etiam et procul dissitis regnis sequi. Vestra haec
+                    excusatio facile a nobis veniam impetrabit, maxime cum per privatas personas
+                    aliquam partem vestrae erga nos observantiae et officii exsecuti fueritis.</p>
+                <p xml:id="p.3">Quod autem gratias Deo agitis de nostra hac vocatione, deque
+                    suscepta episcopatus nostri cura, quod novissimis hisce diebus <quote
+                        xml:id="quote.1">olim florentissimum, nunc paene desertum,</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Ep. 13. Cap. 3., and Ep. 175. Cap.
+                            2.<ref>olahus.tei.15290711_1</ref></note><ref>/o:olahus.tei.15311002_1</ref>
                     lacerum ac mire vastatum episcopatum coacti fuerimus humeris nostris suscipere.
                     Huius bene praecantis optimeque ominantis animi vestri studium pro parte vestra
                     erga nos observantia est nobis pergratum. Quicquid in nobis donorum aut virtutis
                     est, id totum soli Deo ferimus acceptum. Nihil hinc nobis laudis, vel gloriae
                     arrogantes, non ignoramus nos in eum finem his etiam posterioribus et turbatis
                     temporibus vocatos esse, ut omnibus, quoad fieri posset, vita, exemplo et
-                    doctrina prodessemus. De omnibus bene mereremur, <milestone unit="pb"/>et ea, quae hactenus suis locis dimota fuerant, in certum ordinem
-                    redigeremus, in quo divino favore et diligentes erimus, quantum ex nobis fieri
-                    poterit, et ratio ac temporis conditio admittet.</p>
-                <p>[2.] Illud omnium, quod et vos precari videmini, nobis gratissimum
+                    doctrina prodessemus. De omnibus bene mereremur, <milestone unit="pb"/>et ea,
+                    quae hactenus suis locis dimota fuerant, in certum ordinem redigeremus, in quo
+                    divino favore et diligentes erimus, quantum ex nobis fieri poterit, et ratio ac
+                    temporis conditio admittet.</p>
+                <p xml:id="p.4">[2.] Illud omnium, quod et vos precari videmini, nobis gratissimum
                     foret, si unquam daretur occasio nobis apud ecclesiam istam nostram, vobiscum
                     una residendi, et officium, ad quod vocati sumus, coram peragendi, ut per omnia
                     capite membra cohaererent. Verum quando id modo per eas occupationes publicas
@@ -244,53 +296,55 @@
                         corresp="Olahus">vobis</del><add corresp="Olahus" type="corr">vobisque</add>
                     et regno ullo incommodo, quin fructum certum, si non omnino copiosum, utilem
                     tamen est suo tempore allaturum.</p>
-                <p>Sclavoniam et ipsum episcopatum nostrum magna vastatione esse oppressum
-                    dubitare non possumus. Quam quidem vastationem et hostilem furorem solis
-                    peccatis nostris debemus. Nec tamen usque adeo despondendus est animus, ut Deus
-                    reconciliatus, nostrique misertus, nolit avertere praesentia pericula, si modo
-                    coniecta in illum fiducia summis votis ipsius misericordiam sincero corde
+                <p xml:id="p.5">Sclavoniam et ipsum episcopatum nostrum magna vastatione esse
+                    oppressum dubitare non possumus. Quam quidem vastationem et hostilem furorem
+                    solis peccatis nostris debemus. Nec tamen usque adeo despondendus est animus, ut
+                    Deus reconciliatus, nostrique misertus, nolit avertere praesentia pericula, si
+                    modo coniecta in illum fiducia summis votis ipsius misericordiam sincero corde
                     imploraverimus.</p>
-                <p>Quod vero nostram erga vos benevolentiam precamini, rancorem
+                <p xml:id="p.6">Quod vero nostram erga vos benevolentiam precamini, rancorem
                     deprecamini, non est, quod dubitetis, eam ullo unquam tempore aut loco vobis
-                    defuturam. Si modo eam, ita ut decet, et ut vos facturis offertis, <milestone unit="pb"/>recte factis contenderitis, indignationis nulla a nobis dabitur
+                    defuturam. Si modo eam, ita ut decet, et ut vos facturis offertis, <milestone
+                        unit="pb"/>recte factis contenderitis, indignationis nulla a nobis dabitur
                     occasio. Tantum date vos quoque operam, ne unquam nostrum erga vos favorem et
                     benevolentiam ingratitudine pensetis. Non enim convenit inter caput et membra
                     bene cohaerentia dissidium oriri, nec bene geritur inter eos bellum, inter quos
                     mutuus consensus radicari debuerat. Caput in membra nullum aget dissidium, modo
                     membra in his, quibus debent, oboediant capiti.</p>
-                <p>[3.] <quote>Susurronum verbis aures nostrae nunquam ita
-                        patuerunt,</quote><note type="quote">Cf. Erasm. <hi rend="italic">Adag.</hi>
-                        822. I,IX,22. Ibyci grues: ‟ne susurronibus eiusmodi praebeant
-                        aures.”</note> ut illis praeter iustum fidem habuissemus. Nunquam iniqua
-                    persuasione talium a nobis cuiquam incommodabitur, scimus, cui credendum, et
-                    cuius verba silentio sint praetereunda. Et nisi facto materiam offensionis
-                    praebuissetis, nihil a nobis fuisset vobis nocitum. Sed ita forte placuerat
-                    vobis, ut per occupationem terrarum mensae nostrae veniremus in mutuam
+                <p xml:id="p.7">[3.] <quote xml:id="quote.2">Susurronum verbis aures nostrae nunquam
+                        ita patuerunt,</quote><note type="quote" xml:id="note.quote.2">Cf. Erasm.
+                            <hi rend="italic">Adag.</hi> 822. I,IX,22. Ibyci grues: ‟ne susurronibus
+                        eiusmodi praebeant aures.”</note> ut illis praeter iustum fidem habuissemus.
+                    Nunquam iniqua persuasione talium a nobis cuiquam incommodabitur, scimus, cui
+                    credendum, et cuius verba silentio sint praetereunda. Et nisi facto materiam
+                    offensionis praebuissetis, nihil a nobis fuisset vobis nocitum. Sed ita forte
+                    placuerat vobis, ut per occupationem terrarum mensae nostrae veniremus in mutuam
                     cognitionem, et his initiis rerum gratularemini nostrae vocationi, quod certe ex
                     animo doluimus, non tantum propter nos, quantum propter vos, quibus, ut par est,
                     bene voluimus. Nunquam sane sperassemus vos his rerum primordiis debitam erga
                     nos observantiam praebituros. Merebamur omnino, ut ante quam res ad vim et
                     occupationem veniret, nos tanquam caput fidelia membra requisivissetis. Quas
-                    quidem terras <persName>praedecessor</persName><note type="critic">Simon Erdődy
-                        died on 2 June, 1543.</note> olim noster iuridice multorum sententiis
-                    confirmata veritate obtinuerat, et in earum possessione complures annos usque ad
-                    extremum halitum pacifice perstiterat. Id quod etiamnum certi ex iudicibus eius
-                    causae praeter litteratoria <milestone unit="pb"/>testimonia, ita fuisse
-                    testantur. Si, ut scribitis, praescriptionis metu occupaveratis, id oportuerat
-                    vobis fecisse vivente adhuc olim praedecessore nostro, quem etiam ob id
-                    violentiae accusatis, iusque vestrum contra illum stabilire, nos quoque ob id
-                    coacti reoccupare, et iniuriam iniuria regerere, ne unquam iuribus nostris
-                    praescriberetur. Quod autem allegatis, nunquam vos eam occupationem facturos
-                    fuisse, si <persName>Gregorius Bornemyzza</persName><note type="critic">Gergely
-                        Bornemissza (1526–1555) participated at the defense of Eger in 1552. In
-                        1553, he became Captain of Eger. One year later, he was captured by the
-                        Turks and executed in the Yedikule Fortress in Constantinople.</note> per
-                    litteras non praebuisset authoritatem. <persName>Bornemyzza</persName> multa
-                    fecisse dicitur, de quibus nullam a nobis habuit commissionem, quaeque denuo
-                    reformanda necessario erunt. Sed eam occupationem ad eius permissionem non
-                    fuisse factam, vel ex eo coniicere possumus, quod diu post eius discessum sub
-                    nostro nomine occupaveritis.</p>
-                <p>[4.] Accusare nos videmini, quod non satis convenisset officio
+                    quidem terras <persName>praedecessor</persName><note type="critic"
+                        xml:id="note.2">Simon Erdődy died on 2 June, 1543.</note> olim noster
+                    iuridice multorum sententiis confirmata veritate obtinuerat, et in earum
+                    possessione complures annos usque ad extremum halitum pacifice perstiterat. Id
+                    quod etiamnum certi ex iudicibus eius causae praeter litteratoria <milestone
+                        unit="pb"/>testimonia, ita fuisse testantur. Si, ut scribitis,
+                    praescriptionis metu occupaveratis, id oportuerat vobis fecisse vivente adhuc
+                    olim praedecessore nostro, quem etiam ob id violentiae accusatis, iusque vestrum
+                    contra illum stabilire, nos quoque ob id coacti reoccupare, et iniuriam iniuria
+                    regerere, ne unquam iuribus nostris praescriberetur. Quod autem allegatis,
+                    nunquam vos eam occupationem facturos fuisse, si <persName>Gregorius
+                        Bornemyzza</persName><note type="critic" xml:id="note.3">Gergely Bornemissza
+                        (1526–1555) participated at the defense of Eger in 1552. In 1553, he became
+                        Captain of Eger. One year later, he was captured by the Turks and executed
+                        in the Yedikule Fortress in Constantinople.</note> per litteras non
+                    praebuisset authoritatem. <persName>Bornemyzza</persName> multa fecisse dicitur,
+                    de quibus nullam a nobis habuit commissionem, quaeque denuo reformanda
+                    necessario erunt. Sed eam occupationem ad eius permissionem non fuisse factam,
+                    vel ex eo coniicere possumus, quod diu post eius discessum sub nostro nomine
+                    occupaveritis.</p>
+                <p xml:id="p.8">[4.] Accusare nos videmini, quod non satis convenisset officio
                     pastorali haec ita a nobis geri commissa esse; si tamen recte perpenderitis,
                     haec nos possemus merito vobis obiicere. Perpendite enim et intra vos iudicate,
                     an convenisset vobis violentiam hanc primum in nos exercere et incipere. Nos,
@@ -299,84 +353,88 @@
                     insultarent. Itaque vos magis accusandi essetis neglecti officii vestri, qui
                     primum hunc lapidem movistis, quam nos, qui noluimus a iure nostro multis ab
                     annis quiete possesso deturbari. Quomodocumque tamen factum sit, haec primum
-                    mihi illata iniuria oblivione apud me delebitur, si officium vestrum, <milestone unit="pb"/>quod in nos debetis, praestiteritis. Quod vos facturos speramus, nec
-                    commissuros, ut nostra de vobis fidei et observantiae praestandae exspectatione
-                    frustremur.</p>
-                <p>Haec non ideo vobis inculcamus, ut velimus iuribus vestris derogatum
+                    mihi illata iniuria oblivione apud me delebitur, si officium vestrum, <milestone
+                        unit="pb"/>quod in nos debetis, praestiteritis. Quod vos facturos speramus,
+                    nec commissuros, ut nostra de vobis fidei et observantiae praestandae
+                    exspectatione frustremur.</p>
+                <p xml:id="p.9">Haec non ideo vobis inculcamus, ut velimus iuribus vestris derogatum
                     iri, quae reliquo tempore aliter, aliisque modis curari poterunt. Quamobrem
                     sitis animi quieti, et nihil de nobis alieni exspectetis. Commissimus enim tam
-                        <persName>vicario</persName><note type="critic">Pál Szondi.</note> nostro
-                    temporali, quam aliis officialibus nostris, ut nihil ulterius innovent, neque
-                    colonis vestris aliquid incommodi aut turbationis inferri patiantur, atque eos
-                    in eorum iure possesso perinde tueantur, ac nostros subditos non multo minor
-                    namque cura nobis impendit, vos et vestros in suis iustis iuribus defendere,
-                    quam nostros subditos.</p>
-                <p>[5.] Operam atque diligentiam vestram in reformatione propugnaculorum
-                    et moeniorum arcis factam non possumus non magnopere probare, utpote, quae et
-                    nobis usui sit futura, et vobis in omnibus adversitatibus tutissimum refugium.
-                    Nam castro defecto ad omnem ingruentem fortunae procellam cogeremini more
-                    aliarum ecclesiarum canonicorum profugere, et sub alienis tectis extorres
-                    molestissimam vitam agere. Et ideo vos hortamur et monemus, ne hoc vestrum
-                    iuvandi et nobiscum una muniendi castri studium intermittatis, quin eo
+                        <persName>vicario</persName><note type="critic" xml:id="note.4">Pál
+                        Szondi.</note> nostro temporali, quam aliis officialibus nostris, ut nihil
+                    ulterius innovent, neque colonis vestris aliquid incommodi aut turbationis
+                    inferri patiantur, atque eos in eorum iure possesso perinde tueantur, ac nostros
+                    subditos non multo minor namque cura nobis impendit, vos et vestros in suis
+                    iustis iuribus defendere, quam nostros subditos.</p>
+                <p xml:id="p.10">[5.] Operam atque diligentiam vestram in reformatione
+                    propugnaculorum et moeniorum arcis factam non possumus non magnopere probare,
+                    utpote, quae et nobis usui sit futura, et vobis in omnibus adversitatibus
+                    tutissimum refugium. Nam castro defecto ad omnem ingruentem fortunae procellam
+                    cogeremini more aliarum ecclesiarum canonicorum profugere, et sub alienis tectis
+                    extorres molestissimam vitam agere. Et ideo vos hortamur et monemus, ne hoc
+                    vestrum iuvandi et nobiscum una muniendi castri studium intermittatis, quin eo
                     diligentius et ferventius incumbatis, quo magis metuatis adversae fortunae
                     intentata mala. Mater enim nostra ecclesia, a qua nos omnes et pendemus et
                     vivimus, nonnisi communi auxilio et munitione conservari potest.</p>
                 <pb/>
-                <p>Quod ad cultum divinum attinet, vos requirimus, sitis in eo diligentes,
-                    ne vituperetur ministerium ecclesiasticum, fiant omnia in ecclesia suo ordine,
-                    bono modo, de quibus domino <persName>Paulo</persName>, vicario nostro in
-                    spiritualibus, superioribus diebus scripsimus abundantius, cuius admonitioni
-                    salubri sitis non secus quam nobis, ut par est, oboedientes.</p>
-                <p>Quales autem vos erga invicem esse oporteat, non est, quod multis
+                <p xml:id="p.11">Quod ad cultum divinum attinet, vos requirimus, sitis in eo
+                    diligentes, ne vituperetur ministerium ecclesiasticum, fiant omnia in ecclesia
+                    suo ordine, bono modo, de quibus domino <persName>Paulo</persName>, vicario
+                    nostro in spiritualibus, superioribus diebus scripsimus abundantius, cuius
+                    admonitioni salubri sitis non secus quam nobis, ut par est, oboedientes.</p>
+                <p xml:id="p.12">Quales autem vos erga invicem esse oporteat, non est, quod multis
                     verbis ingeramus. Ipsi namque scitis caritate membra coalescere, qua
                     refrigescente, ut solvantur membrorum compagines, oportet.</p>
-                <p>Archidiaconos, qui inter vos sunt, hortamur in Domino, curent fideliter
-                    gregem domini sibi commissum, quemadmodum non ita nuper specialiter illis
-                    commisimus, ne cessatione et negligentia sua, indignos se declarent officio. A
-                    nobis nec favoris, nec benevolentiae erga vos praetermittetur quicquam, modo
-                    eadem et vos vicissim erga vos praestetis. Ita demum membra capiti suo
-                    cohaerebunt, si invicem bene consentient.</p>
-                <p>[6.] Si per has regiae maiestatis et regni publicas occupationes fieri
-                    poterit, constituimus hoc autumno venire ad vos, ut aliquando capiti liceat
-                    membris suis iungi, et mutuo convictu frui. Ubi mutuo conspectu, colloquio et
-                    convictu licuerit uti, ut speramus, non vos paenitebit nostri.<note
-                        type="critic">According to his itinerarium, he did not visit the Chapter of
-                        Zagreb in fall of 1544. More on this period, see <hi rend="smallcap"
-                            >Fazekas</hi> 2003; and <hi rend="smallcap">Varga</hi> 2014.</note></p>
+                <p xml:id="p.13">Archidiaconos, qui inter vos sunt, hortamur in Domino, curent
+                    fideliter gregem domini sibi commissum, quemadmodum non ita nuper specialiter
+                    illis commisimus, ne cessatione et negligentia sua, indignos se declarent
+                    officio. A nobis nec favoris, nec benevolentiae erga vos praetermittetur
+                    quicquam, modo eadem et vos vicissim erga vos praestetis. Ita demum membra
+                    capiti suo cohaerebunt, si invicem bene consentient.</p>
+                <p xml:id="p.14">[6.] Si per has regiae maiestatis et regni publicas occupationes
+                    fieri poterit, constituimus hoc autumno venire ad vos, ut aliquando capiti
+                    liceat membris suis iungi, et mutuo convictu frui. Ubi mutuo conspectu,
+                    colloquio et convictu licuerit uti, ut speramus, non vos paenitebit nostri.<note
+                        type="critic" xml:id="note.5">According to his itinerarium, he did not visit
+                        the Chapter of Zagreb in fall of 1544. More on this period, see <hi
+                            rend="smallcap">Fazekas</hi> 2003; and <hi rend="smallcap">Varga</hi>
+                        2014.</note></p>
                 <pb/>
-                <p>Litteras vestras, quas ad regiam maiestatem misistis, praesentavimus et
-                    omnem quam potuimus et debuimus operam in supplicatione vestra exaudienda
-                    praestitimus, quod et deinceps libenter facturi sumus. Quale autem responsum a
-                    sua maiestate habueritis, ex eiusdem litteris intelligetis. Nostra in re vestra,
-                    tam apud regiam maiestatem, quam alibi curanda opera vobis non deerit, si quid
-                    prodesse, vobisque auxilio esse poterimus. Eaque de nobis existimetis
-                    exspectetisque, quae de altero fratrum vestrorum et vos exhibite tales, quibus
-                    benevolentia nostra fraterna et favor conferri possit. Precamur vobis pacem et
-                    caritatem Christi. Valete.</p>
-                <p>Datum <placeName>Viennae</placeName> octava Septembris MDXLIIII.</p>
-                <p>[7.] Quoniam autem in ea signatura regiae maiestati et nobis oblata, quam dominus
-                    olim episcopus, praedecessor noster, aliquam pluribus ante obitum suum diebus
-                    scribi et memoriae tradi commiserat, omnia ornamenta sua pontificalia, puta
-                    mitram, pastorare, crucem in pectore gestari solitam, candelabra, annulos
-                    aureos, reliquaque id genus pontificii decoris, ecclesiae isti iam nostrae
-                    Zagrabiensi dari mandaverat, volumus vobisque commitimus, habete ea in vestra
-                    sacristia, ubi per praefatum olim praedecessorem nostrum relicta fuerant, sub
-                    bona et fideli custodia, ne quid ex illis pereat. Arca, in qua reposita sunt,
-                    signetur sigillis certorum ex vobis, <milestone unit="pb"/>praepositi lectoris,
-                    cantoris et custodis, inter quae apponat suum nostris vicibus, magister
-                        <persName>Georgius Thompa</persName>,<note type="critic">György III Tompa
-                        (†1552) was Oláh’s administrator in Zagreb. Between 1547–1550, he was Bishop
-                        of Bosnia, and between 1550–1552 Bishop of Pécs, see <hi rend="smallcap"
-                            >Varga</hi> 2010b.</note> administrator bonorum istius episcopatus
-                    nostri <add corresp="Olahus" type="insert">et
-                        <persName>Czegledi</persName></add>.<note type="critic">János
-                        Czeglédi</note> Nostra namque interest curam conservandarum rerum ecclesiae
-                    nostrae praecipuam habere. Nam scitis, haec ornamenta non alium concernere, quam
-                    me, quem ex Dei ordinatione maiestas regia, dominus noster clementissimus, in
-                    praelatum et pastorem istius ecclesiae praefecit. Cupimus itaque a vobis, ut
-                    regestrum istarum rerum omnium, coram praefatis hominibus nostris conscriptum ad
-                    nos mittatis quantocius fieri poterit. Valete iterum in Christo feliciter. </p>
-                <p>
+                <p xml:id="p.15">Litteras vestras, quas ad regiam maiestatem misistis,
+                    praesentavimus et omnem quam potuimus et debuimus operam in supplicatione vestra
+                    exaudienda praestitimus, quod et deinceps libenter facturi sumus. Quale autem
+                    responsum a sua maiestate habueritis, ex eiusdem litteris intelligetis. Nostra
+                    in re vestra, tam apud regiam maiestatem, quam alibi curanda opera vobis non
+                    deerit, si quid prodesse, vobisque auxilio esse poterimus. Eaque de nobis
+                    existimetis exspectetisque, quae de altero fratrum vestrorum et vos exhibite
+                    tales, quibus benevolentia nostra fraterna et favor conferri possit. Precamur
+                    vobis pacem et caritatem Christi. Valete.</p>
+                <p xml:id="p.16">Datum <placeName>Viennae</placeName> octava Septembris
+                    MDXLIIII.</p>
+                <p xml:id="p.17">[7.] Quoniam autem in ea signatura regiae maiestati et nobis
+                    oblata, quam dominus olim episcopus, praedecessor noster, aliquam pluribus ante
+                    obitum suum diebus scribi et memoriae tradi commiserat, omnia ornamenta sua
+                    pontificalia, puta mitram, pastorare, crucem in pectore gestari solitam,
+                    candelabra, annulos aureos, reliquaque id genus pontificii decoris, ecclesiae
+                    isti iam nostrae Zagrabiensi dari mandaverat, volumus vobisque commitimus,
+                    habete ea in vestra sacristia, ubi per praefatum olim praedecessorem nostrum
+                    relicta fuerant, sub bona et fideli custodia, ne quid ex illis pereat. Arca, in
+                    qua reposita sunt, signetur sigillis certorum ex vobis, <milestone unit="pb"
+                    />praepositi lectoris, cantoris et custodis, inter quae apponat suum nostris
+                    vicibus, magister <persName>Georgius Thompa</persName>,<note type="critic"
+                        xml:id="note.6">György III Tompa (†1552) was Oláh’s administrator in Zagreb.
+                        Between 1547–1550, he was Bishop of Bosnia, and between 1550–1552 Bishop of
+                        Pécs, see <hi rend="smallcap">Varga</hi> 2010b.</note> administrator bonorum
+                    istius episcopatus nostri <add corresp="Olahus" type="insert">et
+                            <persName>Czegledi</persName></add>.<note type="critic" xml:id="note.7"
+                        >János Czeglédi</note> Nostra namque interest curam conservandarum rerum
+                    ecclesiae nostrae praecipuam habere. Nam scitis, haec ornamenta non alium
+                    concernere, quam me, quem ex Dei ordinatione maiestas regia, dominus noster
+                    clementissimus, in praelatum et pastorem istius ecclesiae praefecit. Cupimus
+                    itaque a vobis, ut regestrum istarum rerum omnium, coram praefatis hominibus
+                    nostris conscriptum ad nos mittatis quantocius fieri poterit. Valete iterum in
+                    Christo feliciter. </p>
+                <p xml:id="p.18">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Vester uti frater Nicolaus Olahus
                             episcopus Zagrabiensis etc. manu propria</add>
@@ -384,9 +442,9 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Reverendis ac honorabilibus capitulo ecclesiae nostrae Zagrabiensis
+                <p xml:id="p.19">Reverendis ac honorabilibus capitulo ecclesiae nostrae Zagrabiensis
                     etc., fratribus in Christo dilectis.</p>
             </div>
         </body>

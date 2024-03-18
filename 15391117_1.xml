@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">610</title>
-                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 17 November 1539)</title>
+                <title key="body" n="610" type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 17
+                    November 1539)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15391117_1</idno>
-                
+                <idno type="PID">olahus.tei.15391117_1</idno>
+                <idno type="ITIdata">Q473270</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15391117_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,48 +80,32 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Pray</hi> 1777, 351; <hi rend="smallcap">Pray</hi> 1806,
-                    78–81; <hi rend="smallcap">Katona</hi> 1809, 1275–1276. [excerpt]; <hi
-                        rend="smallcap">Körmöczy</hi> 1860, 51–53; <hi rend="smallcap"
-                        >Bunyitay–Rapaics–Karácsonyi</hi> 1906, 419–421; <hi rend="smallcap"
-                        >Szilágyi</hi> 2015.</note>
+                <note type="publication"><hi rend="smallcap">Pray</hi> 1777, 351; <hi
+                        rend="smallcap">Pray</hi> 1806, 78–81; <hi rend="smallcap">Katona</hi> 1809,
+                    1275–1276. [excerpt]; <hi rend="smallcap">Körmöczy</hi> 1860, 51–53; <hi
+                        rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1906, 419–421; <hi
+                        rend="smallcap">Szilágyi</hi> 2015.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Hungarian:</hi>
-                        <hi rend="smallcap">Kollányi</hi> 1888, 39–40. [excerpt]; <hi
-                            rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1906, 419.
-                        [regesta]</p>
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">Kollányi</hi> 1888,
+                        39–40. [excerpt]; <hi rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1906,
+                        419. [regesta]</p>
                 </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -142,11 +137,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -155,78 +211,77 @@
             </textClass>
             <creation>
                 <date when="1539-11-17">17 November 1539</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Nádasdy</persName>
-                    <orgName/>
+                    <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 17 November 1539)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He is happy that Nádasdy has welcomed him home, and that he has kept
-                            the friendship they had when they were young towards him; he knows that
-                            Nádasdy is not a person who would sideline friends when his wealth and
-                            opportunities improve. 2. As to his affairs, he really longed to see his
-                            friends and homeland, but when he got home, what he saw did not give
-                            cause for joy: everything is sad, the state is broken and in danger,
-                            friends are fighting and some of them are dead, some feel bad, and the
-                            people are complaining and crying. 3. He really wanted to see Brodarics,
-                            but fate has denied him this opportunity: he died on the 7<hi
-                                rend="super">th</hi> of this month. Although they wanted to visit
-                            each other, illness and Oláh’s engagements did not allow it. 4. He will
-                            write to Lucretia in three days; he wants to know if they have written
-                            about a husband that is suitable for her. Funnily enough, he is looking
-                            for a wife. He is also greeting Nádasdy’s wife, wishes them
-                            happiness.</p>
+                        <p xml:id="reg.p.1">1. He is happy that Nádasdy has welcomed him home, and
+                            that he has kept the friendship they had when they were young towards
+                            him; he knows that Nádasdy is not a person who would sideline friends
+                            when his wealth and opportunities improve. 2. As to his affairs, he
+                            really longed to see his friends and homeland, but when he got home,
+                            what he saw did not give cause for joy: everything is sad, the state is
+                            broken and in danger, friends are fighting and some of them are dead,
+                            some feel bad, and the people are complaining and crying. 3. He really
+                            wanted to see Brodarics, but fate has denied him this opportunity: he
+                            died on the 7<hi rend="super">th</hi> of this month. Although they
+                            wanted to visit each other, illness and Oláh’s engagements did not allow
+                            it. 4. He will write to Lucretia in three days; he wants to know if they
+                            have written about a husband that is suitable for her. Funnily enough,
+                            he is looking for a wife. He is also greeting Nádasdy’s wife, wishes
+                            them happiness.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Salutem plurimam et servitiorum meorum commendationem, Magnifice
+                <p xml:id="p.1">Salutem plurimam et servitiorum meorum commendationem, Magnifice
                     Domine, mihi Observandissime! </p>
-                <p>[1.] Gratulatio Dominationis Vestrae Magnificae, quam litterae<note
-                        type="critic">We do not know this letter.</note> ipsius de meo reditu<note
-                        type="critic">Oláh returned from the Low Countries in 1539. This is his
-                        first known letter after his return home.</note> et, ut scribit, felici
-                    statu declarant, tam mihi grata fuit, quam <del corresp="editor">quod</del>
-                    gratissima. Vicissim calamus et litterae explicare vix possunt, quam gratuler
-                    ego quoque de Dominationis Vestrae Magnificae et felici et tranquillo statu, de
-                    quo sermonibus hic et iam antea litteris amicorum in externis provinciis factus
-                    fueram certior. Conservet Deus Dominationem Vestram Magnificam et dominam
-                        <persName>coniugem</persName><note type="critic">Orsolya Kanizsai.</note>
-                    suam carissimam in omni et animae et corporis felicitate quamdiutissime. Quod
-                    scribit se eundem esse meum fratrem et amicum, qui prius fuerat, et deinceps
-                    quoque talem futurum, de hoc sincero et amantissimo Dominationis Vestrae
-                    Magnificae in me animo habeo eidem gratias cumulatas, et ubi meae erit
-                    facultatis, etiam re ipsa referam. Nihil dubito, quin eum in me Dominatio Vestra
-                    Magnifica, dum vivimus, praestet semper animum, quem scribit. Nam neque ego
-                    causam ullam ab adulescentia nostra praestiti, cur aliud de ea existimarem,
-                    neque puto Dominationem Vestram Magnificam ex eorum esse numero, qui crescente
-                    facultate et opibus mores suos mutare consuevere et divitias praeferre verae
-                    amicitiae. Quod qui faciunt, quam fluxis haereant rebus, non scripta tantum
-                    maiorum, sed etiam ipsa sanae mentis ratio commonstrat. De me vicissim Dominatio
-                    Vestra Magnifica certo sibi persuadeat, nulla in re Olahi sui animum non modo in
-                    Dominationem Vestram Magnificam iam beneficio Dei in ea, quam virtute consecuta
-                    est conditione constitutam, sed etiam in pauperes veteres nostros amicos
-                    immutatum esse mutatumque unquam iri, sed ubi fieri possit me cupere,
-                    Dominationi Vestrae Magnificae libenter inservire. </p>
-                <p>[2.] Verum, ut ad reditum meum, unde digressus eram, revertar: redii
-                    quidem <milestone unit="pb"/>auspicio Dei incolumis, tum rebus serensissimae
+                <p xml:id="p.2">[1.] Gratulatio Dominationis Vestrae Magnificae, quam litterae<note
+                        type="critic" xml:id="note.1">We do not know this letter.</note> ipsius de
+                    meo reditu<note type="critic" xml:id="note.2">Oláh returned from the Low
+                        Countries in 1539. This is his first known letter after his return
+                        home.</note> et, ut scribit, felici statu declarant, tam mihi grata fuit,
+                    quam <del corresp="editor">quod</del> gratissima. Vicissim calamus et litterae
+                    explicare vix possunt, quam gratuler ego quoque de Dominationis Vestrae
+                    Magnificae et felici et tranquillo statu, de quo sermonibus hic et iam antea
+                    litteris amicorum in externis provinciis factus fueram certior. Conservet Deus
+                    Dominationem Vestram Magnificam et dominam <persName>coniugem</persName><note
+                        type="critic" xml:id="note.3">Orsolya Kanizsai.</note> suam carissimam in
+                    omni et animae et corporis felicitate quamdiutissime. Quod scribit se eundem
+                    esse meum fratrem et amicum, qui prius fuerat, et deinceps quoque talem futurum,
+                    de hoc sincero et amantissimo Dominationis Vestrae Magnificae in me animo habeo
+                    eidem gratias cumulatas, et ubi meae erit facultatis, etiam re ipsa referam.
+                    Nihil dubito, quin eum in me Dominatio Vestra Magnifica, dum vivimus, praestet
+                    semper animum, quem scribit. Nam neque ego causam ullam ab adulescentia nostra
+                    praestiti, cur aliud de ea existimarem, neque puto Dominationem Vestram
+                    Magnificam ex eorum esse numero, qui crescente facultate et opibus mores suos
+                    mutare consuevere et divitias praeferre verae amicitiae. Quod qui faciunt, quam
+                    fluxis haereant rebus, non scripta tantum maiorum, sed etiam ipsa sanae mentis
+                    ratio commonstrat. De me vicissim Dominatio Vestra Magnifica certo sibi
+                    persuadeat, nulla in re Olahi sui animum non modo in Dominationem Vestram
+                    Magnificam iam beneficio Dei in ea, quam virtute consecuta est conditione
+                    constitutam, sed etiam in pauperes veteres nostros amicos immutatum esse
+                    mutatumque unquam iri, sed ubi fieri possit me cupere, Dominationi Vestrae
+                    Magnificae libenter inservire. </p>
+                <p xml:id="p.3">[2.] Verum, ut ad reditum meum, unde digressus eram, revertar: redii
+                    quidem </p>
+                <pb/>
+                <p xml:id="p.4">auspicio Dei incolumis, tum rebus serensissimae
                         <persName>reginae</persName> meae quibusdam ita ferentibus, tum ut aliquando
                     amicos veteres, <del corresp="Olahus">quarum</del><add corresp="Olahus"
                         type="corr">quorum</add> non parvo tenebar desiderio, et patriam tam longo
@@ -243,73 +298,76 @@
                     Vulgum adeo miserandae sortis, ut nihil praeter luctus, lamenta et lachrimas
                     emittant. Haec <del corresp="Olahus">ne</del> delectare quempiam possunt? Credo
                     Deum nobis iratum merito nos his incommodis rebus punire. </p>
-                <p>[3.] Non parvo ducebar desiderio dominum Stephanum nostrum
-                        <persName>Brodericum</persName><note type="critic">István Brodarics.</note>
-                    videndi propter veterem nostram notitiam fraternam et aetatem ipsius
-                        provectam.<note type="critic">Brodarics died at approximately the age of
-                        60.</note> Hanc quoque Deus facultatem mihi praeripuit, nam septima huius
-                    mensis fato ille concessisse dicitur. Scripserat. Hanc quoque Deus facultatem
-                    mihi praeripuit, nam septima huius mensis fato ille concessisse dicitur.
-                        Scripserat<note type="critic">We do not know this letter.</note>
-                    superioribus hebdomadis se me velle invisere. Nam ego propter serenissimae
-                        <persName>reginae</persName> meae negotia hinc hactenus abesse non potui,
-                    sed significaverat se venire vel ad <placeName>Saag</placeName>, vel etiam ad
-                    civitates montanas, si quando eo proficiscerer. Ego vero responderam me <choice>
+                <p xml:id="p.5">[3.] Non parvo ducebar desiderio dominum Stephanum nostrum
+                        <persName>Brodericum</persName><note type="critic" xml:id="note.4">István
+                        Brodarics.</note> videndi propter veterem nostram notitiam fraternam et
+                    aetatem ipsius provectam.<note type="critic" xml:id="note.5">Brodarics died at
+                        approximately the age of 60.</note> Hanc quoque Deus facultatem mihi
+                    praeripuit, nam septima huius mensis fato ille concessisse dicitur. Scripserat.
+                    Hanc quoque Deus facultatem mihi praeripuit, nam septima huius mensis fato ille
+                    concessisse dicitur. Scripserat<note type="critic" xml:id="note.6">We do not
+                        know this letter.</note> superioribus hebdomadis se me velle invisere. Nam
+                    ego propter serenissimae <persName>reginae</persName> meae negotia hinc hactenus
+                    abesse non potui, sed significaverat se venire vel ad
+                        <placeName>Saag</placeName>, vel etiam ad civitates montanas, si quando eo
+                    proficiscerer. Ego vero responderam me <choice>
                         <orig>domui</orig>
                         <supplied>domi</supplied>
                     </choice> suae eum invisurum pauco post tempore <del corresp="Olahus"
                         >Neutrum</del> ex principis nostri annuentia. Neutrum tamen mihi fato
-                    concessum est. Cuius <milestone unit="pb"/>morte audita non potui non in lachrimas prorumpere. Quare, Magnifice mi
-                    Domine, sum quidem incolumis, ut Dominatio Vestra mihi gratulatur, et in statu
-                    priore, mediocri scilicet, sed animo non satis bono affectu, tum ob huius domini
-                        <persName>Broderici</persName> nostri mortem, tum ob ea, quae superius dixi,
-                    et patriae, et rerum nostrarum, dico communium, incommoda. Nec video aliquod, ni
-                    fallar, remedium his adhiberi facile posse, nisi Deus <choice>
+                    concessum est. Cuius </p>
+                <pb/>
+                <p xml:id="p.6">morte audita non potui non in lachrimas prorumpere. Quare, Magnifice
+                    mi Domine, sum quidem incolumis, ut Dominatio Vestra mihi gratulatur, et in
+                    statu priore, mediocri scilicet, sed animo non satis bono affectu, tum ob huius
+                    domini <persName>Broderici</persName> nostri mortem, tum ob ea, quae superius
+                    dixi, et patriae, et rerum nostrarum, dico communium, incommoda. Nec video
+                    aliquod, ni fallar, remedium his adhiberi facile posse, nisi Deus <choice>
                         <orig>su<gap extent="1" reason="damage" unit="word"/></orig>
                         <supplied>su<corr>a</corr></supplied>
                     </choice> potentia aliter res nostras vertat. </p>
-                <p>[4.] Dominae <persName>Lucretiae</persName><note type="critic">Lucretia
-                        Caballis (vom Ross).</note> hoc triduo litteras<note type="critic">We do not
-                        know this letter.</note> ipsas mittendas curabo. Si scriptae sunt de marito
-                    aliquo illi curando, scire cuperem.<note type="critic">Lucretia Caballis was
-                        Oláh’s secret love, their extramarital child was the little Lucretia who
-                        occurs in Oláh’s letters as well as in his last will as the daughter of
-                        Tamás Oláh. While Oláh returned to Hungary, Lucretia Caballis married Count
-                        of Nogarola (Leonhard Noguerol), see <hi rend="smallcap">Fazekas</hi> 2002,
-                        228; <hi rend="smallcap">Kerkhoff</hi> 2008, 60–61, <hi rend="smallcap"
-                            >Heiss</hi> 1971, 422, and ÖStA HKA Ungarische Gedenkbücher Bd. 383.
-                        209v–210r.</note> Nam mea quoque refert id scire, qui, ut iocum seriis
-                    addam, uxorem circumspiciam etc. Me et servitia mea Dominationi Vestrae
-                    commendo. Et cum domina mihi observandissima, domina
-                        <persName>coniuge</persName>
-                    <del corresp="Olahus">sana</del> carissima</p>
-                
-                    <quote>
-                       <lg>
-                           <l>Vivite felices, quibus est fortuna peracta</l>
-                           <l>iam sua nos alia ex aliis in fata vocamur</l>
-                           <l>vobis parta quies, nobis maris aequor arandum.</l>
-                       </lg></quote>
-                    <note type="quote">Verg. <hi rend="italic">Aen.</hi>, III,493–495.</note>
-                <p><placeName>Viennae</placeName> 17. Novemberis anno 1539.</p>
-                <p>Eiusdem Dominationis Vestrae servitor </p>
-                <p>
-                    <seg type="signature">Nicolao Olahus custos Albensis etc.</seg>
+                <p xml:id="p.7">[4.] Dominae <persName>Lucretiae</persName><note type="critic"
+                        xml:id="note.7">Lucretia Caballis (vom Ross).</note> hoc triduo
+                        litteras<note type="critic" xml:id="note.8">We do not know this
+                        letter.</note> ipsas mittendas curabo. Si scriptae sunt de marito aliquo
+                    illi curando, scire cuperem.<note type="critic" xml:id="note.9">Lucretia
+                        Caballis was Oláh’s secret love, their extramarital child was the little
+                        Lucretia who occurs in Oláh’s letters as well as in his last will as the
+                        daughter of Tamás Oláh. While Oláh returned to Hungary, Lucretia Caballis
+                        married Count of Nogarola (Leonhard Noguerol), see <hi rend="smallcap"
+                            >Fazekas</hi> 2002, 228; <hi rend="smallcap">Kerkhoff</hi> 2008, 60–61,
+                            <hi rend="smallcap">Heiss</hi> 1971, 422, and ÖStA HKA Ungarische
+                        Gedenkbücher Bd. 383. 209v–210r.</note> Nam mea quoque refert id scire, qui,
+                    ut iocum seriis addam, uxorem circumspiciam etc. Me et servitia mea Dominationi
+                    Vestrae commendo. Et cum domina mihi observandissima, domina
+                        <persName>coniuge</persName><del corresp="Olahus">sana</del> carissima</p>
+                <quote xml:id="quote.1">
+                    <lg xml:id="lg.1">
+                        <l xml:id="l.1">Vivite felices, quibus est fortuna peracta</l>
+                        <l xml:id="l.2">iam sua nos alia ex aliis in fata vocamur</l>
+                        <l xml:id="l.3">vobis parta quies, nobis maris aequor arandum.</l>
+                    </lg>
+                </quote>
+                <note type="quote" xml:id="note.quote.1">Verg. <hi rend="italic">Aen.</hi>
+                    III,493–495.</note>
+                <p xml:id="p.8"><placeName>Viennae</placeName> 17. Novemberis anno 1539.</p>
+                <p xml:id="p.9">Eiusdem Dominationis Vestrae servitor </p>
+                <p xml:id="p.10">
+                    <seg type="signature">Nicolaus Olahus custos Albensis etc.</seg>
                 </p>
-                <p
+                <p xml:id="p.11"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Epitaphium
-                    domini Vaciensis]<?oxy_custom_end?><note type="critic">On the letter edition, as
-                        well as the edition of the poem, see <hi rend="smallcap">Fógel–Juhász</hi>
-                        1934, 27; <hi rend="smallcap">Neagu</hi> 2003, 333.</note>
-                </p>
+                    domini Vaciensis]<?oxy_custom_end?><note type="critic" xml:id="note.10">On the
+                        letter edition, as well as the edition of the poem, see <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 27; <hi rend="smallcap">Neagu</hi> 2003,
+                        333.</note></p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-            
-            <p>Magnifico domino meo domino Thomae de Nadasd regnorum Dalmatiae, Croatiae
-                et Sclavoniae etc. bano, ac comiti comitatus Castriferrei etc. domino
-                observandissimo.</p>
+                <p xml:id="p.12">Magnifico domino meo domino Thomae de Nadasd regnorum Dalmatiae,
+                    Croatiae et Sclavoniae etc. bano, ac comiti comitatus Castriferrei etc. domino
+                    observandissimo.</p>
             </div>
         </body>
     </text>

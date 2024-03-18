@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">512</title>
-                <title type="main">Miklós Oláh to Cornelis de Schepper (Arras, 11 October
-                    1534)</title>
+                <title key="body" n="512" type="main">Miklós Oláh to Cornelis de Schepper (Arras, 11
+                    October 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15341011_1</idno>
-                
+                <idno type="PID">olahus.tei.15341011_1</idno>
+                <idno type="ITIdata">Q473173</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15341011_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,32 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
-                            <ref>/o:olahus.tei.15341004_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15341004_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 528–531.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 528–531.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 309–314.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 309–314; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1756–1767.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15341004_1" type="url">509</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15341004_1" type="url">509</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -137,11 +140,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,102 +214,100 @@
             </textClass>
             <creation>
                 <date when="1534-10-11">11 October 1534</date>
-                <placeName>Arras</placeName>
+                <placeName>Arras<idno type="ITIdata">Q13725</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Cornelis de Schepper (Arras, 11 October
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Schepper complained in his latest letter that neither the Queen nor he
-                            has written to him – but they did not even know where to send the
-                            letter, and the Queen was busy, and anyway, what does Oláh have to do
-                            with a letter that he does not know and is written in French in any
-                            case? 2. He has talked to the Queen about his payment: she is taking
-                            care of it, as soon as she sees the financiers; but the financiers have
-                            dispersed, and the ones that are here are hunting rather than working.
-                            He knows that Schepper is not attached to his money, he knows his
-                            character, that he cannot be scared away, nor does he do what he does to
-                            benefit himself, but for the sake of public affairs, Christianity, and
-                            the rulers. Oláh has always seen what injustice befalls those who would
-                            otherwise deserve good, but thanks to their familiarity with philosophy,
-                            they can take this with equanimity, too. 3. Talking about the Hungarian
-                            affairs, the leaders should come to their senses in connection with Imre
-                            Czibak’s murder: standing by as this people annihilates itself, tertius
-                            gaudens – what kind of Christianity is this? 4. He has now written to
-                            Johan Weze what they have been discussing for a long time. There is no
-                            point in him trying to persuade the Queen when there are people who do
-                            not obey her because they are looking out for their own interests – they
-                            should go to hell. Schepper should watch out, warn, and encourage, as is
-                            needed. He has also heard that all the Hungarians want to side with King
-                            Ferdinand I, and Szapolyai has sent to King Ferdinand I for a salvus
-                            conductus. </p>
+                        <p xml:id="reg.p.1">1. Schepper complained in his latest letter that neither
+                            the Queen nor he has written to him – but they did not even know where
+                            to send the letter, and the Queen was busy, and anyway, what does Oláh
+                            have to do with a letter that he does not know and is written in French
+                            in any case? 2. He has talked to the Queen about his payment: she is
+                            taking care of it, as soon as she sees the financiers; but the
+                            financiers have dispersed, and the ones that are here are hunting rather
+                            than working. He knows that Schepper is not attached to his money, he
+                            knows his character, that he cannot be scared away, nor does he do what
+                            he does to benefit himself, but for the sake of public affairs,
+                            Christianity, and the rulers. Oláh has always seen what injustice
+                            befalls those who would otherwise deserve good, but thanks to their
+                            familiarity with philosophy, they can take this with equanimity, too. 3.
+                            Talking about the Hungarian affairs, the leaders should come to their
+                            senses in connection with Imre Czibak’s murder: standing by as this
+                            people annihilates itself, tertius gaudens – what kind of Christianity
+                            is this? 4. He has now written to Johan Weze what they have been
+                            discussing for a long time. There is no point in him trying to persuade
+                            the Queen when there are people who do not obey her because they are
+                            looking out for their own interests – they should go to hell. Schepper
+                            should watch out, warn, and encourage, as is needed. He has also heard
+                            that all the Hungarians want to side with King Ferdinand I, and
+                            Szapolyai has sent to King Ferdinand I for a salvus conductus. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolaus Olaus Cornelio Scepero suo salutem. </p>
-                <p>[1.] Septima huius accepi litteras tuas,<note type="critic">Ep.
-                        509.</note><ref>/o:olahus.tei.15341004_1</ref> quas ex
-                        <placeName>Cameraco</placeName><note type="critic">Cambrai.</note> quarto
-                    huius ipsius ad me dederas. Conquereris nec <persName>reginam</persName>, nec me
-                    ad te rescripsisse ad priores tuas,<note type="critic">Ep.
-                        507.</note><ref>/o:olahus.tei.15340919_1</ref> quas
+                <p xml:id="p.1">Nicolaus Olaus Cornelio Scepero suo salutem. </p>
+                <p xml:id="p.2">[1.] Septima huius accepi litteras tuas,<note type="critic"
+                        xml:id="note.1">Ep. 509.<ref>olahus.tei.15341004_1</ref></note> quas ex
+                        <placeName>Cameraco</placeName><note type="critic" xml:id="note.2"
+                        >Cambrai.</note> quarto huius ipsius ad me dederas. Conquereris nec
+                        <persName>reginam</persName>, nec me ad te rescripsisse ad priores
+                        tuas,<note type="critic" xml:id="note.3">Ep.
+                            507.<ref>olahus.tei.15340919_1</ref></note> quas
                         <placeName>Brugis</placeName> dederas. A me propterea rescriptum nihil fuit,
                     quia arbitratus eram meas te neque <placeName>Brugis</placeName> neque in
                     itinere reperturas. Scripseras enim te post quatriduum datarum litterarum
                     itineri commissurum. Quae mihi redditae fuerunt et quidem aperte per reginam
                     post septimum diem reginae taciturnitatem boni consule. Nosti principes, quales
                     sint. <del corresp="Olahus">neque <add corresp="Olahus" type="insert">nec
-                            reginae non</add></del><milestone unit="pb"/><add corresp="Olahus" type="insert">Regina</add> a me sollicitari <add
-                        corresp="Olahus" type="insert">non</add> potuit ad rescribendum,
-                    quandoquidem de ea re nec ad me scripseras, nec scivi, quid agendum mihi apud
-                    eam fuisset de rebus mihi ignotis et Gallice scriptis. Ex se principes omnes
-                    nostri, quam sint iusto negligentiores in rebus omnibus, si non urgeantur, non
-                    te multis iam ex rebus fugit. Attamen acceptis his postremis tuis litteris,
-                    questus sum ei de negligentia. Eam adscripsit quotidianae nostrae itinerationi. </p>
-                <p>[2.] De stipendio tuo exsolvendo, financiariis monendis, ut id faciant,
-                    maiestatem suam allocutus sum, dixit se id facturam, fiet autem, cumprimum
-                        <placeName>Bruxellas</placeName> reverteremur, vel financiarii alibi reginam
-                    convenient. Nam ordo hic quaestorius financiariusque nunc dispersus est. Minor
-                    illorum pars <del corresp="Olahus">curam</del><add corresp="Olahus" type="corr"
-                        >curiam</add> sequitur et haec quoque venationi potius, quam hoc quaestuario
-                    lucro est dedita. Ego aut <placeName>Bruxellis</placeName>, aut ubi tempus erit,
-                    rem tuam cum <persName>Haller</persName><note type="critic">Wolfgang Haller von
-                        Hallerstain.</note> curae habebo. Scribam ad tuas <del corresp="Olahus"
-                        >Brugam ut</del><add corresp="Olahus" type="corr">Brugas</add>,<note
-                        type="critic">Brugge.</note> exemplum <del corresp="Olahus"
-                        >diplomarum</del><add corresp="Olahus" type="corr">diplomatis</add> tui ad
-                    me mittant, ut sciamus diem, ad quem primum solutio tibi debeatur. Importunus,
-                    ut scribis, esse non debes, neque ex pecuniis pendere, sed facturus esse
-                    videreris tu tibi ipse iniuriam, si rem tuam, quam magnis laboribus demeritus
-                    es, incaute negligeres. Te nec rebus, nec fortunae, nec periculis, nec vitae, si
-                    ita casus tulisset, in rebus principum nostrorum pepercisse non magna
-                    persuasione <del corresp="Olahus">adducit</del><add corresp="Olahus" type="corr"
-                        >adducor</add>, ut credam. Nam naturam tuam novi, ingenium non alteri rei,
-                    quam fidei erga principes et integritati deditum, quae tuae virtutes facile te
-                    stimularent, ut ea faceres, quae fecisti, non privatarum rerum aut commodi
-                    causa, sed publicarum, sed Christianarum rerum, sed principum. Te nullis aut
-                    gloriae cupiditatibus, quae certe vanae sunt ac mundanae, aut metu aut minis
-                    induci deinceps posse, ut temere te tuosque periculis opponas, et gaudeo et
-                    laetor et praeterea consulo. Nam <choice>
+                            reginae non</add></del><milestone unit="pb"/><add corresp="Olahus"
+                        type="insert">Regina</add> a me sollicitari <add corresp="Olahus"
+                        type="insert">non</add> potuit ad rescribendum, quandoquidem de ea re nec ad
+                    me scripseras, nec scivi, quid agendum mihi apud eam fuisset de rebus mihi
+                    ignotis et Gallice scriptis. Ex se principes omnes nostri, quam sint iusto
+                    negligentiores in rebus omnibus, si non urgeantur, non te multis iam ex rebus
+                    fugit. Attamen acceptis his postremis tuis litteris, questus sum ei de
+                    negligentia. Eam adscripsit quotidianae nostrae itinerationi. </p>
+                <p xml:id="p.3">[2.] De stipendio tuo exsolvendo, financiariis monendis, ut id
+                    faciant, maiestatem suam allocutus sum, dixit se id facturam, fiet autem,
+                    cumprimum <placeName>Bruxellas</placeName> reverteremur, vel financiarii alibi
+                    reginam convenient. Nam ordo hic quaestorius financiariusque nunc dispersus est.
+                    Minor illorum pars <del corresp="Olahus">curam</del><add corresp="Olahus"
+                        type="corr">curiam</add> sequitur et haec quoque venationi potius, quam hoc
+                    quaestuario lucro est dedita. Ego aut <placeName>Bruxellis</placeName>, aut ubi
+                    tempus erit, rem tuam cum <persName>Haller</persName><note type="critic"
+                        xml:id="note.4">Wolfgang Haller von Hallerstain.</note> curae habebo.
+                    Scribam ad tuas <del corresp="Olahus">Brugam ut</del><add corresp="Olahus"
+                        type="corr">Brugas</add>,<note type="critic" xml:id="note.5">Brugge.</note>
+                    exemplum <del corresp="Olahus">diplomarum</del><add corresp="Olahus" type="corr"
+                        >diplomatis</add> tui ad me mittant, ut sciamus diem, ad quem primum solutio
+                    tibi debeatur. Importunus, ut scribis, esse non debes, neque ex pecuniis
+                    pendere, sed facturus esse videreris tu tibi ipse iniuriam, si rem tuam, quam
+                    magnis laboribus demeritus es, incaute negligeres. Te nec rebus, nec fortunae,
+                    nec periculis, nec vitae, si ita casus tulisset, in rebus principum nostrorum
+                    pepercisse non magna persuasione <del corresp="Olahus">adducit</del><add
+                        corresp="Olahus" type="corr">adducor</add>, ut credam. Nam naturam tuam
+                    novi, ingenium non alteri rei, quam fidei erga principes et integritati deditum,
+                    quae tuae virtutes facile te stimularent, ut ea faceres, quae fecisti, non
+                    privatarum rerum aut commodi causa, sed publicarum, sed Christianarum rerum, sed
+                    principum. Te nullis aut gloriae cupiditatibus, quae certe vanae sunt ac
+                    mundanae, aut metu aut minis induci deinceps posse, ut temere te tuosque
+                    periculis opponas, et gaudeo et laetor et praeterea consulo. Nam <choice>
                         <orig>infidia</orig>
                         <supplied>infidelitatem</supplied>
                     </choice> gentis illius, <milestone unit="pb"/>apud <choice>
@@ -258,13 +320,14 @@
                     ipsi sagacissimi optime norunt, instructum edoctumque in eorum contubernium
                     apprehenderint. Quid tibi restare poterit, quod Deus longe repellat, quam
                     periculum? Non tibi plus, quam amantissimae <persName>coniugi</persName>,<note
-                        type="critic">Anna Isabella (Elizabeth) Donche.</note> liberis nociturum.
-                    Etsi enim studio philosophiae iam a puero edoctus amore reipublicae omnia et
-                    adversa et prospera aequo ferre posses animo. Quid tamen aetas imbecilla tuorum
-                    faceret? Quomodo te satisfecisse putares caritati proximorum, dum eos in
-                    periculum coniiceres? Res suas tractare possunt principes, ut volunt. Tu vel ego
-                    non tenemur in rebus quibuslibet ultra id, quod honestum est et possumus
-                    servire. Si virtutis ullum esset nostra aetate praemium vel saltem umbra <choice>
+                        type="critic" xml:id="note.6">Anna Isabella (Elizabeth) Donche.</note>
+                    liberis nociturum. Etsi enim studio philosophiae iam a puero edoctus amore
+                    reipublicae omnia et adversa et prospera aequo ferre posses animo. Quid tamen
+                    aetas imbecilla tuorum faceret? Quomodo te satisfecisse putares caritati
+                    proximorum, dum eos in periculum coniiceres? Res suas tractare possunt
+                    principes, ut volunt. Tu vel ego non tenemur in rebus quibuslibet ultra id, quod
+                    honestum est et possumus servire. Si virtutis ullum esset nostra aetate praemium
+                    vel saltem umbra <choice>
                         <orig>paemii</orig>
                         <supplied>praemii</supplied>
                     </choice>, liceret bonis aliquid agere, nunc cum nullum sit, quid est, quod
@@ -283,74 +346,77 @@
                     quod conscientiae et veridicentiae principum non convenit, <milestone unit="pb"
                     />non me hominem esse obliviscar, et eum, qui philosophiam ipsam his omnibus
                     facile praeponam. </p>
-                <p>[3.] In rebus Hungariae, quae ad me scribis,<note type="critic">Ep.
-                        509. Cap. 2.</note><ref>/o:olahus.tei.15341004_1</ref> intelligo
-                        <persName>Czyback</persName><note type="critic">Imre Czibak was executed on
-                        12 August, 1534.</note> cum suis truncatum. <del corresp="Olahus"
-                        >Notum</del><add corresp="Olahus" type="corr">Nothum</add><note
-                        type="critic">Lodovico Gritti was Andrea Gritti’s illegitimate son.</note>
-                    <del corresp="Olahus">Griticum</del><add corresp="Olahus" type="corr"
-                        >Griti</add> trucidatum, <persName>patrem</persName><note type="critic"
-                        >Andrea Gritti.</note> obsessum ante tuas litteras audiveramus. Et praeterea
+                <p xml:id="p.4">[3.] In rebus Hungariae, quae ad me scribis,<note type="critic"
+                        xml:id="note.7">Ep. 509. Cap. 2.<ref>olahus.tei.15341004_1</ref></note>
+                    intelligo <persName>Czyback</persName><note type="critic" xml:id="note.8">Imre
+                        Czibak was executed on 12 August, 1534.</note> cum suis truncatum. <del
+                        corresp="Olahus">Notum</del><add corresp="Olahus" type="corr"
+                        >Nothum</add><note type="critic" xml:id="note.9">Lodovico Gritti was Andrea
+                        Gritti’s illegitimate son.</note><del corresp="Olahus">Griticum</del><add
+                        corresp="Olahus" type="corr">Griti</add> trucidatum,
+                        <persName>patrem</persName><note type="critic" xml:id="note.10">Andrea
+                        Gritti.</note> obsessum ante tuas litteras audiveramus. Et praeterea
                         <persName>regina</persName> dixit eum evasisse et
-                        <placeName>Taurinum</placeName><note type="critic">Belgrade.</note>
-                    profectum, postremo intelleximus <placeName>Constantinopolim</placeName>. Memor
-                    sum illorum omnium, quae inter nos <del corresp="Olahus">commemorati</del><add
-                        corresp="Olahus" type="corr">commenti</add> sumus. Multa sunt principibus
-                    nostris, postquam res ita cecidit, cogitanda, sed nihil magis ac diligentius,
-                    quam si expergiscerentur. <del corresp="Olahus">Fari</del><add corresp="Olahus"
+                        <placeName>Taurinum</placeName><note type="critic" xml:id="note.11"
+                        >Belgrade.</note> profectum, postremo intelleximus
+                        <placeName>Constantinopolim</placeName>. Memor sum illorum omnium, quae
+                    inter nos <del corresp="Olahus">commemorati</del><add corresp="Olahus"
+                        type="corr">commenti</add> sumus. Multa sunt principibus nostris, postquam
+                    res ita cecidit, cogitanda, sed nihil magis ac diligentius, quam si
+                    expergiscerentur. <del corresp="Olahus">Fari</del><add corresp="Olahus"
                         type="corr">Pati</add> hoc, ut misera illa nostra gens in viscera sua
                     saeviat et sese <del corresp="Olahus">expedat</del><add corresp="Olahus"
                         type="corr">exedat</add>, dum tertius adveniat. Quod officium est
                     Christianum? Cavere illi, ne pereat, ne sanguine patrio ad internitionem usque
                     madeat, magis est generosi Christianique animi. Omnino illud alterum, quod dicis
                     in gratiam admittendo etc. ab initio mihi summe placuit. </p>
-                <p>[4.] Qua de re et tecum saepius, si meministi, sum locutus, et antequam
-                    tuae litterae hae postremae ad me venirent, ut antea saepe, sic et nuper ad
-                    nostrum <persName>Lundensem</persName><note type="critic">Johan Weze.</note>
-                    scripseram. Locutus sum, ut mones, reginae, sed <del corresp="Olahus"
-                        >illi</del><add corresp="Olahus" type="corr">ei</add> et iudicio suo, etiam
-                    si quod proferret, non valde parent, vel ut <del corresp="Olahus"
-                        >optemperetur</del><add corresp="Olahus" type="corr">obtemperetur</add>, non
-                    sinunt suis privatis ducti cupiditatibus et rebus. Quae velim in Tartarum imum
-                        <del corresp="Olahus">Tithanibus</del><add corresp="Olahus" type="corr"> cum
-                        anchoribus</add> deiicerentur. Quorum quidem si ratio hactenus non fuisset
-                    habita, iamdudum omnis mali fomes cessasset, iamdudum quieti essemus, iamdudum
-                    Hungaria unita esset, qua unita hostium rabies non tam effrena esset, ut non
-                    frenari posset. Praeterea cave putes et illam generis et sexus sui oblitam, non
-                    multae reperiuntur Semiramides. Maii praeteriti praesagia saepius versantur in
-                    animo, quae utinam futura sint vera. Puto illum esse causam rerum futurarum ex
-                    voto contingentium, si occasio praeterierit, si dormiemus, ut solemus, si
-                    tineis, quicquid est opum, devorandum congesserimus. <quote>Calva est
-                        occasio,</quote><note type="quote">Cf. Erasm. <hi rend="italic">Adag.</hi>
+                <p xml:id="p.5">[4.] Qua de re et tecum saepius, si meministi, sum locutus, et
+                    antequam tuae litterae hae postremae ad me venirent, ut antea saepe, sic et
+                    nuper ad nostrum <persName>Lundensem</persName><note type="critic"
+                        xml:id="note.12">Johan Weze.</note> scripseram. Locutus sum, ut mones,
+                    reginae, sed <del corresp="Olahus">illi</del><add corresp="Olahus" type="corr"
+                        >ei</add> et iudicio suo, etiam si quod proferret, non valde parent, vel ut
+                        <del corresp="Olahus">optemperetur</del><add corresp="Olahus" type="corr"
+                        >obtemperetur</add>, non sinunt suis privatis ducti cupiditatibus et rebus.
+                    Quae velim in Tartarum imum <del corresp="Olahus">Tithanibus</del><add
+                        corresp="Olahus" type="corr"> cum anchoribus</add> deiicerentur. Quorum
+                    quidem si ratio hactenus non fuisset habita, iamdudum omnis mali fomes
+                    cessasset, iamdudum quieti essemus, iamdudum Hungaria unita esset, qua unita
+                    hostium rabies non tam effrena esset, ut non frenari posset. Praeterea cave
+                    putes et illam generis et sexus sui oblitam, non multae reperiuntur Semiramides.
+                    Maii praeteriti praesagia saepius versantur in animo, quae utinam futura sint
+                    vera. Puto illum esse causam rerum futurarum ex voto contingentium, si occasio
+                    praeterierit, si dormiemus, ut solemus, si tineis, quicquid est opum, devorandum
+                    congesserimus. <quote xml:id="quote.1">Calva est occasio,</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi>
                         670. I,VII,70. Nosce tempus. “Fronte capillata, post haec Occasio
-                        calva.”</note>
-                    <milestone unit="pb"/> non comprehendetur fugiens. Astra et alia, quae ab illis
-                    vel potius a Deo dependent, praeterita occasione mutari possunt. Quo magis est
-                    tibi insudandum, ne monendo, hortando obdormiscas, ne bene coeptis rebus male
-                    desis. Gloria ea <del corresp="Olahus">dein</del><add corresp="Olahus"
-                        type="corr">demum</add> erit tua firma, si qua duci poteris, cum officio tuo
-                    non defueris, haec amico et libero animo scribo. Novi te, tu quoque, ut credo,
-                    me nosti. </p>
-                <p>Ultra ea, quae scripsisti, accepimus post <persName>Griti</persName>
-                    <del corresp="Olahus">fortunam</del><add corresp="Olahus" type="corr"
-                        >mortem</add> Hungaros omnes convenisse etiam <persName>Ioannis</persName>
-                    <del corresp="Olahus">sequacis</del><add corresp="Olahus" type="corr"
-                        >sequaceis</add> velle subesse regi nostro Ferdinando.
-                        <persName>Ioannem</persName> misisse ad <persName>regem</persName> pro salvo
-                    conducto, ut aliquem<note type="critic">Probably, István Brodarics.</note> ex
-                    suis mittat tractandi gratia. Quae credo <del corresp="Olahus">verba</del><add
-                        corresp="Olahus" type="corr">vera</add> esse, nam illi eadem moventur <del
-                        corresp="Olahus">sententia</del><add corresp="Olahus" type="corr"
-                        >scutica</add>. Dominus <persName>Lundensis</persName>, ut mihi scribit,
-                    negotium Bavaricum<note type="critic">The treaty of Linz was concluded by Weze
-                        in 1534, signed between the Bavarian princes and the Habsburgs, and most
+                        calva.”</note><milestone unit="pb"/> non comprehendetur fugiens. Astra et
+                    alia, quae ab illis vel potius a Deo dependent, praeterita occasione mutari
+                    possunt. Quo magis est tibi insudandum, ne monendo, hortando obdormiscas, ne
+                    bene coeptis rebus male desis. Gloria ea <del corresp="Olahus">dein</del><add
+                        corresp="Olahus" type="corr">demum</add> erit tua firma, si qua duci
+                    poteris, cum officio tuo non defueris, haec amico et libero animo scribo. Novi
+                    te, tu quoque, ut credo, me nosti. </p>
+                <p xml:id="p.6">Ultra ea, quae scripsisti, accepimus post
+                        <persName>Griti</persName><del corresp="Olahus">fortunam</del><add
+                        corresp="Olahus" type="corr">mortem</add> Hungaros omnes convenisse etiam
+                        <persName>Ioannis</persName><del corresp="Olahus">sequacis</del><add
+                        corresp="Olahus" type="corr">sequaceis</add> velle subesse regi nostro
+                    Ferdinando. <persName>Ioannem</persName> misisse ad <persName>regem</persName>
+                    pro salvo conducto, ut aliquem<note type="critic" xml:id="note.13">Probably,
+                        István Brodarics.</note> ex suis mittat tractandi gratia. Quae credo <del
+                        corresp="Olahus">verba</del><add corresp="Olahus" type="corr">vera</add>
+                    esse, nam illi eadem moventur <del corresp="Olahus">sententia</del><add
+                        corresp="Olahus" type="corr">scutica</add>. Dominus
+                        <persName>Lundensis</persName>, ut mihi scribit, negotium Bavaricum<note
+                        type="critic" xml:id="note.14">The treaty of Linz was concluded by Weze in
+                        1534, signed between the Bavarian princes and the Habsburgs, and most
                         importantly, King Ferdinand I.</note> ex regio voto totum confecit. Scribe
                     ad me certa de his, de quibus aliquando commentati sumus. Vale, Amantissime
                     Cornelii mei non Immemor, et scribe! Hinc proficiscemur
                         <placeName>Valencenas</placeName> et illinc in
                         <placeName>Hannoniam</placeName>, postremo <placeName>Bruxellas</placeName>. </p>
-                <p><placeName>Atrebati</placeName> XI. Octobris 1534.</p>
+                <p xml:id="p.7"><placeName>Atrebati</placeName> XI. Octobris 1534.</p>
             </div>
         </body>
     </text>

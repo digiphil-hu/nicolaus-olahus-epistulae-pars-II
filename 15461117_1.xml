@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">669</title>
-                <title type="main">Georg Bona to Miklós Oláh (Sibiu, 17 November 1546)</title>
+                <title key="body" n="669" type="main">Georg Bona to Miklós Oláh (Sibiu, 17 November
+                    1546)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15461117_1</idno>
-                
+                <idno type="PID">olahus.tei.15461117_1</idno>
+                <idno type="ITIdata">Q473329</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15461117_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p><hi rend="bold">On the outer side:</hi> Bona. Redditae 1547. 28. Ianuarii.
                         Datae 17. Novembris 1546. </p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -131,11 +131,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -144,90 +205,90 @@
             </textClass>
             <creation>
                 <date when="1546-11-17">17 November 1546</date>
-                <placeName>Sibiu</placeName>
+                <placeName>Sibiu<idno type="ITIdata">Q10591</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Georg Bona</persName>
-                    <orgName/>
+                    <persName>Georg Bona<idno type="ITIdata">Q154260</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1547-01-28"/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Georg Bona to Miklós Oláh (Sibiu, 17 November 1546)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Georg Bona is very happy to find Oláh in good health, and he also lets
-                            him know that God has granted him quite good health as well. Bona
-                            reminds Oláh that they had conferred with each other, and Oláh decided
-                            that Bona can stay until his (Bona’s) wife starts looking for him. In
-                            response to Oláh’s request, Bona has already informed him in his letter
-                            about all his wife’s affairs, and what their request for Oláh refers to
-                            and in what way, including the fact that Bona’s wife would be happy to
-                            see her brother, Oláh. Bona would only be able to stay with him for a
-                            short period of time because he has three estates. Undertaking such a
-                            long journey in foreign land and leaving his own people and homeland is
-                            certainly accompanied by sadness, but Bona will still comply with his
-                            request, although he cannot come before Saint George’s Day because he
-                            has little time. He hopes that he will also send him a pass and that God
-                            will help him find accommodation. Going on such a long trip with wife
-                            and child brings a lot of trouble and expenses, as Oláh himself must
-                            also have seen before. He trusts that Oláh will return home safely.</p>
+                        <p xml:id="reg.p.1">Georg Bona is very happy to find Oláh in good health,
+                            and he also lets him know that God has granted him quite good health as
+                            well. Bona reminds Oláh that they had conferred with each other, and
+                            Oláh decided that Bona can stay until his (Bona’s) wife starts looking
+                            for him. In response to Oláh’s request, Bona has already informed him in
+                            his letter about all his wife’s affairs, and what their request for Oláh
+                            refers to and in what way, including the fact that Bona’s wife would be
+                            happy to see her brother, Oláh. Bona would only be able to stay with him
+                            for a short period of time because he has three estates. Undertaking
+                            such a long journey in foreign land and leaving his own people and
+                            homeland is certainly accompanied by sadness, but Bona will still comply
+                            with his request, although he cannot come before Saint George’s Day
+                            because he has little time. He hopes that he will also send him a pass
+                            and that God will help him find accommodation. Going on such a long trip
+                            with wife and child brings a lot of trouble and expenses, as Oláh
+                            himself must also have seen before. He trusts that Oláh will return home
+                            safely.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Laus Deo am 17. Novembris in 1546 jar. </p>
-                <p>Frid, gnad in Jesu Cristo! </p>
-                <p>Edler und gnediger herr, eur gnadenn hayll und gesund istt uns ein
+                <p xml:id="p.1">Laus Deo am 17. Novembris in 1546 jar. </p>
+                <p xml:id="p.2">Frid, gnad in Jesu Cristo! </p>
+                <p xml:id="p.3">Edler und gnediger herr, eur gnadenn hayll und gesund istt uns ein
                     sonderliche fraid zu horenn und ergleichenn wist uns auch in zimlcher
                     gesandheitt nach dem willenn Gottes. Khumdt eur gnadenn zu gedechtnus, das e.
-                        g.<note type="critic">I.e. eure Gnade.</note> mytt myr gehandeltt hatt und
-                    auch beschlossen unsers playbenn halben und mich auch in dem fall peviligt hab,
-                    also waytt main liebe <persName>hausfraw</persName><note type="critic">Orsolya
-                        Oláh.</note> nachfolgen will, doch hab ich yr alle sach klarlich anzagt nach
-                    e. g. peffelch, in was mainug und in was gestaltt e. g. unser pegerenn ist. Also
-                    hatt sy irenn willenn auch darzue gebenn, denn sy namlich e. g. vonn herzenn
-                    geren sehenn woltt, als yrem herren und leiblichenn prueder, das denn e. g. woll
-                    gedenkhenn khan, so es denn der almechtig Gott schikhenn und fuegenn will, so
-                    mags, als geschehen, so es eur gnad aygencklich habenn will, das myr da sain
-                    sollen, damitt das myr drei ayn aigentumb habenn, das unser playben say mytt der
-                    zaytt. Wen, warumb ein solcher wayttenn weg in frembde land auffzumachenn und
-                    das sain und vatterland zu ferlassenn, ist gewisslich khain schertz, nicht
-                    sunder e. g. peger soll<gap extent="unknown" reason="illegible" unit="word"/> erffullt werden, sowaytt es Gotten schickenn will, sunder vor
-                        Jeorgii<note type="critic">23 or 24 April. In Hungary, it falls on 24 April,
-                        but Bona probably did not use the Hungarian calendar.</note> khann ich nicht
-                    auff sain, denn dy zaitt ist myr mytt allenn sachen zu kurtz. Mer verhoff ich,
-                    e. g., wyr myr auch durch schraybein ein pasß untericht gebenn, wenn uns Gott
-                    der almechtig hinauff hylfft, das myr darum wissenn, wo und in wo zu blaybem,
-                    dem es wyrtt groß mue und zerung kosten, alsdenn e. g. woll selber mag abnemen,
-                    mytt wayb und khind ein solichen waytten weg <milestone unit="pb"/>zue zyhenn. Doch will ichs Gott im erstenn, darnach e. g. haymsezenn,
-                    wuntch eur gnadenn vill glukh und hayll, Gott erspar euch uns. Zu trost allenn
-                    ich peger vonn e. g. ein gnedige antwortt. In eylend geschrybenn, datum aus der
-                        <placeName>Hermstatten</placeName>. </p>
-                <p>
-                    <seg type="signature">Jorg Bonn<note type="critic">Georg Bona was Oláh’s
-                            brother-in-law due to his marriage to the widow Orsolya Oláh.</note> e.
-                        g. w. d. a.</seg><note type="critic">Probably, i.e. Euer Gnaden williger
-                        Diener Allezeit.</note>
+                        g.<note type="critic" xml:id="note.1">I.e. eure Gnade.</note> mytt myr
+                    gehandeltt hatt und auch beschlossen unsers playbenn halben und mich auch in dem
+                    fall peviligt hab, also waytt main liebe <persName>hausfraw</persName><note
+                        type="critic" xml:id="note.2">Orsolya Oláh.</note> nachfolgen will, doch hab
+                    ich yr alle sach klarlich anzagt nach e. g. peffelch, in was mainug und in was
+                    gestaltt e. g. unser pegerenn ist. Also hatt sy irenn willenn auch darzue
+                    gebenn, denn sy namlich e. g. vonn herzenn geren sehenn woltt, als yrem herren
+                    und leiblichenn prueder, das denn e. g. woll gedenkhenn khan, so es denn der
+                    almechtig Gott schikhenn und fuegenn will, so mags, als geschehen, so es eur
+                    gnad aygencklich habenn will, das myr da sain sollen, damitt das myr drei ayn
+                    aigentumb habenn, das unser playben say mytt der zaytt. Wen, warumb ein solcher
+                    wayttenn weg in frembde land auffzumachenn und das sain und vatterland zu
+                    ferlassenn, ist gewisslich khain schertz, nicht sunder e. g. peger soll<gap
+                        extent="unknown" reason="illegible" unit="word"/> erffullt werden, sowaytt
+                    es Gotten schickenn will, sunder vor Jeorgii<note type="critic" xml:id="note.3"
+                        >23 or 24 April. In Hungary, it falls on 24 April, but Bona probably did not
+                        use the Hungarian calendar.</note> khann ich nicht auff sain, denn dy zaitt
+                    ist myr mytt allenn sachen zu kurtz. Mer verhoff ich, e. g., wyr myr auch durch
+                    schraybein ein pasß untericht gebenn, wenn uns Gott der almechtig hinauff
+                    hylfft, das myr darum wissenn, wo und in wo zu blaybem, dem es wyrtt groß mue
+                    und zerung kosten, alsdenn e. g. woll selber mag abnemen, mytt wayb und khind
+                    ein solichen waytten weg <milestone unit="pb"/>zue zyhenn. Doch will ichs Gott
+                    im erstenn, darnach e. g. haymsezenn, wuntch eur gnadenn vill glukh und hayll,
+                    Gott erspar euch uns. Zu trost allenn ich peger vonn e. g. ein gnedige antwortt.
+                    In eylend geschrybenn, datum aus der <placeName>Hermstatten</placeName>. </p>
+                <p xml:id="p.4">
+                    <seg type="signature">Jorg Bonn<note type="critic" xml:id="note.4">Georg Bona
+                            was Oláh’s brother-in-law due to his marriage to the widow Orsolya
+                            Oláh.</note> e. g. w. d. a.</seg>
+                    <note type="critic" xml:id="note.5">Probably, i.e. Euer Gnaden williger Diener
+                        Allezeit.</note>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Generosissimo domino domino Nicolao Olahus, episcopo Zabragiensi<note
-                        type="critic">Zagreb.</note> atque cancellario regni maiestatis, domino
-                    nostro gratiosissimo.</p>
+                <p xml:id="p.5">Generosissimo domino domino Nicolao Olahus, episcopo
+                        Zabragiensi<note type="critic" xml:id="note.6">Zagreb.</note> atque
+                    cancellario regni maiestatis, domino nostro gratiosissimo.</p>
             </div>
         </body>
     </text>

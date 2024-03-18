@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">760</title>
-                <title type="main">Miklós Oláh to Pál Gregoriánczy (Augsburg, 17 January
-                    1551)</title>
+                <title key="body" n="760" type="main">Miklós Oláh to Pál Gregoriánczy (Augsburg, 17
+                    January 1551)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15510117_2</idno>
-                
+                <idno type="PID">olahus.tei.15510117_2</idno>
+                <idno type="ITIdata">Q473417</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15510117_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with autograph emendations, signature
-                            and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with autograph emendations,
+                        signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -135,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,61 +203,58 @@
             </textClass>
             <creation>
                 <date when="1551-01-17">17 January 1551</date>
-                <placeName>Augsburg</placeName>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pál Gregoriánczy</persName>
-                    <orgName/>
+                    <persName>Pál Gregorjánczy<idno type="ITIdata">Q59539</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Pál Gregoriánczy (Augsburg, 17 January
                     1551)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has received Pál Gregoriánczy’s letter, in which he encourages Oláh
-                            to try to persuade the King to defend Hungary from the dangers that
-                            threaten it; but that is unnecessary because the King has been working
-                            on the defence of the country for a long time, and even if they did not
-                            try to convince him, he would still take care of the defence. As for
-                            Gergely Majczen, Oláh tried to help him, but Majczen had different
-                            plans, and he will now see what he can accomplish in his own case. 2. As
-                            for Lukács Székely’s letter, after he had sent it to Gregoriánczy, the
-                            Keglevich boys (who are faithful subjects of the King) handed a petition
-                            to the King and put forward that Székely is still in possession of the
-                            estates that had already been awarded to them through a revisio, but it
-                            was all in vain. So now the King does not want to give those estates to
-                            Székely, and he asked Oláh if they had already been donated to Székely,
-                            to which Oláh responded that they had not. So he asks Gregoriánczy not
-                            to press for a letter in Székely’s case until a decision is made. He
-                            hopes that they will already return in February; until then he is
-                            sending the royal charter in connection with Gregoriánczy’s brother.</p>
+                        <p xml:id="reg.p.1">1. He has received Pál Gregoriánczy’s letter, in which
+                            he encourages Oláh to try to persuade the King to defend Hungary from
+                            the dangers that threaten it; but that is unnecessary because the King
+                            has been working on the defence of the country for a long time, and even
+                            if they did not try to convince him, he would still take care of the
+                            defence. As for Gergely Majczen, Oláh tried to help him, but Majczen had
+                            different plans, and he will now see what he can accomplish in his own
+                            case. 2. As for Lukács Székely’s letter, after he had sent it to
+                            Gregoriánczy, the Keglevich boys (who are faithful subjects of the King)
+                            handed a petition to the King and put forward that Székely is still in
+                            possession of the estates that had already been awarded to them through
+                            a revisio, but it was all in vain. So now the King does not want to give
+                            those estates to Székely, and he asked Oláh if they had already been
+                            donated to Székely, to which Oláh responded that they had not. So he
+                            asks Gregoriánczy not to press for a letter in Székely’s case until a
+                            decision is made. He hopes that they will already return in February;
+                            until then he is sending the royal charter in connection with
+                            Gregoriánczy’s brother.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendissime in Christo Pater,<note type="critic">Pál Gregorjánczy
-                        (†1565) was a humanist prelate. He was Bishop of Pécs (1548–1550), Canon of
-                        Zagreb and Canon of Bratislava, Bishop of Zagreb (1550–1558), Bishop of Győr
-                        (1554–1565), and Archbishop of Kalocsa (1565). He negotiated in Rome as an
-                        envoy of King Ferdinand I during 1551 and 1552, see <hi rend="smallcap"
-                            >Varga</hi> 2010a.</note> Domine et Frater nobis Honorandissime,
-                    salutem! </p>
-                <p>[1.] Accepimus litteras<note type="critic">We do not know this
-                        letter.</note> Dominationis Vestrae, quarum statim initio hortatur nos ad
-                    sollicitandum <persName>maiestatem regiam</persName>, dominum nostrum
+                <p xml:id="p.1">Reverendissime in Christo Pater,<note type="critic" xml:id="note.1"
+                        >Pál Gregorjánczy (†1565) was a humanist prelate. He was Bishop of Pécs
+                        (1548–1550), Canon of Zagreb and Canon of Bratislava, Bishop of Zagreb
+                        (1550–1558), Bishop of Győr (1554–1565), and Archbishop of Kalocsa (1565).
+                        He negotiated in Rome as an envoy of King Ferdinand I during 1551 and 1552,
+                        see <hi rend="smallcap">Varga</hi> 2010a.</note> Domine et Frater nobis
+                    Honorandissime, salutem! </p>
+                <p xml:id="p.2">[1.] Accepimus litteras<note type="critic" xml:id="note.2">We do not
+                        know this letter.</note> Dominationis Vestrae, quarum statim initio hortatur
+                    nos ad sollicitandum <persName>maiestatem regiam</persName>, dominum nostrum
                     clementissimum, ut laboranti et in summa necessitate constitutae Hungariae
                     subvenire eamque ab impendentibus periculis defendere dignaretur. Sciat
                     Dominatio Vestra nos cum antea, tum etiam nunc diligenter egisse, et deinceps
@@ -210,17 +262,18 @@
                     ipsius regni Hungariae habeat, cuius voluntatem erga ipsam Hungariam ita
                     propensam esse intelleximus, ut etiam si nullius adhortatio accederet, ultro
                     defensionem eius esset curatura.</p>
-                <p>Ubi vero Dominatio Vestra scribit de magistro <persName>Gregorio
-                        Mayczeny</persName>,<note type="critic">Gergely Majczen was Canon of Zagreb.
-                        Oláh tried to help and gave him the title of Court Chaplain, but Majczen
-                        seems to have rejected it, see <hi rend="smallcap">Fazekas</hi> 2021,
-                        82.</note> nos eius commodo providere volebamus, sed postaquam ipse aliam
-                    habet sententiam, videat, quid in re sua expediat.</p>
-                <p>[2.] Quod litteras domini <persName>Lucae Zekel</persName><note
-                        type="critic">Lukács Székely. We do not know this letter.</note> attinet,
-                    postquam eas ad Dominationem Vestram misimus, supplicarunt maiestati regiae pro
-                    bonis illis filii<note type="critic">Máté and Ferenc Keglevich.</note> domini
-                        <persName>Petri Keglewith</persName>,<note type="critic">Petar Keglević II
+                <p xml:id="p.3">Ubi vero Dominatio Vestra scribit de magistro <persName>Gregorio
+                        Mayczeny</persName>,<note type="critic" xml:id="note.3">Gergely Majczen was
+                        Canon of Zagreb. Oláh tried to help and gave him the title of Court
+                        Chaplain, but Majczen seems to have rejected it, see <hi rend="smallcap"
+                            >Fazekas</hi> 2021, 82.</note> nos eius commodo providere volebamus, sed
+                    postaquam ipse aliam habet sententiam, videat, quid in re sua expediat.</p>
+                <p xml:id="p.4">[2.] Quod litteras domini <persName>Lucae Zekel</persName><note
+                        type="critic" xml:id="note.4">Lukács Székely. We do not know this
+                        letter.</note> attinet, postquam eas ad Dominationem Vestram misimus,
+                    supplicarunt maiestati regiae pro bonis illis filii<note type="critic"
+                        xml:id="note.5">Máté and Ferenc Keglevich.</note> domini <persName>Petri
+                        Keglewith</persName>,<note type="critic" xml:id="note.6">Petar Keglević II
                         of Bužim was the Ban of Croatia and Slavonia between 1537 and 1542.</note>
                     quorum merita suae maiestati grata sunt, eo potissimum nomine quod unus eorum,
                     natu maior in regno Sclavoniae sacrae regni Hungariae, alter vero serenissimo
@@ -239,18 +292,20 @@
                     vel coram, ut speramus, brevi, vel per litteras significabimus. <add
                         corresp="Olahus" type="insert">Speramus tamen nos quoque in Februario
                         redituros.</add> Litteras iuris regii pro <persName>fratre</persName><note
-                        type="critic">Probably Ambrus Gregorjánczy. Varga claims that Ambrus was
-                        Pál’s brother, not his uncle, as it is often claimed in the literature. Pál
-                        also had other brothers: István, Mihály, and Márk, but we do not know about
-                        their activities. Ambrus was a constable in Križevci, and served the Zrínyi
-                        family, see <hi rend="smallcap">Varga</hi> 2010, 129–130.</note>
-                    Dominationis Vestrae ad eam cum praesentibus misimus. Credimus nos quoque, <add
-                        corresp="Olahus" type="insert">ut praemisimus,</add> ineunte quadragesimali
-                    tempore unacum regia maiestate <placeName>Viennam</placeName> descensuros, tunc
-                    tum de his, tum etiam aliis negotiis ad Dominationem Vestram affatim
-                    colloquemur, quam bene valere optamus.</p>
-                <p>Datum <placeName>Augustae Rheticae</placeName> 17. Ianuarii 1551.</p>
-                <p>
+                        type="critic" xml:id="note.7">Probably Ambrus Gregorjánczy. Varga claims
+                        that Ambrus was Pál’s brother, not his uncle, as it is often claimed in the
+                        literature. Pál also had other brothers: István, Mihály, and Márk, but we do
+                        not know about their activities. Ambrus was a constable in Križevci, and
+                        served the Zrínyi family, see <hi rend="smallcap">Varga</hi> 2010,
+                        129–130.</note> Dominationis Vestrae ad eam cum praesentibus misimus.
+                    Credimus nos quoque, <add corresp="Olahus" type="insert">ut praemisimus,</add>
+                    ineunte quadragesimali tempore unacum regia maiestate
+                        <placeName>Viennam</placeName> descensuros, tunc tum de his, tum etiam aliis
+                    negotiis ad Dominationem Vestram affatim colloquemur, quam bene valere
+                    optamus.</p>
+                <p xml:id="p.5">Datum <placeName>Augustae Rheticae</placeName> 17. Ianuarii
+                    1551.</p>
+                <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Frater Vestrae Dominationis
                             Reverendissimae Agriensis etc. manu propria</add>
@@ -258,12 +313,11 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Reverendissimo in Christo patri domino Paulo decretorum doctori,
+                <p xml:id="p.7">Reverendissimo in Christo patri domino Paulo decretorum doctori,
                     episcopo ecclesiae Zagrabiensis et consiliario regiae maiestatis etc. domino et
                     fratri nobis honorandissimo.</p>
-                
             </div>
         </body>
     </text>

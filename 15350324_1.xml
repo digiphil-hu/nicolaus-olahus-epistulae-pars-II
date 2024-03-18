@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">532</title>
-                <title type="main">Christiern Winther [?] to Miklós Oláh (Leuven, 24 March
-                    1535)</title>
+                <title key="body" n="532" type="main">Christiern Winther [?] to Miklós Oláh (Leuven,
+                    24 March 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15350324_1</idno>
-                
+                <idno type="PID">olahus.tei.15350324_1</idno>
+                <idno type="ITIdata">Q473192</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15350324_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 549–550.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 549–550.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -135,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,51 +203,48 @@
             </textClass>
             <creation>
                 <date when="1535-03-24">24 March 1535</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
                     <persName>Christiern Winther [?]</persName>
-                    <orgName/>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Christiern Winther [?] to Miklós Oláh (Leuven, 24 March
                     1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Oláh is toiling every day to make sure he supports as many people as
-                            possible; he has people within his household who want to reciprocate
-                            Oláh’s good deeds with their diligence and tirelessness. It is no wonder
-                            that the Queen entrusts her secrets to such an excellent person, the
-                            dignity of whose mind is solid and unflinching. </p>
+                        <p xml:id="reg.p.1">Oláh is toiling every day to make sure he supports as
+                            many people as possible; he has people within his household who want to
+                            reciprocate Oláh’s good deeds with their diligence and tirelessness. It
+                            is no wonder that the Queen entrusts her secrets to such an excellent
+                            person, the dignity of whose mind is solid and unflinching. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Christiernus Umbra Cymber<note type="critic">Probably Christiern
-                        Winther, see <hi rend="smallcap">Tournoy</hi> 2015, 527; and <hi
-                            rend="smallcap">Christiansen</hi> 2002, 82.</note> Nicolao Olao suo
-                    salutem.</p>
-                <p>Quamquam praeclari ingenii tui dexteritas mira quadam morum maturitate
-                    unita, tum aetas, quae et ipsa iam quoque maturuit, palam arguunt et perspicue,
-                    te viri consummati, ita circulum absolvisse, ut nulla aut vix ulla iam amplius
-                    quaeat fieri accessio, nihilominus adeo otium non amplecteris, quin
+                <p xml:id="p.1">Christiernus Umbra Cymber<note type="critic" xml:id="note.1"
+                        >Probably Christiern Winther, see <hi rend="smallcap">Tournoy</hi> 2015,
+                        527; and <hi rend="smallcap">Christiansen</hi> 2002, 82.</note> Nicolao Olao
+                    suo salutem.</p>
+                <p xml:id="p.2">Quamquam praeclari ingenii tui dexteritas mira quadam morum
+                    maturitate unita, tum aetas, quae et ipsa iam quoque maturuit, palam arguunt et
+                    perspicue, te viri consummati, ita circulum absolvisse, ut nulla aut vix ulla
+                    iam amplius quaeat fieri accessio, nihilominus adeo otium non amplecteris, quin
                     honestissimis studiis intentus, contendas quotidie te ipsum, si fieri possit,
-                    superare, tanquam <persName>Neoptolemus</persName><note type="critic">He was
-                        Achilles’ son.</note> quispiam Martis et militiae ignarus, arma manibus
-                    diurnis nocturnisque vigilans versare solet, ne rudis in harena cum hoste <choice>
+                    superare, tanquam <persName>Neoptolemus</persName><note type="critic"
+                        xml:id="note.2">He was Achilles’ son.</note> quispiam Martis et militiae
+                    ignarus, arma manibus diurnis nocturnisque vigilans versare solet, ne rudis in
+                    harena cum hoste <choice>
                         <orig>congredietur</orig>
                         <supplied>congrediatur</supplied>
                     </choice> turpiter succubiturus. Quae res vel hoc argumento abunde claret, Vir
@@ -201,16 +253,16 @@
                     ditiores reddere, pro quorum salute exacto anno, ut audio, non parum sollicitus
                     sudasti, quo nomine ex professo famulum me tibi invenias devinctiorem. Tum usus
                     et litteratorum necessitudo accedit, quam huic negotio impense conferre, vel
-                        <quote>talpae appareat.</quote><note type="quote">Cf. Erasm. <hi
-                            rend="italic">Adag</hi>. 255. I, III, 55. Talpa caecior; and 3571. IV,
-                        VI, 71. Loquax talpa.</note> In primis <persName>Cornelii
-                        Sceperi</persName>,<note type="critic">Cornelis de Schepper.</note> viri et
-                    singularis prudentiae et doctrinae undevis exquisitissimae, qui haud dubie
-                    divino ingenio donatus, tum facundiae flumine <milestone unit="pb"/>iuxta
-                    praeditus, omnium de se opinione aut est superior, aut genius parum propitius,
-                    nobis tenebras ob oculos offuderit, unde indicitum caliginem contraxerit. Ad hoc
-                    mare felicitatis, tamquam quaedam auctaria, adfluunt felicissimae dotes, quas in
-                    ista generosa <choice>
+                        <quote xml:id="quote.1">talpae appareat.</quote><note type="quote"
+                        xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag</hi>. 255. I, III,
+                        55. Talpa caecior; and 3571. IV, VI, 71. Loquax talpa.</note> In primis
+                        <persName>Cornelii Sceperi</persName>,<note type="critic" xml:id="note.3"
+                        >Cornelis de Schepper.</note> viri et singularis prudentiae et doctrinae
+                    undevis exquisitissimae, qui haud dubie divino ingenio donatus, tum facundiae
+                    flumine <milestone unit="pb"/>iuxta praeditus, omnium de se opinione aut est
+                    superior, aut genius parum propitius, nobis tenebras ob oculos offuderit, unde
+                    indicitum caliginem contraxerit. Ad hoc mare felicitatis, tamquam quaedam
+                    auctaria, adfluunt felicissimae dotes, quas in ista generosa <choice>
                         <orig>monte</orig>
                         <supplied>mente</supplied>
                     </choice> deprehendi, quae ulla oblivione e mea memoria non poterunt facile
@@ -221,34 +273,35 @@
                     viatica, patria viduata ab hostibus, tecum hospes absportas, quem quamvis
                     hostilis tyrannus violenta manu bonorum fortuitorum bona parte dispoliarit, tuae
                     tamen mentis sublimitas eis fortunae fluctibus manet semper inconcussa atque
-                    immersabilis, nec unquam labascit, aut victa infringitur nihilomagis,
-                        <quote>quam Marpesia cautes,</quote><note type="quote">Verg. <hi
-                            rend="italic">Aen</hi>. VI,471.</note> undis undique insultantibus
-                    quassa commovetur. </p>
-                <quote>
-                    <lg>
-                        <l>Has tu reliquias retines a caede tuorum,</l>
-                        <l>quas non saeva manus, non mille hostilia tela</l>
-                        <l>Turcarumve cohors adimit tibi, turba cruenta,</l>
-                        <l>nec fortuna potens, potis est auferre beatus</l>
-                        <l>quo minus eis ducibus divos confisus adibis</l>
-                        <l>famaque post fatum non interitura manebis.</l>
+                    immersabilis, nec unquam labascit, aut victa infringitur nihilomagis, <quote
+                        xml:id="quote.2">quam Marpesia cautes,</quote><note type="quote"
+                        xml:id="note.quote.2">Verg. <hi rend="italic">Aen</hi>. VI,471.</note> undis
+                    undique insultantibus quassa commovetur. </p>
+                <quote xml:id="quote.3">
+                    <lg xml:id="lg.1">
+                        <l xml:id="l.1">Has tu reliquias retines a caede tuorum,</l>
+                        <l xml:id="l.2">quas non saeva manus, non mille hostilia tela</l>
+                        <l xml:id="l.3">Turcarumve cohors adimit tibi, turba cruenta,</l>
+                        <l xml:id="l.4">nec fortuna potens, potis est auferre beatus</l>
+                        <l xml:id="l.5">quo minus eis ducibus divos confisus adibis</l>
+                        <l xml:id="l.6">famaque post fatum non interitura manebis.</l>
                     </lg>
                 </quote>
-                <note type="quote">It is probably a poem by Winther, but it has not been
-                    confirmed.</note>
-                <p>Vale, Nicolae Generosissime, nec credas Colacem<note type="critic"
-                        >Colax was the title of pieces written by Ennius and Plautus. The name means
-                        ‘flatterer’.</note> quempiam adulari, ut ventri prospectum sit. Nam <choice>
+                <note type="quote" xml:id="note.quote.3">It is probably a poem by Winther, but it
+                    has not been confirmed.</note>
+                <p xml:id="p.3">Vale, Nicolae Generosissime, nec credas Colacem<note type="critic"
+                        xml:id="note.4">Colax was the title of pieces written by Ennius and Plautus.
+                        The name means ‘flatterer’.</note> quempiam adulari, ut ventri prospectum
+                    sit. Nam <choice>
                         <orig>ταῦτην τῆν</orig>
                         <supplied>ταύτην τὴν</supplied>
-                    </choice> γραφὴν σου<note type="critic">‘this writing of yours’.</note> a viris
-                    multo emunctissimae naris accepi. Dominum <persName>Cornelium
-                        Sceperum</persName>, quo cum per otium etiam litteris nugabor, ex me saluta
-                    et nostra nugamenta boni consule. Iterum vale. </p>
-                <p><placeName>Lovanii</placeName> ex aedibus <persName>Rutgeri
-                        Rescii</persName><note type="critic">Rutger Ressen.</note> XXIIII. Martii
-                    anno MDXXXV.</p>
+                    </choice> γραφὴν σου<note type="critic" xml:id="note.5">‘this writing of
+                        yours’.</note> a viris multo emunctissimae naris accepi. Dominum
+                        <persName>Cornelium Sceperum</persName>, quo cum per otium etiam litteris
+                    nugabor, ex me saluta et nostra nugamenta boni consule. Iterum vale. </p>
+                <p xml:id="p.4"><placeName>Lovanii</placeName> ex aedibus <persName>Rutgeri
+                        Rescii</persName><note type="critic" xml:id="note.6">Rutger Ressen.</note>
+                    XXIIII. Martii anno MDXXXV.</p>
             </div>
         </body>
     </text>

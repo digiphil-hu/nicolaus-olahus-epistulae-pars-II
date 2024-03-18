@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">743</title>
-                <title type="main">Royal Lieutenancy Council in Bratislava to Miklós Oláh
-                    (Bratislava, 9 July 1550)</title>
+                <title key="body" n="743" type="main">Royal Lieutenancy Council in Bratislava to
+                    Miklós Oláh (Bratislava, 9 July 1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15500709_1</idno>
-                
+                <idno type="PID">olahus.tei.15500709_1</idno>
+                <idno type="ITIdata">Q473400</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15500709_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,42 +80,29 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
                     <p>
                         <hi rend="italic">Notes:</hi>
                     </p>
-                    
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">R. Kiss</hi> 1908, 245.</note>
+                <note type="publication"><hi rend="smallcap">R. Kiss</hi> 1908, 245.</note>
                 <note type="translation">
-                    <p>
-                    <hi rend="italic">In Hungarian:</hi>
-                        <hi rend="smallcap">R. Kiss</hi> 1908, 245. [regesta]</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">R. Kiss</hi> 1908,
+                        245. [regesta]</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -138,11 +135,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -151,71 +209,68 @@
             </textClass>
             <creation>
                 <date when="1550-07-09">9 July 1550</date>
-                <placeName>Bratislava</placeName>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Royal Lieutenancy Council in Bratislava</persName>
-                    <orgName/>
+                    <orgName>Royal Lieutenancy Council in Bratislava</orgName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Royal Lieutenancy Council in Bratislava to Miklós Oláh
                     (Bratislava, 9 July 1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Since it is rumoured by several sources that the Turks want to attack
-                            the castle of Eger, or at least devastate the surrounding area, and they
-                            do not think this is fake news, they have written to the King on this
-                            matter, as Oláh may also know. They ask Oláh to consult with the King
-                            about the defence of the castle and its neighbourhood, assessing the
-                            magnitude of the danger. 2. Oláh can be certain that it is not the Turks
-                            but trustworthy Christians who are spreading this news, so it is indeed
-                            necessary for Oláh to be careful because as this news is also being
-                            delayed, and many are hindering its dissemination, news of new activity
-                            may also reach the Turks.</p>
+                        <p xml:id="reg.p.1">1. Since it is rumoured by several sources that the
+                            Turks want to attack the castle of Eger, or at least devastate the
+                            surrounding area, and they do not think this is fake news, they have
+                            written to the King on this matter, as Oláh may also know. They ask Oláh
+                            to consult with the King about the defence of the castle and its
+                            neighbourhood, assessing the magnitude of the danger. 2. Oláh can be
+                            certain that it is not the Turks but trustworthy Christians who are
+                            spreading this news, so it is indeed necessary for Oláh to be careful
+                            because as this news is also being delayed, and many are hindering its
+                            dissemination, news of new activity may also reach the Turks.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Ad dominum cancellarium. </p>
-                <p>Reverendissime Domine etc.! </p>
-                <p>[1.] Cum ad nos ex multis locis constanti rumore indies afferatur de
+                <p xml:id="p.1">Ad dominum cancellarium. </p>
+                <p xml:id="p.2">Reverendissime Domine etc.! </p>
+                <p xml:id="p.3">[1.] Cum ad nos ex multis locis constanti rumore indies afferatur de
                     conatibus Thurcarum ad obsidionem arcis <placeName>Agriensis</placeName><note
-                        type="critic">Eger.</note> vel saltem devastationem circumvicinae regionis,
-                    idque propter <del corresp="author">indutias</del><add corresp="author"
-                        type="corr">iniurias</add> damnaque quae sese in dies ab officialibus eius
-                    arcis perpeti Thurcae vociferantur, etsi nos quidem arbitramur falsas esse magna
-                    ex parte Thurcarum querimonias adversus praedictos officiales satisque et regiam
-                    maiestatem et Reverendissimam Dominationem Vestram illis serio mandasse, ut ab
-                    huiusmodi iniuriis et damnis abstineant; facere tamen non potuimus, quin ad
-                        <persName>regiam maiestatem</persName> ea de re scriberemus, quemadmodum
-                    scilicet Reverendissima Dominatio Vestra ex nostris ad maiestatem suam litteris
-                    cognoscet. <del corresp="author">Dominatio</del> Reverendissima Dominatio Vestra
-                    considerata periculi <del corresp="author">magni</del> magnitudine id consulet
-                    suae maiestati, quod ad tuendam tum arcem Agriensem, tum regionem circumquaque
-                    maxime pertinere intellexerit. Servet etc.<note type="critic">I.e. Servet Deus
-                        optimus maximus Reverendissimam Dominationem Vestram incolumem.</note></p>
-                <p><placeName>Posonii</placeName> die 9. Julii 1550. </p>
-                <p>[2.] Reverendissima Dominatio Vestra pro certo habeat, non tam a
+                        type="critic" xml:id="note.1">Eger.</note> vel saltem devastationem
+                    circumvicinae regionis, idque propter <del corresp="author">indutias</del><add
+                        corresp="author" type="corr">iniurias</add> damnaque quae sese in dies ab
+                    officialibus eius arcis perpeti Thurcae vociferantur, etsi nos quidem arbitramur
+                    falsas esse magna ex parte Thurcarum querimonias adversus praedictos officiales
+                    satisque et regiam maiestatem et Reverendissimam Dominationem Vestram illis
+                    serio mandasse, ut ab huiusmodi iniuriis et damnis abstineant; facere tamen non
+                    potuimus, quin ad <persName>regiam maiestatem</persName> ea de re scriberemus,
+                    quemadmodum scilicet Reverendissima Dominatio Vestra ex nostris ad maiestatem
+                    suam litteris cognoscet. <del corresp="author">Dominatio</del> Reverendissima
+                    Dominatio Vestra considerata periculi <del corresp="author">magni</del>
+                    magnitudine id consulet suae maiestati, quod ad tuendam tum arcem Agriensem, tum
+                    regionem circumquaque maxime pertinere intellexerit. Servet etc.<note
+                        type="critic" xml:id="note.2">I.e. Servet Deus optimus maximus
+                        Reverendissimam Dominationem Vestram incolumem.</note></p>
+                <p xml:id="p.4"><placeName>Posonii</placeName> die 9. Julii 1550. </p>
+                <p xml:id="p.5">[2.] Reverendissima Dominatio Vestra pro certo habeat, non tam a
                     Thurcis, quam a Christianis et his fidedignis plerisque viris quotidie
                     circumferri constanti rumore magnis in dies iniuriis et damnis Thurcas ab
                     officialibus Agriensibus provocari; ac proinde videtur omnino necesse esse, ut
                     Reverendissima Dominatio Vestra ita huic rei studeat prospicere, ut etiam
                     communis haec fama cesset et obstruantur ora multorum atque ita etiam praetextus
                     hic novi aliquid moliendi Thurcis auferatur. </p>
-                <p>
+                <p xml:id="p.6">
                     <seg type="signature">Locumtenens, capitaneus generalis et consiliarii etc.
                     </seg>
                 </p>

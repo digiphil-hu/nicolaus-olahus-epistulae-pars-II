@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">762</title>
-                <title type="main">Miklós Oláh to Tamás Nádasdy (Augsburg, 5 February 1551)</title>
+                <title key="body" n="762" type="main">Miklós Oláh to Tamás Nádasdy (Augsburg, 5
+                    February 1551)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15510205_1</idno>
-                
+                <idno type="PID">olahus.tei.15510205_1</idno>
+                <idno type="ITIdata">Q473419</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15510205_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,51 +201,47 @@
             </textClass>
             <creation>
                 <date when="1551-02-05">5 February 1551</date>
-                <placeName>Augsburg</placeName>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Nádasdy</persName>
-                    <orgName/>
+                    <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Nádasdy (Augsburg, 5 February 1551)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>István Majláth is rumoured to have died. He has talked to the King about
-                            the Bratislava matter, he will look at their petition when he returns,
-                            but he has not been able to do anything differently because of the
-                            widow. Oláh is doing everything he can, he wishes he had more partners
-                            to implore the King together with him. The King will travel to Innsbruck
-                            on the 11<hi rend="super">th</hi> of this month to visit his daughters,
-                            while Oláh will head to Vienna. There is no news of the Turks, and they
-                            have been waiting for two days to get an answer from the estates
-                            regarding their support. </p>
+                        <p xml:id="reg.p.1">István Majláth is rumoured to have died. He has talked
+                            to the King about the Bratislava matter, he will look at their petition
+                            when he returns, but he has not been able to do anything differently
+                            because of the widow. Oláh is doing everything he can, he wishes he had
+                            more partners to implore the King together with him. The King will
+                            travel to Innsbruck on the 11<hi rend="super">th</hi> of this month to
+                            visit his daughters, while Oláh will head to Vienna. There is no news of
+                            the Turks, and they have been waiting for two days to get an answer from
+                            the estates regarding their support. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Spectabilis et Magnifice Domine, et Frater Observandissime, servitiorum
-                    meoum commendationem! </p>
-                <p>Audio dominum <persName>Maylath</persName><note type="critic">István
-                        Majláth. He had a seizure in November, see Ep. 759., and he died in
-                        Constantinople, probably at the end of
-                        1550.</note><ref>/o:olahus.tei.15510117_1</ref> nostrum ad requiem perpetuam
-                    ivisse, non sine lacrimis id certe accepi. Sed cum simus omnes mortales, nos
-                    quoque idem manet finis. De <placeName>Posonio</placeName> locutus sum
-                        <persName>regiae maiestati</persName>, respondit se gratiose rem daturam de
+                <p xml:id="p.1">Spectabilis et Magnifice Domine, et Frater Observandissime,
+                    servitiorum meoum commendationem! </p>
+                <p xml:id="p.2">Audio dominum <persName>Maylath</persName><note type="critic"
+                        xml:id="note.1">István Majláth. He had a seizure in November, see Ep. 759.,
+                        and he died in Constantinople, probably at the end of
+                            1550.<ref>olahus.tei.15510117_1</ref></note> nostrum ad requiem
+                    perpetuam ivisse, non sine lacrimis id certe accepi. Sed cum simus omnes
+                    mortales, nos quoque idem manet finis. De <placeName>Posonio</placeName> locutus
+                    sum <persName>regiae maiestati</persName>, respondit se gratiose rem daturam de
                     nostra supplicatione, dum revertetur. Addidit quoque se non potuisse aliter
                     facere propter viduam, quin usque ad reditum relinqueret arcem in manu filii.
                     Ego nihil unquam praetermisi, neque praetermittam, quod ad libertatem et regiae
@@ -199,26 +251,26 @@
                     facturam. Obtulit enim se ad id semper et si bonum suum et filiorum repperit,
                     faciet proculdubio. </p>
                 <pb/>
-                <p>Die undecima his vult maiestas sua ad <placeName>Inspruck</placeName>
-                    visendarum filiarum suarum carissimarum gratia proficisci. Ego vero Deo volente
-                        <placeName>Wiennam</placeName> versa, nisi aliquod arduissimum negotium me
-                    trahat cum sua maiestate regia. Turcam nescio quo animo sit erga nos, Deus omnia
-                    vertat in bonum finem. Hic hic biduo exspectamus a statibus responsum de
-                    subsidio nobis ferendo. Dominatio Vestra valeat cum domina
-                        <persName>coniuge</persName><note type="critic">Orsolya Kanizsai.</note> sua
-                    carissima feliciter, domina mea observandissima.</p>
-                <p>Ex <placeName>Augusta</placeName> 5. Februarii 1551.</p>
-                <p>
+                <p xml:id="p.3">Die undecima his vult maiestas sua ad
+                        <placeName>Inspruck</placeName> visendarum filiarum suarum carissimarum
+                    gratia proficisci. Ego vero Deo volente <placeName>Wiennam</placeName> versa,
+                    nisi aliquod arduissimum negotium me trahat cum sua maiestate regia. Turcam
+                    nescio quo animo sit erga nos, Deus omnia vertat in bonum finem. Hic hic biduo
+                    exspectamus a statibus responsum de subsidio nobis ferendo. Dominatio Vestra
+                    valeat cum domina <persName>coniuge</persName><note type="critic"
+                        xml:id="note.2">Orsolya Kanizsai.</note> sua carissima feliciter, domina mea
+                    observandissima.</p>
+                <p xml:id="p.4">Ex <placeName>Augusta</placeName> 5. Februarii 1551.</p>
+                <p xml:id="p.5">
                     <seg type="signature">Servitor et frater Agriensis etc. propria manu</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Spectabili et magnifico domino Thomae de Nadasd comiti perpetuo terrae
-                    Fogaras, iudici curiae regia maiestatis et supremo capitaneo amico et fratri
-                    observandissimo.</p>
-                
+                <p xml:id="p.6">Spectabili et magnifico domino Thomae de Nadasd comiti perpetuo
+                    terrae Fogaras, iudici curiae regia maiestatis et supremo capitaneo amico et
+                    fratri observandissimo.</p>
             </div>
         </body>
     </text>

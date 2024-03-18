@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">556</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 31 December 1535)</title>
+                <title key="body" n="556" type="main">Pieter Nanninck to Miklós Oláh (Leuven, 31
+                    December 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15351231_1</idno>
-                
+                <idno type="PID">olahus.tei.15351231_1</idno>
+                <idno type="ITIdata">Q473216</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15351231_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,13 +80,17 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
@@ -83,35 +98,82 @@
                         <hi rend="italic">Notes:</hi>
                         <ref>/o:olahus.tei.15351230_1</ref>
                     </p>
-                    
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Nannius</hi> 1536, a4v–a5r; <hi rend="smallcap">Polet</hi>
-                    1936, 246–247.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
+                <note type="publication"><hi rend="smallcap">Nannius</hi> 1536, a4v–a5r; <hi
+                        rend="smallcap">Polet</hi> 1936, 246–247.</note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15351230_1" type="url">555</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15351230_1" type="url">555</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <p></p>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -120,70 +182,68 @@
             </textClass>
             <creation>
                 <date when="1535-12-31">31 December 1535</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 31 December 1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Oláh is surprised to be asked to act as a censor – Nanninck is surprised
-                            why Oláh does not see what everyone else does in himself. But this is
-                            what genuine modesty does: it dissimulates and hides brilliant talents.
-                            If he had not known this about Oláh before, his latest letter would have
-                            convinced him of it. Oláh in turn not only uncovered it with historical
-                            accuracy for him, he also listed arguments. What he especially admires
-                            is that he found so many things within such a short period of time, and
-                            not even from books but from memory. He cannot thank him enough. He will
-                            not keep it from the reader how much Oláh helped him; when the reader
-                            reads this letter, he will understand what has made this declamation
-                            clearer and richer than when it was heard in person. </p>
+                        <p xml:id="reg.p.1">Oláh is surprised to be asked to act as a censor –
+                            Nanninck is surprised why Oláh does not see what everyone else does in
+                            himself. But this is what genuine modesty does: it dissimulates and
+                            hides brilliant talents. If he had not known this about Oláh before, his
+                            latest letter would have convinced him of it. Oláh in turn not only
+                            uncovered it with historical accuracy for him, he also listed arguments.
+                            What he especially admires is that he found so many things within such a
+                            short period of time, and not even from books but from memory. He cannot
+                            thank him enough. He will not keep it from the reader how much Oláh
+                            helped him; when the reader reads this letter, he will understand what
+                            has made this declamation clearer and richer than when it was heard in
+                            person. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Amplissimo viro eruditione, linguarum peritia, humanitate et modestia
-                    insigni domino Nicolao Olaho Petrus Nannius salutem plurimam dicit. </p>
-                <p>Ut vere cum eruditione summa, in summa etiam fortuna modestissimus es,
-                    mi Olahe, qui tecum quodammodo miraris, quid in te viderim, cur tuam censuram
-                    tantopere expetierim? Ego rursus miror, cur id in te non sentis, quod omnes tibi
-                    adesse sentiunt. Sed hunc habet affectum vera modestia, ut inclytas suas dotes
-                    omnibusque notissimas, quantum in ipsa est, dissimulet et tegat. Ego si hunc
-                    sensum antea de te non habuissem, ex proximis tuis scriptis eum arripere
+                <p xml:id="p.1">Amplissimo viro eruditione, linguarum peritia, humanitate et
+                    modestia insigni domino Nicolao Olaho Petrus Nannius salutem plurimam dicit. </p>
+                <p xml:id="p.2">Ut vere cum eruditione summa, in summa etiam fortuna modestissimus
+                    es, mi Olahe, qui tecum quodammodo miraris, quid in te viderim, cur tuam
+                    censuram tantopere expetierim? Ego rursus miror, cur id in te non sentis, quod
+                    omnes tibi adesse sentiunt. Sed hunc habet affectum vera modestia, ut inclytas
+                    suas dotes omnibusque notissimas, quantum in ipsa est, dissimulet et tegat. Ego
+                    si hunc sensum antea de te non habuissem, ex proximis tuis scriptis eum arripere
                     deberem. Non enim solum mihi fidem historiarum aperis, sed et robora
                     argumentorum adducis, et locupletissimam materiam subministras, eamque non
                     quamvis, sed quae instituto quadret, quaeque statim quasi emblema in ipsam
-                    declamationem immitti possit. Ubi inter nos de quibusdam rebus gestis nonnihil <milestone unit="pb"/>dissidii erat, ita tractasti tua, ut quamquam diversa sint, meis
-                    exemptis in eorum locum succedere queant, sine offensa aut contextus aut seriei.
-                    Hoc non est castigare, sed quodammodo componere, quod alterius nomini cessurus
-                    sis, hoc non est detrahendo minuere, sed addendo amplificare, ut tamen omnia non
-                    hinc inde assuti panniculi in centonem, sed membra unius corporis esse
-                    videantur. Id autem summopere admiror, unde tibi in tanta brevitate temporis,
-                    quae vix nostrae declamationis lectioni sufficeret, tanta silva rerum et inventa
-                    et descripta est, nimirum ista non ex libris, sed e fidissima memoria ex tempore
-                    depromsisti. Nos igitur quicquid vel gratiae, vel roboris in nostra oratione
-                    erit, tibi ingenue acceptum referimus. Neque lectori tua subsidia dissimulare
-                    volumus, qui cum ex hac nostra epistola discet, quantopere a te adiuti simus,
-                    desinet mirari, cur nunc solidior et locupletior sit declamatio, quam cum a
-                    nobis recitaretur. Bene vale, Amplissime Vir, Nanniumque, quem nunc amici nomine
-                    decorasti, inter tuos clientes adnumera. </p>
-                <p>Pridie Kalendas Ianuarii 1535. <placeName>Lovanii</placeName>, ex
+                    declamationem immitti possit. Ubi inter nos de quibusdam rebus gestis nonnihil
+                        <milestone unit="pb"/>dissidii erat, ita tractasti tua, ut quamquam diversa
+                    sint, meis exemptis in eorum locum succedere queant, sine offensa aut contextus
+                    aut seriei. Hoc non est castigare, sed quodammodo componere, quod alterius
+                    nomini cessurus sis, hoc non est detrahendo minuere, sed addendo amplificare, ut
+                    tamen omnia non hinc inde assuti panniculi in centonem, sed membra unius
+                    corporis esse videantur. Id autem summopere admiror, unde tibi in tanta
+                    brevitate temporis, quae vix nostrae declamationis lectioni sufficeret, tanta
+                    silva rerum et inventa et descripta est, nimirum ista non ex libris, sed e
+                    fidissima memoria ex tempore depromsisti. Nos igitur quicquid vel gratiae, vel
+                    roboris in nostra oratione erit, tibi ingenue acceptum referimus. Neque lectori
+                    tua subsidia dissimulare volumus, qui cum ex hac nostra epistola discet,
+                    quantopere a te adiuti simus, desinet mirari, cur nunc solidior et locupletior
+                    sit declamatio, quam cum a nobis recitaretur. Bene vale, Amplissime Vir,
+                    Nanniumque, quem nunc amici nomine decorasti, inter tuos clientes adnumera. </p>
+                <p xml:id="p.3">Pridie Kalendas Ianuarii 1535. <placeName>Lovanii</placeName>, ex
                     collegio divi Hieronymi ad Leidam.</p>
             </div>
         </body>

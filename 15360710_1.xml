@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">568</title>
-                <title type="main">Willem Gheershoven to Miklós Oláh ([Groenendaal at Hoeilaart], 10
-                    July 1536)</title>
+                <title key="body" n="568" type="main">Willem Gheershoven to Miklós Oláh
+                    ([Groenendaal at Hoeilaart], 10 July 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition> digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15360710_1</idno>
-                
+                <idno type="PID">olahus.tei.15360710_1</idno>
+                <idno type="ITIdata">Q473228</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15360710_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,24 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy. The year and the place of dating are
+                    <p><hi rend="italic">Notes:</hi> Copy. The year and the place of dating are
                         presumed. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 578–579.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 578–579.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,74 +203,71 @@
             </textClass>
             <creation>
                 <date when="1536-07-10">10 July [1536]</date>
-                <placeName>[Groenendaal at Hoeilaart]</placeName>
+                <placeName>[Groenendaal at Hoeilaart]<idno type="ITIdata">Q470198</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Willem Gheershoven</persName>
-                    <orgName/>
+                    <persName>Willem Gheershoven<idno type="ITIdata">Q470428</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Willem Gheershoven to Miklós Oláh ([Groenendaal at Hoeilaart], 10
                     July 1536)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He is sending the collection of treatments he has compiled from different
-                            books at Oláh’s request. They are not only in Latin but in Flemish as
-                            well; there are expressions that he did not fully understand because he
-                            is not an expert of the topic, but he followed the source. He wrote in
-                            cursive and hastily due to the above-mentioned difficulties, but if Oláh
-                            has a fancy for any of the works, he will happily copy it in better
-                            handwriting. There is namely no bigger joy for him than serving Oláh.
-                        </p>
+                        <p xml:id="reg.p.1">He is sending the collection of treatments he has
+                            compiled from different books at Oláh’s request. They are not only in
+                            Latin but in Flemish as well; there are expressions that he did not
+                            fully understand because he is not an expert of the topic, but he
+                            followed the source. He wrote in cursive and hastily due to the
+                            above-mentioned difficulties, but if Oláh has a fancy for any of the
+                            works, he will happily copy it in better handwriting. There is namely no
+                            bigger joy for him than serving Oláh. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p><persName>Guilhelmus Lovaniensis</persName><note type="critic">Willem
-                        Gheershoven (†1547) was Canon Regular of St. Augustine at the monastery of
-                        Groenendaal at Hoeilaart. “For twenty years he was in charge of the library,
-                        and his fellow monks remembered him as a keen emendator of ancient
-                        manuscripts”, see <hi rend="smallcap">Bietenholz</hi> 1986.</note> canonicus
-                    regularis divi Augustini in Viridi valle Nicolao Olao salutem. </p>
-                <p>Mitto iam, Magnifice Domine ac Patrone Singularis, ista remediorum<note
-                        type="critic">Oláh was probably looking for therapies for his kidney
-                        disease, see Ep. 567. Cap. 1.</note><ref>/o:olahus.tei.15360618_1</ref>
-                    collectanea e diversis libris ac schedis tuo iussu hic in <milestone unit="pb"
-                    />unum congesta, nec modo Latina, verum etiam, uti volebas, nostrate lingua
-                    conscripta. In quibus etsi plerique sint termini seu vocabula, quae non satis
-                    intelligo, quia tamen harum rerum notitiam et scientiam mihi non vendico, nihil
-                    in his temere immutare praesumpsi, sed exemplaria in omnibus secutus sum. Si
-                    quae forte per scriptores, ut fere fit in hac praesertim materia, depravata sunt
-                    et corrupta, ab alio in huiusmodi exercitato facile efficiam, ut parvo negotio
-                    poterunt emendari. Scripsi autem currenti littera incompta sane et plus satis
-                    praecipitata, quod tempus ob alia intercurrentia, ut praedixi, impedimenta non
-                    patiebatur haec alio charactere magis legibili depingere. Verum ubi ex
-                    qualicumque lectione aliquem horum gustum acceperit, Dominationi Tuae si adeo
-                    placebunt, ut digna iudices, quae vel in tuum ipsius, vel in amicorum serventur
-                    usum, non gravabor eadem rursus alio tempore, quo maius dabitur otium, maiori et
-                    elegantiori littera exarare. Neque enim huic animo, ita me Deus amet, in omni
-                    vita gratius quicquam fuerit, quam si qualicumque officio vel obsequio Tuae
-                    Dominationis possim gratificari, quae nimirum tam insolita humanitate ac
-                    benevolentia tantisque beneficiis me immeritum prorsus et indignum hominem
-                    prosecuta est, ut pro his, non dico ullam rependere vicem, sed nec condignas
-                    agere gratias queam. Opto, ut feliciter valeas, Praeceptor Eruditissime et
-                    Amicissime atque Humanissime Patrone, et hanc nostram congregationem Tuae
-                    Dominationi devotis animis ac votis concordibus addictissimam semper habeas
-                    commendatam. </p>
-                <p>Ex cellula nostra sexto idus Iulias.</p>
+                <p xml:id="p.1"><persName>Guilhelmus Lovaniensis</persName><note type="critic"
+                        xml:id="note.1">Willem Gheershoven (†1547) was Canon Regular of St.
+                        Augustine at the monastery of Groenendaal at Hoeilaart. “For twenty years he
+                        was in charge of the library, and his fellow monks remembered him as a keen
+                        emendator of ancient manuscripts”, see <hi rend="smallcap">Bietenholz</hi>
+                        1986.</note> canonicus regularis divi Augustini in Viridi valle Nicolao Olao
+                    salutem. </p>
+                <p xml:id="p.2">Mitto iam, Magnifice Domine ac Patrone Singularis, ista
+                        remediorum<note type="critic" xml:id="note.2">Oláh was probably looking for
+                        therapies for his kidney disease, see Ep. 567. Cap.
+                            1.<ref>olahus.tei.15360618_1</ref></note> collectanea e diversis libris
+                    ac schedis tuo iussu hic in <milestone unit="pb"/>unum congesta, nec modo
+                    Latina, verum etiam, uti volebas, nostrate lingua conscripta. In quibus etsi
+                    plerique sint termini seu vocabula, quae non satis intelligo, quia tamen harum
+                    rerum notitiam et scientiam mihi non vendico, nihil in his temere immutare
+                    praesumpsi, sed exemplaria in omnibus secutus sum. Si quae forte per scriptores,
+                    ut fere fit in hac praesertim materia, depravata sunt et corrupta, ab alio in
+                    huiusmodi exercitato facile efficiam, ut parvo negotio poterunt emendari.
+                    Scripsi autem currenti littera incompta sane et plus satis praecipitata, quod
+                    tempus ob alia intercurrentia, ut praedixi, impedimenta non patiebatur haec alio
+                    charactere magis legibili depingere. Verum ubi ex qualicumque lectione aliquem
+                    horum gustum acceperit, Dominationi Tuae si adeo placebunt, ut digna iudices,
+                    quae vel in tuum ipsius, vel in amicorum serventur usum, non gravabor eadem
+                    rursus alio tempore, quo maius dabitur otium, maiori et elegantiori littera
+                    exarare. Neque enim huic animo, ita me Deus amet, in omni vita gratius quicquam
+                    fuerit, quam si qualicumque officio vel obsequio Tuae Dominationis possim
+                    gratificari, quae nimirum tam insolita humanitate ac benevolentia tantisque
+                    beneficiis me immeritum prorsus et indignum hominem prosecuta est, ut pro his,
+                    non dico ullam rependere vicem, sed nec condignas agere gratias queam. Opto, ut
+                    feliciter valeas, Praeceptor Eruditissime et Amicissime atque Humanissime
+                    Patrone, et hanc nostram congregationem Tuae Dominationi devotis animis ac votis
+                    concordibus addictissimam semper habeas commendatam. </p>
+                <p xml:id="p.3">Ex cellula nostra sexto idus Iulias.</p>
             </div>
         </body>
     </text>

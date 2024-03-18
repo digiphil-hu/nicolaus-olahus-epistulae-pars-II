@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">670</title>
-                <title type="main">Miklós Oláh to Queen Mary (Prague, 3 January 1547)</title>
+                <title key="body" n="670" type="main">Miklós Oláh to Queen Mary (Prague, 3 January
+                    1547)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15470103_1</idno>
-                
+                <idno type="PID">olahus.tei.15470103_1</idno>
+                <idno type="ITIdata">Q473330</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15470103_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,40 +80,31 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Moisiuc</hi> 1972, 692–693.</note>
-                <note type="translation"><p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Moisiuc</hi> 1972, 693.</p></note>
+                <note type="publication"><hi rend="smallcap">Moisiuc</hi> 1972, 692–693.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Moisiuc</hi> 1972,
+                        693.</p>
+                </note>
                 <note type="outer_side">
-                    <p><hi rend="bold">On the outer side:</hi>
-                        <hi rend="italic">Other later handwriting:</hi>
-                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FRANCIA<?oxy_custom_end?></p>
+                    <p><hi rend="bold">On the outer side:</hi><hi rend="italic">Other later
+                            handwriting:</hi><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FRANCIA<?oxy_custom_end?></p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,66 +210,64 @@
             </textClass>
             <creation>
                 <date when="1547-01-03">3 January 1547</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Queen Mary</persName>
-                    <orgName/>
+                    <persName>Queen Mary<idno type="ITIdata">Q165927</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Queen Mary (Prague, 3 January 1547)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Because Ruprecht Haller is on his way to the Queen, he does not think
-                            he needs to inform her about the affairs of the mining town now. He
-                            learned from a friend’s letter yesterday what a particular presbyter
-                            from Constantinople has done – he is sending this letter to the Queen to
-                            let her know that the Turks do indeed know what is happening in the
-                            Christian world, which is the French King’s fault. His Transylvanian
-                            friend has written the same to him, i.e. that the Turks are planning to
-                            occupy not only Vienna but all of Austria, and they are already
-                            collecting wheat and other provisions in Buda. 2. He is asking the Queen
-                            to make sure the Emperor finds out the enemy’s intentions in time, lest
-                            the Turks become strong again and rule the Queen’s provinces.</p>
+                        <p xml:id="reg.p.1">1. Because Ruprecht Haller is on his way to the Queen,
+                            he does not think he needs to inform her about the affairs of the mining
+                            town now. He learned from a friend’s letter yesterday what a particular
+                            presbyter from Constantinople has done – he is sending this letter to
+                            the Queen to let her know that the Turks do indeed know what is
+                            happening in the Christian world, which is the French King’s fault. His
+                            Transylvanian friend has written the same to him, i.e. that the Turks
+                            are planning to occupy not only Vienna but all of Austria, and they are
+                            already collecting wheat and other provisions in Buda. 2. He is asking
+                            the Queen to make sure the Emperor finds out the enemy’s intentions in
+                            time, lest the Turks become strong again and rule the Queen’s
+                            provinces.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Sacra Maiestas Reginalis Domina, Domina Clementissima, fidelitatis et
-                    servitiorum meorum perpetuorum in clementiam Maiestatis Vestrae Sacrae
+                <p xml:id="p.1">Sacra Maiestas Reginalis Domina, Domina Clementissima, fidelitatis
+                    et servitiorum meorum perpetuorum in clementiam Maiestatis Vestrae Sacrae
                     humillimam commendationem!</p>
-                <p>[1.] Quae in montanis civitatibus et aliis bonis Vestrae Sacrae
+                <p xml:id="p.2">[1.] Quae in montanis civitatibus et aliis bonis Vestrae Sacrae
                     Maiestatis agantur, cum dominus <persName>Robertus Haller</persName><note
-                        type="critic">Ruprecht Haller.</note> ad eandem proficiscatur, non putam
-                    opus esse me de his ipsam certiorem facere. Heri accepi a quibusdam amicis meis
-                    quaedam scripta,<note type="critic">We do not know this letter.</note> quae a
-                    quodam <persName>presbytero Constantinopoli</persName> agente missa fuerunt; ea
-                    ad Sacram Maiestatem Vestram misi, ut cognosceret Thurcam multa scire in his,
-                    quae in orbe nostro Christiano agantur, eaque ex Christianissimo vel diabolico
-                    potius <persName>rege Galliae</persName>.<note type="critic">King Francis
+                        type="critic" xml:id="note.1">Ruprecht Haller.</note> ad eandem
+                    proficiscatur, non putam opus esse me de his ipsam certiorem facere. Heri accepi
+                    a quibusdam amicis meis quaedam scripta,<note type="critic" xml:id="note.2">We
+                        do not know this letter.</note> quae a quodam <persName>presbytero
+                        Constantinopoli</persName> agente missa fuerunt; ea ad Sacram Maiestatem
+                    Vestram misi, ut cognosceret Thurcam multa scire in his, quae in orbe nostro
+                    Christiano agantur, eaque ex Christianissimo vel diabolico potius <persName>rege
+                        Galliae</persName>.<note type="critic" xml:id="note.3">King Francis
                         I.</note></p>
-                <p>Haec quoque sententia verba quidam meus amicus ex Transsylvania ad me
-                        scribit,<note type="critic">We do not know this letter.</note> nihil iam
-                    certius habemus, quam quod Thurcarum imperator non solum
-                        <placeName>Wiennae</placeName> expugnationem parat, verum etiam totius
+                <p xml:id="p.3">Haec quoque sententia verba quidam meus amicus ex Transsylvania ad
+                    me scribit,<note type="critic" xml:id="note.4">We do not know this
+                        letter.</note> nihil iam certius habemus, quam quod Thurcarum imperator non
+                    solum <placeName>Wiennae</placeName> expugnationem parat, verum etiam totius
                     Austriae occupationem. Ad eam rem ex tributi collatione farina, hordeum et alia
                     ad commeatum pertinentia sub ferias nativitatis Christi ex mandato imperatoris
                         <placeName>Budam</placeName> et non <placeName>Pesth</placeName>
                     convehuntur.</p>
-                <p>[2.] Sacra Maiestas Vestra dignetur tum ob amorem Dei et reipublicae
+                <p xml:id="p.4">[2.] Sacra Maiestas Vestra dignetur tum ob amorem Dei et reipublicae
                     Christianae, tum ob permansionem Hungariae et Austriae apud <persName>maiestatem
                         caesaream</persName> agere, ut in tempore cogitet conatus perfidi hostis
                     praevenire, alioqui vereor, ne Thurca milite recenti et iam aliquot annis
@@ -214,12 +275,12 @@
                     Vestrarum provinciis imperat. Deus servet Maiestatem Vestram Sacram in hoc novo
                     anno et futuris diutissime felicem et incolumem, in cuius clementiam me et
                     servitia mea fidelia et antiqua iterum atque iterum humiliter commendo.</p>
-                <p>E <placeName>Praga</placeName> tertia Ianuarii anno 1547. inferius erat
-                    scriptum.</p>
+                <p xml:id="p.5">E <placeName>Praga</placeName> tertia Ianuarii anno 1547. inferius
+                    erat scriptum.</p>
             </div>
-            <div style="handwritten" type="verso">
-                <p>Eiusdem Sacrae Maiestatis Vestrae fidelis et humilis servitor</p>
-                <p>Nicolaus Olahus Zagrabiensis cancellarius etc.</p>
+            <div style="handwritten" type="verso" xml:id="d.2">
+                <p xml:id="p.6">Eiusdem Sacrae Maiestatis Vestrae fidelis et humilis servitor</p>
+                <p xml:id="p.7">Nicolaus Olahus Zagrabiensis cancellarius etc.</p>
             </div>
         </body>
     </text>

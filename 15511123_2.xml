@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">795</title>
-                <title type="main">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Vienna, 23
-                    November 1551)</title>
+                <title key="body" n="795" type="main">Miklós Oláh to Ferenc Thurzó and Hungarian
+                    Chamber (Vienna, 23 November 1551)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15511123_2</idno>
-                
+                <idno type="PID">olahus.tei.15511123_2</idno>
+                <idno type="ITIdata">Q473452</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15511123_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,36 +80,27 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original, partly autograph letter with
+                    <p><hi rend="italic">Notes:</hi> Original, partly autograph letter with
                         signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p><hi rend="bold">On the outer side:</hi> De moderatione censurae camerae
                         dominus cancellarius scribit, inquisitionem fieri petit.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -131,11 +132,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -144,104 +206,102 @@
             </textClass>
             <creation>
                 <date when="1551-11-23">23 November 1551</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh </persName>
-                    <orgName/>
+                    <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Ferenc Thurzó and Hungarian Chamber</persName>
-                    <orgName/>
+                    <persName>Ferenc Thurzó</persName>
+                    <orgName>Hungarian Chamber</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Ferenc Thurzó and Hungarian Chamber (Vienna, 23
                     November 1551)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. The censura that the Chamber sent in connection with István Dobó’s
-                            administration did not take into consideration what Oláh had already
-                            tried to make them understand before. Oláh has therefore stayed here in
-                            Vienna and did not follow the King, and he spent three days working on
-                            revising the censura and wrote a mitigation that follows the articuli to
-                            accompany it. He has sent it to them so they can see why he may have
-                            been lenient with Dobó. 2. He asks them to read his mitigation as soon
-                            as possible and decide in the case while the King returns to Vienna;
-                            royal constrascriba Péter Gutai will help them with it. He has also
-                            written to Dobó to prepare and send the annual accounting for the year
-                            1551. György Kachich will tell them the rest. 3. They should inform Oláh
-                            about their intentions as soon as possible, so he can find a suitable
-                            inspector. Although he is sending this letter to Ferenc Thurzó as well,
-                            he has heard that he has not returned to Bratislava yet, so they should
-                            decide without him. </p>
+                        <p xml:id="reg.p.1">1. The censura that the Chamber sent in connection with
+                            István Dobó’s administration did not take into consideration what Oláh
+                            had already tried to make them understand before. Oláh has therefore
+                            stayed here in Vienna and did not follow the King, and he spent three
+                            days working on revising the censura and wrote a mitigation that follows
+                            the articuli to accompany it. He has sent it to them so they can see why
+                            he may have been lenient with Dobó. 2. He asks them to read his
+                            mitigation as soon as possible and decide in the case while the King
+                            returns to Vienna; royal constrascriba Péter Gutai will help them with
+                            it. He has also written to Dobó to prepare and send the annual
+                            accounting for the year 1551. György Kachich will tell them the rest. 3.
+                            They should inform Oláh about their intentions as soon as possible, so
+                            he can find a suitable inspector. Although he is sending this letter to
+                            Ferenc Thurzó as well, he has heard that he has not returned to
+                            Bratislava yet, so they should decide without him. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendi ac Egregii Domini, Fratres et Amici Honorandi, salutem et
+                <p xml:id="p.1">Reverendi ac Egregii Domini, Fratres et Amici Honorandi, salutem et
                     nostri <choice>
                         <orig>co<gap extent="1" reason="damage" unit="word"/>ndation<gap extent="1"
                                 reason="damage" unit="word"/></orig>
                         <supplied>co<corr>mme</corr>ndation<corr>em</corr></supplied>
                     </choice>!</p>
-                <p>[1.] Censuram, quam superioribus temporibus Dominationes Vestrae super
-                    administratione <persName>Stephani Dobo</persName><note type="critic">István
-                        Dobó.</note> ad nos miserant, quamvis prius cognoscere atque nostram
-                    superinde opinionem Dominationibus Vestris describere voluerimus, praesentia
-                    tamen <persName>maiestatis regiae</persName> ac alia publica regni negotia, quae
-                    privata nostra negotia intermittere nos compulserunt, non sunt passa nos rebus
-                    nostris privatis invigilare, sed eas ad aliud tempus reiicere et relinquere
-                    coegerunt, atque ideo ea saltem ratione hic <placeName>Viennae</placeName>
-                    mansimus et ne suam maiestatem hac vice in itinere sequeremur. A sua maiestate
-                    obtinuimus, ut iamtandem rebus quoque nostris privatis prospicere possemus, post
-                    discessum itaque suae maiestatis censuram ipsam per tres fere dies laborando
-                    diligenter revidimus ac nostram quoque moderationem secundum articulos
-                    descripsissemus. Quam pro faciliori inventione <add corresp="scriba"
-                        type="insert">secundum</add> capita articulorum cifris notatam unacum nostra
-                    opinione ac moderatione similiter cifris notata, nec non duobus regestis super
-                    inquisitione et rectificatione conscriptis per egregium <persName>Georgium
-                        litteratum Katthyth</persName>,<note type="critic">The Croatian Kachich
-                        family was famous around this time, see <hi rend="smallcap">Petrichevich
-                            Horváth</hi> 1941, 226.</note> cuius opera in hac revisione usi sumus,
-                    Dominationibus Vestris remisimus, si qua in re nos servitori <del
-                        corresp="Olahus">nostros</del><add corresp="Olahus" type="corr">nostro</add>
-                    indulsisse perspexerint, id non in aliam partem interpretari velint, nisi quod
-                    in ea moderatione limites aequitatis transcendere noluimus, et quod rationem
-                    etiam temporis ac loci, ubi <persName>Dobo</persName> officium exercuit,
-                    habuimus. </p>
-                <p>[2.] Quare Dominationes Vestras rogamus diligenter, velint,
+                <p xml:id="p.2">[1.] Censuram, quam superioribus temporibus Dominationes Vestrae
+                    super administratione <persName>Stephani Dobo</persName><note type="critic"
+                        xml:id="note.1">István Dobó.</note> ad nos miserant, quamvis prius
+                    cognoscere atque nostram superinde opinionem Dominationibus Vestris describere
+                    voluerimus, praesentia tamen <persName>maiestatis regiae</persName> ac alia
+                    publica regni negotia, quae privata nostra negotia intermittere nos
+                    compulserunt, non sunt passa nos rebus nostris privatis invigilare, sed eas ad
+                    aliud tempus reiicere et relinquere coegerunt, atque ideo ea saltem ratione hic
+                        <placeName>Viennae</placeName> mansimus et ne suam maiestatem hac vice in
+                    itinere sequeremur. A sua maiestate obtinuimus, ut iamtandem rebus quoque
+                    nostris privatis prospicere possemus, post discessum itaque suae maiestatis
+                    censuram ipsam per tres fere dies laborando diligenter revidimus ac nostram
+                    quoque moderationem secundum articulos descripsissemus. Quam pro faciliori
+                    inventione <add corresp="scriba" type="insert">secundum</add> capita articulorum
+                    cifris notatam unacum nostra opinione ac moderatione similiter cifris notata,
+                    nec non duobus regestis super inquisitione et rectificatione conscriptis per
+                    egregium <persName>Georgium litteratum Katthyth</persName>,<note type="critic"
+                        xml:id="note.2">The Croatian Kachich family was famous around this time, see
+                            <hi rend="smallcap">Petrichevich Horváth</hi> 1941, 226.</note> cuius
+                    opera in hac revisione usi sumus, Dominationibus Vestris remisimus, si qua in re
+                    nos servitori <del corresp="Olahus">nostros</del><add corresp="Olahus"
+                        type="corr">nostro</add> indulsisse perspexerint, id non in aliam partem
+                    interpretari velint, nisi quod in ea moderatione limites aequitatis transcendere
+                    noluimus, et quod rationem etiam temporis ac loci, ubi <persName>Dobo</persName>
+                    officium exercuit, habuimus. </p>
+                <p xml:id="p.3">[2.] Quare Dominationes Vestras rogamus diligenter, velint,
                     quantocitius fieri poterit, nostram moderationem cognoscere atque haec negotia
                     primo quoque tempore expedire, ut interim, quoad maiestas regia ex <del
                         corresp="Olahus">Gracio</del><add corresp="Olahus" type="corr"
-                            ><placeName>Grecio</placeName></add><note type="critic">Graz.</note>
-                    rediens hic <placeName>Viennae</placeName> pausabit et se ad alias regiones <del
-                        corresp="Olahus">non</del> movebit, totius negotii finis per nos atque
-                    Dominationes Vestras imponi possit. Videtur autem ad inquisitionem eiusmodi
-                    negotiorum pro parte camerae regiae maiestatis sufficiens esse <persName>Petrus
-                        litteratus Gwtthensis</persName>,<note type="critic">Péter Gutai was
-                        Counter-signer <hi rend="italic">(contrascriba)</hi> of Eger between
-                        1549–1558, after which he became Royal Controller (1557–1563), see <hi
-                            rend="smallcap">Kenyeres</hi> 2006, 60–61.</note> modernus in arce
-                    Agriensi contrascriba regius, cui et nos ex nostris aliquem pro commodiori
-                    inquisitione adiungemus. Scripsimus<note type="critic">We do not know this
-                        letter.</note> etiam <persName>Stephano Dobo</persName>, ut rationes quoque
-                    anni praesentis 1551 quamprimum conficere ac <add corresp="Olahus" type="insert"
-                        >nobis vel</add> Dominationibus Vestris <milestone unit="pb"/>mittere curet,
-                    ut eo citius totum rationis dandae negotium perfici possit. Cetera Dominationes
-                    Vestrae fusius a praedicto <persName>Georgio litterato</persName> cognoscent per
-                    quem Dominationibus Vestris seorsum et privatim, et communiter quoque
-                    nuntiavimus. Quas optamus valere feliciter.</p>
-                <p><placeName>Viennae</placeName> 23. die mensis Novembris 1551.</p>
-                <p>[3.] <add corresp="Olahus" type="insert">Censuram Dominationum
+                            ><placeName>Grecio</placeName></add><note type="critic" xml:id="note.3"
+                        >Graz.</note> rediens hic <placeName>Viennae</placeName> pausabit et se ad
+                    alias regiones <del corresp="Olahus">non</del> movebit, totius negotii finis per
+                    nos atque Dominationes Vestras imponi possit. Videtur autem ad inquisitionem
+                    eiusmodi negotiorum pro parte camerae regiae maiestatis sufficiens esse
+                        <persName>Petrus litteratus Gwtthensis</persName>,<note type="critic"
+                        xml:id="note.4">Péter Gutai was Counter-signer <hi rend="italic"
+                            >(contrascriba)</hi> of Eger between 1549–1558, after which he became
+                        Royal Controller (1557–1563), see <hi rend="smallcap">Kenyeres</hi> 2006,
+                        60–61.</note> modernus in arce Agriensi contrascriba regius, cui et nos ex
+                    nostris aliquem pro commodiori inquisitione adiungemus. Scripsimus<note
+                        type="critic" xml:id="note.5">We do not know this letter.</note> etiam
+                        <persName>Stephano Dobo</persName>, ut rationes quoque anni praesentis 1551
+                    quamprimum conficere ac <add corresp="Olahus" type="insert">nobis vel</add>
+                    Dominationibus Vestris <milestone unit="pb"/>mittere curet, ut eo citius totum
+                    rationis dandae negotium perfici possit. Cetera Dominationes Vestrae fusius a
+                    praedicto <persName>Georgio litterato</persName> cognoscent per quem
+                    Dominationibus Vestris seorsum et privatim, et communiter quoque nuntiavimus.
+                    Quas optamus valere feliciter.</p>
+                <p xml:id="p.4"><placeName>Viennae</placeName> 23. die mensis Novembris 1551.</p>
+                <p xml:id="p.5">[3.] <add corresp="Olahus" type="insert">Censuram Dominationum
                         Vestrarum cum nostra moderatione conferant faciantque unum corpus
                         responsionis ad rationes <persName>Dobonis</persName> dandae. Quae postea
                         illic tempore eo, quo videbitur fore commodius, mitti poterit, faciant
@@ -249,12 +309,12 @@
                         possim designare hominem aliquem meum idoneum ad inquisitionem similcum
                         contrascriba fidelem faciendam. Has licet litteras <del corresp="editor"
                             >licet</del> adscribi iusserim etiam <del corresp="Olahus">ad</del>
-                        domino <persName>Nitriensi</persName>,<note type="critic">Ferenc
-                            Thurzó.</note> arbitratus eum <placeName>Posonii</placeName> esse, sed
-                        quia audio nondum eum rediisse <placeName>Posonium</placeName>, Dominationes
-                        Vestrae velint sine eo negotio huic finem imponere rogo. Quae feliciter
-                        valeant.</add></p>
-                <p>
+                        domino <persName>Nitriensi</persName>,<note type="critic" xml:id="note.6"
+                            >Ferenc Thurzó.</note> arbitratus eum <placeName>Posonii</placeName>
+                        esse, sed quia audio nondum eum rediisse <placeName>Posonium</placeName>,
+                        Dominationes Vestrae velint sine eo negotio huic finem imponere rogo. Quae
+                        feliciter valeant.</add></p>
+                <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Vester Agriensis etc. manu
                             propria.</add>
@@ -262,9 +322,9 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Reverendis ac egregiis dominis Francisco Thwrzo de Bethlenffalwa,
+                <p xml:id="p.7">Reverendis ac egregiis dominis Francisco Thwrzo de Bethlenffalwa,
                     episcopo Nittriensi praefecto ac ceteris consiliariis Hungaricae camerae regiae
                     maiestatis etc. dominis fratribus et amicis honorandis.</p>
             </div>

@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">490</title>
-                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 31 May 1534)</title>
+                <title key="body" n="490" type="main">Camillo Ghilino to Miklós Oláh (Milan, 31 May
+                    1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340531_1</idno>
-                
+                <idno type="PID">olahus.tei.15340531_1</idno>
+                <idno type="ITIdata">Q473152</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340531_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 501–502.</note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 501–502.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,79 +203,77 @@
             </textClass>
             <creation>
                 <date when="1534-05-31">31 May 1534</date>
-                <placeName>Milan</placeName>
+                <placeName>Milan<idno type="ITIdata">Q25477</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Camillo Ghilino</persName>
-                    <orgName/>
+                    <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 31 May 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Ambrogio Candiano has returned, but he had such a good time at the
-                            court that he had forgotten about his friends, wife, and homeland, and
-                            he was received in such a cordial way that he can only talk about the
-                            Queen’s greatness ever since. He will likely not even stay here but
-                            return to the Queen’s service, which Francesco II Sforza also supports.
-                            He is happy to hear that the Queen is doing well. 2. He should send the
-                            globe to Candiano with Giacomo Fagnano, he will make sure it gets to
-                            Ghilino. 2. His lord (Sforza) was happy to receive Oláh’s letter. If the
-                            Germans obey the emperor, good, if not, the emperor will not lack either
-                            advice or money. The Pope is suffering from gout and stomach-ache; and
-                            the Sultan set out on 11 June with 40,000 horsemen and two legions to
-                            aid Ibrahim Pargalı Pasha, who is said to have been driven out by the
-                            Persian army.</p>
+                        <p xml:id="reg.p.1">1. Ambrogio Candiano has returned, but he had such a
+                            good time at the court that he had forgotten about his friends, wife,
+                            and homeland, and he was received in such a cordial way that he can only
+                            talk about the Queen’s greatness ever since. He will likely not even
+                            stay here but return to the Queen’s service, which Francesco II Sforza
+                            also supports. He is happy to hear that the Queen is doing well. 2. He
+                            should send the globe to Candiano with Giacomo Fagnano, he will make
+                            sure it gets to Ghilino. 2. His lord (Sforza) was happy to receive
+                            Oláh’s letter. If the Germans obey the emperor, good, if not, the
+                            emperor will not lack either advice or money. The Pope is suffering from
+                            gout and stomach-ache; and the Sultan set out on 11 June with 40,000
+                            horsemen and two legions to aid Ibrahim Pargalı Pasha, who is said to
+                            have been driven out by the Persian army.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Camillus Gilinus <add corresp="Olahus" type="insert">secretarius
+                <p xml:id="p.1">Camillus Gilinus <add corresp="Olahus" type="insert">secretarius
                         Francisci Sforciae ducis Mediolani</add> Nicolao Olao salutem. </p>
-                <p>[1.] Rediit <persName>Candianus</persName><note type="critic">Ambrogio
-                        Candiano.</note> noster a <persName>regina</persName> et vobis omnibus adeo
-                    bene habitus, ut non solum amicorum, sed uxoris et patriae penitus sit oblitus.
-                    Hunc enim adeo prolixe accepistis, tanta humanitate hominem regina comprehendit,
-                    ut praeter istius animi magnitudinem, munificentiam et singularem prudentiam,
-                    quae in aliis principibus nostrae aetatis maxime desiderantur, nihil aliud
-                    loquatur. Quo fiet, ut nullo negotio ad nos posse redire putem, uxore tamen non
-                    reluctante, cui valde emancipatum esse intelligo. <persName>Dux</persName><note
-                        type="critic">Francesco II Sforza.</note> et hortabitur ambos et coget, si
+                <p xml:id="p.2">[1.] Rediit <persName>Candianus</persName><note type="critic"
+                        xml:id="note.1">Ambrogio Candiano.</note> noster a
+                        <persName>regina</persName> et vobis omnibus adeo bene habitus, ut non solum
+                    amicorum, sed uxoris et patriae penitus sit oblitus. Hunc enim adeo prolixe
+                    accepistis, tanta humanitate hominem regina comprehendit, ut praeter istius
+                    animi magnitudinem, munificentiam et singularem prudentiam, quae in aliis
+                    principibus nostrae aetatis maxime desiderantur, nihil aliud loquatur. Quo fiet,
+                    ut nullo negotio ad nos posse redire putem, uxore tamen non reluctante, cui
+                    valde emancipatum esse intelligo. <persName>Dux</persName><note type="critic"
+                        xml:id="note.2">Francesco II Sforza.</note> et hortabitur ambos et coget, si
                     licebit, ne reginae voluntati adversentur, quam pro numine suspicit et
                     veneratur. Laetor hunc in reginae curatione comitem fortunam habuisse, faxint
                     di, ut melior et valentior indies evadat, hoc mihi praesertim nihil gratius
                     atque iucundius esse poterit. </p>
-                <p>[2.] Reculas meas tibi cordi esse audio. Globus quamprimum absolutus
-                    erit, fac, <persName>Iacobo Fagnano</persName><note type="critic">Giacomo
-                        Fagnano was a merchant from Milan, we only know him from this
-                        correspondence.</note> negotiatori Mediolanensi
+                <p xml:id="p.3">[2.] Reculas meas tibi cordi esse audio. Globus quamprimum absolutus
+                    erit, fac, <persName>Iacobo Fagnano</persName><note type="critic"
+                        xml:id="note.3">Giacomo Fagnano was a merchant from Milan, we only know him
+                        from this correspondence.</note> negotiatori Mediolanensi
                         <placeName>Antverpiam</placeName> deferatur, is
                         <persName>Candiano</persName> pollicitus est,se curaturum, ut ad me
                     incolumis perveniat. </p>
-                <p>Dux meus tibi gratias agit, quod tantum sibi tribuas et tuas litteras
-                    syllabatim legit, huius fidem et diligentiam in tuis aut amicorum rebus frustra
-                    nunquam, mihi crede, implorabis. Si Germani principes caesaribus nostris in
-                    futurum obsequentiores erunt, bene illis erit, sin aliter, Deo nostro
-                    Hispaniensi nec consilium, nec <quote>belli nervus</quote><note type="quote"
-                        >Cic. <hi rend="italic">Philipp</hi>. V,I,5.</note><note type="critic">I.e.
-                        ‘money’.</note> deerit. <persName>Pontifex</persName> adhuc in lecto cubat
-                    ex podagra et stomacho laborans. Turca, ut <choice>
-                            <orig>Imbramo basso</orig>
-                            <supplied><persName>Imbramo bassa</persName></supplied>
-                        </choice><note type="critic">Ibrahim Pargalı Pasha.</note>
+                <p xml:id="p.4">Dux meus tibi gratias agit, quod tantum sibi tribuas et tuas
+                    litteras syllabatim legit, huius fidem et diligentiam in tuis aut amicorum rebus
+                    frustra nunquam, mihi crede, implorabis. Si Germani principes caesaribus nostris
+                    in futurum obsequentiores erunt, bene illis erit, sin aliter, Deo nostro
+                    Hispaniensi nec consilium, nec <quote xml:id="quote.1">belli nervus</quote><note
+                        type="quote" xml:id="note.quote.1">Cic. <hi rend="italic">Philipp</hi>.
+                        V,I,5.</note><note type="critic" xml:id="note.4">I.e. ‘money’.</note>
+                    deerit. <persName>Pontifex</persName> adhuc in lecto cubat ex podagra et
+                    stomacho laborans. Turca, ut <choice>
+                        <orig>Imbramo basso</orig>
+                        <supplied><persName>Imbramo bassa</persName></supplied>
+                    </choice><note type="critic" xml:id="note.5">Ibrahim Pargalı Pasha.</note>
                     suppetias ferat, <placeName>Constantinopoli</placeName> castra movit tertio
                     Iduum Iunii cum quadraginta millibus equitum et legionibus duabus. Duriores
                     quippe apud Dalmatas rumores de eo pervenerant, scilicet Imbraimum a
@@ -225,14 +281,16 @@
                     profligatum et exercitus reliquias in quibusdam montium angustiis redactas. Haec
                     si vera sunt, Hungariae ad vestram ditionem brevi adiungentur, reliqua ex
                     insertis litterarum exemplis accipies. </p>
-                <p>Serenissimae dominae reginae, dominae nostrae clementissimae, ut
+                <p xml:id="p.5">Serenissimae dominae reginae, dominae nostrae clementissimae, ut
                     debemus, omnia bona optamus, cuius salus et mihi et bonis omnibus non minus cara
                     est, quam ipsius ducis vita. Dominae <persName>Lucretiae Virgini</persName><note
-                        type="critic">Lucretia Caballis (vom Ross).</note> electissimae meis verbis
-                    plurimam salutem dices, item amicis omnibus. Principes mei recte valent et animi
-                    causa rusticantur, <milestone unit="pb"/>cum ad regem proficiscar, te statim admonebo. Interim cura, ut valeas
-                    et me, ut facis, mutuo ama. </p>
-                <p><placeName>Mediolani</placeName> pridie Kalendarum Sextilis 1534.</p>
+                        type="critic" xml:id="note.6">Lucretia Caballis (vom Ross).</note>
+                    electissimae meis verbis plurimam salutem dices, item amicis omnibus. Principes
+                    mei recte valent et animi causa rusticantur, <milestone unit="pb"/>cum ad regem
+                    proficiscar, te statim admonebo. Interim cura, ut valeas et me, ut facis, mutuo
+                    ama. </p>
+                <p xml:id="p.6"><placeName>Mediolani</placeName> pridie Kalendarum Sextilis
+                    1534.</p>
             </div>
         </body>
     </text>

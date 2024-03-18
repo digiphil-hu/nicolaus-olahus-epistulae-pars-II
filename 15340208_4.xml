@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">452</title>
-                <title type="main">Lieven van den Zande to Miklós Oláh (Ghent, 8 February
-                    1534)</title>
+                <title key="body" n="452" type="main">Lieven van den Zande to Miklós Oláh (Ghent, 8
+                    February 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340208_4</idno>
-                
+                <idno type="PID">olahus.tei.15340208_4</idno>
+                <idno type="ITIdata">Q473114</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340208_4.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,40 +80,37 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                        <ref>/o:olahus.tei.15331129_1</ref>
-                        <ref>/o:olahus.tei.15340307_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi>
+                            Copy.<ref>/o:olahus.tei.15331129_1</ref><ref>/o:olahus.tei.15340307_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 455–456.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 455–456.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 25–26.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 25–26; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1038–1041.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15331129_1" type="url">427</ref>
+                        <ref target="15331129_1" type="url">427</ref>
                     </bibl>
                 </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340307_1" type="url">468</ref>
+                        <ref target="15340307_1" type="url">468</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -138,11 +145,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -151,62 +219,60 @@
             </textClass>
             <creation>
                 <date when="1534-02-08">8 February 1534</date>
-                <placeName>Ghent</placeName>
+                <placeName>Ghent<idno type="ITIdata">Q11613</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Lieven van den Zande</persName>
-                    <orgName/>
+                    <persName>Lieven van den Zande<idno type="ITIdata">Q470351</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Lieven van den Zande to Miklós Oláh (Ghent, 8 February
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Oláh has made him very happy with the three books he sent him. It is
-                            very difficult to find someone to deliver the letter, especially for
-                            lonely fellows like him, although if it was up to him, Oláh would often
-                            receive a letter from him. 2. He wishes they were closer to each other,
-                            so that they could discuss everything and learn from each other. His
-                            admiration of Erasmus of Rotterdam is unyielding; this winter seems to
-                            last ten years, when is the thaw coming that will return Erasmus to
-                            them? He thanks him for the books again and tells him that Joannes
-                            Molanus is sending his best.</p>
+                        <p xml:id="reg.p.1">1. Oláh has made him very happy with the three books he
+                            sent him. It is very difficult to find someone to deliver the letter,
+                            especially for lonely fellows like him, although if it was up to him,
+                            Oláh would often receive a letter from him. 2. He wishes they were
+                            closer to each other, so that they could discuss everything and learn
+                            from each other. His admiration of Erasmus of Rotterdam is unyielding;
+                            this winter seems to last ten years, when is the thaw coming that will
+                            return Erasmus to them? He thanks him for the books again and tells him
+                            that Joannes Molanus is sending his best.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Levinus Ammonius Carthusianus Nicolao Olao secretario reginae Mariae. </p>
-                <p>[1.] Libelli tres, quos mihi dono dedisti,<note type="critic">See Ep.
-                        427.</note><ref>/o:olahus.tei.15331129_1</ref> Clarissime Heros, eo mihi
-                    fuere gratiores, quod litteris amantissimis et omni officio plenis adiunxeras,
-                    pro quibus tametsi in sinu gavisus sum, quod haberem penes me semper, quod
-                    memoriam tui renovaret. Tamen hactenus consulto gratias agere supersedi, certus
-                    fore, ut ὁ οἰκονόμος τοῦ κοινοβίου ἡμῶν<note type="critic">‘economist/bursar of
-                        our monastery’, see Ep. 427.</note><ref>/o:olahus.tei.15331129_1</ref> (utor
-                    enim <milestone unit="pb"/>libenter epistolae tuae verbis) ob secundae pensionis grave onus
+                <p xml:id="p.1">Levinus Ammonius Carthusianus Nicolao Olao secretario reginae
+                    Mariae. </p>
+                <p xml:id="p.2">[1.] Libelli tres, quos mihi dono dedisti,<note type="critic"
+                        xml:id="note.1">See Ep. 427.<ref>olahus.tei.15331129_1</ref></note>
+                    Clarissime Heros, eo mihi fuere gratiores, quod litteris amantissimis et omni
+                    officio plenis adiunxeras, pro quibus tametsi in sinu gavisus sum, quod haberem
+                    penes me semper, quod memoriam tui renovaret. Tamen hactenus consulto gratias
+                    agere supersedi, certus fore, ut ὁ οἰκονόμος τοῦ κοινοβίου ἡμῶν<note
+                        type="critic" xml:id="note.2">‘economist/bursar of our monastery’, see Ep.
+                            427.<ref>olahus.tei.15331129_1</ref></note> (utor enim <milestone
+                        unit="pb"/>libenter epistolae tuae verbis) ob secundae pensionis grave onus
                     sublevandum mitigandumque istuc reverteretur, cum tuae dignationis, tum aliorum
                     largis pollicitationibus attractus. Non enim nihil est spei, si vel tecum vel
                     tua commendatione possit ad serenissimam <persName>reginam</persName> accessum
                     habere, nam alioqui non ita in proclivi fuit alium istuc tabellarium invenire,
-                    mihi praesertim solitario, et τῶν φυτῶν δίκην<note type="critic">‘like plants
-                        do’.</note> uno semper loco haerenti. Is enim si adesset, nequaquam reor
-                    meas usque adeo rarenter acciperes epistolas, τεκμήριον γὰρ,<note type="critic"
-                        >‘as proof of this’.</note> quando agebas <placeName>Gandavi</placeName>,
-                    scis ipse, quanto crebriores acceperis. </p>
-                <p>[2.] Atque utinam vel ego tibi vicinior essem, vel tu mihi propius <choice>
+                    mihi praesertim solitario, et τῶν φυτῶν δίκην<note type="critic" xml:id="note.3"
+                        >‘like plants do’.</note> uno semper loco haerenti. Is enim si adesset,
+                    nequaquam reor meas usque adeo rarenter acciperes epistolas, τεκμήριον γὰρ,<note
+                        type="critic" xml:id="note.4">‘as proof of this’.</note> quando agebas
+                        <placeName>Gandavi</placeName>, scis ipse, quanto crebriores acceperis. </p>
+                <p xml:id="p.3">[2.] Atque utinam vel ego tibi vicinior essem, vel tu mihi propius <choice>
                         <orig>abesses</orig>
                         <supplied>adesses</supplied>
                     </choice>, ut pari studio vel sacra prophanave tractaremus et doceremus, sive
@@ -218,33 +284,35 @@
                     talem omnibus erga illum affectum <choice>
                         <orig>ἐμποίειν</orig>
                         <supplied>ἐμποιεῖν</supplied>
-                    </choice><note type="critic">‘to make an impression’.</note> mihi in manu esset,
-                    quam lubens id facerem! Sed, mi Olahe, an non haec hiems plus decennium duravit?
-                    Quando redibit aura serenior, ut illum nobis exhibeat? Omnis mihi mora molesta
-                    est, nihilque non metuo, quod homini possit accidere. Quoties votis optavi
-                    caelum clementius? Et videtur audisse vota Christus, ita nunc arridet aura.
-                    Utinam cum hirundinibus et ciconiis huc advolaret ille simul. Sed quid ego? <choice>
+                    </choice><note type="critic" xml:id="note.5">‘to make an impression’.</note>
+                    mihi in manu esset, quam lubens id facerem! Sed, mi Olahe, an non haec hiems
+                    plus decennium duravit? Quando redibit aura serenior, ut illum nobis exhibeat?
+                    Omnis mihi mora molesta est, nihilque non metuo, quod homini possit accidere.
+                    Quoties votis optavi caelum clementius? Et videtur audisse vota Christus, ita
+                    nunc arridet aura. Utinam cum hirundinibus et ciconiis huc advolaret ille simul.
+                    Sed quid ego? <choice>
                         <orig>Egon</orig>
                         <supplied>Egone</supplied>
                     </choice> apud te virum gravem affectus meos effundam? Hactenus ineptisse satis
                     sit. Attamen si pariter amas illum, non potes ignorare, quid hic animus patiatur
                     illo absente. </p>
-                <p>Habeo tibi gratiam, quantam possum maximam, pro tribus illis libellis
-                    mihi dono datis,<note type="critic">See Ep. 427. and Ep.
-                        407.</note><ref>/o:olahus.tei.15331129_1</ref><ref>/o:olahus.tei.15330912_1</ref>
+                <p xml:id="p.4">Habeo tibi gratiam, quantam possum maximam, pro tribus illis
+                    libellis mihi dono datis,<note type="critic" xml:id="note.6">See Ep. 427. and
+                        Ep.
+                        407.<ref>olahus.tei.15331129_1</ref></note><ref>/o:olahus.tei.15330912_1</ref>
                     et exspecto reliquos, quos tua mihi munificentia promittere dignata est. <hi
-                        rend="italic">Meditationes</hi>
-                    <persName>Clenardi</persName> et <hi rend="italic">Homiliam</hi> Χρυσοστόμου
-                    περὶ τοῦ ὀλίγῳ οἴνῳ χρῷ<note type="critic">‘[John] Chrysostom’s [sermon] “Use
-                        little wine”.’ He discusses this command in several of his sermons, for
-                        example in <hi rend="italic">Adversus ebriosos et de resurrectione domini
-                            nostri Jesu Christi</hi>.</note> et si quid praeterea huc mittere voles.
+                        rend="italic">Meditationes</hi><persName>Clenardi</persName> et <hi
+                        rend="italic">Homiliam</hi> Χρυσοστόμου περὶ τοῦ ὀλίγῳ οἴνῳ χρῷ<note
+                        type="critic" xml:id="note.7">‘[John] Chrysostom’s [sermon] “Use little
+                        wine”.’ He discusses this command in several of his sermons, for example in
+                            <hi rend="italic">Adversus ebriosos et de resurrectione domini nostri
+                            Jesu Christi</hi>.</note> et si quid praeterea huc mittere voles.
                     Christus Iesus sanum te et incolumem conservet, quam diutissime. </p>
-                <p>E Valleregali iuxta <placeName>Gandavum</placeName> sexto Idus
+                <p xml:id="p.5">E Valleregali iuxta <placeName>Gandavum</placeName> sexto Idus
                     Februarii 1534. </p>
-                <p>Meus affinis dominus <persName>Ioannes Molanus</persName><note
-                        type="critic">We do not know him more closely.</note> salutem tibi iussit
-                    adscribi, abs quo nuperrime litteras accepi.</p>
+                <p xml:id="p.6">Meus affinis dominus <persName>Ioannes Molanus</persName><note
+                        type="critic" xml:id="note.8">We do not know him more closely.</note>
+                    salutem tibi iussit adscribi, abs quo nuperrime litteras accepi.</p>
             </div>
         </body>
     </text>

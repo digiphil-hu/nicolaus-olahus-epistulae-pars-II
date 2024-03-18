@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">584</title>
-                <title type="main">Rutger Ressen to Miklós Oláh (Leuven, 11 March 1537)</title>
+                <title key="body" n="584" type="main">Rutger Ressen to Miklós Oláh (Leuven, 11 March
+                    1537)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15370311_1</idno>
-                
+                <idno type="PID">olahus.tei.15370311_1</idno>
+                <idno type="ITIdata">Q473244</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15370311_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,28 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 598–599.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 598–599.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 220.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 220; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1550–1553.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +134,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,56 +208,53 @@
             </textClass>
             <creation>
                 <date when="1537-03-11">11 March 1537</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Rutger Ressen</persName>
-                    <orgName/>
+                    <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Rutger Ressen to Miklós Oláh (Leuven, 11 March 1537)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He thanks him for the silver he sent with Pieter Nanninck, in exchange he
-                            is sending him 100 copies of the Erasmus of Rotterdam epitaphs. He is
-                            sending it with one of his servants so that Oláh can send a letter to
-                            Frankfurt to his friends, as far as he knows, this is his plan. Ressen
-                            will not be traveling there, either, but a friend of his will take care
-                            of the books. </p>
+                        <p xml:id="reg.p.1">He thanks him for the silver he sent with Pieter
+                            Nanninck, in exchange he is sending him 100 copies of the Erasmus of
+                            Rotterdam epitaphs. He is sending it with one of his servants so that
+                            Oláh can send a letter to Frankfurt to his friends, as far as he knows,
+                            this is his plan. Ressen will not be traveling there, either, but a
+                            friend of his will take care of the books. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Rutgerus Rescius Nicolao Olao salutem plurimam. </p>
-                <p>Habeo gratiam Dominationi Tuae de <del corresp="Olahus"
+                <p xml:id="p.1">Rutgerus Rescius Nicolao Olao salutem plurimam. </p>
+                <p xml:id="p.2">Habeo gratiam Dominationi Tuae de <del corresp="Olahus"
                         >argento</del><add corresp="Olahus" type="corr">argenteo</add> nummo per
-                        <persName>Nannium</persName><note type="critic">Pieter Nanninck.</note>
-                    nostrum mihi dono misso, pro quo donum chartaceum tibi remitto centum exemplaria
-                        <persName>Erasmi</persName> epitaphiorum per te et alios conscriptorum.<note
-                        type="critic"><hi rend="italic">D. Erasmi Roterodami epitaphia, per
-                            clarissimos aliquot viros conscripta</hi>, Lovanii apud Rutgerum
-                        Rescium, 1537.</note> Mitto autem ea per famulum nostrum, ut commode possis
-                    ad amicos tuos <placeName>Francofordiam</placeName> venturos scribere, nam
-                        <persName>Nannius</persName> eo te scribere in <milestone unit="pb"/>animo habere dixit. Ego propter negotia quaedam non sum illuc
-                    profecturus, sed libros, quos nunc misi, tradidi amico cuidam, ut is rerum curam
-                    agat. Exspecto autem illum hodie et cras (ut puto) hunc
-                        <placeName>Francofordiam</placeName> versus iter ingredietur, propterea si
-                    voles litteras eo mittere, opus est, ut hodie illas scribas. Bene vale, Domine
-                    Consiliarie Observande. Raptim. </p>
-                <p>Ex <placeName>Lovanio</placeName> Dominica Laetare anno 1537.</p>
+                        <persName>Nannium</persName><note type="critic" xml:id="note.1">Pieter
+                        Nanninck.</note> nostrum mihi dono misso, pro quo donum chartaceum tibi
+                    remitto centum exemplaria <persName>Erasmi</persName> epitaphiorum per te et
+                    alios conscriptorum.<note type="critic" xml:id="note.2"><hi rend="italic">D.
+                            Erasmi Roterodami epitaphia, per clarissimos aliquot viros
+                            conscripta</hi>, Lovanii apud Rutgerum Rescium, 1537.</note> Mitto autem
+                    ea per famulum nostrum, ut commode possis ad amicos tuos
+                        <placeName>Francofordiam</placeName> venturos scribere, nam
+                        <persName>Nannius</persName> eo te scribere in <milestone unit="pb"/>animo
+                    habere dixit. Ego propter negotia quaedam non sum illuc profecturus, sed libros,
+                    quos nunc misi, tradidi amico cuidam, ut is rerum curam agat. Exspecto autem
+                    illum hodie et cras (ut puto) hunc <placeName>Francofordiam</placeName> versus
+                    iter ingredietur, propterea si voles litteras eo mittere, opus est, ut hodie
+                    illas scribas. Bene vale, Domine Consiliarie Observande. Raptim. </p>
+                <p xml:id="p.3">Ex <placeName>Lovanio</placeName> Dominica Laetare anno 1537.</p>
             </div>
         </body>
     </text>

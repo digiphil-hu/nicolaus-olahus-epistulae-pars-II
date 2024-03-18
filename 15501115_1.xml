@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">752</title>
-                <title type="main">Antal Verancsics to Miklós Oláh (Eger, 15 November 1550)</title>
+                <title key="body" n="752" type="main">Antal Verancsics to Miklós Oláh (Eger, 15
+                    November 1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15501115_1</idno>
-                
+                <idno type="PID">olahus.tei.15501115_1</idno>
+                <idno type="ITIdata">Q473409</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15501115_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,42 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
-                            Verancsics emended the letter in two phases, here we publish the first
-                            version because the two versions differ substantially, and Oláh probably
-                            read the first one.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
+                        Verancsics emended the letter in two phases, here we publish the first
+                        version because the two versions differ substantially, and Oláh probably
+                        read the first one. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Szalay</hi> 1865, 147–151.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Szalay</hi> 1865, 147–151.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -136,11 +131,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -149,98 +205,97 @@
             </textClass>
             <creation>
                 <date when="1550-11-15">15 November 1550</date>
-                <placeName>Eger</placeName>
+                <placeName>Eger<idno type="ITIdata">Q277</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Antal Verancsics</persName>
-                    <orgName/>
+                    <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Antal Verancsics to Miklós Oláh (Eger, 15 November 1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Tamás Varkocs reached Lippa the other day, and he wants to proceed to
-                            Transylvania from there, but it is not clear what his plan is, since he
-                            has large troops, with which he liberated Csanád from the siege of the
-                            Serbians and took several of Petrovics’s castles, e.g. Nagylak,
-                            supposedly so that he can defend more areas. 2. In the meantime, György
-                            Fráter was tricked in the hope of an agreement with the Queen and
-                            Petrovics. He was in a lot of trouble, but got away with it in the end.
-                            The Queen had namely had enough of György Fráter’s repeated perfidy, and
-                            she terminated the agreement on the third day it was in effect. In the
-                            meantime, secret envoys reported that reinforcements were being sent to
-                            Kasim Pasha, and that the Romanians want their troops to join those of
-                            the Turks. The Queen, not being too steadfast, confused everything and
-                            alienated all her peoples from herself and left György Fráter out of all
-                            her plans. 3. György Fráter became mad with rage and called his people
-                            to war with a bloody sword, primarily wanting to prevent the Moldovans
-                            from making a crossing and joining the Turks. 14,000 Moldovans crossed
-                            the Oituz river and proceeded to Székelyföld (Székely Land), from where
-                            they headed toward Sebeș to join the Turks and the Romanians. 4. György
-                            Fráter set up camp in Târgu Mureș, which was a good strategic decision.
-                            There are two ways to access Transylvania from Moldavia: through the
-                            narrow Oituz, and from the thick forests around Rodna. With a
-                            6,000-strong army, György Fráter pounced on the Moldavians as they were
-                            arriving, who then fled and dispersed. The Romanians, who were waiting
-                            for them at Turnu Roșu, were startled by the Turks and stopped in their
-                            tracks. They were namely expecting the Romanians to appear at Ilieni,
-                            and Varkocs cut off their line of retreat. The Romanians did indeed very
-                            well to pretend they were fleeing and join György Fráter. 5. The Queen,
-                            together with Petrovics, retreated to Stremț, although it rather seemed
-                            like they were fleeing. Petrovics is said to have lost his mind,
-                            sometimes he keeps staring at people while he is talking, like a
-                            maniac.</p>
+                        <p xml:id="reg.p.1">1. Tamás Varkocs reached Lippa the other day, and he
+                            wants to proceed to Transylvania from there, but it is not clear what
+                            his plan is, since he has large troops, with which he liberated Csanád
+                            from the siege of the Serbians and took several of Petrovics’s castles,
+                            e.g. Nagylak, supposedly so that he can defend more areas. 2. In the
+                            meantime, György Fráter was tricked in the hope of an agreement with the
+                            Queen and Petrovics. He was in a lot of trouble, but got away with it in
+                            the end. The Queen had namely had enough of György Fráter’s repeated
+                            perfidy, and she terminated the agreement on the third day it was in
+                            effect. In the meantime, secret envoys reported that reinforcements were
+                            being sent to Kasim Pasha, and that the Romanians want their troops to
+                            join those of the Turks. The Queen, not being too steadfast, confused
+                            everything and alienated all her peoples from herself and left György
+                            Fráter out of all her plans. 3. György Fráter became mad with rage and
+                            called his people to war with a bloody sword, primarily wanting to
+                            prevent the Moldovans from making a crossing and joining the Turks.
+                            14,000 Moldovans crossed the Oituz river and proceeded to Székelyföld
+                            (Székely Land), from where they headed toward Sebeș to join the Turks
+                            and the Romanians. 4. György Fráter set up camp in Târgu Mureș, which
+                            was a good strategic decision. There are two ways to access Transylvania
+                            from Moldavia: through the narrow Oituz, and from the thick forests
+                            around Rodna. With a 6,000-strong army, György Fráter pounced on the
+                            Moldavians as they were arriving, who then fled and dispersed. The
+                            Romanians, who were waiting for them at Turnu Roșu, were startled by the
+                            Turks and stopped in their tracks. They were namely expecting the
+                            Romanians to appear at Ilieni, and Varkocs cut off their line of
+                            retreat. The Romanians did indeed very well to pretend they were fleeing
+                            and join György Fráter. 5. The Queen, together with Petrovics, retreated
+                            to Stremț, although it rather seemed like they were fleeing. Petrovics
+                            is said to have lost his mind, sometimes he keeps staring at people
+                            while he is talking, like a maniac.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Antonius Wrancius Nicolao Olaho salutem.</p>
-                <p>[1.] Proximis diebus <persName>Thomas Varcotius</persName><note
-                        type="critic">Tamás Varkocs or Varkoch (†1576). After Mohács, he was loyal
-                        to King John I and Queen Isabella Jagiellon but then he changed sides. He
-                        became Captain of Eger, Captain of Oradea from 1549, and <hi rend="italic"
-                            >ispán</hi> of Bihar county, see <hi rend="smallcap">Csiffáry</hi>
-                        2004.</note> permissos Turcas in Transsylvaniam promovere, quo consilio
-                    dubium praesertim, quod longe erant ipsius exercitu pauciores,
-                        <placeName>Cianadinum</placeName><note type="critic">Cenad.</note> obsidione
-                    liberavit, multa in Rascianos et praeda et caede edita, et inde latius propagata
-                    victoria, castellis quoque quibusdam Petrovianis<note type="critic">The
-                        adherents of Péter Petrovics.</note> potitus. Inter quae potiora sunt:
+                <p xml:id="p.1">Antonius Wrancius Nicolao Olaho salutem.</p>
+                <p xml:id="p.2">[1.] Proximis diebus <persName>Thomas Varcotius</persName><note
+                        type="critic" xml:id="note.1">Tamás Varkocs or Varkoch (†1576). After
+                        Mohács, he was loyal to King John I and Queen Isabella Jagiellon but then he
+                        changed sides. He became Captain of Eger, Captain of Oradea from 1549, and
+                            <hi rend="italic">ispán</hi> of Bihar county, see <hi rend="smallcap"
+                            >Csiffáry</hi> 2004.</note> permissos Turcas in Transsylvaniam
+                    promovere, quo consilio dubium praesertim, quod longe erant ipsius exercitu
+                    pauciores, <placeName>Cianadinum</placeName><note type="critic" xml:id="note.2"
+                        >Cenad.</note> obsidione liberavit, multa in Rascianos et praeda et caede
+                    edita, et inde latius propagata victoria, castellis quoque quibusdam
+                        Petrovianis<note type="critic" xml:id="note.3">The adherents of Péter
+                        Petrovics.</note> potitus. Inter quae potiora sunt:
                         <placeName>Nagylak</placeName>, <placeName>Ciallia</placeName>,<note
-                        type="critic">Probably Đala.</note>
-                    <placeName>Mako</placeName>, <placeName>Egeresth</placeName><note type="critic"
+                        type="critic" xml:id="note.4">Probably
+                        Đala.</note><placeName>Mako</placeName>,
+                        <placeName>Egeresth</placeName><note type="critic" xml:id="note.5"
                         >Igriș.</note> et <placeName>Orozlanos</placeName>;<note type="critic"
-                        >Banatsko Aranđelovo.</note> hisque in locis castris positis et possessis
-                    castellis dicitur servare se rebus adhuc et momentis maioribus. Ita certe, si e
-                    Transsylvania quoque Turcas redeuntes denuo se videre simulabit. </p>
-                <p>[2.] Haec dum aguntur foris per <persName>Varcotium</persName>,
-                        <persName>Heremita</persName><note type="critic">George Martinuzzi.</note>
-                    in Transsylvania deceptus concordiae fiducia, quam cum
-                        <persName>regina</persName><note type="critic">Queen Isabella
-                        Jagiellon.</note> et <persName>Petrovio</persName><note type="critic">Péter
-                        Petrovics.</note> confecerat, adiit grave periculum, quod tamen evasit. Cum
-                    enim omnibus in his obtemperaturum sese reginae fide obstrinxisset, propter quae
-                    in illum commota esse videbatur, promisisset insuper omnia impensa de suo Turcis
-                    reponere, et pro more donativum mittere, si modo et ipsa eos sine ulla dilatione
-                    regno amandandos curaret: tantum abest, ut et ipsa promissis suis stare
-                    voluerit, et <persName>Heremitae</persName> diu poenitudine et deditione
-                    contenta fuerit, ut III. die a concordia ipsum libellum concordiae illi
-                    remiserit adiecto: respuere se eius obsequia, partamque secum paulo ante
-                    concordiam nolle habere ratam. Sedulo inde sub indutiarum tempore sollicitato
-                    Turca clandestinis nuntiis, ut <persName>Kaszuno</persName><note type="critic"
+                        xml:id="note.6">Banatsko Aranđelovo.</note> hisque in locis castris positis
+                    et possessis castellis dicitur servare se rebus adhuc et momentis maioribus. Ita
+                    certe, si e Transsylvania quoque Turcas redeuntes denuo se videre simulabit. </p>
+                <p xml:id="p.3">[2.] Haec dum aguntur foris per <persName>Varcotium</persName>,
+                        <persName>Heremita</persName><note type="critic" xml:id="note.7">George
+                        Martinuzzi.</note> in Transsylvania deceptus concordiae fiducia, quam cum
+                        <persName>regina</persName><note type="critic" xml:id="note.8">Queen
+                        Isabella Jagiellon.</note> et <persName>Petrovio</persName><note
+                        type="critic" xml:id="note.9">Péter Petrovics.</note> confecerat, adiit
+                    grave periculum, quod tamen evasit. Cum enim omnibus in his obtemperaturum sese
+                    reginae fide obstrinxisset, propter quae in illum commota esse videbatur,
+                    promisisset insuper omnia impensa de suo Turcis reponere, et pro more donativum
+                    mittere, si modo et ipsa eos sine ulla dilatione regno amandandos curaret:
+                    tantum abest, ut et ipsa promissis suis stare voluerit, et
+                        <persName>Heremitae</persName> diu poenitudine et deditione contenta fuerit,
+                    ut III. die a concordia ipsum libellum concordiae illi remiserit adiecto:
+                    respuere se eius obsequia, partamque secum paulo ante concordiam nolle habere
+                    ratam. Sedulo inde sub indutiarum tempore sollicitato Turca clandestinis
+                    nuntiis, ut <persName>Kaszuno</persName><note type="critic" xml:id="note.10"
                         >Suleiman I sent Gazi Kasim Pasha to get help. George Martinuzzi was
                         captured, and the Sultan removed him from the Treasury and Procuratorship,
                         see <hi rend="smallcap">Oborni</hi> 2017, 204; and <hi rend="smallcap"
@@ -253,47 +308,51 @@
                     commodissima offerebatur, permanere. Sic omnibus rebus perturbatis subita
                     mutatione muliebri omnes populos eius provinciae ab se alienavit,
                         <persName>Heremitam</persName> vero in suis coeptis etiam securiorem fecit. </p>
-                <p>[3.] Uno enim tempore accepto a <persName>regina</persName> concordiae
-                    libello auditoque hinc Turcarum, illinc Valacchorum inopinato ingressu, commotus
-                    et in furorem quendam incensus, ut qui iam conquieverat in fiducia pacis, et
-                    pergebat ea curare, quae sedandis regni usus exigebat, repente emisso per
-                    provinciam sanguineo veru,<note type="critic"><hi rend="italic">veru</hi>
-                        meaning ‘sword’, see <hi rend="smallcap">DuCange</hi> 1883. According to the
-                        old Hungarian chronicles, the Huns and the Scythians called people to war by
-                        brandishing a bloody sword.</note> ut apud gentem nostram in subitis et
-                    gravibus rebus fieri consuevit, denuo omnes populos in arma invocaret, quamquam
-                    alioqui destituta regina ultro iam ad eum confluere inceperat statuitque
-                    Moldavis prius occurrere eo consilio, ut prohiberet, ne cum Turcis
-                    coniungerentur, ea etiam spe, ut si hos mature repulissent, et Transalpini et
-                    Turcae ab ulteriore progressu arcerentur. Nec cessit ei tanti consilii tantaeque
-                    spei exitus infeliciter. Ingressa erant Moldavorum XIIII millia per viam
-                        <placeName>Oytoz</placeName><note type="critic">Oituz.</note> in Seculiam.
-                    Illinc per <placeName>Burciae</placeName><note type="critic">Brașov.</note>
-                    campos, penes <placeName>Aluta</placeName><note type="critic">Olt.</note> flumen
-                    et oppidum <placeName>Prasmarinum</placeName>,<note type="critic"
+                <p xml:id="p.4">[3.] Uno enim tempore accepto a <persName>regina</persName>
+                    concordiae libello auditoque hinc Turcarum, illinc Valacchorum inopinato
+                    ingressu, commotus et in furorem quendam incensus, ut qui iam conquieverat in
+                    fiducia pacis, et pergebat ea curare, quae sedandis regni usus exigebat, repente
+                    emisso per provinciam sanguineo veru,<note type="critic" xml:id="note.11"><hi
+                            rend="italic">veru</hi> meaning ‘sword’, see <hi rend="smallcap"
+                            >DuCange</hi> 1883. According to the old Hungarian chronicles, the Huns
+                        and the Scythians called people to war by brandishing a bloody sword.</note>
+                    ut apud gentem nostram in subitis et gravibus rebus fieri consuevit, denuo omnes
+                    populos in arma invocaret, quamquam alioqui destituta regina ultro iam ad eum
+                    confluere inceperat statuitque Moldavis prius occurrere eo consilio, ut
+                    prohiberet, ne cum Turcis coniungerentur, ea etiam spe, ut si hos mature
+                    repulissent, et Transalpini et Turcae ab ulteriore progressu arcerentur. Nec
+                    cessit ei tanti consilii tantaeque spei exitus infeliciter. Ingressa erant
+                    Moldavorum XIIII millia per viam <placeName>Oytoz</placeName><note type="critic"
+                        xml:id="note.12">Oituz.</note> in Seculiam. Illinc per
+                        <placeName>Burciae</placeName><note type="critic" xml:id="note.13"
+                        >Brașov.</note> campos, penes <placeName>Aluta</placeName><note
+                        type="critic" xml:id="note.14">Olt.</note> flumen et oppidum
+                        <placeName>Prasmarinum</placeName>,<note type="critic" xml:id="note.15"
                         >Prejmer.</note> deinde per Segesvarinorum agrum, relictae arcae Fogarasina
                     a sinistra parte et Cibiniensio urbe, a <placeName>Saxosabesu</placeName>,<note
-                        type="critic">Sebeș.</note> a sinistra parte iter habere et ad Saxosabesiam
-                    conterminam cum Turcis et Transalpinis coniungi animus erat.</p>
-                <p>[4.] <persName>Heremita</persName> ad
-                        <placeName>Vasarhelium</placeName><note type="critic">Târgu Mureș.</note>
-                    oppidum, metropolim Seculorum, cum suis copiis consederat, loco sane patenti et
-                    ad rem bene gerendam valde opportuno, sive acie foret decertandum, sive
-                    obsistendum barbaris, utravis via irrupissent. Nam in ea Transsylvaniae plaga
-                    duae potissimum semitae sunt ex Moldavia in Transsylvaniam: altera Oytoz, quae
-                        <placeName>Brassoviae</placeName><note type="critic">Brașov.</note> imminet,
-                    altera <placeName>Radnabania</placeName>,<note type="critic">Rodna.</note> quae
-                        <placeName>Bistriciae</placeName>; illaque sola currulis est et nonnihil
-                    lata, haec angustissima et silvarum densitate impedita, vixque equiti pervia.
-                    Prodeuntibus itaque Moldavis igitur ubi primum constitit Heremitae Moldavos esse
-                    in provincia, extemplo in eos VI millia equitum misit et praecepit congredi.
-                    Verum territi Valacchi incursu Heremitanorum repente terga verserunt, fusique
-                    statim sua ignavia, sine et sanguine et negotio reiecti sunt in suos fines.
-                    Eorum casu Transalpini quoque, qui iam per <placeName>Turrim
-                        Rubeam</placeName><note type="critic">Turnu Roșu.</note>
-                    <placeName>Cibinio</placeName><note type="critic">Sibiu.</note> adiacentem iuxta
-                    Alutam flumen irrumpebant, repressi; iniectus et Turcis metus. Ii enim ad
-                        <placeName>pagum Ilye</placeName>,<note type="critic">Ilieni.</note> paulo
+                        type="critic" xml:id="note.16">Sebeș.</note> a sinistra parte iter habere et
+                    ad Saxosabesiam conterminam cum Turcis et Transalpinis coniungi animus erat.</p>
+                <p xml:id="p.5">[4.] <persName>Heremita</persName> ad
+                        <placeName>Vasarhelium</placeName><note type="critic" xml:id="note.17">Târgu
+                        Mureș.</note> oppidum, metropolim Seculorum, cum suis copiis consederat,
+                    loco sane patenti et ad rem bene gerendam valde opportuno, sive acie foret
+                    decertandum, sive obsistendum barbaris, utravis via irrupissent. Nam in ea
+                    Transsylvaniae plaga duae potissimum semitae sunt ex Moldavia in Transsylvaniam:
+                    altera Oytoz, quae <placeName>Brassoviae</placeName><note type="critic"
+                        xml:id="note.18">Brașov.</note> imminet, altera
+                        <placeName>Radnabania</placeName>,<note type="critic" xml:id="note.19"
+                        >Rodna.</note> quae <placeName>Bistriciae</placeName>; illaque sola currulis
+                    est et nonnihil lata, haec angustissima et silvarum densitate impedita, vixque
+                    equiti pervia. Prodeuntibus itaque Moldavis igitur ubi primum constitit
+                    Heremitae Moldavos esse in provincia, extemplo in eos VI millia equitum misit et
+                    praecepit congredi. Verum territi Valacchi incursu Heremitanorum repente terga
+                    verserunt, fusique statim sua ignavia, sine et sanguine et negotio reiecti sunt
+                    in suos fines. Eorum casu Transalpini quoque, qui iam per <placeName>Turrim
+                        Rubeam</placeName><note type="critic" xml:id="note.20">Turnu
+                        Roșu.</note><placeName>Cibinio</placeName><note type="critic"
+                        xml:id="note.21">Sibiu.</note> adiacentem iuxta Alutam flumen irrumpebant,
+                    repressi; iniectus et Turcis metus. Ii enim ad <placeName>pagum
+                        Ilye</placeName>,<note type="critic" xml:id="note.22">Ilieni.</note> paulo
                     infra montem Aranyos nuncupatum in dextera Marisi amnis situm, Devensi arce in
                     altera ripa, duobus circiter milliaribus a tergo dimissa substiterunt,
                     opperientes Valacchorum <choice>
@@ -313,18 +372,19 @@
                     consenserunt (quod fama fertur), ut ei ultro primam de se victoriae partem
                     concesserint, fugam simulati; sed nos non aeque commendandi, si et eis et nobis
                     ipsis defuerimus. </p>
-                <p>[5.] <persName>Regina</persName> in arcem
-                        <placeName>Dyd</placeName><note type="critic">Stremț.</note> concessit cum
-                        <persName>Petrovio</persName>, nimirum iam sola cum solo. Quae profectio
-                    fugae mihi videtur esse similis, eaque omnino comprobabitur, si inde ad
-                    Gialuanam arcem descenderit. De <persName>Petrovio</persName> multa insana,
-                    vitam eius solitudinem et gemitus et suspiria esse aiunt. Visus est non semel in
-                    proximum immigrasse e curia redeundo, suum existimans, et in colloquiis saepe
-                    subito quodam stupore conticescere, intueri tamen in homines, ut in
-                    contemplatione solent a spiritu rapti. Deus et eis mentem restituat, et
-                    Transsylvaniae opem afferat. Hic sunt quieta omnia, credo causa absentiae
-                    Turcae. A praesidiis tantum nostris expilamur et subigimur. Vale. </p>
-                <p>15. Novembris 1550. <placeName>Agriae</placeName>.</p>
+                <p xml:id="p.6">[5.] <persName>Regina</persName> in arcem
+                        <placeName>Dyd</placeName><note type="critic" xml:id="note.23"
+                        >Stremț.</note> concessit cum <persName>Petrovio</persName>, nimirum iam
+                    sola cum solo. Quae profectio fugae mihi videtur esse similis, eaque omnino
+                    comprobabitur, si inde ad Gialuanam arcem descenderit. De
+                        <persName>Petrovio</persName> multa insana, vitam eius solitudinem et
+                    gemitus et suspiria esse aiunt. Visus est non semel in proximum immigrasse e
+                    curia redeundo, suum existimans, et in colloquiis saepe subito quodam stupore
+                    conticescere, intueri tamen in homines, ut in contemplatione solent a spiritu
+                    rapti. Deus et eis mentem restituat, et Transsylvaniae opem afferat. Hic sunt
+                    quieta omnia, credo causa absentiae Turcae. A praesidiis tantum nostris
+                    expilamur et subigimur. Vale. </p>
+                <p xml:id="p.7">15. Novembris 1550. <placeName>Agriae</placeName>.</p>
             </div>
         </body>
     </text>

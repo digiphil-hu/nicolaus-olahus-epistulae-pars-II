@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">483</title>
-                <title type="main">Miklós Oláh to Cornelis de Schepper (Brussels, 24 April
-                    1534)</title>
+                <title key="body" n="483" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    24 April 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340424_1</idno>
-                
+                <idno type="PID">olahus.tei.15340424_1</idno>
+                <idno type="ITIdata">Q473145</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340424_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,32 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
-                            <ref>/o:olahus.tei.15340228_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340228_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 493.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 493.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 305–306.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 305–306; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1746–1749.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340228_1" type="url">460</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15340228_1" type="url">460</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -137,11 +140,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,73 +214,71 @@
             </textClass>
             <creation>
                 <date when="1534-04-24">24 April 1534</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 24 April
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has learned from his letter that he has been delayed because of the
-                            floods. Everyone is well here, except for Mark Lauwerijns, who has
-                            traveled to Antwerp to have his illness treated, which Schepper
-                            obviously also knows about. 2. He does not like what has happened to
-                            Ibrahim Pargalı Pasha, nor Lodovico Gritti’s delay; he hopes it is not a
-                            trap. He should help him return, and he wishes Schepper safe travels.
-                            Schepper’s appointment to councilor has been signed and sent. Were
-                            people not so dumb, there has never been a better time to save
+                        <p xml:id="reg.p.1">1. He has learned from his letter that he has been
+                            delayed because of the floods. Everyone is well here, except for Mark
+                            Lauwerijns, who has traveled to Antwerp to have his illness treated,
+                            which Schepper obviously also knows about. 2. He does not like what has
+                            happened to Ibrahim Pargalı Pasha, nor Lodovico Gritti’s delay; he hopes
+                            it is not a trap. He should help him return, and he wishes Schepper safe
+                            travels. Schepper’s appointment to councilor has been signed and sent.
+                            Were people not so dumb, there has never been a better time to save
                             Europe.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolao Olai ad Cornelium Sceperum. </p>
-                <p>[1.] Ex litteris tuis ultima Februarii <placeName>Lubianae</placeName>
-                        datis<note type="critic">Ep. 460.</note><ref>/o:olahus.tei.15340228_1</ref>
-                    intellexi te sanum esse, et istic haesisse aliquantisper ob aquarum
-                    inundationem. Scito tuos quoque omnes hic sanos esse, praeter
-                        <persName>decanum</persName>,<note type="critic">Mark Lauwerijns.</note> qui
-                    nuper veteris sui <del corresp="Olahus">more</del><add corresp="Olahus"
-                        type="corr">morbi</add>, tibi, ut arbitror, non <add corresp="Olahus"
-                        type="insert">ignoti</add>, curandi gratia <del corresp="Olahus"
-                        >huc</del><add corresp="Olahus" type="corr">hinc</add> diverterat
-                        <placeName>Antverpiam</placeName>, ubi adhuc est in manibus chirurgi. Ex
-                    catapotiis inciderat in dysenteriam. Iam valet melius. Credo eum convaliturum. </p>
-                <p>[2.] <persName>Ibrahimi</persName><note type="critic">Ibrahim Pargalı
-                        Pasha.</note> eventus mihi non satis placuit, vellem infra finem rerum
-                    salvus fuisset. Nam si res in manus alterius devenerit, nescio, an faciliter sit
-                    progressus. Nemo est omnium, quem mora <persName>Gryti</persName><note
-                        type="critic">Lodovico Gritti.</note> non commoverit, verentur omnes, ne
-                    fraus lateat in rebus. Quae voluisti referri, <persName>reginae</persName>
-                    retuli, tibi in meis rebus diligentem curam habituro ago gratias non minimas.
-                    Fac deinceps quoque, ut eandem, quam coepisti et in qua nihil dubito habeas
-                    sollicitudinem, ut me hinc, si dis placet, reducas. Tu perfectis istic ex
-                    sententia rebus omnibus redi feliciter. Iam consiliaritus tuus confectus est,
-                    subscripserunt financiarii omnes. Litteras per <persName>decanum</persName>
-                    <placeName>Brugas</placeName> ad <persName>uxorem</persName><note type="critic"
-                        >Anna Isabella (Elizabeth) Donche.</note> nuper misimus. Nisi homines
-                    plumbei et plusquam caudices essent, nulla melior occasio data fuisset aliquid
-                    praeclare agendi, quam nunc, dum vires omnes ab Europa excesserunt. Scis, quid
-                    velim. Mitto ad te litteras <persName>coniugis</persName> tuae cum aliorum
-                    literis, vale, mei et mearum <milestone unit="pb"/>rerum non immemor. Iterum vale. </p>
-                <p><placeName>Bruxellae</placeName> 24. Aprilis 1534.</p>
+                <p xml:id="p.1">Nicolao Olai ad Cornelium Sceperum. </p>
+                <p xml:id="p.2">[1.] Ex litteris tuis ultima Februarii
+                        <placeName>Lubianae</placeName> datis<note type="critic" xml:id="note.1">Ep.
+                            460.<ref>olahus.tei.15340228_1</ref></note> intellexi te sanum esse, et
+                    istic haesisse aliquantisper ob aquarum inundationem. Scito tuos quoque omnes
+                    hic sanos esse, praeter <persName>decanum</persName>,<note type="critic"
+                        xml:id="note.2">Mark Lauwerijns.</note> qui nuper veteris sui <del
+                        corresp="Olahus">more</del><add corresp="Olahus" type="corr">morbi</add>,
+                    tibi, ut arbitror, non <add corresp="Olahus" type="insert">ignoti</add>, curandi
+                    gratia <del corresp="Olahus">huc</del><add corresp="Olahus" type="corr"
+                        >hinc</add> diverterat <placeName>Antverpiam</placeName>, ubi adhuc est in
+                    manibus chirurgi. Ex catapotiis inciderat in dysenteriam. Iam valet melius.
+                    Credo eum convaliturum. </p>
+                <p xml:id="p.3">[2.] <persName>Ibrahimi</persName><note type="critic"
+                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> eventus mihi non satis
+                    placuit, vellem infra finem rerum salvus fuisset. Nam si res in manus alterius
+                    devenerit, nescio, an faciliter sit progressus. Nemo est omnium, quem mora
+                        <persName>Gryti</persName><note type="critic" xml:id="note.4">Lodovico
+                        Gritti.</note> non commoverit, verentur omnes, ne fraus lateat in rebus.
+                    Quae voluisti referri, <persName>reginae</persName> retuli, tibi in meis rebus
+                    diligentem curam habituro ago gratias non minimas. Fac deinceps quoque, ut
+                    eandem, quam coepisti et in qua nihil dubito habeas sollicitudinem, ut me hinc,
+                    si dis placet, reducas. Tu perfectis istic ex sententia rebus omnibus redi
+                    feliciter. Iam consiliaritus tuus confectus est, subscripserunt financiarii
+                    omnes. Litteras per <persName>decanum</persName><placeName>Brugas</placeName> ad
+                        <persName>uxorem</persName><note type="critic" xml:id="note.5">Anna Isabella
+                        (Elizabeth) Donche.</note> nuper misimus. Nisi homines plumbei et plusquam
+                    caudices essent, nulla melior occasio data fuisset aliquid praeclare agendi,
+                    quam nunc, dum vires omnes ab Europa excesserunt. Scis, quid velim. Mitto ad te
+                    litteras <persName>coniugis</persName> tuae cum aliorum literis, vale, mei et
+                    mearum <milestone unit="pb"/>rerum non immemor. Iterum vale. </p>
+                <p xml:id="p.4"><placeName>Bruxellae</placeName> 24. Aprilis 1534.</p>
             </div>
         </body>
     </text>

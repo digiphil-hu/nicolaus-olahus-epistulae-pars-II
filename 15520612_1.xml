@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">817</title>
-                <title type="main">István Dobó to Miklós Oláh (Eger, 12 June 1552)</title>
+                <title key="body" n="817" type="main">István Dobó to Miklós Oláh (Eger, 12 June
+                    1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520612_1</idno>
-                
+                <idno type="PID">olahus.tei.15520612_1</idno>
+                <idno type="ITIdata">Q473475</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520612_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -131,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -144,114 +201,115 @@
             </textClass>
             <creation>
                 <date when="1552-06-12">12 June 1552</date>
-                <placeName>Eger</placeName>
+                <placeName>Eger<idno type="ITIdata">Q277</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>István Dobó </persName>
-                    <orgName/>
+                    <persName>István Dobó <idno type="ITIdata">Q252235</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1552-06-17"/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">István Dobó to Miklós Oláh (Eger, 12 June 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has reported to Oláh about what they have heard from the Turkish
-                            prisoner both via mail and through Gergely Horváth. The Pasha of Buda
-                            returned after he occupied Veszprém, now he is waiting at the field of
-                            Rákos to see Kara Ahmed Pasha’s movements before deciding about
-                            besieging the castle of Eger. He is rumoured to be building a bridge,
-                            and István Losonczy has gone there to fight him. Since Oláh knows well
-                            how many men are available to defend the castle, Dobó asks him to send
-                            reinforcements. 2. Furthermore, he should instruct Gáspár Pető, István
-                            Zolthay, and Márton Káldy to save themselves for defending the castle,
-                            and he should instruct the leaders of the county to defend the castle.
-                            3. He is doing what he can, if anything bad still happens, it will not
-                            be his fault but due to the fact that there are too few people. He wants
-                            to increase the number of infantrymen to 300. He should give a new horse
-                            to the young man who is handing this over if his own horse is dead, in
-                            order to make sure he can return to him with the news more quickly.</p>
+                        <p xml:id="reg.p.1">1. He has reported to Oláh about what they have heard
+                            from the Turkish prisoner both via mail and through Gergely Horváth. The
+                            Pasha of Buda returned after he occupied Veszprém, now he is waiting at
+                            the field of Rákos to see Kara Ahmed Pasha’s movements before deciding
+                            about besieging the castle of Eger. He is rumoured to be building a
+                            bridge, and István Losonczy has gone there to fight him. Since Oláh
+                            knows well how many men are available to defend the castle, Dobó asks
+                            him to send reinforcements. 2. Furthermore, he should instruct Gáspár
+                            Pető, István Zolthay, and Márton Káldy to save themselves for defending
+                            the castle, and he should instruct the leaders of the county to defend
+                            the castle. 3. He is doing what he can, if anything bad still happens,
+                            it will not be his fault but due to the fact that there are too few
+                            people. He wants to increase the number of infantrymen to 300. He should
+                            give a new horse to the young man who is handing this over if his own
+                            horse is dead, in order to make sure he can return to him with the news
+                            more quickly.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendissime Domine, Domine mihi semper Gratiosissime, servitiorum
-                    meorum debitam perpetuamque exhibitionem!<note type="critic">On this letter, see
-                            <hi rend="smallcap">Szántó</hi> 1972; and <hi rend="smallcap"
-                            >Szántó</hi> 1977.</note></p>
-                <p>[1.] Negotia Turcarum quomodo hic agantur et quo mihi sunt per Turcum
-                    captivum relata, Dominationi Vestrae Reverendissimae antea quoque et per
-                        postam<note type="critic">See Ep.
-                        816.</note><ref>/o:olahus.tei.15520607_1</ref> et per servitorem
+                <p xml:id="p.1">Reverendissime Domine, Domine mihi semper Gratiosissime, servitiorum
+                    meorum debitam perpetuamque exhibitionem!<note type="critic" xml:id="note.1">On
+                        this letter, see <hi rend="smallcap">Szántó</hi> 1972; and <hi
+                            rend="smallcap">Szántó</hi> 1977.</note></p>
+                <p xml:id="p.2">[1.] Negotia Turcarum quomodo hic agantur et quo mihi sunt per
+                    Turcum captivum relata, Dominationi Vestrae Reverendissimae antea quoque et per
+                        postam<note type="critic" xml:id="note.2">See Ep.
+                            816.<ref>olahus.tei.15520607_1</ref></note> et per servitorem
                     Dominationis Vestrae Reverendissimae egregium <persName>Gregorium
-                        Horwath</persName><note type="critic">Gergely Horváth (†1552) was cavalryan
-                        captain and Dobó’s messenger, see <hi rend="smallcap">Sugár</hi> 1969, 221;
-                        and <hi rend="smallcap">Csiffáry</hi> 2003, 292.</note> perscripsi.
-                    Qualiterque <persName>Budensis bassa</persName><note type="critic">Hadim Ali
-                        Pasha.</note> expugnato <placeName>Vesprimio</placeName><note type="critic"
+                        Horwath</persName><note type="critic" xml:id="note.3">Gergely Horváth
+                        (†1552) was cavalryan captain and Dobó’s messenger, see <hi rend="smallcap"
+                            >Sugár</hi> 1969, 221; and <hi rend="smallcap">Csiffáry</hi> 2003,
+                        292.</note> perscripsi. Qualiterque <persName>Budensis bassa</persName><note
+                        type="critic" xml:id="note.4">Hadim Ali Pasha.</note> expugnato
+                        <placeName>Vesprimio</placeName><note type="critic" xml:id="note.5"
                         >Veszprém.</note> reversus sit, credo Dominationi Vestrae Reverendissimae
                     apertius quam mihi constare. Nunc est in castris in campo
                         <placeName>Rakos</placeName> certoque mihi nuntiatum est, exspectare dicitur
-                    motum <persName>Ahmath bassae</persName><note type="critic">Kara Ahmed
-                        Pasha.</note> et ubi motum illius intelligeret, habere intentionem arcem
-                    hanc Dominationis Vestrae Reverendissimae obsidere. Ille vero pontem iam struit
-                    super Danubium et dicitur se movisse, contra quem dicitur magnificus dominus
-                        <persName>Stephanus de Lossoncz</persName><note type="critic">István
-                        Losonczy.</note> etc., si quid proficere posset, profectus esse. Quare cum
-                    Dominatio Vestra Reverendissima aperte intelligit, ego quo numero gentium ad
-                    conservationem huius arcis hic sim, regia quoque <persName>maiestas</persName>
-                    quantam copiam equitum et peditum ad defensionem eiusdem arcis hic teneat,
-                    supplico Dominationi Vestrae Reverendissimae tamquam Domino Gratiosissimo,
-                    dignetur eadem Dominatio Vestra Reverendissima de opportuno subsidio quantum ad
-                    gentium copiam necesse est, eo modo mature providere, ne in tam amplissima arce
-                    prae paucitate gentium inopinate subruamur et (quod Deus avertat) tempore
-                    Dominationis Vestrae Reverendissimae per Turcam capiatur. </p>
-                <p>[2.] Praeterea dignetur Dominatio Vestra Reverendissima dominis
-                        <persName>Gaspar Pethew</persName>,<note type="critic">Gáspár Pető (†after
-                        1561) was Cavalry Officer of Eger castle in 1552, see <hi rend="smallcap"
-                            >Csiffáry</hi> 2003, 267 and 323–324.</note>
-                    <persName>Stephano Zolthay</persName><note type="critic">István Zoltay was
-                        Cavalry Officer of Eger castle in 1552, see <hi rend="smallcap"
-                            >Csiffáry</hi> 2003, 347–350.</note> et <persName>Martino
-                        Kaldy</persName><note type="critic">Márton Káldy was pedestrian captain, see
-                            <hi rend="smallcap">Szántó</hi> 1972, 201.</note> capitaneis hic
-                    constitutis per litteras mandare, ut et ipsi conservationi arcis se tenere
-                    debeant, similiter et ad comitatus superiores litteras dare, ut illi quoque
-                    saluti eorum consulendum de maturo subsidio arcis providere curent. </p>
-                <p>[3.] Ego quantum proficere possum, de eo Dominationi Vestrae
+                    motum <persName>Ahmath bassae</persName><note type="critic" xml:id="note.6">Kara
+                        Ahmed Pasha.</note> et ubi motum illius intelligeret, habere intentionem
+                    arcem hanc Dominationis Vestrae Reverendissimae obsidere. Ille vero pontem iam
+                    struit super Danubium et dicitur se movisse, contra quem dicitur magnificus
+                    dominus <persName>Stephanus de Lossoncz</persName><note type="critic"
+                        xml:id="note.7">István Losonczy.</note> etc., si quid proficere posset,
+                    profectus esse. Quare cum Dominatio Vestra Reverendissima aperte intelligit, ego
+                    quo numero gentium ad conservationem huius arcis hic sim, regia quoque
+                        <persName>maiestas</persName> quantam copiam equitum et peditum ad
+                    defensionem eiusdem arcis hic teneat, supplico Dominationi Vestrae
+                    Reverendissimae tamquam Domino Gratiosissimo, dignetur eadem Dominatio Vestra
+                    Reverendissima de opportuno subsidio quantum ad gentium copiam necesse est, eo
+                    modo mature providere, ne in tam amplissima arce prae paucitate gentium
+                    inopinate subruamur et (quod Deus avertat) tempore Dominationis Vestrae
+                    Reverendissimae per Turcam capiatur. </p>
+                <p xml:id="p.3">[2.] Praeterea dignetur Dominatio Vestra Reverendissima dominis
+                        <persName>Gaspar Pethew</persName>,<note type="critic" xml:id="note.8"
+                        >Gáspár Pető (†after 1561) was Cavalry Officer of Eger castle in 1552, see
+                            <hi rend="smallcap">Csiffáry</hi> 2003, 267 and
+                        323–324.</note><persName>Stephano Zolthay</persName><note type="critic"
+                        xml:id="note.9">István Zoltay was Cavalry Officer of Eger castle in 1552,
+                        see <hi rend="smallcap">Csiffáry</hi> 2003, 347–350.</note> et
+                        <persName>Martino Kaldy</persName><note type="critic" xml:id="note.10"
+                        >Márton Káldy was pedestrian captain, see <hi rend="smallcap">Szántó</hi>
+                        1972, 201.</note> capitaneis hic constitutis per litteras mandare, ut et
+                    ipsi conservationi arcis se tenere debeant, similiter et ad comitatus superiores
+                    litteras dare, ut illi quoque saluti eorum consulendum de maturo subsidio arcis
+                    providere curent. </p>
+                <p xml:id="p.4">[3.] Ego quantum proficere possum, de eo Dominationi Vestrae
                     Reverendissimae in me nihil diffidat, verum (quod Deus avertat), si quid
                     sinistri huic arci contigerit, protestor <add corresp="Olahus" type="insert"
                         >regiae maiestati et</add> Dominationi Vestrae Reverendissimae non me, sed
                     paucitatem hominum in ea existentem esse in causa. Ego propriori instructioni
                     numerum trecentorum peditum complere curavi, ad conquerendumque pedites centum
                     iam dimisi, pro eo Dominatio Vestra Reverendissima absque ulla mora dignetur
-                    super omnibus mihi citissimam <milestone unit="pb"/>facere relationem. Commisi adolescenti meo, ut si etiam equus ubi ad
-                    Vestram perveniet, Reverendissima Dominatio, illico morietur, cursu tamen celeri
-                    ad eandem Vestram Dominationem Reverendissimam festinare debeat, quod si fit, ut
-                    moreretur, dignetur Dominatio Vestra iterum equum alterum adolescenti meo dare,
-                    ut citissime redeat. Si etiam ille morietur loco illius quoque, Dominationi
-                    Vestrae Reverendissimae alterum dare sum paratus. Tantum est, ut Dominatio
-                    Vestra Reverendissima super omnibus mihi informationem citissimam dare dignetur.
-                    Restat, quod Dominationem Vestram Reverendissimam felicissime valere
-                    desidero.</p>
-                <p>Datum in <placeName>arce Agriensi</placeName> 12. Iunii anno Domini
+                    super omnibus mihi citissimam <milestone unit="pb"/>facere relationem. Commisi
+                    adolescenti meo, ut si etiam equus ubi ad Vestram perveniet, Reverendissima
+                    Dominatio, illico morietur, cursu tamen celeri ad eandem Vestram Dominationem
+                    Reverendissimam festinare debeat, quod si fit, ut moreretur, dignetur Dominatio
+                    Vestra iterum equum alterum adolescenti meo dare, ut citissime redeat. Si etiam
+                    ille morietur loco illius quoque, Dominationi Vestrae Reverendissimae alterum
+                    dare sum paratus. Tantum est, ut Dominatio Vestra Reverendissima super omnibus
+                    mihi informationem citissimam dare dignetur. Restat, quod Dominationem Vestram
+                    Reverendissimam felicissime valere desidero.</p>
+                <p xml:id="p.5">Datum in <placeName>arce Agriensi</placeName> 12. Iunii anno Domini
                     1552.</p>
-                <p>Eiusdem Dominationis Vestrae Reverendissimae deditissimus servitor</p>
-                <p>
+                <p xml:id="p.6">Eiusdem Dominationis Vestrae Reverendissimae deditissimus
+                    servitor</p>
+                <p xml:id="p.7">
                     <seg type="signature">Stephanus Dobo de Rwzka.</seg>
                 </p>
-                <p>
+                <p xml:id="p.8">
                     <add corresp="Olahus" type="insert">C. Copia litterarum Stephani Dobo.</add>
                 </p>
             </div>

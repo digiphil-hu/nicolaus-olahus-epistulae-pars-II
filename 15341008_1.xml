@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">510</title>
-                <title type="main">Elek Thurzó to Miklós Oláh (Vienna, 8 October 1534)</title>
+                <title key="body" n="510" type="main">Elek Thurzó to Miklós Oláh (Vienna, 8 October
+                    1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15341008_1</idno>
-                
+                <idno type="PID">olahus.tei.15341008_1</idno>
+                <idno type="ITIdata">Q473171</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15341008_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                        <ref>/o:olahus.tei.15340727_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. <ref>/o:olahus.tei.15340727_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 526–528.</note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 526–528.</note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340727_1" type="url">499</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15340727_1" type="url">499</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -133,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,58 +207,57 @@
             </textClass>
             <creation>
                 <date when="1534-10-08">8 October 1534</date>
-                <placeName>Vienna </placeName>
+                <placeName>Vienna <idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Elek Thurzó</persName>
-                    <orgName/>
+                    <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Elek Thurzó to Miklós Oláh (Vienna, 8 October 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He repeats that in these turbulent times the old benevolence cannot be
-                            expressed every day. He feels that he has not fared better since King
-                            Louis II died; what is more, during the last few years devastation has
-                            become commonplace, and he cannot recover Oláh’s possessions either
-                            through the King’s or his own authority. He has tried to influence him
-                            in private, but he does not allow anything to be returned; what is more,
-                            he will strive even more to have royal permission to possess what he has
-                            now. 2. He thanks him for the information; he only has news of dubious
-                            origins. Schepper is said to have claimed that the Sultan is arranging
-                            everything through Lodovico Gritti. Gritti has killed Imre Czibak with
-                            the help of János Dóczy and Orbán Batthyány, which has all of
-                            Transylvania in uproar; following this Gritti is besieging Mediaș.
-                            Thurzó does not think there is much hope for peace, and although not
-                            everything is looking grim, he is indeed anxious day and night. </p>
+                        <p xml:id="reg.p.1">1. He repeats that in these turbulent times the old
+                            benevolence cannot be expressed every day. He feels that he has not
+                            fared better since King Louis II died; what is more, during the last few
+                            years devastation has become commonplace, and he cannot recover Oláh’s
+                            possessions either through the King’s or his own authority. He has tried
+                            to influence him in private, but he does not allow anything to be
+                            returned; what is more, he will strive even more to have royal
+                            permission to possess what he has now. 2. He thanks him for the
+                            information; he only has news of dubious origins. Schepper is said to
+                            have claimed that the Sultan is arranging everything through Lodovico
+                            Gritti. Gritti has killed Imre Czibak with the help of János Dóczy and
+                            Orbán Batthyány, which has all of Transylvania in uproar; following this
+                            Gritti is besieging Mediaș. Thurzó does not think there is much hope for
+                            peace, and although not everything is looking grim, he is indeed anxious
+                            day and night. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Alexius Turzo comes locumtenens regis Ferdinandi in Hungaria etc.
+                <p xml:id="p.1">Alexius Turzo comes locumtenens regis Ferdinandi in Hungaria etc.
                     Olao.</p>
-                <p>[1.] Reverende Domine, Amice Honorande, salutem plurimam. Scribit<note
-                        type="critic">Ep. 499.</note><ref>/o:olahus.tei.15340727_1</ref> Dominatio
-                    Vestra recreatam se, quod visis litteris nostris cognoverit non mutatam esse
-                    nostram in se benevolentiam veterem. Nos tamen et nuper scripsimus<note
-                        type="critic">Ep. 480. Cap. 1.</note><ref>/o:olahus.tei.15340413_3</ref> et
-                    modo repetimus temporum malignitatem esse in <milestone unit="pb"/>causa, quod quotidianis eam experimentis non videt declarari. Nam ut
-                    breviter multa comprehendamus, nihilo fere meliori condicione sumus, quam cum
-                    statim post serenissimi piae memoriae regis <persName>Ludovici</persName><note
-                        type="critic">King Loius II.</note> mortem fueramus, nisi quod non ita
+                <p xml:id="p.2">[1.] Reverende Domine, Amice Honorande, salutem plurimam.
+                        Scribit<note type="critic" xml:id="note.1">Ep.
+                            499.<ref>olahus.tei.15340727_1</ref></note> Dominatio Vestra recreatam
+                    se, quod visis litteris nostris cognoverit non mutatam esse nostram in se
+                    benevolentiam veterem. Nos tamen et nuper scripsimus<note type="critic"
+                        xml:id="note.2">Ep. 480. Cap. 1.<ref>olahus.tei.15340413_3</ref></note> et
+                    modo repetimus temporum malignitatem esse in <milestone unit="pb"/>causa, quod
+                    quotidianis eam experimentis non videt declarari. Nam ut breviter multa
+                    comprehendamus, nihilo fere meliori condicione sumus, quam cum statim post
+                    serenissimi piae memoriae regis <persName>Ludovici</persName><note type="critic"
+                        xml:id="note.3">King Loius II.</note> mortem fueramus, nisi quod non ita
                     sedulo ultro citroque caedibus incumbitur, raptu tamen et violentia, quibus isti
                     strenuitatem, ut ita dicamus, sitam putant, omnia fervent. Si non est fervere,
                     mordicus tenere, quod et ante aliquot annos et quotidie occupata sunt et
@@ -212,46 +272,47 @@
                     si quid desideratae lucis illucescet, vel si qua occasio rebus Dominationis
                     Vestrae serviens se offeret, non est dubitandum, quin statim rursus hominem
                     omnibus quibus licebit modis aggrediamur. </p>
-                <p>[2.] Quod novarum, quae in partibus illis sunt, nos reddiderit
+                <p xml:id="p.3">[2.] Quod novarum, quae in partibus illis sunt, nos reddiderit
                     participes, habemus illi gratiam. Nos hinc nihil praeter incertum fortunae
                     eventum scribere possumus. Quandoquidem de <persName>Cornelii</persName><note
-                        type="critic">Cornelis de Schepper.</note> adventu, de quo et Dominatio
-                    Vestra scribit, nihil aliud haurire potuimus praeterquam, quod populari fama
-                    circumfertur dixisse, scilicet illum Turcarum tyrannum omnia per
-                        <persName>Grittium</persName><note type="critic">Lodovico Gritti.</note>
-                    esse transacturum, sed diu ille exspectatus (quod quidem et partibus illis
-                    iampridem notum esse arbitramur) Transsilvaniam attigit,
+                        type="critic" xml:id="note.4">Cornelis de Schepper.</note> adventu, de quo
+                    et Dominatio Vestra scribit, nihil aliud haurire potuimus praeterquam, quod
+                    populari fama circumfertur dixisse, scilicet illum Turcarum tyrannum omnia per
+                        <persName>Grittium</persName><note type="critic" xml:id="note.5">Lodovico
+                        Gritti.</note> esse transacturum, sed diu ille exspectatus (quod quidem et
+                    partibus illis iampridem notum esse arbitramur) Transsilvaniam attigit,
                         <persName>Ioanni</persName> imprimis, et proceribus illius necem
                     machinaturus; et primum evocatum officii nomine in occursum suum
-                        <persName>Emericum Cibak</persName>,<note type="critic">Imre Czibak.</note>
-                    <persName>Ioanne Doczy</persName><note type="critic">János Dóczy (†1534) was
-                        Royal Chamberlain from 1515. After Mohács, he first accompanied King John I,
-                        later taking Gritti’s side. He was executed together with Gritti on 29
-                        September, 1534 in Mediaș.</note> et <persName>Urbano
-                        Batthyany</persName><note type="critic">Orbán Batthyány (†1547) studied on
-                        the University of Padua, and became Royal Secretary in 1523. After Mohács,
-                        he changed sides many times. First he was an adherent of King Ferdinand I,
-                        then of King John I, followed Lodovico Gritti until Gritti’s death, and
-                        finally was an adherent of Queen Isabelle, except for a short time when he
-                        was appointed Captain of Szeged (1541–1542). See <hi rend="smallcap"
-                            >Kasza</hi> 2012, 522.</note> sceleris ducibus, addita Turcarum manu
-                    noctu aggressum trucidavit, ob id tota ea regio Transsylvania, cum amore viri,
-                    tum libertatis in illum concitata convenit. Illum in oppidum
-                        <placeName>Meggies</placeName><note type="critic">Mediaș.</note> conclusum
-                    obsedit obstinato animo. Intelligimus et modo premi illum obsidione. Quid
-                    futurum sit, evadatne aliqua calliditate deceptis obsidentibus <milestone unit="pb"/>aut delinitis eorum animis, an istic vitae finem sortiatur, incertum
-                    est. Ita illius opera veteranus hostis in perniciem nostram abuti instituerat.
-                    Quis enim ab exortu tyrannidis illius audivit provinciam aliquam armis contritam
-                    alteri cuipiam tradere, quam sibi reservare Turcas maluisse. De tranquillitate
-                    futura propterea nihil certi divinare licet, quod alia exspectantur illo huc
-                    adveniente, si captivitatem et mortem evadat, alia item ab illius obitu, quae
-                    omnia in incerto posita sunt. Ita cum nondum ullum tot malorum finem certum
-                    videamus, dies et noctes animo excruciamur. Gauderemus profecto inter cetera, si
-                        <persName>maiestas reginalis</persName>, domina nostra gratiosissima huc
-                    aliquando <persName>maiestatem regiam fratrem</persName>, bona denique et
-                    servitores suos nos inviseret. Cui, ut Dominatio Vestra nostra servitia sedulo
-                    commendet, rogamus, et valeat feliciter. </p>
-                <p>Ex <placeName>Vienna</placeName> VIII. die Octobris anno Domini
+                        <persName>Emericum Cibak</persName>,<note type="critic" xml:id="note.6">Imre
+                        Czibak.</note><persName>Ioanne Doczy</persName><note type="critic"
+                        xml:id="note.7">János Dóczy (†1534) was Royal Chamberlain from 1515. After
+                        Mohács, he first accompanied King John I, later taking Gritti’s side. He was
+                        executed together with Gritti on 29 September, 1534 in Mediaș.</note> et
+                        <persName>Urbano Batthyany</persName><note type="critic" xml:id="note.8"
+                        >Orbán Batthyány (†1547) studied on the University of Padua, and became
+                        Royal Secretary in 1523. After Mohács, he changed sides many times. First he
+                        was an adherent of King Ferdinand I, then of King John I, followed Lodovico
+                        Gritti until Gritti’s death, and finally was an adherent of Queen Isabelle,
+                        except for a short time when he was appointed Captain of Szeged (1541–1542).
+                        See <hi rend="smallcap">Kasza</hi> 2012, 522.</note> sceleris ducibus,
+                    addita Turcarum manu noctu aggressum trucidavit, ob id tota ea regio
+                    Transsylvania, cum amore viri, tum libertatis in illum concitata convenit. Illum
+                    in oppidum <placeName>Meggies</placeName><note type="critic" xml:id="note.9"
+                        >Mediaș.</note> conclusum obsedit obstinato animo. Intelligimus et modo
+                    premi illum obsidione. Quid futurum sit, evadatne aliqua calliditate deceptis
+                    obsidentibus <milestone unit="pb"/>aut delinitis eorum animis, an istic vitae
+                    finem sortiatur, incertum est. Ita illius opera veteranus hostis in perniciem
+                    nostram abuti instituerat. Quis enim ab exortu tyrannidis illius audivit
+                    provinciam aliquam armis contritam alteri cuipiam tradere, quam sibi reservare
+                    Turcas maluisse. De tranquillitate futura propterea nihil certi divinare licet,
+                    quod alia exspectantur illo huc adveniente, si captivitatem et mortem evadat,
+                    alia item ab illius obitu, quae omnia in incerto posita sunt. Ita cum nondum
+                    ullum tot malorum finem certum videamus, dies et noctes animo excruciamur.
+                    Gauderemus profecto inter cetera, si <persName>maiestas reginalis</persName>,
+                    domina nostra gratiosissima huc aliquando <persName>maiestatem regiam
+                        fratrem</persName>, bona denique et servitores suos nos inviseret. Cui, ut
+                    Dominatio Vestra nostra servitia sedulo commendet, rogamus, et valeat feliciter. </p>
+                <p xml:id="p.4">Ex <placeName>Vienna</placeName> VIII. die Octobris anno Domini
                     1534.</p>
             </div>
         </body>

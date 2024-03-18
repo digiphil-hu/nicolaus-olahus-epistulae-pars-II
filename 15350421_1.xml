@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">535</title>
-                <title type="main">Camillo Ghilino to Miklós Oláh ([Rome?], 21 April 1535)</title>
+                <title key="body" n="535" type="main">Camillo Ghilino to Miklós Oláh ([Rome?], 21
+                    April 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15350421_1</idno>
-                
+                <idno type="PID">olahus.tei.15350421_1</idno>
+                <idno type="ITIdata">Q473195</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15350421_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 552.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 552.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,66 +202,63 @@
             </textClass>
             <creation>
                 <date when="1535-04-21">21 April 1535</date>
-                <placeName>[Rome?]</placeName>
+                <placeName>[Rome?]<idno type="ITIdata">Q12590</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Camillo Ghilino</persName>
-                    <orgName/>
+                    <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Camillo Ghilino to Miklós Oláh ([Rome?], 21 April 1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He was happy to receive Oláh’s letter, from which he learned that his
-                            letter on the Roman, Hispanic, and African issues has also arrived.
-                            Francesco II Sforza has written about the rest to the Queen, he can
-                            learn about all the details from her. He has given the sword Oláh
-                            requested to a merchant from Milan called Carolus. He hopes that he will
-                            like it, and he will soon get a hilt and additional decorative elements
-                            to go with it, as well as a sheath made of gold-threaded silk. They are
-                            expecting news on the Gall. </p>
+                        <p xml:id="reg.p.1">He was happy to receive Oláh’s letter, from which he
+                            learned that his letter on the Roman, Hispanic, and African issues has
+                            also arrived. Francesco II Sforza has written about the rest to the
+                            Queen, he can learn about all the details from her. He has given the
+                            sword Oláh requested to a merchant from Milan called Carolus. He hopes
+                            that he will like it, and he will soon get a hilt and additional
+                            decorative elements to go with it, as well as a sheath made of
+                            gold-threaded silk. They are expecting news on the Gall. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Idem Nicolao Olao suo salutem. </p>
-                <p>Gratissimae mihi fuerunt litterae tuae, quas VIII. Aprilis ad me
-                        dedisti,<note type="critic">We do not know this letter.</note> ex his
-                    cognovi meas ad vos incolumes pervenisse cum Urbanis, Hispanis et Aphricanis
-                    rebus. Reliquae, quae post ad <persName>principem</persName><note type="critic"
-                        >Francesco II Sforza.</note> meum pervenerunt, <persName>reginae</persName>
+                <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
+                <p xml:id="p.2">Gratissimae mihi fuerunt litterae tuae, quas VIII. Aprilis ad me
+                        dedisti,<note type="critic" xml:id="note.1">We do not know this
+                        letter.</note> ex his cognovi meas ad vos incolumes pervenisse cum Urbanis,
+                    Hispanis et Aphricanis rebus. Reliquae, quae post ad
+                        <persName>principem</persName><note type="critic" xml:id="note.2">Francesco
+                        II Sforza.</note> meum pervenerunt, <persName>reginae</persName>
                     serenissimae dominae nostrae per eundem uberrime scribuntur, tu de ista
                     intelliges. Ensem, quem efflagitasti, <persName>Carolo</persName><note
-                        type="critic">We do not know him more closely. In a previous letter, Ghilino
-                        mentioned another merchant from Milan negotiating in Antwerp, called Giacomo
-                        Fagnano, see Ep. 490. He also said that Madame Souvastre would take the
-                        sword to Oláh, see Ep.
-                        528.</note><ref>/o:olahus.tei.15340531_1</ref><ref>/o:olahus.tei.15350209_1</ref>
+                        type="critic" xml:id="note.3">We do not know him more closely. In a previous
+                        letter, Ghilino mentioned another merchant from Milan negotiating in
+                        Antwerp, called Giacomo Fagnano, see Ep. 490. He also said that Madame
+                        Souvastre would take the sword to Oláh, see Ep.
+                            528.<ref>olahus.tei.15340531_1</ref></note><ref>/o:olahus.tei.15350209_1</ref>
                     negotiatori Mediolanensi, qui mercaturam <placeName>Antverpiae</placeName>
                     facit, dedi. Is, ut spero, tibi arridebit, et propediem habebis capulum et
                     reliqua, ornamenta inaurata opere striato sunt et theca ex serico viloso cum
                     gladiolis inauratis. Principes mei te resalutant et diligunt, exitum rerum
                     Cymbricarum avide exspectamus. Vale, Amicorum Optime, et me, ut facis, ama.
-                        <persName>Sceperum</persName><note type="critic">Cornelis de
+                        <persName>Sceperum</persName><note type="critic" xml:id="note.4">Cornelis de
                         Schepper.</note> et reliquos amicos ex me <choice>
                         <orig>iubis</orig>
                         <supplied>iubebis</supplied>
                     </choice> salvere. Iterum vale. </p>
-                <p>Ex vico Iovis<note type="critic">See Ep.
-                        533.</note><ref>/o:olahus.tei.15350402_1</ref> XXI. Aprilis MDXXXV.</p>
+                <p xml:id="p.3">Ex vico Iovis<note type="critic" xml:id="note.5">See Ep.
+                            533.<ref>olahus.tei.15350402_1</ref></note> XXI. Aprilis MDXXXV.</p>
             </div>
         </body>
     </text>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">745</title>
-                <title type="main">Antal Verancsics to Miklós Oláh (Vienna, 2 September
-                    1550)</title>
+                <title key="body" n="745" type="main">Antal Verancsics to Miklós Oláh (Vienna, 2
+                    September 1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15500902_1</idno>
-                
+                <idno type="PID">olahus.tei.15500902_1</idno>
+                <idno type="ITIdata">Q473402</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15500902_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Szalay</hi> 1865, 97–102.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Szalay</hi> 1865, 97–102.</note>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15501023_1" type="url">750</ref>
+                        <ref target="15501023_1" type="url">750</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -134,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,101 +207,101 @@
             </textClass>
             <creation>
                 <date when="1550-09-02">2 September 1550</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Antal Verancsics</persName>
-                    <orgName/>
+                    <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Antal Verancsics to Miklós Oláh (Vienna, 2 September 1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. It has been two months since he last wrote to Oláh, but he will
-                            forgive him. He did not have any money for the Augsburg trip, so he
-                            wanted to travel to Eger, but he only made it to Sárvár, where he was
-                            Nádasdy’s guest for six days. On the way back to Vienna he contracted
-                            tertian malaria, and it took him 22 days to recover, but he is already
-                            planning his trip to Eger. 2. He has nothing to complain about as far as
-                            his friends go. However, he is really sorry that he cannot be of service
-                            to Oláh in Augsburg, and he cannot see the Emperor, but a better
-                            opportunity may arise another time. His plan is to go to Eger to look
-                            after his affairs and raise money, then he will wait in Vienna for Oláh
-                            to return. Nádasdy’s headache radiated into his back, but he is better
-                            now. 3. George Martinuzzi and Péter Petrovics are said to have gathered
-                            at the same camp in Transylvania, and they are recruiting soldiers in
-                            Oradea and Debrecen. The conflict between Martinuzzi and Petrovics got
-                            out of hand at the last assembly: according to Martinuzzi, Petrovics’s
-                            Turkish officer lied, but he says that he told the truth, and he is the
-                            Sultan’s real legate. Verancsics says that both are lying, and they are
-                            selling out the freedom of their homeland for a pittance. 4. In the last
-                            few years, István Majláth and Boldizsár Bornemissza have been competing
-                            with each other, but while the former has stayed on the right path, the
-                            latter hoped to become a permanent voivode, and he wanted to occupy
-                            Transylvania with Martinuzzi’s help. However, Martinuzzi deceived
-                            Bornemissza, and Majláth was imprisoned by the Turks. 5. It is a
-                            different story with the neighbours, they are playing games, according
-                            to Verancsics, only to obstruct him, but they are wrong to want to avoid
-                            this alliance. Oláh should forgive him for talking about them in anger.
-                            6. As to Oláh’s house, he cannot write about it because he has not seen
-                            it yet as he has been bedridden, but he has asked Bona and Johann
-                            Serifaber to look after it. He asks him again to help him become lector
-                            of Esztergom because he could be of more help to Oláh that way, but he
-                            does not want to let go of his Eger benefice, either.</p>
+                        <p xml:id="reg.p.1">1. It has been two months since he last wrote to Oláh,
+                            but he will forgive him. He did not have any money for the Augsburg
+                            trip, so he wanted to travel to Eger, but he only made it to Sárvár,
+                            where he was Nádasdy’s guest for six days. On the way back to Vienna he
+                            contracted tertian malaria, and it took him 22 days to recover, but he
+                            is already planning his trip to Eger. 2. He has nothing to complain
+                            about as far as his friends go. However, he is really sorry that he
+                            cannot be of service to Oláh in Augsburg, and he cannot see the Emperor,
+                            but a better opportunity may arise another time. His plan is to go to
+                            Eger to look after his affairs and raise money, then he will wait in
+                            Vienna for Oláh to return. Nádasdy’s headache radiated into his back,
+                            but he is better now. 3. George Martinuzzi and Péter Petrovics are said
+                            to have gathered at the same camp in Transylvania, and they are
+                            recruiting soldiers in Oradea and Debrecen. The conflict between
+                            Martinuzzi and Petrovics got out of hand at the last assembly: according
+                            to Martinuzzi, Petrovics’s Turkish officer lied, but he says that he
+                            told the truth, and he is the Sultan’s real legate. Verancsics says that
+                            both are lying, and they are selling out the freedom of their homeland
+                            for a pittance. 4. In the last few years, István Majláth and Boldizsár
+                            Bornemissza have been competing with each other, but while the former
+                            has stayed on the right path, the latter hoped to become a permanent
+                            voivode, and he wanted to occupy Transylvania with Martinuzzi’s help.
+                            However, Martinuzzi deceived Bornemissza, and Majláth was imprisoned by
+                            the Turks. 5. It is a different story with the neighbours, they are
+                            playing games, according to Verancsics, only to obstruct him, but they
+                            are wrong to want to avoid this alliance. Oláh should forgive him for
+                            talking about them in anger. 6. As to Oláh’s house, he cannot write
+                            about it because he has not seen it yet as he has been bedridden, but he
+                            has asked Bona and Johann Serifaber to look after it. He asks him again
+                            to help him become lector of Esztergom because he could be of more help
+                            to Oláh that way, but he does not want to let go of his Eger benefice,
+                            either.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem!</p>
-                <p>[1.] Quod iam a duobus ferme mensibus nihil scripserim,<note
-                        type="critic">We know his previous letter of 2 July, 1550, see Ep.
-                        742.</note><ref>/o:olahus.tei.15500702_1</ref> veniam dabis. Acceptis <milestone unit="pb"/>enim a <persName>vicario</persName><note type="critic">We do not know
-                        him more closely.</note> tuo litteris, quibus de installatione duntaxat mea
-                    et de cura quartarum vinearum molarumque mearum commissa adolescenti meo
-                    rescribebat, cui minime volueram, ut inhabili tanto oneri: de spe pecuniae, quam
-                    itineri Augustano deputaveram, ne litteram quidem. Sic inita voluntate
-                    conferendi me <placeName>Agriam</placeName><note type="critic">Verancsics
-                        received the canonry of Eger in 1550.</note> profectus sum, ut par erat, ad
-                        <persName>Nadasdinum</persName><note type="critic">Tamás Nádasdy.</note>
-                    consilii gratia. Qui dum eundum esse consulit iubetque opperiri saginam equorum
-                    meorum, qui ad id tempus in pratis apud eum fuerant, detinuit me <del
-                        corresp="author">ad</del> sextilem totum, pancratice tractando in Sarvarinis
-                        hortis.<note type="critic">Tamás Nádasdy’s castle was located in
-                        Sárvár.</note> Redeunti inde febris tertiana occurrit in itinere meque
-                        <placeName>Viennam</placeName> usque deduxit, ubi datis curationi XXII
-                    diebus restitutus sum pristinae valetudini. Nunc iam hoc triduo
+                <p xml:id="p.1">Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem!</p>
+                <p xml:id="p.2">[1.] Quod iam a duobus ferme mensibus nihil scripserim,<note
+                        type="critic" xml:id="note.1">We know his previous letter of 2 July, 1550,
+                        see Ep. 742.<ref>olahus.tei.15500702_1</ref></note> veniam dabis. Acceptis
+                        <milestone unit="pb"/>enim a <persName>vicario</persName><note type="critic"
+                        xml:id="note.2">We do not know him more closely.</note> tuo litteris, quibus
+                    de installatione duntaxat mea et de cura quartarum vinearum molarumque mearum
+                    commissa adolescenti meo rescribebat, cui minime volueram, ut inhabili tanto
+                    oneri: de spe pecuniae, quam itineri Augustano deputaveram, ne litteram quidem.
+                    Sic inita voluntate conferendi me <placeName>Agriam</placeName><note
+                        type="critic" xml:id="note.3">Verancsics received the canonry of Eger in
+                        1550.</note> profectus sum, ut par erat, ad
+                        <persName>Nadasdinum</persName><note type="critic" xml:id="note.4">Tamás
+                        Nádasdy.</note> consilii gratia. Qui dum eundum esse consulit iubetque
+                    opperiri saginam equorum meorum, qui ad id tempus in pratis apud eum fuerant,
+                    detinuit me <del corresp="author">ad</del> sextilem totum, pancratice tractando
+                    in Sarvarinis hortis.<note type="critic" xml:id="note.5">Tamás Nádasdy’s castle
+                        was located in Sárvár.</note> Redeunti inde febris tertiana occurrit in
+                    itinere meque <placeName>Viennam</placeName> usque deduxit, ubi datis curationi
+                    XXII diebus restitutus sum pristinae valetudini. Nunc iam hoc triduo
                         <placeName>Agriam</placeName> cogito, ut ipsemet prospiciam rebus meis.</p>
-                <p>[2.] Nec est, ut <milestone unit="pb"/>ingenue dicam, quod de amico querar. Quis enim adeo vel pius vel
-                    sanctus est, qui pecunia his temporibus facile gratificetur, aut subveniat
-                    amicitiis, cum undique insultet vicinus hostis, et metum de mutandis sedibus
-                    quotidie iniiciat? Exempla huius rei quilibet ex se petat, et in alium aequior
-                    erit. Igitur quicquid est hic mihi incommodi, vicario tuo certe non invitus
-                    condonavi. Illud tamen gravius habet, quod in celebritate et frequentia tantorum
-                    principum tibi non inserviverim, nec viderim <persName>Carolum
-                        imperatorem</persName>, quo me etiam infortunatiorem puto. At forsan dabitur
-                    postea aptior huic desiderio commoditas, et fruemur eius aspectu luculentius.
-                    Ceterum quod ad me perscripseris de sollicitudine et studio tuo ad nos redeundi,
-                    clementissimo principe annuente, meque monueris, te ut
+                <p xml:id="p.3">[2.] Nec est, ut <milestone unit="pb"/>ingenue dicam, quod de amico
+                    querar. Quis enim adeo vel pius vel sanctus est, qui pecunia his temporibus
+                    facile gratificetur, aut subveniat amicitiis, cum undique insultet vicinus
+                    hostis, et metum de mutandis sedibus quotidie iniiciat? Exempla huius rei
+                    quilibet ex se petat, et in alium aequior erit. Igitur quicquid est hic mihi
+                    incommodi, vicario tuo certe non invitus condonavi. Illud tamen gravius habet,
+                    quod in celebritate et frequentia tantorum principum tibi non inserviverim, nec
+                    viderim <persName>Carolum imperatorem</persName>, quo me etiam infortunatiorem
+                    puto. At forsan dabitur postea aptior huic desiderio commoditas, et fruemur eius
+                    aspectu luculentius. Ceterum quod ad me perscripseris de sollicitudine et studio
+                    tuo ad nos redeundi, clementissimo principe annuente, meque monueris, te ut
                         <placeName>Viennae</placeName> opperiar, humanitati tuae, Mitissime Praesul,
-                    atque amori, quo es in <milestone unit="pb"/>me, ascribo, agoque tibi et habeo ingentes gratias, faceremque, quod
-                    mones, longe certe libentius, quam quod institui. Quis enim per impacata loca,
-                    perque militum stationes homo aris magis quam armis assuetus libens vagetur?
-                    Verum impensis Augustanae caritati, quam ferunt esse immensam, non sufficio.
-                    Alioqui expeditissime <placeName>Agriam</placeName> proficiscar, eoque animo, ut
-                    constitutis rebus meis, pecuniaque aliqua comparata, ad <choice>
+                    atque amori, quo es in <milestone unit="pb"/>me, ascribo, agoque tibi et habeo
+                    ingentes gratias, faceremque, quod mones, longe certe libentius, quam quod
+                    institui. Quis enim per impacata loca, perque militum stationes homo aris magis
+                    quam armis assuetus libens vagetur? Verum impensis Augustanae caritati, quam
+                    ferunt esse immensam, non sufficio. Alioqui expeditissime
+                        <placeName>Agriam</placeName> proficiscar, eoque animo, ut constitutis rebus
+                    meis, pecuniaque aliqua comparata, ad <choice>
                         <orig>fustissimum</orig>
                         <supplied>faustissimum</supplied>
                     </choice> reditum tuum <placeName>Viennam</placeName> regrediar quam maturrime.
@@ -255,54 +315,55 @@
                         <supplied>pleuritidem</supplied>
                     </choice> eruperat. Mature tamen occursum est, iamque, ut accepi,
                     consurrexit.</p>
-                <p>[3.] De rebus novis referam audita. In Transsylvania dicunt
-                        <persName>Heremitam</persName><note type="critic">George Martinuzzi. He was
-                        a Pauline monk from the 1510s, see <hi rend="smallcap">Oborni</hi> 2017,
-                        40.</note> et <persName>Petrovium</persName><note type="critic">Péter
-                        Petrovics or Petar Petrović (ca. 1486–1557) was <hi rend="italic">ispán</hi>
-                        of Temes county from 1534, Commander of Timișoara, and loyal to King John I.
-                        He supported the Reformation in the Kingdom of Hungary. See <hi
-                            rend="smallcap">Varga</hi> 2020a; and <hi rend="smallcap">Varga</hi>
-                        2020b. According to the last will of King John I, Martinuzzi and Petrovics
-                        were the guardians of the future King John Sigismund, see <hi
-                            rend="smallcap">Oborni</hi> 2017, 68.</note>
-                    <milestone unit="pb"/> mutuo incensis animis in castra cum expeditis copiis
-                    descendisse. Huic favere Turcas et Valacchos ambos iussu
+                <p xml:id="p.4">[3.] De rebus novis referam audita. In Transsylvania dicunt
+                        <persName>Heremitam</persName><note type="critic" xml:id="note.6">George
+                        Martinuzzi. He was a Pauline monk from the 1510s, see <hi rend="smallcap"
+                            >Oborni</hi> 2017, 40.</note> et <persName>Petrovium</persName><note
+                        type="critic" xml:id="note.7">Péter Petrovics or Petar Petrović (ca.
+                        1486–1557) was <hi rend="italic">ispán</hi> of Temes county from 1534,
+                        Commander of Timișoara, and loyal to King John I. He supported the
+                        Reformation in the Kingdom of Hungary. See <hi rend="smallcap">Varga</hi>
+                        2020a; and <hi rend="smallcap">Varga</hi> 2020b. According to the last will
+                        of King John I, Martinuzzi and Petrovics were the guardians of the future
+                        King John Sigismund, see <hi rend="smallcap">Oborni</hi> 2017,
+                        68.</note><milestone unit="pb"/> mutuo incensis animis in castra cum
+                    expeditis copiis descendisse. Huic favere Turcas et Valacchos ambos iussu
                         <persName>Solymani</persName>; illi adhaerere Transsylvanos, Intratibiscanam
                     nobilitatem, et quotidie <placeName>Varadini</placeName> ac
                         <placeName>Debrecenii</placeName> delectus fieri. Proximo conventu missi
                     erant ex Turcia in alterutrum ciausi, eoque controversiarum ventum est, ut
-                        <persName>Heremitanus</persName><note type="critic">Georg Martinuzzi.</note>
-                    palam declamitarit <persName>Petrovianum</persName> mentitum esse ciausum,
-                    nihilque de eius legatione vel caesari vel passis constare. Hic contra verum se
-                    et caesarianum esse ciausum affirmare, nihil praeterea iactare in adversarium
-                    iniuriarum, et subinde dicere, caesarianum sese esse nuntium, a quocumque ille
-                    venisset nihil sibi curae esse, et <persName>Solymanum</persName> ita esse
-                    potentem, ita regnorum abundantem, ut uno duntaxat nuntio non uteretur, multos
-                    quotidie ad diversas gentes obligare. Sic mihi visi sunt illi duo Parides
-                    Transsylvaniae <milestone unit="pb"/><persName>Amphytrionem</persName><note
-                        type="critic">The protagonist in <hi rend="italic">Amphytrion</hi> by
+                        <persName>Heremitanus</persName><note type="critic" xml:id="note.8">Georg
+                        Martinuzzi.</note> palam declamitarit <persName>Petrovianum</persName>
+                    mentitum esse ciausum, nihilque de eius legatione vel caesari vel passis
+                    constare. Hic contra verum se et caesarianum esse ciausum affirmare, nihil
+                    praeterea iactare in adversarium iniuriarum, et subinde dicere, caesarianum sese
+                    esse nuntium, a quocumque ille venisset nihil sibi curae esse, et
+                        <persName>Solymanum</persName> ita esse potentem, ita regnorum abundantem,
+                    ut uno duntaxat nuntio non uteretur, multos quotidie ad diversas gentes
+                    obligare. Sic mihi visi sunt illi duo Parides Transsylvaniae <milestone
+                        unit="pb"/><persName>Amphytrionem</persName><note type="critic"
+                        xml:id="note.9">The protagonist in <hi rend="italic">Amphytrion</hi> by
                         Plautus.</note> Plautinum egisse de mentito <persName>Sosia</persName>.<note
-                        type="critic">The cunning and lying slave in <hi rend="italic"
-                            >Amphytrion</hi>.</note> Sed o nostrorum caecitatem et stupiditatem plus
-                    quam bubalinam, ne de avaritia quorundam gravius commemorem, qui patriae
-                    libertatem parvo aeri subdiderint, seque <quote>in bubalorum morem anulo naribus
-                        indito</quote><note type="quote">Cf. Erasm. <hi rend="italic">Adag.</hi>
-                        1079. II,I,19. Naribus trahere. “Metaphora mutuo sumpta a bubalis
-                        animantibus, qui anulo in summam narem inserto circumducuntur, non aliter
-                        quam equi freno.”</note> huc illuc rapi patiuntur. De Transsylvanis miseris
-                    loquor, qui et vident et palpant pestes suas, et scientes, quod his evertentur,
-                    ferunt eas, nec volunt rebus suis consulere, recentibusque et domesticis uti
-                    exemplis, quorum referam unum. </p>
-                <p>[4.] Proximis annis <persName>Mailadus</persName><note type="critic"
-                        >István Majláth.</note> noster, homo et vita et libertate non indignus, hoc
-                    prope modo contendebat cum <persName>Balthasare Bornemisza</persName><note
-                        type="critic">Boldizsár Bornemissza of Ártánháza († ca.1549) had possessions
-                        in Szilágy county, see <hi rend="smallcap">Petri</hi> 1903, 197–200.</note>
-                    in eadem Transsylvania. Sed ille dudum iam in lucem et optimatum ordinem relatus
-                    virtute duce, hic <persName>Ioannis</persName><note type="critic">King John
-                        I.</note>
-                    <choice>
+                        type="critic" xml:id="note.10">The cunning and lying slave in <hi
+                            rend="italic">Amphytrion</hi>.</note> Sed o nostrorum caecitatem et
+                    stupiditatem plus quam bubalinam, ne de avaritia quorundam gravius commemorem,
+                    qui patriae libertatem parvo aeri subdiderint, seque <quote xml:id="quote.1">in
+                        bubalorum morem anulo naribus indito</quote><note type="quote"
+                        xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi> 1079. II,I,19.
+                        Naribus trahere. “Metaphora mutuo sumpta a bubalis animantibus, qui anulo in
+                        summam narem inserto circumducuntur, non aliter quam equi freno.”</note> huc
+                    illuc rapi patiuntur. De Transsylvanis miseris loquor, qui et vident et palpant
+                    pestes suas, et scientes, quod his evertentur, ferunt eas, nec volunt rebus suis
+                    consulere, recentibusque et domesticis uti exemplis, quorum referam unum. </p>
+                <p xml:id="p.5">[4.] Proximis annis <persName>Mailadus</persName><note type="critic"
+                        xml:id="note.11">István Majláth.</note> noster, homo et vita et libertate
+                    non indignus, hoc prope modo contendebat cum <persName>Balthasare
+                        Bornemisza</persName><note type="critic" xml:id="note.12">Boldizsár
+                        Bornemissza of Ártánháza († ca.1549) had possessions in Szilágy county, see
+                            <hi rend="smallcap">Petri</hi> 1903, 197–200.</note> in eadem
+                    Transsylvania. Sed ille dudum iam in lucem et optimatum ordinem relatus virtute
+                    duce, hic <persName>Ioannis</persName><note type="critic" xml:id="note.13">King
+                        John I.</note><choice>
                         <orig>regni</orig>
                         <supplied>regis</supplied>
                     </choice> licentia rapinisque paulo supra gregarium militem potitus nominibus,
@@ -312,81 +373,86 @@
                     Transsylvaniam cum imperio sub capitanei titulo, mox ambo eo animos ambitionis
                     erexerunt, ut alter principatum provinciae usurpare, alter voivodatum appetere
                     non dubitarit. Verum <persName>Mailadus</persName> exemplo divi
-                        <persName>Iulii</persName>,<note type="critic">Julius Caesar.</note> qui
-                    legiones dimittere aemulorum coniuratione non audebat, iustiore causa monebatur.
-                    Aut enim sic superanda erat vetus <persName>Heremitae</persName> hostilitas,
-                    provinciaque regi Christiano conservanda, aut evitanda indignitas, ne homini
-                    obscuro et omni pietate atque humanitate carenti casu concedere cogeretur, cum
-                    iam et rerum omnium a <persName>Ioannis</persName> morte potiri anhelabat.
+                        <persName>Iulii</persName>,<note type="critic" xml:id="note.14">Julius
+                        Caesar.</note> qui legiones dimittere aemulorum coniuratione non audebat,
+                    iustiore causa monebatur. Aut enim sic superanda erat vetus
+                        <persName>Heremitae</persName> hostilitas, provinciaque regi Christiano
+                    conservanda, aut evitanda indignitas, ne homini obscuro et omni pietate atque
+                    humanitate carenti casu concedere cogeretur, cum iam et rerum omnium a
+                        <persName>Ioannis</persName> morte potiri anhelabat.
                         <persName>Balthasar</persName> sub ministri imagine et in temporaria
                     praefectura constitutus, rapta occasione ex periculo
-                        <placeName>Budae</placeName>,<note type="critic">Buda fell in 1541. The
-                        castle was besieged and the Turks eventually occupied it by a trick. See
-                        Verancsics’ account on the fall of Buda, <hi rend="smallcap">Kasza</hi>
-                        2021, 353–355.</note> quae obsidione <del corresp="author">partim</del><add
-                        corresp="author" type="corr">primum</add> Germanica,<note type="critic">The
-                        Commander-in-chief of the imperial army was Wilhelm von Roggendorf.</note>
-                    deinde perfìdia Turcica excepta erat, speravit etiam sese posse esse aliquid.
-                    Sic inito spiritu perpetuum vaivodatum <milestone unit="pb"/>consequendi
-                    intendit omnes vires, ut clandestinis praxibus tum fortunam, tum auspicia
-                        <persName>Heremitae</persName> in Transsylvania occuparet. Tanta rei moles
-                    neutri sine Turcae patrocinio poterat succedere. Ad utrumque itaque a passis
-                    caesaris nomine missi sunt ciausi utriusque voluntati graphice accomodati,
-                    actaque per Transsylvanos vel me praesente hic illic crebra comitia, mutuoque
-                    inter sese adversantia, distracta in diversum nobilitas, populique, quocumque
-                    contendentibus libebat, in effascinatorum modum circumducti. Quid demum actum!
-                    Delusus est <persName>Bornemisza</persName> calliditate
-                        <persName>Heremitae</persName>, et a spe voivodatus pecunia abductus.
-                        <persName>Mailadus</persName> Turcae et Moldavi perfìdia in captivitatem
-                    tractus. Sed an eadem tragoedia nunc quoque agatur, quae tunc, vides. Utinam non
-                    eandem finem sortiatur! </p>
-                <p>[5.] De vicinis nostris aliae sunt rationes. Mire ludunt in
-                        <placeName>Zolnoccho</placeName><note type="critic">Szolnok. Before the
-                        siege of 1552, there was only a plank castle here, which was fortified
-                        during 1550–1551, see <hi rend="smallcap">M. Román–Pókász</hi> 2010, 70–72;
-                            <hi rend="smallcap">Kertész–Korpás</hi> 2013.</note> erigendo. Modo <milestone unit="pb"/>intendunt sui metum, modo remittunt. Nec aliud puto, faciunt, quam ut
-                    nos distineant ab his providendis, quibus eis et resistere et officere possemus.
-                    Atsi cui compertum est, quantum eis credi debeat, ego ne minimum quidem dicerem,
-                    etenim nec suam Turcae fìdem habent, nec alienae quicquam tribuunt, et qui se ab
-                    eis amicitia, foederibus atque pecunia tutos fore existimant, <quote>oleum et
-                        operam perdunt.</quote><note type="quote">Proverb. meaning ‘to lose both
-                        time and trouble’, and Plaut. <hi rend="italic">Poen.</hi> 332.</note>
-                    Ingratum est, parum est, vile est, et contemnitur, quicquid porrexeris, nisi et
-                    rapinas et captivitates in tuo fieri patieris. Amicitiam si secum colis, timeri
-                    se certo, non amari ait, et sic fallere foederatum, ne fidei quidem iacturam se
-                    facere arbitratur. Verbosius de his ad te quam fortasse decuisset. Nequeo tamen
-                    non dilatari quasi dolore incensus, cum in pericula Transsylvaniae incido.
-                    Igitur te magnopere peto, ut ignoscas mihi, tibique <milestone unit="pb"/>ac similibus tui de his scribendum esse censeas, non eis, qui ad nulla
-                    mortalium commoda nati sunt, nec publicorum cura tanguntur. </p>
-                <p>[6.] De domo tua,<note type="critic">Oláh bought the Vienna palace of
-                        Pál Várday, the former Archbishop of Esztergom, see Ep.
-                        736.</note><ref>/o:olahus.tei.15500323_1</ref> quo in statu sint nova eius
+                        <placeName>Budae</placeName>,<note type="critic" xml:id="note.15">Buda fell
+                        in 1541. The castle was besieged and the Turks eventually occupied it by a
+                        trick. See Verancsics’ account on the fall of Buda, <hi rend="smallcap"
+                            >Kasza</hi> 2021, 353–355.</note> quae obsidione <del corresp="author"
+                        >partim</del><add corresp="author" type="corr">primum</add> Germanica,<note
+                        type="critic" xml:id="note.16">The Commander-in-chief of the imperial army
+                        was Wilhelm von Roggendorf.</note> deinde perfìdia Turcica excepta erat,
+                    speravit etiam sese posse esse aliquid. Sic inito spiritu perpetuum vaivodatum
+                        <milestone unit="pb"/>consequendi intendit omnes vires, ut clandestinis
+                    praxibus tum fortunam, tum auspicia <persName>Heremitae</persName> in
+                    Transsylvania occuparet. Tanta rei moles neutri sine Turcae patrocinio poterat
+                    succedere. Ad utrumque itaque a passis caesaris nomine missi sunt ciausi
+                    utriusque voluntati graphice accomodati, actaque per Transsylvanos vel me
+                    praesente hic illic crebra comitia, mutuoque inter sese adversantia, distracta
+                    in diversum nobilitas, populique, quocumque contendentibus libebat, in
+                    effascinatorum modum circumducti. Quid demum actum! Delusus est
+                        <persName>Bornemisza</persName> calliditate <persName>Heremitae</persName>,
+                    et a spe voivodatus pecunia abductus. <persName>Mailadus</persName> Turcae et
+                    Moldavi perfìdia in captivitatem tractus. Sed an eadem tragoedia nunc quoque
+                    agatur, quae tunc, vides. Utinam non eandem finem sortiatur! </p>
+                <p xml:id="p.6">[5.] De vicinis nostris aliae sunt rationes. Mire ludunt in
+                        <placeName>Zolnoccho</placeName><note type="critic" xml:id="note.17"
+                        >Szolnok. Before the siege of 1552, there was only a plank castle here,
+                        which was fortified during 1550–1551, see <hi rend="smallcap">M.
+                            Román–Pókász</hi> 2010, 70–72; <hi rend="smallcap">Kertész–Korpás</hi>
+                        2013.</note> erigendo. Modo <milestone unit="pb"/>intendunt sui metum, modo
+                    remittunt. Nec aliud puto, faciunt, quam ut nos distineant ab his providendis,
+                    quibus eis et resistere et officere possemus. Atsi cui compertum est, quantum
+                    eis credi debeat, ego ne minimum quidem dicerem, etenim nec suam Turcae fìdem
+                    habent, nec alienae quicquam tribuunt, et qui se ab eis amicitia, foederibus
+                    atque pecunia tutos fore existimant, <quote xml:id="quote.2">oleum et operam
+                        perdunt.</quote><note type="quote" xml:id="note.quote.2">Proverb. meaning
+                        ‘to lose both time and trouble’, and Plaut. <hi rend="italic">Poen.</hi>
+                        332.</note> Ingratum est, parum est, vile est, et contemnitur, quicquid
+                    porrexeris, nisi et rapinas et captivitates in tuo fieri patieris. Amicitiam si
+                    secum colis, timeri se certo, non amari ait, et sic fallere foederatum, ne fidei
+                    quidem iacturam se facere arbitratur. Verbosius de his ad te quam fortasse
+                    decuisset. Nequeo tamen non dilatari quasi dolore incensus, cum in pericula
+                    Transsylvaniae incido. Igitur te magnopere peto, ut ignoscas mihi, tibique
+                        <milestone unit="pb"/>ac similibus tui de his scribendum esse censeas, non
+                    eis, qui ad nulla mortalium commoda nati sunt, nec publicorum cura tanguntur. </p>
+                <p xml:id="p.7">[6.] De domo tua,<note type="critic" xml:id="note.18">Oláh bought
+                        the Vienna palace of Pál Várday, the former Archbishop of Esztergom, see Ep.
+                            736.<ref>olahus.tei.15500323_1</ref></note> quo in statu sint nova eius
                     aedificia, apparatus, cultus, pictura, ornamenta, quoniam adhuc ipse lectum
                     urgeo, scribere nihil possum, ut quae non viderim. Hortatus tamen sum
-                        <persName>Georgium Bonam</persName><note type="critic">Georg Bona was Oláh’s
-                        brother-in-law.</note> et <persName>Oppolitanum</persName><note
-                        type="critic">Johann Serifaber of Opole (1530–ca.1553) published a
-                        collection of encomions dedicated to King Ferdinand I in 1550, in which he
-                        celebrated the elite of the Hungarian nobility and prelates, including Oláh,
-                        Tamás Nádasdy, and Ferenc Révay, see <hi rend="smallcap">Kiss</hi> 2018,
-                        209, and 211; and <hi rend="smallcap">Truhlář</hi>–<hi rend="smallcap"
-                            >Martínek</hi> 1982, 47–50.</note> tuos, ut eo fungantur officio, quo
-                    pro ceteris omnibus tibi hoc tempore maxime gratificari possunt, quod aliud hinc
-                    nihil nunc magis scire desideras. Non praeteribo etiam de petitione sacerdotii
-                    Strigoniensis. Te etiam atque etiam rogo, mi Praesul, ne velis gravate id a me
-                        <del corresp="author">accipere</del>, nescio, insatiabilitatisne, an
-                    ambitionis, an quiddam tertium dicam, accipere, quoniam certe et parvo potui
-                    semper esse <milestone unit="pb"/>contentus, et praesens fortuna mea finem iam fecit meis cupiditatibus.
-                    Tantum autem abest, ut illud tertium in me suspectum esse possit, ut monarchatu
-                    etiam quopiam maximo divelli abs te nunquam velim, immo insuper ita tibi
-                    inhaerere atque inniti perpetuo decrevi, ut me habeas semper pedisequum
+                        <persName>Georgium Bonam</persName><note type="critic" xml:id="note.19"
+                        >Georg Bona was Oláh’s brother-in-law.</note> et
+                        <persName>Oppolitanum</persName><note type="critic" xml:id="note.20">Johann
+                        Serifaber of Opole (1530–ca.1553) published a collection of encomions
+                        dedicated to King Ferdinand I in 1550, in which he celebrated the elite of
+                        the Hungarian nobility and prelates, including Oláh, Tamás Nádasdy, and
+                        Ferenc Révay, see <hi rend="smallcap">Kiss</hi> 2018, 209, and 211; and <hi
+                            rend="smallcap">Truhlář</hi>–<hi rend="smallcap">Martínek</hi> 1982,
+                        47–50.</note> tuos, ut eo fungantur officio, quo pro ceteris omnibus tibi
+                    hoc tempore maxime gratificari possunt, quod aliud hinc nihil nunc magis scire
+                    desideras. Non praeteribo etiam de petitione sacerdotii Strigoniensis. Te etiam
+                    atque etiam rogo, mi Praesul, ne velis gravate id a me <del corresp="author"
+                        >accipere</del>, nescio, insatiabilitatisne, an ambitionis, an quiddam
+                    tertium dicam, accipere, quoniam certe et parvo potui semper esse <milestone
+                        unit="pb"/>contentus, et praesens fortuna mea finem iam fecit meis
+                    cupiditatibus. Tantum autem abest, ut illud tertium in me suspectum esse possit,
+                    ut monarchatu etiam quopiam maximo divelli abs te nunquam velim, immo insuper
+                    ita tibi inhaerere atque inniti perpetuo decrevi, ut me habeas semper pedisequum
                     obsequentissimum. Quicquid autem visus sum ambisse
                         <placeName>Strigonii</placeName>, alliciebar propinqui commodi facultate,
                     quo tibi expeditius inservire potuissem, nec emisissem alioqui e manu Agriensem
                     meam fortunam primigeniam, eoque etiam haberem carissimam, donantis persona
                     contemplata. Vale. </p>
-                <p><del corresp="author">II</del><add corresp="author" type="corr"
-                    >2</add>. Septembris 1550. <placeName>Viennae</placeName>.</p>
+                <p xml:id="p.8"><del corresp="author">II</del><add corresp="author" type="corr"
+                        >2</add>. Septembris 1550. <placeName>Viennae</placeName>.</p>
             </div>
         </body>
     </text>

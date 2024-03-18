@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">651</title>
-                <title type="main">Miklós Oláh to Hieronymus Adorno ([Korneuburg?], 8 January
-                    1545)</title>
+                <title key="body" n="651" type="main">Miklós Oláh to Hieronymus Adorno
+                    ([Korneuburg?], 8 January 1545)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15450108_1</idno>
-                
+                <idno type="PID">olahus.tei.15450108_1</idno>
+                <idno type="ITIdata">Q473311</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15450108_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,125 +201,124 @@
             </textClass>
             <creation>
                 <date when="1545-01-08">8 January 1545</date>
-                <placeName>[Korneuburg?]</placeName>
+                <placeName>[Korneuburg?]<idno type="ITIdata">Q13364</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Hieronymus Adorno</persName>
-                    <orgName/>
+                    <persName>Hieronymus Adorno<idno type="ITIdata">Q470283</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Hieronymus Adorno ([Korneuburg?], 8 January
                     1545)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He has received Adorno’s letter, in which he writes about his instruction
-                            and letter of accreditation; indeed, Oláh would have arranged for these
-                            already because he is not usually careless. After he read the
-                            instruction, he immediately sent Adam the text he had noted down in his
-                            own hand because Adam knows how to write to the Turks and the Pashas on
-                            behalf of the ruler. But he does not know what happened next because
-                            Adam was waiting for further instructions, which Oláh thought Adorno had
-                            already sent to him, so he was at ease about it. Adorno should hurry
-                            Adam, and they should prepare the instruction at last, which will also
-                            need to be accompanied by a letter of recommendation.</p>
+                        <p xml:id="reg.p.1">He has received Adorno’s letter, in which he writes
+                            about his instruction and letter of accreditation; indeed, Oláh would
+                            have arranged for these already because he is not usually careless.
+                            After he read the instruction, he immediately sent Adam the text he had
+                            noted down in his own hand because Adam knows how to write to the Turks
+                            and the Pashas on behalf of the ruler. But he does not know what
+                            happened next because Adam was waiting for further instructions, which
+                            Oláh thought Adorno had already sent to him, so he was at ease about it.
+                            Adorno should hurry Adam, and they should prepare the instruction at
+                            last, which will also need to be accompanied by a letter of
+                            recommendation.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Salutem et mei commendationem, Reverende Domine uti Frater
-                        Honorandissime!<note type="critic">Hieronymus Adorno (†1545) was Provost of
-                        Eger and legat of King Ferdinand I to Constantinople.</note>
-                </p>
-                <p>Accepi in campo tuas litterulas,<note type="critic">We do not know this
-                        letter.</note> quibus scribis de instructione tua, quibus scribis de
-                    instructione tua<note type="critic">I.e. <hi rend="italic">Instructio pro
-                            Odoardo et Adurno</hi>, edited by Ferdinand I on 28 December, 1544.
-                        Adorno was sent to Constantinople to arrange a peace agreement with the
-                        Turks for one year, but he died in March, on the way to Edirne, see <hi
-                            rend="smallcap">Laczlavik</hi> 2014, 97.</note> et litteris credentiis
-                    tibi ad praesentem legationem necessariis. Ego omnia haec iamdudum expedire
-                    potuissem. Non soleo enim negligens esse etiam in minoribus rebus, nedum in his
-                    arduis et maximi momenti, sed secundo statim die, postquam <persName>maiestas
-                        regia</persName>, dominus meus clementissimus de tua profectione et
-                    legatione deliberavit, iuxta deliberationem suae maiestatis instructionem ipsam
-                    in consilio nostro securo perlegi. Suaque maiestas iussit, ut eam cum litteris
-                    necessariis <persName>Adamo nostro Carolo</persName><note type="critic">Adam
-                        Karl was the Latin Secretary of the Imperial Court Chancellery between 1536
-                        and 1545, see <hi rend="smallcap">Fazekas</hi> 2021, 31. See Oláh’s poem to
-                        him: <hi rend="smallcap">Hegedüs</hi> 1906, 406; <hi rend="smallcap"
-                            >Fógel–Juhász</hi> 1934, 26; <hi rend="smallcap">Neagu</hi> 2003,
-                        328.</note> expediendam darem. Nam ipse sciret, cum alias quoque iussu
-                    maiestatis suae tales expeditiones tractasset <del corresp="Olahus">et non
-                        ignoraret</del> quomodo ad Turcam et bassas nomine suae maiestatis
-                    scribendum esset. Ego illico secundum mandatum maiestatis suae regiae
-                    instructionem ipsam manu mea notariam ipsi <persName>Adamo</persName> misi. De
-                    qua etiam postea interrogavi eum, et dixit se eam habere. <del corresp="Olahus"
-                        >Hoc pacto</del><add corresp="Olahus" type="corr">Haec</add> etiam tibi dixi
-                    me fecisse. Praeterea scis me te admonuisse, ut ea, quae tibi ad hanc
-                    expeditionem necessaria essent, in articulos conscriberes et ad quos scribendum
-                    esset, signares, eaque dares <persName>Adamo</persName>. Propterea nescio, <milestone unit="pb"/>unde fit, quod expeditus non sis. <persName>Adamum</persName> ego
-                    propterea haesisse <placeName>Wiennae</placeName> putavi, quod litteras a
-                    maiestate regia exspectaret et te expediret. <add corresp="Olahus" type="insert"
-                        >Dixit enim mihi se exspectare aliquas expeditiones a maiestate regia, quas
-                        ego tuas fecisse putavi.</add> Libenter reversus fuissem ad te etiam ex hoc
-                    medio itineris, sed cum manu regia litterae subscribi debeant, etiam si
-                    revertissem, nihil profecisse visus fuissem. Quare aliud tibi consilium dare non
-                    possum, quam quod loquere cum <persName>Carolo</persName>, si adhuc
-                        <placeName>Wiennae</placeName> est, expediat statim littaras credentiae tam
-                    ad Turcam, quam ad alios, quos vis, et dies ut noctes mittat per postam ad
-                    maiestatem regiam unacum instructione, si eam quoque nondum expedivit signandas.
-                    Ex <placeName>Praga</placeName> reversus<note type="critic">In Korneuburg, Oláh
-                        was on way to Prague. According to Oláh’s correspondence, he was in Prague
-                        on 10 February, 1545, and he had to travel to Worms at the end of March at
-                        the latest. He was in Worms on 15 April, 1545.</note> ad te vel dominum
-                        <persName>de Fels</persName><note type="critic">Leonhard von Vels.</note>
-                    remitti sine mora poterent. Tu interim eas istic exspectare possis, ego
-                    properabo quantum <del corresp="Olahus">ad</del> possum ad maiestatem regiam et
-                    loquar suae maiestati, sed si etiam eo venero, nescio quomodo concluseras cum
-                    maiestate regia, vel domino de Fels de titulo tuo, sine quo litterae expediri
-                    non possent. Optabas enim nominari consiliarius et orator. Fac itaque in omnem
-                    eventum me dies et noctes per postam certiorem, quid concluseris de titulo.
-                    Praevenire me posta poterit, <milestone unit="pb"/>si illum <add corresp="Olahus" type="insert">hodie</add> expediveris.
-                    Sed age prius cum <persName>Adamo</persName>, si nondum
-                        <placeName>Wienna</placeName> movit.</p>
-                <p>Culpa autem nescio in quem rem <del corresp="Olahus">quidem</del>
-                    <choice>
+                <p xml:id="p.1">Salutem et mei commendationem, Reverende Domine uti Frater
+                        Honorandissime!<note type="critic" xml:id="note.1">Hieronymus Adorno (†1545)
+                        was Provost of Eger and legat of King Ferdinand I to
+                    Constantinople.</note></p>
+                <p xml:id="p.2">Accepi in campo tuas litterulas,<note type="critic" xml:id="note.2"
+                        >We do not know this letter.</note> quibus scribis de instructione tua,
+                    quibus scribis de instructione tua<note type="critic" xml:id="note.3">I.e. <hi
+                            rend="italic">Instructio pro Odoardo et Adurno</hi>, edited by Ferdinand
+                        I on 28 December, 1544. Adorno was sent to Constantinople to arrange a peace
+                        agreement with the Turks for one year, but he died in March, on the way to
+                        Edirne, see <hi rend="smallcap">Laczlavik</hi> 2014, 97.</note> et litteris
+                    credentiis tibi ad praesentem legationem necessariis. Ego omnia haec iamdudum
+                    expedire potuissem. Non soleo enim negligens esse etiam in minoribus rebus,
+                    nedum in his arduis et maximi momenti, sed secundo statim die, postquam
+                        <persName>maiestas regia</persName>, dominus meus clementissimus de tua
+                    profectione et legatione deliberavit, iuxta deliberationem suae maiestatis
+                    instructionem ipsam in consilio nostro securo perlegi. Suaque maiestas iussit,
+                    ut eam cum litteris necessariis <persName>Adamo nostro Carolo</persName><note
+                        type="critic" xml:id="note.4">Adam Karl was the Latin Secretary of the
+                        Imperial Court Chancellery between 1536 and 1545, see <hi rend="smallcap"
+                            >Fazekas</hi> 2021, 31. See Oláh’s poem to him: <hi rend="smallcap"
+                            >Hegedüs</hi> 1906, 406; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 26;
+                            <hi rend="smallcap">Neagu</hi> 2003, 328.</note> expediendam darem. Nam
+                    ipse sciret, cum alias quoque iussu maiestatis suae tales expeditiones
+                    tractasset <del corresp="Olahus">et non ignoraret</del> quomodo ad Turcam et
+                    bassas nomine suae maiestatis scribendum esset. Ego illico secundum mandatum
+                    maiestatis suae regiae instructionem ipsam manu mea notariam ipsi
+                        <persName>Adamo</persName> misi. De qua etiam postea interrogavi eum, et
+                    dixit se eam habere. <del corresp="Olahus">Hoc pacto</del><add corresp="Olahus"
+                        type="corr">Haec</add> etiam tibi dixi me fecisse. Praeterea scis me te
+                    admonuisse, ut ea, quae tibi ad hanc expeditionem necessaria essent, in
+                    articulos conscriberes et ad quos scribendum esset, signares, eaque dares
+                        <persName>Adamo</persName>. Propterea nescio, <milestone unit="pb"/>unde
+                    fit, quod expeditus non sis. <persName>Adamum</persName> ego propterea haesisse
+                        <placeName>Wiennae</placeName> putavi, quod litteras a maiestate regia
+                    exspectaret et te expediret. <add corresp="Olahus" type="insert">Dixit enim mihi
+                        se exspectare aliquas expeditiones a maiestate regia, quas ego tuas fecisse
+                        putavi.</add> Libenter reversus fuissem ad te etiam ex hoc medio itineris,
+                    sed cum manu regia litterae subscribi debeant, etiam si revertissem, nihil
+                    profecisse visus fuissem. Quare aliud tibi consilium dare non possum, quam quod
+                    loquere cum <persName>Carolo</persName>, si adhuc <placeName>Wiennae</placeName>
+                    est, expediat statim littaras credentiae tam ad Turcam, quam ad alios, quos vis,
+                    et dies ut noctes mittat per postam ad maiestatem regiam unacum instructione, si
+                    eam quoque nondum expedivit signandas. Ex <placeName>Praga</placeName>
+                        reversus<note type="critic" xml:id="note.5">In Korneuburg, Oláh was on way
+                        to Prague. According to Oláh’s correspondence, he was in Prague on 10
+                        February, 1545, and he had to travel to Worms at the end of March at the
+                        latest. He was in Worms on 15 April, 1545.</note> ad te vel dominum
+                        <persName>de Fels</persName><note type="critic" xml:id="note.6">Leonhard von
+                        Vels.</note> remitti sine mora poterent. Tu interim eas istic exspectare
+                    possis, ego properabo quantum <del corresp="Olahus">ad</del> possum ad
+                    maiestatem regiam et loquar suae maiestati, sed si etiam eo venero, nescio
+                    quomodo concluseras cum maiestate regia, vel domino de Fels de titulo tuo, sine
+                    quo litterae expediri non possent. Optabas enim nominari consiliarius et orator.
+                    Fac itaque in omnem eventum me dies et noctes per postam certiorem, quid
+                    concluseris de titulo. Praevenire me posta poterit, <milestone unit="pb"/>si
+                    illum <add corresp="Olahus" type="insert">hodie</add> expediveris. Sed age prius
+                    cum <persName>Adamo</persName>, si nondum <placeName>Wienna</placeName>
+                    movit.</p>
+                <p xml:id="p.3">Culpa autem nescio in quem rem <del corresp="Olahus">quidem</del><choice>
                         <orig><gap extent="unknown" reason="illegible" unit="word"/>ire</orig>
                         <supplied><corr>ven</corr>ire</supplied>
-                    </choice><note type="critic">Uncertain reading.</note>potest? In me certe nulla.
-                    Nam <del corresp="Olahus">ego</del> postquam <persName>Adamus</persName> haberi
-                    firmationem per me ei datam, quod etiam tibi significari debebas cum eo agere et
-                    ipse debebat te expedire. Ad quos autem litterae dari debuerint credentiae.
-                    Etiam ex ipsa instructione ipse videre potuerit. Et tu eum admonere debebas.
-                    Dixi enim tibi maiestatem regiam iussisse, ut ipse expediret <del
-                        corresp="Olahus">litteras</del> instructionem et litteras huius legationis
-                    haberi. Vale feliciter et sollicita <persName>Adamum</persName> vel scribe sine
-                    mora, ut prius <placeName>Pragae</placeName> ne quis defectus committat. Iterum
-                    vale. </p>
-                <p>Ex campo frigido prope <placeName>Corneamburg</placeName> 8. Ianuarii
-                    1545.</p>
-                <p>
+                    </choice><note type="critic" xml:id="note.7">Uncertain reading.</note>potest? In
+                    me certe nulla. Nam <del corresp="Olahus">ego</del> postquam
+                        <persName>Adamus</persName> haberi firmationem per me ei datam, quod etiam
+                    tibi significari debebas cum eo agere et ipse debebat te expedire. Ad quos autem
+                    litterae dari debuerint credentiae. Etiam ex ipsa instructione ipse videre
+                    potuerit. Et tu eum admonere debebas. Dixi enim tibi maiestatem regiam iussisse,
+                    ut ipse expediret <del corresp="Olahus">litteras</del> instructionem et litteras
+                    huius legationis haberi. Vale feliciter et sollicita <persName>Adamum</persName>
+                    vel scribe sine mora, ut prius <placeName>Pragae</placeName> ne quis defectus
+                    committat. Iterum vale. </p>
+                <p xml:id="p.4">Ex campo frigido prope <placeName>Corneamburg</placeName> 8.
+                    Ianuarii 1545.</p>
+                <p xml:id="p.5">
                     <seg type="signature">Tuus Nicolaus Olahus episcopus Zagrabienses etc. manu
                         secunda.</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Domino et venerabili fratri honorandissimo Hieronymo Adorno doctori
+                <p xml:id="p.6">Domino et venerabili fratri honorandissimo Hieronymo Adorno doctori
                     praeposito minori Agriensi etc. dentur.</p>
             </div>
         </body>

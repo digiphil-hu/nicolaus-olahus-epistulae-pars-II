@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">482</title>
-                <title type="main">Erasmus of Rotterdam to Miklós Oláh (Freiburg im Breisgau, 22
-                    April 1534)</title>
+                <title key="body" n="482" type="main">Erasmus of Rotterdam to Miklós Oláh (Freiburg
+                    im Breisgau, 22 April 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340422_1</idno>
-                
+                <idno type="PID">olahus.tei.15340422_1</idno>
+                <idno type="ITIdata">Q473144</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340422_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,53 +80,47 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                        <ref>/o:olahus.tei.15340312_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. <ref>/o:olahus.tei.15340312_1</ref></p>
                 </note>
                 <note type="publication">
-                    <p><hi rend="smallcap">Ipolyi</hi> 1875, 491–493; <hi rend="smallcap"
-                            >Allen</hi> 1941, 375–376.</p>
+                    <p><hi rend="smallcap">Ipolyi</hi> 1875, 491–493; <hi rend="smallcap">Allen</hi>
+                        1941, 375–376.</p>
                 </note>
                 <note type="translation">
-                    <p><hi rend="italic">In Dutch:</hi>
-                        <hi rend="smallcap">Bejczy</hi> 2020, 283–285. </p>
-                    <p><hi rend="italic">In English:</hi>
-                        <hi rend="smallcap">Estes–Miller</hi> 2020, 270–273. </p>
-                    <p><hi rend="italic">In Hungarian:</hi>
-                        <hi rend="smallcap">V. Kovács</hi> 1971, 675–676.</p>
-                    <p><hi rend="italic">In Romanian:</hi>
-                        <hi rend="smallcap">Albu–Firu</hi> 1968, 189–191; <hi rend="smallcap"
-                            >Albu–Capoianu</hi> 1974, 137–137. </p>
-                    <p><hi rend="italic">In Slovakian:</hi>
-                        <hi rend="smallcap">Škoviera</hi> 2008, 116–118.</p>
-                </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Dutch:</hi><hi rend="smallcap">Bejczy</hi> 2020,
+                        283–285. </p>
+                    <p><hi rend="italic">In English:</hi><hi rend="smallcap">Estes–Miller</hi> 2020,
+                        270–273. </p>
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        675–676.</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Firu</hi> 1968,
+                        189–191; <hi rend="smallcap">Albu–Capoianu</hi> 1974, 137–137; <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1372–1379. </p>
+                    <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap">Škoviera</hi> 2008,
+                        116–118.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340312_1" type="url">471</ref>
+                        <ref target="15340312_1" type="url">471</ref>
                     </bibl>
                 </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340625_1sz" type="url"
-                            >496</ref>
+                        <ref target="15340625_1sz" type="url">496</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -151,11 +155,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -164,79 +229,77 @@
             </textClass>
             <creation>
                 <date when="1534-04-22">22 April 1534</date>
-                <placeName>Freiburg im Breisgau</placeName>
+                <placeName>Freiburg im Breisgau<idno type="ITIdata">Q23176</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Erasmus of Rotterdam</persName>
-                    <orgName/>
+                    <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when=" 1534-05-12"/>
                     <placeName/>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Erasmus of Rotterdam to Miklós Oláh (Freiburg im Breisgau, 22
                     April 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He can only partially agree with what Oláh is writing about the
-                            affairs in England. He got better by 1 April, but eight days later he
-                            was struck by a terrible headache and neckache that seems never to leave
-                            any more. He has not been outside in five months, but if he did venture
-                            on the 4-5-day journey, he would only do it if he was carried lying
-                            down. The Marquess will not do anything, but it does not matter any
-                            more, that dumb book cannot really hurt Erasmus’ reputation any longer.
-                            Luther has also written a crazy and hate-filled letter. 2. He is happy
-                            to hear what Oláh has written about Lieven Algoet. He has heard from him
-                            that Oláh wants to go home, so he wishes Oláh luck and is also saddened
-                            by it at the same time. His friends should not be angry with him that he
-                            is not writing to them, the pain is stopping him from doing so. 3. He
-                            knows what Pieter van Monfoort is on to, but he does not care. He is not
-                            a friend of his, and although he thinks that Pieter van Monfoort is
-                            talented, he is a vacant and sleazy character, and he should not believe
-                            a word he says. He promised to bring him his fee of 300 florins, then he
-                            said he would only bring 200, but that also turned out to be an empty
-                            promise; all the while he encouraged him to write untrue letters, even
-                            though he was really sick. He was also freeloading on him and does not
-                            thank him for anything.</p>
+                        <p xml:id="reg.p.1">1. He can only partially agree with what Oláh is writing
+                            about the affairs in England. He got better by 1 April, but eight days
+                            later he was struck by a terrible headache and neckache that seems never
+                            to leave any more. He has not been outside in five months, but if he did
+                            venture on the 4-5-day journey, he would only do it if he was carried
+                            lying down. The Marquess will not do anything, but it does not matter
+                            any more, that dumb book cannot really hurt Erasmus’ reputation any
+                            longer. Luther has also written a crazy and hate-filled letter. 2. He is
+                            happy to hear what Oláh has written about Lieven Algoet. He has heard
+                            from him that Oláh wants to go home, so he wishes Oláh luck and is also
+                            saddened by it at the same time. His friends should not be angry with
+                            him that he is not writing to them, the pain is stopping him from doing
+                            so. 3. He knows what Pieter van Monfoort is on to, but he does not care.
+                            He is not a friend of his, and although he thinks that Pieter van
+                            Monfoort is talented, he is a vacant and sleazy character, and he should
+                            not believe a word he says. He promised to bring him his fee of 300
+                            florins, then he said he would only bring 200, but that also turned out
+                            to be an empty promise; all the while he encouraged him to write untrue
+                            letters, even though he was really sick. He was also freeloading on him
+                            and does not thank him for anything.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Erasmus Roterodamus Nicolao Olao secretario reginae salutem. </p>
-                <p>[1.] Quae scribis<note type="critic">Ep. 471. Cap.
-                        1.</note><ref>/o:olahus.tei.15340312_1</ref> de rebus
+                <p xml:id="p.1">Erasmus Roterodamus Nicolao Olao secretario reginae salutem. </p>
+                <p xml:id="p.2">[1.] Quae scribis<note type="critic" xml:id="note.1">Ep. 471. Cap.
+                            1.<ref>olahus.tei.15340312_1</ref></note> de rebus
                         <placeName>Angliae</placeName>, facile credo ex parte esse vera, omnia non
                     credo. Ad hanc tragoediam non fuisset ventum, si cardinales a
-                        <persName>pontifice</persName><note type="critic">Pope Clement VII.</note>
-                    delegati ante annos septem liquido pronuntiassent. Optarim inter nos et Anglos
-                    convenire.</p>
-                <p>Ad Kalendas Aprilis cepi non bene quidem, sed aliquanto minus male
+                        <persName>pontifice</persName><note type="critic" xml:id="note.2">Pope
+                        Clement VII.</note> delegati ante annos septem liquido pronuntiassent.
+                    Optarim inter nos et Anglos convenire.</p>
+                <p xml:id="p.3">Ad Kalendas Aprilis cepi non bene quidem, sed aliquanto minus male
                     habere, et in bonam spem erectus sum. At post dies octo gravissimus cruciatus
                     invasit sinistrum capitis et colli latus cum humero et brachio, qui sic illic
                     haeret, ut videatur nusquam abiturus. Quinque mensibus non extuleram pedem domo.
-                    Ipso die Paschae<note type="critic">5 April.</note> sacrificavi in cubiculo. Me
-                    a reditu monachorum intemperiae non deterrerent, nisi mihi metuerem a paralysi.
-                    Quod si iter esset quattuor aut quinque dierum, vel lectica curarem me istuc
-                    deportandum. </p>
-                <p>Arguerent, inquis, te inconstantiae;<note type="critic">See Ep. 471.
-                        Cap. 2.</note><ref>/o:olahus.tei.15340312_1</ref> utinam hoc crimen in me
-                    haereret. <persName>Marchio</persName><note type="critic">William van den
-                        Werwe.</note> nihil faciet <persName>Hillenio</persName>,<note type="critic"
-                        >Michaël Hillen von Hoochstraaten was a printer who published Herborn’s
-                        book, see <hi rend="smallcap">Allen</hi> 1941, 376. For more on his
-                        editions, see <hi rend="smallcap">Conley</hi> 2011.</note> favet funigeris.
-                    Et iam volumina distracta sunt. Quamquam ille stolidus liber haut multum
-                    officiet meo nomini. Hic timeo graviora a <choice>
+                    Ipso die Paschae<note type="critic" xml:id="note.3">5 April.</note> sacrificavi
+                    in cubiculo. Me a reditu monachorum intemperiae non deterrerent, nisi mihi
+                    metuerem a paralysi. Quod si iter esset quattuor aut quinque dierum, vel lectica
+                    curarem me istuc deportandum. </p>
+                <p xml:id="p.4">Arguerent, inquis, te inconstantiae;<note type="critic"
+                        xml:id="note.4">See Ep. 471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note>
+                    utinam hoc crimen in me haereret. <persName>Marchio</persName><note
+                        type="critic" xml:id="note.5">William van den Werwe.</note> nihil faciet
+                        <persName>Hillenio</persName>,<note type="critic" xml:id="note.6">Michaël
+                        Hillen von Hoochstraaten was a printer who published Herborn’s book, see <hi
+                            rend="smallcap">Allen</hi> 1941, 376. For more on his editions, see <hi
+                            rend="smallcap">Conley</hi> 2011.</note> favet funigeris. Et iam
+                    volumina distracta sunt. Quamquam ille stolidus liber haut multum officiet meo
+                    nomini. Hic timeo graviora a <choice>
                         <orig>sectorum</orig>
                         <supplied>sectarum</supplied>
                     </choice> fautoribus, qui sibi persuadent Erasmum in mora esse, quo minus impune
@@ -244,47 +307,50 @@
                     furiosam nec aliud spirantem, quam odium parricidiale. De tuo in me studio,
                     Olahe Carissime, profecto memorem mones, nec sum ignarus, quot et quantis
                     nominibus tibi debeam. Id utinam officio quopiam insigni queam declarare. </p>
-                <p>[2.] Gratum est, quod scribis de <persName>Levino</persName>,<note
-                        type="critic">Probably Lieven Algoet</note> sed utinam ille <quote>τὰς
-                        χεῖρας ποτιφέρων</quote><note type="quote">Cf. Apophthegmata Laconica 239 A
-                        10: τὰν χεῖρα ποτιφέροντα τὰν τύχαν καλεῖν.</note><note type="critic"
+                <p xml:id="p.5">[2.] Gratum est, quod scribis de <persName>Levino</persName>,<note
+                        type="critic" xml:id="note.7">Probably Lieven Algoet</note> sed utinam ille
+                        <quote xml:id="quote.1">τὰς χεῖρας ποτιφέρων</quote><note type="quote"
+                        xml:id="note.quote.1">Cf. Apophthegmata Laconica 239 A 10: τὰν χεῖρα
+                        ποτιφέροντα τὰν τύχαν καλεῖν.</note><note type="critic" xml:id="note.8"
                         >‘putting his hands together (i.e. bringing them forward)’. </note> fortunam
                     invocaret. Significat te parare reditum in Hungariam, quod ut tibi precor, quam
                     felicissimum esse, ita mihi futurum est incommodum sive redeo, sive non redeo:
-                    τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι.<note type="critic">‘friends who live far
-                        away are not friends’.</note> Oro, ut apud reverendissimum dominum
-                    archiepiscopum <persName>Panormitanum</persName><note type="critic">Jean II
-                        Carondelet.</note>
-                <milestone unit="pb"/> sis mihi epistolae vice, eique meo nomine gratias agas, et si commodum
-                    videbitur, has illi litteras exhibeas. Vix enim haec potui scribere prae
-                    cruciatu. Crede mihi, nullis hortamentis opus est ad reditum: non deero
+                    τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι.<note type="critic" xml:id="note.9"
+                        >‘friends who live far away are not friends’.</note> Oro, ut apud
+                    reverendissimum dominum archiepiscopum <persName>Panormitanum</persName><note
+                        type="critic" xml:id="note.10">Jean II Carondelet.</note></p>
+                <pb/>
+                <p xml:id="p.6"> sis mihi epistolae vice, eique meo nomine gratias agas, et si
+                    commodum videbitur, has illi litteras exhibeas. Vix enim haec potui scribere
+                    prae cruciatu. Crede mihi, nullis hortamentis opus est ad reditum: non deero
                     occasioni. Serenissimae <persName>reginae</persName> precor omnia laeta.
-                        <persName>Duci Arscoti</persName><note type="critic">Philippe II de
-                        Croÿ.</note> salutem plurimam. <choice>
+                        <persName>Duci Arscoti</persName><note type="critic" xml:id="note.11"
+                        >Philippe II de Croÿ.</note> salutem plurimam. <choice>
                         <orig>Danis</orig>
                         <supplied>Danum</supplied>
                     </choice> meis verbis salvere iube. Fortasse suspiciatur me iratum, quod non
                     scribam. Morbus in causa est, non animus. Vale. </p>
-                <p><placeName>Friburgi</placeName> 22. die Aprilis 1534. </p>
-                <p>[3.] Lege solus! </p>
-                <p>Scio, quid venetur <persName>Petrus Montfortius</persName>,<note
-                        type="critic">Pieter van Monfoort of Harlem.</note> nec illi invideo
-                    successum. Mea causa non est, quod illi faveat quisquam. Nulli amicus est, nisi
-                    sibi ipsi. Mihi certe amicus non est. Est magno promptoque ingenio, sed vafro,
-                    vano, fastuoso et sordido. Cave quicquam illi credas. Extorquet undique
-                    commendationes. Ambiit, ut ad me perferret munus honorarium, quod sex Hollandiae
-                    civitates decreverant. Decreti erant Floreni Caroleni trecenti. Ille pertulit
-                    ducentos, sed verbis dumtaxat. Me tum graviter laborantem urgebat usque ad vitae
-                    taedium, ut scriberem longas ac mendaces ad caesarem, ad commendatorem mihi
-                    ignotum, ad thesaurarium Hollandiae et ad alios. Maluissem ei numerare bonam
-                    pecuniae summam, quam eo labore cruciare valetudinem. Pastus est domi <choice>
+                <p xml:id="p.7"><placeName>Friburgi</placeName> 22. die Aprilis 1534. </p>
+                <p xml:id="p.8">[3.] Lege solus! </p>
+                <p xml:id="p.9">Scio, quid venetur <persName>Petrus Montfortius</persName>,<note
+                        type="critic" xml:id="note.12">Pieter van Monfoort of Harlem.</note> nec
+                    illi invideo successum. Mea causa non est, quod illi faveat quisquam. Nulli
+                    amicus est, nisi sibi ipsi. Mihi certe amicus non est. Est magno promptoque
+                    ingenio, sed vafro, vano, fastuoso et sordido. Cave quicquam illi credas.
+                    Extorquet undique commendationes. Ambiit, ut ad me perferret munus honorarium,
+                    quod sex Hollandiae civitates decreverant. Decreti erant Floreni Caroleni
+                    trecenti. Ille pertulit ducentos, sed verbis dumtaxat. Me tum graviter
+                    laborantem urgebat usque ad vitae taedium, ut scriberem longas ac mendaces ad
+                    caesarem, ad commendatorem mihi ignotum, ad thesaurarium Hollandiae et ad alios.
+                    Maluissem ei numerare bonam pecuniae summam, quam eo labore cruciare
+                    valetudinem. Pastus est domi <choice>
                         <orig>mei</orig>
                         <supplied>meae</supplied>
                     </choice> cum suo collega dies aliquot. Nec egit gratias. Per
-                        <persName>Quirinum</persName><note type="critic">Quirinus Hagius.</note>
-                    meum non dignatus est tria verba scribere. Haec, mi Olae, oportuit te scire.
-                    Dissimulandum tamen. Loquacissimus est et posset laedere, quod cuivis facillimum
-                    est. Vale.</p>
+                        <persName>Quirinum</persName><note type="critic" xml:id="note.13">Quirinus
+                        Hagius.</note> meum non dignatus est tria verba scribere. Haec, mi Olae,
+                    oportuit te scire. Dissimulandum tamen. Loquacissimus est et posset laedere,
+                    quod cuivis facillimum est. Vale.</p>
             </div>
         </body>
     </text>

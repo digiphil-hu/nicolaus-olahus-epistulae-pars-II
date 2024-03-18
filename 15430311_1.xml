@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">637</title>
-                <title type="main">Ulrich von Eytzing and Miklós Oláh to King Ferdinand I
-                    (Bratislava, 11 March 1543)</title>
+                <title key="body" n="637" type="main">Ulrich von Eytzing and Miklós Oláh to King
+                    Ferdinand I (Bratislava, 11 March 1543)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15430311_1</idno>
-                
+                <idno type="PID">olahus.tei.15430311_1</idno>
+                <idno type="ITIdata">Q473297</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15430311_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,42 +80,31 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signatures ans seals.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with signatures ans seals. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p>
                         <hi rend="bold">On the outer side:</hi>
                     </p>
-                    <p><hi rend="italic">Other contemporary hand:</hi> Meiner
-                        gnedigisten(?) frauen khunigin Maria räten von wegen abtrettung irer mt.
-                        wittibguter in Hungern. Datum 11. Martii anno 43. </p>
+                    <p><hi rend="italic">Other contemporary hand:</hi> Meiner gnedigisten(?) frauen
+                        khunigin Maria räten von wegen abtrettung irer mt. wittibguter in Hungern.
+                        Datum 11. Martii anno 43. </p>
                     <p><hi rend="italic">Other later hand:</hi> C. A. N. 4. </p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -137,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,92 +210,90 @@
             </textClass>
             <creation>
                 <date when="1543-03-11">11 March 1543</date>
-                <placeName>Bratislava</placeName>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Ulrich von Eytzing and Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Ulrich von Eytzing</persName>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Ulrich von Eytzing and Miklós Oláh to King Ferdinand I
                     (Bratislava, 11 March 1543)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Queen Mary has asked King Ferdinand I and the Hungarian lords to
-                            suspend the agreement that was made in Banská Bystrica last year and
-                            proposed that Slovenská Ľupča, Vígľaš, and Dobrá Niva, which had fallen
-                            into the Queen’s hands during the last war, stay with the Queen until
-                            the estates that had been occupied previously are returned to her. At
-                            the last Bratislava diet King Ferdinand I presented the case to the
-                            Hungarian lords, and the King has also written to the lords mentioned.
-                            However, Miklós Dóczy and Lipcsey have raised a complaint in connection
-                            with Slovenská Ľupča, while Imre Verbőci has raised a complaint in
-                            connection with Dobrá Niva, and Dóczy and Lipcsey have asked Judge Royal
-                            Tamás Nádasdy and his magistrates for enforcement. Ulrich von Eytzing
-                            and Oláh are turning to King Ferdinand I on behalf of the Queen so that
-                            he orders Tamás Nádasdy and András (Bonaventura) Báthori, as well as
-                            other lords, not to take any measures (a hearing or enforcement) in this
-                            case until the King arrives. 2. According to the wishes of King
-                            Ferdinand I, which he shared with Oláh in Bratislava, Tamás Nádasdy has
-                            been brought to court in connection with Khus and the salt chamber of
-                            Maramureș, and Zsigmond Balassa has been brought to court in connection
-                            with the castle of Diósgyőr. No decision has been made, but as soon as
-                            one is, they will inform him about it.</p>
+                        <p xml:id="reg.p.1">1. Queen Mary has asked King Ferdinand I and the
+                            Hungarian lords to suspend the agreement that was made in Banská
+                            Bystrica last year and proposed that Slovenská Ľupča, Vígľaš, and Dobrá
+                            Niva, which had fallen into the Queen’s hands during the last war, stay
+                            with the Queen until the estates that had been occupied previously are
+                            returned to her. At the last Bratislava diet King Ferdinand I presented
+                            the case to the Hungarian lords, and the King has also written to the
+                            lords mentioned. However, Miklós Dóczy and Lipcsey have raised a
+                            complaint in connection with Slovenská Ľupča, while Imre Verbőci has
+                            raised a complaint in connection with Dobrá Niva, and Dóczy and Lipcsey
+                            have asked Judge Royal Tamás Nádasdy and his magistrates for
+                            enforcement. Ulrich von Eytzing and Oláh are turning to King Ferdinand I
+                            on behalf of the Queen so that he orders Tamás Nádasdy and András
+                            (Bonaventura) Báthori, as well as other lords, not to take any measures
+                            (a hearing or enforcement) in this case until the King arrives. 2.
+                            According to the wishes of King Ferdinand I, which he shared with Oláh
+                            in Bratislava, Tamás Nádasdy has been brought to court in connection
+                            with Khus and the salt chamber of Maramureș, and Zsigmond Balassa has
+                            been brought to court in connection with the castle of Diósgyőr. No
+                            decision has been made, but as soon as one is, they will inform him
+                            about it.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Allerdurchleüchtigister, grosmachtigister khunig, allergnedigister
-                    herr, ewr ro. ku. mt.<note type="critic">I.e. römische königliche
-                        Majestät.</note> sein unnser underthenigist, gehorsamist diennst ungespart
-                    leibs unnd guets züvoran beraitt! </p>
-                <p>[1.] Allergnedigister khunig, nachdem eür ro. ku. mt. liebste
+                <p xml:id="p.1">Allerdurchleüchtigister, grosmachtigister khunig, allergnedigister
+                    herr, ewr ro. ku. mt.<note type="critic" xml:id="note.1">I.e. römische
+                        königliche Majestät.</note> sein unnser underthenigist, gehorsamist diennst
+                    ungespart leibs unnd guets züvoran beraitt! </p>
+                <p xml:id="p.2">[1.] Allergnedigister khunig, nachdem eür ro. ku. mt. liebste
                         <persName>swester</persName>, unnser gnedigiste fraw eur. ro. ku. mt., auch
                     den hungrischen herren zuegeschriben mit erfreyung des beslus unnd verainigung,
-                    so im <placeName>Newensoll</placeName><note type="critic">Banská
-                        Bystrica.</note> vergangen jars bescheen,<note type="critic">On the Banská
-                        Bystrica diet, see <hi rend="smallcap">Fraknói</hi> 1875, 303–322.</note>
-                    damit ainen jedlichen, die abgedrungen seine güetter sider khunig
-                        <persName>Ludwigen</persName><note type="critic">King Louis II.</note>
-                    hochloblicher gedachtnus widerumben restitüiert unnd zuegestelt sollen werden,
-                    darauf sich eur. ku. mt. liebste swester, unnser gnedigiste fraw gegen eur. ku.
-                    mt. unnd den hungrischen herren auch erbetten, das sloß Lipschey,<note
-                        type="critic">The Castle of Lipcse (today Slovenská Ľupča) belonged to the
-                        Dóczy family.</note>
-                    <placeName>Wiglesch</placeName><note type="critic">Vígľaš.</note> unnd
-                        <placeName>Debryn</placeName>,<note type="critic">Dobrá Niva.</note> die
-                    unnser gnedigisten frawen in den verganngen kriegsleüffen zu hannden kumen, in
-                    eur. ku. mt. hannden zu geben, diser gestallt, das eur. ku. mt. derselben
-                    liebsten swester abgedrungen wittibgüettern, gleicher gestalt zu derselben eur.
-                    mt. hannden nemen soll, unnd wem alsdann ernennte drew slosser der pillichait
-                    nach zuegehern, das soll bey eur. ku. mt. steen, inen dieselbigen zu
-                    uberantworten, doch damit eur. mt. liebsten swester auch züvor irer mt.
-                    derselben abgedrungen wittibgüetter von den innhabern durch eur. mt. hannden
-                    zuegestellt werden. Wie dann das alles eur. ku. mt. in jungstem lannttag zu
-                        <placeName>Preßburg</placeName> dasselb den hungrischen herrn angezaigt,
-                    auch die kayserlich mt. daz alles ernennten herren geschriben, aber dass
-                    unangesehen, so hat der <persName>Dotzi Niclosch</persName>,<note type="critic"
-                        >Miklós Dóczy.</note>
-                    <milestone unit="pb"/> unnd Lüpschey unnser gnedigiste fraw umb das sloß
-                    Lüpschey, dergleichen den <persName>Warwetzy Emrich</persName><note
-                        type="critic">Imre Werbőczy (1516–1548) became famous for his victory
-                        against Kason Bey at Kozár (Döbrököz) in 1542, which was recorded by
-                        Sebestyén Tinódi Lantos. Sebestyén Tinódi, <hi rend="italic">Verbőczi
-                            Imrehnek Kászon hadával kozári mezőn viadalja</hi> (1542), see <hi
-                            rend="smallcap">Szilády</hi> 1881, 282–287.</note> umb daz sloß
+                    so im <placeName>Newensoll</placeName><note type="critic" xml:id="note.2">Banská
+                        Bystrica.</note> vergangen jars bescheen,<note type="critic" xml:id="note.3"
+                        >On the Banská Bystrica diet, see <hi rend="smallcap">Fraknói</hi> 1875,
+                        303–322.</note> damit ainen jedlichen, die abgedrungen seine güetter sider
+                    khunig <persName>Ludwigen</persName><note type="critic" xml:id="note.4">King
+                        Louis II.</note> hochloblicher gedachtnus widerumben restitüiert unnd
+                    zuegestelt sollen werden, darauf sich eur. ku. mt. liebste swester, unnser
+                    gnedigiste fraw gegen eur. ku. mt. unnd den hungrischen herren auch erbetten,
+                    das sloß Lipschey,<note type="critic" xml:id="note.5">The Castle of Lipcse
+                        (today Slovenská Ľupča) belonged to the Dóczy
+                        family.</note><placeName>Wiglesch</placeName><note type="critic"
+                        xml:id="note.6">Vígľaš.</note> unnd <placeName>Debryn</placeName>,<note
+                        type="critic" xml:id="note.7">Dobrá Niva.</note> die unnser gnedigisten
+                    frawen in den verganngen kriegsleüffen zu hannden kumen, in eur. ku. mt. hannden
+                    zu geben, diser gestallt, das eur. ku. mt. derselben liebsten swester
+                    abgedrungen wittibgüettern, gleicher gestalt zu derselben eur. mt. hannden nemen
+                    soll, unnd wem alsdann ernennte drew slosser der pillichait nach zuegehern, das
+                    soll bey eur. ku. mt. steen, inen dieselbigen zu uberantworten, doch damit eur.
+                    mt. liebsten swester auch züvor irer mt. derselben abgedrungen wittibgüetter von
+                    den innhabern durch eur. mt. hannden zuegestellt werden. Wie dann das alles eur.
+                    ku. mt. in jungstem lannttag zu <placeName>Preßburg</placeName> dasselb den
+                    hungrischen herrn angezaigt, auch die kayserlich mt. daz alles ernennten herren
+                    geschriben, aber dass unangesehen, so hat der <persName>Dotzi
+                        Niclosch</persName>,<note type="critic" xml:id="note.8">Miklós
+                        Dóczy.</note><milestone unit="pb"/> unnd Lüpschey unnser gnedigiste fraw umb
+                    das sloß Lüpschey, dergleichen den <persName>Warwetzy Emrich</persName><note
+                        type="critic" xml:id="note.9">Imre Werbőczy (1516–1548) became famous for
+                        his victory against Kason Bey at Kozár (Döbrököz) in 1542, which was
+                        recorded by Sebestyén Tinódi Lantos. Sebestyén Tinódi, <hi rend="italic"
+                            >Verbőczi Imrehnek Kászon hadával kozári mezőn viadalja</hi> (1542), see
+                            <hi rend="smallcap">Szilády</hi> 1881, 282–287.</note> umb daz sloß
                         <placeName>Debrin</placeName> vor den herren unnd beysitzeren des
                     hungrischen rechten beclagt, nachdem unns aber auf unnser gnedigisten frawen
                     erbietten gegen eur. ku. mt. unnd den herren von Hungern bescheen nicht gebürn
@@ -243,34 +301,42 @@
                     verantwortung darüber einzelassen, so haben doch <persName>Dotzi</persName> unnd
                         <persName>Lüpschey</persName> innhalt des newsolerischen besluß, wie wir
                     bericht sein, die execution von eur ku. mt. <persName>stathalter</persName><note
-                        type="critic">At the end of 1542, the Royal Governor was Elek Thurzó.</note>
-                    unnd den anderen herren am rechten sitzundt genomen. Derhalben so bitten wir
-                    eur. ku. mt. in namen derselben liebsten swester, die welle an eur. ku. mt.
-                    stathalter <persName>Natasti</persName>,<note type="critic">Tamás
-                        Nádasdy.</note> auch <persName>Andreem Wadory</persName><note type="critic"
-                        >András (Bonaventura) Báthori.</note> lanndshaubtman unnd ander herrn unns
-                    ernnstlich bevelch geben, in diser handlung unnd execution zu exequiern,
-                    stillzuhalten bis auf eur. ku. mt. selb ankunfft, alsdann werden eur. ku. mt.
-                    von wegen derselben liebsten swester auf ir billich unnd khunigclich erbieten in
-                    dem allem wol wissen zu hanndln. </p>
-                <p>[2.] Wir haben auch nach eur. ku. mt. zu
+                        type="critic" xml:id="note.10">At the end of 1542, the Royal Governor was
+                        Elek Thurzó.</note> unnd den anderen herren am rechten sitzundt genomen.
+                    Derhalben so bitten wir eur. ku. mt. in namen derselben liebsten swester, die
+                    welle an eur. ku. mt. stathalter <persName>Natasti</persName>,<note
+                        type="critic" xml:id="note.11">Tamás Nádasdy.</note> auch <persName>Andreem
+                        Wadory</persName><note type="critic" xml:id="note.12">András (Bonaventura)
+                        Báthori.</note> lanndshaubtman unnd ander herrn unns ernnstlich bevelch
+                    geben, in diser handlung unnd execution zu exequiern, stillzuhalten bis auf eur.
+                    ku. mt. selb ankunfft, alsdann werden eur. ku. mt. von wegen derselben liebsten
+                    swester auf ir billich unnd khunigclich erbieten in dem allem wol wissen zu
+                    hanndln. </p>
+                <p xml:id="p.3">[2.] Wir haben auch nach eur. ku. mt. zu
                         <placeName>Preßburg</placeName> unns angezaigte gnedigistte mainung unnd
                     gegeben ratt herrn <persName>Thomaß Natasti</persName> umb daz sloß
-                        <placeName>Huscht</placeName><note type="critic">Khust.</note> unnd die
-                    saltzcamer von <placeName>Marmaruscht</placeName>,<note type="critic"
+                        <placeName>Huscht</placeName><note type="critic" xml:id="note.13"
+                        >Khust.</note> unnd die saltzcamer von
+                        <placeName>Marmaruscht</placeName>,<note type="critic" xml:id="note.14"
                         >Maramureș.</note> auch den <persName>Walaschi Sigmundt</persName><note
-                        type="critic">Zsigmond II Balassa (†1559) was <hi rend="italic">ispán</hi>
-                        of Borsod county and Castellan of Diósgyőr.</note> umb daz sloß
-                        <placeName>Diuschier</placeName><note type="critic">Diósgyőr.</note> für
-                    recht geladen, aber beder diser sachen noch kain entschafft erlanngt, sobald das
-                    aber beschiecht, wellen wir, wie dise rechtfertigung beliben, eur. ku. mt. <milestone unit="pb"/>underthenigist zueschreiben unnd berichten thuen, unns eur. ku. mt. mit
-                    dem gehorsamisten bevelhen. </p>
-                <p>Datum <placeName>Preßburg</placeName> den 11. tag Martii, anno etc. im
-                        43<hi rend="super">ten</hi>. </p>
-                <p>E. r. ku. mt. unnderthenigist </p>
-                <p><seg type="signature"><add corresp="author" type="insert">Ulrich
-                            freyherr von Eytzing manu propria</add></seg></p>
-                <p>
+                        type="critic" xml:id="note.15">Zsigmond II Balassa (†1559) was <hi
+                            rend="italic">ispán</hi> of Borsod county and Castellan of
+                        Diósgyőr.</note> umb daz sloß <placeName>Diuschier</placeName><note
+                        type="critic" xml:id="note.16">Diósgyőr.</note> für recht geladen, aber
+                    beder diser sachen noch kain entschafft erlanngt, sobald das aber beschiecht,
+                    wellen wir, wie dise rechtfertigung beliben, eur. ku. mt. <milestone unit="pb"
+                    />underthenigist zueschreiben unnd berichten thuen, unns eur. ku. mt. mit dem
+                    gehorsamisten bevelhen. </p>
+                <p xml:id="p.4">Datum <placeName>Preßburg</placeName> den 11. tag Martii, anno etc.
+                    im 43<hi rend="super">ten</hi>. </p>
+                <p xml:id="p.5">E. r. ku. mt. unnderthenigist </p>
+                <p xml:id="p.6">
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Ulrich freyherr von Eytzing manu
+                            propria</add>
+                    </seg>
+                </p>
+                <p xml:id="p.7">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Nicolaus Olahus custos Albensis
                             etc.</add>
@@ -278,10 +344,10 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>An die romisch, auch zu Hungern unnd Behaim etc. khunigelich mayestatt,
-                    unnsern allergnedigistn herrn. </p>
+                <p xml:id="p.8">An die romisch, auch zu Hungern unnd Behaim etc. khunigelich
+                    mayestatt, unnsern allergnedigistn herrn. </p>
             </div>
         </body>
     </text>

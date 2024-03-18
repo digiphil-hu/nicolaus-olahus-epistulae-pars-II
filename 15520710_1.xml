@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">826</title>
-                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 10 July 1552)</title>
+                <title key="body" n="826" type="main">Miklós Oláh to King Ferdinand I (Vienna, 10
+                    July 1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520710_1</idno>
-                
+                <idno type="PID">olahus.tei.15520710_1</idno>
+                <idno type="ITIdata">Q473483</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520710_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with autograph emendations,
-                            signature, and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with autograph emendations,
+                        signature, and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,96 +202,94 @@
             </textClass>
             <creation>
                 <date when="1552-07-10">10 July 1552</date>
-                <placeName> Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 10 July 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He will learn from Maximilian’s letter what István Losonczy has
-                            reported. They have received King Ferdinand I’s draft written to the
-                            estates about where and when the armed forces should gather; the formula
-                            is ready, and as soon as Maximilian and the councillors approve, these
-                            letters will be hopefully ready by tomorrow. Maximilian and King
-                            Ferdinand I both warned him about the number of parchments sent to him;
-                            if they had sent him more, it would not be a problem because then he
-                            would be able to inform them better about the everyday matters. He has
-                            to note that the estates are discontent because King Ferdinand I is away
-                            and Maximilian’s trip to Hungary is also in doubt. 2. The Chapter of
-                            Oradea is complaining about the Lutherans in his attached letter, and he
-                            is also sending what he has heard from the Provost of Oradea so that he
-                            knows in what grave danger not only Oradea and its surrounding area but
-                            all of Transylvania is.</p>
+                        <p xml:id="reg.p.1">1. He will learn from Maximilian’s letter what István
+                            Losonczy has reported. They have received King Ferdinand I’s draft
+                            written to the estates about where and when the armed forces should
+                            gather; the formula is ready, and as soon as Maximilian and the
+                            councillors approve, these letters will be hopefully ready by tomorrow.
+                            Maximilian and King Ferdinand I both warned him about the number of
+                            parchments sent to him; if they had sent him more, it would not be a
+                            problem because then he would be able to inform them better about the
+                            everyday matters. He has to note that the estates are discontent because
+                            King Ferdinand I is away and Maximilian’s trip to Hungary is also in
+                            doubt. 2. The Chapter of Oradea is complaining about the Lutherans in
+                            his attached letter, and he is also sending what he has heard from the
+                            Provost of Oradea so that he knows in what grave danger not only Oradea
+                            and its surrounding area but all of Transylvania is.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Sacra Maiestas Regia Domine, Domine Clementissime! Orationum devotarum
-                    et fidelium servitiorum meorum in gratiam Sacrae Maiestatis Vestrae humillimam
-                    commendationem!</p>
-                <p>[1.] Cognoscet Vestra Sacra Maiestas ex litteris serenissimi regis
+                <p xml:id="p.1">Sacra Maiestas Regia Domine, Domine Clementissime! Orationum
+                    devotarum et fidelium servitiorum meorum in gratiam Sacrae Maiestatis Vestrae
+                    humillimam commendationem!</p>
+                <p xml:id="p.2">[1.] Cognoscet Vestra Sacra Maiestas ex litteris serenissimi regis
                         <persName>Maximiliani</persName>, domini mei clementissimi, quid dominus
-                        <persName>Losonczy</persName><note type="critic">István Losonczy.</note> huc
-                    proxime nuntiarit,<note type="critic">See Losonczy’s letter to King Maximilian
-                        II on 29 June, 1552: ÖStA HHStA, UA AA Fasc. 64. Konv. B. fol.
-                        176–177.</note> quid vicissim serenitas sua ei rescripserit, non dubito,
-                    quin Maiestas Vestra ad negotia ea sit curam adhibitura. Ceterum acceptis
-                    proximis litteris Maiestatis Vestrae super expeditione litterarum regalium ad
-                    status et ordines regni, quibus de die et loco ad conveniendum armati
-                    admonentur, confecta litterarum formula, quae serenissimo regi
-                        <persName>Maximiliano</persName> et his dominis consiliariis, qui hic sunt,
-                    probata est, litterae conscribi coeptae sunt perficienturque, ut spero ad summum
-                    in crastinum diem. Nam propter subscriptionem manus Vestrae Maiestatis selectos
-                    quosdam tantummodo scribas meos adhiberi oportuit, ut apposite scriptura in
-                    membranis cedat. Qua autem forma litterae expeditae sint, Sacra Maiestas Vestra
-                    ex earum exemplo praesentibus incluso cognoscere dignabitur. Admonuit autem me
-                    et serenissimus rex <persName>Maximilianus</persName>, dominus meus
-                    clementissimus et ipsae quoque litterae Vestrae Maiestatis de numero membranarum
-                    ad me missarum, qua in re nihil erat, quod Maiestatem Vestram ista sollicitudo
-                    urgeret, aut eadem quicquam dubitaret. Nam si etiam plures mittere dignata
-                    fuisset membranas, non fieret error, ceteris in rebus, quae occurrunt, scio
-                    Maiestatem Vestram in dies hinc fieri certiorem. Hoc tamen et ego nolui
-                    praetermittere, <del corresp="Olahus">quod</del> omnes status et ordines regni,
-                    tum propter absentiam Vestrae Maiestatis, tum <del corresp="Olahus"
-                        >propter</del><add corresp="Olahus" type="corr">quod in</add> serenissimi
-                    regis <persName>Maximiliani</persName> in Hungariam <del corresp="Olahus"
+                        <persName>Losonczy</persName><note type="critic" xml:id="note.1">István
+                        Losonczy.</note> huc proxime nuntiarit,<note type="critic" xml:id="note.2"
+                        >See Losonczy’s letter to King Maximilian II on 29 June, 1552: ÖStA HHStA,
+                        UA AA Fasc. 64. Konv. B. fol. 176–177.</note> quid vicissim serenitas sua ei
+                    rescripserit, non dubito, quin Maiestas Vestra ad negotia ea sit curam
+                    adhibitura. Ceterum acceptis proximis litteris Maiestatis Vestrae super
+                    expeditione litterarum regalium ad status et ordines regni, quibus de die et
+                    loco ad conveniendum armati admonentur, confecta litterarum formula, quae
+                    serenissimo regi <persName>Maximiliano</persName> et his dominis consiliariis,
+                    qui hic sunt, probata est, litterae conscribi coeptae sunt perficienturque, ut
+                    spero ad summum in crastinum diem. Nam propter subscriptionem manus Vestrae
+                    Maiestatis selectos quosdam tantummodo scribas meos adhiberi oportuit, ut
+                    apposite scriptura in membranis cedat. Qua autem forma litterae expeditae sint,
+                    Sacra Maiestas Vestra ex earum exemplo praesentibus incluso cognoscere
+                    dignabitur. Admonuit autem me et serenissimus rex
+                        <persName>Maximilianus</persName>, dominus meus clementissimus et ipsae
+                    quoque litterae Vestrae Maiestatis de numero membranarum ad me missarum, qua in
+                    re nihil erat, quod Maiestatem Vestram ista sollicitudo urgeret, aut eadem
+                    quicquam dubitaret. Nam si etiam plures mittere dignata fuisset membranas, non
+                    fieret error, ceteris in rebus, quae occurrunt, scio Maiestatem Vestram in dies
+                    hinc fieri certiorem. Hoc tamen et ego nolui praetermittere, <del
+                        corresp="Olahus">quod</del> omnes status et ordines regni, tum propter
+                    absentiam Vestrae Maiestatis, tum <del corresp="Olahus">propter</del><add
+                        corresp="Olahus" type="corr">quod in</add> serenissimi regis
+                        <persName>Maximiliani</persName> in Hungariam <del corresp="Olahus"
                         >profecturum</del><add corresp="Olahus" type="corr">profectione</add>
                     dubitant, in hunc diem male contentos fuisse, ac prope in desperationem
                     incidisse, haec tamen omnia Maiestati Vestrae satis curae esse non dubito.
                     Servet eandem Deus optimus maximus duitissime felicem et incolumem, in cuius
                     gratiam me et humillima <milestone unit="pb"/>mea servitia iterum atque iterum
                     unice commendo.</p>
-                <p>Ex <placeName>Wienna</placeName> 10. die Iulii anno Domini 1552.</p>
-                <p>[2.] <add corresp="Olahus" type="insert">Dum iam has obsignare vellem,
-                        capituli ecclesiae Waradiensis nuntius huc ad me venit, per quem multa
-                        detestanda et enormia de Lutheranis mihi nuntiarunt, miserunt tamen et has
-                            litteras,<note type="critic">Ep.
-                                822.<ref>/o:olahus.tei.15520625_1</ref></note> quas in
-                        specie ad Sacratissimam Maiestatem Vestram misi. Supervenit etiam
-                            <persName>praepositus Orodienisis</persName>,<note type="critic">György
-                            Draskovics.</note> qui tum <placeName>Waradini</placeName>, tum in aliis
-                        partium inferiorum locis versatus multa mihi narravit, quo cum nonnulla,
-                        quae verbis dixit, in scripta redigi iussi. Ea quoque Sacratissimae
-                        Maiestati Vestrae misi, ut intelligere dignaretur, quibus in periculis
-                        religio Christiana etiam in Hungaria versetur, non modo in Waradiensi
-                        diocesi, cuius <persName>Warkocz</persName><note type="critic">Tamás
+                <p xml:id="p.3">Ex <placeName>Wienna</placeName> 10. die Iulii anno Domini 1552.</p>
+                <p xml:id="p.4">[2.] <add corresp="Olahus" type="insert">Dum iam has obsignare
+                        vellem, capituli ecclesiae Waradiensis nuntius huc ad me venit, per quem
+                        multa detestanda et enormia de Lutheranis mihi nuntiarunt, miserunt tamen et
+                        has litteras,<note type="critic" xml:id="note.3">Ep.
+                                822.<ref>/o:olahus.tei.15520625_1</ref></note> quas in specie ad
+                        Sacratissimam Maiestatem Vestram misi. Supervenit etiam
+                            <persName>praepositus Orodienisis</persName>,<note type="critic"
+                            xml:id="note.4">György Draskovics.</note> qui tum
+                            <placeName>Waradini</placeName>, tum in aliis partium inferiorum locis
+                        versatus multa mihi narravit, quo cum nonnulla, quae verbis dixit, in
+                        scripta redigi iussi. Ea quoque Sacratissimae Maiestati Vestrae misi, ut
+                        intelligere dignaretur, quibus in periculis religio Christiana etiam in
+                        Hungaria versetur, non modo in Waradiensi diocesi, cuius
+                            <persName>Warkocz</persName><note type="critic" xml:id="note.5">Tamás
                             Varkocs.</note> Lutheranus nunc propositus est, sed etiam in aliis. Nam
                         et ex Transsylvania et ex aliis episcopatuum aliorum locis quotidie non
                         absimilia et adferuntur et dicuntur. His ita existentibus vereor, ne Deus
@@ -247,26 +301,28 @@
                         brevi futurum arbitror, nisi provideatur in tempore, quod Catholica religio
                         in Hungaria inter plebem et rara erit et contemptui omnium exposita.
                     </add></p>
-                <p>
+                <p xml:id="p.5">
                     <add corresp="Olahus" type="insert">Eiusdem Sacratissimae Maiestatis Vestrae
                         fidelis et humilis servitor</add>
                 </p>
-                <p>
-                    <seg type="signature"><add corresp="Olahus" type="insert">Agriensis
-                        etc.</add></seg>
+                <p xml:id="p.6">
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Agriensis etc.</add>
+                    </seg>
                 </p>
                 <pb/>
-                <p>[Enormia facta et dicta haereticorum in diocesi Varadiensi ecclesiae
+                <p xml:id="p.7">[Enormia facta et dicta haereticorum in diocesi Varadiensi ecclesiae
                     manentium. Narratio Georgii Drascowits praepositi Orodiensis 10. Iulii Viennae
-                    facta 1552.]<note type="critic">See <hi rend="smallcap">Bunyitay</hi> 1887,
-                        398–399; and <hi rend="smallcap">Bunyitay</hi> 1883, 386–388.</note></p>
+                    facta 1552.]<note type="critic" xml:id="note.6">See <hi rend="smallcap"
+                            >Bunyitay</hi> 1887, 398–399; and <hi rend="smallcap">Bunyitay</hi>
+                        1883, 386–388.</note></p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Sacratissimae Romanorum Hungariae et Bohemiae etc. regiae maiestati
+                <p xml:id="p.8">Sacratissimae Romanorum Hungariae et Bohemiae etc. regiae maiestati
                     etc. domino, domino meo semper clementissimo.</p>
-                <p> </p>
+                <p xml:id="p.9"> </p>
             </div>
         </body>
     </text>

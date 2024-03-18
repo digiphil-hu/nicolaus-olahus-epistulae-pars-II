@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">527</title>
-                <title type="main">Miklós Oláh to Miklós Gerendi (Brussels, 30 January 1535)</title>
+                <title key="body" n="527" type="main">Miklós Oláh to Miklós Gerendi (Brussels, 30
+                    January 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15350130_1</idno>
-                
+                <idno type="PID">olahus.tei.15350130_1</idno>
+                <idno type="ITIdata">Q473187</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15350130_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 543–545.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 543–545.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,112 +203,112 @@
             </textClass>
             <creation>
                 <date when="1535-01-30">30 January 1535</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Gerendi</persName>
-                    <orgName/>
+                    <persName>Miklós Gerendi<idno type="ITIdata">Q51011</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Miklós Gerendi (Brussels, 30 January 1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He repeats his letter of 10 January in more detail. He mourns for
-                            Hungary together with Miklós Gerendi. If they had sent 3-4,000 soldiers
-                            to Transylvania right after Lodovico Gritti’s death, this territory
-                            would also already obey the King. The problem is the delay with which
-                            they are squandering the opportunities. Sibiu cannot continue to resist
-                            the attack. He is not surprised that the Hungarians are shattered, they
-                            have already been chasing a false hope for nine years. Gerendi says that
-                            now is a good time to get the country back; the Queen will do what she
-                            can. 2. He knows that large empires have large expenses, but they should
-                            not always expect others to help them – they should learn from Aesop’s
-                            fable on the lark, which they read together with Gerendi in the school
-                            in Oradea. As far as his own affairs are concerned, he can only write
-                            about it with pain: that this is what he deserves from the King despite
-                            his long and loyal service, that despite the mandates he is not
-                            receiving his dues; he does not even dream of a promotion, and people
-                            who swore loyalty to the King later than he did are overtaking him. He
-                            only hopes that Tamás Szalaházy and Gerendi will further his cause. He
-                            should not apologize for rarely being able to send letters, they too
-                            only have someone to take letters every eight days. What he writes, he
-                            should give to Johan Weze, letters arrive more frequently from there.
-                            War is coming here, and all his neighbors are against the Emperor. If
-                            István Brodarics has been able to make progress on anything, Gerendi
-                            should let him know. </p>
+                        <p xml:id="reg.p.1">1. He repeats his letter of 10 January in more detail.
+                            He mourns for Hungary together with Miklós Gerendi. If they had sent
+                            3-4,000 soldiers to Transylvania right after Lodovico Gritti’s death,
+                            this territory would also already obey the King. The problem is the
+                            delay with which they are squandering the opportunities. Sibiu cannot
+                            continue to resist the attack. He is not surprised that the Hungarians
+                            are shattered, they have already been chasing a false hope for nine
+                            years. Gerendi says that now is a good time to get the country back; the
+                            Queen will do what she can. 2. He knows that large empires have large
+                            expenses, but they should not always expect others to help them – they
+                            should learn from Aesop’s fable on the lark, which they read together
+                            with Gerendi in the school in Oradea. As far as his own affairs are
+                            concerned, he can only write about it with pain: that this is what he
+                            deserves from the King despite his long and loyal service, that despite
+                            the mandates he is not receiving his dues; he does not even dream of a
+                            promotion, and people who swore loyalty to the King later than he did
+                            are overtaking him. He only hopes that Tamás Szalaházy and Gerendi will
+                            further his cause. He should not apologize for rarely being able to send
+                            letters, they too only have someone to take letters every eight days.
+                            What he writes, he should give to Johan Weze, letters arrive more
+                            frequently from there. War is coming here, and all his neighbors are
+                            against the Emperor. If István Brodarics has been able to make progress
+                            on anything, Gerendi should let him know. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolai Olai ad eundem Gherendi in eodem argumento.<note type="critic"
-                        >See Ep. 524.</note><ref>/o:olahus.tei.15350110_1</ref></p>
-                <p>[1.] Litteras tuas<note type="critic">We do not know this
-                        letter.</note> diebus superioribus accepi, ad quas quod tardius respondeo,
-                    causa fuit tabellariorum mora. Patriae nostrae casum et ego non possum tecum una
-                    non lugere, cuius scilicet calamitatem, ruinam, desolationem et miserias iam a
-                    novem fere annis experimur. Et nescio an eius adhuc in hoc ordine et provisione,
-                    quam habemus, nisi Deus ex alto prospiciat, futurus sit brevi finis. Si statim
-                    post <persName>Grithi</persName><note type="critic">Lodovico Gritti.</note>
-                    necem saltem tria <del corresp="Olahus">milia</del> aut quatuor millia peditum
-                    fuissent in Transsylvaniam nostram missa, illa iam tota proculdubio esset in
-                    potestate regis nostri tua et aliorum amicorum opera. Ex qua reliqua Hungariae
-                    pars in oboedientiam non magno labore reduci potuisset; nec nunc
-                        <persName>Maylath</persName><note type="critic">István Majláth.</note> esset
-                    istic vaivoda, nec <persName>Ioannes</persName>
-                    <add corresp="Olahus" type="insert">illi</add> incubaret, sed o negligentia,
+                <p xml:id="p.1">Nicolai Olai ad eundem Gherendi in eodem argumento.<note
+                        type="critic" xml:id="note.1">See Ep.
+                        524.<ref>olahus.tei.15350110_1</ref></note></p>
+                <p xml:id="p.2">[1.] Litteras tuas<note type="critic" xml:id="note.2">We do not know
+                        this letter.</note> diebus superioribus accepi, ad quas quod tardius
+                    respondeo, causa fuit tabellariorum mora. Patriae nostrae casum et ego non
+                    possum tecum una non lugere, cuius scilicet calamitatem, ruinam, desolationem et
+                    miserias iam a novem fere annis experimur. Et nescio an eius adhuc in hoc ordine
+                    et provisione, quam habemus, nisi Deus ex alto prospiciat, futurus sit brevi
+                    finis. Si statim post <persName>Grithi</persName><note type="critic"
+                        xml:id="note.3">Lodovico Gritti.</note> necem saltem tria <del
+                        corresp="Olahus">milia</del> aut quatuor millia peditum fuissent in
+                    Transsylvaniam nostram missa, illa iam tota proculdubio esset in potestate regis
+                    nostri tua et aliorum amicorum opera. Ex qua reliqua Hungariae pars in
+                    oboedientiam non magno labore reduci potuisset; nec nunc
+                        <persName>Maylath</persName><note type="critic" xml:id="note.4">István
+                        Majláth.</note> esset istic vaivoda, nec <persName>Ioannes</persName><add
+                        corresp="Olahus" type="insert">illi</add> incubaret, sed o negligentia,
                     tarditas, occasionis omnis bonae sive fato sive necessitate praetermissio, in
                     quod periculum Hungariam miseram reducis! <placeName>Cibinium</placeName><note
-                        type="critic">Sibiu.</note> non ultra durabit, quam adversarii prohibuerint
-                    colonorum egressum. Non miror Hungaros nostros, ut scribis, multum esse fractos.
-                    Quis enim etiam fortissimus tanta malorum omnium tolerantia non debilitari
-                    potest? Illud potius miror, quod ab eis novem aut circiter annis vana spe <del
-                        corresp="Olahus">freti</del><add corresp="Olahus" type="corr">fieri</add>,
-                    tantae patientes fuerint, servitutis, veteris suae libertatis, virtutis <del
-                        corresp="Olahus">ne regi si viderent mandatum serenissimi? Nisi</del>
-                    fortitudinis et gloriae immemores. Et non cogitarint modum, ne perpetuo essent
-                    miseri aliisque nationibus ludibrio. Maximam scribis nunc esse occasionem, ut
-                    Turca absente principes nostri aliquid faciant pro Hungaria recuperanda.
-                    Praeterierunt etiam antea plurimae bonae occasiones. Cuperem a Deo, ne haec
-                    quoque, ut aliae, praeteriret. Quicquid regina aliquando potuerit, non dubium
-                    est, quin faciet τὰ χρήματα περὶ ὧν ἔγραψας,<note type="critic">‘the things
-                        about which you have written’.</note> non longe illinc absunt. Quae fieri
-                    potuerunt, modo aliquid firmi incipiatur. Non desunt ubique urgentes
-                    necessitates. </p>
-                <p>[2.] Magna et lata imperia multa absumunt, ut nesciam, an exterae res
-                    providere semper possint. Dum una olim <placeName>Varadini</placeName><note
-                        type="critic">Oradea.</note> litteris operam daremus, memini me legisse τὸν
-                    ἀπολογὸν τοῦ <choice>
+                        type="critic" xml:id="note.5">Sibiu.</note> non ultra durabit, quam
+                    adversarii prohibuerint colonorum egressum. Non miror Hungaros nostros, ut
+                    scribis, multum esse fractos. Quis enim etiam fortissimus tanta malorum omnium
+                    tolerantia non debilitari potest? Illud potius miror, quod ab eis novem aut
+                    circiter annis vana spe <del corresp="Olahus">freti</del><add corresp="Olahus"
+                        type="corr">fieri</add>, tantae patientes fuerint, servitutis, veteris suae
+                    libertatis, virtutis <del corresp="Olahus">ne regi si viderent mandatum
+                        serenissimi? Nisi</del> fortitudinis et gloriae immemores. Et non cogitarint
+                    modum, ne perpetuo essent miseri aliisque nationibus ludibrio. Maximam scribis
+                    nunc esse occasionem, ut Turca absente principes nostri aliquid faciant pro
+                    Hungaria recuperanda. Praeterierunt etiam antea plurimae bonae occasiones.
+                    Cuperem a Deo, ne haec quoque, ut aliae, praeteriret. Quicquid regina aliquando
+                    potuerit, non dubium est, quin faciet τὰ χρήματα περὶ ὧν ἔγραψας,<note
+                        type="critic" xml:id="note.6">‘the things about which you have
+                        written’.</note> non longe illinc absunt. Quae fieri potuerunt, modo aliquid
+                    firmi incipiatur. Non desunt ubique urgentes necessitates. </p>
+                <p xml:id="p.3">[2.] Magna et lata imperia multa absumunt, ut nesciam, an exterae
+                    res providere semper possint. Dum una olim <placeName>Varadini</placeName><note
+                        type="critic" xml:id="note.7">Oradea.</note> litteris operam daremus, memini
+                    me legisse τὸν ἀπολογὸν τοῦ <choice>
                         <orig>ἠσόπου</orig>
                         <supplied>Αἰσώπου</supplied>
-                    </choice><note type="critic">‘Aesop's fable on the lark’.</note> de <del
-                        corresp="Olahus">cassida</del><add corresp="Olahus" type="corr"
-                        >cassita</add>, de qua et <milestone unit="pb"/><persName>Aulus Gellius</persName> mentionem facit.<note type="critic"
-                        >Aul. Gell. <hi rend="italic">Noct. Att.</hi> II,29,1 and 3.</note> Non
-                    inutilem rem faceremus, immo Hungariae proficuam, si illam sequeremur. Nam ἀεὶ
-                    τῶν ἀλλῶν τὰ χρήματα<note type="critic">‘always [expecting] things/money from
-                        others’.</note> exspectare non secus est, quam implere τὸν πίθον ἀνεὺ<note
-                        type="critic">‘bottomless barrel’.</note> fundo. De bonis meis nihil aliud
-                    prae dolore scribere possum, quam me vehementer mirari, me a rege hoc esse pro
-                    veteribus servitiis fidelibusque meritum, ut passus sit tam diu et patiatur me
-                    meis per eos, qui subditi ei sunt violenter privari. At nostri nunc non curant
-                    regium mandatum. In meis non curant, <del corresp="Olahus">Iaurinis</del><add
-                        corresp="Olahus" type="corr">Iaurini</add> et <del corresp="Olahus"
-                        >Nittrii</del><add corresp="Olahus" type="corr">Nittriae</add> remissionem
-                    curant, praeterea <del corresp="Olahus">Ieronimus</del><add corresp="Olahus"
-                        type="corr">Hyeronimus</add><note type="critic">Jeromos Horváth of
+                    </choice><note type="critic" xml:id="note.8">‘Aesop's fable on the lark’.</note>
+                    de <del corresp="Olahus">cassida</del><add corresp="Olahus" type="corr"
+                        >cassita</add>, de qua et <milestone unit="pb"/><persName>Aulus
+                        Gellius</persName> mentionem facit.<note type="critic" xml:id="note.9">Aul.
+                        Gell. <hi rend="italic">Noct. Att.</hi> II,29,1 and 3.</note> Non inutilem
+                    rem faceremus, immo Hungariae proficuam, si illam sequeremur. Nam ἀεὶ τῶν ἀλλῶν
+                    τὰ χρήματα<note type="critic" xml:id="note.10">‘always [expecting] things/money
+                        from others’.</note> exspectare non secus est, quam implere τὸν πίθον
+                        ἀνεὺ<note type="critic" xml:id="note.11">‘bottomless barrel’.</note> fundo.
+                    De bonis meis nihil aliud prae dolore scribere possum, quam me vehementer
+                    mirari, me a rege hoc esse pro veteribus servitiis fidelibusque meritum, ut
+                    passus sit tam diu et patiatur me meis per eos, qui subditi ei sunt violenter
+                    privari. At nostri nunc non curant regium mandatum. In meis non curant, <del
+                        corresp="Olahus">Iaurinis</del><add corresp="Olahus" type="corr"
+                        >Iaurini</add> et <del corresp="Olahus">Nittrii</del><add corresp="Olahus"
+                        type="corr">Nittriae</add> remissionem curant, praeterea <del
+                        corresp="Olahus">Ieronimus</del><add corresp="Olahus" type="corr"
+                        >Hyeronimus</add><note type="critic" xml:id="note.12">Jeromos Horváth of
                         Vásonkő.</note> et alii <del corresp="Olahus">resisterant</del><add
                         corresp="Olahus" type="corr">resisterent</add>, <add corresp="Olahus"
                         type="insert">si serium regis viderint mandatum</add>. Nisi me fides erga
@@ -266,25 +323,26 @@
                         corresp="Olahus" type="corr">infula</add>, quam scio, quanti sit et oneris
                     et periculi ferre, si hi volumus esse, qui debemus, sed contemptu. In quibus
                     utrisque rebus summa est mihi spes in te et <persName>Agriensi</persName>,<note
-                        type="critic">Tamás Szalaházy.</note> quos facturos non dubito, ut et mea
-                    bona iam tandem rehabeam et non negligar perpetuo. Non est, cur tabellariorum
-                    raritatem accuses. Veniunt huc singulis octo diebus veredarii et abeunt.
-                    Litteras, quas dare ad me volueris, da saltem ad manus domini
-                        <persName>Lundensis</persName>,<note type="critic">Johan Weze.</note>
-                    oratoris caesarei, si adhuc ibi est, vel magistri postharum. Eorum opera
-                    litterae frequenter huc veniunt. </p>
-                <p>Nova hic pauca, res spectare videtur ad bellum. Undequaque malos caesar
-                    vicinos habet, plus nequitiae et malae practicae, quam veri bonique amantes. Si
-                        <persName>Brodericus</persName><note type="critic">István Brodarics.</note>
-                    aliquid boni concluserit, fac me certiorem. Periculi nostrae Hungariae caput
-                    fuit discordia et dissensio, hoc non nisi concordia et unanimitate extingui
-                    reformarique potest. Turca apud <persName>regem Galliae</persName><note
-                        type="critic">King Francis I.</note> nunc habet oratorem, qui illi amicus
-                    est, nobis inimicus. Nisi Maius aut Aprilis futurus aliquid boni ferat
-                    Hungariae, res postea erit durior. Vale et oro mea servitia dominis
-                        <persName>Agriensi</persName> et <persName>Strigoniensi</persName><note
-                        type="critic">Pál Várday.</note> commendari. </p>
-                <p><placeName>Bruxellae</placeName> paenultima Ianuarii 1535.</p>
+                        type="critic" xml:id="note.13">Tamás Szalaházy.</note> quos facturos non
+                    dubito, ut et mea bona iam tandem rehabeam et non negligar perpetuo. Non est,
+                    cur tabellariorum raritatem accuses. Veniunt huc singulis octo diebus veredarii
+                    et abeunt. Litteras, quas dare ad me volueris, da saltem ad manus domini
+                        <persName>Lundensis</persName>,<note type="critic" xml:id="note.14">Johan
+                        Weze.</note> oratoris caesarei, si adhuc ibi est, vel magistri postharum.
+                    Eorum opera litterae frequenter huc veniunt. </p>
+                <p xml:id="p.4">Nova hic pauca, res spectare videtur ad bellum. Undequaque malos
+                    caesar vicinos habet, plus nequitiae et malae practicae, quam veri bonique
+                    amantes. Si <persName>Brodericus</persName><note type="critic" xml:id="note.15"
+                        >István Brodarics.</note> aliquid boni concluserit, fac me certiorem.
+                    Periculi nostrae Hungariae caput fuit discordia et dissensio, hoc non nisi
+                    concordia et unanimitate extingui reformarique potest. Turca apud
+                        <persName>regem Galliae</persName><note type="critic" xml:id="note.16">King
+                        Francis I.</note> nunc habet oratorem, qui illi amicus est, nobis inimicus.
+                    Nisi Maius aut Aprilis futurus aliquid boni ferat Hungariae, res postea erit
+                    durior. Vale et oro mea servitia dominis <persName>Agriensi</persName> et
+                        <persName>Strigoniensi</persName><note type="critic" xml:id="note.17">Pál
+                        Várday.</note> commendari. </p>
+                <p xml:id="p.5"><placeName>Bruxellae</placeName> paenultima Ianuarii 1535.</p>
             </div>
         </body>
     </text>

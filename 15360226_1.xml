@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">562</title>
-                <title type="main">István Brodarics to Miklós Oláh (Naples, 26 February
-                    1536)</title>
+                <title key="body" n="562" type="main">István Brodarics to Miklós Oláh (Naples, 26
+                    February 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15360226_1</idno>
-                
+                <idno type="PID">olahus.tei.15360226_1</idno>
+                <idno type="ITIdata">Q473222</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15360226_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,40 +80,34 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
-                            <ref>/o:olahus.tei.15360330_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15360330_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 569; <hi rend="smallcap">Kasza</hi> 2012,
-                    475–476; <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><hi
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 569; <hi
+                        rend="smallcap">Kasza</hi> 2012, 475–476;
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><hi
                         rend="smallcap">Jovanović et al.</hi><?oxy_custom_end?> [2014].</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1184–1187.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15360330_1" type="url">563</ref>
+                        <ref target="15360330_1" type="url">563</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -137,11 +141,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,70 +215,64 @@
             </textClass>
             <creation>
                 <date when="1536-02-26">26 February 1536</date>
-                <placeName>Naples</placeName>
+                <placeName>Naples<idno type="ITIdata">Q21637</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>István Brodarics</persName>
-                    <orgName/>
+                    <persName>István Brodarics<idno type="ITIdata">Q142886</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1536-03-29"/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">István Brodarics to Miklós Oláh (Naples, 26 February 1536)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>It has been a long time since they have written to each other, although
-                            they love each other like brothers. He can understand the situation,
-                            they were negotiating peace in Vienna for a long time, and now they are
-                            continuing here (in Naples), hopefully with good outcomes. He asks Oláh
-                            to recommend him to the Queen’s attention; if she is angry with him
-                            because he had left for Bratislava, he could say what Aeneas told Dido:
-                            he did not leave of his own accord.</p>
+                        <p xml:id="reg.p.1">It has been a long time since they have written to each
+                            other, although they love each other like brothers. He can understand
+                            the situation, they were negotiating peace in Vienna for a long time,
+                            and now they are continuing here (in Naples), hopefully with good
+                            outcomes. He asks Oláh to recommend him to the Queen’s attention; if she
+                            is angry with him because he had left for Bratislava, he could say what
+                            Aeneas told Dido: he did not leave of his own accord.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Stephanus Brodericus episcopus Quinqueecclesiensis Nicolao Olao suo. </p>
-                <p>Carissime Domine et Frater, salutem plurimam et commendationem! Tamdiu
-                    nec tu quicquam ad me scribis,<note type="critic">The last letters we know
-                        between them, were written by Oláh to Brodarics on 18 February, 1533, and
-                        Brodarics to Oláh on 8 March, 1533.</note> nec ego ad te, licet et ego te
-                        <add corresp="Olahus" type="insert">ut</add> fratrem amem, et eundem
-                    affectum in te esse erga me non dubitem. Statum rerum nostrarum aperte
+                <p xml:id="p.1">Stephanus Brodericus episcopus Quinqueecclesiensis Nicolao Olao suo. </p>
+                <p xml:id="p.2">Carissime Domine et Frater, salutem plurimam et commendationem!
+                    Tamdiu nec tu quicquam ad me scribis,<note type="critic" xml:id="note.1">The
+                        last letters we know between them, were written by Oláh to Brodarics on 18
+                        February, 1533, and Brodarics to Oláh on 8 March, 1533.</note> nec ego ad
+                    te, licet et ego te <add corresp="Olahus" type="insert">ut</add> fratrem amem,
+                    et eundem affectum in te esse erga me non dubitem. Statum rerum nostrarum aperte
                     intelligis. Tamdiu tractata est pax <placeName>Viennae</placeName>, ut huc nunc
                     sit translata, hic, speramus, bonum exitum habebit, quod Deus concedere
                     dignetur, bonorum omnium largitor, fortuna caesaris et fratris. </p>
-                <p>Rogo Tuam Dominationem, ut meam humillimam servitutem in gratiam sacrae
-                        <persName>reginalis maiestatis</persName>, dominae meae clementissimae
+                <p xml:id="p.3">Rogo Tuam Dominationem, ut meam humillimam servitutem in gratiam
+                    sacrae <persName>reginalis maiestatis</persName>, dominae meae clementissimae
                     commendare velis. Cui, si ob meum ex <placeName>Posonio</placeName> a se et a
                     vobis discessum adhuc indignatur, possem vere illud dicere, quod est apud
                     poetam: </p>
-                
-                    <quote>
-                      <lg>
-                           <l>Invitus regina tuo de limine cessi,</l>
-                           <l>sed me fata
-                               deum, quae nunc has ire per undas etc.</l>
-                           <l>imperiis egere
-                               suis.</l>
-                       </lg></quote>
-                    <note type="quote">Verg. <hi rend="italic">Aen</hi>. 460–461, 463. Brodarics
-                        knew another edition, than the basis of today critical editions where this
-                        passus is: “Invitus, regina, tuo litore cessi / sed me iussa deum, quae nunc
-                        has ire per umbras.”</note>
-                <p>Scribe iam tandem aliquid ad me saltem provocatus, et optime vale. </p>
-                <p><placeName>Neapoli</placeName> XXVI. Februarii anno a Christo nato
+                <quote xml:id="quote.1">
+                    <lg xml:id="lg.1">
+                        <l xml:id="l.1">Invitus regina tuo de limine cessi,</l>
+                        <l xml:id="l.2">sed me fata deum, quae nunc has ire per undas etc.</l>
+                        <l xml:id="l.3">imperiis egere suis.</l>
+                    </lg>
+                </quote>
+                <note type="quote" xml:id="note.quote.1">Verg. <hi rend="italic">Aen</hi>. 460–461,
+                    463. Brodarics knew another edition, than the basis of today critical editions
+                    where this passus is: “Invitus, regina, tuo litore cessi / sed me iussa deum,
+                    quae nunc has ire per umbras.”</note>
+                <p xml:id="p.4">Scribe iam tandem aliquid ad me saltem provocatus, et optime vale. </p>
+                <p xml:id="p.5"><placeName>Neapoli</placeName> XXVI. Februarii anno a Christo nato
                     1536.</p>
             </div>
         </body>

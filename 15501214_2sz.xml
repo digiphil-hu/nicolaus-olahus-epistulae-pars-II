@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">755</title>
-                <title type="main">Miklós Oláh to The Seven Mining Towns (Augsburg, 14 December
-                    1550)</title>
+                <title key="body" n="755" type="main">Miklós Oláh to The Seven Mining Towns
+                    (Augsburg, 14 December 1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15501214_2</idno>
-                
+                <idno type="PID">olahus.tei.15501214_2sz</idno>
+                <idno type="ITIdata">Q473412</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15501214_2sz.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,105 +80,105 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms. I is the original letter with signature
-                        and seal. Ms. II is a copy. </p>
-                </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Ms. I is the original letter with signature and
+                        seal. Ms. II is a copy. </p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15501214_1" type="url">754</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15501214_1" type="url">754</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <country>Slovakia</country>
-                        <settlement>Banská Štiavnica</settlement>
-                        <institution>ŠABB PBŠ MMBŠ</institution>
-                        <repository>Missiles 1551</repository>
-                        <idno/>
-                        <msName/>
-                    </msIdentifier>
-                    <msPart style="letter">
-                        <msIdentifier/>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="folio"/>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                    <msPart style="_letter">
-                        <msIdentifier>
-                            <country>Slovakia</country>
-                            <settlement>Kremnica</settlement>
-                            <institution>SNA ŠAKR</institution>
-                            <repository>Tom. I. Font. 26. Fasc. 1. No. 59.</repository>
-                            <idno/>
-                            <msName/>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="folio">fol. 4–5. </measure>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                </msDesc>
                 <listWit>
                     <witness xml:id="CE">Critical edition</witness>
                     <witness xml:id="I">ŠABB PBŠ MMBŠ, Missiles 1551.</witness>
                     <witness xml:id="II">ŠABB PK MMK, Tom. I. Font. 26. Fasc. 1. No. 59. fol.
                         4–5.</witness>
                 </listWit>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -177,86 +187,87 @@
             </textClass>
             <creation>
                 <date when="1550-12-14">14 December 1550</date>
-                <placeName>Augsburg</placeName>
+                <placeName>Augsburg<idno type="ITIdata">Q9064</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>The Seven Mining Towns</persName>
-                    <orgName/>
+                    <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to The Seven Mining Towns (Augsburg, 14 December
                     1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He understands what they wrote about the new administration of the mining
-                            towns in their latest letter, and he has presented the matter to the
-                            King. The new administration will not be to their detriment, and Oláh
-                            supports their case. Their letter to Queen Mary is with him, he will
-                            hand it over when she arrives, probably on 10 January. They will learn
-                            from the King’s letter what he responds about the money, the mine, the
-                            coal burner, and the workers.</p>
+                        <p xml:id="reg.p.1">He understands what they wrote about the new
+                            administration of the mining towns in their latest letter, and he has
+                            presented the matter to the King. The new administration will not be to
+                            their detriment, and Oláh supports their case. Their letter to Queen
+                            Mary is with him, he will hand it over when she arrives, probably on 10
+                            January. They will learn from the King’s letter what he responds about
+                            the money, the mine, the coal burner, and the workers.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem! </p>
-                <p>Ea, quae nobis diebus superioribus de nova ordinatione in istis
+                <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem! </p>
+                <p xml:id="p.2">Ea, quae nobis diebus superioribus de nova ordinatione in istis
                     montanis per dominos commissarios regiae maiestatis etc. facta scripsistis,<note
-                        type="critic">See Ep. 754.</note><ref>/o:olahus.tei.15501214_1</ref>
-                    intelleximus. Nos exhibitis <persName>regiae maiestati</persName> aliis litteris
-                    vestris apud suam maiestatem pro vobis diligenter egimus. Et quemadmodum ex
-                    litteris suae maiestatis cum praesentibus ad vos missis <app>
-                        <lem wit="#CE #I">intelligetis</lem>
-                        <rdg wit="#II">intelliget</rdg>
+                        type="critic" xml:id="note.1">See Ep.
+                        754.<ref>olahus.tei.15501214_1</ref></note> intelleximus. Nos exhibitis
+                        <persName>regiae maiestati</persName> aliis litteris vestris apud suam
+                    maiestatem pro vobis diligenter egimus. Et quemadmodum ex litteris suae
+                    maiestatis cum praesentibus ad vos missis <app xml:id="app.1">
+                        <lem wit="#CE #I" xml:id="lem.1">intelligetis</lem>
+                        <rdg wit="#II" xml:id="rdg.1">intelliget</rdg>
                     </app>, ordinatio illa et reformatio montanarum non cedet in vestrum, vel
-                    montanarum vestrarum damnum. Neque etiam in <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">quibuscumque rebus</rdg>
+                    montanarum vestrarum damnum. Neque etiam in <app xml:id="app.2">
+                        <lem wit="#CE #I" xml:id="lem.2"/>
+                        <rdg wit="#II" xml:id="rdg.2">quibuscumque rebus</rdg>
                     </app> processibus aut appellationibus iurium extra regnum Hungariae quicquam
                     statui sua maiestas permittet, deinceps etiam quibuscumque rebus poterimus,
-                    negotia vestra libenter promovebimus apud suam maiestatem. Litteras autem <app>
-                        <lem wit="#CE #I">vestras</lem>
-                        <rdg wit="#II"/>
+                    negotia vestra libenter promovebimus apud suam maiestatem. Litteras autem <app
+                        xml:id="app.3">
+                        <lem wit="#CE #I" xml:id="lem.3">vestras</lem>
+                        <rdg wit="#II" xml:id="rdg.3"/>
                     </app>, quas ad serenissimam <persName>Mariam</persName> reginam, dominam
                     nostram clementissimam dedistis, hic apud nos retinuimus usque ad adventum huc
                     suae maiestatis. Exspectamus enim ad decimum diem Ianuarii huc suam maiestatem,
-                    cui tunc litteras <app>
-                        <lem wit="#CE #I">ipsas</lem>
-                        <rdg wit="#II">suas</rdg>
+                    cui tunc litteras <app xml:id="app.4">
+                        <lem wit="#CE #I" xml:id="lem.4">ipsas</lem>
+                        <rdg wit="#II" xml:id="rdg.4">suas</rdg>
                     </app> reddemus. Quid etiam maiestas regia in causa monetariorum, urburariorum,
-                    carbonariorumque et laboratorum responderit, litteras suae maiestatis ad <app>
-                        <lem wit="#CE #II">vos</lem>
-                        <rdg wit="#I">eos</rdg>
+                    carbonariorumque et laboratorum responderit, litteras suae maiestatis ad <app
+                        xml:id="app.5">
+                        <lem wit="#CE #II" xml:id="lem.5">vos</lem>
+                        <rdg wit="#I" xml:id="rdg.5">eos</rdg>
                     </app> misimus. Bene valete. </p>
-                <p>Datum <placeName>Augustae Vindelicorum</placeName> die 14. Decembris
+                <p xml:id="p.3">Datum <placeName>Augustae Vindelicorum</placeName> die 14. Decembris
                     anno Domini millesimo quingentesimo quinquagesimo. </p>
-                <p><app>
-                        <lem wit="#CE #I">
+                <p xml:id="p.4">
+                    <app xml:id="app.6">
+                        <lem wit="#CE #I" xml:id="lem.6">
                             <seg type="signature">
                                 <add corresp="Olahus" type="insert">Vester Agriensis etc. manu
                                     propria</add>
                             </seg>
                         </lem>
-                        <rdg wit="#II">Vester Agriensis manu propria</rdg>
-                    </app></p>
+                        <rdg wit="#II" xml:id="rdg.6">Vester Agriensis manu propria</rdg>
+                    </app>
+                </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Prudentibus et circumspectis iudicibus et iuratis civibus septem
+                <p xml:id="p.5">Prudentibus et circumspectis iudicibus et iuratis civibus septem
                     civitatum montanarum etc. dominis et amicis nobis honorandis.</p>
             </div>
         </body>

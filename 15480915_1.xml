@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">688</title>
-                <title type="main">Pál Várday and Miklós Oláh to King Ferdinand I (Vienna, 15
-                    September 1548)</title>
+                <title key="body" n="688" type="main">Pál Várday and Miklós Oláh to King Ferdinand I
+                    (Vienna, 15 September 1548)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15480915_1</idno>
-                
+                <idno type="PID">olahus.tei.15480915_1</idno>
+                <idno type="ITIdata">Q473350</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15480915_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signatures.
-                        <ref>/o:olahus.tei.15480916_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with signatures.
+                            <ref>/o:olahus.tei.15480916_1</ref></p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15480916_1" type="url">689</ref>
+                        <ref target="15480916_1" type="url">689</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -134,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,80 +207,83 @@
             </textClass>
             <creation>
                 <date when="1548-09-15">15 September 1548</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pál Várday and Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pál Várday and Miklós Oláh to King Ferdinand I (Vienna, 15
                     September 1548)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>The Forgách brothers wanted to present their case to the King yesterday,
-                            but when they learned that the King had already left, they also headed
-                            home; however, Wolfgang von Puchheim captured them on the way and led
-                            them to the castle of Kittsee. Then the Forgách brothers’ servitors
-                            arrived today and asked Oláh to ask the King to keep his previous
-                            decision according to which Puchheim should release the brothers; the
-                            noblemen should not have cause to complain that they are oppressed.
-                            Niklas von Salm will tell the rest in person.</p>
+                        <p xml:id="reg.p.1">The Forgách brothers wanted to present their case to the
+                            King yesterday, but when they learned that the King had already left,
+                            they also headed home; however, Wolfgang von Puchheim captured them on
+                            the way and led them to the castle of Kittsee. Then the Forgách
+                            brothers’ servitors arrived today and asked Oláh to ask the King to keep
+                            his previous decision according to which Puchheim should release the
+                            brothers; the noblemen should not have cause to complain that they are
+                            oppressed. Niklas von Salm will tell the rest in person.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Sacratissime Rex, Domine Clementissime! Orationum devotarum et fidelium
-                    servitiorum nostrorum in gratiam Maiestatis Vestrae humillimam
+                <p xml:id="p.1">Sacratissime Rex, Domine Clementissime! Orationum devotarum et
+                    fidelium servitiorum nostrorum in gratiam Maiestatis Vestrae humillimam
                     commendationem!</p>
-                <p>Veniebant heri egregii <persName>Sigismundus</persName><note
-                        type="critic">Zsigmond I Forgách (†1563) was Royal Treasurer from 1537,
-                        responsible for the conscriptions, see <hi rend="smallcap">Benkő</hi> 2020,
-                        especially 25–26.</note> et <persName>Ladislaus Forgach</persName><note
-                        type="critic">László III Forgách was the uncle of Zsigmond Forgách and
-                        Mihály Révay’s brother-in-law, see <hi rend="smallcap">Bártfai Szabó</hi>
-                        1904, 216.</note> fratres huc ad Maiestatem Vestram personaliter, negotium
-                    illud, quod Maiestas Vestra scit, eidem declaraturi. Qui cum in itinere
-                    cognovissent Maiestatem Vestram hinc discessisse et redirent domum, a magnifico
-                    domino <persName>Wolffgango de Pukam</persName><note type="critic">Wolfgang von
-                        Puchheim.</note> sunt intercepti<note type="critic">The Forgáchs fell from
-                        King Ferdinand I’s grace because they killed György Mihály Koppány, Wolgang
-                        von Puchheim's Lieutenant, see <hi rend="smallcap">Almási</hi> 2006,
-                        1406–1407; and <hi rend="smallcap">Bártfai Szabó</hi> 1904, 17–18. For
-                        details of the case, see <hi rend="smallcap">Bártfai Szabó</hi> 2010,
-                        214–225.</note> et in castellum <placeName>Kepchen</placeName><note
-                        type="critic">Kittsee.</note> inducti. Accesserunt vero nos hodie fratres et
-                    servitores ipsorum <persName>Forgach</persName>, petieruntque a nobis, ut vices
-                    nostras apud Maiestatem Vestram interponamus, quo eadem dignetur iuxta nobilium
-                    regni Hungariae libertates praefatos liberos dimittendos committere, supplicamus
+                <p xml:id="p.2">Veniebant heri egregii <persName>Sigismundus</persName><note
+                        type="critic" xml:id="note.1">Zsigmond I Forgách (†1563) was Royal Treasurer
+                        from 1537, responsible for the conscriptions, see <hi rend="smallcap"
+                            >Benkő</hi> 2020, especially 25–26.</note> et <persName>Ladislaus
+                        Forgach</persName><note type="critic" xml:id="note.2">László III Forgách was
+                        the uncle of Zsigmond Forgách and Mihály Révay’s brother-in-law, see <hi
+                            rend="smallcap">Bártfai Szabó</hi> 1904, 216.</note> fratres huc ad
+                    Maiestatem Vestram personaliter, negotium illud, quod Maiestas Vestra scit,
+                    eidem declaraturi. Qui cum in itinere cognovissent Maiestatem Vestram hinc
+                    discessisse et redirent domum, a magnifico domino <persName>Wolffgango de
+                        Pukam</persName><note type="critic" xml:id="note.3">Wolfgang von
+                        Puchheim.</note> sunt intercepti<note type="critic" xml:id="note.4">The
+                        Forgáchs fell from King Ferdinand I’s grace because they killed György
+                        Mihály Koppány, Wolgang von Puchheim's Lieutenant, see <hi rend="smallcap"
+                            >Almási</hi> 2006, 1406–1407; and <hi rend="smallcap">Bártfai Szabó</hi>
+                        1904, 17–18. For details of the case, see <hi rend="smallcap">Bártfai
+                            Szabó</hi> 2010, 214–225.</note> et in castellum
+                        <placeName>Kepchen</placeName><note type="critic" xml:id="note.5"
+                        >Kittsee.</note> inducti. Accesserunt vero nos hodie fratres et servitores
+                    ipsorum <persName>Forgach</persName>, petieruntque a nobis, ut vices nostras
+                    apud Maiestatem Vestram interponamus, quo eadem dignetur iuxta nobilium regni
+                    Hungariae libertates praefatos liberos dimittendos committere, supplicamus
                     itaque Maiestati Vestrae, dignetur in priori sua deliberatione persistere et
                     concedere, ut ad terminum, quem Maiestas Vestra utrique parti praefixit, coram
                     Maiestate Vestra compereat, dominusque <persName>Wolffgangus</persName> eos
                     interim liberos abire permittat; ne nobiles possint iuste clamare sese suis
                     immunitatibus ac veteribus libertatibus privari. </p>
-                <p>De quibus, ut plura nostro nomine Maiestati Vestrae narret et
+                <p xml:id="p.3">De quibus, ut plura nostro nomine Maiestati Vestrae narret et
                     supplicet, spectabilem et magnificum dominum <persName>generalem
-                        capitaneum</persName><note type="critic">Niklas von Salm.</note> rogavimus,
-                    cui, ut benignas aures adhibere eadem dignetur, humillime supplicamus Maiestati
-                    Vestrae. Quam Deus omnipotens sanam et incolumem conservet.</p>
-                <p><placeName>Viennae</placeName> 15. Septembris 1548.</p>
-                <p>Sacratissimae Maiestatis Vestrae fideles servitores et capellani: </p>
-                <p><seg type="signature"><add corresp="author" type="insert">Strigoniensis
-                            manu propria</add></seg></p>
-                <p>
+                        capitaneum</persName><note type="critic" xml:id="note.6">Niklas von
+                        Salm.</note> rogavimus, cui, ut benignas aures adhibere eadem dignetur,
+                    humillime supplicamus Maiestati Vestrae. Quam Deus omnipotens sanam et incolumem
+                    conservet.</p>
+                <p xml:id="p.4"><placeName>Viennae</placeName> 15. Septembris 1548.</p>
+                <p xml:id="p.5">Sacratissimae Maiestatis Vestrae fideles servitores et capellani: </p>
+                <p xml:id="p.6">
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Strigoniensis manu propria</add>
+                    </seg>
+                </p>
+                <p xml:id="p.7">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Zagrabiensis etc. manu propria</add>
                     </seg>

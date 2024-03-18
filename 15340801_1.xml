@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">501</title>
-                <title type="main">Miklós Oláh to Cornelis de Schepper (Brussels, 1 August
-                    1534)</title>
+                <title key="body" n="501" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    1 August 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340801_1</idno>
-                
+                <idno type="PID">olahus.tei.15340801_1</idno>
+                <idno type="ITIdata">Q473162</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340801_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,32 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
-                            <ref>/o:olahus.tei.15340602_1</ref>
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15340602_1</ref></p>
                 </note>
                 <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 519–520.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 308.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 308; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1752–1755.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340602_1" type="url">492</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15340602_1" type="url">492</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -135,11 +139,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,86 +213,84 @@
             </textClass>
             <creation>
                 <date when="1534-08-01">1 August 1534</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 1 August
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has received Schepper’s letter of 2 June. Since they have not heard
-                            from him for a long time, and an old wench filled Schepper’s wife’s head
-                            with having seen Schepper in her dream begging them to pray for his
-                            soul, the wife has sent Pieter Lauweijns to Oláh to ask him about
-                            Schepper. He has reassured her now, but Schepper should return home in
-                            one piece so they cannot say he has gone to Constantinople in vain
-                            twice. 2. As far as Oláh’s affairs are concerned, he should already have
-                            understood a long time ago from the instructions what he needs to do.
-                            Oláh sends his greetings Johan Weze and says that the envoys sent to
-                            Denmark have returned home without having done what they went for; the
-                            Queen sent the German Tucher the other day, who will hopefully not turn
-                            back for fear.</p>
+                        <p xml:id="reg.p.1">1. He has received Schepper’s letter of 2 June. Since
+                            they have not heard from him for a long time, and an old wench filled
+                            Schepper’s wife’s head with having seen Schepper in her dream begging
+                            them to pray for his soul, the wife has sent Pieter Lauweijns to Oláh to
+                            ask him about Schepper. He has reassured her now, but Schepper should
+                            return home in one piece so they cannot say he has gone to
+                            Constantinople in vain twice. 2. As far as Oláh’s affairs are concerned,
+                            he should already have understood a long time ago from the instructions
+                            what he needs to do. Oláh sends his greetings Johan Weze and says that
+                            the envoys sent to Denmark have returned home without having done what
+                            they went for; the Queen sent the German Tucher the other day, who will
+                            hopefully not turn back for fear.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolai Olai ad Cornelium Scepperum responsio. </p>
-                <p>[1.] Litteras tuas ex <placeName>Constantinopoli</placeName> secunda
-                    Iunii datas<note type="critic">Ep.
-                        492.</note><ref>/o:olahus.tei.15340602_1</ref> accepi nudiusquartus. Laetor
+                <p xml:id="p.1">Nicolai Olai ad Cornelium Scepperum responsio. </p>
+                <p xml:id="p.2">[1.] Litteras tuas ex <placeName>Constantinopoli</placeName> secunda
+                    Iunii datas<note type="critic" xml:id="note.1">Ep.
+                            492.<ref>olahus.tei.15340602_1</ref></note> accepi nudiusquartus. Laetor
                     ex animo te sanum esse et revertisse. Nam ex quibusdam aliis tuis intelleximus
                     te XV. mensis praeteriti applicuisse <placeName>Posonium</placeName>.
-                        <persName>Uxor</persName>,<note type="critic">Anna Isabella (Elizabeth)
-                        Donche.</note> liberi, familia, fratres et amici sunt omnes sani. Cum nihil
-                    certi de te audire poteramus, domina miserat ad me XXIIII. Iulii praeteriti
-                        <persName>Petrum</persName><note type="critic">Pieter Lauwerijns was brother
-                        of Mark Lauweijns.</note> domini <persName>decani</persName><note
-                        type="critic">Mark Lauweijns.</note> sciscitatum de tuo statu. Quaedam anus
-                    mirum in modum eam conturbarat, dicens se vidisse in somnis te ter ad eam
-                    venisse et precatum, ut pro tua anima preces ad Deum funderentur; his anus
-                    verbis familia plurimum erat maesta, cum <persName>Petrum</persName> ad me
-                    misissent. Ego quantum potui fallacias eius vetulae detestatus sum, et iussi
-                    dominam et totam familiam bono esse animo, nam propediem reversurus esses
-                    incolumis. Ex supputatione enim dierum discessus tui erat mihi spes te non
-                    tarditurum. Sic <persName>Petro</persName> reverso in tempore advenerunt
-                    litterae tuae. Scripsi rursus denuo <persName>uxori</persName> tuae, credo eam
-                    nunc esse laetam. Nullas postea ab ea accepi litteras. Tu fac, ut confectis
-                    istic bene rebus redeas, fac tamen, ut possimus dicere te non frustra bis fuisse
-                    profectam <placeName>Constantinopolim</placeName>. Scribe huc certi aliquid,
-                    rogo, et an sit spes aliqua pacis. </p>
-                <p>[2.] Meas autem res in quancumque partem res ceciderit, confice ex
-                    animi nostri <milestone unit="pb"/><del corresp="Olahus">cor</del> nisi me
-                    iugulare volueris <add corresp="Olahus" type="insert">sententia</add>. Ex
-                    instructione olim missa omnia intellexisti iampridem. Domino
-                        <persName>Lundensi</persName><note type="critic">Johan Weze.</note> commenda
-                    me, et dic, quod oratores nostri reversi sunt <del corresp="Olahus">e</del><add
-                        corresp="Olahus" type="corr">ex</add>
-                    <placeName>Dania</placeName> infecta re, immo non ausi ultra fines Holsatiae
-                    progredi. Nuper misit <persName>regina</persName> rursus eo doctorem quendam
-                        Almanum<note type="critic">Instead of Alemannus, i.e. German.</note>
-                    <persName>Thuucher</persName>,<note type="critic">Lazarus Tucher (†1563) was a
-                        member of a merchant family from Nürnberg, see <hi rend="smallcap">De
-                            Vocht</hi> 1961, 303.</note> nisi et ille metu revertatur, ut antea
-                    fecerat. Vale et habe cum domino <persName>Lundensi</persName> una mea negotia
-                    commendata. </p>
-                <p><placeName>Bruxellae</placeName> prima Augusti 1534.</p>
+                        <persName>Uxor</persName>,<note type="critic" xml:id="note.2">Anna Isabella
+                        (Elizabeth) Donche.</note> liberi, familia, fratres et amici sunt omnes
+                    sani. Cum nihil certi de te audire poteramus, domina miserat ad me XXIIII. Iulii
+                    praeteriti <persName>Petrum</persName><note type="critic" xml:id="note.3">Pieter
+                        Lauwerijns was brother of Mark Lauweijns.</note> domini
+                        <persName>decani</persName><note type="critic" xml:id="note.4">Mark
+                        Lauweijns.</note> sciscitatum de tuo statu. Quaedam anus mirum in modum eam
+                    conturbarat, dicens se vidisse in somnis te ter ad eam venisse et precatum, ut
+                    pro tua anima preces ad Deum funderentur; his anus verbis familia plurimum erat
+                    maesta, cum <persName>Petrum</persName> ad me misissent. Ego quantum potui
+                    fallacias eius vetulae detestatus sum, et iussi dominam et totam familiam bono
+                    esse animo, nam propediem reversurus esses incolumis. Ex supputatione enim
+                    dierum discessus tui erat mihi spes te non tarditurum. Sic
+                        <persName>Petro</persName> reverso in tempore advenerunt litterae tuae.
+                    Scripsi rursus denuo <persName>uxori</persName> tuae, credo eam nunc esse
+                    laetam. Nullas postea ab ea accepi litteras. Tu fac, ut confectis istic bene
+                    rebus redeas, fac tamen, ut possimus dicere te non frustra bis fuisse profectam
+                        <placeName>Constantinopolim</placeName>. Scribe huc certi aliquid, rogo, et
+                    an sit spes aliqua pacis. </p>
+                <p xml:id="p.3">[2.] Meas autem res in quancumque partem res ceciderit, confice ex
+                    animi nostri </p>
+                <pb/>
+                <p xml:id="p.4"><del corresp="Olahus">cor</del> nisi me iugulare volueris <add
+                        corresp="Olahus" type="insert">sententia</add>. Ex instructione olim missa
+                    omnia intellexisti iampridem. Domino <persName>Lundensi</persName><note
+                        type="critic" xml:id="note.5">Johan Weze.</note> commenda me, et dic, quod
+                    oratores nostri reversi sunt <del corresp="Olahus">e</del><add corresp="Olahus"
+                        type="corr">ex</add><placeName>Dania</placeName> infecta re, immo non ausi
+                    ultra fines Holsatiae progredi. Nuper misit <persName>regina</persName> rursus
+                    eo doctorem quendam Almanum<note type="critic" xml:id="note.6">Instead of
+                        Alemannus, i.e. German.</note><persName>Thuucher</persName>,<note
+                        type="critic" xml:id="note.7">Lazarus Tucher (†1563) was a member of a
+                        merchant family from Nürnberg, see <hi rend="smallcap">De Vocht</hi> 1961,
+                        303.</note> nisi et ille metu revertatur, ut antea fecerat. Vale et habe cum
+                    domino <persName>Lundensi</persName> una mea negotia commendata. </p>
+                <p xml:id="p.5"><placeName>Bruxellae</placeName> prima Augusti 1534.</p>
             </div>
         </body>
     </text>

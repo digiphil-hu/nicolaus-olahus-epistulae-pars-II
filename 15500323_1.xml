@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">736</title>
-                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 23 March 1550)</title>
+                <title key="body" n="736" type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 23 March
+                    1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15500323_1</idno>
-                
+                <idno type="PID">olahus.tei.15500323_1</idno>
+                <idno type="ITIdata">Q473393</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15500323_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,55 +201,52 @@
             </textClass>
             <creation>
                 <date when="1550-03-23">23 March 1550</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Nádasdy</persName>
-                    <orgName/>
+                    <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 23 March 1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He answers briefly. István Majláth is well, he is healthy, and there
-                            is hope for his release, but they will discuss this in person. A Turkish
-                            legate has arrived, according to whom even if they defeated the
-                            Persians, it would not bring great glory. 2. He has already gotten rid
-                            of his sadness, and he bids farewell to excess, though not to good and
-                            faithful men. He bought Pál Várday’s one-time accommodation in Vienna
-                            the day before yesterday. He can live there together with his sister,
-                            nephews, and nieces. The Persians are said to have occupied the Turkish
-                            territories, the Emperor is in Brussels, and the Pope is generous with
-                            everyone.</p>
+                        <p xml:id="reg.p.1">1. He answers briefly. István Majláth is well, he is
+                            healthy, and there is hope for his release, but they will discuss this
+                            in person. A Turkish legate has arrived, according to whom even if they
+                            defeated the Persians, it would not bring great glory. 2. He has already
+                            gotten rid of his sadness, and he bids farewell to excess, though not to
+                            good and faithful men. He bought Pál Várday’s one-time accommodation in
+                            Vienna the day before yesterday. He can live there together with his
+                            sister, nephews, and nieces. The Persians are said to have occupied the
+                            Turkish territories, the Emperor is in Brussels, and the Pope is
+                            generous with everyone.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Servitiorum meorum commendationem, Spectabilis et Magnifice Domine ac
-                    Frater Observandissime!</p>
-                <p>[1.] Brevibus respondeo ad litteras<note type="critic">We do not know
-                        this letter.</note> Dominationis Vestrae Magnificae. De domino et fratre
-                    nostro <persName>Maylath</persName><note type="critic">István Majláth.</note>
-                    sit bono animo, sanus erat, non fulmine tactus, non circumcisus, nec servitio
-                    Turcico aut Gallo datus. De liberatione illius aliquid intellexeram, de qua
-                    coram plura.<note type="critic">In fact, István Majláth was not rescued, he died
-                        in prison at the end of 1550.</note> Res Deo volente melius succedet, bono
-                    igitur sis animo.</p>
-                <p><persName>Nuntius</persName><note type="critic">We do not know him more
-                        closely.</note> Turcicus non repetitum <choice>
+                <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
+                    ac Frater Observandissime!</p>
+                <p xml:id="p.2">[1.] Brevibus respondeo ad litteras<note type="critic"
+                        xml:id="note.1">We do not know this letter.</note> Dominationis Vestrae
+                    Magnificae. De domino et fratre nostro <persName>Maylath</persName><note
+                        type="critic" xml:id="note.2">István Majláth.</note> sit bono animo, sanus
+                    erat, non fulmine tactus, non circumcisus, nec servitio Turcico aut Gallo datus.
+                    De liberatione illius aliquid intellexeram, de qua coram plura.<note
+                        type="critic" xml:id="note.3">In fact, István Majláth was not rescued, he
+                        died in prison at the end of 1550.</note> Res Deo volente melius succedet,
+                    bono igitur sis animo.</p>
+                <p xml:id="p.3"><persName>Nuntius</persName><note type="critic" xml:id="note.4">We
+                        do not know him more closely.</note> Turcicus non repetitum <choice>
                         <orig>castr<gap extent="1" reason="damage" unit="char"/></orig>
                         <supplied>castr<corr>a</corr></supplied>
                     </choice> aliqua venerat, sed nuntiatum victorias domini sui. De qua tanta
@@ -201,45 +254,46 @@
                         corresp="Olahus">usus</del> uti potuisset, contrarie his omnia, quae ibi
                     passus est, nuntiavit. Bene hic et lautissime tractatus atque renuntiatus hodie
                     hinc discessit.</p>
-                <p>[2.] Iam liberatus sum ab illo animi mei maerore, quem antea
+                <p xml:id="p.4">[2.] Iam liberatus sum ab illo animi mei maerore, quem antea
                     conceperam. Valedicam in posterum, si Deo ita visum fuerit, magistri civium et
                     aliorum insolentiae neque eorum, qui nihil pensi bonorum et fidelium virorum
-                    habent operam in hac parte <milestone unit="pb"/>desiderare, ut ut res cadet, videbo. Hospitium quondam
-                        <persName>Strigoniensis</persName><note type="critic">Pál Várday.</note> hic
-                        <placeName>Viennae</placeName> emi<note type="critic">Palais Esterházy
-                        (Wallnerstraße 4) in Vienna today, see <hi rend="smallcap">Fazekas</hi>
-                        2005, 344 and 354; and <hi rend="smallcap">Fazekas</hi> 2017, 221.</note>
-                    nudiustertius, quod felix faustumque sit, tribus millibus in monetis Hungarorum
-                    Florenorum et quadraginta magna licet pecunia. Tamen maioris facio quietem et
-                    corporis et animi magno emptam, quam inquietem nihili constantem. Arbitror me
-                    iam simul cohabitare posse <del corresp="Olahus">cum</del>
-                    <del corresp="Olahus">sorore</del><add corresp="Olahus" type="corr"
-                            ><persName>sorori</persName></add>,<note type="critic">Orsolya
-                        Oláh.</note> nepotibus et neptibus, nepotibus et neptibus,<note
-                        type="critic">Oláh’s sisters, Orsolya and Ilona, and their families lived
-                        here, and they inherited it after Oláh’s death according to his will, see
-                            <hi rend="smallcap">Merényi</hi> 1896, 139–140.</note> si Dei id
-                    promiserit clementia. <del corresp="Olahus">Ampullam</del><add corresp="Olahus"
-                        type="corr">Ampullati</add> uti tituli et magistratus valeant. Deus
-                    Dominationem Vestram Magnificam unacum domina mea observandissima domina <del
-                        corresp="Olahus">mea</del>
-                    <persName>coniuge</persName><note type="critic">Orsolya Kanizsai.</note> sua
-                    carissima felicem et incolumem conservet ad multos annos.</p>
-                <p>Ex <placeName>Vienna</placeName> 23. Martii 1550.</p>
-                <p>
+                    habent operam in hac parte <milestone unit="pb"/>desiderare, ut ut res cadet,
+                    videbo. Hospitium quondam <persName>Strigoniensis</persName><note type="critic"
+                        xml:id="note.5">Pál Várday.</note> hic <placeName>Viennae</placeName>
+                        emi<note type="critic" xml:id="note.6">Palais Esterházy (Wallnerstraße 4) in
+                        Vienna today, see <hi rend="smallcap">Fazekas</hi> 2005, 344 and 354; and
+                            <hi rend="smallcap">Fazekas</hi> 2017, 221.</note> nudiustertius, quod
+                    felix faustumque sit, tribus millibus in monetis Hungarorum Florenorum et
+                    quadraginta magna licet pecunia. Tamen maioris facio quietem et corporis et
+                    animi magno emptam, quam inquietem nihili constantem. Arbitror me iam simul
+                    cohabitare posse <del corresp="Olahus">cum</del><del corresp="Olahus"
+                        >sorore</del><add corresp="Olahus" type="corr"
+                        ><persName>sorori</persName></add>,<note type="critic" xml:id="note.7"
+                        >Orsolya Oláh.</note> nepotibus et neptibus, nepotibus et neptibus,<note
+                        type="critic" xml:id="note.8">Oláh’s sisters, Orsolya and Ilona, and their
+                        families lived here, and they inherited it after Oláh’s death according to
+                        his will, see <hi rend="smallcap">Merényi</hi> 1896, 139–140.</note> si Dei
+                    id promiserit clementia. <del corresp="Olahus">Ampullam</del><add
+                        corresp="Olahus" type="corr">Ampullati</add> uti tituli et magistratus
+                    valeant. Deus Dominationem Vestram Magnificam unacum domina mea observandissima
+                    domina <del corresp="Olahus">mea</del><persName>coniuge</persName><note
+                        type="critic" xml:id="note.9">Orsolya Kanizsai.</note> sua carissima felicem
+                    et incolumem conservet ad multos annos.</p>
+                <p xml:id="p.5">Ex <placeName>Vienna</placeName> 23. Martii 1550.</p>
+                <p xml:id="p.6">
                     <seg type="signature">Frater et servitor Agriensis etc.</seg>
                 </p>
-                <p>Persae dicuntur ditionem Turcicam post eius reditum invadere cepisse.
-                    Alia nunc nulla nova. <persName>Imperator</persName> noster
+                <p xml:id="p.7">Persae dicuntur ditionem Turcicam post eius reditum invadere
+                    cepisse. Alia nunc nulla nova. <persName>Imperator</persName> noster
                         <placeName>Bruxellis</placeName> bene valet,
-                        <persName>pontifex</persName><note type="critic">Pope Julius III.</note>
-                    liberalis est in omnes et bonis caesaris ac regis amicis, contra Galli
-                    opinionem. Alia curam.</p>
+                        <persName>pontifex</persName><note type="critic" xml:id="note.10">Pope
+                        Julius III.</note> liberalis est in omnes et bonis caesaris ac regis amicis,
+                    contra Galli opinionem. Alia curam.</p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Spectabili et magnifico domino comiti Thomae de Nadasdi perpetuo
+                <p xml:id="p.8">Spectabili et magnifico domino comiti Thomae de Nadasdi perpetuo
                     comiti terrae Fogaras, iudici curiae et supremo capitaneo regiae maiestatis etc.
                     domino et fratri observandissimo.</p>
             </div>

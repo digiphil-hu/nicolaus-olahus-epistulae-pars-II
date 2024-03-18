@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">450</title>
-                <title type="main">Miklós Oláh to Cornelis de Schepper (Brussels, 8 February
-                    1534)</title>
+                <title key="body" n="450" type="main">Miklós Oláh to Cornelis de Schepper (Brussels,
+                    8 February 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340208_2</idno>
-                
+                <idno type="PID">olahus.tei.15340208_2</idno>
+                <idno type="ITIdata">Q473112</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340208_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,37 +80,31 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 453–455.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 453–455.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 295–297.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 295–297; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1722–1729.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340117_1" type="url">442</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15340117_1" type="url">442</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -135,11 +139,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,97 +213,94 @@
             </textClass>
             <creation>
                 <date when="1534-02-08">8 February 1534</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when=" 1534-02-17"/>
                     <placeName/>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Cornelis de Schepper (Brussels, 8 February
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. About Schepper’s affairs: the Queen is happy he has been appointed;
-                            some have quoted the imperial edict that the number of councilors cannot
-                            be increased further. Oláh describes what words he used to praise
-                            Schepper to the Queen. 2. Schepper has to negotiate with Gritti in the
-                            Queen’s affair, in accordance with his letter of accreditation. If he
-                            needs information, the Queen’s councilors will help; if the letter of
-                            accreditation needs to be corrected and they cannot do so carefully,
-                            Oláh will send a new one. 3. His friends in Hungary have written to him
-                            that it was the king who had ceded Oláh’s benefices and estates to
-                            Bálint Török, due to his immeasurable avarice. If Oláh had been there,
-                            or at least someone who could have spoken up for him, it surely would
-                            not have happened this way. At the assembly he should make sure during
-                            his meeting with Lodovico Gritti to recover his possessions from him. He
-                            can also ask Miklós Gerendi how Bálint Török came to own Oláh’s
-                            possessions, since he knows Török’s tricks well. 4. He has written to
-                            Weze about the Danish affairs, he will tell him the rest. He should
-                            write about that big issue in more detail, without naming names, and he
-                            should use Johan Weze’s key [as a cipher], Oláh will understand it.
-                            Philipp Melanchthon is said to be in England, and Philipp I, Landgrave
-                            of Hesse has traveled to King Francis I.</p>
+                        <p xml:id="reg.p.1">1. About Schepper’s affairs: the Queen is happy he has
+                            been appointed; some have quoted the imperial edict that the number of
+                            councilors cannot be increased further. Oláh describes what words he
+                            used to praise Schepper to the Queen. 2. Schepper has to negotiate with
+                            Gritti in the Queen’s affair, in accordance with his letter of
+                            accreditation. If he needs information, the Queen’s councilors will
+                            help; if the letter of accreditation needs to be corrected and they
+                            cannot do so carefully, Oláh will send a new one. 3. His friends in
+                            Hungary have written to him that it was the king who had ceded Oláh’s
+                            benefices and estates to Bálint Török, due to his immeasurable avarice.
+                            If Oláh had been there, or at least someone who could have spoken up for
+                            him, it surely would not have happened this way. At the assembly he
+                            should make sure during his meeting with Lodovico Gritti to recover his
+                            possessions from him. He can also ask Miklós Gerendi how Bálint Török
+                            came to own Oláh’s possessions, since he knows Török’s tricks well. 4.
+                            He has written to Weze about the Danish affairs, he will tell him the
+                            rest. He should write about that big issue in more detail, without
+                            naming names, and he should use Johan Weze’s key [as a cipher], Oláh
+                            will understand it. Philipp Melanchthon is said to be in England, and
+                            Philipp I, Landgrave of Hesse has traveled to King Francis I.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolaus Olaus Cornelio Scepero suo salutem. </p>
-                <p>[1.] Si sanus es, gaudeo. Quemadmodum proxime scripseram,
+                <p xml:id="p.1">Nicolaus Olaus Cornelio Scepero suo salutem. </p>
+                <p xml:id="p.2">[1.] Si sanus es, gaudeo. Quemadmodum proxime scripseram,
                         <persName>regina</persName> laetatur, te factum esse consiliarium a
-                        privatis.<note type="critic">See Ep. 448. Cap.
-                        1.</note><ref>/o:olahus.tei.15340201_1</ref> Ego mallem factus esses a
+                        privatis.<note type="critic" xml:id="note.1">See Ep. 448. Cap.
+                            1.<ref>olahus.tei.15340201_1</ref></note> Ego mallem factus esses a
                     financiis: plus enim ibi finanzare posses. Res tua in hoc est statu.
-                        <persName>Haller</persName><note type="critic">Wolfgang Haller.</note>
-                    admonuerat <persName>reginam</persName>, ut ad eum scripseras de hoc
-                        <persName>caesaris</persName> in te collato beneficio, admonuerat et
-                        <persName>thesaurarium</persName><note type="critic">Wolfgang Haller.</note>
-                    et alios, quorum interest. Illi prius faciles in ea re postea videbantur
-                    subdifficilliores allegantes, nescio quam <persName>caesaris</persName>
-                    constitutionem, ne consiliariorum numerus in posterum augeretur.
-                        <persName>Reginam</persName> ego heri allocutus sum, intellige, quid
-                    dixerim. “<persName>Cornelius Sceperus</persName>, bonus servitor Vestrae
-                    Maiestatis rogavit me, ut in rebus suis procurator apud Maiestatem Vestram
-                    essem. Quod et quia amicus fraterque meus est, et quia Maiestati Vestrae servire
-                    potest, et iam bene servivit, facio libenter. Dignetur ergo eius promotionis et
-                    honoris curam habere.” Alia etiam nonnulla subintuli, quae taceo, ne fortasse me
-                    dicas, si tamen id dicere possis, adulatorem. Dixit se scire te ei servivisse et
-                    servire posse et velle negotium tuum cordi habere, <del corresp="Olahus"
-                        >dixit</del><add corresp="Olahus" type="corr">dixi</add> dominos aliquomodo
-                        <milestone unit="pb"/>praetendere <persName>caesaris</persName>
-                    ordinationem, de non augendo numero consiliariorum, respondit id non obstaturum.
-                    Nam prius sex numero tales fuerint consiliarii. Quo nunc essent pauciores,
-                    curare igitur se tuam promotionem. Nunc in eo statu est negotium, itaque
-                    finivimus, ut cum <persName>Panormitanus</persName><note type="critic">Jean II
-                        Carondelet.</note>
-                    <persName>reginam</persName> accesserit, scis enim eum tardius tum ob senectutem
-                    suam, tum ob <persName>reginae</persName> valetudinem accedere, sive ego tunc
-                    ibi sim, sive <persName>Haller</persName>, admoneamus
+                        <persName>Haller</persName><note type="critic" xml:id="note.2">Wolfgang
+                        Haller.</note> admonuerat <persName>reginam</persName>, ut ad eum scripseras
+                    de hoc <persName>caesaris</persName> in te collato beneficio, admonuerat et
+                        <persName>thesaurarium</persName><note type="critic" xml:id="note.3"
+                        >Wolfgang Haller.</note> et alios, quorum interest. Illi prius faciles in ea
+                    re postea videbantur subdifficilliores allegantes, nescio quam
+                        <persName>caesaris</persName> constitutionem, ne consiliariorum numerus in
+                    posterum augeretur. <persName>Reginam</persName> ego heri allocutus sum,
+                    intellige, quid dixerim. “<persName>Cornelius Sceperus</persName>, bonus
+                    servitor Vestrae Maiestatis rogavit me, ut in rebus suis procurator apud
+                    Maiestatem Vestram essem. Quod et quia amicus fraterque meus est, et quia
+                    Maiestati Vestrae servire potest, et iam bene servivit, facio libenter. Dignetur
+                    ergo eius promotionis et honoris curam habere.” Alia etiam nonnulla subintuli,
+                    quae taceo, ne fortasse me dicas, si tamen id dicere possis, adulatorem. Dixit
+                    se scire te ei servivisse et servire posse et velle negotium tuum cordi habere,
+                        <del corresp="Olahus">dixit</del><add corresp="Olahus" type="corr"
+                        >dixi</add> dominos aliquomodo <milestone unit="pb"/>praetendere
+                        <persName>caesaris</persName> ordinationem, de non augendo numero
+                    consiliariorum, respondit id non obstaturum. Nam prius sex numero tales fuerint
+                    consiliarii. Quo nunc essent pauciores, curare igitur se tuam promotionem. Nunc
+                    in eo statu est negotium, itaque finivimus, ut cum
+                        <persName>Panormitanus</persName><note type="critic" xml:id="note.4">Jean II
+                        Carondelet.</note><persName>reginam</persName> accesserit, scis enim eum
+                    tardius tum ob senectutem suam, tum ob <persName>reginae</persName> valetudinem
+                    accedere, sive ego tunc ibi sim, sive <persName>Haller</persName>, admoneamus
                         <persName>reginam</persName>, ut <persName>Panormitano</persName> coram
                     explicet suam voluntatem de te admittendo. Curabimus igitur quamprimum id et vel
                         <persName>Haller</persName> vel ego te certiorem de rebus, quid factum
                     fuerit, faciemus. </p>
-                <p>[2.] In <persName>reginae</persName> negotio cum
-                        <persName>Gryti</persName><note type="critic">Lodovico Gritti.</note>
-                    tractando nihil esse videtur, de quo non fuerit antea provisum, habes litteras
-                    credentiae, quarum vigore ea agas, quae in rem maiestatis suae fore videbuntur.
-                    Si informationem habere volueris, consiliarii <persName>reginae</persName> istic
-                    existentes te informabunt. Si litterae ipsae credentiae ad
-                        <persName>Gryti</persName> in titulo (nescivimus enim, quali utatur) casu
-                    reformari <choice>
+                <p xml:id="p.3">[2.] In <persName>reginae</persName> negotio cum
+                        <persName>Gryti</persName><note type="critic" xml:id="note.5">Lodovico
+                        Gritti.</note> tractando nihil esse videtur, de quo non fuerit antea
+                    provisum, habes litteras credentiae, quarum vigore ea agas, quae in rem
+                    maiestatis suae fore videbuntur. Si informationem habere volueris, consiliarii
+                        <persName>reginae</persName> istic existentes te informabunt. Si litterae
+                    ipsae credentiae ad <persName>Gryti</persName> in titulo (nescivimus enim, quali
+                    utatur) casu reformari <choice>
                         <orig>delebitur</orig>
                         <supplied>debebitur</supplied>
                     </choice>, scribe huc, si emendari istic caute non poterunt; ego mox per postham
@@ -249,49 +311,52 @@
                     et meis illi fuit <placeName>Constantinopoli</placeName> iniunctum. In quibus
                     rebus meis rogo te per Deum et nostram mutuam amicitiam, ut adhibeas curam, de
                     quibus aliis prioribus ad taedium fortasse usque ad te scripsi. </p>
-                <p>[3.] Scribunt ad me amici mei ex Hungaria <persName>regem</persName>
+                <p xml:id="p.4">[3.] Scribunt ad me amici mei ex Hungaria <persName>regem</persName>
                     permisisse ad breve tempus et mea et aliorum bona in manibus <persName>Valentini
-                        Theureck</persName>,<note type="critic">Bálint Török.</note> postquam illius
-                    immensae cupiditati a <persName>rege</persName> non poterat responderi. Si ibi
-                    fuissem, vel si habuissem diligentem quempiam sollicitatorem, dum cum
-                        <persName>Valentino</persName> tractatum est, non puto,
+                        Theureck</persName>,<note type="critic" xml:id="note.6">Bálint Török.</note>
+                    postquam illius immensae cupiditati a <persName>rege</persName> non poterat
+                    responderi. Si ibi fuissem, vel si habuissem diligentem quempiam sollicitatorem,
+                    dum cum <persName>Valentino</persName> tractatum est, non puto,
                         <persName>rex</persName> mea apud illum reliquisset contra suas mihi datas
-                    litteras, et alioqui quoque si esset, qui tractaret <milestone unit="pb"/>cum <persName>Valentino</persName>, credo eum non durum in me futurum.
-                    Cura, rogo, in hoc conventu <persName>Gryteo</persName>, ut mea e faucibus
-                    illius extrahantur tua opera, cura et diligentia; nihil mihi gratius facere
-                    poteris, mi Domine et Frater. Quo pacto <persName>rex</persName> in manibus
+                    litteras, et alioqui quoque si esset, qui tractaret <milestone unit="pb"/>cum
+                        <persName>Valentino</persName>, credo eum non durum in me futurum. Cura,
+                    rogo, in hoc conventu <persName>Gryteo</persName>, ut mea e faucibus illius
+                    extrahantur tua opera, cura et diligentia; nihil mihi gratius facere poteris, mi
+                    Domine et Frater. Quo pacto <persName>rex</persName> in manibus
                         <persName>Valentini Theurek</persName> ad tempus mea bona relinquerit,
                     poteris interrogare a domino <persName>Gerendi</persName>,<note type="critic"
-                        >Miklós Gerendi.</note> episcopo Transsilvaniensi ab ineunte nostra
-                        aetate<note type="critic">Cf. Ep. 313. Cap. 2.: “Nicolaus Gerendy, meus
-                        singularis ab ineunte aetate nostra
-                        amicus…”</note><ref>/o:olahus.tei.15330114_1</ref> ut ego illi fui ita et
+                        xml:id="note.7">Miklós Gerendi.</note> episcopo Transsilvaniensi ab ineunte
+                    nostra aetate<note type="critic" xml:id="note.8">Cf. Ep. 313. Cap. 2.: “Nicolaus
+                        Gerendy, meus singularis ab ineunte aetate nostra
+                            amicus…”<ref>olahus.tei.15330114_1</ref></note> ut ego illi fui ita et
                     ipse mihi coniunctissimo; apertius ipse practicas <persName>Valentini</persName>
                     intelligit. </p>
-                <p>[4.] De rebus Danicis scripsi<note type="critic">See Ep.
-                        440.</note><ref>/o:olahus.tei.15340115_1</ref> ad dominum
-                        <persName>Lundensem</persName>,<note type="critic">Johan Weze.</note> a quo
-                    eas accipies. De rebus illis magnis, de quibus fueramus hic iucundissime locuti,
-                    rogo, scribe diffusius. Ne quid verearis! Nominibus parcito et utere etiam, si
-                    libet, notis apud dominum <persName>Lundensem</persName> habitis, aut aliis
-                    verborum traductionibus,<note type="critic">Probably, a type of cypher.</note>
-                    arbitror me ea intellecturum. Nugas has consiliariorum <persName>Angliae
-                        regis</persName> legito, vide, quid moliantur. Fama est hic, nescio, an
-                    vera, <persName>Melanchtonem</persName> esse in <placeName>Anglia</placeName>,
-                    et <persName>Lanthgravium Hessiae</persName><note type="critic">Philipp I,
-                        Landgrave of Hesse.</note> profectum ad <persName>Gallum</persName>.<note
-                        type="critic">King Francis I.</note> Vale et me servitiaque mea humillime
-                    commenda in gratiam regiae maiestatis, facito hoc idem et apud dominum
-                        <persName>Tridentinum</persName>.<note type="critic">Bernard von
-                        Cles.</note>
-                    <persName>Comitissa de Salm</persName>,<note type="critic">Elisabeth, Countess
-                        of Salm.</note>
-                    <persName>Balliewl</persName>,<note type="critic">Madame Bailleul.</note>
-                    <persName>Lucretia</persName>,<note type="critic"> Lucretia Caballis (vom
-                        Ross).</note>
-                    <persName>Swaterna</persName><note type="critic">Madame de Souvastre.</note> te
-                    resalutant, vale iterumque vale. </p>
-                <p><placeName>Bruxellae</placeName> VIII. Februarii 1534.</p>
+                <p xml:id="p.5">[4.] De rebus Danicis scripsi<note type="critic" xml:id="note.9">See
+                        Ep. 440.<ref>olahus.tei.15340115_1</ref></note> ad dominum
+                        <persName>Lundensem</persName>,<note type="critic" xml:id="note.10">Johan
+                        Weze.</note> a quo eas accipies. De rebus illis magnis, de quibus fueramus
+                    hic iucundissime locuti, rogo, scribe diffusius. Ne quid verearis! Nominibus
+                    parcito et utere etiam, si libet, notis apud dominum
+                        <persName>Lundensem</persName> habitis, aut aliis verborum
+                        traductionibus,<note type="critic" xml:id="note.11">Probably, a type of
+                        cypher.</note> arbitror me ea intellecturum. Nugas has consiliariorum
+                        <persName>Angliae regis</persName> legito, vide, quid moliantur. Fama est
+                    hic, nescio, an vera, <persName>Melanchtonem</persName> esse in
+                        <placeName>Anglia</placeName>, et <persName>Lanthgravium
+                        Hessiae</persName><note type="critic" xml:id="note.12">Philipp I, Landgrave
+                        of Hesse.</note> profectum ad <persName>Gallum</persName>.<note
+                        type="critic" xml:id="note.13">King Francis I.</note> Vale et me servitiaque
+                    mea humillime commenda in gratiam regiae maiestatis, facito hoc idem et apud
+                    dominum <persName>Tridentinum</persName>.<note type="critic" xml:id="note.14"
+                        >Bernard von Cles.</note><persName>Comitissa de Salm</persName>,<note
+                        type="critic" xml:id="note.15">Elisabeth, Countess of
+                        Salm.</note><persName>Balliewl</persName>,<note type="critic"
+                        xml:id="note.16">Madame Bailleul.</note><persName>Lucretia</persName>,<note
+                        type="critic" xml:id="note.17"> Lucretia Caballis (vom
+                        Ross).</note><persName>Swaterna</persName><note type="critic"
+                        xml:id="note.18">Madame de Souvastre.</note> te resalutant, vale iterumque
+                    vale. </p>
+                <p xml:id="p.6"><placeName>Bruxellae</placeName> VIII. Februarii 1534.</p>
             </div>
         </body>
     </text>

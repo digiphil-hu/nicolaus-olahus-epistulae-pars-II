@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">572</title>
-                <title type="main">Miklós Oláh to Frans van Cranevelt (Brussels, 16 September
-                    1536)</title>
+                <title key="body" n="572" type="main">Miklós Oláh to Frans van Cranevelt (Brussels,
+                    16 September 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15360916_1sz</idno>
-                
+                <idno type="PID">olahus.tei.15360916_1sz</idno>
+                <idno type="ITIdata">Q473232</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15360916_1sz.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,73 +80,44 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms. I and ms. II are contemporary copies with
+                    <p><hi rend="italic">Notes:</hi> Ms. I and ms. II are contemporary copies with
                         Oláh’s emendations. Ms. III is a later copy. (1730)
-                            <ref>/o:olahus.tei.15340422_1</ref>
-                    </p>
+                            <ref>/o:olahus.tei.15340422_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 582. </note>
-                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
-                    <hi rend="smallcap">V. Kovács</hi> 1971, 681.</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 582. </note>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">V. Kovács</hi> 1971,
+                        681.</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1232–1235.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15360910_1" type="url">571</ref>
+                        <ref target="15360910_1" type="url">571</ref>
                     </bibl>
                 </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15360922_1" type="url">573</ref>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15361004_1" type="url">575</ref>
+                        <ref target="15360922_1" type="url">573</ref>
+                        <ref target="15361004_1" type="url">575</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <country>Hungary</country>
-                        <settlement>Budapest</settlement>
-                        <institution>MNL OL</institution>
-                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
-                        <idno/>
-                        <msName/>
-                    </msIdentifier>
-                    <msPart style="letter">
-                        <msIdentifier/>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="pagination">068.</measure>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                </msDesc>
                 <listWit>
                     <witness xml:id="CE">Critical Edition</witness>
                     <witness xml:id="I">Hungary, Budapest, MNL OL P 108 Rep. 71. Fasc. 23. p.
@@ -145,11 +126,75 @@
                     <witness xml:id="III">Hungary, Budapest, ELTE EK, Kaprinai B087 217 01 p.
                         455–456.</witness>
                 </listWit>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -158,149 +203,159 @@
             </textClass>
             <creation>
                 <date when="1536-09-16">16 September 1536</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Frans van Cranevelt</persName>
-                    <orgName/>
+                    <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Frans van Cranevelt (Brussels, 16 September
                     1536)</head>
                 <floatingText>
                     <body>
-                        <p>He was uncertain if he should reply to Frans van Cranevelt’s pleasing
-                            poem in verse or prose. He should not be the only one who is silent
-                            about losing Erasmus of Rotterdam, so he has poured out his feelings in
-                            a poem; it will be van Cranavelt’s task to polish it. 2. The Emperor
-                            occupied Arles after they killed every armed fighter who resisted. The
-                            exiles from Florence attacked Genoa, but they were repelled. They are
-                            hoping that the Emperor will bring peace to Italy. The rest of the news
-                            briefly: Péronne is under siege; Damme has capitulated to the Emperor;
-                            the fleet has set sail for the British ocean; Cornelis de Schepper and
-                            Jean Godschalk went to Zeelandia the day before yesterday; and the
-                            Persians are really squeezing the Turks.</p>
+                        <p xml:id="reg.p.1">He was uncertain if he should reply to Frans van
+                            Cranevelt’s pleasing poem in verse or prose. He should not be the only
+                            one who is silent about losing Erasmus of Rotterdam, so he has poured
+                            out his feelings in a poem; it will be van Cranavelt’s task to polish
+                            it. 2. The Emperor occupied Arles after they killed every armed fighter
+                            who resisted. The exiles from Florence attacked Genoa, but they were
+                            repelled. They are hoping that the Emperor will bring peace to Italy.
+                            The rest of the news briefly: Péronne is under siege; Damme has
+                            capitulated to the Emperor; the fleet has set sail for the British
+                            ocean; Cornelis de Schepper and Jean Godschalk went to Zeelandia the day
+                            before yesterday; and the Persians are really squeezing the Turks.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p><app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II #III">Reverendissimi domini</rdg>
-                    </app> Nicolai <app>
-                        <lem wit="#CE #I">Olai</lem>
-                        <rdg wit="#II #III">Olahi</rdg>
+                <p xml:id="p.1"><app xml:id="app.1">
+                        <lem wit="#CE #I" xml:id="lem.1"/>
+                        <rdg wit="#II #III" xml:id="rdg.1">Reverendissimi domini</rdg>
+                    </app> Nicolai <app xml:id="app.2">
+                        <lem wit="#CE #I" xml:id="lem.2">Olai</lem>
+                        <rdg wit="#II #III" xml:id="rdg.2">Olahi</rdg>
                     </app> ad eundem responsio. </p>
-                <p>[1.] Subdubius fui aliquandiu, Ornatissime Craneveldi, an soluta oratione vel
-                    numeris, quorum iam a multis annis in desuetudinem <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">venit</del><add corresp="Olahus"
-                                type="corr">veni</add></lem>
-                        <rdg wit="#II #III">veni</rdg>
-                    </app> ad tua carmina, ut meum <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">esse potest</del><add
+                <p xml:id="p.2">[1.] Subdubius fui aliquandiu, Ornatissime Craneveldi, an soluta
+                    oratione vel numeris, quorum iam a multis annis in desuetudinem <app
+                        xml:id="app.3">
+                        <lem wit="#CE #I" xml:id="lem.3"><del corresp="Olahus">venit</del><add
+                                corresp="Olahus" type="corr">veni</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.3">veni</rdg>
+                    </app> ad tua carmina, ut meum <app xml:id="app.4">
+                        <lem wit="#CE #I" xml:id="lem.4"><del corresp="Olahus">esse potest</del><add
                                 corresp="Olahus" type="corr">est</add></lem>
-                        <rdg wit="#II #III">est</rdg>
+                        <rdg wit="#II #III" xml:id="rdg.4">est</rdg>
                     </app> iudicium, non inconcinna responderem. Ne tamen solus viderer in tanti
-                        <persName>amici</persName><note type="critic">Erasmus of Rotterdam.</note>
-                    mei morte, mihi ob amicitiam nostram mutuam <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">maxima</del><add corresp="Olahus"
-                                type="corr">maxime</add></lem>
-                        <rdg wit="#II #III">maxime</rdg>
+                        <persName>amici</persName><note type="critic" xml:id="note.1">Erasmus of
+                        Rotterdam.</note> mei morte, mihi ob amicitiam nostram mutuam <app
+                        xml:id="app.5">
+                        <lem wit="#CE #I" xml:id="lem.5"><del corresp="Olahus">maxima</del><add
+                                corresp="Olahus" type="corr">maxime</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.5">maxime</rdg>
                     </app> certe acerba tacere, et eius fatum non deflere, hos qualescumque numeros
-                    inter meas urgentes et molestas aulicas occupationes effudi potius, <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">qua</del><add corresp="Olahus"
-                                type="corr">quam</add></lem>
-                        <rdg wit="#II #III">quam</rdg>
+                    inter meas urgentes et molestas aulicas occupationes effudi potius, <app
+                        xml:id="app.6">
+                        <lem wit="#CE #I" xml:id="lem.6"><del corresp="Olahus">qua</del><add
+                                corresp="Olahus" type="corr">quam</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.6">quam</rdg>
                     </app> scripsi, quos ad te mitto. Tuum erit eorum ineptias tollere et polire,
                     tandemque ad me remittere litura abunde ornatos. </p>
-                <p>[2.] <persName>Caesar</persName>
-                    <placeName>Arelato</placeName><note type="critic">Arles.</note> potitus est
-                    interfectis, uti dicunt, omnibus eius praesidionariis<note type="critic">‘which
+                <p xml:id="p.3">[2.] <persName>Caesar</persName><placeName>Arelato</placeName><note
+                        type="critic" xml:id="note.2">Arles.</note> potitus est interfectis, uti
+                    dicunt, omnibus eius praesidionariis<note type="critic" xml:id="note.3">‘which
                         serves as a guard’, <hi rend="smallcap">Hoven</hi> 2006, 430.</note>
                     militibus et civibus. Exsules Florentini, conscriptis in Italia pecunia Gallica
                     militibus, aggressi nuper fuere <placeName>Genuam</placeName> duabus ex
                     partibus, sed repulsi magna eorum caede. Spes est caesaris exercitum, qui ad
-                    Italiam in <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">parte servanda</del><add
-                                corresp="Olahus" type="corr">pace servandam</add></lem>
-                        <rdg wit="#II #III">pace servandam</rdg>
-                    </app> relictus fuit, eos brevi prostraturum. <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Perona</del><add corresp="Olahus"
-                                type="corr">Peronaeque</add></lem>
-                        <rdg wit="#II #III">
-                            <del corresp="Olahus">Perona</del><add corresp="Olahus" type="corr"
-                                >Peronae</add></rdg>
-                    </app><note type="critic">Péronne.</note> obsidio soluta est.<note type="critic"
-                        >The siege ended on 11 September, 1536.</note> Et non spero aliquid nobis
-                    magnae laudis ex hac nostra expeditione venturum, militibus iam, ut audio, domum
-                    redire cupientibus. <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Dani</del><add corresp="Olahus"
-                                type="corr">Dammum</add></lem>
-                        <rdg wit="#II #III">Dammum</rdg>
-                    </app><note type="critic">Damme.</note> oppidum iampridem se <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">dedit</del><add corresp="Olahus"
-                                type="corr">dedidit</add></lem>
-                        <rdg wit="#II #III">dedidit</rdg>
+                    Italiam in <app xml:id="app.7">
+                        <lem wit="#CE #I" xml:id="lem.7"><del corresp="Olahus">parte
+                                servanda</del><add corresp="Olahus" type="corr">pace
+                            servandam</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.7">pace servandam</rdg>
+                    </app> relictus fuit, eos brevi prostraturum. <app xml:id="app.8">
+                        <lem wit="#CE #I" xml:id="lem.8"><del corresp="Olahus">Perona</del><add
+                                corresp="Olahus" type="corr">Peronaeque</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.8"><del corresp="Olahus">Perona</del><add
+                                corresp="Olahus" type="corr">Peronae</add></rdg>
+                    </app><note type="critic" xml:id="note.4">Péronne.</note> obsidio soluta
+                        est.<note type="critic" xml:id="note.5">The siege ended on 11 September,
+                        1536.</note> Et non spero aliquid nobis magnae laudis ex hac nostra
+                    expeditione venturum, militibus iam, ut audio, domum redire cupientibus. <app
+                        xml:id="app.9">
+                        <lem wit="#CE #I" xml:id="lem.9"><del corresp="Olahus">Dani</del><add
+                                corresp="Olahus" type="corr">Dammum</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.9">Dammum</rdg>
+                    </app><note type="critic" xml:id="note.6">Damme.</note> oppidum iampridem se
+                        <app xml:id="app.10">
+                        <lem wit="#CE #I" xml:id="lem.10"><del corresp="Olahus">dedit</del><add
+                                corresp="Olahus" type="corr">dedidit</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.10">dedidit</rdg>
                     </app> caesari. Nunc expedita fuit classis satis valida ad Oceanum Britannicum,
-                    si quid boni nostri facere poterint. Praefecti <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">his</del><add corresp="Olahus"
-                                type="corr">huic</add></lem>
-                        <rdg wit="#II #III">hinc</rdg>
-                    </app> dominus de <app>
-                        <lem wit="#CE #I">Benuir</lem>
-                        <rdg wit="#II #III"><del corresp="Olahus"> Benuir</del><add corresp="Olahus"
-                                type="corr">Byren</add></rdg>
-                    </app><note type="critic">We do not know him more closely.</note> et <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Brodarod</del><add corresp="Olahus"
-                                type="corr">Brodaroc</add></lem>
-                        <rdg wit="#II #III"><del corresp="Olahus">Brodarod</del><add
+                    si quid boni nostri facere poterint. Praefecti <app xml:id="app.11">
+                        <lem wit="#CE #I" xml:id="lem.11"><del corresp="Olahus">his</del><add
+                                corresp="Olahus" type="corr">huic</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.11">hinc</rdg>
+                    </app> dominus de <app xml:id="app.12">
+                        <lem wit="#CE #I" xml:id="lem.12">Benuir</lem>
+                        <rdg wit="#II #III" xml:id="rdg.12"><del corresp="Olahus"> Benuir</del><add
+                                corresp="Olahus" type="corr">Byren</add></rdg>
+                    </app><note type="critic" xml:id="note.7">We do not know him more
+                        closely.</note> et <app xml:id="app.13">
+                        <lem wit="#CE #I" xml:id="lem.13"><del corresp="Olahus">Brodarod</del><add
+                                corresp="Olahus" type="corr">Brodaroc</add></lem>
+                        <rdg wit="#II #III" xml:id="rdg.13"><del corresp="Olahus">Brodarod</del><add
                                 corresp="Olahus" type="corr">Bredarod</add></rdg>
-                    </app>.<note type="critic">We do not know him more closely.</note> Commissarii
-                    dati Cornelius <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Scepperus</del></lem>
-                        <rdg wit="#II #III"><add corresp="Olahus" type="insert"
-                            >Scepperus</add></rdg>
-                    </app> et <persName>Gothschalcus</persName><note type="critic">Jean
-                        Godschalck.</note> nostri, qui nudiustertius in Zelandiam hinc solverunt.
-                    Persae dicuntur <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Turcae</del><add corresp="Olahus"
-                                type="corr">Turcis</add> nunc</lem>
-                        <rdg wit="#II #III">nunc Thurcis</rdg>
+                    </app>.<note type="critic" xml:id="note.8">We do not know him more
+                        closely.</note> Commissarii dati Cornelius <app xml:id="app.14">
+                        <lem wit="#CE #I" xml:id="lem.14"><del corresp="Olahus"
+                            >Scepperus</del></lem>
+                        <rdg wit="#II #III" xml:id="rdg.14"><add corresp="Olahus" type="insert"
+                                >Scepperus</add></rdg>
+                    </app> et <persName>Gothschalcus</persName><note type="critic" xml:id="note.9"
+                        >Jean Godschalck.</note> nostri, qui nudiustertius in Zelandiam hinc
+                    solverunt. Persae dicuntur <app xml:id="app.15">
+                        <lem wit="#CE #I" xml:id="lem.15"><del corresp="Olahus">Turcae</del><add
+                                corresp="Olahus" type="corr">Turcis</add> nunc</lem>
+                        <rdg wit="#II #III" xml:id="rdg.15">nunc Thurcis</rdg>
                     </app> instare acerrime, cuius rei causa Turcarum caesar praesidionarios suos
                     milites ad se ex finibus Hungariae revocasse dicitur. Nunc tempus esset, si
-                    principes <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">Christinae</del><add
+                    principes <app xml:id="app.16">
+                        <lem wit="#CE #I" xml:id="lem.16"><del corresp="Olahus">Christinae</del><add
                                 corresp="Olahus" type="corr">Christiani</add></lem>
-                        <rdg wit="#II #III">Christiani</rdg>
+                        <rdg wit="#II #III" xml:id="rdg.16">Christiani</rdg>
                     </app> in recuperanda Hungaria Ferdinando regi nostro adessent. Alia nunc nulla
                     habeo. Bene vale. </p>
-                <p><placeName>Bruxellae</placeName> 16. Septembris 1536. </p>
-                <p>[Elegia ad sepulchrum Erasmi Roterodami]<note type="critic"><hi rend="smallcap"
-                            >Hegedüs</hi> 1906, 424–426; <hi rend="smallcap">Fógel–Juhász</hi> 1934,
-                        34–36; <hi rend="smallcap">Neagu</hi> 2003, 346–348.</note></p>
-                <p> [Epitaphium eiusdem per eundem]<note type="critic"><hi rend="smallcap"
-                            >Hegedüs</hi> 1906, 426; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 36;
-                            <hi rend="smallcap">Neagu</hi> 2003, 349.</note></p>
-                <p>[Aliud eiusdem]<note type="critic"><hi rend="smallcap">Hegedüs</hi> 1906, 427;
-                            <hi rend="smallcap">Fógel–Juhász</hi> 1934, 36–37; <hi rend="smallcap"
-                            >Neagu</hi> 2003, 349.</note></p>
-                <p> [Aliud eiusdem]<note type="critic"><hi rend="smallcap">Hegedüs</hi> 1906, 427;
-                            <hi rend="smallcap">Fógel–Juhász</hi> 1934, 37; <hi rend="smallcap"
-                            >Neagu</hi> 2003,
-                    350.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+                <p xml:id="p.4"><placeName>Bruxellae</placeName> 16. Septembris 1536. </p>
+                <p xml:id="p.5">[Elegia ad sepulchrum Erasmi Roterodami]<note type="critic"
+                        xml:id="note.10"><hi rend="smallcap">Hegedüs</hi> 1906, 424–426; <hi
+                            rend="smallcap">Fógel–Juhász</hi> 1934, 34–36; <hi rend="smallcap"
+                            >Neagu</hi> 2003, 346–348. In Romanian: <hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1234–1241.</note></p>
+                <p xml:id="p.6"> [Epitaphium eiusdem per eundem]<note type="critic" xml:id="note.11"
+                            ><hi rend="smallcap">Hegedüs</hi> 1906, 426; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 36; <hi rend="smallcap">Neagu</hi> 2003, 349.
+                        In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1240–1243.</note></p>
+                <p xml:id="p.7">[Aliud eiusdem]<note type="critic" xml:id="note.12"><hi
+                            rend="smallcap">Hegedüs</hi> 1906, 427; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 36–37; <hi rend="smallcap">Neagu</hi> 2003,
+                        349. In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1242–1243.</note></p>
+                <p xml:id="p.8"> [Aliud eiusdem]<note type="critic" xml:id="note.13"><hi
+                            rend="smallcap">Hegedüs</hi> 1906, 427; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 37; <hi rend="smallcap">Neagu</hi> 2003, 350.
+                        In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1242–1243.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
             </div>
         </body>
     </text>

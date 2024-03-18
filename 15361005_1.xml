@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">576</title>
-                <title type="main">Miklós Oláh to Cornelis De Schrijver (Brussels, 5 October
-                    1536)</title>
+                <title key="body" n="576" type="main">Miklós Oláh to Cornelis De Schrijver
+                    (Brussels, 5 October 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15361005_1</idno>
-                
+                <idno type="PID">olahus.tei.15361005_1</idno>
+                <idno type="ITIdata">Q473236</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15361005_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,37 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
-                            <ref>/o:olahus.tei.15360924_'</ref>
-                        <ref>/o:olahus.tei.15361018_1</ref>
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations.
+                            <ref>/o:olahus.tei.15360924_'</ref><ref>/o:olahus.tei.15361018_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 589–590.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 589–590.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 159–160. </p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 159–160; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1406–1411.</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15360924_1" type="url">574</ref>
+                        <ref target="15360924_1" type="url">574</ref>
                     </bibl>
                 </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15361018_1" type="url">577</ref>
+                        <ref target="15361018_1" type="url">577</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -137,11 +145,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,78 +219,76 @@
             </textClass>
             <creation>
                 <date when="1536-10-05">5 October 1536</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis De Schrijver </persName>
-                    <orgName/>
+                    <persName>Cornelis De Schrijver <idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Cornelis De Schrijver (Brussels, 5 October
                     1536)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He thanks him for the Erasmus of Rotterdam epitaph and the Panagne. Some
-                            of his friends have also sent him the Erasmus epitaphs they have
-                            written, and he has sent these to Cornelis De Schrijver along with his
-                            own so he can correct his poem. He sends his regards to Maximiliaan van
-                            Zevenbergen, and he will give Cornelis de Schepper the book when he is
-                            back from Zeelandia. </p>
+                        <p xml:id="reg.p.1">He thanks him for the Erasmus of Rotterdam epitaph and
+                            the Panagne. Some of his friends have also sent him the Erasmus epitaphs
+                            they have written, and he has sent these to Cornelis De Schrijver along
+                            with his own so he can correct his poem. He sends his regards to
+                            Maximiliaan van Zevenbergen, and he will give Cornelis de Schepper the
+                            book when he is back from Zeelandia. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolaus Olaus Cornelio Grapheo salutem. </p>
-                <p
+                <p xml:id="p.1">Nicolaus Olaus Cornelio Grapheo salutem. </p>
+                <p xml:id="p.2"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Quae tu
-                        grandissimo…]<?oxy_custom_end?><note type="critic"><hi rend="smallcap"
-                            >Ipolyi</hi> 1875, 589.</note></p>
+                        grandissimo…]<?oxy_custom_end?><note type="critic" xml:id="note.1"><hi
+                            rend="smallcap">Ipolyi</hi> 1875, 589. In Romanian: <hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1406–1409.</note></p>
                 <pb/>
-                <p>Habeo praeterea tibi, mi Scriboni, gratias de epitaphio
+                <p xml:id="p.3">Habeo praeterea tibi, mi Scriboni, gratias de epitaphio
                         <persName>Erasmi</persName> et <hi rend="italic">Panagne</hi><note
-                        type="critic">De Schrijver’s book <hi rend="italic">Ad optimam heroidem
-                            Mariam</hi>… mentioned in Ep. 551. and Ep. 574. Part I: Panagne, quae
-                        Virg. Mariae epithalamium, II: Theander, quae aureo mundo Dei hominis
-                        nativitatem, II: Pan, qui veri Panos Christi necem canit. Praeter alia
-                        quaedam piis affectibus plena… See also <hi rend="smallcap">Beer</hi> 1903,
-                        LXVII: “Corn. Graphei Panagne, h. e. rusticus in divi Joseph e Mariae
+                        type="critic" xml:id="note.2">De Schrijver’s book <hi rend="italic">Ad
+                            optimam heroidem Mariam</hi>… mentioned in Ep. 551. and Ep. 574. Part I:
+                        Panagne, quae Virg. Mariae epithalamium, II: Theander, quae aureo mundo Dei
+                        hominis nativitatem, II: Pan, qui veri Panos Christi necem canit. Praeter
+                        alia quaedam piis affectibus plena… See also <hi rend="smallcap">Beer</hi>
+                        1903, LXVII: “Corn. Graphei Panagne, h. e. rusticus in divi Joseph e Mariae
                         nuptias lusus. Med. 243. Corn. Grapheus descripsit senatum Antverpiae
                         civitatis a Carolo V. insitutum. Liber impressus Antverp. in 4° 1541: Conr.
                         Gesner, Bibliotheca univ., fol.
-                        188.”</note><ref>/o:olahus.tei.15351201_1</ref><ref>/o:olahus.tei.15360924_1</ref>
-                    tua ad me missa,<note type="critic">Ep.
-                        574.</note><ref>/o:olahus.tei.15360924_1</ref> ex qua cognosco iam penitius,
-                    quam antea ingenii tui excellentiam. Quidam amici mei diebus superioribus
-                    miserunt ad me quaedam Erasmi epitaphia ab eis conscripta,<note type="critic"
-                        >See the epitaphs of Frans van Cranevelt: <hi rend="smallcap">Ipolyi</hi>
-                        1875, 581; and François de Bourgogne: <hi rend="smallcap">Hegedüs</hi> 1906,
-                        374; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap"
-                            >Neagu</hi> 2003, 294. See also Cranevelt’s letter Ep.
-                        571.</note><ref>/o:olahus.tei.15360910_1</ref> quae cum meis <del
-                        corresp="Olahus">rudibus</del> carminibus ad te misi, ut illorum scripta
-                    videres, mea autem carmina, vere videlicet Transylvana vel silvana potius,
-                    castigares. Carmen, quo tibi respondi, boni consule, veluti extemporaneum.
-                        <persName>Maximilianum</persName><note type="critic">Maximiliaan van
-                        Zevenbergen.</note> salutavi tuo nomine. <persName>Cornelius <add
-                            corresp="Olahus" type="insert">Scepperus</add></persName> profectus est
-                    ante XVI. diem ad <placeName>Selandiam</placeName>,<note type="critic">See Ep.
-                        572. Cap. 2.</note><ref>/o:olahus.tei.15360916_1</ref> cui, cum redierit,
+                        188.”<ref>olahus.tei.15351201_1</ref></note><ref>/o:olahus.tei.15360924_1</ref>
+                    tua ad me missa,<note type="critic" xml:id="note.3">Ep.
+                            574.<ref>olahus.tei.15360924_1</ref></note> ex qua cognosco iam
+                    penitius, quam antea ingenii tui excellentiam. Quidam amici mei diebus
+                    superioribus miserunt ad me quaedam Erasmi epitaphia ab eis conscripta,<note
+                        type="critic" xml:id="note.4">See the epitaphs of Frans van Cranevelt: <hi
+                            rend="smallcap">Ipolyi</hi> 1875, 581; and François de Bourgogne: <hi
+                            rend="smallcap">Hegedüs</hi> 1906, 374; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap">Neagu</hi> 2003, 294.
+                        See also Cranevelt’s letter Ep. 571.<ref>olahus.tei.15360910_1</ref></note>
+                    quae cum meis <del corresp="Olahus">rudibus</del> carminibus ad te misi, ut
+                    illorum scripta videres, mea autem carmina, vere videlicet Transylvana vel
+                    silvana potius, castigares. Carmen, quo tibi respondi, boni consule, veluti
+                    extemporaneum. <persName>Maximilianum</persName><note type="critic"
+                        xml:id="note.5">Maximiliaan van Zevenbergen.</note> salutavi tuo nomine.
+                        <persName>Cornelius <add corresp="Olahus" type="insert"
+                        >Scepperus</add></persName> profectus est ante XVI. diem ad
+                        <placeName>Selandiam</placeName>,<note type="critic" xml:id="note.6">See Ep.
+                        572. Cap. 2.<ref>olahus.tei.15360916_1</ref></note> cui, cum redierit,
                     reddam libellum. Vale feliciter, mi Corneli, et me tuum esse existima habeque
                     commendatum. </p>
-                <p><placeName>Bruxellae</placeName> 5. Octobris 1536.</p>
+                <p xml:id="p.4"><placeName>Bruxellae</placeName> 5. Octobris 1536.</p>
             </div>
         </body>
     </text>

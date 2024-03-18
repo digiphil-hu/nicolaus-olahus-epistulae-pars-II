@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">694</title>
-                <title type="main">Miklós Oláh to Mihály Mérey (Vienna, 21 September 1548)</title>
+                <title key="body" n="694" type="main">Miklós Oláh to Mihály Mérey (Vienna, 21
+                    September 1548)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,45 +55,47 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15480921_1</idno>
-                
+                <idno type="PID">olahus.tei.15480921_1</idno>
+                <idno type="ITIdata">Q473355</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15480921_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -116,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -129,91 +201,88 @@
             </textClass>
             <creation>
                 <date when="1548-09-21">21 September 1548</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Mihály Mérey</persName>
-                    <orgName/>
+                    <persName>Mihály Mérey<idno type="ITIdata">Q38164</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Mihály Mérey (Vienna, 21 September 1548)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Oláh has understood Mihály Mérey’s case from his letter. Menyhárt Balassa
-                            is already here, and Péter Pálffy is on his way, and as soon as he
-                            arrives, the King will deal with their case. As to the matter of the
-                            Forgách brothers, Mérey should know that Oláh is labouring on making
-                            sure the freedom of the homeland is preserved. As soon as the King asks
-                            to see the Forgách brothers, they should set out on their way; the King
-                            will look out for the interests of both the Forgách brothers and
-                            Wolfgang von Puchheim, as Ferenc Révay has informed him in writing. Then
-                            again, he does not believe that the King will do anything against the
-                            homeland and their freedom, as long as the Forgách brothers appear when
-                            called.</p>
+                        <p xml:id="reg.p.1">Oláh has understood Mihály Mérey’s case from his letter.
+                            Menyhárt Balassa is already here, and Péter Pálffy is on his way, and as
+                            soon as he arrives, the King will deal with their case. As to the matter
+                            of the Forgách brothers, Mérey should know that Oláh is labouring on
+                            making sure the freedom of the homeland is preserved. As soon as the
+                            King asks to see the Forgách brothers, they should set out on their way;
+                            the King will look out for the interests of both the Forgách brothers
+                            and Wolfgang von Puchheim, as Ferenc Révay has informed him in writing.
+                            Then again, he does not believe that the King will do anything against
+                            the homeland and their freedom, as long as the Forgách brothers appear
+                            when called.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Egregie Domine et Amice nobis Honorande,<note type="critic">Mihály
-                        Mérey (†1572) was a jurist, Royal Councilor, and Chief Justice <hi
-                            rend="italic">(personalis praesentiae regiae in iudiciis
+                <p xml:id="p.1">Egregie Domine et Amice nobis Honorande,<note type="critic"
+                        xml:id="note.1">Mihály Mérey (†1572) was a jurist, Royal Councilor, and
+                        Chief Justice <hi rend="italic">(personalis praesentiae regiae in iudiciis
                             locumtenens)</hi> between 1544 and 1562. He was Deputy Palatine <hi
                             rend="italic">(vicepalatinus)</hi> from 1563 until his death.</note>
                     salutem et nostri commendationem!</p>
-                <p>Negotium, de quo nobis Dominatio Vestra scripsit, ex litteris eiusdem
-                    abunde cognovimus. Dominus <persName>Balassa</persName><note type="critic"
-                        >Menyhárt Balassa.</note> iam hic est, et dominus <persName>Petrus
-                        Palffy</persName><note type="critic">Péter Pálffy (†1568) was a member of
-                        the noble Hungarian Pálffy family. On the conflict between him and Balassa
-                        regarding the castle of Čabraď, see <hi rend="smallcap">Virovecz</hi> 2015,
-                        especially 36–39.</note> quoque adventurus est, qui ubi advenerit,
-                        <persName>regia maiestas</persName>, dominus noster clementissimus negotii
-                    ipsius curam est habitura. Tamen Dominatio quoque Vestra ad eius transactionem
-                    adhuc commode advenire poterit. </p>
-                <p>Quod autem Dominatio Vestra in negotio <persName>dominorum
-                        Forgachiorum</persName><note type="critic">Zsigmond and László Forgách, see
-                        Ep. 688.</note><ref>/o:olahus.tei.15480915_1</ref> scribit, sciat Dominatio
-                    Vestra, quantum in nobis est, nos curaturos, quo libertas patriae nostrae et
-                    nostra observetur. Propterea si <persName>regia maiestas</persName> eos ad se
-                    venire iusserit, et litteras suae maiestatis viderint, statim ad suam maiestatem
-                    venire festinent, et sua maiestas tam negotiorum eorundem, quam <persName>domini
-                        de Pwcham</persName><note type="critic">Wolfgang von Puchheim.</note> curam
-                    est habitura, et bono modo transactura, et compositura, scripserat autem hoc
-                    eodem in negotio nobis dominus <persName>Reway</persName><note type="critic"
-                        >Ferenc Révay.</note> quoque. Cum tamen arbitremur suam dominationem istinc
-                    domum iam profectam esse, non existimavimus opus esse quicquam hac de re eidem
-                    scribere, si quid tamen eidem necessum fuerit, Dominatio Vestra eidem per
-                    litteras suas hoc modo poterit, quo perscripsimus, istud negotium dominorum
-                    Forgachorum significare. </p>
-                <p>Dominationem Vestram bene valere optamus.</p>
-                <p>Datum <placeName>Viennae</placeName> 21. die Septembris 1548.</p>
-                <p>Non arbitror maiestatem regiam, dominum nostrum clementissimum aliquid
-                    contra libertatem nostram et patriae nostrae facturam, quando domini
+                <p xml:id="p.2">Negotium, de quo nobis Dominatio Vestra scripsit, ex litteris
+                    eiusdem abunde cognovimus. Dominus <persName>Balassa</persName><note
+                        type="critic" xml:id="note.2">Menyhárt Balassa.</note> iam hic est, et
+                    dominus <persName>Petrus Palffy</persName><note type="critic" xml:id="note.3"
+                        >Péter Pálffy (†1568) was a member of the noble Hungarian Pálffy family. On
+                        the conflict between him and Balassa regarding the castle of Čabraď, see <hi
+                            rend="smallcap">Virovecz</hi> 2015, especially 36–39.</note> quoque
+                    adventurus est, qui ubi advenerit, <persName>regia maiestas</persName>, dominus
+                    noster clementissimus negotii ipsius curam est habitura. Tamen Dominatio quoque
+                    Vestra ad eius transactionem adhuc commode advenire poterit. </p>
+                <p xml:id="p.3">Quod autem Dominatio Vestra in negotio <persName>dominorum
+                        Forgachiorum</persName><note type="critic" xml:id="note.4">Zsigmond and
+                        László Forgách, see Ep. 688.<ref>olahus.tei.15480915_1</ref></note> scribit,
+                    sciat Dominatio Vestra, quantum in nobis est, nos curaturos, quo libertas
+                    patriae nostrae et nostra observetur. Propterea si <persName>regia
+                        maiestas</persName> eos ad se venire iusserit, et litteras suae maiestatis
+                    viderint, statim ad suam maiestatem venire festinent, et sua maiestas tam
+                    negotiorum eorundem, quam <persName>domini de Pwcham</persName><note
+                        type="critic" xml:id="note.5">Wolfgang von Puchheim.</note> curam est
+                    habitura, et bono modo transactura, et compositura, scripserat autem hoc eodem
+                    in negotio nobis dominus <persName>Reway</persName><note type="critic"
+                        xml:id="note.6">Ferenc Révay.</note> quoque. Cum tamen arbitremur suam
+                    dominationem istinc domum iam profectam esse, non existimavimus opus esse
+                    quicquam hac de re eidem scribere, si quid tamen eidem necessum fuerit,
+                    Dominatio Vestra eidem per litteras suas hoc modo poterit, quo perscripsimus,
+                    istud negotium dominorum Forgachorum significare. </p>
+                <p xml:id="p.4">Dominationem Vestram bene valere optamus.</p>
+                <p xml:id="p.5">Datum <placeName>Viennae</placeName> 21. die Septembris 1548.</p>
+                <p xml:id="p.6">Non arbitror maiestatem regiam, dominum nostrum clementissimum
+                    aliquid contra libertatem nostram et patriae nostrae facturam, quando domini
                         <persName>Forgachii</persName> ad vocationem et mandatum suae maiestatis
                     comparuerint, maiestas sua id faciet, uti credimus, quod iustum et e libertate
                     nostra erit.</p>
-                <p>
+                <p xml:id="p.7">
                     <seg type="signature">Nicolaus Olahus etc. cancellarius regiae maiestatis etc.
                         manu propria</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Egregio domino Michaeli de Mere, personali praesentiae regiae
+                <p xml:id="p.8">Egregio domino Michaeli de Mere, personali praesentiae regiae
                     maiestatis locumtenenti etc. domino et amico nobis honorando.</p>
             </div>
         </body>

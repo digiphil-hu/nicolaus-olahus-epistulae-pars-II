@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">578</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 18 October 1536)</title>
+                <title key="body" n="578" type="main">Pieter Nanninck to Miklós Oláh (Leuven, 18
+                    October 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15361018_2</idno>
-                
+                <idno type="PID">olahus.tei.15361018_2</idno>
+                <idno type="ITIdata">Q473238</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15361018_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,43 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 592–593.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 592–593.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 178–180. </p>
-                    <p><hi rend="italic">In French:</hi>
-                        <hi rend="smallcap">Polet</hi> 1936, 251. [regesta]</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 178–180; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1444–1449. [On 14 October 1536 dated.]</p>
+                    <p><hi rend="italic">In French:</hi><hi rend="smallcap">Polet</hi> 1936, 251.
+                        [regesta]</p>
                 </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -138,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -151,69 +210,67 @@
             </textClass>
             <creation>
                 <date when="1536-10-18">18 October 1536</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 18 October 1536)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He kept Oláh’s book for a long time because he could not let it go; he
-                            hopes that Oláh wants to publish it, such work should not be left in a
-                            drawer. It does not matter that there are many Erasmus of Rotterdam
-                            quotes in it: what is beautiful is also beautiful second or third time
-                            around. He was impressed by how well Oláh translates from Greek to
-                            Latin; in his opinion, Oláh is more religious than Erasmus was. He has
-                            found some things that could be corrected, but even Homer could have
-                            improved his work, it is better than being criticized. 2. If he did not
-                            mark anything to be corrected, Oláh would think him less of a friend.
-                            Now he can admit that he also kept the book for so long because he lent
-                            it to Conrad Wackers while he (Nanninck) went to visit his sick mother,
-                            and then he had an eye problem after he returned. Although there is no
-                            risk of blindness any more, he still cannot read much. </p>
+                        <p xml:id="reg.p.1">1. He kept Oláh’s book for a long time because he could
+                            not let it go; he hopes that Oláh wants to publish it, such work should
+                            not be left in a drawer. It does not matter that there are many Erasmus
+                            of Rotterdam quotes in it: what is beautiful is also beautiful second or
+                            third time around. He was impressed by how well Oláh translates from
+                            Greek to Latin; in his opinion, Oláh is more religious than Erasmus was.
+                            He has found some things that could be corrected, but even Homer could
+                            have improved his work, it is better than being criticized. 2. If he did
+                            not mark anything to be corrected, Oláh would think him less of a
+                            friend. Now he can admit that he also kept the book for so long because
+                            he lent it to Conrad Wackers while he (Nanninck) went to visit his sick
+                            mother, and then he had an eye problem after he returned. Although there
+                            is no risk of blindness any more, he still cannot read much. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Petrus Nannius Nicolao Olao salutem plurimam. </p>
-                <p>[1.] Nescio an debeam excusare, quod tam diu libros tuos<note
-                        type="critic">It is not clear which work this is. It could be <hi
-                            rend="italic">Hungaria</hi>, which according to Oláh’s comment, was
+                <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem plurimam. </p>
+                <p xml:id="p.2">[1.] Nescio an debeam excusare, quod tam diu libros tuos<note
+                        type="critic" xml:id="note.1">It is not clear which work this is. It could
+                        be <hi rend="italic">Hungaria</hi>, which according to Oláh’s comment, was
                         completed on 16 May, 1536, see <hi rend="smallcap">Eperjessy–Juhász</hi>
                         1938, V. But <hi rend="italic">Hungaria</hi> does not contain either
                         excerpts of Erasmus or Greek sentences (see below). It was probably a
                         collection of Oláh’s poems.</note> detinui, an potius, quod non diutius
                     tenui tam docte enim lucubrationes, ut nunquam lectorem satiunt, ita aegre a
                     lectore impetrant, ut e manibus deponantur, multo aegrius, ut alienentur. Certe
-                    nisi mihi spes esset <milestone unit="pb"/>eos aliquando in lucem exituros,
-                    nunquam commisissem, quin mihi inde exemplar descripsissem. Tu autem quid
-                    facies, ignoro, ego tamen puto tales lucubrationes nequaquam supprimendas. Nec
-                    deterrere te debet, quod pleraque ab <persName>Erasmo</persName> translata sunt,
-                    recte enim proverbio dicitur <quote>δὶς καὶ τρὶς τὰ καλὰ.</quote><note
-                        type="quote">Erasm. <hi rend="italic">Adag.</hi> 149. I,II,49. Bis ac ter,
-                        quod pulchrum est.</note><note type="critic">‘what is beautiful is beautiful
-                        second and third time around’.</note> Certe in usum studiosorum valde
-                    fuerit, unius rei plures esse interpretationes, ita enim facilius verum
-                    intellectum percipiunt, praesertim si tales sint interpretes, qui bona fide
-                    Graeca reddunt, quod de te et Erasmo sanctissimo iuramento non reformidem
-                    asseverare. Legi <del corresp="Olahus">et</del><add corresp="Olahus" type="corr"
-                        >ac</add> relegi, non minori <choice>
+                    nisi mihi spes esset </p>
+                <pb/>
+                <p xml:id="p.3">eos aliquando in lucem exituros, nunquam commisissem, quin mihi inde
+                    exemplar descripsissem. Tu autem quid facies, ignoro, ego tamen puto tales
+                    lucubrationes nequaquam supprimendas. Nec deterrere te debet, quod pleraque ab
+                        <persName>Erasmo</persName> translata sunt, recte enim proverbio dicitur
+                        <quote xml:id="quote.1">δὶς καὶ τρὶς τὰ καλὰ.</quote><note type="quote"
+                        xml:id="note.quote.1">Erasm. <hi rend="italic">Adag.</hi> 149. I,II,49. Bis
+                        ac ter, quod pulchrum est.</note><note type="critic" xml:id="note.2">‘what
+                        is beautiful is beautiful second and third time around’.</note> Certe in
+                    usum studiosorum valde fuerit, unius rei plures esse interpretationes, ita enim
+                    facilius verum intellectum percipiunt, praesertim si tales sint interpretes, qui
+                    bona fide Graeca reddunt, quod de te et Erasmo sanctissimo iuramento non
+                    reformidem asseverare. Legi <del corresp="Olahus">et</del><add corresp="Olahus"
+                        type="corr">ac</add> relegi, non minori <choice>
                         <orig>diligentiam</orig>
                         <supplied>diligentia</supplied>
                     </choice>, quam voluptate tua ista scripta. Ad singulas sententias et Graeca
@@ -223,37 +280,39 @@
                     bene amet) ita te esse singulorum paene verborum interpretem, ut sententiam non
                     laederes, ita sententiam reddere, ut nihil in verbis omitteretur. Propitii mihi
                     sint manes Erasmi, religiosior mihi hac in re visus es, quam ille fuit. Tamen in
-                    tam felici translatione repperi, quod ut <quote>Momus arroderem, eaque
-                        subnotavi, ut Momo deesset,</quote><note type="quote">Cf. Erasm. <hi
-                            rend="italic">Adag.</hi>. 474. I,V,74. Momo satisfacere, et
-                        similia.</note> quod calumniari posset, nec dubito, quin <del
-                        corresp="Olahus">absint</del><add corresp="Olahus" type="corr">adsint</add>
-                    tibi rationes, quibus tua excusare posses. Ego autem volui te extra ansas (ut
-                    ita loquar) sycophantiarum esse positum; puto enim Homerum potius quendam in
-                    suis mutare voluisse, quam <quote>Zoilum pati.</quote><note type="quote">Cf.
-                        Erasm. <hi rend="italic">Adag.</hi> 1408. II,V,8. Zoili.</note>
-                </p>
-                <p>[2.] Haec prima ratio fuit meae censurae, altera, quod verebar, ne, si
-                    nihil annotassem, Gnatonem tibi aliquem non amicum habuisse arbitreris. Quare
+                    tam felici translatione repperi, quod ut <quote xml:id="quote.2">Momus
+                        arroderem, eaque subnotavi, ut Momo deesset,</quote><note type="quote"
+                        xml:id="note.quote.2">Cf. Erasm. <hi rend="italic">Adag.</hi>. 474. I,V,74.
+                        Momo satisfacere, et similia.</note> quod calumniari posset, nec dubito,
+                    quin <del corresp="Olahus">absint</del><add corresp="Olahus" type="corr"
+                        >adsint</add> tibi rationes, quibus tua excusare posses. Ego autem volui te
+                    extra ansas (ut ita loquar) sycophantiarum esse positum; puto enim Homerum
+                    potius quendam in suis mutare voluisse, quam <quote xml:id="quote.3">Zoilum
+                        pati.</quote><note type="quote" xml:id="note.quote.3">Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> 1408. II,V,8. Zoili.</note></p>
+                <p xml:id="p.4">[2.] Haec prima ratio fuit meae censurae, altera, quod verebar, ne,
+                    si nihil annotassem, Gnatonem tibi aliquem non amicum habuisse arbitreris. Quare
                     iniquius quaedam vellicanda erant, quo hanc notam sive suspitionem effugerem. Id
                     quo acrius agerem et sine ulla indulgentia, persuadebam mihi opuscula tua iam
-                    iam praelo committenda. Nunc autem, cur partus tuos tam diu <milestone unit="pb"/>retinuerim a suo parente, causam dicam: <del corresp="Olahus">non</del>
-                    diu illi apud <persName>Goclenium</persName><note type="critic">Conrad
-                        Wackers.</note> haeserunt, antequam in meas manus pervenirent. Non ita diu
-                    apud me fuerant, cum subito in patriam revocatus sum gravi aegrotatione matris
-                    meae, ibi aliquot hebdomadas consumpsi, dum redeo tantopere morbum oculorum, quo
-                    iam antea laborare coeperam, exagitavi, ut in grave periculum caecitatis
-                    devenirem, a quo malo nondum revalui, nam, ut vides, amanuensi opera ad te
-                    scribo, quod mihi tristissimum est. In rebus autem tuis alienis oculis uti
-                    nolui, vel quia illis diffidebam, vel quia mihi non satisfaciebant, aegre autem
-                    oculi mei tantam usuram lucis concessere, quantam in libellis tuis absumpsi.
-                    Nunc periculum caecitatis abest, usus autem oculorum tam tener, ut lectionem,
-                    nisi brevissimam, non sustineant. Vale, Doctissime ac Humanissime Olahe, et ut
-                    alii scholas, ita tu aulam <choice>
+                    iam praelo committenda. Nunc autem, cur partus tuos tam diu </p>
+                <pb/>
+                <p xml:id="p.5">retinuerim a suo parente, causam dicam: <del corresp="Olahus"
+                        >non</del> diu illi apud <persName>Goclenium</persName><note type="critic"
+                        xml:id="note.3">Conrad Wackers.</note> haeserunt, antequam in meas manus
+                    pervenirent. Non ita diu apud me fuerant, cum subito in patriam revocatus sum
+                    gravi aegrotatione matris meae, ibi aliquot hebdomadas consumpsi, dum redeo
+                    tantopere morbum oculorum, quo iam antea laborare coeperam, exagitavi, ut in
+                    grave periculum caecitatis devenirem, a quo malo nondum revalui, nam, ut vides,
+                    amanuensi opera ad te scribo, quod mihi tristissimum est. In rebus autem tuis
+                    alienis oculis uti nolui, vel quia illis diffidebam, vel quia mihi non
+                    satisfaciebant, aegre autem oculi mei tantam usuram lucis concessere, quantam in
+                    libellis tuis absumpsi. Nunc periculum caecitatis abest, usus autem oculorum tam
+                    tener, ut lectionem, nisi brevissimam, non sustineant. Vale, Doctissime ac
+                    Humanissime Olahe, et ut alii scholas, ita tu aulam <choice>
                         <orig>erudissimis</orig>
                         <supplied>eruditissimis</supplied>
                     </choice> litteris exorna. </p>
-                <p><placeName>Lovanii</placeName> 15. Kalendas Novembris 1536.</p>
+                <p xml:id="p.6"><placeName>Lovanii</placeName> 15. Kalendas Novembris 1536.</p>
             </div>
         </body>
     </text>

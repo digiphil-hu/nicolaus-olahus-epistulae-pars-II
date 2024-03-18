@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">620</title>
-                <title type="main">Miklós Oláh and Bartholomäus Haller von Hallerstain to Kremnica
-                    Town Council (Zvolen, 7 May 1541)</title>
+                <title key="body" n="620" type="main">Miklós Oláh and Bartholomäus Haller von
+                    Hallerstain to Kremnica Town Council (Zvolen, 7 May 1541)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,46 +55,53 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15410507_1</idno>
-                
+                <idno type="PID">olahus.tei.15410507_1</idno>
+                <idno type="ITIdata">Q473280</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15410507_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
+            <seriesStmt>
+                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
+                    nova</title>
+                <respStmt>
+                    <resp>series editor</resp>
+                    <persName>
+                        <surname>Békés</surname>
+                        <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
+                    </persName>
+                    <persName>
+                        <surname>Szörényi</surname>
+                        <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
+                    </persName>
+                </respStmt>
+                <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
+            </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
-                    <p><hi rend="bold">On the outer side:</hi>
-                        <hi rend="italic">Other handwriting:</hi> 7. May 1541. <gap extent="1"
-                            reason="illegible" unit="word"/> D[a]z kriegsvolk nach ein monat in
-                        feldt werde bleiben mussen.</p>
+                    <p><hi rend="bold">On the outer side:</hi><hi rend="italic">Other
+                            handwriting:</hi> 7. May 1541. <gap extent="1" reason="illegible"
+                            unit="word"/> D[a]z kriegsvolk nach ein monat in feldt werde bleiben
+                        mussen.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -118,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -131,64 +207,64 @@
             </textClass>
             <creation>
                 <date when="1541-05-07">7 May 1541</date>
-                <placeName>Zvolen</placeName>
+                <placeName>Zvolen<idno type="ITIdata">Q2102</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh and Bartholomäus Haller von Hallerstain</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                    <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
+                        >Q470935</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Kremnica Town Council</persName>
-                    <orgName/>
+                    <orgName>Kremnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh and Bartholomäus Haller von Hallerstain to Kremnica
                     Town Council (Zvolen, 7 May 1541)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Miklós Oláh and Bartholomäus Haller inform the Kremnica Town Council that
-                            János Dubraviczky was sent to the Archbishop of Esztergom in connection
-                            with the urbura on 26 April, and he was also sent to the general of King
-                            Ferdinand I in Rome in connection with the Queen Mary and the armed
-                            people of Kremnica, that they should be allowed to go home. Dubraviczky
-                            has written a letter to them and informed them that although he has
-                            fallen ill, he had shown their petition regarding the case both to the
-                            Archbishop and to Roggendorf, and he is awaiting their response. In the
-                            meantime, the counties have promised to keep their troops armed for
-                            another month, and Dubraviczky is trying to make sure together with Oláh
-                            and Haller that the troops are not sent home in the end, so they are
-                            sending money for their troops for another month after all. They ask if
-                            they should send Dubraviczky their payment along with their own, or if
-                            Kremnica and the other cities will take care of getting the money to
-                            their troops. They inform them that on 26 April the troops were
-                            definitely already gathering in preparation of the siege of Buda.</p>
+                        <p xml:id="reg.p.1">Miklós Oláh and Bartholomäus Haller inform the Kremnica
+                            Town Council that János Dubraviczky was sent to the Archbishop of
+                            Esztergom in connection with the urbura on 26 April, and he was also
+                            sent to the general of King Ferdinand I in Rome in connection with the
+                            Queen Mary and the armed people of Kremnica, that they should be allowed
+                            to go home. Dubraviczky has written a letter to them and informed them
+                            that although he has fallen ill, he had shown their petition regarding
+                            the case both to the Archbishop and to Roggendorf, and he is awaiting
+                            their response. In the meantime, the counties have promised to keep
+                            their troops armed for another month, and Dubraviczky is trying to make
+                            sure together with Oláh and Haller that the troops are not sent home in
+                            the end, so they are sending money for their troops for another month
+                            after all. They ask if they should send Dubraviczky their payment along
+                            with their own, or if Kremnica and the other cities will take care of
+                            getting the money to their troops. They inform them that on 26 April the
+                            troops were definitely already gathering in preparation of the siege of
+                            Buda.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Namhafft, ersam unnd weiss lieb herrn unnd freund, unnser freuntlich
+                <p xml:id="p.1">Namhafft, ersam unnd weiss lieb herrn unnd freund, unnser freuntlich
                     dienst zuvor!</p>
-                <p>Ir habt guet wissen, das wir herrn <persName>Johan
+                <p xml:id="p.2">Ir habt guet wissen, das wir herrn <persName>Johan
                         Dobrawytzky</persName> den 26. tag Aprilis nechst verschinen mit credentzen
                     unnd bephelch an den <persName>ertzbischoffen von Gran</persName><note
-                        type="critic">Pál Várday.</note> der urbar unnd an rö. khü. mt.<note
-                        type="critic">I.e. römische königliche Majestät.</note> öbristen in das
-                    velltleger unnser gnedigisten reverenzen unnd euers kriegsvolcks halben wider
-                    anhaims zu lassenn abgefertiget haben. Auff solliches ist unns vechten spat
-                    schreiben von ime, hern <persName>Dobrawytzky</persName>, kumen, das er alspaldt
-                    krankch worden unnd zum Sass zu pet lig, aber er hab nicht destminder zu dem
-                    ertzbischoffen unnd dem herrn <persName>von Rogendorff</persName>,<note
-                        type="critic">Wilhelm von Roggendorf.</note> geschicht ine sein schachayt
-                    unnd verhinderung, auch unnser begernn antzaigen lassen, darauff wart er teglich
+                        type="critic" xml:id="note.1">Pál Várday.</note> der urbar unnd an rö. khü.
+                        mt.<note type="critic" xml:id="note.2">I.e. römische königliche
+                        Majestät.</note> öbristen in das velltleger unnser gnedigisten reverenzen
+                    unnd euers kriegsvolcks halben wider anhaims zu lassenn abgefertiget haben. Auff
+                    solliches ist unns vechten spat schreiben von ime, hern
+                        <persName>Dobrawytzky</persName>, kumen, das er alspaldt krankch worden unnd
+                    zum Sass zu pet lig, aber er hab nicht destminder zu dem ertzbischoffen unnd dem
+                    herrn <persName>von Rogendorff</persName>,<note type="critic" xml:id="note.3"
+                        >Wilhelm von Roggendorf.</note> geschicht ine sein schachayt unnd
+                    verhinderung, auch unnser begernn antzaigen lassen, darauff wart er teglich
                     antwurt. Dieweil aber die spanschafften all ir volckh noch ein monnat zu halten <choice>
                         <orig>zugesa<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>zugesa<corr>gt</corr></supplied>
@@ -201,19 +277,21 @@
                     genanten herrn <persName>Dobrawytzky</persName> oder fur euch selbst schicken
                     wolt, euch unnd die anndern stet darnach zu richten haben, man soll sich auff
                     26. Aprill gewislich fur <placeName>Offen</placeName><note type="critic"
-                        >Buda.</note> gelegert haben. Was uns weytter zu wissen wirt, soll euch
-                    unverhalten bleiben, sunst was euch lieb ist, sein wir zu thun gewilt. </p>
-                <p>Datum auff dem schloss <placeName>Altensol</placeName> den 7. tag des
-                    monats May anno Domini 1541. </p>
-                <p><seg type="signature">Nicolaus Olahus custos Albensis etc.</seg></p>
-                <p>
+                        xml:id="note.4">Buda.</note> gelegert haben. Was uns weytter zu wissen wirt,
+                    soll euch unverhalten bleiben, sunst was euch lieb ist, sein wir zu thun gewilt. </p>
+                <p xml:id="p.3">Datum auff dem schloss <placeName>Altensol</placeName> den 7. tag
+                    des monats May anno Domini 1541. </p>
+                <p xml:id="p.4">
+                    <seg type="signature">Nicolaus Olahus custos Albensis etc.</seg>
+                </p>
+                <p xml:id="p.5">
                     <seg type="signature">Bartholmes Haller vom Hallerstein etc.</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Den namhafften, ersamen unnd weisen herrn, richter unnd rat der stat
+                <p xml:id="p.6">Den namhafften, ersamen unnd weisen herrn, richter unnd rat der stat
                     Cremnitz, unnser gueten freunden. </p>
             </div>
         </body>

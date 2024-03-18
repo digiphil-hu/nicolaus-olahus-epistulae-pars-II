@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">667</title>
-                <title type="main">Miklós Oláh to Pál Várday (Prague, 5 November 1546)</title>
+                <title key="body" n="667" type="main">Miklós Oláh to Pál Várday (Prague, 5 November
+                    1546)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15461105_1</idno>
-                
+                <idno type="PID">olahus.tei.15461105_1sz</idno>
+                <idno type="ITIdata">Q473327</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15461105_1sz.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,106 +80,101 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copies. Ms. II is an imcomplete copy. The
+                    <p><hi rend="italic">Notes:</hi> Copies. Ms. II is an imcomplete copy. The
                         letter was accompanied by a letter from Ferenc Nyári. </p>
-                    
                 </note>
                 <note type="publication"><hi rend="smallcap">Pray</hi> 1806, II, 153–156.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <country>Hungary</country>
-                        <settlement>Budapest </settlement>
-                        <institution>OSZK</institution>
-                        <repository>Fol. Lat. 1657.</repository>
-                        <idno/>
-                        <msName/>
-                    </msIdentifier>
-                    <msPart style="letter">
-                        <msIdentifier/>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="folio">141rv.</measure>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                    <msPart style="_letter">
-                        <msIdentifier>
-                            <country>Hungary</country>
-                            <settlement>Budapest</settlement>
-                            <institution>OSZK</institution>
-                            <repository>OSZK Fol. Lat. 2630. Anno 1546 No. 2.</repository>
-                            <idno/>
-                            <msName/>
-                        </msIdentifier>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="folio">2.</measure>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                </msDesc>
                 <listWit>
                     <witness xml:id="CE">Critical edition</witness>
                     <witness xml:id="I">Budapest, OSZK, Fol. Lat. 1657. 141rv.</witness>
                     <witness xml:id="II">Budapest, OSZK, Fol. Lat. 2630. Anno 1546 No. 2. fol.
                         2.</witness>
                 </listWit>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -177,83 +183,80 @@
             </textClass>
             <creation>
                 <date when="1546-11-05">5 November 1546</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pál Várday</persName>
-                    <orgName/>
+                    <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Pál Várday (Prague, 5 November 1546)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Since he knows how curious Pál Várday is, he does not want him to miss
-                            what has happened in Hungary and Bohemia. He will learn what happened
-                            earlier from Ferenc Nyári’s attached letter. The mail came yesterday and
-                            brought the news that the Hungarians had marched to confront the Turks
-                            under Nyári’s lead, who requested reinforcement from the Czech captain,
-                            but the Czech were not able to follow Nyári. Nyári reached the sizeable
-                            enemy, who had been left by the Saxon Prince-elector as protection. The
-                            battle took place on All Saints’ Day, and the Hungarians won an enormous
-                            victory: 1,200 of the enemy fell, but only two of the Hungarians were
-                            injured, and they seized many military weapons, amassed huge spoils, and
-                            also occupied the city. 2. Maurice, Elector of Saxony in turn, occupied
-                            the fortification of Czitau, and only three cities are resisting now –
-                            hopefully those will also belong to the King soon. 3. As far as the
-                            Emperor is concerned, Landgrave is still in the camp where he has
-                            shacked up, but the Emperor sent Spanish and Italian soldiers to burn
-                            down the town that had supplied its provisions, after which many of
-                            Landgrave’s men were killed or captured. 4. The Emperor is said to have
-                            gone to Tuttlingen, which is only a few miles from Ulm and Augsburg. He
-                            will await the enemy’s reaction from there during the winter, and he can
-                            also easily launch an attack from there if necessary.</p>
+                        <p xml:id="reg.p.1">1. Since he knows how curious Pál Várday is, he does not
+                            want him to miss what has happened in Hungary and Bohemia. He will learn
+                            what happened earlier from Ferenc Nyári’s attached letter. The mail came
+                            yesterday and brought the news that the Hungarians had marched to
+                            confront the Turks under Nyári’s lead, who requested reinforcement from
+                            the Czech captain, but the Czech were not able to follow Nyári. Nyári
+                            reached the sizeable enemy, who had been left by the Saxon
+                            Prince-elector as protection. The battle took place on All Saints’ Day,
+                            and the Hungarians won an enormous victory: 1,200 of the enemy fell, but
+                            only two of the Hungarians were injured, and they seized many military
+                            weapons, amassed huge spoils, and also occupied the city. 2. Maurice,
+                            Elector of Saxony in turn, occupied the fortification of Czitau, and
+                            only three cities are resisting now – hopefully those will also belong
+                            to the King soon. 3. As far as the Emperor is concerned, Landgrave is
+                            still in the camp where he has shacked up, but the Emperor sent Spanish
+                            and Italian soldiers to burn down the town that had supplied its
+                            provisions, after which many of Landgrave’s men were killed or captured.
+                            4. The Emperor is said to have gone to Tuttlingen, which is only a few
+                            miles from Ulm and Augsburg. He will await the enemy’s reaction from
+                            there during the winter, and he can also easily launch an attack from
+                            there if necessary.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>
-                    <app>
-                        <lem wit="#CE #I">Ad eundem eiusdem cum priore rerum in Saxonia ab Hungaris
-                            gestarum
+                <p xml:id="p.1">
+                    <app xml:id="app.1">
+                        <lem wit="#CE #I" xml:id="lem.1">Ad eundem eiusdem cum priore rerum in
+                            Saxonia ab Hungaris gestarum
                             argumenti.<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><?oxy_custom_end?>[1.]
-                                Cum<note type="critic">On the margin: 1546.</note> sciam
-                            Reverendissimam Dominationem Vestram rerum novarum avidam esse, nolim
-                            ea, quae nunc in castris Hungarorum et Bohemorum ex Saxonia huc allata
-                            sint, eandem ignorare. Quae ante Simonis et Iudae Apostolorum proxime
-                            praeteritum acta fuerunt, Reverendissima Dominatio Vestra ex litteris
-                            praesentibus annexis<note type="critic">See OSZK, Fol. Lat. 1657. fol.
-                                140r–141r. and OSZK, Fol. Lat. 2630. Anno 1546 No. 2. fol. 1. This
-                                letter was also edited by Pray, see <hi rend="smallcap">Pray</hi>
-                                1805, 147–153.</note> domini Francisci Nyary<note type="critic"
-                                >Ferenc Nyári.</note> intelliget. Heri venit postha, quae retulit
-                            Hungaros audita propinquorum hostium fama obviam illis processisse.
-                            Anteibat dominus <persName>Franciscus Nyary</persName>, qui cum
-                            praevidisset hostium agmen non procul abesse, iussit exercitum
-                            consistere, ipse rogavit a capitaneo Bohemorum, sibi et exercitui
-                            Hungarorum adiungi 500 cataphractos, totidem pedites sclopetarios, seque
-                            belli fortunam horum auxilio cum hoste experturum esse. Quibus
-                            impetratis vicissim cum exercitu Hungarorum praecessit ita, quod
-                            cataphracti et pedites eum assequi non potuerint. Qui postquam ad hostem
-                            pervenissent, quorum numerus erat cataphractorum, ut dicunt,
-                            quadringentorum, peditum vero 6000. Nam hos <persName>dux
-                                Saxoniae</persName> elector pro defensione sui ducatus in praesidiis
-                            locaverat. Commissum est utrinque certamen in festo Omnium Sanctorum
-                            hora tertia pomeridiana. Ubi Hungari animadvertissent, hostium ordines
-                            turbari, perruperunt totum agmen eorum. Increscente die Marte deleverunt
-                            eos, quamquam ad
+                                Cum<note type="critic" xml:id="note.1">On the margin: 1546.</note>
+                            sciam Reverendissimam Dominationem Vestram rerum novarum avidam esse,
+                            nolim ea, quae nunc in castris Hungarorum et Bohemorum ex Saxonia huc
+                            allata sint, eandem ignorare. Quae ante Simonis et Iudae Apostolorum
+                            proxime praeteritum acta fuerunt, Reverendissima Dominatio Vestra ex
+                            litteris praesentibus annexis<note type="critic" xml:id="note.2">See
+                                OSZK, Fol. Lat. 1657. fol. 140r–141r. and OSZK, Fol. Lat. 2630. Anno
+                                1546 No. 2. fol. 1. This letter was also edited by Pray, see <hi
+                                    rend="smallcap">Pray</hi> 1805, 147–153.</note> domini Francisci
+                                Nyary<note type="critic" xml:id="note.3">Ferenc Nyári.</note>
+                            intelliget. Heri venit postha, quae retulit Hungaros audita propinquorum
+                            hostium fama obviam illis processisse. Anteibat dominus
+                                <persName>Franciscus Nyary</persName>, qui cum praevidisset hostium
+                            agmen non procul abesse, iussit exercitum consistere, ipse rogavit a
+                            capitaneo Bohemorum, sibi et exercitui Hungarorum adiungi 500
+                            cataphractos, totidem pedites sclopetarios, seque belli fortunam horum
+                            auxilio cum hoste experturum esse. Quibus impetratis vicissim cum
+                            exercitu Hungarorum praecessit ita, quod cataphracti et pedites eum
+                            assequi non potuerint. Qui postquam ad hostem pervenissent, quorum
+                            numerus erat cataphractorum, ut dicunt, quadringentorum, peditum vero
+                            6000. Nam hos <persName>dux Saxoniae</persName> elector pro defensione
+                            sui ducatus in praesidiis locaverat. Commissum est utrinque certamen in
+                            festo Omnium Sanctorum hora tertia pomeridiana. Ubi Hungari
+                            animadvertissent, hostium ordines turbari, perruperunt totum agmen
+                            eorum. Increscente die Marte deleverunt eos, quamquam ad
                             finem<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>
                             KÉP<?oxy_custom_end?> pugnae supervenerunt et cataphracti regiae
                             maiestatis et pedites, ita, quod ex cataphracis 400 vix 10 evaserunt. In
@@ -268,123 +271,123 @@
                             <?oxy_custom_end?>[2.] Confecto feliciter isto proelio, captaque et in
                             potestatem regiae maiestatis redacta civitate dicuntur ulterius
                             procedere, parte ex alia dux quoque <persName>Mauritius</persName>,<note
-                                type="critic">Maurice, Elector of Saxony (1521–1553).</note> qui
-                            similiter a parte regiae maiestatis est, comparatis copiis, ducatum
-                            ipsius electoris invasit, et obsedit civitatem quamdam Swika (fors
-                            Czitau) iamque non plures tribus civitatibus ducalibus restare, quae vim
-                            exercitus regii sustinere possent, quibus, ut speramus, brevi captis,
-                            brevi totus ducatus Saxoniae ditioni suae maiestatis addetur. Nam omnes
-                            illae civitates, quae sunt maiestati regiae tamquam regi Bohemiae
-                            feudatariae <del corresp="editor">(+)</del> et quarum regio tanta esse
-                            dicitur, quanta est Moravia, iam dicitur regiae maiestati iurasse, cum
-                            50 potioribus baronibus et nobilibus. Hactenus de Saxonia, de Hungaris
-                            et Bohemis.</lem>
-                        <rdg wit="#II"/>
+                                type="critic" xml:id="note.4">Maurice, Elector of Saxony
+                                (1521–1553).</note> qui similiter a parte regiae maiestatis est,
+                            comparatis copiis, ducatum ipsius electoris invasit, et obsedit
+                            civitatem quamdam Swika (fors Czitau) iamque non plures tribus
+                            civitatibus ducalibus restare, quae vim exercitus regii sustinere
+                            possent, quibus, ut speramus, brevi captis, brevi totus ducatus Saxoniae
+                            ditioni suae maiestatis addetur. Nam omnes illae civitates, quae sunt
+                            maiestati regiae tamquam regi Bohemiae feudatariae <del corresp="editor"
+                                >(+)</del> et quarum regio tanta esse dicitur, quanta est Moravia,
+                            iam dicitur regiae maiestati iurasse, cum 50 potioribus baronibus et
+                            nobilibus. Hactenus de Saxonia, de Hungaris et Bohemis.</lem>
+                        <rdg wit="#II" xml:id="rdg.1"/>
                     </app>
                 </p>
-                <p>[3.] Quod attinet ad sacratissimam maiestatem,
-                        <persName>Landgravius</persName><note type="critic">Philipp I, Landgrave of
-                        Hesse.</note>
-                    <app>
-                        <lem wit="#CE #I">etiamnum</lem>
-                        <rdg wit="#II">nunc</rdg>
-                    </app> est <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">eorum</rdg>
+                <p xml:id="p.2">[3.] Quod attinet ad sacratissimam maiestatem,
+                        <persName>Landgravius</persName><note type="critic" xml:id="note.5">Philipp
+                        I, Landgrave of Hesse.</note><app xml:id="app.2">
+                        <lem wit="#CE #I" xml:id="lem.2">etiamnum</lem>
+                        <rdg wit="#II" xml:id="rdg.2">nunc</rdg>
+                    </app> est <app xml:id="app.3">
+                        <lem wit="#CE #I" xml:id="lem.3"/>
+                        <rdg wit="#II" xml:id="rdg.3">eorum</rdg>
                     </app> in castris eodem loco, ubi se in terram suffodit; proelio hactenus cum
-                    sua <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">caesarea</rdg>
-                    </app> maiestate <app>
-                        <lem wit="#CE #I">decertare</lem>
-                        <rdg wit="#II"><del corresp="Olahus?">altercare</del><add corresp="Olahus?"
-                                type="corr">decertare</add></rdg>
-                    </app>
-                    <app>
-                        <lem wit="#CE #I">detrectavit</lem>
-                        <rdg wit="#II">tractavit</rdg>
-                    </app>, ita <app>
-                        <lem wit="#CE #I">tam</lem>
-                        <rdg wit="#II">tamen</rdg>
+                    sua <app xml:id="app.4">
+                        <lem wit="#CE #I" xml:id="lem.4"/>
+                        <rdg wit="#II" xml:id="rdg.4">caesarea</rdg>
+                    </app> maiestate <app xml:id="app.5">
+                        <lem wit="#CE #I" xml:id="lem.5">decertare</lem>
+                        <rdg wit="#II" xml:id="rdg.5"><del corresp="Olahus?">altercare</del><add
+                                corresp="Olahus?" type="corr">decertare</add></rdg>
+                    </app><app xml:id="app.6">
+                        <lem wit="#CE #I" xml:id="lem.6">detrectavit</lem>
+                        <rdg wit="#II" xml:id="rdg.6">tractavit</rdg>
+                    </app>, ita <app xml:id="app.7">
+                        <lem wit="#CE #I" xml:id="lem.7">tam</lem>
+                        <rdg wit="#II" xml:id="rdg.7">tamen</rdg>
                     </app> a militibus imperatoris observatur, ut, quoscumque extra castra mittit,
-                    mox aut capiuntur, aut trucidantur. <app>
-                        <lem wit="#CE #I">Nunc</lem>
-                        <rdg wit="#II">Tunc</rdg>
-                    </app>
-                    <app>
-                        <lem wit="#CE #I">postremo</lem>
-                        <rdg wit="#II">postea</rdg>
+                    mox aut capiuntur, aut trucidantur. <app xml:id="app.8">
+                        <lem wit="#CE #I" xml:id="lem.8">Nunc</lem>
+                        <rdg wit="#II" xml:id="rdg.8">Tunc</rdg>
+                    </app><app xml:id="app.9">
+                        <lem wit="#CE #I" xml:id="lem.9">postremo</lem>
+                        <rdg wit="#II" xml:id="rdg.9">postea</rdg>
                     </app> sua caesarea maiestas misso exercitu Hispanorum et Italorum exuri fecit
                     magnum quoddam oppidum, quod erat ultra castra hostium, unde suppeditabatur
                     hostibus commeatus. Caesi sunt ibidem 200 cataphracti Landgravii et pedites non
                     pauci. Intercepti sunt 800 currus commeatuum et 800 equi, qui bombardas et alia
                     impedimenta hostium traxerunt. Haec hactenus contigerunt. </p>
-                <p>[4.] Diciturque caesarea <app>
-                        <lem wit="#CE #I">maiestas</lem>
-                        <rdg wit="#II">maiestatem</rdg>
-                    </app> in hunc diem <app>
-                        <lem wit="#CE #I">Thulingam</lem>
-                        <rdg wit="#II">Trolingam</rdg>
-                    </app>.<note type="critic">Probably Tuttlingen (in Württenberg,
+                <p xml:id="p.3">[4.] Diciturque caesarea <app xml:id="app.10">
+                        <lem wit="#CE #I" xml:id="lem.10">maiestas</lem>
+                        <rdg wit="#II" xml:id="rdg.10">maiestatem</rdg>
+                    </app> in hunc diem <app xml:id="app.11">
+                        <lem wit="#CE #I" xml:id="lem.11">Thulingam</lem>
+                        <rdg wit="#II" xml:id="rdg.11">Trolingam</rdg>
+                    </app>.<note type="critic" xml:id="note.6">Probably Tuttlingen (in Württenberg,
                         Schwarzwaldkreise). According to Charles V’s itinerary, he was on the
                         campaign on the upper Danube (Bavaria) between August and November
                         1546.</note> ivisse, civitatem cardinalis Augustini nuper recuperatam ab
-                    hostibus, distantem a castris hostium <app>
-                        <lem wit="#CE #I">uno</lem>
-                        <rdg wit="#II">duo</rdg>
+                    hostibus, distantem a castris hostium <app xml:id="app.12">
+                        <lem wit="#CE #I" xml:id="lem.12">uno</lem>
+                        <rdg wit="#II" xml:id="rdg.12">duo</rdg>
                     </app> et altero milliari ubi, si opus erit, exspectabit per hyemem hostium
-                    actiones. Est autem in loco commodo, utpote propinque ad <app>
-                        <lem wit="#CE #II">civitates</lem>
-                        <rdg wit="#I">civitatem</rdg>
-                    </app>
-                    <placeName>Ulmam</placeName> et <placeName>Augustam</placeName>, ad quas a
-                    castris caesareis tribus milliaribus <app>
-                        <lem wit="#CE #I">distantes</lem>
-                        <rdg wit="#II">distantia</rdg>
-                    </app>, <app>
-                        <lem wit="#CE #I">ut volet</lem>
-                        <rdg wit="#II">si velit</rdg>
-                    </app>, <app>
-                        <lem wit="#CE #I">irruptionem</lem>
-                        <rdg wit="#II">eruptionem</rdg>
-                    </app>
-                    <app>
-                        <lem wit="#CE #I">semper facere</lem>
-                        <rdg wit="#II">facere semper</rdg>
-                    </app> poterit, <app>
-                        <lem wit="#CE #I">si ita ferat necessitas belli</lem>
-                        <rdg wit="#II"/>
-                    </app>. Exspectamus in horas felicem <app>
-                        <lem wit="#CE #I">belli</lem>
-                        <rdg wit="#II">huius rei</rdg>
-                    </app> exitum, quod cum factum fuerit, <app>
-                        <lem wit="#CE #I">Reverendissimae Dominationi Vestrae</lem>
-                        <rdg wit="#II">Vestrae Reverendissimae Dominationi</rdg>
-                    </app> perscribam. <app>
-                        <lem wit="#CE #II">Quam feliciter valere cupio.</lem>
-                        <rdg wit="#I"/>
+                    actiones. Est autem in loco commodo, utpote propinque ad <app xml:id="app.13">
+                        <lem wit="#CE #II" xml:id="lem.13">civitates</lem>
+                        <rdg wit="#I" xml:id="rdg.13">civitatem</rdg>
+                    </app><placeName>Ulmam</placeName> et <placeName>Augustam</placeName>, ad quas a
+                    castris caesareis tribus milliaribus <app xml:id="app.14">
+                        <lem wit="#CE #I" xml:id="lem.14">distantes</lem>
+                        <rdg wit="#II" xml:id="rdg.14">distantia</rdg>
+                    </app>, <app xml:id="app.15">
+                        <lem wit="#CE #I" xml:id="lem.15">ut volet</lem>
+                        <rdg wit="#II" xml:id="rdg.15">si velit</rdg>
+                    </app>, <app xml:id="app.16">
+                        <lem wit="#CE #I" xml:id="lem.16">irruptionem</lem>
+                        <rdg wit="#II" xml:id="rdg.16">eruptionem</rdg>
+                    </app><app xml:id="app.17">
+                        <lem wit="#CE #I" xml:id="lem.17">semper facere</lem>
+                        <rdg wit="#II" xml:id="rdg.17">facere semper</rdg>
+                    </app> poterit, <app xml:id="app.18">
+                        <lem wit="#CE #I" xml:id="lem.18">si ita ferat necessitas belli</lem>
+                        <rdg wit="#II" xml:id="rdg.18"/>
+                    </app>. Exspectamus in horas felicem <app xml:id="app.19">
+                        <lem wit="#CE #I" xml:id="lem.19">belli</lem>
+                        <rdg wit="#II" xml:id="rdg.19">huius rei</rdg>
+                    </app> exitum, quod cum factum fuerit, <app xml:id="app.20">
+                        <lem wit="#CE #I" xml:id="lem.20">Reverendissimae Dominationi Vestrae</lem>
+                        <rdg wit="#II" xml:id="rdg.20">Vestrae Reverendissimae Dominationi</rdg>
+                    </app> perscribam. <app xml:id="app.21">
+                        <lem wit="#CE #II" xml:id="lem.21">Quam feliciter valere cupio.</lem>
+                        <rdg wit="#I" xml:id="rdg.21"/>
                     </app></p>
-                <p>Datum <placeName>Pragae</placeName> 5. die Novembris <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">anno</rdg>
+                <p xml:id="p.4">Datum <placeName>Pragae</placeName> 5. die Novembris <app
+                        xml:id="app.22">
+                        <lem wit="#CE #I" xml:id="lem.22"/>
+                        <rdg wit="#II" xml:id="rdg.22">anno</rdg>
                     </app> 1546.</p>
-                <p><seg type="signature"><app>
-                            <lem wit="#CE #I">Nicolaus Olahus</lem>
-                            <rdg wit="#II">Vestrae Reverendissimae Dominationis servitor episcopus
-                                Zagrabiensis</rdg>
-                        </app></seg></p>
-                <p>
-                    <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">In loco proelii numerata sunt occisorum cadavera 200 ex
-                            Hungaris non plures duobus dicuntur esse saucii. Interceperunt 15
-                            tornamenta bellica hostium et civitatem quamdam electam satis munitam,
-                            sicque potiti victoria satis praedam amplam congesserunt. Obtigerunt eis
-                            certi captivi et hi satis opulenti. Tanta fuit inter eos rerum ex praeda
-                            collectarum copia, ut bos vel vacca in auctione venderetur 4 Grossis,
-                            equus Florenorum 2 aut tribus. Confecto feliciter isto proelio captoque
-                            et in potestatem regiae maiestatis redacto dicuntur ulterius
-                            procedere.</rdg>
+                <p xml:id="p.5">
+                    <seg type="signature">
+                        <app xml:id="app.23">
+                            <lem wit="#CE #I" xml:id="lem.23">Nicolaus Olahus</lem>
+                            <rdg wit="#II" xml:id="rdg.23">Vestrae Reverendissimae Dominationis
+                                servitor episcopus Zagrabiensis</rdg>
+                        </app>
+                    </seg>
+                </p>
+                <p xml:id="p.6">
+                    <app xml:id="app.24">
+                        <lem wit="#CE #I" xml:id="lem.24"/>
+                        <rdg wit="#II" xml:id="rdg.24">In loco proelii numerata sunt occisorum
+                            cadavera 200 ex Hungaris non plures duobus dicuntur esse saucii.
+                            Interceperunt 15 tornamenta bellica hostium et civitatem quamdam electam
+                            satis munitam, sicque potiti victoria satis praedam amplam congesserunt.
+                            Obtigerunt eis certi captivi et hi satis opulenti. Tanta fuit inter eos
+                            rerum ex praeda collectarum copia, ut bos vel vacca in auctione
+                            venderetur 4 Grossis, equus Florenorum 2 aut tribus. Confecto feliciter
+                            isto proelio captoque et in potestatem regiae maiestatis redacto
+                            dicuntur ulterius procedere.</rdg>
                     </app>
                 </p>
             </div>

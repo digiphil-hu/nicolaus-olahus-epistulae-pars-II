@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">598</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 22 December
-                    1537)</title>
+                <title key="body" n="598" type="main">Pieter Nanninck to Miklós Oláh ([Leuven], 22
+                    December 1537)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15371222_1</idno>
-                
+                <idno type="PID">olahus.tei.15371222_1</idno>
+                <idno type="ITIdata">Q473258</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15371222_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,43 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 612–613. </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 612–613. </note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 196–198. </p>
-                    <p><hi rend="italic">In French:</hi>
-                        <hi rend="smallcap">Polet</hi> 1936, 263. [regesta]</p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 196–198; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1488–1495. </p>
+                    <p><hi rend="italic">In French:</hi><hi rend="smallcap">Polet</hi> 1936, 263.
+                        [regesta]</p>
                 </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -139,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -152,135 +210,138 @@
             </textClass>
             <creation>
                 <date when="1537-12-22">22 December 1537</date>
-                <placeName>[Leuven]</placeName>
+                <placeName>[Leuven]<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh ([Leuven], 22 December
                     1537)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Although he does not have anything to say, he cannot resist sending
-                            his greetings when he has the chance. If only his prayers were answered,
-                            and he did not see Oláh at court but as lord of his ancestral estates.
-                            2. He lists who adores Oláh and why: there are some who do so because
-                            being a castaway did not break him, and he has accomplished a lot, while
-                            others adore him for his loyalty as a friend: he is the Queen’s most
-                            loyal friend and advisor. Some admire his being ready for everything and
-                            his talent, yet others his generous patronage of the arts. 3. Nanninck
-                            does not admire Oláh for each of these individually but for all of them
-                            together. He apologizes for only wanting to say hello, but all this has
-                            escaped through the corrals of his teeth.</p>
+                        <p xml:id="reg.p.1">1. Although he does not have anything to say, he cannot
+                            resist sending his greetings when he has the chance. If only his prayers
+                            were answered, and he did not see Oláh at court but as lord of his
+                            ancestral estates. 2. He lists who adores Oláh and why: there are some
+                            who do so because being a castaway did not break him, and he has
+                            accomplished a lot, while others adore him for his loyalty as a friend:
+                            he is the Queen’s most loyal friend and advisor. Some admire his being
+                            ready for everything and his talent, yet others his generous patronage
+                            of the arts. 3. Nanninck does not admire Oláh for each of these
+                            individually but for all of them together. He apologizes for only
+                            wanting to say hello, but all this has escaped through the corrals of
+                            his teeth.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Petrus Nannius Nicolao Olao salutem plurimam. </p>
-                <p>[1.] Etsi nihil haberem, Optime Patrone, quod scriberem, saepius enim
-                    iam scripsi,<note type="critic">Nanninck wrote three letters to Oláh and did not
-                        receive any answers, see Ep. 597. Cap.
-                        1.</note><ref>/o:olahus.tei.15371204_1</ref> tamen cum nuntium haberem tam
-                    idoneum, <persName>Rutgeri</persName><note type="critic">Rutger Pathius.</note>
-                    nostri patruelem, non potui mihi imperare, quin si nihil aliud, saltem per
-                    litteras te salutarem. Si enim illi <del corresp="Olahus">salus</del><add
-                        corresp="Olahus" type="corr">saluti</add> geruli, quos
+                <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem plurimam. </p>
+                <p xml:id="p.2">[1.] Etsi nihil haberem, Optime Patrone, quod scriberem, saepius
+                    enim iam scripsi,<note type="critic" xml:id="note.1">Nanninck wrote three
+                        letters to Oláh and did not receive any answers, see Ep. 597. Cap.
+                            1.<ref>olahus.tei.15371204_1</ref></note> tamen cum nuntium haberem tam
+                    idoneum, <persName>Rutgeri</persName><note type="critic" xml:id="note.2">Rutger
+                        Pathius.</note> nostri patruelem, non potui mihi imperare, quin si nihil
+                    aliud, saltem per litteras te salutarem. Si enim illi <del corresp="Olahus"
+                        >salus</del><add corresp="Olahus" type="corr">saluti</add> geruli, quos
                         <persName>Martialis</persName> togatos appellat, officium videntur facere,
                     cum singulis diebus mane patronis suis novum <choice>
                         <orig>χαίρε</orig>
                         <supplied>χαῖρε</supplied>
-                    </choice><note type="critic">‘my regards’.</note> apportant, idque magis ex
-                    consuetudine, quam quod ex animo talia optent, ego me certe piaculum facere
-                    debebo persuadere, si illum, quem ob regii generis claritatem suspicio, ob
-                    eruditionem admiror, ob virtutis heroicas veneror, ob benemerendi de doctis
-                    studium colo, ob plurima sua in me beneficia carissimum habeo, non ad singulas
-                    opportunitates δυσωπία<note type="critic">‘coyness’.</note> laetisque <choice>
+                    </choice><note type="critic" xml:id="note.3">‘my regards’.</note> apportant,
+                    idque magis ex consuetudine, quam quod ex animo talia optent, ego me certe
+                    piaculum facere debebo persuadere, si illum, quem ob regii generis claritatem
+                    suspicio, ob eruditionem admiror, ob virtutis heroicas veneror, ob benemerendi
+                    de doctis studium colo, ob plurima sua in me beneficia carissimum habeo, non ad
+                    singulas opportunitates δυσωπία<note type="critic" xml:id="note.4"
+                        >‘coyness’.</note> laetisque <choice>
                         <orig>improcationibus</orig>
                         <supplied>impricationibus</supplied>
                     </choice> adeo. Atque utinam superi mea vota audirent, ut Olahum meum vel potius
                     omnium studiosorum, non in aula caesaris inter primos, sed sua ipsius aula in
                     avitis ditionibus principem haberem, sed id si datum fuisset, animus iste
                     infractus inter adversa non eluxisset. </p>
-                <p>[2.] Alii<note type="critic">This long enumeration and the closing
-                        allude to Hor. <hi rend="italic">Carm</hi>. I,I.</note> fortasse alia in te
-                    admirabuntur, admirationemque suam ex nitissimis causis colligent. Ille prudens
-                    consilium perspicacemque rerum curam; iste gravitatem constantiamque pectoris,
-                    quod a coepto <del corresp="Olahus">institudo</del><add corresp="Olahus"
-                        type="corr">instituto</add> nullis damnis dimoveare. Alii, quod ex naufragio
-                    patriae, ex iactura regiarum opum animum non depressum aut <choice>
+                <p xml:id="p.3">[2.] Alii<note type="critic" xml:id="note.5">This long enumeration
+                        and the closing allude to Hor. <hi rend="italic">Carm</hi>. I,I.</note>
+                    fortasse alia in te admirabuntur, admirationemque suam ex nitissimis causis
+                    colligent. Ille prudens consilium perspicacemque rerum curam; iste gravitatem
+                    constantiamque pectoris, quod a coepto <del corresp="Olahus">institudo</del><add
+                        corresp="Olahus" type="corr">instituto</add> nullis damnis dimoveare. Alii,
+                    quod ex naufragio patriae, ex iactura regiarum opum animum non depressum aut <choice>
                         <orig>in morsum</orig>
                         <supplied>immersum</supplied>
                     </choice> undis, sed longe sublatum, ac supra fortunae saevitiam habeas. Alii
                     fidem amicitiae sanctissimam, quam tibi non intra pomeria vitae, sed etiam a
                     morte tuorum colendas putas. Habet te <persName>regina</persName> fidelissimum
-                    et amicum <milestone unit="pb"/>et consiliarium, quia <persName>maritus</persName><note type="critic"
-                        >King Louis II.</note> eius te quondam amicum fidelissimum habuit. Consulis
-                    uxori, quia iam amplius marito non potes; procul es a patria, procul a tuis et
-                    commodis et incommodis, quae tua praesentia fortasse in melius procurari
-                    possent, ut reginae commodis melius prospicias; abes a tuis, sed ades deposito
-                    amici regis; affers ad reginae consilia, ex sanctitate fidem, ex usu peritiam,
-                    ex eruditione scientiam, ex sagacitate prudentiam. Alii rursus admirabuntur
-                    ingenium ad omnes artes versatile et quod non lento conamine, nec quasi per
-                    gradus, sed quasi flamma statim ad summa evolat. Alii rursus, quod doctos
-                    maecenatio vel potius patrio amore prosequare. Alii rursum, quod in tanto fastu
-                    rerum animum geras a fastu alienissimum eumque tam modestum, ut unus videare non
-                    sentire, quantus sis. </p>
-                <p>[3.] Ego non singula ista, sed omnia simul admiror, et in
-                    contemplatione tantarum virtutum, <quote>quasi in officina Phidiae</quote><note
-                        type="quote"> Cf. <hi rend="italic">In omnes M. Tullii Ciceronis orationes,
-                            quot quidem extant, doctissimorum virorum Lucubrationes, summa
-                            diligentia…</hi>, Basileae, ex officina Roberti Winter, 1539, a2r: in
-                        arce quasi Phidiae.</note> Parrhasii, non ut illi, inquit, <quote>pictura
-                        inani, sed vivis imaginibus pascor.</quote><note type="quote">Cf. Verg. <hi
-                            rend="italic">Aen.</hi> I,464: “Sic ait, atque animum pictura pascit
-                        inani.”</note> Rogo, permittas me libere loqui, nec intra verecundiae tuae
-                    terminos iubeas orationem meam consistere, satis illos <choice>
+                    et amicum <milestone unit="pb"/>et consiliarium, quia
+                        <persName>maritus</persName><note type="critic" xml:id="note.6">King Louis
+                        II.</note> eius te quondam amicum fidelissimum habuit. Consulis uxori, quia
+                    iam amplius marito non potes; procul es a patria, procul a tuis et commodis et
+                    incommodis, quae tua praesentia fortasse in melius procurari possent, ut reginae
+                    commodis melius prospicias; abes a tuis, sed ades deposito amici regis; affers
+                    ad reginae consilia, ex sanctitate fidem, ex usu peritiam, ex eruditione
+                    scientiam, ex sagacitate prudentiam. Alii rursus admirabuntur ingenium ad omnes
+                    artes versatile et quod non lento conamine, nec quasi per gradus, sed quasi
+                    flamma statim ad summa evolat. Alii rursus, quod doctos maecenatio vel potius
+                    patrio amore prosequare. Alii rursum, quod in tanto fastu rerum animum geras a
+                    fastu alienissimum eumque tam modestum, ut unus videare non sentire, quantus
+                    sis. </p>
+                <p xml:id="p.4">[3.] Ego non singula ista, sed omnia simul admiror, et in
+                    contemplatione tantarum virtutum, <quote xml:id="quote.1">quasi in officina
+                        Phidiae</quote><note type="quote" xml:id="note.quote.1"> Cf. <hi
+                            rend="italic">In omnes M. Tullii Ciceronis orationes, quot quidem
+                            extant, doctissimorum virorum Lucubrationes, summa diligentia…</hi>,
+                        Basileae, ex officina Roberti Winter, 1539, a2r: in arce quasi
+                        Phidiae.</note> Parrhasii, non ut illi, inquit, <quote xml:id="quote.2"
+                        >pictura inani, sed vivis imaginibus pascor.</quote><note type="quote"
+                        xml:id="note.quote.2">Cf. Verg. <hi rend="italic">Aen.</hi> I,464: “Sic ait,
+                        atque animum pictura pascit inani.”</note> Rogo, permittas me libere loqui,
+                    nec intra verecundiae tuae terminos iubeas orationem meam consistere, satis
+                    illos <choice>
                         <orig>constrigit</orig>
                         <supplied>constringit</supplied>
                     </choice> meus pudor. Non est Nannius, qui adulari possit, aut, ut possit,
-                    velit. Increpabat olim <quote>Momus in homine a Vulcano fabre facto, quod
-                        fenestras in pectore non <choice>
+                    velit. Increpabat olim <quote xml:id="quote.3">Momus in homine a Vulcano fabre
+                        facto, quod fenestras in pectore non <choice>
                             <orig>addisset</orig>
                             <supplied>addidisset</supplied>
                         </choice>, per quas in arcana animi inspici potuisset;</quote><note
-                        type="quote">Cf. <hi rend="italic">In omnes M. Tullii…</hi>, 1539, 991
-                        (comm. ad Pro Marcello 25): “Hominem a Vulcano compositum, cum Momus
-                        inspiceret, artificem reprehendit, quod in pectore fenestras aut ostiola
-                        quaedam non addidisset, quo perspici posset.”</note> id si esset factum, non
-                    laborarent homines ingenui adulationis <milestone unit="pb"/>suspicione. Tu
-                    fortasse magnitudinem tuam non sentis, alii sentiunt, idque more oculorum, qui
-                    cum omnia videant, se non vident. Sed dabis veniam nostris verbis <quote>ex
-                        abundantia cordis, ut ille ait, os loquitur,</quote><note type="quote">Lc6,
-                        45 and Mt12, 34: “Ex abundantia enim cordis os loquitur.”</note> et quasi ex
-                    diluvio <quote>ultra septa dentium,</quote><note type="quote">Hom. <hi
-                            rend="italic">Od.</hi> I,64. “Mea filia, qualis tibi sermo excidit septo
-                        dentium?” <hi rend="smallcap">Clarke</hi> 1810, 8.</note> ultra labrorum
-                    aggeres verba exundant, ut gemitus saepe invitis ita animi cogitationes etiam
-                    obluctantibus nobis identidem erumpunt. Statueram te <choice>
+                        type="quote" xml:id="note.quote.3">Cf. <hi rend="italic">In omnes M.
+                            Tullii…</hi>, 1539, 991 (comm. ad Pro Marcello 25): “Hominem a Vulcano
+                        compositum, cum Momus inspiceret, artificem reprehendit, quod in pectore
+                        fenestras aut ostiola quaedam non addidisset, quo perspici posset.”</note>
+                    id si esset factum, non laborarent homines ingenui adulationis <milestone
+                        unit="pb"/>suspicione. Tu fortasse magnitudinem tuam non sentis, alii
+                    sentiunt, idque more oculorum, qui cum omnia videant, se non vident. Sed dabis
+                    veniam nostris verbis <quote xml:id="quote.4">ex abundantia cordis, ut ille ait,
+                        os loquitur,</quote><note type="quote" xml:id="note.quote.4">Lc6, 45 and
+                        Mt12, 34: “Ex abundantia enim cordis os loquitur.”</note> et quasi ex
+                    diluvio <quote xml:id="quote.5">ultra septa dentium,</quote><note type="quote"
+                        xml:id="note.quote.5">Hom. <hi rend="italic">Od.</hi> I,64. “Mea filia,
+                        qualis tibi sermo excidit septo dentium?” <hi rend="smallcap">Clarke</hi>
+                        1810, 8.</note> ultra labrorum aggeres verba exundant, ut gemitus saepe
+                    invitis ita animi cogitationes etiam obluctantibus nobis identidem erumpunt.
+                    Statueram te <choice>
                         <orig>tantummo</orig>
                         <supplied>tantummodo</supplied>
                     </choice> salutare, sed admiratio tui me in hanc loquacitatem avexit, quam tamen
                     debes potius animi putare, quam epistolae, ex animo enim scripta omnia, quae
                     ferme, ut ubique est invisus ita, neque hic cogitationum suarum modum tenuit.
-                    Recte vale et <quote>Praesidium et Dulce Decus Meum.</quote><note type="quote"
-                        >Hor. <hi rend="italic">Carm</hi>. I,I,2.</note>
-                </p>
-                <p>Datum 22. Decembris 1537. </p>
+                    Recte vale et <quote xml:id="quote.6">Praesidium et Dulce Decus
+                        Meum.</quote><note type="quote" xml:id="note.quote.6">Hor. <hi rend="italic"
+                            >Carm</hi>. I,I,2.</note></p>
+                <p xml:id="p.5">Datum 22. Decembris 1537. </p>
             </div>
         </body>
     </text>

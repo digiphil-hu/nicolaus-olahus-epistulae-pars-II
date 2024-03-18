@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">588</title>
-                <title type="main">Frans van Cranevelt to Miklós Oláh (Mechelen, 2 July
-                    1537)</title>
+                <title key="body" n="588" type="main">Frans van Cranevelt to Miklós Oláh (Mechelen,
+                    2 July 1537)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15370702_1</idno>
-                
+                <idno type="PID">olahus.tei.15370702_1</idno>
+                <idno type="ITIdata">Q473248</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15370702_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,27 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 602–603.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 602–603.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1252–1257.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -135,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,96 +207,97 @@
             </textClass>
             <creation>
                 <date when="1537-07-02">2 July 1537</date>
-                <placeName>Mechelen</placeName>
+                <placeName>Mechelen<idno type="ITIdata">Q16519</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Frans van Cranevelt</persName>
-                    <orgName/>
+                    <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Frans van Cranevelt to Miklós Oláh (Mechelen, 2 July 1537)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He did not reply to Oláh before because there was nobody to take the
-                            letter, but now he is sending his comments on Oláh’s work. They have
-                            been hearing good news about the war for days, he hopes that there will
-                            be peace soon. 2. He is attaching his own poems, which he has also sent
-                            to Pieter Nanninck at Oláh’s encouragement so he can tell him what he
-                            thinks about them. 3. The other day he received the book he translated
-                            three years ago, which was then published in Paris by Chrétien Wechel,
-                            with Theodor Adam Svallenberg’s notes. He asks him to get the attached
-                            thank-you letter to the youngster who has stayed in Paris.</p>
+                        <p xml:id="reg.p.1">1. He did not reply to Oláh before because there was
+                            nobody to take the letter, but now he is sending his comments on Oláh’s
+                            work. They have been hearing good news about the war for days, he hopes
+                            that there will be peace soon. 2. He is attaching his own poems, which
+                            he has also sent to Pieter Nanninck at Oláh’s encouragement so he can
+                            tell him what he thinks about them. 3. The other day he received the
+                            book he translated three years ago, which was then published in Paris by
+                            Chrétien Wechel, with Theodor Adam Svallenberg’s notes. He asks him to
+                            get the attached thank-you letter to the youngster who has stayed in
+                            Paris.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Franciscus Cranneveldius Nicolao Olao salutem plurimam. </p>
-                <p>[1.] Pudet me, Vir Ornatissime, quod tam diu nihil responderim tuis
+                <p xml:id="p.1">Franciscus Cranneveldius Nicolao Olao salutem plurimam. </p>
+                <p xml:id="p.2">[1.] Pudet me, Vir Ornatissime, quod tam diu nihil responderim tuis
                     litteris, neque remiserim carissimam doctissimamque feturam,<note type="critic"
-                        >I.e. Oláh’s historical works: <hi rend="italic">Hungaria</hi> or <hi
-                            rend="italic">Athila</hi>.</note> sed cum tam longe abesset Dominatio
-                    Tua, non audebam cuivis homini rem remittere. Nunc fidum nactus tabellarium
-                    remitto cum meis lituris opus tuum, sed vereor, nec nimis libere censuram
-                    exercuerim. Halcyonem<note type="critic">Hesiod, Hyginus and Pausanias wrote
-                        about Alcyone.</note> Graece non habeo et cum apud alios requisivissem, non
-                    inveni; proinde boni consulet Dominatio Tua, quae divinando verius, quam
-                    censendo annotavimus. </p>
-                <p>Vos iam istic quotidie auditis belli prospera, utinam ea aliquando sint
-                    pacis incitamenta, bella enim geruntur, ut ad pacem perveniatur aliquando, sed
-                    vereor, ne multorum magno malo ac serius. <quote>Sed haec sita sunt in divorum
-                        gentibus,</quote><note type="quote">Hom. <hi rend="italic">Il.</hi> XX, 435.
-                            <hi rend="italic"> Homeri Ilias sev potivs omnia eius quae extant
-                            opera</hi>, Basileae: Impensis Theodosii Rihelii, 1570, 733: “Sed certe
+                        xml:id="note.1">I.e. Oláh’s historical works: <hi rend="italic"
+                            >Hungaria</hi> or <hi rend="italic">Athila</hi>.</note> sed cum tam
+                    longe abesset Dominatio Tua, non audebam cuivis homini rem remittere. Nunc fidum
+                    nactus tabellarium remitto cum meis lituris opus tuum, sed vereor, nec nimis
+                    libere censuram exercuerim. Halcyonem<note type="critic" xml:id="note.2">Hesiod,
+                        Hyginus and Pausanias wrote about Alcyone.</note> Graece non habeo et cum
+                    apud alios requisivissem, non inveni; proinde boni consulet Dominatio Tua, quae
+                    divinando verius, quam censendo annotavimus. </p>
+                <p xml:id="p.3">Vos iam istic quotidie auditis belli prospera, utinam ea aliquando
+                    sint pacis incitamenta, bella enim geruntur, ut ad pacem perveniatur aliquando,
+                    sed vereor, ne multorum magno malo ac serius. <quote xml:id="quote.1">Sed haec
+                        sita sunt in divorum gentibus,</quote><note type="quote"
+                        xml:id="note.quote.1">Hom. <hi rend="italic">Il.</hi> XX, 435. <hi
+                            rend="italic"> Homeri Ilias sev potivs omnia eius quae extant
+                        opera</hi>, Basileae: Impensis Theodosii Rihelii, 1570, 733: “Sed certe
                         quidem haec Deorum in genibus sita sunt.”</note> ut est apud
                         <persName>Homerum</persName>. </p>
-                <p>[2.] Apposui mea carmina, quae magis ex affectu in te meo, quam ipsorum
-                    concinnitate aestimabis. Coepi nuper has victorias nostras ludere carmine non
-                    Claudiano, sed Virgiliano. Sed expedit in decimum annum premere, et meminisse
-                        <quote>longas regibus esse manus.</quote><note type="quote">Ovid. <hi
-                            rend="italic">Her.</hi> XVII,176. Erasm. <hi rend="italic">Adag.</hi>
-                        103. I,II,3. Longae regum manus.</note> Olim
-                        <persName>pater</persName>,<note type="critic">Herman van Cranevelt
-                        (1442–1518), Secretary of the Dukes of Guelders. See <hi rend="smallcap"
-                            >Schulte Herbrüggen</hi> 1997, 27.</note> vir suo seculo <milestone
-                        unit="pb"/>prudentissimus me admonuit de magnis principibus non facile in
+                <p xml:id="p.4">[2.] Apposui mea carmina, quae magis ex affectu in te meo, quam
+                    ipsorum concinnitate aestimabis. Coepi nuper has victorias nostras ludere
+                    carmine non Claudiano, sed Virgiliano. Sed expedit in decimum annum premere, et
+                    meminisse <quote xml:id="quote.2">longas regibus esse manus.</quote><note
+                        type="quote" xml:id="note.quote.2">Ovid. <hi rend="italic">Her.</hi>
+                        XVII,176. Erasm. <hi rend="italic">Adag.</hi> 103. I,II,3. Longae regum
+                        manus.</note> Olim <persName>pater</persName>,<note type="critic"
+                        xml:id="note.3">Herman van Cranevelt (1442–1518), Secretary of the Dukes of
+                        Guelders. See <hi rend="smallcap">Schulte Herbrüggen</hi> 1997, 27.</note>
+                    vir suo seculo </p>
+                <pb/>
+                <p xml:id="p.5">prudentissimus me admonuit de magnis principibus non facile in
                     peiorem partem loquendum esse. Hic scilicet alterum laudes, alterum suis quoque
-                    coloribus pingere consequens est et <quote>nescimus, quid serus vesper
-                        vehat.</quote><note type="quote">Erasm. <hi rend="italic">Adag.</hi> 605.
-                        I,VII,5. Nescis quid serus vesper vehat.</note> Hic quamquam me deterrerent
-                    ab editione Claudianorum, tamen tuo hortatu permisi dictaturam ac censuram
-                        <persName>Nannio</persName><note type="critic">Pieter Nanninck.</note>
-                    nostro, sed nescio, quid agant rerum nostri. </p>
-                <p>[3.] Nuper unus eorum, qui fuit in comitatu legati, attulit domum meam
-                    me absente libellum<note type="critic">Procopius’ <hi rend="italic">De
-                            aedificiis,</hi> Paris: C. Wechel, 1537.</note>
-                    <placeName>Parrhisiis</placeName> impressum de aedificiis
+                    coloribus pingere consequens est et <quote xml:id="quote.3">nescimus, quid serus
+                        vesper vehat.</quote><note type="quote" xml:id="note.quote.3">Erasm. <hi
+                            rend="italic">Adag.</hi> 605. I,VII,5. Nescis quid serus vesper
+                        vehat.</note> Hic quamquam me deterrerent ab editione Claudianorum, tamen
+                    tuo hortatu permisi dictaturam ac censuram <persName>Nannio</persName><note
+                        type="critic" xml:id="note.4">Pieter Nanninck.</note> nostro, sed nescio,
+                    quid agant rerum nostri. </p>
+                <p xml:id="p.6">[3.] Nuper unus eorum, qui fuit in comitatu legati, attulit domum
+                    meam me absente libellum<note type="critic" xml:id="note.5">Procopius’ <hi
+                            rend="italic">De aedificiis,</hi> Paris: C. Wechel,
+                        1537.</note><placeName>Parrhisiis</placeName> impressum de aedificiis
                         <persName>Iustiniani</persName>, quem antea triennium utcumque verteram,
                     quem scitissimis characteribus excudit <persName>Wechelius</persName><note
-                        type="critic">Chrétien Wechel of Herentals (†1554) was an important
-                        publisher of his era, see <hi rend="smallcap">Guilleminot</hi> 1987,
-                        434.</note> cum annotationibus et explicationibus <persName>Theodorici
-                        Adamei Zwallemburgi</persName>.<note type="critic">Theodor Adam Svallenberg,
-                        known as Theodoricus Adamaeus (1470–1540), German philologist and historian,
-                        also took part in other editions, see <hi rend="smallcap">Lazăr</hi> 2016,
-                        72.</note> Is iuvenis eruditissimus malo fato
-                        <placeName>Parrhisiis</placeName> mansit initio huius belli, cui per
+                        type="critic" xml:id="note.6">Chrétien Wechel of Herentals (†1554) was an
+                        important publisher of his era, see <hi rend="smallcap">Guilleminot</hi>
+                        1987, 434.</note> cum annotationibus et explicationibus <persName>Theodorici
+                        Adamei Zwallemburgi</persName>.<note type="critic" xml:id="note.7">Theodor
+                        Adam Svallenberg, known as Theodoricus Adamaeus (1470–1540), German
+                        philologist and historian, also took part in other editions, see <hi
+                            rend="smallcap">Lazăr</hi> 2016, 72.</note> Is iuvenis eruditissimus
+                    malo fato <placeName>Parrhisiis</placeName> mansit initio huius belli, cui per
                     litteras apertas, quas praesentibus inclusi, gratias ago, ut si mitti possint,
                     mittantur, sin minus istic maneant testes meae diligentiae. Vale, Domine
                     Ornatissime. </p>
-                <p><placeName>Mechliniae</placeName> die 2. mensis Iulii anno 1537.</p>
+                <p xml:id="p.7"><placeName>Mechliniae</placeName> die 2. mensis Iulii anno 1537.</p>
             </div>
         </body>
     </text>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">830</title>
-                <title type="main">Miklós Oláh to Hungarian Chamber (Vienna, 27 October
-                    1552)</title>
+                <title key="body" n="830" type="main">Miklós Oláh to Hungarian Chamber (Vienna, 27
+                    October 1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520927_1</idno>
-                
+                <idno type="PID">olahus.tei.15521027_1</idno>
+                <idno type="ITIdata">Q473487</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15521027_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,36 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
+                    <p><hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -131,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -144,60 +201,57 @@
             </textClass>
             <creation>
                 <date when="1552-09-27">27 September 1552</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Hungarian Chamber</persName>
-                    <orgName/>
+                    <orgName>Hungarian Chamber</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Hungarian Chamber (Vienna, 27 October 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He has received their letter, in which they reject Oláh’s indignation
-                            in terms of both his salary and the collection of the tithes of Sáros
-                            and Bereg counties. They have not responded to the letter he had sent to
-                            them though, although it is free from indignation, he simply asks them
-                            not to send instalments but send his annual salary in one go instead
-                            because he is strapped for cash. 2. As for the tithe, he does not like
-                            that while Eger is the protector of Sárospatak, Košice, and all of the
-                            surrounding area, they are even taking money from him when he needs
-                            further reinforcements. As for Sáros, János Dessewffy knows quite well
-                            that there were some who offered 1,200 florins for the tithe, and Werner
-                            was not so enthusiastic about fortifying the Eger castle, either. 3. He
-                            especially does not understand what they do not understand about the
-                            Bereg tithe because he had the right to give half of it to his relative,
-                            and without it Khust and Maramureș cannot be defended. So he is asking
-                            them to pay him his full year’s salary, as well as the rent of Sáros and
-                            Bereg counties.</p>
+                        <p xml:id="reg.p.1">1. He has received their letter, in which they reject
+                            Oláh’s indignation in terms of both his salary and the collection of the
+                            tithes of Sáros and Bereg counties. They have not responded to the
+                            letter he had sent to them though, although it is free from indignation,
+                            he simply asks them not to send instalments but send his annual salary
+                            in one go instead because he is strapped for cash. 2. As for the tithe,
+                            he does not like that while Eger is the protector of Sárospatak, Košice,
+                            and all of the surrounding area, they are even taking money from him
+                            when he needs further reinforcements. As for Sáros, János Dessewffy
+                            knows quite well that there were some who offered 1,200 florins for the
+                            tithe, and Werner was not so enthusiastic about fortifying the Eger
+                            castle, either. 3. He especially does not understand what they do not
+                            understand about the Bereg tithe because he had the right to give half
+                            of it to his relative, and without it Khust and Maramureș cannot be
+                            defended. So he is asking them to pay him his full year’s salary, as
+                            well as the rent of Sáros and Bereg counties.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Egregii Domini et Amici Honorandi, salutem et nostri
+                <p xml:id="p.1">Egregii Domini et Amici Honorandi, salutem et nostri
                     commendationem!</p>
-                <p>[1.] Reddidit nobis puer domini <persName>Desewffy</persName><note
-                        type="critic">János Dessewffy (1500–1568) was Royal Counselor, Steward <hi
-                            rend="italic">(magister curiae regiae)</hi> from 1554, President of the
-                        Royal Chamber from 1557, and <hi rend="italic">ispán</hi> of Pozsega county,
-                        see <hi rend="smallcap">Varjú</hi> 1903, 79–80.</note> proximas litteras
-                    Dominationum Vestrarum, quibus indignationem deprecantur, quam contra ipsas per
-                    nos conceptam ex eodem domino <persName>Desewffy</persName> cognovissent, <del
-                        corresp="scriba">deprecantur</del> et simul se tum de salario nostro, tum
-                    vero de arenda decimarum comitatuum <placeName>Saros</placeName> et
+                <p xml:id="p.2">[1.] Reddidit nobis puer domini <persName>Desewffy</persName><note
+                        type="critic" xml:id="note.1">János Dessewffy (1500–1568) was Royal
+                        Counselor, Steward <hi rend="italic">(magister curiae regiae)</hi> from
+                        1554, President of the Royal Chamber from 1557, and <hi rend="italic"
+                            >ispán</hi> of Pozsega county, see <hi rend="smallcap">Varjú</hi> 1903,
+                        79–80.</note> proximas litteras Dominationum Vestrarum, quibus indignationem
+                    deprecantur, quam contra ipsas per nos conceptam ex eodem domino
+                        <persName>Desewffy</persName> cognovissent, <del corresp="scriba"
+                        >deprecantur</del> et simul se tum de salario nostro, tum vero de arenda
+                    decimarum comitatuum <placeName>Saros</placeName> et
                         <placeName>Bereg</placeName> excusant. Nobis, cum diebus proximis ad
                     Dominationes Vestras de his negotiis nostris litteras dedissem, mirum quidem
                     visum fuerat nullum ab ipsis relatum esse responsum. Indignatio tamen nulla fuit
@@ -207,18 +261,18 @@
                     angariae solum, sed reliquum huius totius anni ad nos salarium mittant, nam quod
                     omnibus undique redditis hoc tempore destituto sumptuum inopia magnopere
                     premamur, possunt Dominationes Vestrae facile cogitare. </p>
-                <p>[2.] Quod vero ad decimas attinet, non potest profecto nobis non
+                <p xml:id="p.3">[2.] Quod vero ad decimas attinet, non potest profecto nobis non
                     displicere et simul etiam admirationem afferre, cum
-                        <placeName>Agria</placeName><note type="critic">Eger.</note> non solum arcis
-                        <placeName>Saros</placeName>,<note type="critic">Sárospatak castle.</note>
-                    verum etiam <placeName>Cassoviae</placeName><note type="critic">Košice.</note>
-                    atque omnis adeo istius regni partis superioris praecipuum sit propugnaculum,
-                    cumque facile constet, quantis et quam gravibus sumptibus arx
-                        <placeName>Agriensis</placeName> et antea sit conservata, et si (quod
-                    speramus) divina nunc ope gravem istam obsidionem evadat, imposterum et
-                    conservanda et reparanda et firmanda sit <milestone unit="pb"/>omni genere
-                    munitionis ac praesidii exiguos famem eos redditus, quod turbulentis his
-                    temporibus reliqui sunt, distrahi et in usum vel arcis
+                        <placeName>Agria</placeName><note type="critic" xml:id="note.2">Eger.</note>
+                    non solum arcis <placeName>Saros</placeName>,<note type="critic" xml:id="note.3"
+                        >Sárospatak castle.</note> verum etiam <placeName>Cassoviae</placeName><note
+                        type="critic" xml:id="note.4">Košice.</note> atque omnis adeo istius regni
+                    partis superioris praecipuum sit propugnaculum, cumque facile constet, quantis
+                    et quam gravibus sumptibus arx <placeName>Agriensis</placeName> et antea sit
+                    conservata, et si (quod speramus) divina nunc ope gravem istam obsidionem
+                    evadat, imposterum et conservanda et reparanda et firmanda sit <milestone
+                        unit="pb"/>omni genere munitionis ac praesidii exiguos famem eos redditus,
+                    quod turbulentis his temporibus reliqui sunt, distrahi et in usum vel arcis
                         <placeName>Saros</placeName> vel urbis <placeName>Cassoviae</placeName>
                     converti, cum plane liqueat amissam arcem <placeName>Saros</placeName> integra
                         <placeName>Agria</placeName> posse recuperari, sed non e contra, ac proinde
@@ -228,34 +282,34 @@
                     comitatus <placeName>Saros</placeName> attinet, constat domino
                         <persName>Desewffy</persName> non defuisse hic eo praesente, qui mille
                     ducentos Florenos pro ea decima offerrent, ut satis propterea mirari non
-                    possimus dominum <persName>Wernerum</persName>,<note type="critic">Georg
-                        Werner.</note> veterem amicum nostrum ita se in isto negotio vel nostri vel
-                    arcis <placeName>Agriensis</placeName> commodi ac conservationis parum cupidum
-                    ostendere. Nam quod ex rationibus tandem deduci posse Dominationes Vestrae
-                    scribunt, si quid in partem nostram supplendum foret, non videmus quonam pacto
-                    id fieri queat, cum ex tribus proventuum Agriensium partibus in suum qualibet
-                    usum designatis nihil ita deduci queat, quin quod deducitur ex una in altera
-                    necessaria deficiat, ac proinde tum mirari ea, quae in hac decimarum
-                    administratione vel potius usurpatione fiunt, non parum cogimur, tum vero est,
-                    quod nostrorum temporum statum, simul <milestone unit="pb"/>et exiguam in animis
-                    nostrorum hominum pietatem et religionem deploremus, quando licere sibi quisque
-                    ecclesiasticos proventus pro suo arbitratu dissipare et auferre facile
-                    existimat. </p>
-                <p>[3.] De decima comitatus <placeName>Bereg</placeName> quid item factum
-                    nostrum Dominationes Vestrae improbare debuerint, non videmus, cum nobis pro
-                    iure nostro licuerit eius decimae parte dimidiam affini nostro concedere et
+                    possimus dominum <persName>Wernerum</persName>,<note type="critic"
+                        xml:id="note.5">Georg Werner.</note> veterem amicum nostrum ita se in isto
+                    negotio vel nostri vel arcis <placeName>Agriensis</placeName> commodi ac
+                    conservationis parum cupidum ostendere. Nam quod ex rationibus tandem deduci
+                    posse Dominationes Vestrae scribunt, si quid in partem nostram supplendum foret,
+                    non videmus quonam pacto id fieri queat, cum ex tribus proventuum Agriensium
+                    partibus in suum qualibet usum designatis nihil ita deduci queat, quin quod
+                    deducitur ex una in altera necessaria deficiat, ac proinde tum mirari ea, quae
+                    in hac decimarum administratione vel potius usurpatione fiunt, non parum
+                    cogimur, tum vero est, quod nostrorum temporum statum, simul <milestone
+                        unit="pb"/>et exiguam in animis nostrorum hominum pietatem et religionem
+                    deploremus, quando licere sibi quisque ecclesiasticos proventus pro suo
+                    arbitratu dissipare et auferre facile existimat. </p>
+                <p xml:id="p.4">[3.] De decima comitatus <placeName>Bereg</placeName> quid item
+                    factum nostrum Dominationes Vestrae improbare debuerint, non videmus, cum nobis
+                    pro iure nostro licuerit eius decimae parte dimidiam affini nostro concedere et
                     alioquin etiam castrum <placeName>Hwzzth</placeName><note type="critic"
-                        >Khust.</note> et <placeName>Maramarosium</placeName><note type="critic"
-                        >Maramureș.</note> sine illis decimis facile provideri possit. Neque unquam
-                    (quod quidem nos sciamus), excepto hoc biennio decimae istae eo fuerint
-                    conductae. Quare petimus a Dominationibus Vestris, ut et salarium reliqui huius
-                    anni, simul et arendam superioris ac praesentis anni comitatuum
-                        <placeName>Saros</placeName> et <placeName>Bereg</placeName> nobis persolvi
-                    curent. Quod nos omni amicitia et fraternitate a Dominationibus Vestris
+                        xml:id="note.6">Khust.</note> et <placeName>Maramarosium</placeName><note
+                        type="critic" xml:id="note.7">Maramureș.</note> sine illis decimis facile
+                    provideri possit. Neque unquam (quod quidem nos sciamus), excepto hoc biennio
+                    decimae istae eo fuerint conductae. Quare petimus a Dominationibus Vestris, ut
+                    et salarium reliqui huius anni, simul et arendam superioris ac praesentis anni
+                    comitatuum <placeName>Saros</placeName> et <placeName>Bereg</placeName> nobis
+                    persolvi curent. Quod nos omni amicitia et fraternitate a Dominationibus Vestris
                     promerebimur <del corresp="Olahus">tam</del> et scripta haec nostra in bonam
                     partem accipiant, valeantque feliciter.</p>
-                <p><placeName>Viennae</placeName> die 27. Octobris 1552.</p>
-                <p>
+                <p xml:id="p.5"><placeName>Viennae</placeName> die 27. Octobris 1552.</p>
+                <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Vester uti frater Agriensis etc. manu
                             propria.</add>
@@ -263,9 +317,9 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Egregiis dominis consiliariis camerae Hungaricae sacrae regiae
+                <p xml:id="p.7">Egregiis dominis consiliariis camerae Hungaricae sacrae regiae
                     maiestatis etc. dominis et amicis honorandis.</p>
             </div>
         </body>

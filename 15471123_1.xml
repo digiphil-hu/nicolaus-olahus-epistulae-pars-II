@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">678</title>
-                <title type="main">Wolfgang Kremer to Miklós Oláh (Vienna, 23 November 1547)</title>
+                <title key="body" n="678" type="main">Wolfgang Kremer to Miklós Oláh (Vienna, 23
+                    November 1547)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15471123_1</idno>
-                
+                <idno type="PID">olahus.tei.15471123_1</idno>
+                <idno type="ITIdata">Q473338</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15471123_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,23 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p>
                         <hi rend="bold">On the outer side:</hi>
@@ -95,16 +105,6 @@
                     <p>De pensione regine anni 1546 et de aliis pecuniis etc.</p>
                     <p>Cremer. Reddit prima Decembris. Datae 23. Novembris 1547. </p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -136,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -149,97 +210,97 @@
             </textClass>
             <creation>
                 <date when="1547-11-23">23 November 1547</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
                     <persName>Wolfgang Kremer</persName>
-                    <orgName/>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1547-12-01">1 December 1547</date>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Wolfgang Kremer to Miklós Oláh (Vienna, 23 November 1547)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He wrote Oláh a letter on 15 November in haste, he hopes that letter has
-                            arrived. He has since received the letter Oláh wrote on 10 November, in
-                            which he asks for accounts of the incomes and expenses during 1546 and
-                            1547. According to the statement, Kremer owes Oláh 2,373 Rhenish florins
-                            and 20 kreuzers, if he sends him the receipt of the 600 Rhenish florins
-                            by December of 1547. Oláh would have to draw up a receipt for Kremer
-                            regarding the years 1546 and 1547 on the 5% interest on the 2,000
-                            [Rhenish] florins, and he should also draw up a debenture bond for
-                            Kremer on the same, which he will hand over in Augsburg, along with 373
-                            florins and 20 kreuzers. Kremer has received his pension for the year
-                            1546, as Oláh’s receipt also shows. Kremer cannot collect any money from
-                            the Archbishop of Esztergom, and so Scribe Balázs has not paid any of
-                            the 1,170 florins that Kremer had given to Gáspár Horváth’s wife two
-                            years ago, either. He asks Oláh for his help in collecting the
+                        <p xml:id="reg.p.1">He wrote Oláh a letter on 15 November in haste, he hopes
+                            that letter has arrived. He has since received the letter Oláh wrote on
+                            10 November, in which he asks for accounts of the incomes and expenses
+                            during 1546 and 1547. According to the statement, Kremer owes Oláh 2,373
+                            Rhenish florins and 20 kreuzers, if he sends him the receipt of the 600
+                            Rhenish florins by December of 1547. Oláh would have to draw up a
+                            receipt for Kremer regarding the years 1546 and 1547 on the 5% interest
+                            on the 2,000 [Rhenish] florins, and he should also draw up a debenture
+                            bond for Kremer on the same, which he will hand over in Augsburg, along
+                            with 373 florins and 20 kreuzers. Kremer has received his pension for
+                            the year 1546, as Oláh’s receipt also shows. Kremer cannot collect any
+                            money from the Archbishop of Esztergom, and so Scribe Balázs has not
+                            paid any of the 1,170 florins that Kremer had given to Gáspár Horváth’s
+                            wife two years ago, either. He asks Oláh for his help in collecting the
                             money.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Hochwirdiger furst, genediger her, e. f. g.,<note type="critic">I.e.
-                        eure fürstliche Gnade.</note> sey mein gut, willig dienst beraytt! </p>
-                <p>Ich hab e. f. g. auf 15 dis monats in eyl geschriben,<note
-                        type="critic">We do not know this letter.</note> verhoff, es sey e. f. g.
-                    zuekhomen, so ist mir seyder e. f. g. schreyb von 10 dis zuekhomen,<note
-                        type="critic">We do not know this letter.</note> darinen e. f. g. ain auszug
-                    begern, was ich von wegen e. f. g. eingenomen, auch ausgeben hab dise 2 jar, di
-                    46 und 47 jar. Laut di auszug hiemit, das ich e. f. g. rest f.<note
-                        type="critic">I.e. Florin.</note> 2373 k.<note type="critic">I.e.
+                <p xml:id="p.1">Hochwirdiger furst, genediger her, e. f. g.,<note type="critic"
+                        xml:id="note.1">I.e. eure fürstliche Gnade.</note> sey mein gut, willig
+                    dienst beraytt! </p>
+                <p xml:id="p.2">Ich hab e. f. g. auf 15 dis monats in eyl geschriben,<note
+                        type="critic" xml:id="note.2">We do not know this letter.</note> verhoff, es
+                    sey e. f. g. zuekhomen, so ist mir seyder e. f. g. schreyb von 10 dis
+                        zuekhomen,<note type="critic" xml:id="note.3">We do not know this
+                        letter.</note> darinen e. f. g. ain auszug begern, was ich von wegen e. f.
+                    g. eingenomen, auch ausgeben hab dise 2 jar, di 46 und 47 jar. Laut di auszug
+                    hiemit, das ich e. f. g. rest f.<note type="critic" xml:id="note.4">I.e.
+                        Florin.</note> 2373 k.<note type="critic" xml:id="note.5">I.e.
                         Kreuzer.</note> 20 reinisch munz, soferr mir e. f. g. die quitung umb die f.
-                    600 r.<note type="critic">I.e. rheinischer [Florin/Gulden].</note> munz schickht
-                    dis 47 jar pis den lezten Dezembris dis jar etc. Auch mus mir e. f. g. ain
-                    quitung schickhen von wegen der verzinsung der f. 2000 dise 2 jar, di 46 und 47
-                    jar, wie ich e. f. g. in meinem auszug gesezt hab etc., und wo es e. f. g.
-                    gelegen ist, so wolt ich e. f. g. die f. 373 k. 20 in
-                        <placeName>Augspurg</placeName> halben lassen und e. f. g. ain schuldbrief
-                    umb die f. 2000 schickhen, dieselbige e. f. g. mit f. 5 vom hundert bezallen
-                        <del corresp="author">das</del> oder verzinsen, darauf bit ich e. f. g.,
-                    mich mit vesten antwort wisen zue lassen, und bit e. f. g. mir die quitung umb
-                    die f. 600 zueschicken von wegen der <persName>kungin Marie</persName> etc. Dan
-                    ich soliche zue meiner raitung yezt haben mus etc. Das 46 jar hab ich e. f. g.
-                    selbst in <placeName>Prag</placeName> im October die pension erhalten<note
-                        type="critic">Uncertain reading.</note> laut e. f. g. quitung, so ich vor
-                    ain jar in mein raittung aingelegt hab etc. </p>
+                    600 r.<note type="critic" xml:id="note.6">I.e. rheinischer
+                        [Florin/Gulden].</note> munz schickht dis 47 jar pis den lezten Dezembris
+                    dis jar etc. Auch mus mir e. f. g. ain quitung schickhen von wegen der
+                    verzinsung der f. 2000 dise 2 jar, di 46 und 47 jar, wie ich e. f. g. in meinem
+                    auszug gesezt hab etc., und wo es e. f. g. gelegen ist, so wolt ich e. f. g. die
+                    f. 373 k. 20 in <placeName>Augspurg</placeName> halben lassen und e. f. g. ain
+                    schuldbrief umb die f. 2000 schickhen, dieselbige e. f. g. mit f. 5 vom hundert
+                    bezallen <del corresp="author">das</del> oder verzinsen, darauf bit ich e. f.
+                    g., mich mit vesten antwort wisen zue lassen, und bit e. f. g. mir die quitung
+                    umb die f. 600 zueschicken von wegen der <persName>kungin Marie</persName> etc.
+                    Dan ich soliche zue meiner raitung yezt haben mus etc. Das 46 jar hab ich e. f.
+                    g. selbst in <placeName>Prag</placeName> im October die pension erhalten<note
+                        type="critic" xml:id="note.7">Uncertain reading.</note> laut e. f. g.
+                    quitung, so ich vor ain jar in mein raittung aingelegt hab etc. </p>
                 <pb/>
-                <p>Von dem her <persName>pischoff von Grann</persName><note type="critic"
-                        >Pál Várday.</note> khann ich kain gelt zw wegen pringen, so gibt mir der
-                    her <del corresp="author">das</del>
-                    <persName>Blasy diackh</persName><note type="critic">Probably Balázs
-                        Péterváradi.</note> auch nichts von wegen der f. 1170 hungrisch, so ich vor
-                    2 jaren der <persName>Horwat Casparin</persName><note type="critic">Gáspár
-                        Horváth of Vingárd’s wife was Johanna Likerka.</note> bezalt hab. Ich weys
-                    nit, wie ich im thunn soll, wan ich in gleich vil bevelch von der ro. ku.
-                        mt.<note type="critic">I.e. römische königliche Majestät.</note> gib oder
-                    pring, so geben sy nichts, darumb ich bit e. f. g., mir doch verhelffen zue
+                <p xml:id="p.3">Von dem her <persName>pischoff von Grann</persName><note
+                        type="critic" xml:id="note.8">Pál Várday.</note> khann ich kain gelt zw
+                    wegen pringen, so gibt mir der her <del corresp="author"
+                        >das</del><persName>Blasy diackh</persName><note type="critic"
+                        xml:id="note.9">Probably Balázs Péterváradi.</note> auch nichts von wegen
+                    der f. 1170 hungrisch, so ich vor 2 jaren der <persName>Horwat
+                        Casparin</persName><note type="critic" xml:id="note.10">Gáspár Horváth of
+                        Vingárd’s wife was Johanna Likerka.</note> bezalt hab. Ich weys nit, wie ich
+                    im thunn soll, wan ich in gleich vil bevelch von der ro. ku. mt.<note
+                        type="critic" xml:id="note.11">I.e. römische königliche Majestät.</note> gib
+                    oder pring, so geben sy nichts, darumb ich bit e. f. g., mir doch verhelffen zue
                     sein, das ich mus bezalt werden, damit will ich mich e. f. g. zu bevelhen. </p>
-                <p>Actum <placeName>Wien</placeName> den 23. tag Novembris anno etc. im
+                <p xml:id="p.4">Actum <placeName>Wien</placeName> den 23. tag Novembris anno etc. im
                     1547. </p>
-                <p>E. f. g. williger diner</p>
-                <p>
+                <p xml:id="p.5">E. f. g. williger diner</p>
+                <p xml:id="p.6">
                     <seg type="signature">Wolfgang Kremer.</seg>
                 </p>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <pb/>
                 <head>On the outer side:</head>
-                <p>Dem hochwierdigisten fuersten und herrn Nicolaus Olahus, bischoff zu
+                <p xml:id="p.7">Dem hochwierdigisten fuersten und herrn Nicolaus Olahus, bischoff zu
                     Agram. ro. ku. mt. etc. rat und obrisster cannzler der cron Hungern, meinem
-                        g.<note type="critic">I.e. gnädigen.</note> herrn zu hannden.</p>
+                        g.<note type="critic" xml:id="note.12">I.e. gnädigen.</note> herrn zu
+                    hannden.</p>
             </div>
         </body>
     </text>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">623</title>
-                <title type="main">Miklós Oláh to The Seven Mining Towns (Vienna, 26 January
-                    1542)</title>
+                <title key="body" n="623" type="main">Miklós Oláh to The Seven Mining Towns (Vienna,
+                    26 January 1542)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15420126_1</idno>
-                
+                <idno type="PID">olahus.tei.15420126_1</idno>
+                <idno type="ITIdata">Q473283</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15420126_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,47 +80,34 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
-                    <p><hi rend="bold">On the outer side:</hi>
-                        <hi rend="italic">Other contemporary handwriting:</hi> „1542. Nicolai Olahi
-                        custodis Albensis litterae <choice>
+                    <p><hi rend="bold">On the outer side:</hi><hi rend="italic">Other contemporary
+                            handwriting:</hi> „1542. Nicolai Olahi custodis Albensis litterae <choice>
                             <orig><gap extent="1" reason="illegible" unit="word"/></orig>
                             <supplied><corr/></supplied>
-                        </choice>
-                        <choice>
+                        </choice><choice>
                             <orig><gap extent="unknown" reason="illegible" unit="word"
                                 />manendae</orig>
                             <supplied><corr/>manendae</supplied>
                         </choice> supplicationis ad suam maiestatem et oppositionis circa motus
                         hostiles.”</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -142,11 +139,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -155,61 +213,57 @@
             </textClass>
             <creation>
                 <date when="1542-01-26">26 January 1542</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>The Seven Mining Towns</persName>
-                    <orgName/>
+                    <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to The Seven Mining Towns (Vienna, 26 January
                     1542)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Oláh received their letter, addressed to both of them, in Prague on 18
-                            January, in Johann Spölin’s absence, when King Ferdinand I was about to
-                            go to the imperial diet in Speyer. They have shown King Ferdinand I the
-                            petition included in the letter the cities wrote and forwarded it to
-                            Queen Mary via mail. King Ferdinand I has promised to protect them and
-                            the Queen’s other followers in the Queen’s absence. He has no doubt that
-                            the Queen will make a ruling in Adam Puchwaldt’s case, he is expecting
-                            her decision any day now. 2. As he understood from their letter, the
-                            representatives of the cities have written to the Queen several times.
-                            King Ferdinand I is trying to make sure that an army is directed to the
-                            Kingdom of Hungary so that he can strike back at the Turks, which will
-                            hopefully make progress, and nothing will prevent Oláh from informing
-                            them in person. They should be patient and use their heads, lest they
-                            suffer any harm due to treachery. He writes to Ruprecht Haller,
-                            Balthasar Himmelreich, and Puchwaldt to make sure the Seven Mining Towns
-                            suffer no harm.</p>
+                        <p xml:id="reg.p.1">1. Oláh received their letter, addressed to both of
+                            them, in Prague on 18 January, in Johann Spölin’s absence, when King
+                            Ferdinand I was about to go to the imperial diet in Speyer. They have
+                            shown King Ferdinand I the petition included in the letter the cities
+                            wrote and forwarded it to Queen Mary via mail. King Ferdinand I has
+                            promised to protect them and the Queen’s other followers in the Queen’s
+                            absence. He has no doubt that the Queen will make a ruling in Adam
+                            Puchwaldt’s case, he is expecting her decision any day now. 2. As he
+                            understood from their letter, the representatives of the cities have
+                            written to the Queen several times. King Ferdinand I is trying to make
+                            sure that an army is directed to the Kingdom of Hungary so that he can
+                            strike back at the Turks, which will hopefully make progress, and
+                            nothing will prevent Oláh from informing them in person. They should be
+                            patient and use their heads, lest they suffer any harm due to treachery.
+                            He writes to Ruprecht Haller, Balthasar Himmelreich, and Puchwaldt to
+                            make sure the Seven Mining Towns suffer no harm.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Mein freuntlichen grueß mit guetem willen zuvor, ersam, weis, sonder
+                <p xml:id="p.1">Mein freuntlichen grueß mit guetem willen zuvor, ersam, weis, sonder
                     lieb herren und gut freundt!</p>
-                <p>[1.] Eur schreiben, so ir jungstlich mir und doctor <persName>Johan
-                        Spolin</persName><note type="critic">Johann Spölin.</note> gen
-                        <placeName>Prag</placeName> zuegethan, hab ich in abwesen gemelts hern
+                <p xml:id="p.2">[1.] Eur schreiben, so ir jungstlich mir und doctor <persName>Johan
+                        Spolin</persName><note type="critic" xml:id="note.1">Johann Spölin.</note>
+                    gen <placeName>Prag</placeName> zuegethan, hab ich in abwesen gemelts hern
                         <persName>doctor Spolins</persName> den 18. tag dits monats gleich in
-                    aufbruch, als di ro. ku. mt.<note type="critic">I.e. römische königliche
-                        Majestät.</note> daselbst zu <placeName>Prag</placeName> und auf den
-                    reichstag gen <placeName>Speir</placeName> werdts verrucken wellen, empfangen,
-                    dasselb eur schreiben und darinn gemelt begern und eur obligen, der ro. ku. mt.
-                    furtragen, und unnser gnedigisten frauwen in daz
+                    aufbruch, als di ro. ku. mt.<note type="critic" xml:id="note.2">I.e. römische
+                        königliche Majestät.</note> daselbst zu <placeName>Prag</placeName> und auf
+                    den reichstag gen <placeName>Speir</placeName> werdts verrucken wellen,
+                    empfangen, dasselb eur schreiben und darinn gemelt begern und eur obligen, der
+                    ro. ku. mt. furtragen, und unnser gnedigisten frauwen in daz
                         <placeName>Niderlannd</placeName> auf der posst zuegeschickt, darauf sich
                     sein ro. ku. mt. gantz gnedigclich erboten, sovil muglich ist, handlung
                     furzunemen, wie dann ir mt. im werckh ist, damit ir und annder irer mt. getrewe
@@ -218,40 +272,44 @@
                     gewiß unnd zum furderlichisten verordnung thuen, mir darauf antwurt
                     zueschreiben, der ich taglichs gwartundt bin und euch mit ainem tauglichen und
                     nutzlichen versehen. </p>
-                <p>[2.] Wie ich dann deshalben ee mir eur schreiben zuekhomen, zuvor irer
-                    mt. auch zum offtermalen geschriben, dann sich warrlich di ro. ku. mt. sonnst
-                    seer bemuet und in grosser embsiger uebung ist, ainen gewaltigen zug in Hungern
-                    und dem Turggen widerstanndt zu thuen, das sich ain Got wel, waz guts <milestone unit="pb"/>zu verhoffen ist, unnd mag sich zuetragen, soferr mich nit waz groß
-                    verhindert, euch das selbst muntlich aufs veist zu berichten. Wellet demnach
-                    noch die clain zeit geduldt tragen und bei gueter huet und warnung sein, damit
-                    euch nit etwo durch verraterey unnd annder poß practicken ainicherlai nachtail
-                    oder schad, das Got verhuetten welle, beschehe. Inmassen ich herren
-                        <persName>Ruepprechten Haller</persName><note type="critic">Ruprecht
-                        Haller.</note> etc., hern <persName>Balthasar Himlreich</persName><note
-                        type="critic">Balthasar Himmelreich was a Deputy Count of the Chamber <hi
-                            rend="italic">(Unterkammergraf)</hi> in Kremnica in 1539, see <hi
-                            rend="smallcap">Heiss</hi> 1976, 69.</note> und
-                        <persName>Puechwallder</persName><note type="critic">Adam Puchwaldt was
-                        Captain <hi rend="italic">(Hauptmann)</hi> of Zvolen, see <hi
-                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 14.</note> auch
-                    schreib und sy ermon, sovil muglich, ir vleissig gut aufsehen zu haben, damit
-                    euch khain schad beschehe etc. Das wolt ich euch auf eur schreiben zu antwurt
-                    und, des ain wissen emphacht, gueter mainung also anzaigen. Dann warinnen ich
-                    euch allen freuntlichen und dienstlichen willen erzaigen und beweisen khan,
-                    sollt ir mich willig haben. </p>
-                <p>Geben zu <placeName>Wienn</placeName> den 26. tag January anno etc. im
-                    zwayundviertzigistenn. </p>
-                <p>
-                    <seg type="signature"><add corresp="Olahus" type="insert">Nicolaus Olahus custos
-                            Albensis etc.</add></seg>
+                <p xml:id="p.3">[2.] Wie ich dann deshalben ee mir eur schreiben zuekhomen, zuvor
+                    irer mt. auch zum offtermalen geschriben, dann sich warrlich di ro. ku. mt.
+                    sonnst seer bemuet und in grosser embsiger uebung ist, ainen gewaltigen zug in
+                    Hungern und dem Turggen widerstanndt zu thuen, das sich ain Got wel, waz guts
+                        <milestone unit="pb"/>zu verhoffen ist, unnd mag sich zuetragen, soferr mich
+                    nit waz groß verhindert, euch das selbst muntlich aufs veist zu berichten.
+                    Wellet demnach noch die clain zeit geduldt tragen und bei gueter huet und
+                    warnung sein, damit euch nit etwo durch verraterey unnd annder poß practicken
+                    ainicherlai nachtail oder schad, das Got verhuetten welle, beschehe. Inmassen
+                    ich herren <persName>Ruepprechten Haller</persName><note type="critic"
+                        xml:id="note.3">Ruprecht Haller.</note> etc., hern <persName>Balthasar
+                        Himlreich</persName><note type="critic" xml:id="note.4">Balthasar
+                        Himmelreich was a Deputy Count of the Chamber <hi rend="italic"
+                            >(Unterkammergraf)</hi> in Kremnica in 1539, see <hi rend="smallcap"
+                            >Heiss</hi> 1976, 69.</note> und <persName>Puechwallder</persName><note
+                        type="critic" xml:id="note.5">Adam Puchwaldt was Captain <hi rend="italic"
+                            >(Hauptmann)</hi> of Zvolen, see <hi rend="smallcap"
+                            >Meier–Piirainen–Wegera</hi> 2009, 14.</note> auch schreib und sy ermon,
+                    sovil muglich, ir vleissig gut aufsehen zu haben, damit euch khain schad
+                    beschehe etc. Das wolt ich euch auf eur schreiben zu antwurt und, des ain wissen
+                    emphacht, gueter mainung also anzaigen. Dann warinnen ich euch allen
+                    freuntlichen und dienstlichen willen erzaigen und beweisen khan, sollt ir mich
+                    willig haben. </p>
+                <p xml:id="p.4">Geben zu <placeName>Wienn</placeName> den 26. tag January anno etc.
+                    im zwayundviertzigistenn. </p>
+                <p xml:id="p.5">
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus custos Albensis
+                            etc.</add>
+                    </seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Den ersamen unnd weisen, meinen sondern leiben herrn unnd gueten
-                    freundten, n.,<note type="critic">I.e. Name.</note> richtern und raten der siben
-                    hungarischen perckhsteet sament unnd sonnderlichen.</p>
+                <p xml:id="p.6">Den ersamen unnd weisen, meinen sondern leiben herrn unnd gueten
+                    freundten, n.,<note type="critic" xml:id="note.6">I.e. Name.</note> richtern und
+                    raten der siben hungarischen perckhsteet sament unnd sonnderlichen.</p>
             </div>
         </body>
     </text>

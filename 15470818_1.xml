@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">675</title>
-                <title type="main">Miklós Oláh to Tamás Nádasdy (Prague, 18 August 1547)</title>
+                <title key="body" n="675" type="main">Miklós Oláh to Tamás Nádasdy (Prague, 18
+                    August 1547)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15470818_1</idno>
-                
+                <idno type="PID">olahus.tei.15470818_1</idno>
+                <idno type="ITIdata">Q473335</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15470818_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,126 +201,127 @@
             </textClass>
             <creation>
                 <date when="1547-08-18">18 August 1547</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Nádasdy</persName>
-                    <orgName/>
+                    <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Nádasdy (Prague, 18 August 1547)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Bohemia already seems calm; the assets of Kaspar Pflug, who has fled,
-                            have reverted to the royal treasury, except for four towns, and the
-                            assets of the rest of the aristocrats who participated in the conspiracy
-                            were similarly confiscated, and their towns have been stripped of their
-                            privileges. The next diet will clarify who will oversee these. He does
-                            not need so many horses and servitors, so he is sending them back to
-                            Nádasdy and thanks him for not letting him go without. 2. Rhumi,
-                            Benedek, and Máté are all excellent servitors, especially the latter
-                            two, and if Benedek had not been with him in the war, he does not even
-                            know what would have happened to him; he should be their gracious
-                            master. 3. He has written everything about the other cases to Augustín
-                            Sbardelatti. István Mekcsey and Sándor Rokawy are still here, as are the
-                            Queen’s commissioners. He does not know what they are asking from the
-                            King, since they already presented their German-language accreditation
-                            as legates the day before yesterday.</p>
+                        <p xml:id="reg.p.1">1. Bohemia already seems calm; the assets of Kaspar
+                            Pflug, who has fled, have reverted to the royal treasury, except for
+                            four towns, and the assets of the rest of the aristocrats who
+                            participated in the conspiracy were similarly confiscated, and their
+                            towns have been stripped of their privileges. The next diet will clarify
+                            who will oversee these. He does not need so many horses and servitors,
+                            so he is sending them back to Nádasdy and thanks him for not letting him
+                            go without. 2. Rhumi, Benedek, and Máté are all excellent servitors,
+                            especially the latter two, and if Benedek had not been with him in the
+                            war, he does not even know what would have happened to him; he should be
+                            their gracious master. 3. He has written everything about the other
+                            cases to Augustín Sbardelatti. István Mekcsey and Sándor Rokawy are
+                            still here, as are the Queen’s commissioners. He does not know what they
+                            are asking from the King, since they already presented their
+                            German-language accreditation as legates the day before yesterday.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Servitiorum meorum commendationem, Spectabilis et Magnifice Domine et
-                    Frater Observandissime! </p>
-                <p>[1.] Iam Boemia adeo pacata esse videtur,<note type="critic">See the
-                        previous letter, Ep. 674.</note><ref>/o:olahus.tei.15470816_1</ref> ut nihil
-                    putem conspirationis oriri inposterum posse adversus maiestatem regiam. Bona
-                    omnia <persName>Flug</persName><note type="critic">Kaspar Pflug.</note>
-                    capitanei profugi fisco regio sunt applicata, civitatum similiter omnium quatuor
-                    exceptis, quae permanserant in fide. Item baronum et nobilium omnium, qui
-                    conspirationis huius factiosae fuerant participes, sunt occupata et occupabuntur
-                    civitatibus praemia, ademptae sunt omnes bombardae, privilegia et immunitates.
-                    Restat solum modo, ut in dieta futura, cuius primus dies est 22.,<note
-                        type="critic">On the executions and the diet, see <hi rend="smallcap"
-                            >Winkelbauer</hi> 2003, 84.</note> huius ordo paretur, qui in posterium
-                    ab omnibus sit observandus.</p>
-                <p>[2.] Non itaque iam equis adeo multis et armis in praesentia indigeo,
-                    si quando indiguero, recurram mox ad Dominationem Vestram Magnificam. Quare
-                    remisi equos et servitores nostros communes et gratias habeo et referam magnas,
-                    quas potero Dominationi Vestrae Magnificae, quod me in mea <del corresp="Olahus"
-                        >non</del> necessitate nec equis, nec servitoribus <milestone unit="pb"/>carere permiserit. </p>
-                <p><persName>Rhumi</persName>,<note type="critic">We do not know him more
-                        closely.</note>
-                    <persName>Benedictus</persName><note type="critic">Probably Benedikt Zercheky or
-                        Benedek Szörcsögi, who was Royal Chancellor Notary, and one of Oláh’s
-                        servitors. His name occurs in Oláh’s household. We also know his brief
-                        autobiographical work, according to which he only met Oláh after 1553: <hi
-                            rend="italic">Brevis descriptio cursus vitae Benedicti Zercheky
-                            Secretarii Cancellariae Regiae sub Ferdinando I. et Nicolao Olaho manu
-                            ipsius conscripta. Circa Annum 1568</hi>, see <hi rend="smallcap"
+                <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
+                    et Frater Observandissime! </p>
+                <p xml:id="p.2">[1.] Iam Boemia adeo pacata esse videtur,<note type="critic"
+                        xml:id="note.1">See the previous letter, Ep.
+                            674.<ref>olahus.tei.15470816_1</ref></note> ut nihil putem
+                    conspirationis oriri inposterum posse adversus maiestatem regiam. Bona omnia
+                        <persName>Flug</persName><note type="critic" xml:id="note.2">Kaspar
+                        Pflug.</note> capitanei profugi fisco regio sunt applicata, civitatum
+                    similiter omnium quatuor exceptis, quae permanserant in fide. Item baronum et
+                    nobilium omnium, qui conspirationis huius factiosae fuerant participes, sunt
+                    occupata et occupabuntur civitatibus praemia, ademptae sunt omnes bombardae,
+                    privilegia et immunitates. Restat solum modo, ut in dieta futura, cuius primus
+                    dies est 22.,<note type="critic" xml:id="note.3">On the executions and the diet,
+                        see <hi rend="smallcap">Winkelbauer</hi> 2003, 84.</note> huius ordo
+                    paretur, qui in posterium ab omnibus sit observandus.</p>
+                <p xml:id="p.3">[2.] Non itaque iam equis adeo multis et armis in praesentia
+                    indigeo, si quando indiguero, recurram mox ad Dominationem Vestram Magnificam.
+                    Quare remisi equos et servitores nostros communes et gratias habeo et referam
+                    magnas, quas potero Dominationi Vestrae Magnificae, quod me in mea <del
+                        corresp="Olahus">non</del> necessitate nec equis, nec servitoribus
+                        <milestone unit="pb"/>carere permiserit. </p>
+                <p xml:id="p.4"><persName>Rhumi</persName>,<note type="critic" xml:id="note.4">We do
+                        not know him more closely.</note><persName>Benedictus</persName><note
+                        type="critic" xml:id="note.5">Probably Benedikt Zercheky or Benedek
+                        Szörcsögi, who was Royal Chancellor Notary, and one of Oláh’s servitors. His
+                        name occurs in Oláh’s household. We also know his brief autobiographical
+                        work, according to which he only met Oláh after 1553: <hi rend="italic"
+                            >Brevis descriptio cursus vitae Benedicti Zercheky Secretarii
+                            Cancellariae Regiae sub Ferdinando I. et Nicolao Olaho manu ipsius
+                            conscripta. Circa Annum 1568</hi>, see <hi rend="smallcap"
                             >Kovachich</hi> 1798, 154–155. On his life, see <hi rend="smallcap"
                             >Fazekas</hi> 2019, 31; and <hi rend="smallcap">Fazekas</hi> 2018,
-                        365–366.</note> et <persName>Matheus</persName><note type="critic">Probably
-                        Matthias Tolnai Deák (Litteratus), who was Royal Chancellor Notary, see <hi
-                            rend="smallcap">Fazekas</hi> 2019, 31.</note> optimi sunt servitores et
-                    diligentes. Eos singulariter Dominationi Vestrae Magnificae commendo, veluti
-                    dignos, quos retineat et cum quibus benefaciat. Serviverunt mihi certe
-                    diligenter, maxime <persName>Rhumi</persName> et
-                    <persName>Benedictus</persName>, nec <quote>latum unguem</quote><note
-                        type="quote">Cf. Erasm. <hi rend="italic">Adag</hi>. 406. I, V, 6. Latum
-                        unguem ac similes hyperbolae proverbiales.</note> a mandato Dominationis
-                    Vestrae Magnificae et meis servitiis discesserunt. Si in bello mecum non
-                    fuissent, praesertim <persName>Benedictus</persName>, nescio, quid praestare cum
-                    meis studiis ignavibus potuissem bellumque non assuetis. Quisque igitur eorum
-                    poterit meum in omnibus favorem ac beneficium quantulumque perpetuo <del
-                        corresp="Olahus">exspectar</del> post Dominationem Vestram Magnificam
-                    sperare, qui a me non <add corresp="Olahus" type="insert">eis</add> denegabitur.
-                    Quare eandem quoque rogo, velit ipsis generosus dominus esse. </p>
-                <p>[3.] In rebus aliis Dominationi Vestrae Magnificae nunc nihil scribo,
-                    satis enim nuper scripseram per <persName>Sbordellatum</persName>.<note
-                        type="critic">Augustín Sbardelatti or János Ágoston Dudith (1500–1552)
-                        studied at the University of Padua. Between 1548 and 1552, he was Bishop of
-                        Vác. He fell during the battle at Plášťovce.</note>
-                    <persName>Nekczey</persName><note type="critic">István Mekcsey (ca. 1500–1553)
-                        was Castellan of Khust, then Castellan of Eger together with István Dobó
-                        from 1551. He played a key role in the defense of Eger during the 1552
-                        siege. For more on him, see <hi rend="smallcap">Csiffáry</hi> 2005.</note>
-                    et <persName>contrascriba</persName><note type="critic">Sándor Rokawy was
-                        Counter-signer <hi rend="italic">(contrascriba)</hi> in 1549–1550, and
-                        Accountant <hi rend="italic">(rationista)</hi> from 1558. In 1546, he became
-                        the first Royal Inspector of the Eger castle, see <hi rend="smallcap"
-                            >Csiffáry</hi> 2009, 73; and <hi rend="smallcap">Kenyeres</hi> 2002,
-                        143.</note> adhuc hic sunt. Commissarii etiam reginae adsunt iam aliquot
-                    dies. Nescio, <del corresp="Olahus">quid</del> adhuc quid a rege petant, nam
-                    nudiustertius eorum legationem in scriptis Germanicis praesentaverunt. Quod
-                    restat, Dominationem Vestram Magnificam feliciter cum domina <milestone
-                        unit="pb"/><persName>coniuge</persName><note type="critic">Orsolya
-                        Kanizsai.</note> sua carissima, domina mea observandissima ad multa secula
-                    valere opto, quibus servitia mea commendo.</p>
-                <p>Ex <placeName>Praga</placeName> 18. Augusti anno 1547.</p>
-                <p>
+                        365–366.</note> et <persName>Matheus</persName><note type="critic"
+                        xml:id="note.6">Probably Matthias Tolnai Deák (Litteratus), who was Royal
+                        Chancellor Notary, see <hi rend="smallcap">Fazekas</hi> 2019, 31.</note>
+                    optimi sunt servitores et diligentes. Eos singulariter Dominationi Vestrae
+                    Magnificae commendo, veluti dignos, quos retineat et cum quibus benefaciat.
+                    Serviverunt mihi certe diligenter, maxime <persName>Rhumi</persName> et
+                        <persName>Benedictus</persName>, nec <quote xml:id="quote.1">latum
+                        unguem</quote><note type="quote" xml:id="note.quote.1">Cf. Erasm. <hi
+                            rend="italic">Adag</hi>. 406. I, V, 6. Latum unguem ac similes
+                        hyperbolae proverbiales.</note> a mandato Dominationis Vestrae Magnificae et
+                    meis servitiis discesserunt. Si in bello mecum non fuissent, praesertim
+                        <persName>Benedictus</persName>, nescio, quid praestare cum meis studiis
+                    ignavibus potuissem bellumque non assuetis. Quisque igitur eorum poterit meum in
+                    omnibus favorem ac beneficium quantulumque perpetuo <del corresp="Olahus"
+                        >exspectar</del> post Dominationem Vestram Magnificam sperare, qui a me non
+                        <add corresp="Olahus" type="insert">eis</add> denegabitur. Quare eandem
+                    quoque rogo, velit ipsis generosus dominus esse. </p>
+                <p xml:id="p.5">[3.] In rebus aliis Dominationi Vestrae Magnificae nunc nihil
+                    scribo, satis enim nuper scripseram per <persName>Sbordellatum</persName>.<note
+                        type="critic" xml:id="note.7">Augustín Sbardelatti or János Ágoston Dudith
+                        (1500–1552) studied at the University of Padua. Between 1548 and 1552, he
+                        was Bishop of Vác. He fell during the battle at
+                        Plášťovce.</note><persName>Nekczey</persName><note type="critic"
+                        xml:id="note.8">István Mekcsey (ca. 1500–1553) was Castellan of Khust, then
+                        Castellan of Eger together with István Dobó from 1551. He played a key role
+                        in the defense of Eger during the 1552 siege. For more on him, see <hi
+                            rend="smallcap">Csiffáry</hi> 2005.</note> et
+                        <persName>contrascriba</persName><note type="critic" xml:id="note.9">Sándor
+                        Rokawy was Counter-signer <hi rend="italic">(contrascriba)</hi> in
+                        1549–1550, and Accountant <hi rend="italic">(rationista)</hi> from 1558. In
+                        1546, he became the first Royal Inspector of the Eger castle, see <hi
+                            rend="smallcap">Csiffáry</hi> 2009, 73; and <hi rend="smallcap"
+                            >Kenyeres</hi> 2002, 143.</note> adhuc hic sunt. Commissarii etiam
+                    reginae adsunt iam aliquot dies. Nescio, <del corresp="Olahus">quid</del> adhuc
+                    quid a rege petant, nam nudiustertius eorum legationem in scriptis Germanicis
+                    praesentaverunt. Quod restat, Dominationem Vestram Magnificam feliciter cum
+                    domina <milestone unit="pb"/><persName>coniuge</persName><note type="critic"
+                        xml:id="note.10">Orsolya Kanizsai.</note> sua carissima, domina mea
+                    observandissima ad multa secula valere opto, quibus servitia mea commendo.</p>
+                <p xml:id="p.6">Ex <placeName>Praga</placeName> 18. Augusti anno 1547.</p>
+                <p xml:id="p.7">
                     <seg type="signature">Servitor et frater Nicolaus Zagrabiensis cancellarius
                         regiae maiestatis etc.</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Spectabili et magnifico domino Thomae de Nadasd perpetuo comiti terrae
-                    Fogaras iudici curiae regiae maiestatis domino et fratri observandissimo.</p>
+                <p xml:id="p.8">Spectabili et magnifico domino Thomae de Nadasd perpetuo comiti
+                    terrae Fogaras iudici curiae regiae maiestatis domino et fratri
+                    observandissimo.</p>
             </div>
         </body>
     </text>

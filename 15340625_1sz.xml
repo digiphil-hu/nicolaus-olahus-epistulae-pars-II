@@ -1,304 +1,415 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="num">496</title>
-                <title type="main">Miklós Oláh to Erasmus of Rotterdam (Brussels, 25 June
-                    1534)</title>
-            </titleStmt>
-            <editionStmt>
-                <edition>digital edition</edition>
-                <respStmt>
-                    <resp>editor</resp>
-                    <persName>
-                        <surname>Szilágyi</surname>
-                        <forename>Emőke</forename>
-                        <forename>Rita</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>project director</resp>
-                    <persName>
-                        <surname>Palkó</surname>
-                        <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>arranged for publication</resp>
-                    <persName>
-                        <surname>Szilágyi</surname>
-                        <forename>Emőke</forename>
-                        <forename>Rita</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>XML-editor</resp>
-                    <persName>
-                        <surname>Fellegi</surname>
-                        <forename>Zsófia</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>creator</resp>
-                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
-                </respStmt>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
-                </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
-                <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
-                </availability>
-                <idno type="PID">o:olahus.tei.15340625_1</idno>
-                
-            </publicationStmt>
-            <seriesStmt>
-                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
-                    nova</title>
-                <respStmt>
-                    <resp>series editor</resp>
-                    <persName>
-                        <surname>Békés</surname>
-                        <forename>Enikő</forename>
-                    </persName>
-                    <persName>
-                        <surname>Szörényi</surname>
-                        <forename>László</forename>
-                    </persName>
-                </respStmt>
-                <biblScope unit="volume">XIX/II.</biblScope>
-            </seriesStmt>
-            <notesStmt>
-                <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms. I was the original, autograph version
-                        throughout, but is has been lost. Ms. II (a letter from Oláh’s collection)
-                        seems to represent an earlier version, and it contains Oláh’s emendations.
-                            <ref>/o:olahus.tei.15340422_1</ref>
-                    </p>
-                </note>
-                <note type="publication">
-                    <p>ms. I: <hi rend="italic">Spicilegium</hi> XI, IX–X; <hi
-                            rend="smallcap">Förstemann–Günther</hi> 1904, 248; <hi rend="smallcap"
-                            >Allen</hi> 1947, 10–11. </p>
-                    <p>ms. II: <hi rend="smallcap">Ipolyi</hi> 1875, 509. </p>
-                </note>
-                <note type="translation">
-                    <p><hi rend="italic">In Dutch:</hi>
-                        <hi rend="smallcap">Bejczy</hi> 2020, 318–319. </p>
-                    <p><hi rend="italic">In English:</hi>
-                        <hi rend="smallcap">Estes–Dalzell</hi> 2021, 19–20. </p>
-                    <p><hi rend="italic">In Hungarian:</hi>
-                        <hi rend="smallcap">V. Kovács</hi> 1971, 677–678. </p>
-                    <p><hi rend="italic">In Romanian:</hi>
-                        <hi rend="smallcap">Albu–Capoianu</hi> 1974, 137–138. </p>
-                    <p><hi rend="italic">In Slovakian:</hi>
-                        <hi rend="smallcap">Škoviera</hi> 2008, 118–119.</p>
-                </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340422_1" type="url">482</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-            </notesStmt>
-            <sourceDesc>
-                <listWit>
-                    <witness xml:id="CE">Critical Edition</witness>
-                    <witness xml:id="I">Germany, Augsburg.</witness>
-                    <witness xml:id="II">Hungary, Budapest, MNL OL P 108 Rep. 71. Fasc. 23. p.
-                        551–552.</witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="la"/>
-            </langUsage>
-            <textClass>
-                <keywords corresp="Letter" scheme="GETTY_AAT">
-                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
-                </keywords>
-            </textClass>
-            <creation>
-                <date when="1534-06-25">25 June 1534</date>
-                <placeName>Brussels</placeName>
-            </creation>
-            <correspDesc>
-                <correspAction type="sent">
-                    <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
-                </correspAction>
-                <correspAction type="recieved">
-                    <date/>
-                    <placeName> </placeName>
-                    <persName>Erasmus of Rotterdam</persName>
-                    <orgName/>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div style="handwritten" type="letter">
-                <head type="title">Miklós Oláh to Erasmus of Rotterdam (Brussels, 25 June
-                    1534)</head>
-                <floatingText type="regesta">
-                    <body>
-                        <p>1. He is briefly responding to his letter of 22 April, lest he misses the
-                            courier. Thomas More is said to still be in captivity, and John Fisher
-                            is not safe, either. Erasmus’ health worries him, he would be happy if
-                            he returned. According to Erasmus, the marquess will not do anything
-                            against Michaël Hillen von Hoochstraaten; but Erasmus is afraid of the
-                            monks, too. Oláh does not understand what he should be afraid of, only
-                            the Lutherans are to be feared. 2. There is no need to thank for his
-                            services for Erasmus. Oláh will go where fate calls him, but he really
-                            wishes he were home, his brothers, friends, and others are looking
-                            forward to welcoming him back home, but the situation is quite turbulent
-                            there now.</p>
-                    </body>
-                </floatingText>
-                <pb/>
-                <p>Nicolai Olai ad Desyderium Erasmum Roterodamum. </p>
-                <p>[1.] <app>
-                        <lem wit="#CE #I">Salutem plurimam!</lem>
-                        <rdg wit="#II"/>
-                    </app> Litteras, quas ad me XXII. Aprilis dedisti,<note type="critic">Ep.
-                        482.</note><ref>/o:olahus.tei.15340422_1</ref> XII. Maii praeteriti accepi.
-                    Nuntium hunc nolui sine meis litteris ad te proficisci. Ad litteras igitur tuas
-                    breviter accipe. </p>
-                <p>Angliae <persName>regis</persName><note type="critic">King Henry
-                        VIII.</note>
-                    <app>
-                        <lem wit="#CE #I">res</lem>
-                        <rdg wit="#II">actiones</rdg>
-                    </app> scribis te ex parte credere. At credes brevi in omnibus.
-                        <persName>Morus</persName><note type="critic">Thomas More.</note> adhuc
-                    captus esse dicitur cum <app>
-                        <lem wit="#CE #I">Rofensi</lem>
-                        <rdg wit="#II">Roffensi</rdg>
-                    </app>,<note type="critic">John Fisher.</note> non sine periculo, ut aiunt.
-                    Valetudo tua est mihi <app>
-                        <lem wit="#CE #I">molestissima</lem>
-                        <rdg wit="#II">ingratissima</rdg>
-                    </app>, cuperem, ut bene valeres et redires.
-                        <persName>Marchionem</persName><note type="critic">William van den
-                        Werwe.</note> nihil facturum scribis <persName>Hillenio</persName>.<note
-                        type="critic">Michaël Hillen von Hoochstraaten</note> Times <app>
-                        <lem wit="#CE #I">monachos</lem>
-                        <rdg wit="#II">funigeros</rdg>
-                    </app>. Si factus es tam timidus, et in <app>
-                        <lem wit="#CE #I">eo</lem>
-                        <rdg wit="#II">hoc timore</rdg>
-                    </app> constans esse <app>
-                        <lem wit="#CE #I">pergis</lem>
-                        <rdg wit="#II">perges</rdg>
-                    </app>, non facile tibi <app>
-                        <lem wit="#CE #I">hunc</lem>
-                        <rdg wit="#II"><del corresp="Olahus">hinc</del><add corresp="Olahus"
-                                type="corr">eum</add></rdg>
-                    </app> exhaurire possum <app>
-                        <lem wit="#CE #I">timorem</lem>
-                        <rdg wit="#II"/>
-                    </app>, nihil tamen video, quod <app>
-                        <lem wit="#CE #I">tibi hic</lem>
-                        <rdg wit="#II">hic tibi</rdg>
-                    </app> magnopere esset timendum. Si <app>
-                        <lem wit="#CE #I">vereris</lem>
-                        <rdg wit="#II">times</rdg>
-                    </app> obtrectationes hominum nostrae aetatis, ab <app>
-                        <lem wit="#CE #I">his</lem>
-                        <rdg wit="#II">eis</rdg>
-                    </app> nec tu, nec alii, dum vivunt, liberi esse possunt. Hic parum, istic ubi <app>
-                        <lem wit="#CE #I">nunc</lem>
-                        <rdg wit="#II"/>
-                    </app> es <app>
-                        <lem wit="#CE #I">existimo plurimum</lem>
-                        <rdg wit="#II">plurimum existimo</rdg>
-                    </app> tibi <app>
-                        <lem wit="#CE #I">posse (quod absit)</lem>
-                        <rdg wit="#II"/>
-                    </app> imminere mali, si praesentium temporum conditionem <app>
-                        <lem wit="#CE #I">consideraveris</lem>
-                        <rdg wit="#II">consideraris</rdg>
-                    </app>. Cave igitur milites <app>
-                        <lem wit="#CE #I">Luteranos</lem>
-                        <rdg wit="#II">Lutheranos</rdg>
-                    </app>, quorum fortasse rabies ad ea usque loca, ubi <app>
-                        <lem wit="#CE #I">nunc agis, (di malum hoc prohibeant) brevi</lem>
-                        <rdg wit="#II">es, di id prohibeant</rdg>
-                    </app> penetrabunt. </p>
-                <p>[2.] Meum in te officium, de quo scribis, tale est, ut nihil <app>
-                        <lem wit="#CE #I">a te aliud</lem>
-                        <rdg wit="#II">aliud a te</rdg>
-                    </app> exigat, quam testimonium tui erga me amoris et <app>
-                        <lem wit="#CE #I">utque</lem>
-                        <rdg wit="#II">ut</rdg>
-                    </app> Olaum tuum ames. Reditum meum in Hungariam scribis tibi incommodum
-                    futurum, sive huc redeas, sive non. Quocumque me fata vocent, tuum, quem nosti, <app>
-                        <lem wit="#CE #I">omnibus in locis</lem>
-                        <rdg wit="#II"/>
-                    </app> habebis Olaum. Utinam, mi Erasme, salvis rebus reverti possem, nihil eo
-                    esset mihi iucundius. Patria, <app>
-                        <lem wit="#CE #I">fratres, amici et alii </lem>
-                        <rdg wit="#II">amici, fratres</rdg>
-                    </app>
-                    <app>
-                        <lem wit="#CE #I"/>
-                        <rdg wit="#II">et</rdg>
-                    </app> necessitudine <app>
-                        <lem wit="#CE #I">intima</lem>
-                        <rdg wit="#II"/>
-                    </app> mihi iuncti me hortantur, ut redeam. Sed id quam commode nunc facere
-                    possim, rebus non modo Hungaricis <milestone unit="pb"/>et publicis et meis quoque privatis, sed etiam aliis regiis, non <app>
-                        <lem wit="#CE #I">sine magno malo</lem>
-                        <rdg wit="#II">minimum</rdg>
-                    </app> turbatis, vix <app>
-                        <lem wit="#CE #I">statuere statis</lem>
-                        <rdg wit="#II">statis statuere</rdg>
-                    </app> possum, huius rei causa tempori serviendum esse arbitror. Apud
-                        <persName>reginam</persName> meam, ducem <persName>Arscoti</persName>,<note
-                        type="critic">Philippe II de Croÿ.</note>
-                    <persName>Panormitanum</persName><note type="critic">Jean II Carondelet.</note>
-                    fui, tibi vice epistolae et quae voluisti, eis retuli. Vale et me, ut soles,
-                    ama. </p>
-                <p><placeName>Bruxellae</placeName> 25. Iunii 1534.</p>
-                <p>
-                    <app>
-                        <lem wit="#CE #I">Tuus, ut nosti. Olaus etc.</lem>
-                        <rdg wit="#II"/>
-                    </app>
-                </p>
-                <p>
-                    <app>
-                        <lem wit="#CE #I">Excellentissimo viro domino Erasmo Roterodamo, sacrae
-                            theologiae doctori etc., domino et amico praecipuo et
-                            observandissimo.</lem>
-                        <rdg wit="#II"/>
-                    </app>
-                </p>
-            </div>
-        </body>
-    </text>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title type="num">496</title>
+                                <title key="body" n="496" type="main">Miklós Oláh to Erasmus of
+                                        Rotterdam (Brussels, 25 June 1534)</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Digital critical edition</edition>
+                                <respStmt>
+                                        <resp>editor</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>editor in chief</resp>
+                                        <persName>
+                                                <surname>Palkó</surname>
+                                                <forename>Gábor</forename>
+                                                <idno type="ITIdata">Q245084</idno>
+                                                <idno type="ORCID">0000-0002-4394-8577</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>arranged for publication</resp>
+                                        <persName>
+                                                <surname>Szilágyi</surname>
+                                                <forename>Emőke</forename>
+                                                <forename>Rita</forename>
+                                                <idno type="ITIdata">Q469914</idno>
+                                                <idno type="ORCID">0000-0001-9504-5188</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>TEI-specification</resp>
+                                        <persName>
+                                                <surname>Fellegi</surname>
+                                                <forename>Zsófia</forename>
+                                                <idno type="ITIdata">Q349971</idno>
+                                                <idno type="ORCID">0000-0001-9199-1759</idno>
+                                        </persName>
+                                </respStmt>
+                                <respStmt>
+                                        <resp>creator</resp>
+                                        <orgName>DigiPhil <ref type="url"
+                                                >http://digiphil.hu</ref></orgName>
+                                </respStmt>
+                        </editionStmt>
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName>HUN-REN Bölcsészettudományi Kutatóközpont,
+                                                Irodalomtudományi Intézet <idno type="ITIdata"
+                                                  >Q2256</idno></orgName>
+                                        <ref type="url">https://iti.abtk.hu</ref>
+                                </publisher>
+                                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                <date when="2024">2024</date>
+                                <availability>
+                                        <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs
+                                                4.0 International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                </availability>
+                                <idno type="PID">olahus.tei.15340625_1sz</idno>
+                                <idno type="ITIdata">Q473157</idno>
+                                <ref
+                                        target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340625_1sz.xml"
+                                        >The TEI XML transcript of the letter in the DigiPhil GitHub
+                                        repository.</ref>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum:
+                                        Series nova</title>
+                                <respStmt>
+                                        <resp>series editor</resp>
+                                        <persName>
+                                                <surname>Békés</surname>
+                                                <forename>Enikő</forename>
+                                                <idno type="ITIdata">Q330658</idno>
+                                        </persName>
+                                        <persName>
+                                                <surname>Szörényi</surname>
+                                                <forename>László</forename>
+                                                <idno type="ITIdata">Q49630</idno>
+                                        </persName>
+                                </respStmt>
+                                <biblScope unit="volume">XIX/II.</biblScope>
+                                <idno type="ISSN">0133-6711</idno>
+                                <idno type="ITIdata">Q469925</idno>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note type="critIntro">
+                                        <p><hi rend="italic">Notes:</hi> Ms. I was the original,
+                                                autograph version throughout, but is has been lost.
+                                                Ms. II (a letter from Oláh’s collection) seems to
+                                                represent an earlier version, and it contains Oláh’s
+                                                emendations. <ref>/o:olahus.tei.15340422_1</ref></p>
+                                </note>
+                                <note type="publication">
+                                        <p>ms. I: <hi rend="italic">Spicilegium</hi> XI, IX–X; <hi
+                                                  rend="smallcap">Förstemann–Günther</hi> 1904, 248;
+                                                  <hi rend="smallcap">Allen</hi> 1947, 10–11. </p>
+                                        <p>ms. II: <hi rend="smallcap">Ipolyi</hi> 1875, 509. </p>
+                                </note>
+                                <note type="translation">
+                                        <p><hi rend="italic">In Dutch:</hi><hi rend="smallcap"
+                                                  >Bejczy</hi> 2020, 318–319. </p>
+                                        <p><hi rend="italic">In English:</hi><hi rend="smallcap"
+                                                  >Estes–Dalzell</hi> 2021, 19–20. </p>
+                                        <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap"
+                                                  >V. Kovács</hi> 1971, 677–678. </p>
+                                        <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                                                  >Albu–Capoianu</hi> 1974, 137–138; <hi
+                                                  rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                                                1378–1381. </p>
+                                        <p><hi rend="italic">In Slovakian:</hi><hi rend="smallcap"
+                                                  >Škoviera</hi> 2008, 118–119.</p>
+                                </note>
+                                <relatedItem type="responseTo">
+                                        <bibl>
+                                                <ref target="15340422_1" type="url">482</ref>
+                                        </bibl>
+                                </relatedItem>
+                        </notesStmt>
+                        <sourceDesc>
+                                <listWit>
+                                        <witness xml:id="CE">Critical Edition</witness>
+                                        <witness xml:id="I">Germany, Augsburg.</witness>
+                                        <witness xml:id="II">Hungary, Budapest, MNL OL P 108 Rep.
+                                                71. Fasc. 23. p. 551–552.</witness>
+                                </listWit>
+                                <bibl>
+                                        <title level="m">Nicolaus Olahus: Epistulae. Pars II.
+                                                1534–1553</title>
+                                        <idno type="ISBN">978-615-6255-40-2</idno>
+                                        <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                                        <publisher>
+                                                <orgName>reciti</orgName>
+                                                <ref type="url">https://www.reciti.hu/</ref>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <respStmt>
+                                                <resp>editor</resp>
+                                                <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector</resp>
+                                                <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                </persName>
+                                                <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <respStmt>
+                                                <resp>lector of the english translation</resp>
+                                                <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                </persName>
+                                        </respStmt>
+                                        <date when="2022">2022</date>
+                                        <ref
+                                                target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                                                type="url">The TEI XML trancripts of the edition in
+                                                the DigiPhil GitHub repository.</ref>
+                                        <idno type="DOI"
+                                                >https://doi.org/10.5281/zenodo.8011468</idno><idno
+                                                type="ITIdata">Q469915</idno>
+                                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <variantEncoding location="internal" method="parallel-segmentation"/>
+                </encodingDesc>
+                <profileDesc>
+                        <langUsage>
+                                <language ident="la">latin</language>
+                        </langUsage>
+                        <textClass>
+                                <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                </keywords>
+                        </textClass>
+                        <creation>
+                                <date when="1534-06-25">25 June 1534</date>
+                                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
+                        </creation>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <date/>
+                                        <persName>Miklós Oláh<idno type="ITIdata"
+                                                >Q244878</idno></persName>
+                                </correspAction>
+                                <correspAction type="recieved">
+                                        <date/>
+                                        <persName>Erasmus of Rotterdam<idno type="ITIdata"
+                                                  >Q470238</idno></persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div style="handwritten" type="letter" xml:id="d.1">
+                                <head type="title">Miklós Oláh to Erasmus of Rotterdam (Brussels, 25
+                                        June 1534)</head>
+                                <floatingText type="regesta">
+                                        <body>
+                                                <p xml:id="reg.p.1">1. He is briefly responding to
+                                                  his letter of 22 April, lest he misses the
+                                                  courier. Thomas More is said to still be in
+                                                  captivity, and John Fisher is not safe, either.
+                                                  Erasmus’ health worries him, he would be happy if
+                                                  he returned. According to Erasmus, the marquess
+                                                  will not do anything against Michaël Hillen von
+                                                  Hoochstraaten; but Erasmus is afraid of the monks,
+                                                  too. Oláh does not understand what he should be
+                                                  afraid of, only the Lutherans are to be feared. 2.
+                                                  There is no need to thank for his services for
+                                                  Erasmus. Oláh will go where fate calls him, but he
+                                                  really wishes he were home, his brothers, friends,
+                                                  and others are looking forward to welcoming him
+                                                  back home, but the situation is quite turbulent
+                                                  there now.</p>
+                                        </body>
+                                </floatingText>
+                                <pb/>
+                                <p xml:id="p.1">Nicolai Olai ad Desyderium Erasmum Roterodamum. </p>
+                                <p xml:id="p.2">[1.] <app xml:id="app.1">
+                                                <lem wit="#CE #I" xml:id="lem.1">Salutem
+                                                  plurimam!</lem>
+                                                <rdg wit="#II" xml:id="rdg.1"/>
+                                        </app> Litteras, quas ad me XXII. Aprilis dedisti,<note
+                                                type="critic" xml:id="note.1">Ep.
+                                                  482.<ref>olahus.tei.15340422_1</ref></note> XII.
+                                        Maii praeteriti accepi. Nuntium hunc nolui sine meis
+                                        litteris ad te proficisci. Ad litteras igitur tuas breviter
+                                        accipe. </p>
+                                <p xml:id="p.3">Angliae <persName>regis</persName><note
+                                                type="critic" xml:id="note.2">King Henry
+                                                VIII.</note><app xml:id="app.2">
+                                                <lem wit="#CE #I" xml:id="lem.2">res</lem>
+                                                <rdg wit="#II" xml:id="rdg.2">actiones</rdg>
+                                        </app> scribis te ex parte credere. At credes brevi in
+                                        omnibus. <persName>Morus</persName><note type="critic"
+                                                xml:id="note.3">Thomas More.</note> adhuc captus
+                                        esse dicitur cum <app xml:id="app.3">
+                                                <lem wit="#CE #I" xml:id="lem.3">Rofensi</lem>
+                                                <rdg wit="#II" xml:id="rdg.3">Roffensi</rdg>
+                                        </app>,<note type="critic" xml:id="note.4">John
+                                                Fisher.</note> non sine periculo, ut aiunt. Valetudo
+                                        tua est mihi <app xml:id="app.4">
+                                                <lem wit="#CE #I" xml:id="lem.4">molestissima</lem>
+                                                <rdg wit="#II" xml:id="rdg.4">ingratissima</rdg>
+                                        </app>, cuperem, ut bene valeres et redires.
+                                                <persName>Marchionem</persName><note type="critic"
+                                                xml:id="note.5">William van den Werwe.</note> nihil
+                                        facturum scribis <persName>Hillenio</persName>.<note
+                                                type="critic" xml:id="note.6">Michaël Hillen von
+                                                Hoochstraaten</note> Times <app xml:id="app.5">
+                                                <lem wit="#CE #I" xml:id="lem.5">monachos</lem>
+                                                <rdg wit="#II" xml:id="rdg.5">funigeros</rdg>
+                                        </app>. Si factus es tam timidus, et in <app xml:id="app.6">
+                                                <lem wit="#CE #I" xml:id="lem.6">eo</lem>
+                                                <rdg wit="#II" xml:id="rdg.6">hoc timore</rdg>
+                                        </app> constans esse <app xml:id="app.7">
+                                                <lem wit="#CE #I" xml:id="lem.7">pergis</lem>
+                                                <rdg wit="#II" xml:id="rdg.7">perges</rdg>
+                                        </app>, non facile tibi <app xml:id="app.8">
+                                                <lem wit="#CE #I" xml:id="lem.8">hunc</lem>
+                                                <rdg wit="#II" xml:id="rdg.8"><del corresp="Olahus"
+                                                  >hinc</del><add corresp="Olahus" type="corr"
+                                                  >eum</add></rdg>
+                                        </app> exhaurire possum <app xml:id="app.9">
+                                                <lem wit="#CE #I" xml:id="lem.9">timorem</lem>
+                                                <rdg wit="#II" xml:id="rdg.9"/>
+                                        </app>, nihil tamen video, quod <app xml:id="app.10">
+                                                <lem wit="#CE #I" xml:id="lem.10">tibi hic</lem>
+                                                <rdg wit="#II" xml:id="rdg.10">hic tibi</rdg>
+                                        </app> magnopere esset timendum. Si <app xml:id="app.11">
+                                                <lem wit="#CE #I" xml:id="lem.11">vereris</lem>
+                                                <rdg wit="#II" xml:id="rdg.11">times</rdg>
+                                        </app> obtrectationes hominum nostrae aetatis, ab <app
+                                                xml:id="app.12">
+                                                <lem wit="#CE #I" xml:id="lem.12">his</lem>
+                                                <rdg wit="#II" xml:id="rdg.12">eis</rdg>
+                                        </app> nec tu, nec alii, dum vivunt, liberi esse possunt.
+                                        Hic parum, istic ubi <app xml:id="app.13">
+                                                <lem wit="#CE #I" xml:id="lem.13">nunc</lem>
+                                                <rdg wit="#II" xml:id="rdg.13"/>
+                                        </app> es <app xml:id="app.14">
+                                                <lem wit="#CE #I" xml:id="lem.14">existimo
+                                                  plurimum</lem>
+                                                <rdg wit="#II" xml:id="rdg.14">plurimum
+                                                  existimo</rdg>
+                                        </app> tibi <app xml:id="app.15">
+                                                <lem wit="#CE #I" xml:id="lem.15">posse (quod
+                                                  absit)</lem>
+                                                <rdg wit="#II" xml:id="rdg.15"/>
+                                        </app> imminere mali, si praesentium temporum conditionem
+                                                <app xml:id="app.16">
+                                                <lem wit="#CE #I" xml:id="lem.16"
+                                                  >consideraveris</lem>
+                                                <rdg wit="#II" xml:id="rdg.16">consideraris</rdg>
+                                        </app>. Cave igitur milites <app xml:id="app.17">
+                                                <lem wit="#CE #I" xml:id="lem.17">Luteranos</lem>
+                                                <rdg wit="#II" xml:id="rdg.17">Lutheranos</rdg>
+                                        </app>, quorum fortasse rabies ad ea usque loca, ubi <app
+                                                xml:id="app.18">
+                                                <lem wit="#CE #I" xml:id="lem.18">nunc agis, (di
+                                                  malum hoc prohibeant) brevi</lem>
+                                                <rdg wit="#II" xml:id="rdg.18">es, di id
+                                                  prohibeant</rdg>
+                                        </app> penetrabunt. </p>
+                                <p xml:id="p.4">[2.] Meum in te officium, de quo scribis, tale est,
+                                        ut nihil <app xml:id="app.19">
+                                                <lem wit="#CE #I" xml:id="lem.19">a te aliud</lem>
+                                                <rdg wit="#II" xml:id="rdg.19">aliud a te</rdg>
+                                        </app> exigat, quam testimonium tui erga me amoris et <app
+                                                xml:id="app.20">
+                                                <lem wit="#CE #I" xml:id="lem.20">utque</lem>
+                                                <rdg wit="#II" xml:id="rdg.20">ut</rdg>
+                                        </app> Olaum tuum ames. Reditum meum in Hungariam scribis
+                                        tibi incommodum futurum, sive huc redeas, sive non.
+                                        Quocumque me fata vocent, tuum, quem nosti, <app
+                                                xml:id="app.21">
+                                                <lem wit="#CE #I" xml:id="lem.21">omnibus in
+                                                  locis</lem>
+                                                <rdg wit="#II" xml:id="rdg.21"/>
+                                        </app> habebis Olaum. Utinam, mi Erasme, salvis rebus
+                                        reverti possem, nihil eo esset mihi iucundius. Patria, <app
+                                                xml:id="app.22">
+                                                <lem wit="#CE #I" xml:id="lem.22">fratres, amici et
+                                                  alii </lem>
+                                                <rdg wit="#II" xml:id="rdg.22">amici, fratres</rdg>
+                                        </app><app xml:id="app.23">
+                                                <lem wit="#CE #I" xml:id="lem.23"/>
+                                                <rdg wit="#II" xml:id="rdg.23">et</rdg>
+                                        </app> necessitudine <app xml:id="app.24">
+                                                <lem wit="#CE #I" xml:id="lem.24">intima</lem>
+                                                <rdg wit="#II" xml:id="rdg.24"/>
+                                        </app> mihi iuncti me hortantur, ut redeam. Sed id quam
+                                        commode nunc facere possim, rebus non modo Hungaricis
+                                                <milestone unit="pb"/>et publicis et meis quoque
+                                        privatis, sed etiam aliis regiis, non <app xml:id="app.25">
+                                                <lem wit="#CE #I" xml:id="lem.25">sine magno
+                                                  malo</lem>
+                                                <rdg wit="#II" xml:id="rdg.25">minimum</rdg>
+                                        </app> turbatis, vix <app xml:id="app.26">
+                                                <lem wit="#CE #I" xml:id="lem.26">statuere
+                                                  statis</lem>
+                                                <rdg wit="#II" xml:id="rdg.26">statis statuere</rdg>
+                                        </app> possum, huius rei causa tempori serviendum esse
+                                        arbitror. Apud <persName>reginam</persName> meam, ducem
+                                                <persName>Arscoti</persName>,<note type="critic"
+                                                xml:id="note.7">Philippe II de
+                                                Croÿ.</note><persName>Panormitanum</persName><note
+                                                type="critic" xml:id="note.8">Jean II
+                                                Carondelet.</note> fui, tibi vice epistolae et quae
+                                        voluisti, eis retuli. Vale et me, ut soles, ama. </p>
+                                <p xml:id="p.5"><placeName>Bruxellae</placeName> 25. Iunii 1534.</p>
+                                <p xml:id="p.6">
+                                        <app xml:id="app.27">
+                                                <lem wit="#CE #I" xml:id="lem.27">Tuus, ut nosti.
+                                                  Olaus etc.</lem>
+                                                <rdg wit="#II" xml:id="rdg.27"/>
+                                        </app>
+                                </p>
+                                <p xml:id="p.7">
+                                        <app xml:id="app.28">
+                                                <lem wit="#CE #I" xml:id="lem.28">Excellentissimo
+                                                  viro domino Erasmo Roterodamo, sacrae theologiae
+                                                  doctori etc., domino et amico praecipuo et
+                                                  observandissimo.</lem>
+                                                <rdg wit="#II" xml:id="rdg.28"/>
+                                        </app>
+                                </p>
+                        </div>
+                </body>
+        </text>
 </TEI>

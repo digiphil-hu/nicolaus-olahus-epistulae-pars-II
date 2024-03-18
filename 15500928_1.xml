@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">747</title>
-                <title type="main">Verancsics Antal to Miklós Oláh (Eger, 28 September 1550)</title>
+                <title key="body" n="747" type="main">Antal Verancsics to Miklós Oláh (Eger, 28
+                    September 1550)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15500928_1</idno>
-                
+                <idno type="PID">olahus.tei.15500928_1</idno>
+                <idno type="ITIdata">Q473404</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15500928_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,42 +80,27 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Szalay</hi> 1865, 114–115.</note>
+                <note type="publication"><hi rend="smallcap">Szalay</hi> 1865, 114–115.</note>
                 <note type="translation">
-                    <p>
-                    <hi rend="italic">In Hungarian:</hi>
-                        <hi rend="smallcap">Gattáji Gorové</hi> 1876, 99–100. [excerpt]</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">Gattáji Gorové</hi>
+                        1876, 99–100. [excerpt]</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -136,11 +132,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -149,52 +206,49 @@
             </textClass>
             <creation>
                 <date when="1550-09-28">28 September 1550</date>
-                <placeName>Eger</placeName>
+                <placeName>Eger<idno type="ITIdata">Q277</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Antal Verancsics</persName>
-                    <orgName/>
+                    <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Verancsics Antal to Miklós Oláh (Eger, 28 September 1550)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He reports on the Eger affairs at Oláh’s request: everything is horrible,
-                            filthy, and sad, not to mention people’s fear. They have carried out the
-                            excrement to the bulwark, and they will raise a bell tower to defend the
-                            castle. The kitchen is done, as are the quarters that have a view; the
-                            rest still contains military equipment, so if Oláh came here, he would
-                            get more use out of the defensive armour than his priestly garments. But
-                            thinking of Szolnok can fill them with hope regarding the renovation of
-                            this castle, too.</p>
+                        <p xml:id="reg.p.1">He reports on the Eger affairs at Oláh’s request:
+                            everything is horrible, filthy, and sad, not to mention people’s fear.
+                            They have carried out the excrement to the bulwark, and they will raise
+                            a bell tower to defend the castle. The kitchen is done, as are the
+                            quarters that have a view; the rest still contains military equipment,
+                            so if Oláh came here, he would get more use out of the defensive armour
+                            than his priestly garments. But thinking of Szolnok can fill them with
+                            hope regarding the renovation of this castle, too.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Antonius Wrancius Nicolao Olaho antistiti suo salutem!</p>
-                <p>Postquam <del corresp="author">et</del> a me de statu et <add
+                <p xml:id="p.1">Antonius Wrancius Nicolao Olaho antistiti suo salutem!</p>
+                <p xml:id="p.2">Postquam <del corresp="author">et</del> a me de statu et <add
                         corresp="author" type="insert">de</add> iucunditate genii Agriensis scire
                     desideras, nihil sane iucundi est, quod ad te id temporis scribere possum.
                     Minimam partem pristinae faciei non habet reliquam: omnia sunt horrida, omnia
-                    squallida, omnia moesta, <milestone unit="pb"/>omnia, quam erant, longe alia, omnia martialium hominum licentia
-                    deformata. Et ne de metu populorum quicquam dicam, ita tamen sese omnes
-                    demiserunt et destituere, ut qui vix crastinum sibi polliceantur. Quocunque
-                    obtutum vertis, quocunque ingrederis, iniuriae, ruinae, <add corresp="author"
-                        type="insert">miles</add>, metus, rapinae, discrimina, desperatio occurrunt.
-                    In arce tectum palatii episcopalis, fenestrae quaedam, et una dumtaxat <choice>
+                    squallida, omnia moesta, <milestone unit="pb"/>omnia, quam erant, longe alia,
+                    omnia martialium hominum licentia deformata. Et ne de metu populorum quicquam
+                    dicam, ita tamen sese omnes demiserunt et destituere, ut qui vix crastinum sibi
+                    polliceantur. Quocunque obtutum vertis, quocunque ingrederis, iniuriae, ruinae,
+                        <add corresp="author" type="insert">miles</add>, metus, rapinae, discrimina,
+                    desperatio occurrunt. In arce tectum palatii episcopalis, fenestrae quaedam, et
+                    una dumtaxat <choice>
                         <orig>camea</orig>
                         <supplied>camera</supplied>
                     </choice>, quae angustior habetur, expleta est, toto operi plurima desunt,
@@ -202,20 +256,22 @@
                     in propugnaculum conferuntur, quod e regione occidentis et capituli ex lapidibus
                     campanilium erigitur, opus quidem firmum, insigne et tutelare futurum toti arci
                     ex ea parte magis, quam dici possit. Absoluta est et culina, forma et
-                    magnitudine non incelebri, et domus quaedam pede plano posita non sine <milestone unit="pb"/>et genio commendabili et prospectu. Reliqua omnia occupant
-                    propugnacula, munitiones, machinae, instrumenta bellica, ruinarum cumuli,
-                    stabula, militum casae et stationes, et id genus infinita, adeo ut huc si id
-                    temporis veneris, maiori usui erit tibi cassis quam mitra, gladius quam pedo,
-                    thorax quam pallium, quam stola clypeus. Ages enim proprie <choice>
+                    magnitudine non incelebri, et domus quaedam pede plano posita non sine
+                        <milestone unit="pb"/>et genio commendabili et prospectu. Reliqua omnia
+                    occupant propugnacula, munitiones, machinae, instrumenta bellica, ruinarum
+                    cumuli, stabula, militum casae et stationes, et id genus infinita, adeo ut huc
+                    si id temporis veneris, maiori usui erit tibi cassis quam mitra, gladius quam
+                    pedo, thorax quam pallium, quam stola clypeus. Ages enim proprie <choice>
                         <orig>castrensum</orig>
                         <supplied>castrensem</supplied>
                     </choice>, non Agriensem episcopum. Speranda tamen sunt cuncta meliora, si
-                        <placeName>Zolnocchum</placeName><note type="critic">Szolnok.</note>
-                    tuebimur et expeditionis huius exitus votis respondebit. Ipse me hic tamdiu
-                    continebo, quamdiu tibi aliud de rebus meis videbitur statuendum. Tametsi
-                    libentius eo loci esse vellem, quo tu esses, ut potius tibi, quam otio meo
-                    inservirem. Igitur tuum erit praecipere, meum iussa capessere. Vale. </p>
-                <p>XXVIII. Septembris 1550. <placeName>Agriae</placeName>.</p>
+                        <placeName>Zolnocchum</placeName><note type="critic" xml:id="note.1"
+                        >Szolnok.</note> tuebimur et expeditionis huius exitus votis respondebit.
+                    Ipse me hic tamdiu continebo, quamdiu tibi aliud de rebus meis videbitur
+                    statuendum. Tametsi libentius eo loci esse vellem, quo tu esses, ut potius tibi,
+                    quam otio meo inservirem. Igitur tuum erit praecipere, meum iussa capessere.
+                    Vale. </p>
+                <p xml:id="p.3">XXVIII. Septembris 1550. <placeName>Agriae</placeName>.</p>
             </div>
         </body>
     </text>

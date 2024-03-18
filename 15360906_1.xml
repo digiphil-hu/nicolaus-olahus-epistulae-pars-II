@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">570</title>
-                <title type="main">Daniel Mauch to Miklós Oláh (Bolsano, 6 September 1536)</title>
+                <title key="body" n="570" type="main">Daniel Mauch to Miklós Oláh (Bolsano, 6
+                    September 1536)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15360906_1</idno>
-                
+                <idno type="PID">olahus.tei.15360906_1</idno>
+                <idno type="ITIdata">Q473230</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15360906_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 579–580.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 579–580.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,83 +202,80 @@
             </textClass>
             <creation>
                 <date when="1536-09-06">6 September 1536</date>
-                <placeName>Bolsano</placeName>
+                <placeName>Bolsano<idno type="ITIdata">Q22582</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Daniel Mauch</persName>
-                    <orgName/>
+                    <persName>Daniel Mauch<idno type="ITIdata">Q470236</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Daniel Mauch to Miklós Oláh (Bolsano, 6 September 1536)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>After the assembly they are going to Trento for the wedding of one of
-                            Bernhard von Cles’ relatives, on which Cles is spending a lot of money,
-                            he has even invited the royal couple. They will then go to the
-                            Netherlands, after which he will report to Oláh in person. He briefly
-                            summarizes what he knows about people. Flute players have arrived, whom
-                            they will take home with them, to the beer region. Lorenzo Campeggio
-                            often mentions Oláh, and he has allowed Mauch to conduct legal studies.
-                        </p>
+                        <p xml:id="reg.p.1">After the assembly they are going to Trento for the
+                            wedding of one of Bernhard von Cles’ relatives, on which Cles is
+                            spending a lot of money, he has even invited the royal couple. They will
+                            then go to the Netherlands, after which he will report to Oláh in
+                            person. He briefly summarizes what he knows about people. Flute players
+                            have arrived, whom they will take home with them, to the beer region.
+                            Lorenzo Campeggio often mentions Oláh, and he has allowed Mauch to
+                            conduct legal studies. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Daniel Mauch Nicolao Olao salutem. </p>
-                <p>Reverende et Magnifice Domine, Patrone mihi plurimum Honorande!
+                <p xml:id="p.1">Daniel Mauch Nicolao Olao salutem. </p>
+                <p xml:id="p.2">Reverende et Magnifice Domine, Patrone mihi plurimum Honorande!
                     Celebrantur hic provincialia comitia, quibus peractis ibimus
                         <placeName>Tridentum</placeName> ad nuptias cuiusdam <persName>comitis de
-                        Laterano</persName><note type="critic">We do not know him more closely.
-                        Papal Count Palatine (<hi rend="italic">comes palatinus Lateranus</hi>,
-                        Count of the Sacred Palace of Lateran) was merely an honorary title.</note>
-                    cum consanguinea episcopi <persName>Tridentini</persName>,<note type="critic"
-                        >Bernhard von Cles.</note> qui maximo apparatu nuptiarum impensam solvet,
-                    nempe qui Romanorum <persName>regem</persName><note type="critic">King Ferdinand
-                        I.</note> cum <persName>consorte</persName><note type="critic">Anna
-                        Jagellonica.</note> et magnam turbam maximorum dominorum invitavit. Inde cum
-                    redierimus, parabimus nos pro itinere in inferiorem Germaniam.<note
-                        type="critic">Germania inferior was a Roman province, today: Luxembourg, the
-                        southern Netherlands, part of Belgium, and part of Germany.</note> Quo cum
-                    pervenero, de nostris rebus multa coram narrabo Dominationi Vestrae
-                    Reverendissimae. </p>
-                <p>Serenissimus Romanus <persName>rex</persName> redibit in Austriam. De
-                        <persName>caesare</persName> puto Reverendissimam Dominationem Vestram nihil
+                        Laterano</persName><note type="critic" xml:id="note.1">We do not know him
+                        more closely. Papal Count Palatine (<hi rend="italic">comes palatinus
+                            Lateranus</hi>, Count of the Sacred Palace of Lateran) was merely an
+                        honorary title.</note> cum consanguinea episcopi
+                        <persName>Tridentini</persName>,<note type="critic" xml:id="note.2">Bernhard
+                        von Cles.</note> qui maximo apparatu nuptiarum impensam solvet, nempe qui
+                    Romanorum <persName>regem</persName><note type="critic" xml:id="note.3">King
+                        Ferdinand I.</note> cum <persName>consorte</persName><note type="critic"
+                        xml:id="note.4">Anna Jagellonica.</note> et magnam turbam maximorum
+                    dominorum invitavit. Inde cum redierimus, parabimus nos pro itinere in
+                    inferiorem Germaniam.<note type="critic" xml:id="note.5">Germania inferior was a
+                        Roman province, today: Luxembourg, the southern Netherlands, part of
+                        Belgium, and part of Germany.</note> Quo cum pervenero, de nostris rebus
+                    multa coram narrabo Dominationi Vestrae Reverendissimae. </p>
+                <p xml:id="p.3">Serenissimus Romanus <persName>rex</persName> redibit in Austriam.
+                    De <persName>caesare</persName> puto Reverendissimam Dominationem Vestram nihil
                     latere. Res Danicae notiores vobis sunt, quam nobis. Interim felicissime et diu
                     valeat Reverendissima Dominatio Vestra, cui me humillime commendo. Si me non
                     fallit opinio, reverendissimus <persName>dominus</persName><note type="critic"
-                        >Lorenzo Campeggio.</note> meus ante festum sancti Michaelis<note
-                        type="critic">29 September.</note>
-                    <placeName>Brixina</placeName><note type="critic">Brixen.</note> exibit. Iam
-                    venerunt ad nos <persName>Muscutella</persName><note type="critic">We do not
+                        xml:id="note.6">Lorenzo Campeggio.</note> meus ante festum sancti
+                        Michaelis<note type="critic" xml:id="note.7">29
+                        September.</note><placeName>Brixina</placeName><note type="critic"
+                        xml:id="note.8">Brixen.</note> exibit. Iam venerunt ad nos
+                        <persName>Muscutella</persName><note type="critic" xml:id="note.9">We do not
                         know him more closely.</note> tibicen cum sociis, quos vobis una nobiscum
                     adducemus et cum maximo plausu intrabimus in regionem cervisiaticam, quod di
                     bene vertant. </p>
-                <p>Praeterea unum, quod maxime scribendum fuit, paene praetermisissem,
+                <p xml:id="p.4">Praeterea unum, quod maxime scribendum fuit, paene praetermisissem,
                     videlicet reverendissimum <persName>dominum</persName> meum de Reverendissima
                     Dominatione Vestra saepe et honestissimam mentionem facere, atque omnino
                     decrevisse a me <choice>
                         <orig>audire</orig>
                         <supplied>audiri</supplied>
-                    </choice>
-                    <hi rend="italic">Institutiones</hi> Iustiniani, ad quod cum laude peragendum
-                    Deus optimus maximus suam mihi gratiam concedat. Cetera boni aequique faciat
-                    Reverendissima Dominatio Vestra, cui me iterum commendo et
-                        <persName>Danum</persName><note type="critic">Jakob Jespersen.</note>
-                    sponsandum saluto. </p>
-                <p>Ex <placeName>Bulsano</placeName> octavi Idus Septembris 1536.</p>
+                    </choice><hi rend="italic">Institutiones</hi> Iustiniani, ad quod cum laude
+                    peragendum Deus optimus maximus suam mihi gratiam concedat. Cetera boni aequique
+                    faciat Reverendissima Dominatio Vestra, cui me iterum commendo et
+                        <persName>Danum</persName><note type="critic" xml:id="note.10">Jakob
+                        Jespersen.</note> sponsandum saluto. </p>
+                <p xml:id="p.5">Ex <placeName>Bulsano</placeName> octavi Idus Septembris 1536.</p>
             </div>
         </body>
     </text>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">476</title>
-                <title type="main">Cornelis de Schepper to Miklós Oláh (Dubrovnik, 31 March
-                    1534)</title>
+                <title key="body" n="476" type="main">Cornelis de Schepper to Miklós Oláh
+                    (Dubrovnik, 31 March 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340331_1</idno>
-                
+                <idno type="PID">olahus.tei.15340331_1</idno>
+                <idno type="ITIdata">Q473138</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340331_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,40 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
                     <p>
                         <hi rend="italic">Notes:</hi>
                     </p>
-                    
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 484–485.</note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 484–485.</note>
                 <note type="translation">
-                    <p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 302–303.</p></note>                 <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap">Albu–Capoianu</hi>
+                        1974, 302–303; <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1740–1743.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -135,11 +135,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -148,82 +209,81 @@
             </textClass>
             <creation>
                 <date when="1534-03-31">31 March 1534</date>
-                <placeName>Dubrovnik</placeName>
+                <placeName>Dubrovnik<idno type="ITIdata">Q20224</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Cornelis de Schepper to Miklós Oláh (Dubrovnik, 31 March
                     1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>He has finally made it to Dubrovnik. He has learnt that Lodovico Gritti
-                            is still in Constantinople and is waiting for Hayreddin Barbarossa
-                            Pasha. Ibrahim Pargalı Pasha is said to have fled from the shah, but
-                            Schepper is still waiting for more reliable information on everything.
-                            Except for three sanjak-beys, all have returned to Asia, which suggests
-                            that there will be no peace there now. Myhalibegouitz is said to have
-                            sieged the castle of Klis, to avenge Krusics’ sin. Soon they will know
-                            more, and he will write in more detail, too.</p>
+                        <p xml:id="reg.p.1">He has finally made it to Dubrovnik. He has learnt that
+                            Lodovico Gritti is still in Constantinople and is waiting for Hayreddin
+                            Barbarossa Pasha. Ibrahim Pargalı Pasha is said to have fled from the
+                            shah, but Schepper is still waiting for more reliable information on
+                            everything. Except for three sanjak-beys, all have returned to Asia,
+                            which suggests that there will be no peace there now. Myhalibegouitz is
+                            said to have sieged the castle of Klis, to avenge Krusics’ sin. Soon
+                            they will know more, and he will write in more detail, too.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Idem Nicolao Olao suo salutem. </p>
-                <p>Contranitentibus ventis decem et octo diebus fui in mari Hadriaco.
+                <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
+                <p xml:id="p.2">Contranitentibus ventis decem et octo diebus fui in mari Hadriaco.
                     Tandem perveni <placeName>Rhagusium</placeName>, ubi, quod ad
-                        <persName>Griti</persName><note type="critic">Lodovico Gritti.</note>
-                    attinet, intellexi illum adhuc esse <placeName>Constantinopoli</placeName>,
-                    exspectareque adventum <persName>Barbarossae</persName>,<note type="critic"
+                        <persName>Griti</persName><note type="critic" xml:id="note.1">Lodovico
+                        Gritti.</note> attinet, intellexi illum adhuc esse
+                        <placeName>Constantinopoli</placeName>, exspectareque adventum
+                        <persName>Barbarossae</persName>,<note type="critic" xml:id="note.2"
                         >Hayreddin Barbarossa Pasha.</note> qui concessit in
                         <placeName>Syriam</placeName> ad <persName>Imbrahimum
-                        bassam</persName>.<note type="critic">Ibrahim Pargalı Pasha.</note> Idne sit
-                    verum, an aliter se habeat res, non satis scio. Breviter tamen sum resciturus
-                    omnia. Hunc <persName>Imbrahimum</persName> aiunt a <persName>Sophy</persName>
-                    profligatum esse. Quomodo tamen aut qualiter non satis scitur, ubi primum
-                    venissem <placeName>Rhagusium</placeName>, statim expedivi cursorem ad Sansachum
-                    Hertzogonniae et ad <persName>caesarem</persName> Turcarum et ad
-                        <persName>Aloisium Gryti</persName>, scripsique ad tres illos in rebus mihi
-                    commissis, spero brevi habiturum responsum. Tunc verius et copiosius scribam de
-                    omnibus. Nam nunc urget me abitus huius <persName>Hergantini</persName>,<note
-                        type="critic">We do not know him more closely.</note> qui nactus properas ad
-                    redeundum tempestates, me cogit esse brevem. Commendo tibi res meas, quae istic
-                    sunt; ego vicissim vestrarum rerum curam sum habiturus, de quo mimine convenit
-                    dubitare. Omnes Sansachi praeter Samandriae, Bossinae Hertzogoninae, quorum
-                    trium vires sunt triginta millia equitum solum, concessere in Asiam: quae res
-                    arguit illic non bene succedere negotia. Dicitur et
-                        <persName>Myhalibegouytz</persName><note type="critic">Mihaloğlu Mehmed Bey.
-                        In 1517 he was sanjak-bey of Bosnia, in 1520 sanjak-bey of Herzegovina, and
-                        he also participated in the battle of Mohács. He then became sanjak-bey of
-                        Nikopol, see <hi rend="smallcap">Babinger</hi> 1993; <hi rend="smallcap"
-                            >Başar</hi> 2005, 25; <hi rend="smallcap">Sabev</hi> 2013, 232.</note>
-                    obsessurus arcem <placeName>Clyssam</placeName><note type="critic">Klis.</note>
-                    ob damna illata a <persName>Petro Crusitz</persName>.<note type="critic">Péter
-                        Krusics.</note> Quid desuper futurum sit, nescio. Fertur etiam magnus caesar
-                    Turcarum in persona propria abiturus in Asiam. Brevi sciemus veritatem rei.
-                    Commenda servitia mea sacrae reginali maiestati aliisque dominis meis,
-                    reverendissimo praesuli <persName>Panormitano</persName>,<note type="critic"
-                        >Jean II Carondelet.</note>
-                    <persName>duci de Arschot</persName>,<note type="critic">Philippe II de
-                        Croÿ.</note> dominis <persName>de Sanctpy</persName><note type="critic"
-                        >Antoine de Croÿ.</note> et <persName>Molenbais</persName> ceterisque, quos
-                    una cum Dominatione Tua Christus servet incolumis. </p>
-                <p><placeName>Rhagusii</placeName> ultimo Martii 1534.</p>
+                        bassam</persName>.<note type="critic" xml:id="note.3">Ibrahim Pargalı
+                        Pasha.</note> Idne sit verum, an aliter se habeat res, non satis scio.
+                    Breviter tamen sum resciturus omnia. Hunc <persName>Imbrahimum</persName> aiunt
+                    a <persName>Sophy</persName> profligatum esse. Quomodo tamen aut qualiter non
+                    satis scitur, ubi primum venissem <placeName>Rhagusium</placeName>, statim
+                    expedivi cursorem ad Sansachum Hertzogonniae et ad <persName>caesarem</persName>
+                    Turcarum et ad <persName>Aloisium Gryti</persName>, scripsique ad tres illos in
+                    rebus mihi commissis, spero brevi habiturum responsum. Tunc verius et copiosius
+                    scribam de omnibus. Nam nunc urget me abitus huius
+                        <persName>Hergantini</persName>,<note type="critic" xml:id="note.4">We do
+                        not know him more closely.</note> qui nactus properas ad redeundum
+                    tempestates, me cogit esse brevem. Commendo tibi res meas, quae istic sunt; ego
+                    vicissim vestrarum rerum curam sum habiturus, de quo mimine convenit dubitare.
+                    Omnes Sansachi praeter Samandriae, Bossinae Hertzogoninae, quorum trium vires
+                    sunt triginta millia equitum solum, concessere in Asiam: quae res arguit illic
+                    non bene succedere negotia. Dicitur et <persName>Myhalibegouytz</persName><note
+                        type="critic" xml:id="note.5">Mihaloğlu Mehmed Bey. In 1517 he was
+                        sanjak-bey of Bosnia, in 1520 sanjak-bey of Herzegovina, and he also
+                        participated in the battle of Mohács. He then became sanjak-bey of Nikopol,
+                        see <hi rend="smallcap">Babinger</hi> 1993; <hi rend="smallcap">Başar</hi>
+                        2005, 25; <hi rend="smallcap">Sabev</hi> 2013, 232.</note> obsessurus arcem
+                        <placeName>Clyssam</placeName><note type="critic" xml:id="note.6"
+                        >Klis.</note> ob damna illata a <persName>Petro Crusitz</persName>.<note
+                        type="critic" xml:id="note.7">Péter Krusics.</note> Quid desuper futurum
+                    sit, nescio. Fertur etiam magnus caesar Turcarum in persona propria abiturus in
+                    Asiam. Brevi sciemus veritatem rei. Commenda servitia mea sacrae reginali
+                    maiestati aliisque dominis meis, reverendissimo praesuli
+                        <persName>Panormitano</persName>,<note type="critic" xml:id="note.8">Jean II
+                        Carondelet.</note><persName>duci de Arschot</persName>,<note type="critic"
+                        xml:id="note.9">Philippe II de Croÿ.</note> dominis <persName>de
+                        Sanctpy</persName><note type="critic" xml:id="note.10">Antoine de
+                        Croÿ.</note> et <persName>Molenbais</persName> ceterisque, quos una cum
+                    Dominatione Tua Christus servet incolumis. </p>
+                <p xml:id="p.3"><placeName>Rhagusii</placeName> ultimo Martii 1534.</p>
             </div>
         </body>
     </text>

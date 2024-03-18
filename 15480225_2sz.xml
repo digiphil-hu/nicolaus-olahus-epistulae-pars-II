@@ -1,247 +1,325 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="num">682</title>
-                <title type="main">Miklós Oláh to Bratislava, Trnava, Sopron, Levoča, Bardejov,
-                    Prešov, Sabinov, Kremnica, Banská Štiavnica, Banksá Bystrica and other Royal
-                    free mountain cities’ Town Councils (Augsburg, 25 February 1548) </title>
-            </titleStmt>
-            <editionStmt>
-                <edition>digital edition</edition>
-                <respStmt>
-                    <resp>editor</resp>
-                    <persName>
-                        <surname>Szilágyi</surname>
-                        <forename>Emőke</forename>
-                        <forename>Rita</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>project director</resp>
-                    <persName>
-                        <surname>Palkó</surname>
-                        <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>arranged for publication</resp>
-                    <persName>
-                        <surname>Szilágyi</surname>
-                        <forename>Emőke</forename>
-                        <forename>Rita</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>XML-editor</resp>
-                    <persName>
-                        <surname>Fellegi</surname>
-                        <forename>Zsófia</forename>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>creator</resp>
-                    <orgName>DigiPhil <ref type="url">http://digiphil.hu</ref></orgName>
-                </respStmt>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
-                </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
-                <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
-                </availability>
-                <idno type="PID">o:olahus.tei.15480225_2sz</idno>
-                
-            </publicationStmt>
-            <seriesStmt>
-                <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
-                    nova</title>
-                <respStmt>
-                    <resp>series editor</resp>
-                    <persName>
-                        <surname>Békés</surname>
-                        <forename>Enikő</forename>
-                    </persName>
-                    <persName>
-                        <surname>Szörényi</surname>
-                        <forename>László</forename>
-                    </persName>
-                </respStmt>
-                <biblScope unit="volume">XIX/II.</biblScope>
-            </seriesStmt>
-            <notesStmt>
-                <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms. I is the original letter with signature
-                        and seal. Ms. II is a copy of this letter.
-                            <ref>/o:olahus.tei.15340422_1</ref>
-                    </p>
-                </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 586. </note>
-                <note type="translation"><p><hi rend="italic">In Romanian:</hi>
-                    <hi rend="smallcap">Albu–Capoianu</hi> 1974, 156–157.</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                    <p>Simul vel divisum constitutis.</p>
-                    <p>Praesentata septima Martii anno 1548.</p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-            </notesStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <country>Slovakia</country>
-                        <settlement>Bratislava</settlement>
-                        <institution>AMB MMB</institution>
-                        <repository>Listy a listiny inv. c. 6159.</repository>
-                        <idno/>
-                        <msName/>
-                    </msIdentifier>
-                    <msPart style="letter">
-                        <msIdentifier/>
-                        <physDesc>
-                            <objectDesc>
-                                <supportDesc>
-                                    <extent>
-                                        <measure type="quantity" unit="pagination"/>
-                                        <dimensions unit="mm">
-                                            <height/>
-                                            <width/>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>
-                                        <p/>
-                                    </condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </physDesc>
-                    </msPart>
-                </msDesc>
-                <listWit>
-                    <witness xml:id="CE">Critical Edition</witness>
-                    <witness xml:id="I">Slovakia, Bratislava, AMB MMB Listy a listiny inv. č.
-                        6159.</witness>
-                    <witness xml:id="II">Slovakia, Trnava, ŠAT MMT Palatinalia Fasc. 1.
-                        (1499–1549).</witness>
-                </listWit>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="la"/>
-            </langUsage>
-            <textClass>
-                <keywords corresp="Letter" scheme="GETTY_AAT">
-                    <term>Letter<idno type="GETTY_AAT">GETTY_AAT:300026879</idno></term>
-                </keywords>
-            </textClass>
-            <creation>
-                <date when="1548-02-25">25 February 1548</date>
-                <placeName>Augsburg</placeName>
-            </creation>
-            <correspDesc>
-                <correspAction type="sent">
-                    <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
-                </correspAction>
-                <correspAction type="recieved">
-                    <date/>
-                    <placeName> </placeName>
-                    <persName>Bratislava, Trnava, Sopron, Levoča, Bardejov, Prešov, Sabinov,
-                        Kremnica, Banská Štiavnica, Banksá Bystrica and other Royal free mountain
-                        cities’ Town Councils</persName>
-                    <orgName/>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div style="handwritten" type="letter">
-                <head type="title">Miklós Oláh to Bratislava, Trnava, Sopron, Levoča, Bardejov,
-                    Prešov, Sabinov, Kremnica, Banská Štiavnica, Banksá Bystrica and other Royal
-                    free mountain cities’ Town Councils (Augsburg, 25 February 1548)</head>
-                <floatingText>
-                    <body>
-                        <p>He has received the letter in which they jointly ask Oláh to represent
-                            their case in front of the King. They should know that he has their
-                            affairs at heart and has spoken with the King about the petition, whose
-                            answer they will learn from the attached copy of the King’s
-                            document.</p>
-                    </body>
-                </floatingText>
-                <pb/>
-                <p>Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem et
-                    nostri commendationem!</p>
-                <p>Redditae sunt nobis litterae vestrae communes, quibus nos unanimiter petitis, ut
-                    vestra rerumque publicarum vestrarum negotia pro nostro in vos studio apud nos
-                    commendata habere, et de eis <persName>regiae maiestatis</persName>, domino
-                    nostro clementissimo inter reliquos statuum et ordinum regni Hungariae articulos
-                    ad suam maiestatem missos loqui velimus. Sciatis hanc vestram petitionem pro
-                    nostra in vos benevolentia nobis cordi curaeque fuisse, nosque ex animi vestri
-                    sententia de rebus vestris suae maiestati locutos esse. In quibus quid
-                    effecerimus praestiterimusque, intelligetis clare ex responso maiestatis regiae,
-                    domini nostri clementissimi, cuius copiam ad vos misimus ad articulos
-                    praefatorum statuum et ordinum regni istius Hungariae <app>
-                        <lem wit="#CE #I"><choice>
-                                <orig>dato</orig>
-                                <supplied>datos</supplied>
-                            </choice></lem>
-                        <rdg wit="#II">dato</rdg>
-                    </app>. Nos deinceps etiam, quemadmodum hactenus (si gratos vos erga nos
-                    senserimus) rerum et negotiorum vestrorum pro nostro in vos et rempublicam
-                    vestram favore bonos semper promotores sentietis futuros.</p>
-                <p>Dominationes Vestras bene valere optamus.</p>
-                <p>Datum <placeName>Augustae Vindelicorum</placeName> vigesima quinta die mensis
-                    Februarii anno Domini 1548.</p>
-                <p><app>
-                        <lem wit="#CE #I">
-                            <seg type="signature">
-                                <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus
-                                    Zagrabiensis cancellarius regiae maiestatis etc. manu
-                                    propria</add>
-                            </seg>
-                        </lem>
-                        <rdg wit="#II">Nicolaus Olahus episcopus Zagrabiensis cancellarius regiae
-                            maiestatis manu propria</rdg>
-                    </app></p>
-                <pb/>
-            </div>
-            <div style="handwritten" type="verso">
-                <head>On the outer side:</head>
-                <p>Prudentibus et circumspectis dominis, iudicibus et iuratis civibus civitatum
-                    Posoniensis, Tyrnaviensis, Soproniensis, Leuchoviensis, Barthffensis,
-                    Epperiensis, <app>
-                        <lem wit="#CE #I">Libiniensis</lem>
-                        <rdg wit="#II">Cibiniensis</rdg>
-                    </app>, Cremnicensis, Schemniciensis, Novisoliensis ac aliarum liberarum ac
-                    montanarum civitatum regiae maiestatis etc. dominis et amicis nobis
-                    honorandis.</p>
-            </div>
-        </body>
-    </text>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                    <teiHeader>
+                                        <fileDesc>
+                                                  <titleStmt>
+                                                  <title type="num">682</title>
+                                                  <title key="body" n="682" type="main">Miklós Oláh
+                                                  to Bratislava, Trnava, Sopron, Levoča, Bardejov,
+                                                  Prešov, Sabinov, Kremnica, Banská Štiavnica,
+                                                  Banksá Bystrica and other Royal free mountain
+                                                  cities’ Town Councils (Augsburg, 25 February
+                                                  1548)</title>
+                                                  </titleStmt>
+                                                  <editionStmt>
+                                                  <edition>Digital critical edition</edition>
+                                                  <respStmt>
+                                                  <resp>editor</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  <idno type="ORCID">0000-0001-9504-5188</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>editor in chief</resp>
+                                                  <persName>
+                                                  <surname>Palkó</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q245084</idno>
+                                                  <idno type="ORCID">0000-0002-4394-8577</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>arranged for publication</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  <idno type="ORCID">0000-0001-9504-5188</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>TEI-specification</resp>
+                                                  <persName>
+                                                  <surname>Fellegi</surname>
+                                                  <forename>Zsófia</forename>
+                                                  <idno type="ITIdata">Q349971</idno>
+                                                  <idno type="ORCID">0000-0001-9199-1759</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>creator</resp>
+                                                  <orgName>DigiPhil <ref type="url"
+                                                  >http://digiphil.hu</ref></orgName>
+                                                  </respStmt>
+                                                  </editionStmt>
+                                                  <publicationStmt>
+                                                  <publisher>
+                                                  <orgName>HUN-REN Bölcsészettudományi
+                                                  Kutatóközpont, Irodalomtudományi Intézet <idno
+                                                  type="ITIdata">Q2256</idno></orgName>
+                                                  <ref type="url">https://iti.abtk.hu</ref>
+                                                  </publisher>
+                                                  <pubPlace>Budapest<idno type="ITIdata"
+                                                  >Q93</idno></pubPlace>
+                                                  <date when="2024">2024</date>
+                                                  <availability>
+                                                  <p>CC BY-NC-ND 4.0 DEED:
+                                                  Attribution-NonCommercial-NoDerivs 4.0
+                                                  International<ref type="url"
+                                                  >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
+                                                  </availability>
+                                                  <idno type="PID">olahus.tei.15480225_2sz</idno>
+                                                  <idno type="ITIdata">Q473344</idno>
+                                                  <ref
+                                                  target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15480225_2sz.xml"
+                                                  >The TEI XML transcript of the letter in the
+                                                  DigiPhil GitHub repository.</ref>
+                                                  </publicationStmt>
+                                                  <seriesStmt>
+                                                  <title level="s">Bibliotheca Scriptorum Medii
+                                                  Recentisque Aevorum: Series nova</title>
+                                                  <respStmt>
+                                                  <resp>series editor</resp>
+                                                  <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Szörényi</surname>
+                                                  <forename>László</forename>
+                                                  <idno type="ITIdata">Q49630</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <biblScope unit="volume">XIX/II.</biblScope>
+                                                  <idno type="ISSN">0133-6711</idno>
+                                                  <idno type="ITIdata">Q469925</idno>
+                                                  </seriesStmt>
+                                                  <notesStmt>
+                                                  <note type="critIntro">
+                                                  <p><hi rend="italic">Notes:</hi> Ms. I is the
+                                                  original letter with signature and seal. Ms. II is
+                                                  a copy of this letter.
+                                                  <ref>/o:olahus.tei.15340422_1</ref></p>
+                                                  </note>
+                                                  <note type="publication"><hi rend="smallcap"
+                                                  >Ipolyi</hi> 1875, 586. </note>
+                                                  <note type="translation">
+                                                  <p><hi rend="italic">In Romanian:</hi><hi
+                                                  rend="smallcap">Albu–Capoianu</hi> 1974,
+                                                  156–157.</p>
+                                                  </note>
+                                                  <note type="outer_side">
+                                                  <p>
+                                                  <hi rend="bold">On the outer side:</hi>
+                                                  </p>
+                                                  <p>Simul vel divisum constitutis.</p>
+                                                  <p>Praesentata septima Martii anno 1548.</p>
+                                                  </note>
+                                                  </notesStmt>
+                                                  <sourceDesc>
+                                                  <listWit>
+                                                  <witness xml:id="CE">Critical Edition</witness>
+                                                  <witness xml:id="I">Slovakia, Bratislava, AMB MMB
+                                                  Listy a listiny inv. č. 6159.</witness>
+                                                  <witness xml:id="II">Slovakia, Trnava, ŠAT MMT
+                                                  Palatinalia Fasc. 1. (1499–1549).</witness>
+                                                  </listWit>
+                                                  <bibl>
+                                                  <title level="m">Nicolaus Olahus: Epistulae. Pars
+                                                  II. 1534–1553</title>
+                                                  <idno type="ISBN">978-615-6255-40-2</idno>
+                                                  <idno type="url"
+                                                  >https://www.reciti.hu/2023/7807</idno>
+                                                  <publisher>
+                                                  <orgName>reciti</orgName>
+                                                  <ref type="url">https://www.reciti.hu/</ref>
+                                                  </publisher>
+                                                  <pubPlace>Budapest<idno type="ITIdata"
+                                                  >Q93</idno></pubPlace>
+                                                  <respStmt>
+                                                  <resp>editor</resp>
+                                                  <persName>
+                                                  <surname>Szilágyi</surname>
+                                                  <forename>Emőke</forename>
+                                                  <forename>Rita</forename>
+                                                  <idno type="ITIdata">Q469914</idno>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>lector</resp>
+                                                  <persName>
+                                                  <surname>Békés</surname>
+                                                  <forename>Enikő</forename>
+                                                  <idno type="ITIdata">Q330658</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Bolonyai</surname>
+                                                  <forename>Gábor</forename>
+                                                  <idno type="ITIdata">Q55828</idno>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Faragó</surname>
+                                                  <forename>Dávid</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Fazekas</surname>
+                                                  <forename>István</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Kasza</surname>
+                                                  <forename>Péter</forename>
+                                                  </persName>
+                                                  <persName>
+                                                  <surname>Péterfi</surname>
+                                                  <forename>Bence</forename>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <resp>lector of the english translation</resp>
+                                                  <persName>
+                                                  <surname>Futász</surname>
+                                                  <forename>Réka</forename>
+                                                  </persName>
+                                                  </respStmt>
+                                                  <date when="2022">2022</date>
+                                                  <ref
+                                                  target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                                                  type="url">The TEI XML trancripts of the edition
+                                                  in the DigiPhil GitHub repository.</ref>
+                                                  <idno type="DOI"
+                                                  >https://doi.org/10.5281/zenodo.8011468</idno><idno
+                                                  type="ITIdata">Q469915</idno>
+                                                  </bibl>
+                                                  </sourceDesc>
+                                        </fileDesc>
+                                        <encodingDesc>
+                                                  <variantEncoding location="internal"
+                                                  method="parallel-segmentation"/>
+                                        </encodingDesc>
+                                        <profileDesc>
+                                                  <langUsage>
+                                                  <language ident="la">latin</language>
+                                                  </langUsage>
+                                                  <textClass>
+                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                                  <term>Letter<idno type="GETTY_AAT"
+                                                  >GETTY_AAT:300026879</idno></term>
+                                                  </keywords>
+                                                  </textClass>
+                                                  <creation>
+                                                  <date when="1548-02-25">25 February 1548</date>
+                                                  <placeName>Augsburg<idno type="ITIdata"
+                                                  >Q9064</idno></placeName>
+                                                  </creation>
+                                                  <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <date/>
+                                                  <persName>Miklós Oláh<idno type="ITIdata"
+                                                  >Q244878</idno></persName>
+                                                  </correspAction>
+                                                  <correspAction type="recieved">
+                                                  <date/>
+                                                  <orgName>Bratislava, Trnava, Sopron, Levoča,
+                                                  Bardejov, Prešov, Sabinov, Kremnica, Banská
+                                                  Štiavnica, Banksá Bystrica and other Royal free
+                                                  mountain cities’ Town Councils</orgName>
+                                                  </correspAction>
+                                                  </correspDesc>
+                                        </profileDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                  <div style="handwritten" type="letter"
+                                                  xml:id="d.1">
+                                                  <head type="title">Miklós Oláh to Bratislava,
+                                                  Trnava, Sopron, Levoča, Bardejov, Prešov, Sabinov,
+                                                  Kremnica, Banská Štiavnica, Banksá Bystrica and
+                                                  other Royal free mountain cities’ Town Councils
+                                                  (Augsburg, 25 February 1548)</head>
+                                                  <floatingText>
+                                                  <body>
+                                                  <p xml:id="reg.p.1">He has received the letter in
+                                                  which they jointly ask Oláh to represent their
+                                                  case in front of the King. They should know that
+                                                  he has their affairs at heart and has spoken with
+                                                  the King about the petition, whose answer they
+                                                  will learn from the attached copy of the King’s
+                                                  document.</p>
+                                                  </body>
+                                                  </floatingText>
+                                                  <pb/>
+                                                  <p xml:id="p.1">Prudentes et Circumspecti Domini
+                                                  et Amici nobis Honorandi, salutem et nostri
+                                                  commendationem!</p>
+                                                  <p xml:id="p.2">Redditae sunt nobis litterae
+                                                  vestrae communes, quibus nos unanimiter petitis,
+                                                  ut vestra rerumque publicarum vestrarum negotia
+                                                  pro nostro in vos studio apud nos commendata
+                                                  habere, et de eis <persName>regiae
+                                                  maiestatis</persName>, domino nostro clementissimo
+                                                  inter reliquos statuum et ordinum regni Hungariae
+                                                  articulos ad suam maiestatem missos loqui velimus.
+                                                  Sciatis hanc vestram petitionem pro nostra in vos
+                                                  benevolentia nobis cordi curaeque fuisse, nosque
+                                                  ex animi vestri sententia de rebus vestris suae
+                                                  maiestati locutos esse. In quibus quid effecerimus
+                                                  praestiterimusque, intelligetis clare ex responso
+                                                  maiestatis regiae, domini nostri clementissimi,
+                                                  cuius copiam ad vos misimus ad articulos
+                                                  praefatorum statuum et ordinum regni istius
+                                                  Hungariae <app xml:id="app.1">
+                                                  <lem wit="#CE #I" xml:id="lem.1"><choice>
+                                                  <orig>dato</orig>
+                                                  <supplied>datos</supplied>
+                                                  </choice></lem>
+                                                  <rdg wit="#II" xml:id="rdg.1">dato</rdg>
+                                                  </app>. Nos deinceps etiam, quemadmodum hactenus
+                                                  (si gratos vos erga nos senserimus) rerum et
+                                                  negotiorum vestrorum pro nostro in vos et
+                                                  rempublicam vestram favore bonos semper promotores
+                                                  sentietis futuros.</p>
+                                                  <p xml:id="p.3">Dominationes Vestras bene valere
+                                                  optamus.</p>
+                                                  <p xml:id="p.4">Datum <placeName>Augustae
+                                                  Vindelicorum</placeName> vigesima quinta die
+                                                  mensis Februarii anno Domini 1548.</p>
+                                                  <p xml:id="p.5">
+                                                  <app xml:id="app.2">
+                                                  <lem wit="#CE #I" xml:id="lem.2">
+                                                  <seg type="signature">
+                                                  <add corresp="Olahus" type="insert">Nicolaus
+                                                  Olahus episcopus Zagrabiensis cancellarius regiae
+                                                  maiestatis etc. manu propria</add>
+                                                  </seg>
+                                                  </lem>
+                                                  <rdg wit="#II" xml:id="rdg.2">Nicolaus Olahus
+                                                  episcopus Zagrabiensis cancellarius regiae
+                                                  maiestatis manu propria</rdg>
+                                                  </app>
+                                                  </p>
+                                                  <pb/>
+                                                  </div>
+                                                  <div style="handwritten" type="verso" xml:id="d.2">
+                                                  <head>On the outer side:</head>
+                                                  <p xml:id="p.6">Prudentibus et circumspectis
+                                                  dominis, iudicibus et iuratis civibus civitatum
+                                                  Posoniensis, Tyrnaviensis, Soproniensis,
+                                                  Leuchoviensis, Barthffensis, Epperiensis, <app
+                                                  xml:id="app.3">
+                                                  <lem wit="#CE #I" xml:id="lem.3">Libiniensis</lem>
+                                                  <rdg wit="#II" xml:id="rdg.3">Cibiniensis</rdg>
+                                                  </app>, Cremnicensis, Schemniciensis,
+                                                  Novisoliensis ac aliarum liberarum ac montanarum
+                                                  civitatum regiae maiestatis etc. dominis et amicis
+                                                  nobis honorandis.</p>
+                                                  </div>
+                                        </body>
+                    </text>
 </TEI>

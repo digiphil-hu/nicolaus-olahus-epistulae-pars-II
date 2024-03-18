@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">500</title>
-                <title type="main">Cornelis de Schepper to Miklós Oláh (Prague, 30 July
-                    1534)</title>
+                <title key="body" n="500" type="main">Cornelis de Schepper to Miklós Oláh (Prague,
+                    30 July 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340730_1</idno>
-                
+                <idno type="PID">olahus.tei.15340730_1</idno>
+                <idno type="ITIdata">Q473161</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340730_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 517–519.</note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 517–519.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,51 +203,47 @@
             </textClass>
             <creation>
                 <date when="1534-07-30">30 July 1534</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Cornelis de Schepper</persName>
-                    <orgName/>
+                    <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Cornelis de Schepper to Miklós Oláh (Prague, 30 July 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Because he completed the trip from Belgrade to Buda within five days
-                            by carriage, he became quite sick, so he could not write from
-                            Bratislava. In Buda he spoke to Voivode Szapolyai, which he will tell
-                            Oláh about in person, now he will only describe a few things. Lodovico
-                            Gritti is bringing 2,000 horsemen and infantrymen to calm Hungary down.
-                            He has promised many things in secret, the question is which promises he
-                            will keep. The Hungarians, it seems, do not want a dual monarchy, they
-                            are now siding with King Ferdinand I instead. Everyone is petrified by
-                            Gritti, he has already completely plundered Szapolyai, and he also has
-                            Transylvania’s revenue. It was terrible for him to see Buda full of
-                            Turks, and he even brought it up with Szapolyai that this is not a
-                            Christian state any more but a Turkish one, which Szapolyai did not
-                            deny, instead he blamed those who had forced him into it. Oláh should
-                            not worry about his possessions, changes are coming now that will have a
-                            favorable influence on this as well. 2. He will arrive shortly. The
-                            Sultan has promised twice that the Queen’s estates will be returned to
-                            her, but Tamás Nádasdy will not like this because Maramureș is in his
-                            possession now. The people of Szapolyai want to rein in Ferenc Bebek,
-                            but King Ferdinand I does not allow it. Now they can hope for a turn for
-                            the better because the Turks have withdrawn all their troops. 3. He
-                            lists what troops the Persian and the Turkish armies have. Ibrahim
+                        <p xml:id="reg.p.1">1. Because he completed the trip from Belgrade to Buda
+                            within five days by carriage, he became quite sick, so he could not
+                            write from Bratislava. In Buda he spoke to Voivode Szapolyai, which he
+                            will tell Oláh about in person, now he will only describe a few things.
+                            Lodovico Gritti is bringing 2,000 horsemen and infantrymen to calm
+                            Hungary down. He has promised many things in secret, the question is
+                            which promises he will keep. The Hungarians, it seems, do not want a
+                            dual monarchy, they are now siding with King Ferdinand I instead.
+                            Everyone is petrified by Gritti, he has already completely plundered
+                            Szapolyai, and he also has Transylvania’s revenue. It was terrible for
+                            him to see Buda full of Turks, and he even brought it up with Szapolyai
+                            that this is not a Christian state any more but a Turkish one, which
+                            Szapolyai did not deny, instead he blamed those who had forced him into
+                            it. Oláh should not worry about his possessions, changes are coming now
+                            that will have a favorable influence on this as well. 2. He will arrive
+                            shortly. The Sultan has promised twice that the Queen’s estates will be
+                            returned to her, but Tamás Nádasdy will not like this because Maramureș
+                            is in his possession now. The people of Szapolyai want to rein in Ferenc
+                            Bebek, but King Ferdinand I does not allow it. Now they can hope for a
+                            turn for the better because the Turks have withdrawn all their troops.
+                            3. He lists what troops the Persian and the Turkish armies have. Ibrahim
                             Pargalı Pasha is spending this year by amassing resources, then he plans
                             to conquer Baghdad and Crimea, and to make his way to the Persian Gulf.
                             The Sultan is spending the winter in Harrán, while the Uzbeks are
@@ -200,29 +252,29 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Cornelius Scepperus Nicolao Olao suo salutem. </p>
-                <p>[1.] Mirabitur forte Dominatio Vestra, quod ex
+                <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo salutem. </p>
+                <p xml:id="p.2">[1.] Mirabitur forte Dominatio Vestra, quod ex
                         <placeName>Posonio</placeName> nihil scripserim, sane eram tunc ea
                     valetudine, ut parum essem ad scribendum idoneus. Laboravi enim vehementi morbo,
                     quem contraxi ex motione curruum vestratium. Nam ex
-                        <placeName>Belgrado</placeName>
-                    <placeName>Budam</placeName> in quinque diebus perveni per chotzas<note
-                        type="critic">In Hungarian <hi rend="italic">kocsi</hi>, meaning
-                        ‘carriage’.</note> una cum <persName>Hyeronimo Lasky</persName>, qui me
-                    liberavit ex manibus Turcarum Belgradensium, qui adverso Danubio me cum tota
-                    classe mittere voluerant. Fui <placeName>Budae</placeName> apud
-                        <persName>Ioannem vaivodam</persName>,<note type="critic">King John I. The
+                        <placeName>Belgrado</placeName><placeName>Budam</placeName> in quinque
+                    diebus perveni per chotzas<note type="critic" xml:id="note.1">In Hungarian <hi
+                            rend="italic">kocsi</hi>, meaning ‘carriage’.</note> una cum
+                        <persName>Hyeronimo Lasky</persName>, qui me liberavit ex manibus Turcarum
+                    Belgradensium, qui adverso Danubio me cum tota classe mittere voluerant. Fui
+                        <placeName>Budae</placeName> apud <persName>Ioannem
+                        vaivodam</persName>,<note type="critic" xml:id="note.2">King John I. The
                         Habsburg loyalists never call him king. According to Paolo Giovio, King
                         Ferdinand I first called Szapolyai king at the Treaty of Oradea, see <hi
                             rend="smallcap">Kasza</hi> 2021, 47.</note> cum quo habita verba non
                     possum nunc scribere, praesens ea dicam, ut autem intelligat Dominatio Vestra,
                     quo in statu res regni Hungariae sint, paucis accipiat. </p>
-                <p><persName>Gritum</persName><note type="critic">Lodovico Gritti.</note>
-                    venire cum bis mille equitibus et peditibus suis ad pacandum, ut ait, regnum
-                    Hungariae. Multa nobis promittit et mecum secretissime locutus est
-                        <placeName>Constantinopoli</placeName>. Quid praestiturus sit, non satis
-                    scio, tempus declarabit. Hungari varia agitant consilia et videntur non velle
-                    dividi, et iam fere omnes ad <persName>Ferdinandum regem</persName> parant
+                <p xml:id="p.3"><persName>Gritum</persName><note type="critic" xml:id="note.3"
+                        >Lodovico Gritti.</note> venire cum bis mille equitibus et peditibus suis ad
+                    pacandum, ut ait, regnum Hungariae. Multa nobis promittit et mecum secretissime
+                    locutus est <placeName>Constantinopoli</placeName>. Quid praestiturus sit, non
+                    satis scio, tempus declarabit. Hungari varia agitant consilia et videntur non
+                    velle dividi, et iam fere omnes ad <persName>Ferdinandum regem</persName> parant
                     deficere. Quod si fecerint, non est, quod de salute regni desperem.
                         <persName>Griti</persName> omnibus et vaivodae etiam terrori est. Exhausit
                         <persName>Ioannem</persName> pecuniis, proventus Transsylvaniae in ipsius
@@ -230,11 +282,11 @@
                     odio, et iugi Turcici incipit pudere Hungaros. Quanto putas dolore ego affectus
                     sum, cum viderem <placeName>Budae</placeName> et in omnium fluminum hostiis
                     vagari impune albicaputiatos Turcas, sane hunc dolorem non dissimulavi, sed dixi
-                    libere <milestone unit="pb"/>Ioanni me videre regnum illud esse Turcarum et non Christianorum. Ad
-                    quod nihil respondit, nisi quod causam retorquebat in eos, qui ad id
-                    necessitatis ipsum impulissent. </p>
-                <p>De rebus tuis desine sollicitus esse, nam video magnam mutationem fore.
-                    Neque in manibus <persName>Gryti</persName> nec vaivodae fore de eis tibi
+                    libere <milestone unit="pb"/>Ioanni me videre regnum illud esse Turcarum et non
+                    Christianorum. Ad quod nihil respondit, nisi quod causam retorquebat in eos, qui
+                    ad id necessitatis ipsum impulissent. </p>
+                <p xml:id="p.4">De rebus tuis desine sollicitus esse, nam video magnam mutationem
+                    fore. Neque in manibus <persName>Gryti</persName> nec vaivodae fore de eis tibi
                     providere. Post quam mutationem non possum non ingens bonum et id brevi sperare.
                     Nunquam maiorem aut meliorem occasionem habuit res Christiana non recuperandi
                     solum id regnum, sed alia omnia. Et non puta me temere loqui. Nam ego scio, quid
@@ -242,79 +294,86 @@
                         caesarem</persName>, ubi de rebus per me actis fuerit certior factus, in rem
                     illius regni annisurum. Ego video omnium animos in maximam spem erectos. Non
                     possum omnia scribere. </p>
-                <p>[2.] Brevi ero apud vos. Nam cum <persName>Grito</persName> nil
+                <p xml:id="p.5">[2.] Brevi ero apud vos. Nam cum <persName>Grito</persName> nil
                     superest agendum <del corresp="editor">nisi</del>, nisi soli regi
                         <persName>Ferdinando</persName>, si modo velit. <persName>Caesar</persName>
                     Turcarum bis ore proprio reconfirmavit dotem serenissimae
                         <persName>reginae</persName>, iussitque <persName>Grito</persName>, ut eam
                     restitueret. Superest solum, ut id exsequatur. Cum
-                        <persName>Nadasdun</persName><note type="critic">Tamás Nádasdy.</note> male
-                    illi convenit: is habet <placeName>Maromarusium</placeName>, videndum, an cedere
-                    velit sponte, an vi potius cogendus est. Totum regnum est in motu, vaivodani
-                    volunt castigare <persName>Beybeck</persName>,<note type="critic">Ferenc
-                        Bebek.</note>
-                    <persName>Ferdinandus rex</persName> non videtur ipsum esse dimissurus. Quid
-                    secuturum sit, ipse coniecturare poteris. Mitto ad reginalem maiestatem litteras
-                    ab <persName>Aloisio Griti</persName>, quas rex Romanorum ignoranter tamen
-                    aperuit. Credo, quod se referat ad me. Nam multa pollicitus est et credo pro
-                    virili etiam praestiturum esse, sed sors istius regni non patitur praesentem
-                    statum rerum. Iterum dico me magnam et bonam spem concepisse fore, ne a Turcis
-                    amplius mendicemus. Ad quod ego pro mea virili annisus sum et adhuc adnitar
-                    postpositis privatis respectibus. Omnes vires Turcarum ex Europa abductae sunt,
-                    cuius rei ego sum oculatus testis. Danda est opera, ne redeant, et spero <choice>
+                        <persName>Nadasdun</persName><note type="critic" xml:id="note.4">Tamás
+                        Nádasdy.</note> male illi convenit: is habet
+                        <placeName>Maromarusium</placeName>, videndum, an cedere velit sponte, an vi
+                    potius cogendus est. Totum regnum est in motu, vaivodani volunt castigare
+                        <persName>Beybeck</persName>,<note type="critic" xml:id="note.5">Ferenc
+                        Bebek.</note><persName>Ferdinandus rex</persName> non videtur ipsum esse
+                    dimissurus. Quid secuturum sit, ipse coniecturare poteris. Mitto ad reginalem
+                    maiestatem litteras ab <persName>Aloisio Griti</persName>, quas rex Romanorum
+                    ignoranter tamen aperuit. Credo, quod se referat ad me. Nam multa pollicitus est
+                    et credo pro virili etiam praestiturum esse, sed sors istius regni non patitur
+                    praesentem statum rerum. Iterum dico me magnam et bonam spem concepisse fore, ne
+                    a Turcis amplius mendicemus. Ad quod ego pro mea virili annisus sum et adhuc
+                    adnitar postpositis privatis respectibus. Omnes vires Turcarum ex Europa
+                    abductae sunt, cuius rei ego sum oculatus testis. Danda est opera, ne redeant,
+                    et spero <choice>
                         <orig>datam</orig>
                         <supplied>datum</supplied>
                     </choice> iri. Pluram coram. </p>
-                <p>Commenda me omnibus dominis et amicis, qui istic sunt et dominabus
+                <p xml:id="p.6">Commenda me omnibus dominis et amicis, qui istic sunt et dominabus
                     illustribus, <milestone unit="pb"/><persName>comiti de Salm</persName>,<note
-                        type="critic">Elisabeth, Countess of Salm.</note> dominae <persName>de
-                        Baillieul</persName>,<note type="critic">Madame Bailleul.</note> dominae
-                        <persName>Lucretiae</persName><note type="critic">Lucretia Caballis (vom
-                        Ross).</note> et si quae aliae ibi sunt. Litteras ad
-                        <persName>uxorem</persName><note type="critic">Anna Isabella (Elizabeth)
-                        Donche.</note> his annexas per fidelem nuntium transmittat. </p>
-                <p>[3.] Vires <persName>Sophy</persName><note type="critic">Tahmasp I,
-                        Shah of Iran.</note> sunt quinquaginta millia optimorum equitum. In quibus
-                    triginta millia sunt cataphractorum, ianitsarios, harchabusarios<note
-                        type="critic">Probably a hapax legomenon. According to <hi rend="smallcap"
-                            >Hoven</hi> 2006, 241: ‘arquebusier’, which was the most common form of
-                        cavalry.</note> habet quattuor millia, trecentas bombardas, vulgus ait ad
-                    aliquot centena millia. Exercitus <persName>Imbrahimi</persName><note
-                        type="critic">Ibrahim Pargalı Pasha.</note> bassae habet ad trecenta millia
-                    hominum. Caesaris autem Turcarum exercitus ex cismarinis est supra ducentum
-                    mille. Transmarinorum ex <placeName>Dyarbey</placeName>,<note type="critic"
-                        >Djerba.</note>
-                    <placeName>Carahemith</placeName>,<note type="critic">Diyarbakır.</note>
-                    <placeName>Egypto</placeName>, <placeName>Damasco</placeName>,
-                        <placeName>Syria</placeName>, <placeName>Mesopotamia</placeName>,
-                        <placeName>Halepo</placeName>,<note type="critic">Aleppo.</note>
-                    <placeName>Caramania</placeName><note type="critic">Karaman.</note> et aliis
-                    supra quatercentum mille. Decies centena millia virorum, si convenerit
-                        <persName>caesar</persName> cum <persName>Imbrahimo</persName>, excedet
-                    numerus exercitus. Haec nostrates ridebunt, sed minus scribo, quam est. Et
-                    plures erant, commeatus autem habent abundantissime, totum enim hunc annum
-                    impendit <persName>Imbrahimus</persName> in coacervando commeatu. Intentio
-                    Othomanorum est capere et munire <placeName>Bagdath</placeName><note
-                        type="critic">Baghdad.</note> ad flumen <placeName>Tigrim</placeName> et
-                    occupare <placeName>Thaurisum</placeName><note type="critic">Crimea ot the
-                        Tauric Peninsula.</note> Armeniae, et ad sinum Persicum sibi viam facere.
-                    Inde deturbare Portugalenses, qui litora illa occupant. Nondum pugnatum est,
-                    nisi per occasionem levibus praeliis. Hac hieme experietur
+                        type="critic" xml:id="note.6">Elisabeth, Countess of Salm.</note> dominae
+                        <persName>de Baillieul</persName>,<note type="critic" xml:id="note.7">Madame
+                        Bailleul.</note> dominae <persName>Lucretiae</persName><note type="critic"
+                        xml:id="note.8">Lucretia Caballis (vom Ross).</note> et si quae aliae ibi
+                    sunt. Litteras ad <persName>uxorem</persName><note type="critic" xml:id="note.9"
+                        >Anna Isabella (Elizabeth) Donche.</note> his annexas per fidelem nuntium
+                    transmittat. </p>
+                <p xml:id="p.7">[3.] Vires <persName>Sophy</persName><note type="critic"
+                        xml:id="note.10">Tahmasp I, Shah of Iran.</note> sunt quinquaginta millia
+                    optimorum equitum. In quibus triginta millia sunt cataphractorum, ianitsarios,
+                        harchabusarios<note type="critic" xml:id="note.11">Probably a hapax
+                        legomenon. According to <hi rend="smallcap">Hoven</hi> 2006, 241:
+                        ‘arquebusier’, which was the most common form of cavalry.</note> habet
+                    quattuor millia, trecentas bombardas, vulgus ait ad aliquot centena millia.
+                    Exercitus <persName>Imbrahimi</persName><note type="critic" xml:id="note.12"
+                        >Ibrahim Pargalı Pasha.</note> bassae habet ad trecenta millia hominum.
+                    Caesaris autem Turcarum exercitus ex cismarinis est supra ducentum mille.
+                    Transmarinorum ex <placeName>Dyarbey</placeName>,<note type="critic"
+                        xml:id="note.13">Djerba.</note><placeName>Carahemith</placeName>,<note
+                        type="critic" xml:id="note.14"
+                        >Diyarbakır.</note><placeName>Egypto</placeName>,
+                        <placeName>Damasco</placeName>, <placeName>Syria</placeName>,
+                        <placeName>Mesopotamia</placeName>, <placeName>Halepo</placeName>,<note
+                        type="critic" xml:id="note.15"
+                        >Aleppo.</note><placeName>Caramania</placeName><note type="critic"
+                        xml:id="note.16">Karaman.</note> et aliis supra quatercentum mille. Decies
+                    centena millia virorum, si convenerit <persName>caesar</persName> cum
+                        <persName>Imbrahimo</persName>, excedet numerus exercitus. Haec nostrates
+                    ridebunt, sed minus scribo, quam est. Et plures erant, commeatus autem habent
+                    abundantissime, totum enim hunc annum impendit <persName>Imbrahimus</persName>
+                    in coacervando commeatu. Intentio Othomanorum est capere et munire
+                        <placeName>Bagdath</placeName><note type="critic" xml:id="note.17"
+                        >Baghdad.</note> ad flumen <placeName>Tigrim</placeName> et occupare
+                        <placeName>Thaurisum</placeName><note type="critic" xml:id="note.18">Crimea
+                        ot the Tauric Peninsula.</note> Armeniae, et ad sinum Persicum sibi viam
+                    facere. Inde deturbare Portugalenses, qui litora illa occupant. Nondum pugnatum
+                    est, nisi per occasionem levibus praeliis. Hac hieme experietur
                         <persName>Imbrahimus</persName> fortunam, si modo velit, nam semel
                     detrectavit pugnam. Caesar Turcarum hiemabit apud
-                        <placeName>Carras</placeName>,<note type="critic">Harrán.</note> qui olim
-                    fuit limes Persici et Romani imperii, nunc est Othomanorum. Tartari, qui
-                    habitant <placeName>Sogdianam</placeName><note type="critic">Sogdiana, an
-                        ancient country in Central Asia, located between Amu Darya and the Syr
-                        Darya, see <hi rend="smallcap">Huxley</hi> 1985.</note> ad flumen
-                        <placeName>Saxarten</placeName>,<note type="critic">Tanais river, today: Don
-                        river.</note> quod labitur in Caspium mare, unde ortus fuit Temerlenus sive
-                        <persName>Tamburlanes</persName>,<note type="critic">The myghty Emperor of
-                        the Tartars, see Herberstein’s work: <hi rend="smallcap">Major</hi> 1852,
-                        237.</note> facessunt negotium ipsi <persName>Sophy</persName>. Quae res
-                    adducit Othomannos in spem certam victoriae, sed tamen pugnandum est illis cum
-                    multis incommoditatibus. Haec breviter. Et iterum vale.</p>
-                <p>Ex <placeName>Praga</placeName> XXX. Iulii anno Domini 1534.</p>
+                        <placeName>Carras</placeName>,<note type="critic" xml:id="note.19"
+                        >Harrán.</note> qui olim fuit limes Persici et Romani imperii, nunc est
+                    Othomanorum. Tartari, qui habitant <placeName>Sogdianam</placeName><note
+                        type="critic" xml:id="note.20">Sogdiana, an ancient country in Central Asia,
+                        located between Amu Darya and the Syr Darya, see <hi rend="smallcap"
+                            >Huxley</hi> 1985.</note> ad flumen
+                        <placeName>Saxarten</placeName>,<note type="critic" xml:id="note.21">Tanais
+                        river, today: Don river.</note> quod labitur in Caspium mare, unde ortus
+                    fuit Temerlenus sive <persName>Tamburlanes</persName>,<note type="critic"
+                        xml:id="note.22">The myghty Emperor of the Tartars, see Herberstein’s work:
+                            <hi rend="smallcap">Major</hi> 1852, 237.</note> facessunt negotium ipsi
+                        <persName>Sophy</persName>. Quae res adducit Othomannos in spem certam
+                    victoriae, sed tamen pugnandum est illis cum multis incommoditatibus. Haec
+                    breviter. Et iterum vale.</p>
+                <p xml:id="p.8">Ex <placeName>Praga</placeName> XXX. Iulii anno Domini 1534.</p>
             </div>
         </body>
     </text>

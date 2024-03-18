@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">819</title>
-                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 17 June 1552)</title>
+                <title key="body" n="819" type="main">Miklós Oláh to King Ferdinand I (Vienna, 17
+                    June 1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520617_1</idno>
-                
+                <idno type="PID">olahus.tei.15520617_1</idno>
+                <idno type="ITIdata">Q473477</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520617_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,44 +201,40 @@
             </textClass>
             <creation>
                 <date when="1552-06-17">17 June 1552</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 17 June 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He believes Maximilian has informed King Ferdinand I about everything
-                            that arrives to the Hungarian and German Chancellery, he will now report
-                            about the things that have reached him. He will understand from the
-                            copies of three of István Dobó’s letters what Dobó has written about the
-                            Pasha of Buda. When the third letter arrived, he encouraged Maximilian
-                            to write to Erasmus Teufel and others who are outside the Eger city
-                            walls to enter the city in case of danger. 2. András (Bonaventura)
-                            Báthori is in Transylvania, so there is nobody to soothe the nation.
-                            King Ferdinand I also knows what György Bebek has done recently.
-                            However, Oláh is very worried that from the cannons that were taken to
-                            Eger last summer, according to István Mekcsey’s report, only four
-                            smaller ones and five bigger ones are still there, the rest have been
-                            taken to Transylvania, Szolnok, and who knows where else. Oláh has
-                            ordered Dobó to recruit another 100 infantrymen. 3. He has read out
+                        <p xml:id="reg.p.1">1. He believes Maximilian has informed King Ferdinand I
+                            about everything that arrives to the Hungarian and German Chancellery,
+                            he will now report about the things that have reached him. He will
+                            understand from the copies of three of István Dobó’s letters what Dobó
+                            has written about the Pasha of Buda. When the third letter arrived, he
+                            encouraged Maximilian to write to Erasmus Teufel and others who are
+                            outside the Eger city walls to enter the city in case of danger. 2.
+                            András (Bonaventura) Báthori is in Transylvania, so there is nobody to
+                            soothe the nation. King Ferdinand I also knows what György Bebek has
+                            done recently. However, Oláh is very worried that from the cannons that
+                            were taken to Eger last summer, according to István Mekcsey’s report,
+                            only four smaller ones and five bigger ones are still there, the rest
+                            have been taken to Transylvania, Szolnok, and who knows where else. Oláh
+                            has ordered Dobó to recruit another 100 infantrymen. 3. He has read out
                             Báthori’s letter to Maximilian and had it translated into Latin, but he
                             forgot to send it to King Ferdinand I, he is sending it now. 4. He is
                             also sending the letter of the Councillors of the Royal Lieutenancy
@@ -192,104 +244,106 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Sacratissima Regia Maiestas, Domine, Domine Clementissime, fidelitatis
-                    et servitiorum meorum humillimam in gratiam Maiestatis Vestrae
+                <p xml:id="p.1">Sacratissima Regia Maiestas, Domine, Domine Clementissime,
+                    fidelitatis et servitiorum meorum humillimam in gratiam Maiestatis Vestrae
                     commendationem!</p>
-                <p>[1.] Credo serenissimum <persName>Maximilianum</persName> regem Boemiae
-                    etc. filium Sacratissimae Maiestatis Vestrae carissimum, dominum meum
+                <p xml:id="p.2">[1.] Credo serenissimum <persName>Maximilianum</persName> regem
+                    Boemiae etc. filium Sacratissimae Maiestatis Vestrae carissimum, dominum meum
                     clementissimum <del corresp="Olahus">et</del> ea, quae ad cancellariam
                     Germanicam in rebus Hungaricis et Turcicis quotidie veniunt, Sacratissimae
                     Maiestati Vestrae nota fecisse et facere. Ea vero, quae ad me veniunt, secundum
                     mandatum Sacratissimae Maiestatis Vestrae suae serenitati omnia communico. Quae
                     etiam sua serenitas etsi Sacratissimae Maiestati Vestrae perscribat, tamen ego
                     quoque volui eidem significare. Ex tribus his copiis litterarum<note
-                        type="critic">See Ep. 814., Ep. 816., and Ep.
-                        817.</note><ref>/o:olahus.tei.15520529_1</ref><ref>/o:olahus.tei.15520607_1</ref><ref>/o:olahus.tei.15520612_1</ref>
-                    <persName>Stephani Dobo</persName><note type="critic">István Dobó.</note>
-                    <choice>
+                        type="critic" xml:id="note.1">See Ep. 814., Ep. 816., and Ep.
+                            817.<ref>olahus.tei.15520529_1</ref></note><ref>/o:olahus.tei.15520607_1</ref><ref>/o:olahus.tei.15520612_1</ref><persName>Stephani
+                        Dobo</persName><note type="critic" xml:id="note.2">István Dobó.</note><choice>
                         <orig>praesentib<gap extent="unknown" reason="damage" unit="word"/>s</orig>
                         <supplied>praesentib<corr>u</corr>s</supplied>
                     </choice> annexis Sacratissima Maiestas Vestra intelligere dignabitur, quid de
-                        <persName>bassae Budensis</persName><note type="critic">Hadim Ali
-                        Pasha.</note> sinistris conatibus <choice>
+                        <persName>bassae Budensis</persName><note type="critic" xml:id="note.3"
+                        >Hadim Ali Pasha.</note> sinistris conatibus <choice>
                         <orig>scrib<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>scrib<corr>it</corr></supplied>
                     </choice>. Ad priores binas ipsius, tametsi antea quoque non intermisimus, quae
                     pro hoc tempore et scribi et ordinari potuerunt. Tamen hodie, cum postremas<note
-                        type="critic">See Ep. 817.</note><ref>/o:olahus.tei.15520612_1</ref> eius
-                    accepissem, serenissimus <persName>rex Boemiae</persName> me proponente et
-                    sollicitante hoc negotium scribi iussit et ad <persName>Erasmum
-                        Theyffel</persName><note type="critic">Erasmus Teufel.</note> et ad alios,
-                    qui <placeName>Agriae</placeName><note type="critic">Eger.</note> sunt extra
-                    arcem, (nam hi dicuntur palam dicere, quod etiam si obsidatur arx, nollent ad
-                    eam ingredi, nam non ad arcem, sed ad campum essent conducti), ut si opus
-                    fuerit, ingrediantur arcem. Similiter scribitur ad dominos et comitatus illarum
-                    partium, ut ipsi quoque solutos aliquos pedites in praesidium arcis mittant, et
-                    praeterea secundum ordinationem et conclusionem dietae Posoniensis parati sint
-                    et ipsi et personaliter et cum gentibus suis. </p>
-                <p>[2.] Haec, Domine Clementissime, ita facta sunt hodie, sed deest loco
-                        <persName>Andreae Bathori</persName> nunc in Transsilvania occupati in
+                        type="critic" xml:id="note.4">See Ep.
+                        817.<ref>olahus.tei.15520612_1</ref></note> eius accepissem, serenissimus
+                        <persName>rex Boemiae</persName> me proponente et sollicitante hoc negotium
+                    scribi iussit et ad <persName>Erasmum Theyffel</persName><note type="critic"
+                        xml:id="note.5">Erasmus Teufel.</note> et ad alios, qui
+                        <placeName>Agriae</placeName><note type="critic" xml:id="note.6"
+                        >Eger.</note> sunt extra arcem, (nam hi dicuntur palam dicere, quod etiam si
+                    obsidatur arx, nollent ad eam ingredi, nam non ad arcem, sed ad campum essent
+                    conducti), ut si opus fuerit, ingrediantur arcem. Similiter scribitur ad dominos
+                    et comitatus illarum partium, ut ipsi quoque solutos aliquos pedites in
+                    praesidium arcis mittant, et praeterea secundum ordinationem et conclusionem
+                    dietae Posoniensis parati sint et ipsi et personaliter et cum gentibus suis. </p>
+                <p xml:id="p.3">[2.] Haec, Domine Clementissime, ita facta sunt hodie, sed deest
+                    loco <persName>Andreae Bathori</persName> nunc in Transsilvania occupati in
                     partibus illis superioribus, <milestone unit="pb"/>qui levet gentes tempore
                     necessitatis. De qua re nuper me ad Sacratissimam Maiestatem Vestram scripsisse
-                        memini.<note type="critic">We do not know this letter.</note>
-                    <persName>Bebeck</persName><note type="critic">György Bebek.</note> autem quid
-                    hactenus fecerit, eadem cognovit. Hoc etiam me anxit, quod ex illis bombardis
-                    omnibus, quas Sacratissima Maiestas Vestra aestate superiore vel potius tertia
-                        <placeName>Agriam</placeName> miserat, non plures quam quatuor
-                        falconetas<note type="critic"><hi rend="italic">falconeta</hi>, i.e.
-                        ‘smaller cannon’, see <hi rend="smallcap">DuCange</hi> 1883.</note> et
-                    quintam maiorem paulo <placeName>Agriae</placeName>, sicuti his proximis diebus
-                        <persName>Stephanus Mekczey</persName><note type="critic">István
-                        Mekcsey.</note> mihi retulit, reliquerunt. Alias partim in Transsilvaniam,
-                    partim ad <placeName>Zolnok</placeName><note type="critic">Szolnok.</note> et
-                    nescio ad quae alia loca iampridem illinc abduxerunt. Ego quoque commisi
-                        <persName>Stephano Dobo</persName>, ut ultra illos equites et pedites
-                    ordinarios, quos ex proventibus partim episcopatus, partim ex superadditione
-                    Sacratissimae Maiestatis Vestrae istic habet, centum pedites ex meis propriis
-                    pecuniis conducat.</p>
-                <p>[3.] Dominus <persName>Andreas Bathori</persName> ex Bathor, quas ad me
-                    manu sua scripserat litteras Hungarice<note type="critic">Ep. 813. We only know
-                        this letter in Oláh’s translation.</note><ref>/o:olahus.tei.15520528_1</ref>
-                    ante profectionem suam in Transsilvaniam, eas serenissimo <persName>regi
-                        Boemiae</persName>, domino meo clementissimo perlegeram nuper et e lingua
-                    Hungarica in Latinam versas dederam. Arbitratus eas suam serenitatem
-                    Sacratissimae Maiestati Vestrae misisse, sed quia id ob plurimas occupationes,
-                    ut semper fieri solet, oblivioni datum esse intelligo, misi nunc Maiestati
-                    Vestrae, ut intelligere eius querelas dignetur. Et licet <del corresp="Olahus"
-                        >post</del><add corresp="Olahus" type="corr">tempore</add> ingressus quoque
-                        <del corresp="Olahus">suum</del><add corresp="Olahus" type="corr">sui</add>
-                    in Transsilvaniam litteras suas huc dederit, non tamen ab simili utitur etiam
-                    postea querela.</p>
-                <p>[4.] Praeterea, Sacratissime Rex, hodie litteras<note type="critic">Ep.
-                        818.</note><ref>/o:olahus.tei.15520615_1</ref> etiam dominorum
-                        <persName>locumtenentis</persName><note type="critic">Ferenc Révay.</note>
-                    et <persName>consiliariorum</persName>, qui <placeName>Posonii</placeName> sunt,
-                    accepi communi nomine subscriptas. Sigillum tamen aliorum non agnovi, quam
-                        <persName>Iauriensis</persName><note type="critic">Ferenc Újlaki.</note> et
-                        <persName>Zagrabiensis</persName>.<note type="critic">Pál
+                        memini.<note type="critic" xml:id="note.7">We do not know this
+                        letter.</note><persName>Bebeck</persName><note type="critic" xml:id="note.8"
+                        >György Bebek.</note> autem quid hactenus fecerit, eadem cognovit. Hoc etiam
+                    me anxit, quod ex illis bombardis omnibus, quas Sacratissima Maiestas Vestra
+                    aestate superiore vel potius tertia <placeName>Agriam</placeName> miserat, non
+                    plures quam quatuor falconetas<note type="critic" xml:id="note.9"><hi
+                            rend="italic">falconeta</hi>, i.e. ‘smaller cannon’, see <hi
+                            rend="smallcap">DuCange</hi> 1883.</note> et quintam maiorem paulo
+                        <placeName>Agriae</placeName>, sicuti his proximis diebus
+                        <persName>Stephanus Mekczey</persName><note type="critic" xml:id="note.10"
+                        >István Mekcsey.</note> mihi retulit, reliquerunt. Alias partim in
+                    Transsilvaniam, partim ad <placeName>Zolnok</placeName><note type="critic"
+                        xml:id="note.11">Szolnok.</note> et nescio ad quae alia loca iampridem
+                    illinc abduxerunt. Ego quoque commisi <persName>Stephano Dobo</persName>, ut
+                    ultra illos equites et pedites ordinarios, quos ex proventibus partim
+                    episcopatus, partim ex superadditione Sacratissimae Maiestatis Vestrae istic
+                    habet, centum pedites ex meis propriis pecuniis conducat.</p>
+                <p xml:id="p.4">[3.] Dominus <persName>Andreas Bathori</persName> ex Bathor, quas ad
+                    me manu sua scripserat litteras Hungarice<note type="critic" xml:id="note.12"
+                        >Ep. 813. We only know this letter in Oláh’s
+                            translation.<ref>olahus.tei.15520528_1</ref></note> ante profectionem
+                    suam in Transsilvaniam, eas serenissimo <persName>regi Boemiae</persName>,
+                    domino meo clementissimo perlegeram nuper et e lingua Hungarica in Latinam
+                    versas dederam. Arbitratus eas suam serenitatem Sacratissimae Maiestati Vestrae
+                    misisse, sed quia id ob plurimas occupationes, ut semper fieri solet, oblivioni
+                    datum esse intelligo, misi nunc Maiestati Vestrae, ut intelligere eius querelas
+                    dignetur. Et licet <del corresp="Olahus">post</del><add corresp="Olahus"
+                        type="corr">tempore</add> ingressus quoque <del corresp="Olahus"
+                        >suum</del><add corresp="Olahus" type="corr">sui</add> in Transsilvaniam
+                    litteras suas huc dederit, non tamen ab simili utitur etiam postea querela.</p>
+                <p xml:id="p.5">[4.] Praeterea, Sacratissime Rex, hodie litteras<note type="critic"
+                        xml:id="note.13">Ep. 818.<ref>olahus.tei.15520615_1</ref></note> etiam
+                    dominorum <persName>locumtenentis</persName><note type="critic" xml:id="note.14"
+                        >Ferenc Révay.</note> et <persName>consiliariorum</persName>, qui
+                        <placeName>Posonii</placeName> sunt, accepi communi nomine subscriptas.
+                    Sigillum tamen aliorum non agnovi, quam <persName>Iauriensis</persName><note
+                        type="critic" xml:id="note.15">Ferenc Újlaki.</note> et
+                        <persName>Zagrabiensis</persName>.<note type="critic" xml:id="note.16">Pál
                         Gregorjánczy.</note> Praeter enim hos duos alios consiliarios ordinarios
                         <milestone unit="pb"/>nunc <placeName>Posonii</placeName> neminem esse
-                    audio. <persName>Merey</persName><note type="critic">Mihály Mérey.</note> est in
-                    castello suo <placeName>Eberhard</placeName> prorogatis iampridem iudiciis. Nos
-                    eos huc vocamus, ipsi vero nos eo vocant. Et quia rogaverunt me, ut apud
-                    Sacratissimam Vestram Maiestatem secundum eorum opinionem supplicarem, non
-                    putavi esse alienum, si litteras eorum proprias in specie ad Sacratissimam
-                    Maiestatem Vestram mitterem. Quae gratiose providere dignabitur, quid ulterius
-                    sit faciendum. Deus optimus maximus Sacratissimam Maiestatem Vestram diutissime
-                    felicem et incolumem conservare et cito cum omnium rerum prospero tractatu ac
-                    fine ad nos reducere dignetur. In cuius gratiam me et fidelia servitia mea
-                    iterum atque iterum unice commendo.</p>
-                <p>Ex <placeName>Wienna</placeName> 17. Iunii anno 1552.</p>
-                <p>Eiusdem Sacratissimae Maiestatis Vestrae fidelis et humilis servitor et
-                    capellanus</p>
-                <p>
+                    audio. <persName>Merey</persName><note type="critic" xml:id="note.17">Mihály
+                        Mérey.</note> est in castello suo <placeName>Eberhard</placeName> prorogatis
+                    iampridem iudiciis. Nos eos huc vocamus, ipsi vero nos eo vocant. Et quia
+                    rogaverunt me, ut apud Sacratissimam Vestram Maiestatem secundum eorum opinionem
+                    supplicarem, non putavi esse alienum, si litteras eorum proprias in specie ad
+                    Sacratissimam Maiestatem Vestram mitterem. Quae gratiose providere dignabitur,
+                    quid ulterius sit faciendum. Deus optimus maximus Sacratissimam Maiestatem
+                    Vestram diutissime felicem et incolumem conservare et cito cum omnium rerum
+                    prospero tractatu ac fine ad nos reducere dignetur. In cuius gratiam me et
+                    fidelia servitia mea iterum atque iterum unice commendo.</p>
+                <p xml:id="p.6">Ex <placeName>Wienna</placeName> 17. Iunii anno 1552.</p>
+                <p xml:id="p.7">Eiusdem Sacratissimae Maiestatis Vestrae fidelis et humilis servitor
+                    et capellanus</p>
+                <p xml:id="p.8">
                     <seg type="signature">Agriensis etc. manu propria</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Sacratissimae maiestati regiae Romanorum Hungariae et Boemiae etc.
+                <p xml:id="p.9">Sacratissimae maiestati regiae Romanorum Hungariae et Boemiae etc.
                     domino, domino meo clementissimo.</p>
             </div>
         </body>

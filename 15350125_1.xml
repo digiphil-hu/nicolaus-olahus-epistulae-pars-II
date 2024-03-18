@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">526</title>
-                <title type="main">Miklós Oláh to Jodocus Hoetfilter (Brussels, 25 January
-                    1535)</title>
+                <title key="body" n="526" type="main">Miklós Oláh to Jodocus Hoetfilter (Brussels,
+                    25 January 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15350125_1</idno>
-                
+                <idno type="PID">olahus.tei.15350125_1</idno>
+                <idno type="ITIdata">Q473186</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15350125_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 542–543.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 542–543.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,66 +203,63 @@
             </textClass>
             <creation>
                 <date when="1535-01-25">25 January 1535</date>
-                <placeName>Brussels</placeName>
+                <placeName>Brussels<idno type="ITIdata">Q361</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh </persName>
-                    <orgName/>
+                    <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Jodocus Hoetfilter</persName>
-                    <orgName/>
+                    <persName>Jodocus Hoetfilter<idno type="ITIdata">Q470330</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Jodocus Hoetfilter (Brussels, 25 January
                     1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Their mutual friend, Johannes Stanshardus has shown him Hodfilter’s
-                            letter, according to which Hodfilter is looking after Oláh’s affairs –
-                            although Oláh has not even asked him to do so. This is a sign of true
-                            friendship, and he hopes that he will be able to return the favor one
-                            day. As to Oláh’s possessions, he hopes that if Hungary is not
+                        <p xml:id="reg.p.1">Their mutual friend, Johannes Stanshardus has shown him
+                            Hodfilter’s letter, according to which Hodfilter is looking after Oláh’s
+                            affairs – although Oláh has not even asked him to do so. This is a sign
+                            of true friendship, and he hopes that he will be able to return the
+                            favor one day. As to Oláh’s possessions, he hopes that if Hungary is not
                             completely destroyed, he will get them back one day, but not due to fear
                             but because he fulfilled his duties at the court. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Nicolai Olai ad Iodocum Hothfelther<note type="critic">Jodocus
-                        Hoetfilter or Jodokus Hodfilter (1500–1551) was Provost of Lübeck from 1533
-                        and became Bishop of Lübeck in 1548. He graduated from Cologne and became
-                        Secretary of Lorenzo Campeggio during his journey through Germany. For more
-                        on his life, see <hi rend="smallcap">Illigens</hi> 1896, 9–10; <hi
-                            rend="smallcap">Kötter</hi> 1993, 334.</note> dominum dominum
-                    praepositum Lubicensem et ad gradus Moguntinenses, secretarium cardinalis
-                        Campegii.<note type="critic">Lorenzo Campeggio.</note></p>
+                <p xml:id="p.1">Nicolai Olai ad Iodocum Hothfelther<note type="critic"
+                        xml:id="note.1">Jodocus Hoetfilter or Jodokus Hodfilter (1500–1551) was
+                        Provost of Lübeck from 1533 and became Bishop of Lübeck in 1548. He
+                        graduated from Cologne and became Secretary of Lorenzo Campeggio during his
+                        journey through Germany. For more on his life, see <hi rend="smallcap"
+                            >Illigens</hi> 1896, 9–10; <hi rend="smallcap">Kötter</hi> 1993,
+                        334.</note> dominum dominum praepositum Lubicensem et ad gradus
+                    Moguntinenses, secretarium cardinalis Campegii.<note type="critic"
+                        xml:id="note.2">Lorenzo Campeggio.</note></p>
                 <pb/>
-                <p><persName>Iohannes Stanshardus</persName><note type="critic">We do not
-                        know him more closely, see Ep. 375. Note 9.</note> utriusque nostrum amicus
-                    ostendit mihi litteras tuas ad eum datas,<note type="critic">We do not know this
-                        letter.</note> in quibus scripsisti te meam rem curae habere et cupere mihi
-                    gratificari. Habeo tibi gratias cumulatas, qui nullo a me officio amicitiae
-                    provocatus, tam humane operam tuam mihi pollicearis. Ea semper est verae
-                    humanitatis laus, ut etiam eorum, quos licet non norimus, tamen nosse velimus,
-                    nobis cordi sint negotia. Si quid vicissim esset, in quo animi mei erga te grati
-                    argumentum declarare possem, nihil hoc facerem libentius., in quibus scripsisti
-                    te meam rem curae habere et cupere mihi gratificari. Habeo tibi gratias
-                    cumulatas, qui nullo a me officio amicitiae provocatus, tam humane operam tuam
-                    mihi pollicearis. Ea semper est verae humanitatis laus, ut etiam eorum, quos
-                    licet non norimus, tamen nosse velimus, nobis cordi sint negotia. Si quid
-                    vicissim esset, in quo animi mei erga te grati argumentum declarare possem,
-                    nihil hoc facerem libentius.</p>
-                <p>In rebus meis etsi nunc profligatis et in hostium manus devolutis,
+                <p xml:id="p.2"><persName>Iohannes Stanshardus</persName><note type="critic"
+                        xml:id="note.3">We do not know him more closely, see Ep. 375. Note 9.</note>
+                    utriusque nostrum amicus ostendit mihi litteras tuas ad eum datas,<note
+                        type="critic" xml:id="note.4">We do not know this letter.</note> in quibus
+                    scripsisti te meam rem curae habere et cupere mihi gratificari. Habeo tibi
+                    gratias cumulatas, qui nullo a me officio amicitiae provocatus, tam humane
+                    operam tuam mihi pollicearis. Ea semper est verae humanitatis laus, ut etiam
+                    eorum, quos licet non norimus, tamen nosse velimus, nobis cordi sint negotia. Si
+                    quid vicissim esset, in quo animi mei erga te grati argumentum declarare possem,
+                    nihil hoc facerem libentius., in quibus scripsisti te meam rem curae habere et
+                    cupere mihi gratificari. Habeo tibi gratias cumulatas, qui nullo a me officio
+                    amicitiae provocatus, tam humane operam tuam mihi pollicearis. Ea semper est
+                    verae humanitatis laus, ut etiam eorum, quos licet non norimus, tamen nosse
+                    velimus, nobis cordi sint negotia. Si quid vicissim esset, in quo animi mei erga
+                    te grati argumentum declarare possem, nihil hoc facerem libentius.</p>
+                <p xml:id="p.3">In rebus meis etsi nunc profligatis et in hostium manus devolutis,
                     tamen ut spes mihi est, si tota Hungaria non peribit, aliquando <del
                         corresp="Olahus">rediturus</del><add corresp="Olahus" type="corr"
                         >redituris</add> suam sententiam perscribet idem
@@ -216,12 +269,11 @@
                     me non pluris, quam re ipsa <choice>
                         <orig>sunt</orig>
                         <supplied>sint</supplied>
-                    </choice>
-                    <add corresp="Olahus" type="insert">ferenda esse</add> edocuerunt), sed ut
-                    curiae nostrae <del corresp="Olahus">quantumvis</del> Romanae legibus videar
+                    </choice><add corresp="Olahus" type="insert">ferenda esse</add> edocuerunt), sed
+                    ut curiae nostrae <del corresp="Olahus">quantumvis</del> Romanae legibus videar
                     satisfecisse, et nostros Hungaros, qui nunc ob Turcae vicinitatem non magnopere
                     talia curant, hac re vicisse. Vale feliciter et me habe commendatum. </p>
-                <p><placeName>Bruxellae</placeName> 25. Ianuarii 1535.</p>
+                <p xml:id="p.4"><placeName>Bruxellae</placeName> 25. Ianuarii 1535.</p>
             </div>
         </body>
     </text>

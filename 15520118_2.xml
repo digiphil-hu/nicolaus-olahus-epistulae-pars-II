@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">802</title>
-                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 18 January
-                    1552)</title>
+                <title key="body" n="802" type="main">Hungarian Chamber to Miklós Oláh (Bratislava,
+                    18 January 1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520118_2</idno>
-                
+                <idno type="PID">olahus.tei.15520118_2</idno>
+                <idno type="ITIdata">Q473460</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520118_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,37 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original draft with appendix on the fol. 2.
+                    <p><hi rend="italic">Notes:</hi> Original draft with appendix on the fol. 2.
                     </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"/>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,64 +202,60 @@
             </textClass>
             <creation>
                 <date when="1552-01-18">18 January 1552</date>
-                <placeName>Bratislava</placeName>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Hungarian Chamber</persName>
-                    <orgName/>
+                    <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Milkós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 18 January
                     1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>The farmers belonging to the King’s castle in Čabraď are complaining
-                            again about János Krusics’s cruelty and ask him not to abandon them in
-                            this predicament and support them. They have written to the King,
-                            although reluctantly, lest he thinks they are guided by anger, so they
-                            ask Oláh to support these unfortunate people and not only remove this
-                            godless person but also punish him because these unfortunate people do
-                            not even dare open their mouth any more, Krusics punishes their envoys
-                            ruthlessly.</p>
+                        <p xml:id="reg.p.1">The farmers belonging to the King’s castle in Čabraď are
+                            complaining again about János Krusics’s cruelty and ask him not to
+                            abandon them in this predicament and support them. They have written to
+                            the King, although reluctantly, lest he thinks they are guided by anger,
+                            so they ask Oláh to support these unfortunate people and not only remove
+                            this godless person but also punish him because these unfortunate people
+                            do not even dare open their mouth any more, Krusics punishes their
+                            envoys ruthlessly.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendissime Domine, Domine et Patrone nobis Observandissime,
+                <p xml:id="p.1">Reverendissime Domine, Domine et Patrone nobis Observandissime,
                     servitiorum nostrorum commendationem!</p>
-                <p>En iterum venerunt huc coloni <persName>maiestatis regiae</persName> sacrae ex
-                    pertinentiis arcis <placeName>Chabrag</placeName><note type="critic"
-                        >Čabraď.</note> novas adferentes querelas de immanitate ac crudelitate
-                    ipsius <persName>Ioannis Krwsith</persName> rogantque propter Deum, ne eos in
-                    tantis calamitatibus deseramus, sed ipsos omni nostro auxilio iuvemus, si quo
-                    modo a tantis cruciatibus aliquod suspirium eis impetrare possimus. Scripsimus
-                    per annexas ad maiestatem suam, quamquam inviti, ne id nos aliquo modo affectu
-                    potius maiestas sua, quam re ipsa inductos facere existimet. Quamobrem et
-                    Reverendissimam Dominationem Vestram hac in parte vehementer oramus, <del
-                        corresp="author">istorum miserorum causam suscipere ac per occasionem apud
-                        maiestatem suam instare velit, ut tandem sua maiestas aliquando de istorum
-                        ex istius crudelis hominis tyrannide gratiosa eliberatione cogitare dignetur
-                        atque illum tyrannum aut alio transferre aut eius libidinem opprimendi
-                        coercere ac retundere velit. Qui ex inquisitione de sua crudelitate ex
-                        voluntate et mandato maiestatis regiae nuper facta, non modo nulla
-                        poenitudine ducitur, sed multo crudelior et miseris colonis intolerabilior
-                        est redditus et factus, ut plane cum quadam admiratione nobis est, quod
-                        maiestas sua regia tot de istius hominis immanitate, querelas silentio
-                        praeterire potest.</del><add corresp="author" type="corr">dignetur bonum
-                        patronum agere miserorum istorum idque Dei et pietatis respectu et per
+                <p xml:id="p.2">En iterum venerunt huc coloni <persName>maiestatis regiae</persName>
+                    sacrae ex pertinentiis arcis <placeName>Chabrag</placeName><note type="critic"
+                        xml:id="note.1">Čabraď.</note> novas adferentes querelas de immanitate ac
+                    crudelitate ipsius <persName>Ioannis Krwsith</persName> rogantque propter Deum,
+                    ne eos in tantis calamitatibus deseramus, sed ipsos omni nostro auxilio iuvemus,
+                    si quo modo a tantis cruciatibus aliquod suspirium eis impetrare possimus.
+                    Scripsimus per annexas ad maiestatem suam, quamquam inviti, ne id nos aliquo
+                    modo affectu potius maiestas sua, quam re ipsa inductos facere existimet.
+                    Quamobrem et Reverendissimam Dominationem Vestram hac in parte vehementer
+                    oramus, <del corresp="author">istorum miserorum causam suscipere ac per
+                        occasionem apud maiestatem suam instare velit, ut tandem sua maiestas
+                        aliquando de istorum ex istius crudelis hominis tyrannide gratiosa
+                        eliberatione cogitare dignetur atque illum tyrannum aut alio transferre aut
+                        eius libidinem opprimendi coercere ac retundere velit. Qui ex inquisitione
+                        de sua crudelitate ex voluntate et mandato maiestatis regiae nuper facta,
+                        non modo nulla poenitudine ducitur, sed multo crudelior et miseris colonis
+                        intolerabilior est redditus et factus, ut plane cum quadam admiratione nobis
+                        est, quod maiestas sua regia tot de istius hominis immanitate, querelas
+                        silentio praeterire potest.</del><add corresp="author" type="corr">dignetur
+                        bonum patronum agere miserorum istorum idque Dei et pietatis respectu et per
                         occasionem apud maiestatem regiam efficere, ut re ipsa, si ita placeat <del
                             corresp="author">certe</del> denuo explorata non solum removeat nefarium
                         hominem, sed puniri de iure faciat, eo iam miseros redegit, ut ne hiscere
@@ -215,19 +268,18 @@
                     benignum praestiterit patronum. Id quod ipsam <add corresp="author"
                         type="insert">benigne</add> facturam esse confidimus, quam et feliciter
                     valere optamus.</p>
-                <p><placeName>Posonii</placeName> die 18. Ianuarii 1552.</p>
-                <p>Reverendissimae Dominationis Vestrae deditissimi servitores</p>
-                <p>
+                <p xml:id="p.3"><placeName>Posonii</placeName> die 18. Ianuarii 1552.</p>
+                <p xml:id="p.4">Reverendissimae Dominationis Vestrae deditissimi servitores</p>
+                <p xml:id="p.5">
                     <seg type="signature">Camerae Hungaricae consiliarii.</seg>
                 </p>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <pb/>
                 <head>On the outer side:</head>
-                <p>Reverendissimo domino Nicolao Olaho episcopo ecclesiae Agriensis, sacrae regiae
-                    maiestatis consiliario ac regni Hungariae summo cancellario etc. domino et
-                    patrono nobis observandissimo.</p>
-                
+                <p xml:id="p.6">Reverendissimo domino Nicolao Olaho episcopo ecclesiae Agriensis,
+                    sacrae regiae maiestatis consiliario ac regni Hungariae summo cancellario etc.
+                    domino et patrono nobis observandissimo.</p>
             </div>
         </body>
     </text>

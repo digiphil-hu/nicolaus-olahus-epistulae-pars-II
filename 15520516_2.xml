@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">808</title>
-                <title type="main">Antal Verancsics to Miklós Oláh (Pornó[apáti], 16 May
-                    1552)</title>
+                <title key="body" n="808" type="main">Antal Verancsics to Miklós Oláh (Pornó[apáti],
+                    16 May 1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520516_2</idno>
-                
+                <idno type="PID">olahus.tei.15520516_2</idno>
+                <idno type="ITIdata">Q473466</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520516_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,38 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Author’s copy with autograph emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Szalay</hi> 1865, 177–179.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Szalay</hi> 1865, 177–179.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -133,11 +128,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,53 +202,50 @@
             </textClass>
             <creation>
                 <date when="1552-05-16">16 May 1552</date>
-                <placeName>Pornó[apáti]</placeName>
+                <placeName>Pornó[apáti]<idno type="ITIdata">Q17291</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Antal Verancsics</persName>
-                    <orgName/>
+                    <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Antal Verancsics to Miklós Oláh (Pornó[apáti], 16 May
                     1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He will savour the joys of country life until Oláh returns, which look
-                            now, in his 48<hi rend="super">th</hi> year, particularly spectacular.
-                            He has namely so little money left that he cannot afford court life. To
-                            put it bluntly, if he did not have his estate in Pornóapáti, and the
-                            court does not support him, he is afraid he will be destitute. After so
-                            much injustice he wants to grow old at home, not at the court, where
-                            beggars and parasites are the ones who thrive. 2. He has spent the last
-                            three months in Vienna and Bratislava, which cost him 260 groats; he
-                            also tried to borrow money, but nobody wants to lend to him on account
-                            of the war. 3. However, he has a lot of expenses: he had to fortify
-                            Pornóapáti with a bulwark and take care of the guards; he has to provide
-                            cavalry according to the number of farmers, he has to support himself
-                            and his family, and no income has arrived from Pornóapáti so far,
-                            although he already took it over six months ago. He does not even want
-                            to mention that he also owes his predecessor 128 groats; he is
-                            constantly fighting with the creditors. He does not want to lose Oláh’s
-                            benevolence, he will go wherever Oláh tells him to go. </p>
+                        <p xml:id="reg.p.1">1. He will savour the joys of country life until Oláh
+                            returns, which look now, in his 48<hi rend="super">th</hi> year,
+                            particularly spectacular. He has namely so little money left that he
+                            cannot afford court life. To put it bluntly, if he did not have his
+                            estate in Pornóapáti, and the court does not support him, he is afraid
+                            he will be destitute. After so much injustice he wants to grow old at
+                            home, not at the court, where beggars and parasites are the ones who
+                            thrive. 2. He has spent the last three months in Vienna and Bratislava,
+                            which cost him 260 groats; he also tried to borrow money, but nobody
+                            wants to lend to him on account of the war. 3. However, he has a lot of
+                            expenses: he had to fortify Pornóapáti with a bulwark and take care of
+                            the guards; he has to provide cavalry according to the number of
+                            farmers, he has to support himself and his family, and no income has
+                            arrived from Pornóapáti so far, although he already took it over six
+                            months ago. He does not even want to mention that he also owes his
+                            predecessor 128 groats; he is constantly fighting with the creditors. He
+                            does not want to lose Oláh’s benevolence, he will go wherever Oláh tells
+                            him to go. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem. </p>
-                <p>[1.] Quod nondum redeo rure in aulam teque tot redeundi teneo
+                <p xml:id="p.1">Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem. </p>
+                <p xml:id="p.2">[1.] Quod nondum redeo rure in aulam teque tot redeundi teneo
                     comperendi nationibus, in causa est non tam studium rusticandi, quod quidem
                     alioqui iucundissimum est, meque ab ineunte aetate mirifice semper delectavit,
                     videturque etiam huic aetati luculenter arridere, quae iam XLVIII. anno ad
@@ -201,10 +254,11 @@
                     nitori ac sumptui aulico pro conditione mea sufficere deberet. Quod fatendum aut
                     erit mihi pudori, aut tu secus accipies, iuxta putabo, quia sic se res istaec
                     habet. Ac dico clarius, quod nisi in <placeName>Pornoniano</placeName><note
-                        type="critic">Verancsics received the Abbey of Pornó on 10 October, 1551,
-                        see <hi rend="smallcap">Ludiková</hi> 2002, 93.</note> rusticationem
-                    diligenter frequentaro, nec aula commode mihi excoletur, et timendum etiam erit,
-                    ne in <milestone unit="pb"/><quote>Codri fabulam</quote><note type="quote">Cf. Erasm. <hi
+                        type="critic" xml:id="note.1">Verancsics received the Abbey of Pornó on 10
+                        October, 1551, see <hi rend="smallcap">Ludiková</hi> 2002, 93.</note>
+                    rusticationem diligenter frequentaro, nec aula commode mihi excoletur, et
+                    timendum etiam erit, ne in <milestone unit="pb"/><quote xml:id="quote.1">Codri
+                        fabulam</quote><note type="quote" xml:id="note.quote.1">Cf. Erasm. <hi
                             rend="italic">Adag</hi>. 4079. V, I, 79. Salacones: “Irus et Codrus ob
                         inopiam in vulgi fabulam abierunt.” And <hi rend="italic">Ibid</hi>. 576. I,
                         VI, 76. Iro, Codro pauperior: “Tota domus Codri rheda componitur
@@ -213,20 +267,21 @@
                     domique demum vellem <del corresp="author">conquiescere</del><add
                         corresp="author" type="corr">consenescere</add>, non in aula, in qua quidem
                     mecum non sic agitur, ut cum eis, de quibus est paroemia:<note type="critic"
-                        >From the Greek word πάροιμος meaning ‘proverb’.</note>
-                    <quote>qui eget, in turba versetur</quote><note type="quote">Erasm. <hi
-                            rend="italic">Adag</hi>. 2945. III, X, 45.</note> – mendicorum haec est
-                    et parasitarum conditio. Nos in aula erogamus, non corrogamus, ceterum et nostro
-                    foco et nostro domicenio gaudemus, vehimurque ea rheda, quae domestica cura ac
-                    censu fovetur. </p>
-                <p>[2.] Unde proximis quoque tribus mensibus, quos exegi
+                        xml:id="note.2">From the Greek word πάροιμος meaning ‘proverb’.</note><quote
+                        xml:id="quote.2">qui eget, in turba versetur</quote><note type="quote"
+                        xml:id="note.quote.2">Erasm. <hi rend="italic">Adag</hi>. 2945. III, X,
+                        45.</note> – mendicorum haec est et parasitarum conditio. Nos in aula
+                    erogamus, non corrogamus, ceterum et nostro foco et nostro domicenio gaudemus,
+                    vehimurque ea rheda, quae domestica cura ac censu fovetur. </p>
+                <p xml:id="p.3">[2.] Unde proximis quoque tribus mensibus, quos exegi
                         <placeName>Viennae</placeName> et <placeName>Posonii</placeName> comitiorum
                     tempore, insumpsi CCLX ducales nummos, ex quibus ne oboli quidem fructus in
-                    arcam mihi <milestone unit="pb"/>rediit. Vide, quaeso, iacturam ac tibi persuadeas, velim, quod eiusmodi
-                    summam, si singuli tres menses hac ratione <add corresp="author" type="insert"
-                        >mihi</add> haurire debebunt, brevi equidem exhauriar ad quadrantem, et
-                    frustra tandem etiam <placeName>Pornoianum</placeName> colam. Neque enim
-                    aequatur felicitate caeli Alcinoi pomariis.<note type="critic">Based on Homer’s
+                    arcam mihi <milestone unit="pb"/>rediit. Vide, quaeso, iacturam ac tibi
+                    persuadeas, velim, quod eiusmodi summam, si singuli tres menses hac ratione <add
+                        corresp="author" type="insert">mihi</add> haurire debebunt, brevi equidem
+                    exhauriar ad quadrantem, et frustra tandem etiam
+                        <placeName>Pornoianum</placeName> colam. Neque enim aequatur felicitate
+                    caeli Alcinoi pomariis.<note type="critic" xml:id="note.3">Based on Homer’s
                         description in the Odyssey, garden of Alcinous was portrayed as an ideal of
                         rustic aesthetics and abundance in the antique literature.</note> Unico vere
                     atque unica aestate contentum est. At dicet forsan aulicus alieno <del
@@ -236,8 +291,9 @@
                     contrahendo, adeo hoc tempore omnium hominum manus restrictae sunt metu
                     futurorum ob suspicionem belli Turcici. Marmoreas sane vel ileceas dixeris.
                     Habes de meo aere et de difficultate pecuniae comparandae. </p>
-                <p>[3.] Accipe iam, <milestone unit="pb"/>quot me manent impendia. Vallo imprimis et propugnaculis muniendum est
-                    mihi rebusque defensivis et praesidio militari, vigilumque custodiis instruendum
+                <p xml:id="p.4">[3.] Accipe iam, <milestone unit="pb"/>quot me manent impendia.
+                    Vallo imprimis et propugnaculis muniendum est mihi rebusque defensivis et
+                    praesidio militari, vigilumque custodiis instruendum
                         <placeName>Pornonium</placeName>. Equitatus deinde pro numero colonorum ad
                     primam expeditionem, ut in comitiis decretum est, meo ipsius aere apparandus.
                     Quotidiani item sumptus provida quadam et nimis ingeniosa industria acquirendi,
@@ -250,33 +306,35 @@
                         <placeName>Viennae</placeName> ad necessarios usus contracta, ad quae
                     persolvenda assidua vexatione agor a creditoribus. </p>
                 <pb/>
-                <p>Taceo de CXXVIII nummis ducalibus, quos <persName>Petro
-                        Cucelio</persName><note type="critic">Péter Kucselith or Kucsilics (†1580)
-                        was Canon of Eger and Provost of Oradea, see <hi rend="smallcap"
-                            >Merényi-Metzger</hi> 2002, 172 and 175.</note> antecessori meo, tuo
-                    vero ab orandis canonicis horis <del corresp="author">orandi</del> ministro ad
-                    primum Kalendae Quintilis<note type="critic">The old Latin name of the month of
-                        July.</note> debeo numerare. Cui quidem nisi ad diem satisfecero, ad
-                    Garamantes erit mihi recedendum, adeo infantiles furias levissimi hominis
-                    reformido. Verum quantum velint, urgeant me creditores, eiulet, queratur, diem
+                <p xml:id="p.5">Taceo de CXXVIII nummis ducalibus, quos <persName>Petro
+                        Cucelio</persName><note type="critic" xml:id="note.4">Péter Kucselith or
+                        Kucsilics (†1580) was Canon of Eger and Provost of Oradea, see <hi
+                            rend="smallcap">Merényi-Metzger</hi> 2002, 172 and 175.</note>
+                    antecessori meo, tuo vero ab orandis canonicis horis <del corresp="author"
+                        >orandi</del> ministro ad primum Kalendae Quintilis<note type="critic"
+                        xml:id="note.5">The old Latin name of the month of July.</note> debeo
+                    numerare. Cui quidem nisi ad diem satisfecero, ad Garamantes erit mihi
+                    recedendum, adeo infantiles furias levissimi hominis reformido. Verum quantum
+                    velint, urgeant me creditores, eiulet, queratur, diem
                         <persName>Petrus</persName> dicat, <placeName>Pornonium</placeName> plura
                     exigat, et Turcarum minae cervicibus immineant, ego quidem certe nullo alio
                     pacto credo me tantis <del corresp="author">rebus</del><add corresp="author"
-                        type="corr">debitis</add>
-                    <add corresp="author" type="insert">atque impensis</add> suffectibus, quam si
-                    fortuna quapiam in Euclionis Plautini<note type="critic">I.e. <hi rend="italic"
+                        type="corr">debitis</add><add corresp="author" type="insert">atque
+                        impensis</add> suffectibus, quam si fortuna quapiam in Euclionis
+                        Plautini<note type="critic" xml:id="note.6">I.e. <hi rend="italic"
                             >Aulularia.</hi></note> ollam incidero, aut domi rusticando, parsimonia
                     enitar pecuniarum aliquid cumulare, cum alioqui haec mea profecto <del
                         corresp="author">abs</del><add corresp="author" type="corr">a</add> te
-                    absentia insuavissime sane et molesta mihi est, <milestone unit="pb"/>dum omnibus horis mecum trepidero, ne incurram in tuam malevolentiam,
-                    tanquam quorumdam aliorum tuorum ingenio uti vellem, quo me per has occasiones
-                    subducere vellem tuis obsequiis. Quod in me quidem nunquam est casurum, donec
-                    alter nostrum decesserit, utar licet et fortuna et libertate regia. At ne quid
-                    nimis agam cum tua erga me indulgentia, quae mihi deesse nunquam est solita,
+                    absentia insuavissime sane et molesta mihi est, <milestone unit="pb"/>dum
+                    omnibus horis mecum trepidero, ne incurram in tuam malevolentiam, tanquam
+                    quorumdam aliorum tuorum ingenio uti vellem, quo me per has occasiones subducere
+                    vellem tuis obsequiis. Quod in me quidem nunquam est casurum, donec alter
+                    nostrum decesserit, utar licet et fortuna et libertate regia. At ne quid nimis
+                    agam cum tua erga me indulgentia, quae mihi deesse nunquam est solita,
                     beneficentia vero et patrocinium semper adest, tuae me summitto voluntati et
                     committo iudicio, maneboque in Pornoniano meo et tuo, quamdiu indulseris; redibo
                     quando iusseris; et ubi me esse volueris, praesto, ibi adero. Vale. </p>
-                <p>XVI. Maii 1552. Ex <placeName>Pornoniano</placeName>. </p>
+                <p xml:id="p.6">XVI. Maii 1552. Ex <placeName>Pornoniano</placeName>. </p>
             </div>
         </body>
     </text>

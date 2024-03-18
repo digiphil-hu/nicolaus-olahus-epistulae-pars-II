@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">811</title>
-                <title type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 26 May 1552)</title>
+                <title key="body" n="811" type="main">Miklós Oláh to Tamás Nádasdy (Vienna, 26 May
+                    1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520526_1</idno>
-                
+                <idno type="PID">olahus.tei.15520526_1</idno>
+                <idno type="ITIdata">Q473469</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520526_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Autograph letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,47 +201,43 @@
             </textClass>
             <creation>
                 <date when="1552-05-26">26 May 1552</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Tamás Nádasdy</persName>
-                    <orgName/>
+                    <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Tamás Nádasdy (Vienna, 26 May 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>The councillors of the Chamber are making a mistake when they are not
-                            sending Tamás Nádasdy his money when they should. Maurice, Elector of
-                            Saxony has occupied Udine through deceit, forgetting about his faith and
-                            office; the Emperor still holds Ulm and Augsburg. Albert Alcibiades has
-                            accepted the capitulation of Nuremberg, he is said to have burned down
-                            the surrounding area almost completely. The French King advanced to
-                            Speyer, but when he heard there that a city in Lorraine was under
-                            attack, he retreated to liberate that city. When the Emperor heard about
-                            the occupation of Udine, he traveled to Bruneck. The King is
+                        <p xml:id="reg.p.1">The councillors of the Chamber are making a mistake when
+                            they are not sending Tamás Nádasdy his money when they should. Maurice,
+                            Elector of Saxony has occupied Udine through deceit, forgetting about
+                            his faith and office; the Emperor still holds Ulm and Augsburg. Albert
+                            Alcibiades has accepted the capitulation of Nuremberg, he is said to
+                            have burned down the surrounding area almost completely. The French King
+                            advanced to Speyer, but when he heard there that a city in Lorraine was
+                            under attack, he retreated to liberate that city. When the Emperor heard
+                            about the occupation of Udine, he traveled to Bruneck. The King is
                             accompanying the Bishop of Trento to Padua, and they are expecting
                             Maurice to come there to negotiate.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Servitiorum meorum commendationem, Spectabilis Magnifice Domine et
+                <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis Magnifice Domine et
                     Frater Observandissime! </p>
-                <p>Domini camerarii male habeant, quod <choice>
+                <p xml:id="p.2">Domini camerarii male habeant, quod <choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>niam</orig>
                         <supplied><corr>pecu</corr>niam</supplied>
                     </choice> Dominationi Vestrae non miserint, <choice>
@@ -195,17 +247,17 @@
                         <orig><gap extent="unknown" reason="damage" unit="word"/>ova</orig>
                         <supplied><corr>N</corr>ova</supplied>
                     </choice> haec sunt. <persName>Dux Mauritius</persName><note type="critic"
-                        >Maurice, Elector of Saxony.</note>
-                    <choice>
+                        xml:id="note.1">Maurice, Elector of Saxony.</note><choice>
                         <orig>f<gap extent="unknown" reason="damage" unit="word"/>i</orig>
                         <supplied>f<corr>ide</corr>i</supplied>
                     </choice> et officii sui immemor, <placeName>Clusam</placeName><note
-                        type="critic">Probably Udine.</note> arcem regiae maiestatis ad ostium
-                    Tyrolis versus <placeName>Augustam</placeName><note type="critic"
-                        >Augsburg.</note> existentem astu nuper accepit, <placeName>Ulma</placeName>
-                    et <placeName>Argentina</placeName><note type="critic">Strasbourg.</note>
-                    strenue et constanter in fide caesaris permansit. <persName>Marchio
-                        Albertus</persName><note type="critic">Albert Alcibiades, Margrave of
+                        type="critic" xml:id="note.2">Probably Udine.</note> arcem regiae maiestatis
+                    ad ostium Tyrolis versus <placeName>Augustam</placeName><note type="critic"
+                        xml:id="note.3">Augsburg.</note> existentem astu nuper accepit,
+                        <placeName>Ulma</placeName> et <placeName>Argentina</placeName><note
+                        type="critic" xml:id="note.4">Strasbourg.</note> strenue et constanter in
+                    fide caesaris permansit. <persName>Marchio Albertus</persName><note
+                        type="critic" xml:id="note.5">Albert Alcibiades, Margrave of
                         Brandenburg-Kulmbach (1522–1557).</note> nebulo ille et omnium bonorum
                     suorum decoctor <choice>
                         <orig>civit<gap extent="unknown" reason="damage" unit="word"/>em</orig>
@@ -220,12 +272,11 @@
                         <orig>p<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>p<corr>aene</corr></supplied>
                     </choice> combussisse. <persName>Rex Galliae</persName><note type="critic"
-                        >Francis I of France.</note>
-                    <choice>
+                        xml:id="note.6">Francis I of France.</note><choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>gressus</orig>
                         <supplied><corr>in</corr>gressus</supplied>
-                    </choice> fuit <placeName>Spyram</placeName><note type="critic">Speier.</note>
-                    usque. <choice>
+                    </choice> fuit <placeName>Spyram</placeName><note type="critic" xml:id="note.7"
+                        >Speier.</note> usque. <choice>
                         <orig>Illin<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>Illin<corr>c</corr></supplied>
                     </choice> audita obsidione cuiusdam <choice>
@@ -233,44 +284,46 @@
                         <supplied>civi<corr>tati</corr>s</supplied>
                     </choice> in Lotharingia, quam in manibus suis habet per exercitum Flandricum
                     serenissimae reginae facta et etiam unius vel alterius civitatis occupatione
-                    penes <placeName>Rhenum</placeName><note type="critic">Rhine river.</note>
-                    retrocessisse dicitur, ad liberandam ab obsidione civitatem illam.
-                        <persName>Maiestas caesarea</persName> audita <placeName>Clusae</placeName>
-                    captione, profecta est ad civitatem quandam cuius nomen nunc non succurrit, <add
-                        corresp="Olahus" type="insert">opinor Prawnek</add>.<note type="critic"
-                        >Bruneck.</note>
-                    <!--<persName/>-->Tridentini <choice>
+                    penes <placeName>Rhenum</placeName><note type="critic" xml:id="note.8">Rhine
+                        river.</note> retrocessisse dicitur, ad liberandam ab obsidione civitatem
+                    illam. <persName>Maiestas caesarea</persName> audita
+                        <placeName>Clusae</placeName> captione, profecta est ad civitatem quandam
+                    cuius nomen nunc non succurrit, <add corresp="Olahus" type="insert">opinor
+                        Prawnek</add>.<note type="critic" xml:id="note.9"
+                    >Bruneck.</note><!--<persName/>-->Tridentini <choice>
                         <orig><gap extent="1" reason="damage" unit="word"/>dinalis</orig>
                         <supplied><corr>car</corr>dinalis</supplied>
-                    </choice><note type="critic">Cristoforo Madruzzo (1512–1578) studied at the
-                        University of Padua and Bologna. He first received the canonry at Trento in
-                        1529. In 1536, he was Canon of Salzburg, in 1537 Canon of Brixen, and
-                        following Bernhard von Cles’s death, he earned the archiepiscopate of
-                        Trento, see <hi rend="smallcap">Becker</hi>, 2006.</note>
-                    <milestone unit="pb"/> ad <placeName>Brixinam</placeName>,<note type="critic"
-                        >Brixen.</note> quattuor millionibus distantium <del corresp="Olahus"
-                        >profecta est</del> maiestas regia comitata est eum aliquamdiu, et hodie,
-                    uti credimus, constituetur <placeName>Patavii</placeName>.<note type="critic"
+                    </choice><note type="critic" xml:id="note.10">Cristoforo Madruzzo (1512–1578)
+                        studied at the University of Padua and Bologna. He first received the
+                        canonry at Trento in 1529. In 1536, he was Canon of Salzburg, in 1537 Canon
+                        of Brixen, and following Bernhard von Cles’s death, he earned the
+                        archiepiscopate of Trento, see <hi rend="smallcap">Becker</hi>,
+                        2006.</note><milestone unit="pb"/> ad <placeName>Brixinam</placeName>,<note
+                        type="critic" xml:id="note.11">Brixen.</note> quattuor millionibus
+                    distantium <del corresp="Olahus">profecta est</del> maiestas regia comitata est
+                    eum aliquamdiu, et hodie, uti credimus, constituetur
+                        <placeName>Patavii</placeName>.<note type="critic" xml:id="note.12"
                         >Padua.</note> Exspectamus <persName>Mauritium</persName> et alios eo, si
                     venerint ad tractatus faciendos. <del corresp="Olahus">Dux Ioannes</del> Illic
                     sua maiestas mox revertetur. <persName>Dux Ioannes</persName> captivus Saxoniae
                     est <gap extent="1" reason="illegible" unit="word"/> donatus est tamen in curam
                     caesaris. Haec sunt, quae habeo. Dominatio Vestra feliciter valeat.</p>
-                <p>Ex <placeName>Vienna</placeName> 26. Maii 1552.</p>
-                <p>
+                <p xml:id="p.3">Ex <placeName>Vienna</placeName> 26. Maii 1552.</p>
+                <p xml:id="p.4">
                     <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>
                 </p>
-                <p>Serenissimus <persName>Maximilianus</persName> rex de rebus nonnullis
-                    nuntiavit per dominum <persName>Bathyany</persName><note type="critic">Kristóf
-                        Batthyány.</note> Dominationi Vestrae. Ad has exspectamus responsum.</p>
+                <p xml:id="p.5">Serenissimus <persName>Maximilianus</persName> rex de rebus
+                    nonnullis nuntiavit per dominum <persName>Bathyany</persName><note type="critic"
+                        xml:id="note.13">Kristóf Batthyány.</note> Dominationi Vestrae. Ad has
+                    exspectamus responsum.</p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Spectabili et magnifico domino Thomae de Nadasd, comiti perpetuo
+                <p xml:id="p.6">Spectabili et magnifico domino Thomae de Nadasd, comiti perpetuo
                     terrae Fogaras, iudici curiae regiae maiestatis et supremo regni capitaneo etc.
                     domino et fratri observandissimo.</p>
-                <p>Ad manus proprias.</p>
+                <p xml:id="p.7">Ad manus proprias.</p>
             </div>
         </body>
     </text>

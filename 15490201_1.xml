@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">708</title>
-                <title type="main">Miklós Oláh to King Ferdinand I (Vienna, 1 February 1549)</title>
+                <title key="body" n="708" type="main">Miklós Oláh to King Ferdinand I (Vienna, 1
+                    February 1549)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15490201_1</idno>
-                
+                <idno type="PID">olahus.tei.15490201_1</idno>
+                <idno type="ITIdata">Q473366</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15490201_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,26 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
-                    </p>
-                    
-                </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15490127_1" type="url">706</ref>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15490127_2" type="url">707</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15490127_1" type="url">706</ref>
+                        <ref target="15490127_2" type="url">707</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -133,11 +133,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,116 +207,115 @@
             </textClass>
             <creation>
                 <date when="1549-02-01">1 February 1549</date>
-                <placeName>Vienna</placeName>
+                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to King Ferdinand I (Vienna, 1 February 1549)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He received two letters from him yesterday: one on his letter to
-                            Emperor Charles V on celebrating the ecumenical council and the free
-                            confirmation of the prelates, and another that Oláh should send Queen
-                            Isabella’s and George Martinuzzi’s letters back. He has written to Pál
-                            Várday about the Pope’s confirmation of the prelates, whose letter he
-                            attaches. One thing seems necessary, i.e. the King should charge the
-                            Bishops of Nitra and Veszprém as well as Balázs Péterváradi in a special
-                            letter with starting the process of ordination. Oláh himself will
-                            receive the higher orders from the Bishop of Senj in two days. 2. He
-                            should let him know what his plan is regarding Zsigmond János so they
-                            can let the commissioners know when they go to Martinuzzi on Saint
-                            Matthew’s day. He is expecting Tamás Nádasdy in two days, who has been
-                            complaining to him about the lack of funds. It would be good if by the
-                            time he got here, the King instructed the Chamber, if nothing else
-                            works, to take care of his expenses.</p>
+                        <p xml:id="reg.p.1">1. He received two letters from him yesterday: one on
+                            his letter to Emperor Charles V on celebrating the ecumenical council
+                            and the free confirmation of the prelates, and another that Oláh should
+                            send Queen Isabella’s and George Martinuzzi’s letters back. He has
+                            written to Pál Várday about the Pope’s confirmation of the prelates,
+                            whose letter he attaches. One thing seems necessary, i.e. the King
+                            should charge the Bishops of Nitra and Veszprém as well as Balázs
+                            Péterváradi in a special letter with starting the process of ordination.
+                            Oláh himself will receive the higher orders from the Bishop of Senj in
+                            two days. 2. He should let him know what his plan is regarding Zsigmond
+                            János so they can let the commissioners know when they go to Martinuzzi
+                            on Saint Matthew’s day. He is expecting Tamás Nádasdy in two days, who
+                            has been complaining to him about the lack of funds. It would be good if
+                            by the time he got here, the King instructed the Chamber, if nothing
+                            else works, to take care of his expenses.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Sacratissime Rex Domine, Domine mihi Clementissime, fidelitatis et
+                <p xml:id="p.1">Sacratissime Rex Domine, Domine mihi Clementissime, fidelitatis et
                     servitiorum meorum perpetuorum in gratiam Sacratissimae Maiestatis Vestrae
                     humillimam commendationem!</p>
-                <p>[1.] Die hesterna binas Sacratissimae Maiestatis Vestrae accepi
-                    litteras. Alteras<note type="critic">See Ep.
-                        707.</note><ref>/o:olahus.tei.15490127_2</ref> de sacratissimae caesareae
+                <p xml:id="p.2">[1.] Die hesterna binas Sacratissimae Maiestatis Vestrae accepi
+                    litteras. Alteras<note type="critic" xml:id="note.1">See Ep.
+                            707.<ref>olahus.tei.15490127_2</ref></note> de sacratissimae caesareae
                     maiestatis in promovenda apud summum dominum nostrum celebratione concilii
                     generalis et item confirmatione gratuita praelatorum Hungariae, singulari in rem
-                    publicam Christianam clementia atque pio affectu. Alteras<note type="critic">See
-                        Ep. 706.</note><ref>/o:olahus.tei.15490127_1</ref> vero, quibus Sacratissima
-                    Maiestas Vestra iubet sibi quamprimum mitti acta legationis serenissimae
-                        <persName>reginae Isabellae</persName> etc. et responsi Sacratissimae
-                    Maiestatis Vestrae illi ac <persName>Fratri Georgio</persName><note
-                        type="critic">George Martinuzzi.</note> aliisque nobilibus dati. Secundum
-                    Sacratissimae Maiestatis Vestrae mandatum mitto nunc ad eam copiam praemissae et
-                    legationis et responsi. De confirmatione autem apud summum pontificem
-                    praelatorum Hungariae sollicitanda scripsi ad <persName>dominum
-                        Strigoniensem</persName>,<note type="critic">Pál Várday.</note> cui litteras
-                    etiam Sacratissimae Maiestatis Vestrae misi.<note type="critic">We do not know
-                        these letters.</note> Unum tamen videtur esse necessarium, quod Maiestas
-                    Vestra Sacratissima dignetur litteris suis mandare specialibus Nittriensi,<note
-                        type="critic">Ferenc Thurzó (†1576) was Bishop of Nitra between 1534 and
-                        1557. He was the President of the Hungarian Chamber and the Court Chamber
-                        (1549–1563). For more see <hi rend="smallcap">Gecsényi</hi> 2010.</note>
-                        Vesprimiensi<note type="critic">Márton Kecseti.</note> et Blasio,<note
-                        type="critic">Balázs Péterváradi.</note> ut sacris initientur. Ego postquam
-                    vocatione divina, Sacratissima Maiestas Vestra <del corresp="Olahus">me</del>
-                    hoc statu, in quo sum, clementer me providere dignata est, per dominum
-                        <persName>Segniensem</persName>,<note type="critic">Ferenc Jozefics.</note>
-                    quem hac de causa huc nunc accersivi, maiores sacros ordines, hoc biduo ex Dei
-                    gratia ad summam Sacratissimam Maiestatem Vestram Deus idem optimus maximus ad
-                    multa saecula felicem ac incolumem conservare dignetur. In cuius clementiam me
-                    et fidelia <milestone unit="pb"/>servitia mea iterum atque iterum unice commendo.</p>
-                <p>Ex <placeName>Vienna</placeName> prima Februarii anno 1549.</p>
-                <p>
+                    publicam Christianam clementia atque pio affectu. Alteras<note type="critic"
+                        xml:id="note.2">See Ep. 706.<ref>olahus.tei.15490127_1</ref></note> vero,
+                    quibus Sacratissima Maiestas Vestra iubet sibi quamprimum mitti acta legationis
+                    serenissimae <persName>reginae Isabellae</persName> etc. et responsi
+                    Sacratissimae Maiestatis Vestrae illi ac <persName>Fratri
+                        Georgio</persName><note type="critic" xml:id="note.3">George
+                        Martinuzzi.</note> aliisque nobilibus dati. Secundum Sacratissimae
+                    Maiestatis Vestrae mandatum mitto nunc ad eam copiam praemissae et legationis et
+                    responsi. De confirmatione autem apud summum pontificem praelatorum Hungariae
+                    sollicitanda scripsi ad <persName>dominum Strigoniensem</persName>,<note
+                        type="critic" xml:id="note.4">Pál Várday.</note> cui litteras etiam
+                    Sacratissimae Maiestatis Vestrae misi.<note type="critic" xml:id="note.5">We do
+                        not know these letters.</note> Unum tamen videtur esse necessarium, quod
+                    Maiestas Vestra Sacratissima dignetur litteris suis mandare specialibus
+                        Nittriensi,<note type="critic" xml:id="note.6">Ferenc Thurzó (†1576) was
+                        Bishop of Nitra between 1534 and 1557. He was the President of the Hungarian
+                        Chamber and the Court Chamber (1549–1563). For more see <hi rend="smallcap"
+                            >Gecsényi</hi> 2010.</note> Vesprimiensi<note type="critic"
+                        xml:id="note.7">Márton Kecseti.</note> et Blasio,<note type="critic"
+                        xml:id="note.8">Balázs Péterváradi.</note> ut sacris initientur. Ego
+                    postquam vocatione divina, Sacratissima Maiestas Vestra <del corresp="Olahus"
+                        >me</del> hoc statu, in quo sum, clementer me providere dignata est, per
+                    dominum <persName>Segniensem</persName>,<note type="critic" xml:id="note.9"
+                        >Ferenc Jozefics.</note> quem hac de causa huc nunc accersivi, maiores
+                    sacros ordines, hoc biduo ex Dei gratia ad summam Sacratissimam Maiestatem
+                    Vestram Deus idem optimus maximus ad multa saecula felicem ac incolumem
+                    conservare dignetur. In cuius clementiam me et fidelia <milestone unit="pb"
+                    />servitia mea iterum atque iterum unice commendo.</p>
+                <p xml:id="p.3">Ex <placeName>Vienna</placeName> prima Februarii anno 1549.</p>
+                <p xml:id="p.4">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Eiusdem Sacratissimae Maiestatis Vestrae
                             fidelis et humilis servitor, Agriensis</add>
                     </seg>
                 </p>
                 <pb/>
-                <p>[2.] Si Sacratissima Maiestas Vestra in negotio provisionis
-                        <persName>filii</persName><note type="critic">John Sigismund
-                        Szapolyai.</note> serenissimae reginae Isabellae a maiestate caesarea
-                    aliquid responsi habet, dignetur ea in re ad commissarios suos, qui ad festum
-                    beati Mathiae Apostoli<note type="critic">24 February.</note>
-                    <persName>fratrem Georgium</persName> conventuri sunt, dare commissionem, ut
-                    Sacratissimae Maiestati Vestrae videbitur, simul vel divisim. Dum
-                        <persName>Nadasdi</persName><note type="critic">Tamás Nádasdy.</note> unum
-                    ex commissariis hoc triduo huc exspecto. Is tamen de expensarum inopia per
-                    litteras suas non parum apud me conqueritur. Cum quo de his loquar, dum
-                    advenerit, bonum esset Sacratissimam Maiestatem Vestram consiliariis camerae
-                    mandare, ut si aliter fieri non posset, providerent ei de expensis honestis et
-                    convenientibus. Nam <persName>Nadasdi</persName> pro dignitate Sacratissimae
-                    Maiestatis Vestrae ac conditione status sui atque officii scribae expensas illas
-                    menstruas pro intertentione mensae ei designatas in legatione hac, in qua
-                    authoritatis Maiestatis Vestrae Sacratissimae habenda erit ratio, parum sibi
-                    suffecturas.</p>
-                <p>
+                <p xml:id="p.5">[2.] Si Sacratissima Maiestas Vestra in negotio provisionis
+                        <persName>filii</persName><note type="critic" xml:id="note.10">John
+                        Sigismund Szapolyai.</note> serenissimae reginae Isabellae a maiestate
+                    caesarea aliquid responsi habet, dignetur ea in re ad commissarios suos, qui ad
+                    festum beati Mathiae Apostoli<note type="critic" xml:id="note.11">24
+                        February.</note><persName>fratrem Georgium</persName> conventuri sunt, dare
+                    commissionem, ut Sacratissimae Maiestati Vestrae videbitur, simul vel divisim.
+                    Dum <persName>Nadasdi</persName><note type="critic" xml:id="note.12">Tamás
+                        Nádasdy.</note> unum ex commissariis hoc triduo huc exspecto. Is tamen de
+                    expensarum inopia per litteras suas non parum apud me conqueritur. Cum quo de
+                    his loquar, dum advenerit, bonum esset Sacratissimam Maiestatem Vestram
+                    consiliariis camerae mandare, ut si aliter fieri non posset, providerent ei de
+                    expensis honestis et convenientibus. Nam <persName>Nadasdi</persName> pro
+                    dignitate Sacratissimae Maiestatis Vestrae ac conditione status sui atque
+                    officii scribae expensas illas menstruas pro intertentione mensae ei designatas
+                    in legatione hac, in qua authoritatis Maiestatis Vestrae Sacratissimae habenda
+                    erit ratio, parum sibi suffecturas.</p>
+                <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Idem servitor Agriensis</add>
                     </seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Sacratissimae maiestati regiae Romanorum Hungariae et Boemiae etc.
+                <p xml:id="p.7">Sacratissimae maiestati regiae Romanorum Hungariae et Boemiae etc.
                     domino, domino meo clementissimo.</p>
             </div>
         </body>

@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">525</title>
-                <title type="main">Camillo Ghilino to Miklós Oláh (Milan, 21 January 1535)</title>
+                <title key="body" n="525" type="main">Camillo Ghilino to Miklós Oláh (Milan, 21
+                    January 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15350121_1</idno>
-                
+                <idno type="PID">olahus.tei.15350121_1</idno>
+                <idno type="ITIdata">Q473185</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15350121_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,23 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 541–542.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 541–542.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +129,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,121 +203,122 @@
             </textClass>
             <creation>
                 <date when="1535-01-21">21 January 1535</date>
-                <placeName>Milan</placeName>
+                <placeName>Milan<idno type="ITIdata">Q25477</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Camillo Ghilino</persName>
-                    <orgName/>
+                    <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Camillo Ghilino to Miklós Oláh (Milan, 21 January 1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. They are hopeful that the news that King Christian II has been freed
-                            is true. He is happy to hear that the Queen is healthy, and Ambrogio
-                            Candiano’s presence will be of use for them. Francesco II Sforza thanks
-                            Oláh that he informed them about the English and Gallic affairs. 2.
-                            Ghilino summarizes what they have heard about the Turkish fleet and the
-                            Persian war. The imperial envoy, Aloysius Avila has reported to them
-                            about the Spanish affairs; if he told the truth, they have nothing to
-                            fear. King Francis I is ailing, and if Ulrich, Duke of Württemberg and
-                            Philipp I, Landgrave of Hesse take action against the Emperor, they will
-                            get what they deserve. The Pope is suffering because Urbino’s lord has
-                            taken Camerino from him, and because the emperor is of no help to him in
-                            this, he is conducting separate confidential negotiations with the
-                            French.</p>
+                        <p xml:id="reg.p.1">1. They are hopeful that the news that King Christian II
+                            has been freed is true. He is happy to hear that the Queen is healthy,
+                            and Ambrogio Candiano’s presence will be of use for them. Francesco II
+                            Sforza thanks Oláh that he informed them about the English and Gallic
+                            affairs. 2. Ghilino summarizes what they have heard about the Turkish
+                            fleet and the Persian war. The imperial envoy, Aloysius Avila has
+                            reported to them about the Spanish affairs; if he told the truth, they
+                            have nothing to fear. King Francis I is ailing, and if Ulrich, Duke of
+                            Württemberg and Philipp I, Landgrave of Hesse take action against the
+                            Emperor, they will get what they deserve. The Pope is suffering because
+                            Urbino’s lord has taken Camerino from him, and because the emperor is of
+                            no help to him in this, he is conducting separate confidential
+                            negotiations with the French.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Idem Nicolao Olao suo salutem. </p>
-                <p>[1.] Quae mihi superioribus litteris tuis<note type="critic">We do not
-                        know this letter.</note> significasti de
-                        <persName>Christerni</persName><note type="critic">King Christian II of
-                        Denmark.</note> Danorum regis salute, principibus meis valde grata fuerunt,
-                    utinam illius libertati certissima spes, quam nobis pollicens, si in rem
-                    caesaris est, in nervum haud erumpat. De <persName>Britanno rege</persName><note
-                        type="critic">King Henry VIII.</note> longe peiora circumferuntur, mihi
-                    crede, haec omnia fieri, ut tandem caesar Deus noster totius orbis imperio
-                    potiatur. </p>
+                <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
+                <p xml:id="p.2">[1.] Quae mihi superioribus litteris tuis<note type="critic"
+                        xml:id="note.1">We do not know this letter.</note> significasti de
+                        <persName>Christerni</persName><note type="critic" xml:id="note.2">King
+                        Christian II of Denmark.</note> Danorum regis salute, principibus meis valde
+                    grata fuerunt, utinam illius libertati certissima spes, quam nobis pollicens, si
+                    in rem caesaris est, in nervum haud erumpat. De <persName>Britanno
+                        rege</persName><note type="critic" xml:id="note.3">King Henry VIII.</note>
+                    longe peiora circumferuntur, mihi crede, haec omnia fieri, ut tandem caesar Deus
+                    noster totius orbis imperio potiatur. </p>
                 <pb/>
-                <p>Laetamur reginam bene valere, et ad istius bonae valetudinis praesidia
-                        <persName>Candianum</persName><note type="critic">Ambrogio Candiano.</note>
-                    medicum maximo vobis usui fore. Vir certe probus est et in medendi ratione
-                    experiens et fortunatus. In Scipionis morte maximum dux meus naufragium fecit.
-                    Iste ab se secundus erat, cui maxime confideret. <persName>Princeps
-                        noster</persName><note type="critic">Francesco II Sforza.</note> maximas
-                    tibi gratias agit, quod in scriptione tua me de Anglicis et Cimbricis rebus
-                    prolixe monueris. Illarum auditione mecum ducitur, quare si me tantum amas,
-                    quantum me a te amari sentio, operam dabis, ut quam aliunde intelligere posset,
-                    ex litteris tuis intelligat, hoc certe mihi nec gratius quicquam hoc tempore,
-                    nec iucundius erit. </p>
-                <p>[2.] Turca, ut fertur, in Parthica expeditione adhuc detinetur.
-                    Persarum <persName>imperator</persName><note type="critic">Tahmasp I, Shah of
-                        Iran.</note> cum tercentum millibus hominum VII castris ab exercitu Turcico
-                    aberat, si certabitur omnibus utrinque viribus, res Christiana nequaquam
-                    periclitari poterit, nisi cruenta esse, et victor in ipsa victoria cadet. A
-                    Persa ad Turcam defecit unus ex suis ducibus cum tribus millibus <choice>
+                <p xml:id="p.3">Laetamur reginam bene valere, et ad istius bonae valetudinis
+                    praesidia <persName>Candianum</persName><note type="critic" xml:id="note.4"
+                        >Ambrogio Candiano.</note> medicum maximo vobis usui fore. Vir certe probus
+                    est et in medendi ratione experiens et fortunatus. In Scipionis morte maximum
+                    dux meus naufragium fecit. Iste ab se secundus erat, cui maxime confideret.
+                        <persName>Princeps noster</persName><note type="critic" xml:id="note.5"
+                        >Francesco II Sforza.</note> maximas tibi gratias agit, quod in scriptione
+                    tua me de Anglicis et Cimbricis rebus prolixe monueris. Illarum auditione mecum
+                    ducitur, quare si me tantum amas, quantum me a te amari sentio, operam dabis, ut
+                    quam aliunde intelligere posset, ex litteris tuis intelligat, hoc certe mihi nec
+                    gratius quicquam hoc tempore, nec iucundius erit. </p>
+                <p xml:id="p.4">[2.] Turca, ut fertur, in Parthica expeditione adhuc detinetur.
+                    Persarum <persName>imperator</persName><note type="critic" xml:id="note.6"
+                        >Tahmasp I, Shah of Iran.</note> cum tercentum millibus hominum VII castris
+                    ab exercitu Turcico aberat, si certabitur omnibus utrinque viribus, res
+                    Christiana nequaquam periclitari poterit, nisi cruenta esse, et victor in ipsa
+                    victoria cadet. A Persa ad Turcam defecit unus ex suis ducibus cum tribus
+                    millibus <choice>
                         <orig>selopottaniorum</orig>
                         <supplied>sclopetariorum</supplied>
-                    </choice>.<note type="critic">‘an arquebusier’, see <hi rend="smallcap"
-                            >Hoven</hi> 2006, 496.</note> Duo oratores Persici ad Turcam missi,
-                    alter securi caesaris iussu percussus est, alter praecisis auribus et naso ad
-                    Persam remissus, haec sunt, quae ex <placeName>Bizantio</placeName> nuper
-                    accepimus. <persName>Aenobarbus</persName><note type="critic">Hayreddin
-                        Barbarossa Pasha.</note>
-                    <placeName>Constantinam</placeName> in deditionem accepit et tota regni Tuneti
-                    ditione nunc potitur, classem habet divisam et a remigibus et militibus
-                    flagitiose rumor est XI triremes in Galliam designasse, ne orator Turca, qui
-                    apud illum <persName>regem</persName> Christianissimum vestrum sororium de
-                    foedere egit, in <persName>Doriae principis</persName><note type="critic">Andrea
-                        Doria.</note> potestatem veniat. <persName>Rex</persName> pulsus apud uxoris
-                    suae fratrem est, qui maxima cum Arabis amicitia iuncti sunt, quorum et caesaris
-                    patrocinio brevi in antiquas sedes suas restituetur. Ex Hispaniis nuper
-                        <persName>Aloysius Avila</persName><note type="critic">Aloysius Avila was an
+                    </choice>.<note type="critic" xml:id="note.7">‘an arquebusier’, see <hi
+                            rend="smallcap">Hoven</hi> 2006, 496.</note> Duo oratores Persici ad
+                    Turcam missi, alter securi caesaris iussu percussus est, alter praecisis auribus
+                    et naso ad Persam remissus, haec sunt, quae ex <placeName>Bizantio</placeName>
+                    nuper accepimus. <persName>Aenobarbus</persName><note type="critic"
+                        xml:id="note.8">Hayreddin Barbarossa
+                        Pasha.</note><placeName>Constantinam</placeName> in deditionem accepit et
+                    tota regni Tuneti ditione nunc potitur, classem habet divisam et a remigibus et
+                    militibus flagitiose rumor est XI triremes in Galliam designasse, ne orator
+                    Turca, qui apud illum <persName>regem</persName> Christianissimum vestrum
+                    sororium de foedere egit, in <persName>Doriae principis</persName><note
+                        type="critic" xml:id="note.9">Andrea Doria.</note> potestatem veniat.
+                        <persName>Rex</persName> pulsus apud uxoris suae fratrem est, qui maxima cum
+                    Arabis amicitia iuncti sunt, quorum et caesaris patrocinio brevi in antiquas
+                    sedes suas restituetur. Ex Hispaniis nuper <persName>Aloysius
+                        Avila</persName><note type="critic" xml:id="note.10">Aloysius Avila was an
                         orator of Emperor Charles V to Pope Julius III at the Council of Trent, see
                             <hi rend="smallcap">Sforza Pallavicino</hi> 1673, Pars II. Cc 2.
                         v.</note> a cubiculo caesaris ad nos venit. Is refert praeter LXXX triremes
-                    et naves onerarias LXX et myoparones<note type="critic">From the Ancient Greek
-                        μυοπάρων, meaning ‘small pirate galley’.</note> anfractusque multos caesarem
-                    XXV millia peditum Germanorum, Italorum, item Hispanorum in classe habiturum,
-                    hoc si praestiterit, quid est, quod timeamus, <persName>Gallus</persName><note
-                        type="critic">King Francis I.</note> si non ad sanitatem redibit, saltem in
-                    visceribus regni sui continebitur. Ab Helvetiis nihil cura: si
-                        <persName>Virtembergensis</persName><note type="critic">Ulrich, Duke of
-                        Württemberg.</note> et <persName>Landgravius</persName><note type="critic"
-                        >Philipp I, Landgrave of Hesse.</note> aliquid fortasse gravius adversus
+                    et naves onerarias LXX et myoparones<note type="critic" xml:id="note.11">From
+                        the Ancient Greek μυοπάρων, meaning ‘small pirate galley’.</note>
+                    anfractusque multos caesarem XXV millia peditum Germanorum, Italorum, item
+                    Hispanorum in classe habiturum, hoc si praestiterit, quid est, quod timeamus,
+                        <persName>Gallus</persName><note type="critic" xml:id="note.12">King Francis
+                        I.</note> si non ad sanitatem redibit, saltem in visceribus regni sui
+                    continebitur. Ab Helvetiis nihil cura: si
+                        <persName>Virtembergensis</persName><note type="critic" xml:id="note.13"
+                        >Ulrich, Duke of Württemberg.</note> et
+                        <persName>Landgravius</persName><note type="critic" xml:id="note.14">Philipp
+                        I, Landgrave of Hesse.</note> aliquid fortasse gravius adversus
                         <persName>caesarem</persName> molientur, meritas poenas luent. Hic de eis
                     nihil certi habemus. Tu, qui in specula es, fac nos de singulis rebus certiores,
-                    refert multum haec scire. <persName>Pontifex</persName><note type="critic">Pope
-                        Paul III.</note> torquetur sibi ab <placeName>Urbini</placeName><note
-                        type="critic">Urbino.</note>
-                <milestone unit="pb"/> <persName>duce</persName><note type="critic">Francesco Maria I della
-                        Rovere (1490–1538) became Duke of Urbino in 1521.</note>
-                    <placeName>Camerinum</placeName><note type="critic">Camerino.</note> esse
-                    ereptum, et caesarem in hac re sibi parum faustum, secreta cum Gallis colloquia
-                    habet, non tantum, ut a caesare deficiat, sed ut tali obtrectatione illum in
-                    partes suas compellat, sed bonus senex gnarus virium caesaris in portu se
-                    continebit, in Petri naviculum iamdiu fluctibus agitatum omnino naufragium
-                    facere velit, quae de eo certi habuerimus, curabo, ut intelligas. Duces nostri
-                    bene valent et tibi plurimam salutem dicunt, me serenissimae reginae, item
-                        <persName>Lucretiae Virgini</persName>,<note type="critic">Lucretia Caballis
+                    refert multum haec scire. <persName>Pontifex</persName><note type="critic"
+                        xml:id="note.15">Pope Paul III.</note> torquetur sibi ab
+                        <placeName>Urbini</placeName><note type="critic" xml:id="note.16"
+                        >Urbino.</note><milestone unit="pb"/><persName>duce</persName><note
+                        type="critic" xml:id="note.17">Francesco Maria I della Rovere (1490–1538)
+                        became Duke of Urbino in 1521.</note><placeName>Camerinum</placeName><note
+                        type="critic" xml:id="note.18">Camerino.</note> esse ereptum, et caesarem in
+                    hac re sibi parum faustum, secreta cum Gallis colloquia habet, non tantum, ut a
+                    caesare deficiat, sed ut tali obtrectatione illum in partes suas compellat, sed
+                    bonus senex gnarus virium caesaris in portu se continebit, in Petri naviculum
+                    iamdiu fluctibus agitatum omnino naufragium facere velit, quae de eo certi
+                    habuerimus, curabo, ut intelligas. Duces nostri bene valent et tibi plurimam
+                    salutem dicunt, me serenissimae reginae, item <persName>Lucretiae
+                        Virgini</persName>,<note type="critic" xml:id="note.19">Lucretia Caballis
                         (vom Ross).</note> omnibusque amicis communibus multum commendabis. Vale,
                     Olae Suavissime, et me mutuo, ut facis, ama. </p>
-                <p>Ex <placeName>Mediolano</placeName> XXI. Ianuarii anno Domini
+                <p xml:id="p.5">Ex <placeName>Mediolano</placeName> XXI. Ianuarii anno Domini
                     MDXXXV.</p>
             </div>
         </body>

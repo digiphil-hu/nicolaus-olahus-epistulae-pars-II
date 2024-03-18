@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">655</title>
-                <title type="main">Miklós Oláh to Kristóf Batthyány (Worms, 7 June 1545)</title>
+                <title key="body" n="655" type="main">Miklós Oláh to Kristóf Batthyány (Worms, 7
+                    June 1545)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15450607_1</idno>
-                
+                <idno type="PID">olahus.tei.15450607_1</idno>
+                <idno type="ITIdata">Q473315</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15450607_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,38 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signature and seal.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original letter with signature and seal. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -132,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,69 +201,68 @@
             </textClass>
             <creation>
                 <date when="1545-06-07">7 June 1545</date>
-                <placeName>Worms</placeName>
+                <placeName>Worms<idno type="ITIdata">Q14603</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Kristóf Batthyány</persName>
-                    <orgName/>
+                    <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Kristóf Batthyány (Worms, 7 June 1545)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>Batthyány often asks Oláh to promote his affairs. But in Oláh’s opinion,
-                            his many efforts bear little or no fruit because the other person
-                            immediately forgets about Oláh’s good deeds. He has redeemed castle of
-                            Gereben, but nobody has been available to get the news to Batthyány; now
-                            at last he has found a loyal courier, Gyaky. He can continue to count on
-                            Oláh’s support, but because the notaries are more diligent in taking
-                            care of Batthyány’s affairs in the hope of payment, Batthyány should
-                            send 12 florins for the letter and another ten that is necessary for the
-                            administration of last year’s and this year’s church affairs.</p>
+                        <p xml:id="reg.p.1">Batthyány often asks Oláh to promote his affairs. But in
+                            Oláh’s opinion, his many efforts bear little or no fruit because the
+                            other person immediately forgets about Oláh’s good deeds. He has
+                            redeemed castle of Gereben, but nobody has been available to get the
+                            news to Batthyány; now at last he has found a loyal courier, Gyaky. He
+                            can continue to count on Oláh’s support, but because the notaries are
+                            more diligent in taking care of Batthyány’s affairs in the hope of
+                            payment, Batthyány should send 12 florins for the letter and another ten
+                            that is necessary for the administration of last year’s and this year’s
+                            church affairs.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Magnifice Domine, Amice Honorandissime, salutem!</p>
-                <p>Crebro Magnifica Dominatio Vestra nobis scribit,<note type="critic">We
-                        do not know these letters.</note> ut negotia sua apud <persName>regiam
-                        maiestatem</persName>, dominum nostrum clementissimum promoveamus. In quo
-                    propter propensam erga Magnificae Dominationis Vestrae voluntatem nostram satis
-                    solliciti sumus et aliis etiam in eorum necessitate haud gravate operam nostram
-                    commodamus. Verum a multis pares, vel omnino nulli laborum nostrorum fructus ad
-                    nos redeunt propter subitam accepti beneficii oblivionem. Exemptionem etiam
-                    bonorum castri Magnificae Dominationis Vestrae
-                        <placeName>Gereben</placeName><note type="critic">The castle of Greben was
-                        located next to today’s Madžarevo. The castle had belonged to the Batthyánys
-                        since 1491.</note> dudum confeceramus, sed hactenus nemo erat, qui eam
-                    sollicitasset, nec quisquam fidus tabellarius oblatus fuit, per quem tuto ad
-                    Magnificam Dominationem Vestram mittere potuissemus. Nacti tandem hominem notum
-                    et fidelem, egregium <persName>Matthiam Gyaky</persName><note type="critic">Máté
-                        Gyaky was a noble magistrate <hi rend="italic">(iudex nobilium)</hi> in Vas
-                        county, see <hi rend="smallcap">Baán</hi> 1940, 213.</note> curam
-                    perferendarum ad Magnificam Dominationem Vestram litterarum illi credidimus.
-                    Deinceps quoque in rebus necessariis patrocinium nostrum Magnificae Dominationi
-                    Vestrae non negabimus, sed ut notarii nostri in expediendis Magnificae
-                    Dominationis Vestrae negotiis sollicitiores et promptiores reddantur spe
-                    praemiorum, mittat eadem pro litteris Florenorum duodecim atque decimas etiam
-                    tam praeteriti, quam praesentis annorum nobis et ecclesiae nostrae debitas
-                    Magnificae Dominationis Vestrae manibus administratoris bonorum episcopatus
-                    nostri administrari faciat. Quam bene valere optamus. </p>
-                <p>Datum <placeName>Vormatiae</placeName> septima mensis Iunii MDXLV.</p>
-                <p>
+                <p xml:id="p.1">Magnifice Domine, Amice Honorandissime, salutem!</p>
+                <p xml:id="p.2">Crebro Magnifica Dominatio Vestra nobis scribit,<note type="critic"
+                        xml:id="note.1">We do not know these letters.</note> ut negotia sua apud
+                        <persName>regiam maiestatem</persName>, dominum nostrum clementissimum
+                    promoveamus. In quo propter propensam erga Magnificae Dominationis Vestrae
+                    voluntatem nostram satis solliciti sumus et aliis etiam in eorum necessitate
+                    haud gravate operam nostram commodamus. Verum a multis pares, vel omnino nulli
+                    laborum nostrorum fructus ad nos redeunt propter subitam accepti beneficii
+                    oblivionem. Exemptionem etiam bonorum castri Magnificae Dominationis Vestrae
+                        <placeName>Gereben</placeName><note type="critic" xml:id="note.2">The castle
+                        of Greben was located next to today’s Madžarevo. The castle had belonged to
+                        the Batthyánys since 1491.</note> dudum confeceramus, sed hactenus nemo
+                    erat, qui eam sollicitasset, nec quisquam fidus tabellarius oblatus fuit, per
+                    quem tuto ad Magnificam Dominationem Vestram mittere potuissemus. Nacti tandem
+                    hominem notum et fidelem, egregium <persName>Matthiam Gyaky</persName><note
+                        type="critic" xml:id="note.3">Máté Gyaky was a noble magistrate <hi
+                            rend="italic">(iudex nobilium)</hi> in Vas county, see <hi
+                            rend="smallcap">Baán</hi> 1940, 213.</note> curam perferendarum ad
+                    Magnificam Dominationem Vestram litterarum illi credidimus. Deinceps quoque in
+                    rebus necessariis patrocinium nostrum Magnificae Dominationi Vestrae non
+                    negabimus, sed ut notarii nostri in expediendis Magnificae Dominationis Vestrae
+                    negotiis sollicitiores et promptiores reddantur spe praemiorum, mittat eadem pro
+                    litteris Florenorum duodecim atque decimas etiam tam praeteriti, quam praesentis
+                    annorum nobis et ecclesiae nostrae debitas Magnificae Dominationis Vestrae
+                    manibus administratoris bonorum episcopatus nostri administrari faciat. Quam
+                    bene valere optamus. </p>
+                <p xml:id="p.3">Datum <placeName>Vormatiae</placeName> septima mensis Iunii
+                    MDXLV.</p>
+                <p xml:id="p.4">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Nicolaus Olahus episcopus Zagrabiensis
                             etc.</add>
@@ -215,9 +270,9 @@
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Magnifico domino Christophoro de Batthyan pincernarum regalium
+                <p xml:id="p.5">Magnifico domino Christophoro de Batthyan pincernarum regalium
                     magistro etc. domino et amico honorandissimo.</p>
             </div>
         </body>

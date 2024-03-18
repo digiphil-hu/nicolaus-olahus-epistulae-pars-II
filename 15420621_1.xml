@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">626</title>
-                <title type="main">Miklós Oláh and Nicolaus Prossinowzky to Banksá Štiavnica Town
-                    Council (Zvolen, 21 June 1542)</title>
+                <title key="body" n="626" type="main">Miklós Oláh and Nicolaus Prossinowzky to
+                    Banksá Štiavnica Town Council (Zvolen, 21 June 1542)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15420621_1</idno>
-                
+                <idno type="PID">olahus.tei.15420621_1</idno>
+                <idno type="ITIdata">Q473286</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15420621_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with seals. </p>
+                    <p><hi rend="italic">Notes:</hi> Original letter with seals. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
-                    <p><hi rend="bold">On the outer side:</hi>
-                        <hi rend="italic">Other contemporary handwriting:</hi> 1542 anno Domini 22.
-                        Iunii allatae. Dominus Olahus et capitaneus Veterezoliensis relationem
+                    <p><hi rend="bold">On the outer side:</hi><hi rend="italic">Other contemporary
+                            handwriting:</hi> 1542 anno Domini 22. Iunii allatae. Dominus Olahus et
+                        capitaneus Veterezoliensis relationem
                         <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>dominae<?oxy_custom_end?>
                         generoso transmittunt et suadent, ut negotium componatur ratione Davidis
                         litterati.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -134,11 +135,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -147,53 +209,50 @@
             </textClass>
             <creation>
                 <date when="1542-06-21">21 June 1542</date>
-                <placeName>Zvolen</placeName>
+                <placeName>Zvolen<idno type="ITIdata">Q2102</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh and Nicolaus Prossinowzky</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                    <persName>Nicolaus Prossinowzky</persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1542-06-22">22 June 1542</date>
-                    <placeName> </placeName>
-                    <persName>Banksá Štiavnica Town Council</persName>
-                    <orgName/>
+                    <orgName>Banksá Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh and Nicolaus Prossinowzky to Banksá Štiavnica Town
                     Council (Zvolen, 21 June 1542)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>They are sending the reply to their petition attached to this letter,
-                            from which they will understand what Lévai’s widow is requesting. As far
-                            as he remembers, the King gave 1,500 florins last year as a result of
-                            Oláh’s intervention, but they do not know if they were not too lenient
-                            regarding the sentence due to David, as Anna Lévai writes. In any case,
-                            after the latest assembly in Zvolen they came to an agreement, as Anna
-                            Lévai writes, to avoid larger expenses and damages later. Beside the
-                            reconciliation, they also made a promise to Lévai’s provisor and David’s
-                            heirs.</p>
+                        <p xml:id="reg.p.1">They are sending the reply to their petition attached to
+                            this letter, from which they will understand what Lévai’s widow is
+                            requesting. As far as he remembers, the King gave 1,500 florins last
+                            year as a result of Oláh’s intervention, but they do not know if they
+                            were not too lenient regarding the sentence due to David, as Anna Lévai
+                            writes. In any case, after the latest assembly in Zvolen they came to an
+                            agreement, as Anna Lévai writes, to avoid larger expenses and damages
+                            later. Beside the reconciliation, they also made a promise to Lévai’s
+                            provisor and David’s heirs.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Prudenti et Circumspecti Domini, Amici Nobis Honorandissimi, salutem
+                <p xml:id="p.1">Prudenti et Circumspecti Domini, Amici Nobis Honorandissimi, salutem
                     plurimam et mei commendationes! </p>
-                <p>Litteras vestras simul et generosae dominae <persName>Annae de
-                        Lewa</persName><note type="critic">Probably Anna Thurzó, Gábor Lévai’s
-                        widow. Lévai fell at the siege of Buda and Pest in 1541, see <hi
-                            rend="smallcap">Kasza</hi> 2021, 220; and Ep.
-                        619.</note><ref>/o:olahus.tei.15410327_1</ref> relictae accepimus.<note
-                        type="critic">We do not know these letters.</note> Itaque ad petitionem
-                    vestram exemplum responsi praesentibus inclusum ad vos mittimus, ex quo
-                    intelligetis, quid ipsa domina relicta scribat et optat. Maiestas quidem
+                <p xml:id="p.2">Litteras vestras simul et generosae dominae <persName>Annae de
+                        Lewa</persName><note type="critic" xml:id="note.1">Probably Anna Thurzó,
+                        Gábor Lévai’s widow. Lévai fell at the siege of Buda and Pest in 1541, see
+                            <hi rend="smallcap">Kasza</hi> 2021, 220; and Ep.
+                            619.<ref>olahus.tei.15410327_1</ref></note> relictae accepimus.<note
+                        type="critic" xml:id="note.2">We do not know these letters.</note> Itaque ad
+                    petitionem vestram exemplum responsi praesentibus inclusum ad vos mittimus, ex
+                    quo intelligetis, quid ipsa domina relicta scribat et optat. Maiestas quidem
                         <persName>regia</persName>, dominus noster clementissimus anno superiori ad
                     meam Nicolai Olahi intercessionem et sollicitationem, uti aliquot vestrum
                     sciunt, de multa illa, ni fallor, 1500 florentium vobis gratiam fecit. Nescimus
@@ -203,24 +262,28 @@
                     </choice>, uti domina ipsa de Lewa scribit, illarum gratiam fecerit, quod ex
                     litteris regiis, quas ego Nicolaus Olahus vobis ordinaveram, perspici deberit.
                     Utcumque tamen se res habeat, si post dietam praeteritam Novizoliensem,<note
-                        type="critic">The diet in Banksá Bystrica was held in February and March of
-                        1542.</note> uti ipsa domina de Lewa scribit, concordastis, nisi provisore
-                    ipsius et Davide litterato, nobis ita videretur etc. propter vitandas maiores
-                    expensas et earum damna, quae vobis nisi tempore inferri hac ratione possent.
-                    Iuxta concordiam et promissionem factam provisori de Lewa et haeredibus Davidis
-                    litterati satisfaceretis. Quid tamen melius vobis factu sit, vos exsignate.
-                    Quibus nos omne bonum et commode cupimus, quos et feliciter valere optamus. </p>
-                <p>Ex arce Zoliensi XXI. Iunii anno Domini MDXLII. </p>
-                <p><seg type="signature">Nicolaus Olahus custos Albensis consiliarius
-                        regiae maiestatis etc.</seg></p>
-                <p><seg type="signature">Nicolaus Prossenowzky de Wynkow eques auratus
-                        comes et capitaneus Zoliensis</seg>
+                        type="critic" xml:id="note.3">The diet in Banksá Bystrica was held in
+                        February and March of 1542.</note> uti ipsa domina de Lewa scribit,
+                    concordastis, nisi provisore ipsius et Davide litterato, nobis ita videretur
+                    etc. propter vitandas maiores expensas et earum damna, quae vobis nisi tempore
+                    inferri hac ratione possent. Iuxta concordiam et promissionem factam provisori
+                    de Lewa et haeredibus Davidis litterati satisfaceretis. Quid tamen melius vobis
+                    factu sit, vos exsignate. Quibus nos omne bonum et commode cupimus, quos et
+                    feliciter valere optamus. </p>
+                <p xml:id="p.3">Ex arce Zoliensi XXI. Iunii anno Domini MDXLII. </p>
+                <p xml:id="p.4">
+                    <seg type="signature">Nicolaus Olahus custos Albensis consiliarius regiae
+                        maiestatis etc.</seg>
+                </p>
+                <p xml:id="p.5">
+                    <seg type="signature">Nicolaus Prossenowzky de Wynkow eques auratus comes et
+                        capitaneus Zoliensis</seg>
                 </p>
                 <pb/>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Prudentibus ac circumspectibus dominis iudicii ac iuratis civibus
+                <p xml:id="p.6">Prudentibus ac circumspectibus dominis iudicii ac iuratis civibus
                     civitatis Semniciensis amicis nobis honorandissimis.</p>
             </div>
         </body>

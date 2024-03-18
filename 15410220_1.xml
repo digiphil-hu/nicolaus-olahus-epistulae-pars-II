@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">616</title>
-                <title type="main">Miklós Oláh, Bartholomäus Haller and János Dubraviczky to Banská
-                    Štiavnica Town Council (Kremnica, 20 February 1541)</title>
+                <title key="body" n="616" type="main">Miklós Oláh, Bartholomäus Haller and János
+                    Dubraviczky to Banská Štiavnica Town Council (Kremnica, 20 February
+                    1541)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +36,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +56,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15410220_1</idno>
-                
+                <idno type="PID">olahus.tei.15410220_1</idno>
+                <idno type="ITIdata">Q473276</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15410220_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,28 +81,27 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original letter with signatures and seals.
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Original letter with signatures and seals. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p>
                         <hi rend="bold">On the outer side:</hi>
                     </p>
-                    <p><hi rend="italic">Other contemporary handwriting:</hi> Dy hern
-                        commisarii <choice>
+                    <p><hi rend="italic">Other contemporary handwriting:</hi> Dy hern commisarii <choice>
                             <orig>erfo<gap extent="1" reason="damage" unit="word"/>dern</orig>
                             <supplied>erfo<corr>r</corr>dern</supplied>
                         </choice> Pausium auff di Cremnitz des gefangenen Martin Hybolen<note
@@ -99,16 +109,6 @@
                                 >(familiaris)</hi> of Pál Várday, see Ep. 15410217_1.</note> halben. </p>
                     <p>Gebrocht von der Cremnitz, adi den 22. Februarii 1541.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -140,11 +140,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="de"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -153,65 +214,71 @@
             </textClass>
             <creation>
                 <date when="1541-02-20">20 February 1541</date>
-                <placeName>Kremnica</placeName>
+                <placeName>Kremnica<idno type="ITIdata">Q9958</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh, Bartholomäus Haller, János Dubraviczky</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                    <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
+                        >Q470935</idno></persName>
+                    <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Banská Štiavnica Town Council</persName>
-                    <orgName/>
+                    <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh, Bartholomäus Haller and János Dubraviczky to Banská
                     Štiavnica Town Council (Kremnica, 20 February 1541)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>They have some cases for which they need the Banská Štiavnica town
-                            notary, Anton Paus. They ask that Paus is allowed to take care of their
-                            affairs before he looks after those of the city.</p>
+                        <p xml:id="reg.p.1">They have some cases for which they need the Banská
+                            Štiavnica town notary, Anton Paus. They ask that Paus is allowed to take
+                            care of their affairs before he looks after those of the city.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Namhafft, ersam unnd waiß lieb hern unnd freundt!</p>
-                <p>Es sein ettlich sachen fur uns kumen, darzu wir euers statschreibers,
-                        <persName>Anthonii Pausius</persName>,<note type="critic">In 1538, Anton
-                        Paus was preceptor in Banská Bystrica and taught Ferenc Révay’s sons. From
-                        1540, he became Town notary <hi rend="italic">(Stadtschreiber)</hi> of
-                        Banská Štiavnica, and he was in the service of the Thurzós and the Fuggers.
-                        See <hi rend="smallcap">Frankl</hi> 1873, 7–8; <hi rend="smallcap"
-                            >Lichnerová–Špániová</hi> 2019; and <hi rend="smallcap">Kalus</hi> 1999,
-                        290.</note> notturfftig wern. Derhalben unnser beger, ir wölt denselben
-                    auffs erst zu unns auff die <placeName>Cremnitz</placeName> verschaffen. Das wöl
-                    wir unns zu bescheen verlassen, unnd thun, was euch lieb ist.</p>
-                <p>Datum <placeName>Cremnitz</placeName> den XX. tag Februarii anno Domini
-                        XXXXI<hi rend="super">o</hi>.</p>
-                <p><seg type="signature"><add corresp="Olahus" type="insert">Nicolaus
-                            Olahus custos Albensis etc.</add></seg></p>
-                <p><seg type="signature"><add corresp="author" type="insert">Bartholomes
-                            Haller von Hallerstain</add></seg></p>
-                <p>
+                <p xml:id="p.1">Namhafft, ersam unnd waiß lieb hern unnd freundt!</p>
+                <p xml:id="p.2">Es sein ettlich sachen fur uns kumen, darzu wir euers
+                    statschreibers, <persName>Anthonii Pausius</persName>,<note type="critic"
+                        xml:id="note.1">In 1538, Anton Paus was preceptor in Banská Bystrica and
+                        taught Ferenc Révay’s sons. From 1540, he became Town notary <hi
+                            rend="italic">(Stadtschreiber)</hi> of Banská Štiavnica, and he was in
+                        the service of the Thurzós and the Fuggers. See <hi rend="smallcap"
+                            >Frankl</hi> 1873, 7–8; <hi rend="smallcap">Lichnerová–Špániová</hi>
+                        2019; and <hi rend="smallcap">Kalus</hi> 1999, 290.</note> notturfftig wern.
+                    Derhalben unnser beger, ir wölt denselben auffs erst zu unns auff die
+                        <placeName>Cremnitz</placeName> verschaffen. Das wöl wir unns zu bescheen
+                    verlassen, unnd thun, was euch lieb ist.</p>
+                <p xml:id="p.3">Datum <placeName>Cremnitz</placeName> den XX. tag Februarii anno
+                    Domini XXXXI<hi rend="super">o</hi>.</p>
+                <p xml:id="p.4">
+                    <seg type="signature">
+                        <add corresp="Olahus" type="insert">Nicolaus Olahus custos Albensis
+                            etc.</add>
+                    </seg>
+                </p>
+                <p xml:id="p.5">
+                    <seg type="signature">
+                        <add corresp="author" type="insert">Bartholomes Haller von Hallerstain</add>
+                    </seg>
+                </p>
+                <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="author" type="insert">Joannes Dubrawiczky etc.</add>
                     </seg>
                 </p>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p>Den namhafften, ersamen unnd weisen hern, richtern unnd rat der stat
+                <p xml:id="p.7">Den namhafften, ersamen unnd weisen hern, richtern unnd rat der stat
                     Schemnitz, unnsern guten freundenn.</p>
-                
             </div>
         </body>
     </text>

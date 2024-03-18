@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">726</title>
-                <title type="main">Royal Lieutenancy Council in Bratislava to Miklós Oláh
-                    (Bratislava, 14 November 1549)</title>
+                <title key="body" n="726" type="main">Royal Lieutenancy Council in Bratislava to
+                    Miklós Oláh (Bratislava, 14 November 1549)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15491114_1sz</idno>
-                
+                <idno type="PID">olahus.tei.15491114_1sz</idno>
+                <idno type="ITIdata">Q473385</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15491114_1sz.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,39 +80,28 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms. I, the original collection of letters has
-                        been lost. Ms. II is a copy.<ref>/o:olahus.tei.15340422_1</ref>
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Ms. I, the original collection of letters has
+                        been lost. Ms. II is a copy.<ref>/o:olahus.tei.15340422_1</ref></p>
                 </note>
                 <note type="publication"><hi rend="smallcap">R. Kiss</hi> 1908, 177.</note>
-                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
-                    <hi rend="smallcap">R. Kiss</hi> 1908, 177. [regesta]</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">R. Kiss</hi> 1908,
+                        177. [regesta]</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <listWit>
@@ -110,11 +109,75 @@
                     <witness xml:id="I">MNL OL Khuen–Héderváry cs. lt. No. 101.</witness>
                     <witness xml:id="II">EFK Cat. V. Tit. IIg. No. 150.</witness>
                 </listWit>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -123,73 +186,71 @@
             </textClass>
             <creation>
                 <date when="1549-11-14">14 November 1549</date>
-                <placeName>Bratislava</placeName>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Royal Lieutenancy Council in Bratislava</persName>
-                    <orgName/>
+                    <orgName>Royal Lieutenancy Council in Bratislava</orgName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Royal Lieutenancy Council in Bratislava to Miklós Oláh
                     (Bratislava, 14 November 1549)</head>
                 <floatingText>
                     <body>
-                        <p>They want to avoid the mess that happened during the assigning of
-                            accommodation last year. Having learnt from the experiences of the last
-                            few years, that the German person assigning the accommodation abused his
-                            position and his master’s name when he assigned the different places,
-                            they now ask Oláh to intervene and make sure that to stop the abuse,
-                            Ferenc Nyári is the one to assign the accommodations.</p>
+                        <p xml:id="reg.p.1">They want to avoid the mess that happened during the
+                            assigning of accommodation last year. Having learnt from the experiences
+                            of the last few years, that the German person assigning the
+                            accommodation abused his position and his master’s name when he assigned
+                            the different places, they now ask Oláh to intervene and make sure that
+                            to stop the abuse, Ferenc Nyári is the one to assign the
+                            accommodations.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Ad cancellarium dominum.</p>
-                <p>Reverendissime Domine etc.!</p>
-                <p>Cognoscet Reverendissima Dominatio Vestra tum ex litteris nostris, quas
-                    ad regiam maiestatem scribimus, tum vero ex hoc egregio <persName>Paulo
-                        Mwchay</persName>,<note type="critic">Pál Mucsey (†1557/1558) was
-                        Registrator, Seal-keeper, and Royal Notary and Scribe in 1543–1544. He
-                        became Provost of Alba Julia in 1551, Canon of Oradea between 1555–1557, and
-                        died as Canon of Bratislava, see <hi rend="smallcap">Fazekas</hi> 2019, 30;
-                        and <hi rend="smallcap">Fazekas</hi> 2021, 425.</note> quid nobis faciundum
-                    esse videatur pro evitando superioris anni tumultu, qui tempore conventus
-                    acciderat propter male distributa hospitia. Cum igitur Reverendissima Dominatio
-                    Vestra ea de re optime etiam tacentibus nobis instructa sit satisque meminerit
-                    inter cetera illud quoque superiori anno deprehensum esse, quod Germanus
-                    distributor commodiora quaeque et ampliora hospitia occupasset sub eorum
-                    dominorum nomine, qui partim in arce ipsi deversabantur paucos admodum asseclas,
-                    ut dominorum Germanorum mos est, in inferioribus illis hospitiis habentes,
-                    partim etiam omnino absentes erant ex huiusmodique hospitiis pleraque per
-                    idiotas et mechanicos, qui aulam sequuntur, pretio redimi solere ab eodem
-                    distributore, dominis interim Hungaris compluribus et aliis nobilibus vel
-                    incommode vel plane nusquam diversantibus. Dominatio Vestra Reverendissima velit
-                    omnibus de causis eniti, ut domino <persName>Nyary</persName><note type="critic"
-                        >Ferenc Nyári. It was his duty as Royal Master of the Horse.</note> (cuius
-                    id in Hungaria interest) haec tota distributio committatur, quippe qui pro sui <choice>
+                <p xml:id="p.1">Ad cancellarium dominum.</p>
+                <p xml:id="p.2">Reverendissime Domine etc.!</p>
+                <p xml:id="p.3">Cognoscet Reverendissima Dominatio Vestra tum ex litteris nostris,
+                    quas ad regiam maiestatem scribimus, tum vero ex hoc egregio <persName>Paulo
+                        Mwchay</persName>,<note type="critic" xml:id="note.1">Pál Mucsey
+                        (†1557/1558) was Registrator, Seal-keeper, and Royal Notary and Scribe in
+                        1543–1544. He became Provost of Alba Julia in 1551, Canon of Oradea between
+                        1555–1557, and died as Canon of Bratislava, see <hi rend="smallcap"
+                            >Fazekas</hi> 2019, 30; and <hi rend="smallcap">Fazekas</hi> 2021,
+                        425.</note> quid nobis faciundum esse videatur pro evitando superioris anni
+                    tumultu, qui tempore conventus acciderat propter male distributa hospitia. Cum
+                    igitur Reverendissima Dominatio Vestra ea de re optime etiam tacentibus nobis
+                    instructa sit satisque meminerit inter cetera illud quoque superiori anno
+                    deprehensum esse, quod Germanus distributor commodiora quaeque et ampliora
+                    hospitia occupasset sub eorum dominorum nomine, qui partim in arce ipsi
+                    deversabantur paucos admodum asseclas, ut dominorum Germanorum mos est, in
+                    inferioribus illis hospitiis habentes, partim etiam omnino absentes erant ex
+                    huiusmodique hospitiis pleraque per idiotas et mechanicos, qui aulam sequuntur,
+                    pretio redimi solere ab eodem distributore, dominis interim Hungaris compluribus
+                    et aliis nobilibus vel incommode vel plane nusquam diversantibus. Dominatio
+                    Vestra Reverendissima velit omnibus de causis eniti, ut domino
+                        <persName>Nyary</persName><note type="critic" xml:id="note.2">Ferenc Nyári.
+                        It was his duty as Royal Master of the Horse.</note> (cuius id in Hungaria
+                    interest) haec tota distributio committatur, quippe qui pro sui <choice>
                         <orig>numeris</orig>
                         <supplied>muneris</supplied>
                     </choice> ratione ut Germanis et Hungaris et Hispanis, qui <persName>regiam
                         maiestatem</persName> sequi solent, competentia constituet hospitia, ita, ut
                     nemini iustae querelae supersit locus, prout haec omnia latius is
-                        <persName>Paulus</persName><note type="critic">Pál Mucsey.</note> litteratus
-                    Reverendissimae Dominationi Vestrae coram explicabit, cui fidem adhibere velit.
-                    Valere etc. </p>
-                <p><placeName>Posonii</placeName> die 14. Novembris anno 1549. </p>
-                <p>
+                        <persName>Paulus</persName><note type="critic" xml:id="note.3">Pál
+                        Mucsey.</note> litteratus Reverendissimae Dominationi Vestrae coram
+                    explicabit, cui fidem adhibere velit. Valere etc. </p>
+                <p xml:id="p.4"><placeName>Posonii</placeName> die 14. Novembris anno 1549. </p>
+                <p xml:id="p.5">
                     <seg type="signature">Consiliarii.</seg>
                 </p>
             </div>

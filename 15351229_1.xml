@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">554</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 29 December 1535)</title>
+                <title key="body" n="554" type="main">Pieter Nanninck to Miklós Oláh (Leuven, 29
+                    December 1535)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15351229_1</idno>
-                
+                <idno type="PID">olahus.tei.15351229_1</idno>
+                <idno type="ITIdata">Q473214</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15351229_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,13 +80,17 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
@@ -83,34 +98,82 @@
                         <hi rend="italic">Notes:</hi>
                         <ref>/o:olahus.tei.15351230_1</ref>
                     </p>
-                    
                 </note>
                 <note type="publication"><hi rend="smallcap">Nannius</hi> 1536, a1v–a3r. <hi
                         rend="smallcap">Polet</hi> 1936, 243–245.</note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15351230_1" type="url">555</ref>
+                        <ref target="15351230_1" type="url">555</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
             <sourceDesc>
-                <p></p>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -119,86 +182,84 @@
             </textClass>
             <creation>
                 <date when="1535-12-29">29 December 1535</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date when="1535-12-29"/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 29 December 1535)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He is sending his Declamatio to Oláh, which he will either submit to
-                            Oláh’s censorship or get rid of. Several friends encouraged him to
-                            publish it the other day, but it all depends on Oláh, since he is the
-                            only one he wants to dedicate it to, for several reasons. On the one
-                            hand because Oláh is well-versed in both languages and will spot his
-                            mistakes. Then he is also an expert in history and well-versed in many
-                            things, and as far as Turkish–Christian wars are concerned, he will
-                            immediately spot any inaccuracies. He has chosen him not only as a
-                            patron but also as a censor: once the text is published after it has
-                            been cleaned up, Oláh’s name will protect it. 2. The reason why he has
-                            chosen this genre of argumentation is that he has always lamented what
-                            has happened to the Hungarian nation: they had been the bulwark of
-                            Christianity much longer than ten years. He wanted to make up for this
-                            somehow, and now that the Emperor’s military fortune is on the rise, he
-                            wanted to show in a declamation what a sacred war this was. 3. Otherwise
-                            he has left out what is quite typical of the genre: a fictitious
-                            character talking to the Emperor – with Plato it is Socrates who talks,
-                            and both Xenophon and Cicero use this tool. But it seemed to him that it
-                            would not be appropriate for him (Nanninck) to speak by impersonating
-                            the Pope. Impersonation may fit childish games, but not such educated
-                            men. So he has omitted talk imitating real-life from the
+                        <p xml:id="reg.p.1">1. He is sending his Declamatio to Oláh, which he will
+                            either submit to Oláh’s censorship or get rid of. Several friends
+                            encouraged him to publish it the other day, but it all depends on Oláh,
+                            since he is the only one he wants to dedicate it to, for several
+                            reasons. On the one hand because Oláh is well-versed in both languages
+                            and will spot his mistakes. Then he is also an expert in history and
+                            well-versed in many things, and as far as Turkish–Christian wars are
+                            concerned, he will immediately spot any inaccuracies. He has chosen him
+                            not only as a patron but also as a censor: once the text is published
+                            after it has been cleaned up, Oláh’s name will protect it. 2. The reason
+                            why he has chosen this genre of argumentation is that he has always
+                            lamented what has happened to the Hungarian nation: they had been the
+                            bulwark of Christianity much longer than ten years. He wanted to make up
+                            for this somehow, and now that the Emperor’s military fortune is on the
+                            rise, he wanted to show in a declamation what a sacred war this was. 3.
+                            Otherwise he has left out what is quite typical of the genre: a
+                            fictitious character talking to the Emperor – with Plato it is Socrates
+                            who talks, and both Xenophon and Cicero use this tool. But it seemed to
+                            him that it would not be appropriate for him (Nanninck) to speak by
+                            impersonating the Pope. Impersonation may fit childish games, but not
+                            such educated men. So he has omitted talk imitating real-life from the
                             declamation.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Clarissimo eruditissimoque viro domino Nicolao Olaho Transsylvano,
+                <p xml:id="p.1">Clarissimo eruditissimoque viro domino Nicolao Olaho Transsylvano,
                     Ferdinandi Romanorum regis et Mariae reginae Hungariae, Bohemiae etc. a secretis
                     et consiliis, thesaurario Albensi Petrus Nannius salutem plurimam dicit. </p>
-                <p>[1.] <choice>
+                <p xml:id="p.2">[1.] <choice>
                         <orig>Mittimns</orig>
                         <supplied>Mittimus</supplied>
-                    </choice> tibi, Eruditissime Vir, declamationem<note type="critic"><hi
-                            rend="italic">Declamatio de bello Turcis ferendo.</hi></note> nostram,
-                    nuper in quodlibeticis quaestionibus habitam, quam pro tua censura vel edemus,
-                    vel supprimemus. Hactenus enim multae multorum amicorum adhortationis id
-                    egerunt, ut incoeperim addubitare, essetne res praelo committenda, an non esset?
-                    Ceterum, ut hoc vel illud eligam, non aliunde futurum est, quam ex tua
-                    sententia, quo autem tibi acrioris censurae necessitatem adderem, nulli alii,
-                    quam tibi hanc declamationem dedicandam statui, atque id multis mihi rationibus
-                    faciundum videtur. Primum, quod <milestone unit="pb"/>ut es utriusque linguae eruditissimus, et in quolibet genere dicendi
-                    multae experientiae, facile nostra vitia et senties et castigabis. Deinde ut
+                    </choice> tibi, Eruditissime Vir, declamationem<note type="critic"
+                        xml:id="note.1"><hi rend="italic">Declamatio de bello Turcis
+                        ferendo.</hi></note> nostram, nuper in quodlibeticis quaestionibus habitam,
+                    quam pro tua censura vel edemus, vel supprimemus. Hactenus enim multae multorum
+                    amicorum adhortationis id egerunt, ut incoeperim addubitare, essetne res praelo
+                    committenda, an non esset? Ceterum, ut hoc vel illud eligam, non aliunde futurum
+                    est, quam ex tua sententia, quo autem tibi acrioris censurae necessitatem
+                    adderem, nulli alii, quam tibi hanc declamationem dedicandam statui, atque id
+                    multis mihi rationibus faciundum videtur. Primum, quod <milestone unit="pb"/>ut
+                    es utriusque linguae eruditissimus, et in quolibet genere dicendi multae
+                    experientiae, facile nostra vitia et senties et castigabis. Deinde ut
                     historiarum es peritissimus multisque in rebus versatus, quae ad Turcica et
                     Christiana bella attinent, statim deprehendes, sicubi nobis a veritate historiae
                     aberratum fuerit. Elegimus te igitur non in patronum solum, sed et in censorem,
                     ut primum detersis maculis pura oratio exeat, deinde ut nominis tui amplitudine
                     protegatur. </p>
-                <p>[2.] Cur autem hoc genus argumenti inter tot quaestiones quodlibeticas
-                    potissimum arriserit, causam dicam. Maximo mihi semper dolori fuit Hungaricam
-                    gentem, quae hactenus Turcis felicissime obstitit, ubi et victoria Turcarum,
-                    quae alias nationes celerrimo cursu pervasit, non ad decennium, sed ultra
-                    saeculum haesit, iam desiisse esse propugnaculum Christianae fidei.<note
-                        type="critic">On this topos, see <hi rend="smallcap">Srodecki</hi>
-                        2015.</note> Optavi igitur miris desideriis aliunde repensari, quod inde
-                    nobis damni factum esset, ac Christianae ditionis pomeria latius proferri. Quod
-                    quia caesar felicissime coepit et felicissima coepta persecuturus <milestone unit="pb"/>videtur, non potui mihi temperare, quin vota mea in litteras
-                    effunderem, et declamatione ostenderem, quam sancta sint in <choice>
+                <p xml:id="p.3">[2.] Cur autem hoc genus argumenti inter tot quaestiones
+                    quodlibeticas potissimum arriserit, causam dicam. Maximo mihi semper dolori fuit
+                    Hungaricam gentem, quae hactenus Turcis felicissime obstitit, ubi et victoria
+                    Turcarum, quae alias nationes celerrimo cursu pervasit, non ad decennium, sed
+                    ultra saeculum haesit, iam desiisse esse propugnaculum Christianae fidei.<note
+                        type="critic" xml:id="note.2">On this topos, see <hi rend="smallcap"
+                            >Srodecki</hi> 2015.</note> Optavi igitur miris desideriis aliunde
+                    repensari, quod inde nobis damni factum esset, ac Christianae ditionis pomeria
+                    latius proferri. Quod quia caesar felicissime coepit et felicissima coepta
+                    persecuturus <milestone unit="pb"/>videtur, non potui mihi temperare, quin vota
+                    mea in litteras effunderem, et declamatione ostenderem, quam sancta sint in <choice>
                         <orig>hosteis</orig>
                         <supplied>hostes</supplied>
                     </choice> fidei bella, et quanta opportunitas eo invitaret, neque me indecenter
@@ -207,33 +268,33 @@
                     Graecia et in Asia obtineri posse? Quod si quis ineptum putat me nec ducem, nec
                     militem de bello disserere, sciat et legibus declamationum, et quodlibeticis
                     quaestionibus quodvis argumentum congruere. </p>
-                <p>[3.] Ceterum quod in declamatione maximum est, coacti sumus omittere.
-                    Nihil enim in ea tantas vires habet, quam fingere amplissimam personam, non
-                    ipsum declamatorem dicere, fingere item eum praesentem, cui te loqui argumentum
-                    exigit, veluti si haec pontifex diceret, caesar audiret. Has prosopopoias tanti
-                    faciunt non solum rhetores, sed et omnes scriptores, ut
+                <p xml:id="p.4">[3.] Ceterum quod in declamatione maximum est, coacti sumus
+                    omittere. Nihil enim in ea tantas vires habet, quam fingere amplissimam
+                    personam, non ipsum declamatorem dicere, fingere item eum praesentem, cui te
+                    loqui argumentum exigit, veluti si haec pontifex diceret, caesar audiret. Has
+                    prosopopoias tanti faciunt non solum rhetores, sed et omnes scriptores, ut
                         <persName>Plato</persName> in plerisque suis libris non se, sed
                         <persName>Socratem</persName> loquentem introducat. Idem factitatum est a
-                        <persName>Xenophonte</persName>. <persName>Cicero</persName>
-                    <choice>
+                        <persName>Xenophonte</persName>. <persName>Cicero</persName><choice>
                         <orig>Catoncs</orig>
                         <supplied><persName>Catones</persName></supplied>
                     </choice>, <persName>Scipiones</persName>, quasi actores suorum dialogorum
-                    facit, ipse suis verbis nihil <milestone unit="pb"/>dicit. Cum igitur circumstantiae a loquentis, ab adversarii et ab
-                    auditoris persona potissimum ducantur, nihil mihi ex omnibus istis usurpare
-                    licuit. Quod si quis roget, cur non licuit? Quia mihi ineptum videbatur, ut vere
-                    ineptissimum fuisset, si finxissem me pontificem, aut aliquid istiusmodi
-                    auditores duces aut milites, quodlibetarium, cuius rationes diluere cogebamur,
-                    esse principem aliquem, qui Christianis aut male faveret, aut Christianorum
-                    commoda male intelligeret. Istae personarum fictiones fortasse locum habent in
-                    ludo triviali inter pueros, in tanto consessu doctissimorum hominum, non titulis
-                    modo maximis, verum etiam maxima eruditione insignium, in conventu tantae
-                    universitatis nullo modo induci poterant, nisi cum omnium et risu et taedio.
-                    Quare a re in declamationibus maxima, quaeque sola efficit, ut declamatio vera
-                    oratio videatur, necessario coacti sumus abstinere. Dixi difficultates nostras,
-                    quo amplior locus veniae pateret. Tu autem, Amplissime Vir et nobis et Musis
-                    diutissime simul et felicissime vivas. Vale. </p>
-                <p>Ex <placeName>Lovanio</placeName> quarta Kalendas Ianuarii 1535.</p>
+                    facit, ipse suis verbis nihil <milestone unit="pb"/>dicit. Cum igitur
+                    circumstantiae a loquentis, ab adversarii et ab auditoris persona potissimum
+                    ducantur, nihil mihi ex omnibus istis usurpare licuit. Quod si quis roget, cur
+                    non licuit? Quia mihi ineptum videbatur, ut vere ineptissimum fuisset, si
+                    finxissem me pontificem, aut aliquid istiusmodi auditores duces aut milites,
+                    quodlibetarium, cuius rationes diluere cogebamur, esse principem aliquem, qui
+                    Christianis aut male faveret, aut Christianorum commoda male intelligeret. Istae
+                    personarum fictiones fortasse locum habent in ludo triviali inter pueros, in
+                    tanto consessu doctissimorum hominum, non titulis modo maximis, verum etiam
+                    maxima eruditione insignium, in conventu tantae universitatis nullo modo induci
+                    poterant, nisi cum omnium et risu et taedio. Quare a re in declamationibus
+                    maxima, quaeque sola efficit, ut declamatio vera oratio videatur, necessario
+                    coacti sumus abstinere. Dixi difficultates nostras, quo amplior locus veniae
+                    pateret. Tu autem, Amplissime Vir et nobis et Musis diutissime simul et
+                    felicissime vivas. Vale. </p>
+                <p xml:id="p.5">Ex <placeName>Lovanio</placeName> quarta Kalendas Ianuarii 1535.</p>
             </div>
         </body>
     </text>

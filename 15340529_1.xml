@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">489</title>
-                <title type="main">Lieven van den Zande to Miklós Oláh (Ghent, 29 May 1534)</title>
+                <title key="body" n="489" type="main">Lieven van den Zande to Miklós Oláh (Ghent, 29
+                    May 1534)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15340529_1</idno>
-                
+                <idno type="PID">olahus.tei.15340529_1</idno>
+                <idno type="ITIdata">Q473151</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340529_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,35 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Ipolyi</hi> 1875, 499–501.</note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 499–501.</note>
+                <note type="translation">
+                    <p><hi rend="italic">In Romanian:</hi><hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022, 1054–1063.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15340606_1" type="url">493</ref>
+                        <ref target="15340606_1" type="url">493</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -132,11 +138,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -145,66 +212,62 @@
             </textClass>
             <creation>
                 <date when="1534-05-29">29 May 1534</date>
-                <placeName>Ghent</placeName>
+                <placeName>Ghent<idno type="ITIdata">Q11613</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Lieven van den Zande</persName>
-                    <orgName/>
+                    <persName>Lieven van den Zande<idno type="ITIdata">Q470351</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date>6 June 1534</date>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Lieven van den Zande to Miklós Oláh (Ghent, 29 May 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. Why is Oláh silent, why is he keeping his joy a secret? A Benedictine
-                            monk has arrived to him, who claims that Erasmus of Rotterdam is in
-                            Brussels with the Queen, and that they had traveled together from
-                            Cologne. He is afraid that the monk was lying, so he does not dare
-                            believe this news (which he really wishes was true) until Oláh or
-                            someone else confirms it. If it is true, he should savor his happiness,
-                            but then he should not forget about his friends, either. 2. He cannot
-                            begin to say how sorry he is to hear that due to his illness Jakob
-                            Jespersen has left Oláh’s service. He had already seen the signs when he
-                            visited him last year, and he was unfortunately right. But he does not
-                            want Oláh to stop his Greek studies, least because according to Buccio
-                            (with whom Oláh had recently had breakfast), Oláh has already advanced
-                            in his Greek studies, and this should not go to waste because it is such
-                            patrons who can take on the fight against barbarism. 3. He asks him to
-                            try to intercede for Jean Molinier, to lessen his punishment. He cannot
-                            name a profane or religious work that cannot be found in Molinier’s
-                            library; Oláh should trust that he would not speak up for a youth who is
-                            not worthy of it, but Molinier deserves Oláh’s support. Even if he
-                            cannot help him, he would like for Molinier to know that he has now put
-                            in a word for him with Oláh.</p>
+                        <p xml:id="reg.p.1">1. Why is Oláh silent, why is he keeping his joy a
+                            secret? A Benedictine monk has arrived to him, who claims that Erasmus
+                            of Rotterdam is in Brussels with the Queen, and that they had traveled
+                            together from Cologne. He is afraid that the monk was lying, so he does
+                            not dare believe this news (which he really wishes was true) until Oláh
+                            or someone else confirms it. If it is true, he should savor his
+                            happiness, but then he should not forget about his friends, either. 2.
+                            He cannot begin to say how sorry he is to hear that due to his illness
+                            Jakob Jespersen has left Oláh’s service. He had already seen the signs
+                            when he visited him last year, and he was unfortunately right. But he
+                            does not want Oláh to stop his Greek studies, least because according to
+                            Buccio (with whom Oláh had recently had breakfast), Oláh has already
+                            advanced in his Greek studies, and this should not go to waste because
+                            it is such patrons who can take on the fight against barbarism. 3. He
+                            asks him to try to intercede for Jean Molinier, to lessen his
+                            punishment. He cannot name a profane or religious work that cannot be
+                            found in Molinier’s library; Oláh should trust that he would not speak
+                            up for a youth who is not worthy of it, but Molinier deserves Oláh’s
+                            support. Even if he cannot help him, he would like for Molinier to know
+                            that he has now put in a word for him with Oláh.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Levinus Ammonius Carthusianus Nicolao Olao thesaurario Albensi
+                <p xml:id="p.1">Levinus Ammonius Carthusianus Nicolao Olao thesaurario Albensi
                     secretario Mariae salutem. </p>
-                <p>[1.] Quonam usque siles, mi Olahe, εἴτ’ οὐ μεταδιδώσεις τοῖς φίλοις τῆς
-                        χαρᾶς?<note type="critic">‘and you do not share your joy with your
-                        friends’.</note> Hodie <persName>monachus</persName><note type="critic">We
-                        do not know him more closely.</note> apud nos quispiam Benedictinus, ni
-                    fallor, fuit, qui nuntium nobis exoptatissimum, et qualem audire iamdiu
-                    desideravimus, attulit, esse <persName>Erasmum</persName> nostrum
-                        <placeName>Bruxellae</placeName> apud <persName>reginam</persName>. Quod
+                <p xml:id="p.2">[1.] Quonam usque siles, mi Olahe, εἴτ’ οὐ μεταδιδώσεις τοῖς φίλοις
+                    τῆς χαρᾶς?<note type="critic" xml:id="note.1">‘and you do not share your joy
+                        with your friends’.</note> Hodie <persName>monachus</persName><note
+                        type="critic" xml:id="note.2">We do not know him more closely.</note> apud
+                    nos quispiam Benedictinus, ni fallor, fuit, qui nuntium nobis exoptatissimum, et
+                    qualem audire iamdiu desideravimus, attulit, esse <persName>Erasmum</persName>
+                    nostrum <placeName>Bruxellae</placeName> apud <persName>reginam</persName>. Quod
                     ipsum quo facilius, magisque pronis auribus admitteremus, ait, se obiter dum
-                        <placeName>Colonia Agrippina</placeName><note type="critic">Cologne.</note>
-                    huc venit, comitem aliquantisper <persName>Erasmo</persName> fuisse. Quid
-                    igitur? <choice>
+                        <placeName>Colonia Agrippina</placeName><note type="critic" xml:id="note.3"
+                        >Cologne.</note> huc venit, comitem aliquantisper
+                        <persName>Erasmo</persName> fuisse. Quid igitur? <choice>
                         <orig>Tun’</orig>
                         <supplied>Tune</supplied>
                     </choice> author es mihi, ut hoc credam? An (ut fere habet) vanus ille monachus
@@ -218,82 +281,84 @@
                     ludos edant plerumque, quorum maleficio fit, ut monachorum professio hoc aevi
                     audiat pessime. Iniquissime quidem illud, ut paucorum sutelae omnium faciant
                     praeiudicium, sed tamen ea est hominum temeritas, ut communem esse credant
-                    cunctorum culpam, si quid unus aut alter οὐδὲν ὑγϊὲς<note type="critic">‘nothing
-                        healthy (= useful)’.</note> designarit. Quapropter animo fixum est, non
-                    prius credere, quod magnopere verum esse velim, quam vel abs te, vel ab alio
-                    certior mihi nuntius advenerit. Interim tamen si verum ille dixit, οὐδεὶς
-                    φθόνος, ὄναιο σύγε ταύτης τῆς εὐδαιμονίας,<note type="critic">‘(I have) no
-                        jealousy, you should enjoy this happiness’.</note> quam tibi plane gratulor.
-                    Novi, quam tenearis <persName>Erasmi</persName> desiderio, aut ut magis dicam
-                    proprie <choice>
+                    cunctorum culpam, si quid unus aut alter οὐδὲν ὑγϊὲς<note type="critic"
+                        xml:id="note.4">‘nothing healthy (= useful)’.</note> designarit. Quapropter
+                    animo fixum est, non prius credere, quod magnopere verum esse velim, quam vel
+                    abs te, vel ab alio certior mihi nuntius advenerit. Interim tamen si verum ille
+                    dixit, οὐδεὶς φθόνος, ὄναιο σύγε ταύτης τῆς εὐδαιμονίας,<note type="critic"
+                        xml:id="note.5">‘(I have) no jealousy, you should enjoy this
+                        happiness’.</note> quam tibi plane gratulor. Novi, quam tenearis
+                        <persName>Erasmi</persName> desiderio, aut ut magis dicam proprie <choice>
                         <orig>φιλτέρω</orig>
                         <supplied>φιλτέρῳ</supplied>
-                    </choice>.<note type="critic">‘more of a friend’.</note> Exple tandem animum
-                    sitientem. Cumque satiatus fueris, si tamen unquam potest quispiam talis viri
-                    consuetudine satiari, memineris amicorum. Saltem meis illi verbis salutem dicas;
-                    atque haec quidem hactenus.</p>
-                <p>[2.] Vix credas, mi Olahe, quam me habeat male, quod ob morbum illum
-                    deterrimum <persName>Danus</persName><note type="critic">Jakob Jespersen.</note>
-                    ille coactus <milestone unit="pb"/>sit tuum deserere famulitium. Fateor tibi, quod verum est, cum anno
-                    superiore tecum me viseret, facies illa lucida insignem mihi morbum mox
-                    emersurum promittebat. Doleo tamen verum me vatem fuisse, per enim velim, ut
-                    Graecanicae linguae studii cursum minime intermitteres. Sed
-                        <persName>Buccius</persName><note type="critic">Probably Pietro Buccio who
-                        wrote the <hi rend="italic">Prognosticon astrologicum ad annum Christi
-                            MDLVIII</hi> in Ghent.</note> meus ille, inquam, Carmelitanus, qui die
-                    divi Marci<note type="critic">25 April.</note> istic tecum pransus est (si non
-                    hic quoque fallit) frigidam aspersit. Ait enim nunc, si quando alias, maxime
-                    solitis incumbere studiis Olahum <quote>sine cortice, quod aiunt:
-                        nare</quote><note type="quote">Erasm. <hi rend="italic">Adag</hi>. 742. I,
-                        VIII, 42. Sine cortice nabis.</note> cepisse, et vertendis Graecis in
-                    Latinum sermonem aliis atque aliis scriptoribus esse occupatum. Mirum dictu,
-                    quam cupiam illum hic esse minime vanum. Huiusmodi enim patronis res eget
-                    litteraria, quae ancipiti Marte adversus barbariem repullulare meditantem
-                    pugnat, sed bona me spes habet fore, ut adventus <persName>Erasmi</persName>
-                    nostri totam illam infelicium barbarorum phalangem in fugam vertat, prosternat,
-                    proterat. Quis enim barbarus coram tanto pollitioris litteraturae vindice stare
-                    possit? Immo ut verum fatear, non solum bonas humanasque litteras in illius
-                    adventum mihi videre videor exhileratas esse, sed etiam sinceram illam
-                    germanamque theologiam caput attulisse. </p>
-                <p>[3.] Perge, quaeso, o noster Olahe, tuo studio bonas litteras animare,
-                    studiosorumque omnium patronum agere! Si posses aliquid impetrare apud reginam,
-                    maxime velim meo affini domino <persName>Ioanni Molendino</persName>,<note
-                        type="critic">Johannes de Molendino or Jean Molinier (documented 1501–1534)
-                        was a Canon of Tournoi and corresponded with Erasmus of Rotterdam and Lieven
-                        van den Zande, see <hi rend="smallcap">Farge–Bietenholz</hi> 1986. Until
-                        now, the last known information in the literature about him was from 29 May,
-                        1534, but Lieven van den Zande writes in his letter of 7 July that Molinier
-                        arrived to him a few days before, see Ep.
-                        498.</note><ref>/o:olahus.tei.15340707_1</ref> canonico Tornacensi adesses
-                    in hac gravissima exactione, ut quantum ad illum attinet, nonnihil mitigaretur.
-                    Meretur hoc illius eruditio minime vulgaris, meretur hoc indefatigabile omnium
-                    bonorum librorum veterum novorumque studium, denique meretur illius
-                    splendidissimae bibliothecae construendae molitio. Vix enim credo quippiam
-                    exstare tam in prophanis, quam sacris autoribus, cum nostratibus, tum
-                    peregrinis, quod in illa bibliotheca non reperias. Adde his erga omnes bonorum
-                    studiorum cultores peculiarem quendam propensumque favorem, quem metuo, ut
-                    nonnihil remittere cogatur, si per hanc exactionem nimis ad vivum non tam
-                    tondeatur, quam deglubatur. Non ago causam istorum grassorum, qui ut nihil boni
-                    noverunt, quod ad animi cultum pertineat, ita nihil aliud fere agunt, quam ut
-                    scortis, alea, potationibus, lusibus, pergraecationibus utcumque affluentem
-                    pecuniam prodigant perdantque, quibus expedit, eam amputare occasionem, sed
-                    eruditi viri, et verae eruditionis studiosorum patroni causam ago. Indignum
-                    profecto fuerit, ut is una cum ceteris, quibus cum nihil commune habet praeter
-                    unam sodalitatem, in ordinem redigatur. Dignum vero tuo patrocinio, ut illi
-                    saltem nonnihil gratiae fiat. Quod ipsum, si vel non potes impetrare, vel etiam
-                    tentare non libet, cupio, ut resciscat ille me hanc epistolam ad te <milestone unit="pb"/>ea de causa dedisse. Est enim de me vir ille meritus optime. Neque
-                    tamen credas me hoc abs te contendere, velim, quasi ipso petente, nihil enim
-                    minus est, sed meapte sponte, et erga meum affinem iusta caritate me facere.
-                    Fretus necessitudine mutua, quam mihi tecum voluisti intercedere, non meo
-                    merito, sed tua comitate, hac de re interpellandum te duxi. Salutem, quam mihi
-                    per <persName>Buccium</persName> dici iussisti, magno cum fenore tibi reddo,
-                    precorque Christum, ut te quam diutissime servet incolumem.
-                        <persName>Panagatho</persName><note type="critic">Lieven Algoet.</note>
-                    salutem. Serenissimae reginae opto bonam firmamque valetudinem, vel tua (ut
-                    nihil aliud) causa, quam propemodum unus tam longe a natali solo peregre acturus
-                    es consecutus. Rursus bene valeat Tua Reverendissima Dominatio et meam boni
-                    consulat audaciam. </p>
-                <p>E Valleregia Carthusiana iuxta <placeName>Gandavum</placeName> 4.
+                    </choice>.<note type="critic" xml:id="note.6">‘more of a friend’.</note> Exple
+                    tandem animum sitientem. Cumque satiatus fueris, si tamen unquam potest quispiam
+                    talis viri consuetudine satiari, memineris amicorum. Saltem meis illi verbis
+                    salutem dicas; atque haec quidem hactenus.</p>
+                <p xml:id="p.3">[2.] Vix credas, mi Olahe, quam me habeat male, quod ob morbum illum
+                    deterrimum <persName>Danus</persName><note type="critic" xml:id="note.7">Jakob
+                        Jespersen.</note> ille coactus <milestone unit="pb"/>sit tuum deserere
+                    famulitium. Fateor tibi, quod verum est, cum anno superiore tecum me viseret,
+                    facies illa lucida insignem mihi morbum mox emersurum promittebat. Doleo tamen
+                    verum me vatem fuisse, per enim velim, ut Graecanicae linguae studii cursum
+                    minime intermitteres. Sed <persName>Buccius</persName><note type="critic"
+                        xml:id="note.8">Probably Pietro Buccio who wrote the <hi rend="italic"
+                            >Prognosticon astrologicum ad annum Christi MDLVIII</hi> in
+                        Ghent.</note> meus ille, inquam, Carmelitanus, qui die divi Marci<note
+                        type="critic" xml:id="note.9">25 April.</note> istic tecum pransus est (si
+                    non hic quoque fallit) frigidam aspersit. Ait enim nunc, si quando alias, maxime
+                    solitis incumbere studiis Olahum <quote xml:id="quote.1">sine cortice, quod
+                        aiunt: nare</quote><note type="quote" xml:id="note.quote.1">Erasm. <hi
+                            rend="italic">Adag</hi>. 742. I, VIII, 42. Sine cortice nabis.</note>
+                    cepisse, et vertendis Graecis in Latinum sermonem aliis atque aliis scriptoribus
+                    esse occupatum. Mirum dictu, quam cupiam illum hic esse minime vanum. Huiusmodi
+                    enim patronis res eget litteraria, quae ancipiti Marte adversus barbariem
+                    repullulare meditantem pugnat, sed bona me spes habet fore, ut adventus
+                        <persName>Erasmi</persName> nostri totam illam infelicium barbarorum
+                    phalangem in fugam vertat, prosternat, proterat. Quis enim barbarus coram tanto
+                    pollitioris litteraturae vindice stare possit? Immo ut verum fatear, non solum
+                    bonas humanasque litteras in illius adventum mihi videre videor exhileratas
+                    esse, sed etiam sinceram illam germanamque theologiam caput attulisse. </p>
+                <p xml:id="p.4">[3.] Perge, quaeso, o noster Olahe, tuo studio bonas litteras
+                    animare, studiosorumque omnium patronum agere! Si posses aliquid impetrare apud
+                    reginam, maxime velim meo affini domino <persName>Ioanni
+                        Molendino</persName>,<note type="critic" xml:id="note.10">Johannes de
+                        Molendino or Jean Molinier (documented 1501–1534) was a Canon of Tournoi and
+                        corresponded with Erasmus of Rotterdam and Lieven van den Zande, see <hi
+                            rend="smallcap">Farge–Bietenholz</hi> 1986. Until now, the last known
+                        information in the literature about him was from 29 May, 1534, but Lieven
+                        van den Zande writes in his letter of 7 July that Molinier arrived to him a
+                        few days before, see Ep. 498.<ref>olahus.tei.15340707_1</ref></note>
+                    canonico Tornacensi adesses in hac gravissima exactione, ut quantum ad illum
+                    attinet, nonnihil mitigaretur. Meretur hoc illius eruditio minime vulgaris,
+                    meretur hoc indefatigabile omnium bonorum librorum veterum novorumque studium,
+                    denique meretur illius splendidissimae bibliothecae construendae molitio. Vix
+                    enim credo quippiam exstare tam in prophanis, quam sacris autoribus, cum
+                    nostratibus, tum peregrinis, quod in illa bibliotheca non reperias. Adde his
+                    erga omnes bonorum studiorum cultores peculiarem quendam propensumque favorem,
+                    quem metuo, ut nonnihil remittere cogatur, si per hanc exactionem nimis ad vivum
+                    non tam tondeatur, quam deglubatur. Non ago causam istorum grassorum, qui ut
+                    nihil boni noverunt, quod ad animi cultum pertineat, ita nihil aliud fere agunt,
+                    quam ut scortis, alea, potationibus, lusibus, pergraecationibus utcumque
+                    affluentem pecuniam prodigant perdantque, quibus expedit, eam amputare
+                    occasionem, sed eruditi viri, et verae eruditionis studiosorum patroni causam
+                    ago. Indignum profecto fuerit, ut is una cum ceteris, quibus cum nihil commune
+                    habet praeter unam sodalitatem, in ordinem redigatur. Dignum vero tuo
+                    patrocinio, ut illi saltem nonnihil gratiae fiat. Quod ipsum, si vel non potes
+                    impetrare, vel etiam tentare non libet, cupio, ut resciscat ille me hanc
+                    epistolam ad te <milestone unit="pb"/>ea de causa dedisse. Est enim de me vir
+                    ille meritus optime. Neque tamen credas me hoc abs te contendere, velim, quasi
+                    ipso petente, nihil enim minus est, sed meapte sponte, et erga meum affinem
+                    iusta caritate me facere. Fretus necessitudine mutua, quam mihi tecum voluisti
+                    intercedere, non meo merito, sed tua comitate, hac de re interpellandum te duxi.
+                    Salutem, quam mihi per <persName>Buccium</persName> dici iussisti, magno cum
+                    fenore tibi reddo, precorque Christum, ut te quam diutissime servet incolumem.
+                        <persName>Panagatho</persName><note type="critic" xml:id="note.11">Lieven
+                        Algoet.</note> salutem. Serenissimae reginae opto bonam firmamque
+                    valetudinem, vel tua (ut nihil aliud) causa, quam propemodum unus tam longe a
+                    natali solo peregre acturus es consecutus. Rursus bene valeat Tua Reverendissima
+                    Dominatio et meam boni consulat audaciam. </p>
+                <p xml:id="p.5">E Valleregia Carthusiana iuxta <placeName>Gandavum</placeName> 4.
                     Kalendas Iunias 1534.</p>
             </div>
         </body>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">707</title>
-                <title type="main">King Ferdinand I to Pál Várday and Miklós Oláh (Prague, 27
-                    January 1549)</title>
+                <title key="body" n="707" type="main">King Ferdinand I to Pál Várday and Miklós Oláh
+                    (Prague, 27 January 1549)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15490127_2</idno>
-                
+                <idno type="PID">olahus.tei.15490127_2</idno>
+                <idno type="ITIdata">Q473365</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15490127_2.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,36 +80,25 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original draft.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Original draft. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
                 <relatedItem type="hasResponse">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15490201_1" type="url">708</ref>
+                        <ref target="15490201_1" type="url">708</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -133,11 +132,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,78 +206,78 @@
             </textClass>
             <creation>
                 <date when="1549-01-27">27 January 1549</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>King Ferdinand I</persName>
-                    <orgName/>
+                    <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pál Várday and Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">King Ferdinand I to Pál Várday and Miklós Oláh (Prague, 27
                     January 1549)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. A few days ago he wrote to the Emperor about the things they
-                            accomplished at the Bratislava diet and asked him to meet the Pope and
-                            represent the interests of both Hungary and Christian Europe, and make
-                            sure that the ecumenical council is not postponed because the defence of
-                            all of Christianity seems to depend on it. 2. The Emperor replied that
-                            he had already instructed his legate in Rome to take care of the
-                            requested matters, and he indicated that they could count on him. In
-                            addition, he also wrote that he understands their labours for Hungary,
-                            and he will hasten the cases of the bishops who still need
-                            confirming.</p>
+                        <p xml:id="reg.p.1">1. A few days ago he wrote to the Emperor about the
+                            things they accomplished at the Bratislava diet and asked him to meet
+                            the Pope and represent the interests of both Hungary and Christian
+                            Europe, and make sure that the ecumenical council is not postponed
+                            because the defence of all of Christianity seems to depend on it. 2. The
+                            Emperor replied that he had already instructed his legate in Rome to
+                            take care of the requested matters, and he indicated that they could
+                            count on him. In addition, he also wrote that he understands their
+                            labours for Hungary, and he will hasten the cases of the bishops who
+                            still need confirming.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Ferdinandus etc. Reverendissimi in Christo Patres Devoti, Fideles
+                <p xml:id="p.1">Ferdinandus etc. Reverendissimi in Christo Patres Devoti, Fideles
                     Dilecti!</p>
-                <p>[1.] Dederamus proxime praeteritis diebus litteras ad sacram
+                <p xml:id="p.2">[1.] Dederamus proxime praeteritis diebus litteras ad sacram
                         <persName>caesaream</persName> et Catholicam regiam maiestatem fratrem et
                     germanum nostrum carissimum, quibus iuxta conclusionem cum fidelibus statibus et
                     ordinibus regni istius nostrae Hungariae in conventu Posoniensi<note
-                        type="critic">This diet began on 16 October, 1548.</note> factam, a
-                    dilectione et maiestate eius perquam diligenter petivimus primum, ut sacra eius
-                    caesarea maiestas pro beneficio nedum regni Hungariae, sed totius etiam
-                    Christianitatis <del corresp="scriba">ad concordia et veritatem in fide et
+                        type="critic" xml:id="note.1">This diet began on 16 October, 1548.</note>
+                    factam, a dilectione et maiestate eius perquam diligenter petivimus primum, ut
+                    sacra eius caesarea maiestas pro beneficio nedum regni Hungariae, sed totius
+                    etiam Christianitatis <del corresp="scriba">ad concordia et veritatem in fide et
                         religione Christiana reducendae ad</del> ad fidei et religionis veritatem et
                     concordiam reducendae, pro celebratione generalis et Germanici concilii apud
                     summum sanctae Romanae et universalis ecclesiae
-                        <persName>pontificem</persName><note type="critic">Pope Paul III.</note>
-                    instaret atque efficere dignaretur, ne tam necessaria <del corresp="scriba"
-                        >rebus religionisque et</del> concilii celebratio diutius differatur, cum
-                    inde tuitio et conservatio totius Christianitatis atque adeo fidei et religionis
-                    Christianae manutentio dependere videatur <gap extent="unknown" reason="illegible" unit="word"/> <milestone unit="pb"/>a dilectione et maiestate eius caesarea etiam negotium remittendarum
-                    annatarum pro electis episcopis in regno Hungariae <del corresp="scriba"
-                        >commendare et</del> apud praefatum summum pontificem, ita <del
-                        corresp="scriba">promoveretur et commendaretur</del> promoveretur
-                    commendareturque, ut confirmationes et conservationes suas gratis et sine
-                    annatarum solutione obtinere possint, nisi alioqui vix tantum habeant <del
-                        corresp="scriba">unde se</del> propter multas <add corresp="scriba"
-                        type="insert">afflictiones et</add> oppressiones regni, unde se et arces
-                    suas hostibus Turcis finitimas sustentare et conservare quaeant. </p>
-                <p>[2.] Ad haec itaque nostra scripta dilectio et maiestas eius nobis <del
-                        corresp="scriba">respondit</del> iam respondit se de utroque negotio seria
-                    mandata et iussiones ad oratorem suum in Urbe <placeName>Roma</placeName>
+                        <persName>pontificem</persName><note type="critic" xml:id="note.2">Pope Paul
+                        III.</note> instaret atque efficere dignaretur, ne tam necessaria <del
+                        corresp="scriba">rebus religionisque et</del> concilii celebratio diutius
+                    differatur, cum inde tuitio et conservatio totius Christianitatis atque adeo
+                    fidei et religionis Christianae manutentio dependere videatur <gap
+                        extent="unknown" reason="illegible" unit="word"/><milestone unit="pb"/>a
+                    dilectione et maiestate eius caesarea etiam negotium remittendarum annatarum pro
+                    electis episcopis in regno Hungariae <del corresp="scriba">commendare et</del>
+                    apud praefatum summum pontificem, ita <del corresp="scriba">promoveretur et
+                        commendaretur</del> promoveretur commendareturque, ut confirmationes et
+                    conservationes suas gratis et sine annatarum solutione obtinere possint, nisi
+                    alioqui vix tantum habeant <del corresp="scriba">unde se</del> propter multas
+                        <add corresp="scriba" type="insert">afflictiones et</add> oppressiones
+                    regni, unde se et arces suas hostibus Turcis finitimas sustentare et conservare
+                    quaeant. </p>
+                <p xml:id="p.3">[2.] Ad haec itaque nostra scripta dilectio et maiestas eius nobis
+                        <del corresp="scriba">respondit</del> iam respondit se de utroque negotio
+                    seria mandata et iussiones ad oratorem suum in Urbe <placeName>Roma</placeName>
                     expedivisse, qui nomine maiestatis suae caesareae ista omnia apud <del
                         corresp="scriba">summam</del> beatitudinem summi pontificis omni studio,
                     cura, labore et diligentia sollicitare, curare et conficere debeat, obtulitque
                     se erga nos dilectio et maiestas eius caesarea sibi uti Christiano imperatori et
-                    principi haec omnia etiam inposterum et quavis offerente se occasione <milestone unit="pb"/>apud sanctitatem summi pontificis magnae curae fore. Hoc autem
+                    principi haec omnia etiam inposterum et quavis offerente se occasione <milestone
+                        unit="pb"/>apud sanctitatem summi pontificis magnae curae fore. Hoc autem
                     dilectionis et maiestatis eius caesareae <del corresp="scriba">suae</del> nobis
                     datum responsum ad Devotiones Vestras propterea perscribere voluimus, ut eidem
                     simul et alii fideles regnicolae propensum clementem et plane paternam sacrae
@@ -228,11 +288,11 @@
                     huiusmodi confirmationibus suis etiam ipsi instare et sollicitare possint. Qua
                     in re et nos <del corresp="scriba">eis</del> authoritate, intercessione et
                     promotione nostra illis praesto futuros esse clementer offerimus et pollicemur. </p>
-                <p>Datum <placeName>Pragae</placeName> die 27. Ianuarii 1549.</p>
+                <p xml:id="p.4">Datum <placeName>Pragae</placeName> die 27. Ianuarii 1549.</p>
             </div>
-            <div style="handwritten" type="verso">
+            <div style="handwritten" type="verso" xml:id="d.2">
                 <head>Probably on the outer side:</head>
-                <p>Reverendissimis in Christo patribus Paulo de Warda archiepiscopo
+                <p xml:id="p.5">Reverendissimis in Christo patribus Paulo de Warda archiepiscopo
                     Strigoniensi nec non Nicolao episcopo Agriensi.</p>
             </div>
         </body>

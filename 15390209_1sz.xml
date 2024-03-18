@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">608</title>
-                <title type="main">Pieter Nanninck to Miklós Oláh (Leuven, 9 February 1539)</title>
+                <title key="body" n="608" type="main">Pieter Nanninck to Miklós Oláh (Leuven, 9
+                    February 1539)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15390209_1sz</idno>
-                
+                <idno type="PID">olahus.tei.15390209_1sz</idno>
+                <idno type="ITIdata">Q473268</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15390209_1sz.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,39 +80,24 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Ms I. is a copy with Oláh’s emendations. Ms.
-                        II. is a later copy. (1730) <ref>/o:olahus.tei.15340422_1</ref>
-                    </p>
+                    <p><hi rend="italic">Notes:</hi> Ms I. is a copy with Oláh’s emendations. Ms.
+                        II. is a later copy. (1730) <ref>/o:olahus.tei.15340422_1</ref></p>
                 </note>
-                <note type="publication">
-                    <hi rend="smallcap">Tournoy</hi> 2006, 150–152.</note>
-                <note type="translation"/>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
+                <note type="publication"><hi rend="smallcap">Tournoy</hi> 2006, 150–152.</note>
             </notesStmt>
             <sourceDesc>
                 <listWit>
@@ -110,11 +106,75 @@
                     <witness xml:id="II">Hungary, Budapest, ELTE EK, Kaprinai B087 217 01 p.
                         461.</witness>
                 </listWit>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -123,93 +183,89 @@
             </textClass>
             <creation>
                 <date when="1539-02-09">9 February 1539</date>
-                <placeName>Leuven</placeName>
+                <placeName>Leuven<idno type="ITIdata">Q11546</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Pieter Nanninck</persName>
-                    <orgName/>
+                    <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Pieter Nanninck to Miklós Oláh (Leuven, 9 February 1539)</head>
                 <floatingText>
                     <body>
-                        <p>1. Oláh has his sympathy in his grief for his lost brother, and Nanninck
-                            wants to console him, but he cannot even ease his own sadness. He is
-                            sending this elegy for his consolation. 2. He has written him many times
-                            already what he thinks of <hi rend="italic">Athila</hi> and <hi
-                                rend="italic">Hungaria</hi>, he is not ashamed of his opinion,
-                            unless it seems spiteful.</p>
+                        <p xml:id="reg.p.1">1. Oláh has his sympathy in his grief for his lost
+                            brother, and Nanninck wants to console him, but he cannot even ease his
+                            own sadness. He is sending this elegy for his consolation. 2. He has
+                            written him many times already what he thinks of <hi rend="italic"
+                                >Athila</hi> and <hi rend="italic">Hungaria</hi>, he is not ashamed
+                            of his opinion, unless it seems spiteful.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendo domino Nicolao Olaho, thesaurario Albensi, archidiacono
+                <p xml:id="p.1">Reverendo domino Nicolao Olaho, thesaurario Albensi, archidiacono
                     Strigoniensi, serenissimi Ferdinandi Romanorum regis atc. ac Mariae reginae a
                     secretis et consiliis, Petrus Nannius salutem dicit.</p>
-                <p>[1.] Acerbissimos tuos luctus de amicissimo fratre<note type="critic"
-                        >Máté Oláh died in 1536, see Oláh’s epitaphs on his brother’s death: <hi
-                            rend="smallcap">Hegedüs</hi> 1906, 419–421; <hi rend="smallcap"
-                            >Fógel–Juhász</hi> 1934, 38–40; <hi rend="smallcap">Neagu</hi> 2003, 342
-                        –344. Oláh’s friends sent a heap of condolences, elegies, and epitaphs from
-                        the Netherlands to lessen his grief, which Nanninck published in print, see
-                            <hi rend="smallcap">Hegedüs</hi> 1906, 417; <hi rend="smallcap"
-                            >Tournoy</hi> 2006, 135–139. See the manuscripts: ELTE EK H 46, fol.
-                        31–43.</note> non lacrimis tantummodo, sed gravi aegritudine animi
-                    prosequor, et ex laboribus adversae valetudinis, qua nunc affligor, nihil tam
-                    triste sentio, quam cruciatus istius maeroris. Et ut libenter studium consolandi
-                    prae me ferrem (tametsi tua sapientia et animi fortitudo istiusmodi adminiculis
-                    non egeat), ita ipse vix <app>
-                        <lem wit="#CE #I"><choice>
+                <p xml:id="p.2">[1.] Acerbissimos tuos luctus de amicissimo fratre<note
+                        type="critic" xml:id="note.1">Máté Oláh died in 1536, see Oláh’s epitaphs on
+                        his brother’s death: <hi rend="smallcap">Hegedüs</hi> 1906, 419–421; <hi
+                            rend="smallcap">Fógel–Juhász</hi> 1934, 38–40; <hi rend="smallcap"
+                            >Neagu</hi> 2003, 342 –344. Oláh’s friends sent a heap of condolences,
+                        elegies, and epitaphs from the Netherlands to lessen his grief, which
+                        Nanninck published in print, see <hi rend="smallcap">Hegedüs</hi> 1906, 417;
+                            <hi rend="smallcap">Tournoy</hi> 2006, 135–139. See the manuscripts:
+                        ELTE EK H 46, fol. 31–43.</note> non lacrimis tantummodo, sed gravi
+                    aegritudine animi prosequor, et ex laboribus adversae valetudinis, qua nunc
+                    affligor, nihil tam triste sentio, quam cruciatus istius maeroris. Et ut
+                    libenter studium consolandi prae me ferrem (tametsi tua sapientia et animi
+                    fortitudo istiusmodi adminiculis non egeat), ita ipse vix <app xml:id="app.1">
+                        <lem wit="#CE #I" xml:id="lem.1"><choice>
                                 <orig>inven<gap extent="1" reason="damage" unit="word"/></orig>
                                 <supplied>inven<corr>io</corr></supplied>
                             </choice></lem>
-                        <rdg wit="#II">invenio</rdg>
+                        <rdg wit="#II" xml:id="rdg.1">invenio</rdg>
                     </app>, quo maestitiam meam commitigem. Quamobrem, ut in te consolando nonnihil
                     ipse acquiescerem, carmen hoc elegiacum super consolationes fraternae mortis,
                     quod ad te mitto, condidi, qualecumque ab animo ita misere afflicto exprimere
                     potui.</p>
-                <p>[Nunc utinam Pyliae…]<note type="critic">See <hi rend="smallcap"
-                            >Tournoy</hi> 2006, 150–151.</note></p>
+                <p xml:id="p.3">[Nunc utinam Pyliae…]<note type="critic" xml:id="note.2">See <hi
+                            rend="smallcap">Tournoy</hi> 2006, 150–151.</note></p>
                 <pb/>
-                <p>[2.] De <app>
-                        <lem wit="#CE #I"><del corresp="Olahus">tua</del><add corresp="Olahus"
-                                type="corr">tuo</add></lem>
-                        <rdg wit="#II">tuo</rdg>
-                    </app>
-                    <hi rend="italic">Athila</hi> et Hungariae descriptione<note type="critic">I.e.
-                            <hi rend="italic">Hungaria</hi>.</note> quid sentiam, iam saepius
-                    litteris meis testatus sum. Cuius me iudicii nunquam paenitebit, nisi quod
-                    malignius videor et nimis parce rei laudatissimae laudes impertiisse. Olim
-                    carmine testabimur, quantus mihi videare. Plura scriberem, sed doloribus morbi
-                    huius ita excrucior, ut vix compos <app>
-                        <lem wit="#CE #I"><choice>
+                <p xml:id="p.4">[2.] De <app xml:id="app.2">
+                        <lem wit="#CE #I" xml:id="lem.2"><del corresp="Olahus">tua</del><add
+                                corresp="Olahus" type="corr">tuo</add></lem>
+                        <rdg wit="#II" xml:id="rdg.2">tuo</rdg>
+                    </app><hi rend="italic">Athila</hi> et Hungariae descriptione<note type="critic"
+                        xml:id="note.3">I.e. <hi rend="italic">Hungaria</hi>.</note> quid sentiam,
+                    iam saepius litteris meis testatus sum. Cuius me iudicii nunquam paenitebit,
+                    nisi quod malignius videor et nimis parce rei laudatissimae laudes impertiisse.
+                    Olim carmine testabimur, quantus mihi videare. Plura scriberem, sed doloribus
+                    morbi huius ita excrucior, ut vix compos <app xml:id="app.3">
+                        <lem wit="#CE #I" xml:id="lem.3"><choice>
                                 <orig>menti<gap extent="1" reason="damage" unit="word"/></orig>
                                 <supplied>menti<corr>s</corr></supplied>
                             </choice></lem>
-                        <rdg wit="#II">menti</rdg>
+                        <rdg wit="#II" xml:id="rdg.3">menti</rdg>
                     </app> sim.</p>
-                <p>Vale, Unicum <quote>Praesidium Meum!</quote><note type="quote">Cf. Hor.
-                            <hi rend="italic">Carm</hi>. I,I,2.</note><note type="critic">See Ep.
-                        598. Cap. 3.</note><ref>/o:olahus.tei.15371222_1</ref></p>
-                <p><placeName>Lovanii</placeName>, nona <app>
-                        <lem wit="#CE #I"><choice>
+                <p xml:id="p.5">Vale, Unicum <quote xml:id="quote.1">Praesidium Meum!</quote><note
+                        type="quote" xml:id="note.quote.1">Cf. Hor. <hi rend="italic">Carm</hi>.
+                        I,I,2.</note><note type="critic" xml:id="note.4">See Ep. 598. Cap.
+                            3.<ref>olahus.tei.15371222_1</ref></note></p>
+                <p xml:id="p.6"><placeName>Lovanii</placeName>, nona <app xml:id="app.4">
+                        <lem wit="#CE #I" xml:id="lem.4"><choice>
                                 <orig>Februar<gap extent="1" reason="damage" unit="word"/></orig>
                                 <supplied>Februar<corr>ii</corr></supplied>
                             </choice></lem>
-                        <rdg wit="#II">Februarii</rdg>
+                        <rdg wit="#II" xml:id="rdg.4">Februarii</rdg>
                     </app> anno MDXXXIX.</p>
             </div>
         </body>

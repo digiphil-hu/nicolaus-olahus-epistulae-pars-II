@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">641</title>
-                <title type="main">László Drakulya to Miklós Oláh (Prague, 11 December 1543)</title>
+                <title key="body" n="641" type="main">László Drakulya to Miklós Oláh (Prague, 11
+                    December 1543)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15431211_1</idno>
-                
+                <idno type="PID">olahus.tei.15431211_1</idno>
+                <idno type="ITIdata">Q473301</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15431211_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,43 +80,31 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Two copies have been preserved. One of them (p.
-                            18–21.) contains Oláh’s emendations, the other (p. 14–17.) is a copy of
-                            this manuscript. Both copies contain the family tree of his relative,
-                            László Drakulya. The family tree in the earlier copy was copied or
-                            sketched by Oláh, see page 20. The two family trees differ from each
-                            other.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> Two copies have been preserved. One of them (p.
+                        18–21.) contains Oláh’s emendations, the other (p. 14–17.) is a copy of this
+                        manuscript. Both copies contain the family tree of his relative, László
+                        Drakulya. The family tree in the earlier copy was copied or sketched by
+                        Oláh, see page 20. The two family trees differ from each other. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
                 <note type="outer_side">
                     <p><hi rend="bold">On the outer side:</hi> Ex relatione Ladislai Drakwlya
                         genealogia <del corresp="Olahus">mea</del> Nicolai Olahi.
                             <placeName>Pragae</placeName> datae 11. Decembris 1543.</p>
                 </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -137,11 +136,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -150,75 +210,73 @@
             </textClass>
             <creation>
                 <date when="1543-12-11">11 December 1543</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
                     <persName>László Drakulya</persName>
-                    <orgName/>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">László Drakulya to Miklós Oláh (Prague, 11 December 1543)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. László Drakula’s parents told him that he and Oláh shared a
-                            grandfather, namely Dracula or Vlad Țepeș, to whom King Matthias married
-                            one of his female relatives. This Vlad was famous for his cruelties, and
-                            he had three sons, one of whom was Voivode Mihnea, the second was Oláh’s
-                            father, and the third was Drakula’s father. 2. After Vlad was killed by
-                            the boyars, Mihnea became voivode, and he had 60 boyars killed in
-                            revenge. After this, he deemed it safe to tell King Vladislaus II
-                            everything and offered his Transalpine fortifications to him, in
-                            exchange for which the King should give him estates in Hungary. In the
-                            end, Jakšić killed Mihnea in Sibiu, and as Oláh knows well, this has
-                            harmed them greatly. From all this Oláh can see that their ancestors
+                        <p xml:id="reg.p.1">1. László Drakula’s parents told him that he and Oláh
+                            shared a grandfather, namely Dracula or Vlad Țepeș, to whom King
+                            Matthias married one of his female relatives. This Vlad was famous for
+                            his cruelties, and he had three sons, one of whom was Voivode Mihnea,
+                            the second was Oláh’s father, and the third was Drakula’s father. 2.
+                            After Vlad was killed by the boyars, Mihnea became voivode, and he had
+                            60 boyars killed in revenge. After this, he deemed it safe to tell King
+                            Vladislaus II everything and offered his Transalpine fortifications to
+                            him, in exchange for which the King should give him estates in Hungary.
+                            In the end, Jakšić killed Mihnea in Sibiu, and as Oláh knows well, this
+                            has harmed them greatly. From all this Oláh can see that their ancestors
                             always had great power and were the allies of the Christian rulers. It
                             would be good if Oláh told all this to the King so that once he rules
                             everything, he should also look after them (Drakula and Oláh).</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Reverendissime Domine, Domine mihi Observandissime!<note type="critic"
-                        >On this letter, see <hi rend="smallcap">Szilágyi–Nagy</hi> 2022.</note></p>
-                <p>[1.] Ego enim, quemdamodum a parentibus meis<note type="critic">His
-                        father was Ludovicus Drakula.</note> accepi, vere et ingenue cognationem
-                    meam refero, nec aliter se res habet.<note type="critic">On the Dracula family,
-                        see <hi rend="smallcap">Nagy</hi> 2010.</note>
-                    <persName>Avum</persName> igitur Vestrae Reverendissimae Dominationis<note
-                        type="critic">According to Drakulya’s family tree, he was Vlad Țepeș, but
-                        László Drakulya is wrong: Vlad was neither Oláh’s grandfather nor
-                        ancestor.</note> et <persName>meum</persName>
-                    <persName>Mathias rex</persName><note type="critic">King Mathias I.</note>
-                    ceperat et unam cognatam suam <del corresp="Olahus">ei</del><add
-                        corresp="Olahus" type="corr">avo meo</add> in
-                        <persName>uxorem</persName><note type="critic">Marina Hunyadi.</note> dedit,
-                    sicque ipsum <persName>Wlaad vaidat</persName><note type="critic">Vlad
-                        Țepeș.</note> nomine Ladislaum avum nostrum in vaivodatum Transalpinum
-                    miserat, eique contulit. Nominatus autem nomine hoc Drakulya ob nimiam ipsius
-                    crudelitatem fuit, quod super ipsum ad extremum vitae suae diem usque permansit.
-                    Ipse igitur avus noster <persName>Wlaad vaida</persName>
-                    <add corresp="Olahus" type="insert">sive Dracula</add> tres filios habuit,
-                    quorum unus fuit <persName>Myhne vaida</persName>,<note type="critic">Mihnea cel
-                        Rău.</note> secundus vero <persName>pater</persName><note type="critic"
+                <p xml:id="p.1">Reverendissime Domine, Domine mihi Observandissime!<note
+                        type="critic" xml:id="note.1">On this letter, see <hi rend="smallcap"
+                            >Szilágyi–Nagy</hi> 2022.</note></p>
+                <p xml:id="p.2">[1.] Ego enim, quemdamodum a parentibus meis<note type="critic"
+                        xml:id="note.2">His father was Ludovicus Drakula.</note> accepi, vere et
+                    ingenue cognationem meam refero, nec aliter se res habet.<note type="critic"
+                        xml:id="note.3">On the Dracula family, see <hi rend="smallcap">Nagy</hi>
+                        2010.</note><persName>Avum</persName> igitur Vestrae Reverendissimae
+                        Dominationis<note type="critic" xml:id="note.4">According to Drakulya’s
+                        family tree, he was Vlad Țepeș, but László Drakulya is wrong: Vlad was
+                        neither Oláh’s grandfather nor ancestor.</note> et
+                        <persName>meum</persName><persName>Mathias rex</persName><note type="critic"
+                        xml:id="note.5">King Mathias I.</note> ceperat et unam cognatam suam <del
+                        corresp="Olahus">ei</del><add corresp="Olahus" type="corr">avo meo</add> in
+                        <persName>uxorem</persName><note type="critic" xml:id="note.6">Marina
+                        Hunyadi.</note> dedit, sicque ipsum <persName>Wlaad vaidat</persName><note
+                        type="critic" xml:id="note.7">Vlad Țepeș.</note> nomine Ladislaum avum
+                    nostrum in vaivodatum Transalpinum miserat, eique contulit. Nominatus autem
+                    nomine hoc Drakulya ob nimiam ipsius crudelitatem fuit, quod super ipsum ad
+                    extremum vitae suae diem usque permansit. Ipse igitur avus noster
+                        <persName>Wlaad vaida</persName><add corresp="Olahus" type="insert">sive
+                        Dracula</add> tres filios habuit, quorum unus fuit <persName>Myhne
+                        vaida</persName>,<note type="critic" xml:id="note.8">Mihnea cel Rău.</note>
+                    secundus vero <persName>pater</persName><note type="critic" xml:id="note.9"
                         >István Oláh, see <hi rend="smallcap">Dörner</hi> 1994; and <hi
                             rend="smallcap">Szilágyi</hi> 2021.</note> Vestrae Reverendissimae
                     Dominationis, tertius autem pater meus nomine <persName>Ludovicus Drakulya
                         vaida</persName>, et quia nimis crudelis fuit, eam ob rem a boieris
                     trucidatus fuit, et sic posteri ipsius huc devenerunt. </p>
-                <p>[2.] Cum autem <persName>Myhne vaida</persName> denuo ad vaivodatum
+                <p xml:id="p.3">[2.] Cum autem <persName>Myhne vaida</persName> denuo ad vaivodatum
                     vocatus fuit, ex voluntate patris Vestrae Reverendissimae Dominationis et mei ad
                     officium vaivodatus profectus fuit. Hinc itaque Vestra Reverendissima Dominatio
                     facile coniicere potest et diiudicare, nos circa regnum illud iustitiam habere,
@@ -226,23 +284,26 @@
                         <persName>avi</persName> nostri, simul et semel 60 boiaros occidi et
                     trucidari iussit. Peracta igitur crudelitate, persuasum habens se rem impune non
                     laturum, omne suum negotium cum <persName>rege Ladislao</persName> contulit et
-                    communicavit medio <persName>Petri Groffh</persName><note type="critic">Péter of
-                        Szentgyörgy and Bazin (1498–1510) was Voivode of Transsylvania between 1498
-                        and 1510, see <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi</hi>
-                        2017, 88.</note> vaivoda Transylvaniensem tunc existentem, ut scilicet ipse
-                        <persName>Myhne</persName> munitiones Transalpinenses ad manus regis daret,
-                    rexque ei pro bonis ipsius in Hungaria alia bona ut conferret. Quomodo vero
-                    ipsum <persName>Myhne</persName>
-                    <persName>Demetrius Iaxyth</persName><note type="critic">Dmitar Jakšić.</note>
-                    <placeName>Cibinii</placeName> fraudulenter ferro confodi iussit,<note
-                        type="critic">See Ep. 333. and <hi rend="smallcap">Szilágyi</hi> 2018,
-                        427.</note><ref>/o:olahus.tei.15330307_1</ref> id Vestram Reverendissimam
+                    communicavit medio <persName>Petri Groffh</persName><note type="critic"
+                        xml:id="note.10">Péter of Szentgyörgy and Bazin (1498–1510) was Voivode of
+                        Transsylvania between 1498 and 1510, see <hi rend="smallcap">C.
+                            Tóth–Horváth–Neumann–Pálosfalvi</hi> 2017, 88.</note> vaivoda
+                    Transylvaniensem tunc existentem, ut scilicet ipse <persName>Myhne</persName>
+                    munitiones Transalpinenses ad manus regis daret, rexque ei pro bonis ipsius in
+                    Hungaria alia bona ut conferret. Quomodo vero ipsum
+                        <persName>Myhne</persName><persName>Demetrius Iaxyth</persName><note
+                        type="critic" xml:id="note.11">Dmitar
+                        Jakšić.</note><placeName>Cibinii</placeName> fraudulenter ferro confodi
+                        iussit,<note type="critic" xml:id="note.12">See Ep. 333. and <hi
+                            rend="smallcap">Szilágyi</hi> 2018,
+                        427.<ref>olahus.tei.15330307_1</ref></note> id Vestram Reverendissimam
                     Dominationem latere non opinor. Cuius quidem interitus nobis omnibus male assit,
-                    negotium igitur istud a domino Matheo<note type="critic">Máté Oláh.</note>
-                    quoque fratre Vestrae Reverendissimae Dominationis tali ordine accepi et ita, ut
-                    audivi, vere refero, cuius rei memoriam Vestra Reverendissima Dominatio forsan
-                    habere potest. Bene igitur iam Vestra Reverendissima Dominatio intelliget, quod <milestone unit="pb"/>regnum illud antecessores nostri magna cum potentia semper obtinuerunt
-                    et <choice>
+                    negotium igitur istud a domino Matheo<note type="critic" xml:id="note.13">Máté
+                        Oláh.</note> quoque fratre Vestrae Reverendissimae Dominationis tali ordine
+                    accepi et ita, ut audivi, vere refero, cuius rei memoriam Vestra Reverendissima
+                    Dominatio forsan habere potest. Bene igitur iam Vestra Reverendissima Dominatio
+                    intelliget, quod <milestone unit="pb"/>regnum illud antecessores nostri magna
+                    cum potentia semper obtinuerunt et <choice>
                         <orig>possederunt</orig>
                         <supplied>possiderunt</supplied>
                     </choice> semperque cum Christianis principibus coniuncti fuerunt. Bonum igitur
@@ -251,7 +312,7 @@
                     maiestas, volente Deo, omne suum imperium obtinebit et sic forsitan de nobis
                     quoque provideretur. </p>
                 <pb/>
-                <p
+                <p xml:id="p.4"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[family
                     tree]<?oxy_custom_end?></p>
             </div>

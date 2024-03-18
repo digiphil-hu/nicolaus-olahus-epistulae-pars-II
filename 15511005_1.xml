@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">785</title>
-                <title type="main">Hungarian Chamber to Miklós Oláh (Bratislava, 5 October
-                    1551)</title>
+                <title key="body" n="785" type="main">Hungarian Chamber to Miklós Oláh (Bratislava,
+                    5 October 1551)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -31,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -47,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15501005_1</idno>
-                
+                <idno type="PID">olahus.tei.15511005_1</idno>
+                <idno type="ITIdata">Q473442</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15511005_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -70,36 +80,22 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> Original draft. </p>
+                    <p><hi rend="italic">Notes:</hi> Original draft. </p>
                 </note>
-                <note type="publication"> </note>
-                <note type="translation"> </note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
-                </note>
-                <relatedItem type="responseTo">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
-                    </bibl>
-                </relatedItem>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -131,11 +127,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -143,86 +200,84 @@
                 </keywords>
             </textClass>
             <creation>
-                <date when="1550-10-05">5 October 1551</date>
-                <placeName>Bratislava</placeName>
+                <date when="1551-10-05">5 October 1551</date>
+                <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Hungarian Chamber</persName>
-                    <orgName/>
+                    <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Hungarian Chamber to Miklós Oláh (Bratislava, 5 October
                     1551)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. A few days ago they asked the King to appoint a protonotary and some
-                            people to investigate the complaints of the inhabitants of the Guta
-                            estate, since they are complaining that the Komárom provisor has
-                            occupied their land and sturgeon catching sites, and their complaint has
-                            reached Antal Nagyváthi through Ferenc Újlaki. However, he had just
-                            taken on another mandate, i.e. going to Skalica to examine the Moravian
-                            border issues, so he does not know what to do. They are thus asking Oláh
-                            to talk to Újlaki and make sure that the case of the poor is not dragged
-                            out, they do not have a vineyard or land, only the fish pond is left,
-                            and if that is taken away as well, they will have to move; they are
-                            awaiting the decision. 2. They are wondering how Mihály Pogrányi
-                            convinced the King to deprive the vineyards of enforcing the tithe. He
-                            has often blackmailed the vice comes and is withholding a lot of money,
-                            and he has paid the King 3,000, but he is withholding a lot more.</p>
+                        <p xml:id="reg.p.1">1. A few days ago they asked the King to appoint a
+                            protonotary and some people to investigate the complaints of the
+                            inhabitants of the Guta estate, since they are complaining that the
+                            Komárom provisor has occupied their land and sturgeon catching sites,
+                            and their complaint has reached Antal Nagyváthi through Ferenc Újlaki.
+                            However, he had just taken on another mandate, i.e. going to Skalica to
+                            examine the Moravian border issues, so he does not know what to do. They
+                            are thus asking Oláh to talk to Újlaki and make sure that the case of
+                            the poor is not dragged out, they do not have a vineyard or land, only
+                            the fish pond is left, and if that is taken away as well, they will have
+                            to move; they are awaiting the decision. 2. They are wondering how
+                            Mihály Pogrányi convinced the King to deprive the vineyards of enforcing
+                            the tithe. He has often blackmailed the vice comes and is withholding a
+                            lot of money, and he has paid the King 3,000, but he is withholding a
+                            lot more.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Ad dominum cancellarium Hungariae.</p>
-                <p>Reverendissime Domine, Domine et Patrone Observandissime, servitiorum nostrorum
-                    perpetuam commendationem! </p>
-                <p>[1.] Supplicaveramus proximis diebus maiestati regiae, domino nostro
+                <p xml:id="p.1">Ad dominum cancellarium Hungariae.</p>
+                <p xml:id="p.2">Reverendissime Domine, Domine et Patrone Observandissime,
+                    servitiorum nostrorum perpetuam commendationem! </p>
+                <p xml:id="p.3">[1.] Supplicaveramus proximis diebus maiestati regiae, domino nostro
                     clementissimo, ut protonotarium et certos homines designare dignaretur, qui
                     querelas incolarum possessionis <persName>Gwtha</persName> in ipsa facie loci
                     cognosceret, lamentatur enim occupari per <persName>provisorem
-                        Comaronensem</persName><note type="critic">We do not know him more
-                        closely.</note> terras, prata et imprimis loca erectionis capturae usonum,
-                    venerant quidem <choice>
+                        Comaronensem</persName><note type="critic" xml:id="note.1">We do not know
+                        him more closely.</note> terras, prata et imprimis loca erectionis capturae
+                    usonum, venerant quidem <choice>
                         <orig>adlata</orig>
                         <supplied>ad mandata</supplied>
                     </choice> suae maiestatis ad egregium <persName>Antonium
-                        Naghwaty</persName><note type="critic">Antal Nagyváthi.</note>
-                    protonotarium, <del corresp="author">sed</del> per reverendissimum
-                        <persName>dominum locumtenentem</persName><note type="critic">Ferenc
-                        Újlaki.</note> hic directa. Ille tamen sub idem tempus aliam accepit
-                    commissionem, nimirum ut in eum ipsum terminum ad
-                        <placeName>Zacolcza</placeName><note type="critic">Skalica.</note> eat
-                    differentiarum Moravicalium gratia, igitur anceps haeret et utro potius se
-                    conferat, nescit, nisi quod putat publicas metas Moraviae marchionis esse
-                    ponderis. Quare Reverendissimam Dominationem Vestram rogamus, velit hac de re
-                    conferre cum domino reverendissimo locumtenente et efficere, ne causa pauperum
-                    illorum diutius suspendatur, carent Guthenses omni vinea, carent et agris, quos
-                    serant, una restat piscatoria, quae si eripiatur, necesse est, ut alio migrent
-                    destito loco sterili, nec autem strenue curat clasuras provisor Comaronensis in
-                    loco, qui sibi utilior valere et existimare <del corresp="author"
-                        >valeret</del><add corresp="author" type="corr">putat</add> sufficere in
-                    defensionem sententiae, quod ita sibi dentur, sit, quod locus ille ad Comarom
-                    spectet, est maiestas regia quoque de <del corresp="author">impunitate</del><add
-                        corresp="author" type="corr">licentia</add> hominis admovenda, apud quam
-                    quicquid conclusum finiret, exspectamus a Reverendissima Dominatione Vestra, ut
-                    sciamus. </p>
-                <p>[2.] Ceterum miramur, qua arte persuasit maiestati regiae <persName>Michael
-                        Pograny</persName>,<note type="critic">Mihály Pogrányi was a constable and
-                        later <hi rend="italic">ispán</hi> of Nyitra county, see <hi rend="smallcap"
-                            >C. Tóth–Horváth–Neumann–Pálosfalvi</hi> II, 2017, 176; and <hi
+                        Naghwaty</persName><note type="critic" xml:id="note.2">Antal
+                        Nagyváthi.</note> protonotarium, <del corresp="author">sed</del> per
+                    reverendissimum <persName>dominum locumtenentem</persName><note type="critic"
+                        xml:id="note.3">Ferenc Újlaki.</note> hic directa. Ille tamen sub idem
+                    tempus aliam accepit commissionem, nimirum ut in eum ipsum terminum ad
+                        <placeName>Zacolcza</placeName><note type="critic" xml:id="note.4"
+                        >Skalica.</note> eat differentiarum Moravicalium gratia, igitur anceps
+                    haeret et utro potius se conferat, nescit, nisi quod putat publicas metas
+                    Moraviae marchionis esse ponderis. Quare Reverendissimam Dominationem Vestram
+                    rogamus, velit hac de re conferre cum domino reverendissimo locumtenente et
+                    efficere, ne causa pauperum illorum diutius suspendatur, carent Guthenses omni
+                    vinea, carent et agris, quos serant, una restat piscatoria, quae si eripiatur,
+                    necesse est, ut alio migrent destito loco sterili, nec autem strenue curat
+                    clasuras provisor Comaronensis in loco, qui sibi utilior valere et existimare
+                        <del corresp="author">valeret</del><add corresp="author" type="corr"
+                        >putat</add> sufficere in defensionem sententiae, quod ita sibi dentur, sit,
+                    quod locus ille ad Comarom spectet, est maiestas regia quoque de <del
+                        corresp="author">impunitate</del><add corresp="author" type="corr"
+                        >licentia</add> hominis admovenda, apud quam quicquid conclusum finiret,
+                    exspectamus a Reverendissima Dominatione Vestra, ut sciamus. </p>
+                <p xml:id="p.4">[2.] Ceterum miramur, qua arte persuasit maiestati regiae
+                        <persName>Michael Pograny</persName>,<note type="critic" xml:id="note.5"
+                        >Mihály Pogrányi was a constable and later <hi rend="italic">ispán</hi> of
+                        Nyitra county, see <hi rend="smallcap">C.
+                            Tóth–Horváth–Neumann–Pálosfalvi</hi> II, 2017, 176; and <hi
                             rend="smallcap">Borovszky</hi> 1907, 578.</note> ut vineas eius a
                     decimarum solutione eximeret, qui pro regia maiestate nulla incommoda a terris
                     sumpsit, nisi quod et alii <del corresp="author">nempe</del> captis quidem
@@ -233,9 +288,9 @@
                     retinet tamen adhuc restantias plurimas et <del corresp="author">tamen</del>
                     quasi benemeritus petit condonationem, qualem benemeriti non assequentur.
                     Reverendissima Dominatio Vestra feliciter valeat.</p>
-                <p><placeName>Posonii</placeName> die 5. mensis Octobris 1551.</p>
-                <p>Reverendissimae Dominationis Vestrae deditissimi servitores</p>
-                <p>
+                <p xml:id="p.5"><placeName>Posonii</placeName> die 5. mensis Octobris 1551.</p>
+                <p xml:id="p.6">Reverendissimae Dominationis Vestrae deditissimi servitores</p>
+                <p xml:id="p.7">
                     <seg type="signature">Camerae regiae consiliarii.</seg>
                 </p>
             </div>

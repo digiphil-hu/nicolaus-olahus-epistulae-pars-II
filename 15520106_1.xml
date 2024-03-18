@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="num">798</title>
-                <title type="main">Miklós Oláh to Queen Mary (Prague, 6 January 1552)</title>
+                <title key="body" n="798" type="main">Miklós Oláh to Queen Mary (Prague, 6 January
+                    1552)</title>
             </titleStmt>
             <editionStmt>
-                <edition>digital edition</edition>
+                <edition>Digital critical edition</edition>
                 <respStmt>
                     <resp>editor</resp>
                     <persName>
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>project director</resp>
+                    <resp>editor in chief</resp>
                     <persName>
                         <surname>Palkó</surname>
                         <forename>Gábor</forename>
-                        <idno type="KOHA_AUTH">KOHA_AUTH:121463</idno>
+                        <idno type="ITIdata">Q245084</idno>
+                        <idno type="ORCID">0000-0002-4394-8577</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -30,13 +35,17 @@
                         <surname>Szilágyi</surname>
                         <forename>Emőke</forename>
                         <forename>Rita</forename>
+                        <idno type="ITIdata">Q469914</idno>
+                        <idno type="ORCID">0000-0001-9504-5188</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>XML-editor</resp>
+                    <resp>TEI-specification</resp>
                     <persName>
                         <surname>Fellegi</surname>
                         <forename>Zsófia</forename>
+                        <idno type="ITIdata">Q349971</idno>
+                        <idno type="ORCID">0000-0001-9199-1759</idno>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -46,20 +55,22 @@
             </editionStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName>Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet</orgName>
-                    <ref type="url">http://viaf.org/viaf/312925875/</ref>
-                    <ref type="url">http://www.iti.mta.hu/</ref>
+                    <orgName>HUN-REN Bölcsészettudományi Kutatóközpont, Irodalomtudományi Intézet
+                            <idno type="ITIdata">Q2256</idno></orgName>
+                    <ref type="url">https://iti.abtk.hu</ref>
                 </publisher>
-                <pubPlace>Budapest <ref type="url">http://www.geonames.org/3054643</ref>
-                </pubPlace>
-                <date>2023</date>
+                <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                <date when="2024">2024</date>
                 <availability>
-                    <p>©Free Access - no-reuse <ref type="url"
-                            >http://www.europeana.eu/rights/rr-f/</ref>
-                    </p>
+                    <p>CC BY-NC-ND 4.0 DEED: Attribution-NonCommercial-NoDerivs 4.0
+                            International<ref type="url"
+                            >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">o:olahus.tei.15520106_1</idno>
-                
+                <idno type="PID">olahus.tei.15520106_1</idno>
+                <idno type="ITIdata">Q473456</idno>
+                <ref
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520106_1.xml"
+                    >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Bibliotheca Scriptorum Medii Recentisque Aevorum: Series
@@ -69,37 +80,30 @@
                     <persName>
                         <surname>Békés</surname>
                         <forename>Enikő</forename>
+                        <idno type="ITIdata">Q330658</idno>
                     </persName>
                     <persName>
                         <surname>Szörényi</surname>
                         <forename>László</forename>
+                        <idno type="ITIdata">Q49630</idno>
                     </persName>
                 </respStmt>
                 <biblScope unit="volume">XIX/II.</biblScope>
+                <idno type="ISSN">0133-6711</idno>
+                <idno type="ITIdata">Q469925</idno>
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p>
-                        <hi rend="italic">Notes:</hi> We do not know the manuscript.
-                    </p>
-                    
+                    <p><hi rend="italic">Notes:</hi> We do not know the manuscript. </p>
                 </note>
                 <note type="publication"><hi rend="smallcap">Hatvani</hi> 1858, 314–316.</note>
-                <note type="translation"><p><hi rend="italic">In Hungarian:</hi>
-                    <hi rend="smallcap">Hatvani</hi> 1858, 314. [regesta]</p></note>
-                <note type="outer_side">
-                    <p>
-                        <hi rend="bold">On the outer side:</hi>
-                    </p>
+                <note type="translation">
+                    <p><hi rend="italic">In Hungarian:</hi><hi rend="smallcap">Hatvani</hi> 1858,
+                        314. [regesta]</p>
                 </note>
                 <relatedItem type="responseTo">
                     <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei.15511118_1" type="url">793</ref>
-                    </bibl>
-                </relatedItem>
-                <relatedItem type="hasResponse">
-                    <bibl>
-                        <ref target="http:/digiphil.hu/o:olahus.tei." type="url"/>
+                        <ref target="15511118_1" type="url">793</ref>
                     </bibl>
                 </relatedItem>
             </notesStmt>
@@ -133,11 +137,72 @@
                         </physDesc>
                     </msPart>
                 </msDesc>
+                <bibl>
+                    <title level="m">Nicolaus Olahus: Epistulae. Pars II. 1534–1553</title>
+                    <idno type="ISBN">978-615-6255-40-2</idno>
+                    <idno type="url">https://www.reciti.hu/2023/7807</idno>
+                    <publisher>
+                        <orgName>reciti</orgName>
+                        <ref type="url">https://www.reciti.hu/</ref>
+                    </publisher>
+                    <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                    <respStmt>
+                        <resp>editor</resp>
+                        <persName>
+                            <surname>Szilágyi</surname>
+                            <forename>Emőke</forename>
+                            <forename>Rita</forename>
+                            <idno type="ITIdata">Q469914</idno>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector</resp>
+                        <persName>
+                            <surname>Békés</surname>
+                            <forename>Enikő</forename>
+                            <idno type="ITIdata">Q330658</idno>
+                        </persName>
+                        <persName>
+                            <surname>Bolonyai</surname>
+                            <forename>Gábor</forename>
+                            <idno type="ITIdata">Q55828</idno>
+                        </persName>
+                        <persName>
+                            <surname>Faragó</surname>
+                            <forename>Dávid</forename>
+                        </persName>
+                        <persName>
+                            <surname>Fazekas</surname>
+                            <forename>István</forename>
+                        </persName>
+                        <persName>
+                            <surname>Kasza</surname>
+                            <forename>Péter</forename>
+                        </persName>
+                        <persName>
+                            <surname>Péterfi</surname>
+                            <forename>Bence</forename>
+                        </persName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>lector of the english translation</resp>
+                        <persName>
+                            <surname>Futász</surname>
+                            <forename>Réka</forename>
+                        </persName>
+                    </respStmt>
+                    <date when="2022">2022</date>
+                    <ref target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II"
+                        type="url">The TEI XML trancripts of the edition in the DigiPhil GitHub
+                        repository.</ref>
+                    <idno type="DOI">https://doi.org/10.5281/zenodo.8011468</idno><idno
+                        type="ITIdata">Q469915</idno>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="la"/>
+                <language ident="la">latin</language>
             </langUsage>
             <textClass>
                 <keywords corresp="Letter" scheme="GETTY_AAT">
@@ -146,121 +211,120 @@
             </textClass>
             <creation>
                 <date when="1552-01-06">6 January 1552</date>
-                <placeName>Prague</placeName>
+                <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Miklós Oláh</persName>
-                    <orgName/>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
                     <date/>
-                    <placeName> </placeName>
-                    <persName>Queen Mary</persName>
-                    <orgName/>
+                    <persName>Queen Mary<idno type="ITIdata">Q165927</idno></persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div style="handwritten" type="letter">
+            <div style="handwritten" type="letter" xml:id="d.1">
                 <head type="title">Miklós Oláh to Queen Mary (Prague, 6 January 1552)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p>1. He received the Queen’s letter when he was already planning to travel
-                            to Vienna, in which she thanks him for his services; while he is alive,
-                            the Queen can expect him to do everything that can be of service to her.
-                            He has not been able to make arrangements in connection with János
-                            Dubraviczky’s 500-florins debt because he also has to discuss it with
-                            the councillors of the Chamber, who are in Bratislava. But once Oláh and
-                            his people return to Vienna after the diet, he will take care of it. 2.
-                            She will learn from the King’s letter what an end George Martinuzzi met.
-                            The King had benevolence towards Martinuzzi and even made him a cardinal
-                            to appease him, but he was adamant and in the end brought it all upon
-                            himself. 3. The King will hold an assembly on the Emperor’s birthday in
-                            Bratislava, and Oláh will celebrate the mass, to which he hereby invites
-                            the Queen and asks her to either attend herself or send someone to
-                            represent her. He also asks her to write a handwritten letter to the
-                            King about the Esztergom matter that they discussed, in connection with
-                            which he has his hopes. </p>
+                        <p xml:id="reg.p.1">1. He received the Queen’s letter when he was already
+                            planning to travel to Vienna, in which she thanks him for his services;
+                            while he is alive, the Queen can expect him to do everything that can be
+                            of service to her. He has not been able to make arrangements in
+                            connection with János Dubraviczky’s 500-florins debt because he also has
+                            to discuss it with the councillors of the Chamber, who are in
+                            Bratislava. But once Oláh and his people return to Vienna after the
+                            diet, he will take care of it. 2. She will learn from the King’s letter
+                            what an end George Martinuzzi met. The King had benevolence towards
+                            Martinuzzi and even made him a cardinal to appease him, but he was
+                            adamant and in the end brought it all upon himself. 3. The King will
+                            hold an assembly on the Emperor’s birthday in Bratislava, and Oláh will
+                            celebrate the mass, to which he hereby invites the Queen and asks her to
+                            either attend herself or send someone to represent her. He also asks her
+                            to write a handwritten letter to the King about the Esztergom matter
+                            that they discussed, in connection with which he has his hopes. </p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p>Serenissima Princeps Domina et Domina clementissima, post mei
+                <p xml:id="p.1">Serenissima Princeps Domina et Domina clementissima, post mei
                     servitutisque meae perpetuae in gratiam Serenitatis Vestrae humillimam
                     commendationem!</p>
-                <p>[1.] Cum <placeName>Viennae</placeName> in procinctu huc veniendi cum
-                    sacra <persName>regia maiestate</persName>, domino meo clementissimo, fratre
+                <p xml:id="p.2">[1.] Cum <placeName>Viennae</placeName> in procinctu huc veniendi
+                    cum sacra <persName>regia maiestate</persName>, domino meo clementissimo, fratre
                     Serenissimae Maiestatis Vestrae clarissimo essemus, redditae sint mihi
-                        litterae<note type="critic">Ep.
-                        793.</note><ref>/o:olahus.tei.15511118_1</ref> Maiestatis Vestrae, in quibus
-                    Serenitas Vestra scribit meam in suis negotiis sollicitudinem et diligentiam
-                    sibi gratam fuisse. Novit optime Maiestas Vestra me omnia Maiestati Vestrae
-                    debere, debiturumque semper pro sua in me clementia, dum vivam, et hac de causa
-                    nihil a me unquam praetermittitur, in quo Maiestati Vestrae Serenissimae me
-                    posse servire putavero, sed semper ea faciam, quae bonus et fidelis Maiestastis
-                    Vestrae servitor facere debeo.</p>
-                <p>Quod vero Maiestas Vestra scribit de debito quingentorum Florenorum
-                        <persName>Ioannis Dobrowych</persName>,<note type="critic">János
-                        Dubraviczky.</note> cum eo tempore in via essemus, agi per me ea de re nihil
-                    potuit, nam ea res a me tractari post maiestatem regiam debuit cum consiliariis
-                    Camerae Hungaricae, qui sunt <placeName>Posonii</placeName>; verum cum Deo
-                    volente <placeName>Viennam</placeName> revertemur, credo autem ante festum
-                    Purificationis beatae Virginis<note type="critic">2 February.</note> hic comitia
-                    finem habitura, et nos mox <placeName>Viennam</placeName> redituros atque statim
-                    in hoc negotio Maiestatis Vestrae omnem solitam ac debitam meam operam
-                    sollicitudinemque impendam perficiamque, quantum in me erit, ut Maiestas Vestra
-                    intelligere possit, mihi quasque res Maiestatis Vestrae etiam minimas maxime
-                    curae fuisse.</p>
-                <p>[2.] Quem autem finem <persName>Frater Georgius</persName><note
-                        type="critic">George Martinuzzi was killed on 17 December, 1551. He had been
-                        Archbishop of Esztergom since August 1551. After his death, the Archbishop’s
-                        seat stayed vacant.</note> quondam episcopus Waradiensis tractationum suarum
-                    vitaeque habuerit, Maiestas Vestra ex litteris sacrae maiestatis regiae, domini
-                    mei clementissimi per postham proximum ad eam missis simul cum causis et
-                    rationibus omnibus cur id fieri debuit, clare intellexit. Sua maiestas regia
-                    magnis profecto gratiis et clementia illum prosecuta fuit, adeo ut in numerum
-                    etiam cardinalium adiungendum curaret, quo cum beneficiis tam amplis sibi
-                    devinciret. Sed ille his omnibus a suo facinore avocari non potuit, et hac de
-                    causa, quem finem actionum suarum quaerebat et merebatur, repperit.</p>
-                <p>[3.] Ceterum in natali die sacrae <persName>caesareae
-                        maiestatis</persName><note type="critic">The birthday of Emperor Charles V
-                        was on 24 February, i.e. the feast of St. Matthias.</note>
-                    <placeName>Posonii</placeName>
-                    <persName>regia maiestas</persName> cum ordinibus et statibus regni Hungariae
-                    conventum habebit et cum me Deus optimus maximus ex ineffabili sua misericordia
-                    ad munus episcopale vocare et Vestrae Serenissimae Maiestates eo munere ornare
-                    dignatae fuerint, decrevi praedicto die et loco in festo videlicet divi Mathiae
-                    apostoli proxime venturo primitias meas sacrificii altaris domini
-                        celebrare,<note type="critic">Oláh invited the Chapter of Oradea and István
+                        litterae<note type="critic" xml:id="note.1">Ep.
+                            793.<ref>olahus.tei.15511118_1</ref></note> Maiestatis Vestrae, in
+                    quibus Serenitas Vestra scribit meam in suis negotiis sollicitudinem et
+                    diligentiam sibi gratam fuisse. Novit optime Maiestas Vestra me omnia Maiestati
+                    Vestrae debere, debiturumque semper pro sua in me clementia, dum vivam, et hac
+                    de causa nihil a me unquam praetermittitur, in quo Maiestati Vestrae
+                    Serenissimae me posse servire putavero, sed semper ea faciam, quae bonus et
+                    fidelis Maiestastis Vestrae servitor facere debeo.</p>
+                <p xml:id="p.3">Quod vero Maiestas Vestra scribit de debito quingentorum Florenorum
+                        <persName>Ioannis Dobrowych</persName>,<note type="critic" xml:id="note.2"
+                        >János Dubraviczky.</note> cum eo tempore in via essemus, agi per me ea de
+                    re nihil potuit, nam ea res a me tractari post maiestatem regiam debuit cum
+                    consiliariis Camerae Hungaricae, qui sunt <placeName>Posonii</placeName>; verum
+                    cum Deo volente <placeName>Viennam</placeName> revertemur, credo autem ante
+                    festum Purificationis beatae Virginis<note type="critic" xml:id="note.3">2
+                        February.</note> hic comitia finem habitura, et nos mox
+                        <placeName>Viennam</placeName> redituros atque statim in hoc negotio
+                    Maiestatis Vestrae omnem solitam ac debitam meam operam sollicitudinemque
+                    impendam perficiamque, quantum in me erit, ut Maiestas Vestra intelligere
+                    possit, mihi quasque res Maiestatis Vestrae etiam minimas maxime curae
+                    fuisse.</p>
+                <p xml:id="p.4">[2.] Quem autem finem <persName>Frater Georgius</persName><note
+                        type="critic" xml:id="note.4">George Martinuzzi was killed on 17 December,
+                        1551. He had been Archbishop of Esztergom since August 1551. After his
+                        death, the Archbishop’s seat stayed vacant.</note> quondam episcopus
+                    Waradiensis tractationum suarum vitaeque habuerit, Maiestas Vestra ex litteris
+                    sacrae maiestatis regiae, domini mei clementissimi per postham proximum ad eam
+                    missis simul cum causis et rationibus omnibus cur id fieri debuit, clare
+                    intellexit. Sua maiestas regia magnis profecto gratiis et clementia illum
+                    prosecuta fuit, adeo ut in numerum etiam cardinalium adiungendum curaret, quo
+                    cum beneficiis tam amplis sibi devinciret. Sed ille his omnibus a suo facinore
+                    avocari non potuit, et hac de causa, quem finem actionum suarum quaerebat et
+                    merebatur, repperit.</p>
+                <p xml:id="p.5">[3.] Ceterum in natali die sacrae <persName>caesareae
+                        maiestatis</persName><note type="critic" xml:id="note.5">The birthday of
+                        Emperor Charles V was on 24 February, i.e. the feast of St.
+                        Matthias.</note><placeName>Posonii</placeName><persName>regia
+                        maiestas</persName> cum ordinibus et statibus regni Hungariae conventum
+                    habebit et cum me Deus optimus maximus ex ineffabili sua misericordia ad munus
+                    episcopale vocare et Vestrae Serenissimae Maiestates eo munere ornare dignatae
+                    fuerint, decrevi praedicto die et loco in festo videlicet divi Mathiae apostoli
+                    proxime venturo primitias meas sacrificii altaris domini celebrare,<note
+                        type="critic" xml:id="note.6">Oláh invited the Chapter of Oradea and István
                         Losonczy to this mass, see Ep. 781. and Ep. 782. According to his <hi
                             rend="italic">Ephemerides</hi>, his mess was celebrated on 29 February,
                         1552. See <hi rend="smallcap">Kovachich</hi> 1798,
-                        92.</note><ref>/o:olahus.tei.15510919_1</ref><ref>/o:olahus.tei.15510919_2</ref>
+                            92.<ref>olahus.tei.15510919_1</ref></note><ref>/o:olahus.tei.15510919_2</ref>
                     quae supplico Maiestati Vestrae, velit illas sua praesentia aut per hominem suum
                     ornare. Supplico praeterea Maiestati Vestrae humillime, ut dum arbitrer
                     maiestatem regiam, fratrem Maiestatis Vestrae carissimum omnia negotia Hungariae
                     et etiam ecclesiarum Dei in aliquem ordinem tunc redacturum, dignetur Maiestas
                     Vestra illud gratiae et clementiae suae apponere, ut quod in me coepit, gratiose
                     perficere, suaque manu aliquot verba ad maiestatem regiam scribere de ea re
-                        Strigoniensi,<note type="critic">Oláh tried to be Martinuzzi’s successor as
-                        Archbishop of Esztergom, in which he succeeded in 1553.</note> de qua antea
-                    quoque et scribere et novissime <placeName>Augustae</placeName><note
-                        type="critic">Augsburg.</note> loqui dignata fuerat et bonam spem mihi
-                    fecerat, quod ego a Serenissima Vestra Maiestate et domino meo clementissimo
-                    semper dum vivam, perpetuis servitiis et orationibus promereri volo. Deus
-                    optimus maximus Serenissimam Maiestatem Vestram et in hoc novo anno et quam
-                    plurimis sequentibus felicissimam et incolumem conservare dignetur. In cuius
-                    clementiam humillima servitia mea iterum atque iterum unice commendo.</p>
-                <p><placeName>Pragae</placeName> 6. Ianuarii anno 1552.</p>
-                <p>Eiusdem Serenissimae Maiestatis Vestrae fidelis et humilis servitor</p>
-                <p>
+                        Strigoniensi,<note type="critic" xml:id="note.7">Oláh tried to be
+                        Martinuzzi’s successor as Archbishop of Esztergom, in which he succeeded in
+                        1553.</note> de qua antea quoque et scribere et novissime
+                        <placeName>Augustae</placeName><note type="critic" xml:id="note.8"
+                        >Augsburg.</note> loqui dignata fuerat et bonam spem mihi fecerat, quod ego
+                    a Serenissima Vestra Maiestate et domino meo clementissimo semper dum vivam,
+                    perpetuis servitiis et orationibus promereri volo. Deus optimus maximus
+                    Serenissimam Maiestatem Vestram et in hoc novo anno et quam plurimis sequentibus
+                    felicissimam et incolumem conservare dignetur. In cuius clementiam humillima
+                    servitia mea iterum atque iterum unice commendo.</p>
+                <p xml:id="p.6"><placeName>Pragae</placeName> 6. Ianuarii anno 1552.</p>
+                <p xml:id="p.7">Eiusdem Serenissimae Maiestatis Vestrae fidelis et humilis
+                    servitor</p>
+                <p xml:id="p.8">
                     <seg type="signature">Nicolaus Olahus episcopus Agriensis manu propria</seg>
                 </p>
-                
             </div>
         </body>
     </text>
