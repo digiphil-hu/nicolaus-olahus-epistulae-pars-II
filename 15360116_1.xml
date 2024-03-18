@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,14 +238,14 @@
                 <pb/>
                 <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Quod tua quasi obstetricante opera, Clarissime et Eruditissime Vir,
-                    in lucem edidi,<note type="critic" xml:id="note.1">Petri Nannii Alcmariani <hi
-                            rend="italic">Declamatio de bello Turcis inferendo</hi>, Lovanii ex
-                        officina Rutgeri Rescii Idibus Ianuariis, 1536.</note> iam ad te mitto
-                    speroque, quod hunc partum non minima ex parte tuum et cognosces et accipies.
-                    Nos tuam epistolam<note type="critic" xml:id="note.2">Ep.
-                            555.<ref>olahus.tei.15351230_1</ref></note> apposuimus declamationi
-                    nostro potius commodo, quam tuae voluntati morem gerentes. Cupiebamus enim per
-                    te lectoribus commendari et nostrae verecundiae, quae nunc iudicio tuo quasi
+                    in lucem edidi,<note xml:id="note.1">Petri Nannii Alcmariani <hi rend="italic"
+                            >Declamatio de bello Turcis inferendo</hi>, Lovanii ex officina Rutgeri
+                        Rescii Idibus Ianuariis, 1536.</note> iam ad te mitto speroque, quod hunc
+                    partum non minima ex parte tuum et cognosces et accipies. Nos tuam
+                        epistolam<note xml:id="note.2">Ep.
+                        555.<ref>olahus.tei.15351230_1</ref></note> apposuimus declamationi nostro
+                    potius commodo, quam tuae voluntati morem gerentes. Cupiebamus enim per te
+                    lectoribus commendari et nostrae verecundiae, quae nunc iudicio tuo quasi
                     obarmata, malignorum morsus vel minus sentiet, vel minus curabit. Nos autem,
                     quia te satis oneravimus nostris nugis, non addemus sarcinam sarcinae et
                     molestiam molestia accumulabimus, <del corresp="Olahus">hoc</del><add

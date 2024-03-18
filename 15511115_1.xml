@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,9 +237,9 @@
                     consiliarius noster et serenissimi principis domini
                         <persName>Maximiliani</persName> regis Bohemiae etc. filii nostri carissimi
                     bellicus locumtenens, <persName>Iohannes Baptesta Castaldus</persName><note
-                        type="critic" xml:id="note.1">Giovanni Battista Castaldo.</note> ex castris
-                    ad <placeName>Lippam</placeName> positis die septima praesentis mensis Novembris
-                    ad nos dedit,<note type="critic" xml:id="note.2">We only know a letter from 9
+                        xml:id="note.1">Giovanni Battista Castaldo.</note> ex castris ad
+                        <placeName>Lippam</placeName> positis die septima praesentis mensis
+                    Novembris ad nos dedit,<note xml:id="note.2">We only know a letter from 9
                         November, 1551, see ÖStA HHStA UA AA Fasc. 60. Konv. C. 1551. XI. fol.
                         22–23.</note> ex quibus Devotio Tua intelliget, quod ex singulari <add
                         corresp="scriba" type="insert">quadam</add> gratia <del corresp="scriba">qua
@@ -255,16 +253,16 @@
                     conquassatam fortiter ingressus coeperit, ibidemque ex tribus millibus Turcarum
                     selectorum ex universo exercitu <del corresp="scriba">Turcico
                         Beglerbegi</del><add corresp="scriba" type="corr">et
-                            <persName>Beglergbego</persName>,<note type="critic" xml:id="note.3"
-                            >Sokollu Mehmed Pasha.</note> quos ad praesidium ac custodiam civitatis
-                        reliquerat, quos ad praesidium ac custodiam civitatis reliquerat</add>,
-                    circiter duo millia trucidaverunt, <del corresp="scriba">reliquis</del><add
-                        corresp="scriba" type="corr">reliquos</add> vero <add corresp="scriba"
-                        type="insert">Turcos</add> cum suo <persName>sanziacko</persName> in arcem,
-                    quae ibi est, sese recepisset <del corresp="scriba"><add corresp="scriba"
-                            type="insert">sesecumque</add></del>, magnamque <del corresp="scriba"
-                        >tamen</del> esse spem non solum hos, qui in arcem illam profugerunt, verum
-                    reliquum etiam <add corresp="scriba" type="insert">totum</add> ipsius
+                            <persName>Beglergbego</persName>,<note xml:id="note.3">Sokollu Mehmed
+                            Pasha.</note> quos ad praesidium ac custodiam civitatis reliquerat, quos
+                        ad praesidium ac custodiam civitatis reliquerat</add>, circiter duo millia
+                    trucidaverunt, <del corresp="scriba">reliquis</del><add corresp="scriba"
+                        type="corr">reliquos</add> vero <add corresp="scriba" type="insert"
+                        >Turcos</add> cum suo <persName>sanziacko</persName> in arcem, quae ibi est,
+                    sese recepisset <del corresp="scriba"><add corresp="scriba" type="insert"
+                            >sesecumque</add></del>, magnamque <del corresp="scriba">tamen</del>
+                    esse spem non solum hos, qui in arcem illam profugerunt, verum reliquum etiam
+                        <add corresp="scriba" type="insert">totum</add> ipsius
                         <persName>Baglerbegi</persName> exercitum <del corresp="scriba">Deo</del>
                     eodem Deo optimo maximo propitio funditus <add corresp="scriba" type="insert"
                         >brevi admodum tempore</add> oppressum iri. </p>
@@ -276,22 +274,21 @@
                     certior <del corresp="scriba">reddatur</del> redducatur, sed eadem <add
                         corresp="scriba" type="insert">per Devotionem Tuam</add> locumtenenti quoque
                     nostro regni nostri Hungariae <del corresp="scriba"
-                        >episcopo</del><persName>Iauriensi</persName><note type="critic"
-                        xml:id="note.4">Ferenc Újlaki.</note> ac
-                        <persName>Vesprimiensi</persName><note type="critic" xml:id="note.5">Pál
+                        >episcopo</del><persName>Iauriensi</persName><note xml:id="note.4">Ferenc
+                        Újlaki.</note> ac <persName>Vesprimiensi</persName><note xml:id="note.5">Pál
                         Bornemissza.</note> episcopis ceterisque consiliariis nostris Hungaricis
                         <add corresp="scriba" type="insert">facta et illis litterarum illarum
                         copia</add> communicarentur. Quare Devotio Tua una cum illis eidem <add
                         corresp="scriba" type="insert">etiam</add> omnipotenti Domino, cuius
-                    auspiciis res haec est feliciter conscripta<note type="critic" xml:id="note.6"
-                        >Uncertain reading.</note> dignas gratias agere <del corresp="scriba"
-                        >debebant</del> priumquam laudis sacrificium celebrare debebit, quo is
-                    huiusmodi gratiarum actione et laudibus clementer attentis<milestone unit="pb"
-                    />posthac etiam nobis <del corresp="scriba">eandem gratiam suam</del> regnisque
-                        <del corresp="scriba">nostris Hungariae</del> ac dominiciis nostris et
-                    universae reipublicae Christianae <del corresp="scriba">adesse</del> propitius
-                    adesse <add corresp="scriba" type="insert">coeptumque opus ad felicem finem
-                        suique nominis sempiternam gloriam deducere</add> non dedigneretur, prout
+                    auspiciis res haec est feliciter conscripta<note xml:id="note.6">Uncertain
+                        reading.</note> dignas gratias agere <del corresp="scriba">debebant</del>
+                    priumquam laudis sacrificium celebrare debebit, quo is huiusmodi gratiarum
+                    actione et laudibus clementer attentis<milestone unit="pb"/>posthac etiam nobis
+                        <del corresp="scriba">eandem gratiam suam</del> regnisque <del
+                        corresp="scriba">nostris Hungariae</del> ac dominiciis nostris et universae
+                    reipublicae Christianae <del corresp="scriba">adesse</del> propitius adesse <add
+                        corresp="scriba" type="insert">coeptumque opus ad felicem finem suique
+                        nominis sempiternam gloriam deducere</add> non dedigneretur, prout
                     Devotionem Tuam facturam esse <del corresp="scriba">minimi</del><add
                         corresp="scriba" type="corr">minime</add> dubitamus. <del corresp="scriba"
                         >Et ista sancta</del></p>

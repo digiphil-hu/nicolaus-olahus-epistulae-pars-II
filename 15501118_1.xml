@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,8 +237,8 @@
                     et Amice Observandissime!</p>
                 <p xml:id="p.2">[1.] Intelligimus <placeName>Viennae</placeName> pestem coepisse
                     grassari, quid si ita est, quaerendus est nobis aliquis locus salubris, ad quem
-                    sorores nostrae et nepotes<note type="critic" xml:id="note.1">Oláh’s sisters,
-                        nephews, and nieces lived in Oláh’s Vienna palace, see Ep.
+                    sorores nostrae et nepotes<note xml:id="note.1">Oláh’s sisters, nephews, and
+                        nieces lived in Oláh’s Vienna palace, see Ep.
                             736.<ref>olahus.tei.15500323_1</ref></note> usque ad reditum nostrum
                     commigrare possint. Rogamus itaque Dominationem Vestram, uti dominum et fratrem,
                     ut si pestis <choice>
@@ -258,12 +256,11 @@
                     </choice> erit, vitare possint, faciet in hoc Dominatio Vestra Magnifica rem
                     nobis gratam, quam eidem reservire volumus.</p>
                 <p xml:id="p.3">[2.] De rebus illis pontificalibus, quas quondam dominus
-                        <persName>Colocensis</persName><note type="critic" xml:id="note.2">Ferenc
-                        Frangepán died in 1543, the Archdiocese of Kalocsa had been unfilled since
-                        then.</note> testamento suo <del corresp="Olahus">canit</del><add
-                        corresp="Olahus" type="corr">legavit</add> et de quibus nuper Dominationi
-                    Vestrae Magnificae scripseramus,<note type="critic" xml:id="note.3">We do not
-                        know this letter.</note> et <choice>
+                        <persName>Colocensis</persName><note xml:id="note.2">Ferenc Frangepán died
+                        in 1543, the Archdiocese of Kalocsa had been unfilled since then.</note>
+                    testamento suo <del corresp="Olahus">canit</del><add corresp="Olahus"
+                        type="corr">legavit</add> et de quibus nuper Dominationi Vestrae Magnificae
+                        scripseramus,<note xml:id="note.3">We do not know this letter.</note> et <choice>
                         <orig>nunctiaveramus</orig>
                         <supplied>nuntiaveramus</supplied>
                     </choice>, cupimus habere responsum, ut sciamus nos praeparare ad officia nostra
@@ -274,20 +271,19 @@
                         <orig>g<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>g<corr>ratia</corr></supplied>
                     </choice>. Serenissimum regem <persName>Maximilianum</persName><note
-                        type="critic" xml:id="note.4">Future Maximilian II, Holy Roman Emperor was
-                            <hi rend="italic">designatus rex</hi> since 1549. He lived in the
-                        Spanish court since 1548.</note> ex <del corresp="Olahus"
-                        >Hispanias</del><add corresp="Olahus" type="corr">Hispaniis</add> huc <choice>
+                        xml:id="note.4">Future Maximilian II, Holy Roman Emperor was <hi
+                            rend="italic">designatus rex</hi> since 1549. He lived in the Spanish
+                        court since 1548.</note> ex <del corresp="Olahus">Hispanias</del><add
+                        corresp="Olahus" type="corr">Hispaniis</add> huc <choice>
                         <orig>ventur<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>ventur<corr>um</corr></supplied>
                     </choice> exspectamus, et fortasse aliquo post tempore etiam <persName>principem
-                        Ferdinandum</persName><note type="critic" xml:id="note.5">Ferdinand II,
-                        Archduke of Austria.</note> atque <persName>Mariam</persName> reginam, rumor
-                    enim de his inter multos vagatur. Quod reliquum est, Dominationem Vestram
-                    Magnificam unacum domina <persName>coniuge</persName><note type="critic"
-                        xml:id="note.6">Orsolya Kanizsai.</note> sua carissima, domina nostra
-                    observandissima feliciter valere optamus, quibus nos et servitia nostra
-                    commendamus.</p>
+                        Ferdinandum</persName><note xml:id="note.5">Ferdinand II, Archduke of
+                        Austria.</note> atque <persName>Mariam</persName> reginam, rumor enim de his
+                    inter multos vagatur. Quod reliquum est, Dominationem Vestram Magnificam unacum
+                    domina <persName>coniuge</persName><note xml:id="note.6">Orsolya
+                        Kanizsai.</note> sua carissima, domina nostra observandissima feliciter
+                    valere optamus, quibus nos et servitia nostra commendamus.</p>
                 <p xml:id="p.5">Ex <placeName>Augusta</placeName> decima octavo Novembris anno
                     Domini 1550.</p>
                 <p xml:id="p.6">

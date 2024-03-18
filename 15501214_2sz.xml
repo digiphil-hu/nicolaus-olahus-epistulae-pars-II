@@ -191,11 +191,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
             </correspDesc>
@@ -221,11 +219,10 @@
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem! </p>
                 <p xml:id="p.2">Ea, quae nobis diebus superioribus de nova ordinatione in istis
                     montanis per dominos commissarios regiae maiestatis etc. facta scripsistis,<note
-                        type="critic" xml:id="note.1">See Ep.
-                        754.<ref>olahus.tei.15501214_1</ref></note> intelleximus. Nos exhibitis
-                        <persName>regiae maiestati</persName> aliis litteris vestris apud suam
-                    maiestatem pro vobis diligenter egimus. Et quemadmodum ex litteris suae
-                    maiestatis cum praesentibus ad vos missis <app xml:id="app.1">
+                        xml:id="note.1">See Ep. 754.<ref>olahus.tei.15501214_1</ref></note>
+                    intelleximus. Nos exhibitis <persName>regiae maiestati</persName> aliis litteris
+                    vestris apud suam maiestatem pro vobis diligenter egimus. Et quemadmodum ex
+                    litteris suae maiestatis cum praesentibus ad vos missis <app xml:id="app.1">
                         <lem wit="#CE #I" xml:id="lem.1">intelligetis</lem>
                         <rdg wit="#II" xml:id="rdg.1">intelliget</rdg>
                     </app>, ordinatio illa et reformatio montanarum non cedet in vestrum, vel

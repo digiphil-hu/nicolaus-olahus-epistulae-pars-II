@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -257,21 +255,20 @@
                         >ingeniis</del><add corresp="Olahus" type="corr">ingenii</add> et levitatem
                     et lucem scribentis. Deum testor, me aliena non mea verba reponere inter
                     reliquos encomiastas tuos: aderat quidam <persName>Iacobus
-                        Halainus</persName>,<note type="critic" xml:id="note.1">Jacques de Halewyn,
-                        see <hi rend="smallcap">Polet</hi> 1936, 252–253.</note> cui epistolas
-                        dedicavimus,<note type="critic" xml:id="note.2">Nanninck’s letter to Jacques
-                        de Halewyn on 1 February, 1537, see <hi rend="smallcap">Polet</hi> 1936,
-                        252–253.</note> vir et re lauta et acris iudicii et multae eruditionis, is
-                    tuae laudis fuit <choice>
+                        Halainus</persName>,<note xml:id="note.1">Jacques de Halewyn, see <hi
+                            rend="smallcap">Polet</hi> 1936, 252–253.</note> cui epistolas
+                        dedicavimus,<note xml:id="note.2">Nanninck’s letter to Jacques de Halewyn on
+                        1 February, 1537, see <hi rend="smallcap">Polet</hi> 1936, 252–253.</note>
+                    vir et re lauta et acris iudicii et multae eruditionis, is tuae laudis fuit <choice>
                         <orig>effusimus</orig>
                         <supplied>effusissimus</supplied>
-                    </choice> buccinator. <persName>Conradum</persName>,<note type="critic"
-                        xml:id="note.3">Conrad Wackers.</note> ut ingenue fatear, non adhibui, non
-                    quod contemnerem, sed quod illi non tam familiaris sum, quam amicus. Mutavimus
-                    in hendecasyllabo in primo loco trocheo, qui illic erat in spondeum, quamquam te
-                    exemplis defendere poteras, maluimus tamen te non egere defensione. Laudavimus
-                    tuas elegias modesto encomio longeque infra meritum tui carminis, tamen (ut
-                    puto) et cordato et benivolo. </p>
+                    </choice> buccinator. <persName>Conradum</persName>,<note xml:id="note.3">Conrad
+                        Wackers.</note> ut ingenue fatear, non adhibui, non quod contemnerem, sed
+                    quod illi non tam familiaris sum, quam amicus. Mutavimus in hendecasyllabo in
+                    primo loco trocheo, qui illic erat in spondeum, quamquam te exemplis defendere
+                    poteras, maluimus tamen te non egere defensione. Laudavimus tuas elegias modesto
+                    encomio longeque infra meritum tui carminis, tamen (ut puto) et cordato et
+                    benivolo. </p>
                 <pb/>
                 <p xml:id="p.3">Facit meae fortunae tenuitas, ut timidior sim ad laudes magnorum
                     amicorum, nihil enim tam horreo, quam audere <choice>
@@ -283,28 +280,26 @@
                     </choice>, fac, diu Musis superstes sis, quam tibi multum debebunt, si saepius
                     talia carmina edideris. </p>
                 <p xml:id="p.4">[2.] In <hi rend="italic">Topographia Hongariae</hi> vellem te
-                    pergere, cuius mihi dulcissimum gustum praebuisti,<note type="critic"
-                        xml:id="note.4">In the original Viennese manuscript of <hi rend="italic"
-                            >Hungaria</hi>, Oláh dated the work 16 March, 1536.</note> ut quod in
-                    ditione non habemus, per te in litteris retineamus. Si quid ex ἀντιπάλοις<note
-                        type="critic" xml:id="note.5">‘against each other’.</note> orationibus
-                    Demosthenis et Aeschinis transtuleris aut transferis, dici non potest, quam
-                    gavisurus sim me ad has delicias admitti. Ego iubente
-                        <persName>Rutgero</persName>, quaedam ex meis vestris carminibus addidi, hoc
-                    est holosericis <choice>
+                    pergere, cuius mihi dulcissimum gustum praebuisti,<note xml:id="note.4">In the
+                        original Viennese manuscript of <hi rend="italic">Hungaria</hi>, Oláh dated
+                        the work 16 March, 1536.</note> ut quod in ditione non habemus, per te in
+                    litteris retineamus. Si quid ex ἀντιπάλοις<note xml:id="note.5">‘against each
+                        other’.</note> orationibus Demosthenis et Aeschinis transtuleris aut
+                    transferis, dici non potest, quam gavisurus sim me ad has delicias admitti. Ego
+                    iubente <persName>Rutgero</persName>, quaedam ex meis vestris carminibus addidi,
+                    hoc est holosericis <choice>
                         <orig>pannos</orig>
                         <supplied>pannus</supplied>
-                    </choice>. <persName>Danus</persName><note type="critic" xml:id="note.6">Jakob
+                    </choice>. <persName>Danus</persName><note xml:id="note.6">Jakob
                         Jespersen.</note> me audacem fecit, cetera nosti. Adiecit etiam sua quaedam
-                        <persName>Christianus</persName>,<note type="critic" xml:id="note.7"
-                        >Christian Kellenaer or Chrétien Kelders, see <hi rend="smallcap">Polet</hi>
-                        1936, 255.</note> nostrae non admodum dissimilia farinae. Nam
-                        <persName>Graphei</persName><note type="critic" xml:id="note.8">Cornelis De
-                        Schrijver.</note> carmina habere non potuimus, multi sua addere voluerunt,
-                    sed non visum est vestra bona carmina multitudine malorum obruere, et librum
-                    minus venalem reddere, de cuius vendibilitate optime sperat
-                        <persName>Rutgerus</persName>.<note type="critic" xml:id="note.9">Rutger
-                        Ressen.</note> Rursum vale, Patrone Optime. </p>
+                        <persName>Christianus</persName>,<note xml:id="note.7">Christian Kellenaer
+                        or Chrétien Kelders, see <hi rend="smallcap">Polet</hi> 1936, 255.</note>
+                    nostrae non admodum dissimilia farinae. Nam <persName>Graphei</persName><note
+                        xml:id="note.8">Cornelis De Schrijver.</note> carmina habere non potuimus,
+                    multi sua addere voluerunt, sed non visum est vestra bona carmina multitudine
+                    malorum obruere, et librum minus venalem reddere, de cuius vendibilitate optime
+                    sperat <persName>Rutgerus</persName>.<note xml:id="note.9">Rutger Ressen.</note>
+                    Rursum vale, Patrone Optime. </p>
                 <p xml:id="p.5">Sexto Idus Martii ex domo fratris 1537.</p>
             </div>
         </body>

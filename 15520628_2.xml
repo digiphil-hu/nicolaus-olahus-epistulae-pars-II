@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,42 +234,39 @@
                     fidelium servitiorum humillimam commendationem!</p>
                 <p xml:id="p.2">[1.] Cum his diebus ex mandato serenissimi regis
                         <persName>Maximiliani</persName>, domini mei clementissimi ad nuptias
-                    magnifici <persName>Michaelis de Peren</persName><note type="critic"
-                        xml:id="note.1">Mihály Perényi (†1557), <hi rend="italic">ispán</hi> of
-                        Zemplén married Lukács Székely’s daughter, Katalin Székely of Ormosd and
-                        Kövend (†1587) on 3 July, 1552, see <hi rend="smallcap">Szabó–Hanák</hi>
-                        2021, 125; and <hi rend="smallcap">Kovachich</hi> 1798, 93.</note> aliquem
-                    nuntium de more, nomine Vestrae Maiestatis suaeque serenitatis deligere me
-                    oportuisset, nemineque alio sese tum offerente egregium <persName>Michaelem de
-                        Rewa</persName>,<note type="critic" xml:id="note.2">Mihály Révay.</note>
-                    filium videlicet domini <persName>Reway</persName><note type="critic"
-                        xml:id="note.3">Ferenc Révay.</note> in aulam Vestrae Maiestatis commendatum
-                    eo dimisissem. Isque in reditu ex illis partibus
-                        <placeName>Cassowiam</placeName><note type="critic" xml:id="note.4"
-                        >Košice.</note> divertisset, ibi quae ex domino <persName>Georgio
-                        Seredy</persName><note type="critic" xml:id="note.5">György Serédy.</note>
-                    intellexit, cognoscet Maiestas Vestra ex hac praesentibus inclusa scriptura,
-                    manu eiusdem <persName>Michaelis de Rewa</persName> confecta,<note type="critic"
-                        xml:id="note.6">For a copy of Révay’s report, see ÖStA HHStA UA AA Fasc. 66.
-                        Konv. A. fol. 112–113.</note> quae mihi pro mei officii ratione ad
-                    Maiestatem Vestram visa sunt perscribenda.</p>
+                    magnifici <persName>Michaelis de Peren</persName><note xml:id="note.1">Mihály
+                        Perényi (†1557), <hi rend="italic">ispán</hi> of Zemplén married Lukács
+                        Székely’s daughter, Katalin Székely of Ormosd and Kövend (†1587) on 3 July,
+                        1552, see <hi rend="smallcap">Szabó–Hanák</hi> 2021, 125; and <hi
+                            rend="smallcap">Kovachich</hi> 1798, 93.</note> aliquem nuntium de more,
+                    nomine Vestrae Maiestatis suaeque serenitatis deligere me oportuisset, nemineque
+                    alio sese tum offerente egregium <persName>Michaelem de Rewa</persName>,<note
+                        xml:id="note.2">Mihály Révay.</note> filium videlicet domini
+                        <persName>Reway</persName><note xml:id="note.3">Ferenc Révay.</note> in
+                    aulam Vestrae Maiestatis commendatum eo dimisissem. Isque in reditu ex illis
+                    partibus <placeName>Cassowiam</placeName><note xml:id="note.4">Košice.</note>
+                    divertisset, ibi quae ex domino <persName>Georgio Seredy</persName><note
+                        xml:id="note.5">György Serédy.</note> intellexit, cognoscet Maiestas Vestra
+                    ex hac praesentibus inclusa scriptura, manu eiusdem <persName>Michaelis de
+                        Rewa</persName> confecta,<note xml:id="note.6">For a copy of Révay’s report,
+                        see ÖStA HHStA UA AA Fasc. 66. Konv. A. fol. 112–113.</note> quae mihi pro
+                    mei officii ratione ad Maiestatem Vestram visa sunt perscribenda.</p>
                 <p xml:id="p.3">[2.] Venit praeterea hodie huc <persName>praepositus de
-                        Lelez</persName><note type="critic" xml:id="note.7">György Bódy was Provost
-                        of Leles between 1547 and 1557, see <hi rend="smallcap">Pankovics</hi> 2013,
+                        Lelez</persName><note xml:id="note.7">György Bódy was Provost of Leles
+                        between 1547 and 1557, see <hi rend="smallcap">Pankovics</hi> 2013,
                         21.</note> narravitque mihi proximis diebus ex Transsylvania tres nuntios in
                         <placeName>Poloniam</placeName> ad <persName>Petrowyth</persName><note
-                        type="critic" xml:id="note.8">Péter Petrovics.</note> euntes in itinere ad
-                        <placeName>Lelez</placeName><note type="critic" xml:id="note.9"
-                        >Leles.</note> divertisse, et ex his unum cognomento
-                        <persName>Ewrdeg</persName>,<note type="critic" xml:id="note.10">Ördög or
-                        Eördögh. We do not know him more closely.</note> cuius frater superiori anno
-                    in Transylvania vivente adhuc <persName>Fratre Georgio</persName><note
-                        type="critic" xml:id="note.11">George Martinuzzi was killed on 17 December,
-                        1551.</note> fuerat interfectus, in arcem ad ipsum praepositum ascendisse,
-                    secumque esse collocutum, sed se nulla ratione elicere ab eo potuisse, quid
-                    negotii acturi in <placeName>Poloniam</placeName> proficiscantur. Quod item ad
-                    Vestram Maiestatem volui pro debito officii mei perscribere. Servet eandem
-                    summus Deus felicem et incolumem quam ditutissime. </p>
+                        xml:id="note.8">Péter Petrovics.</note> euntes in itinere ad
+                        <placeName>Lelez</placeName><note xml:id="note.9">Leles.</note> divertisse,
+                    et ex his unum cognomento <persName>Ewrdeg</persName>,<note xml:id="note.10"
+                        >Ördög or Eördögh. We do not know him more closely.</note> cuius frater
+                    superiori anno in Transylvania vivente adhuc <persName>Fratre
+                        Georgio</persName><note xml:id="note.11">George Martinuzzi was killed on 17
+                        December, 1551.</note> fuerat interfectus, in arcem ad ipsum praepositum
+                    ascendisse, secumque esse collocutum, sed se nulla ratione elicere ab eo
+                    potuisse, quid negotii acturi in <placeName>Poloniam</placeName> proficiscantur.
+                    Quod item ad Vestram Maiestatem volui pro debito officii mei perscribere. Servet
+                    eandem summus Deus felicem et incolumem quam ditutissime. </p>
                 <p xml:id="p.4"><placeName>Viennae</placeName> die decimo octavo mensis Iulii anno
                     Domini 1552.</p>
                 <p xml:id="p.5">

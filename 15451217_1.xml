@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Wolfgang Maar</persName>
                 </correspAction>
             </correspDesc>
@@ -235,20 +233,20 @@
                 <pb/>
                 <p xml:id="p.1">Prudens et Circumspecte Domine, Amice Honorandissime, salutem!</p>
                 <p xml:id="p.2">Est quaedam causa inter magnificum dominum <persName>Franciscum
-                        Nyary</persName>,<note type="critic" xml:id="note.1">Ferenc Nyári (†1551)
-                        was a famous Hussar Captain, <hi rend="italic">ispán</hi> of Hont county,
-                        and Royal Master of the Horse <hi rend="italic">(magister agazonum)</hi>,
-                        see <hi rend="smallcap">Neumann</hi> 2007, 85–104.</note> magistrum agazonum
-                    regiae maiestatis ac <persName>Fabyanum Barathy</persName><note type="critic"
-                        xml:id="note.2">Fábián Baráti was an influential merchant in Trnava, later a
-                        member of the Trnava Town Council. For more in his life, see <hi
-                            rend="smallcap">Bakonyi</hi> 2017, 55–56.</note> ratione quorundam
-                    debitorum. Supplicavit itaque idem Fabianus regiae maiestati, ut ista causa
-                    inter eos in re mediante per arbitros in loco communi revideretur. Maiestas
-                    itaque regia vult, ut per quattuor arbitros ultro citroque electos his proximis
-                    festis diebus revideatur, ita tamen, ut ipse Fabianus Barathy mille Florenorum,
-                    quibus ex deputatione maiestatis regiae domino Francisco Nyary debet, apud vos
-                    in sequestro deponat. Illique quattuor arbitri electi secundum iustitiam Dei
+                        Nyary</persName>,<note xml:id="note.1">Ferenc Nyári (†1551) was a famous
+                        Hussar Captain, <hi rend="italic">ispán</hi> of Hont county, and Royal
+                        Master of the Horse <hi rend="italic">(magister agazonum)</hi>, see <hi
+                            rend="smallcap">Neumann</hi> 2007, 85–104.</note> magistrum agazonum
+                    regiae maiestatis ac <persName>Fabyanum Barathy</persName><note xml:id="note.2"
+                        >Fábián Baráti was an influential merchant in Trnava, later a member of the
+                        Trnava Town Council. For more in his life, see <hi rend="smallcap"
+                            >Bakonyi</hi> 2017, 55–56.</note> ratione quorundam debitorum.
+                    Supplicavit itaque idem Fabianus regiae maiestati, ut ista causa inter eos in re
+                    mediante per arbitros in loco communi revideretur. Maiestas itaque regia vult,
+                    ut per quattuor arbitros ultro citroque electos his proximis festis diebus
+                    revideatur, ita tamen, ut ipse Fabianus Barathy mille Florenorum, quibus ex
+                    deputatione maiestatis regiae domino Francisco Nyary debet, apud vos in
+                    sequestro deponat. Illique quattuor arbitri electi secundum iustitiam Dei
                     cognoscant, an dominus Franciscus Nyary secundum expositione praedicti Fabyani
                     569 Florenorum eidem debeat. Qui quidem arbitri si compererint praefatum dominum
                     Nyary ipsi debere, eam summam ex tunc eam pecuniam apud vos depositam cum

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,29 +232,29 @@
                 <pb/>
                 <p xml:id="p.1">Magnifice Domine et Amice Honorandissime, salutem et mei
                     commendationem! </p>
-                <p xml:id="p.2">Litteras ultimas<note type="critic" xml:id="note.1">We do not know
-                        this letter.</note> Dominationis Vestrae his diebus accepi, quibus eadem
+                <p xml:id="p.2">Litteras ultimas<note xml:id="note.1">We do not know this
+                        letter.</note> Dominationis Vestrae his diebus accepi, quibus eadem
                     conqueritur se nullas hactenus a me in negotio suo accepisse litteras. Ego
                     negotia Dominationis Vestrae, in quibus ad me scripserat, non neglexi, eaque
                     perfeci, et quid efficere potui, iamdudum eidem perscripsi. Tamen existimans
-                    Dominationem Vestram esse in Sclavonia, litteras meas<note type="critic"
-                        xml:id="note.2">See Ep. 643.<ref>olahus.tei.15440425_1</ref></note> in ipso
-                    negotio ad eandem scriptas <placeName>Zagrabiam</placeName> Dominationi Vestrae
-                    praesentandas misi, unde accidisse arbitror, quominus eas Dominatio Vestra
-                    hactenus acceperit. Apud <persName>maiestatem</persName>, dominum nostrum
-                    clementissimum egi,<note type="critic" xml:id="note.3">See MNL OL P 1314 –
-                        34386a.</note> ut salarium Dominationi Vestrae persolvetur, sed ita, ut
-                    praesens <placeName>Posonii</placeName> in servitiis suae maiestatis existat.
-                    Super cuius solutione litteras etiam maiestatis suae ad dominos camerarios
-                    miseram. Quicquid igitur etiam deinceps ad voluntatem Dominationis Vestrae
-                    facere potero, libenter sum facturus. Etsi quando ad eam rarius scripsero, id
-                    boni consulat, non enim semper habeo otium propter alias meas occupationes.
-                    Attamen semper sum studiosus Dominationis Vestrae, meque suum amicum et fratrem
-                    esse existimet. Nova autem, quae hic a me sub silentio sibi scribi <milestone
-                        unit="pb"/>postulat, et quae scribere possemus, referet Dominationi Vestrae
-                    frater eiusdem dominus <persName>Franscisus</persName>,<note type="critic"
-                        xml:id="note.4">Ferenc Batthyány.</note> qui prope diem hinc domum
-                    revertetur. In reliquo Dominationem Vestram feliciter valere opto.</p>
+                    Dominationem Vestram esse in Sclavonia, litteras meas<note xml:id="note.2">See
+                        Ep. 643.<ref>olahus.tei.15440425_1</ref></note> in ipso negotio ad eandem
+                    scriptas <placeName>Zagrabiam</placeName> Dominationi Vestrae praesentandas
+                    misi, unde accidisse arbitror, quominus eas Dominatio Vestra hactenus acceperit.
+                    Apud <persName>maiestatem</persName>, dominum nostrum clementissimum egi,<note
+                        xml:id="note.3">See MNL OL P 1314 – 34386a.</note> ut salarium Dominationi
+                    Vestrae persolvetur, sed ita, ut praesens <placeName>Posonii</placeName> in
+                    servitiis suae maiestatis existat. Super cuius solutione litteras etiam
+                    maiestatis suae ad dominos camerarios miseram. Quicquid igitur etiam deinceps ad
+                    voluntatem Dominationis Vestrae facere potero, libenter sum facturus. Etsi
+                    quando ad eam rarius scripsero, id boni consulat, non enim semper habeo otium
+                    propter alias meas occupationes. Attamen semper sum studiosus Dominationis
+                    Vestrae, meque suum amicum et fratrem esse existimet. Nova autem, quae hic a me
+                    sub silentio sibi scribi <milestone unit="pb"/>postulat, et quae scribere
+                    possemus, referet Dominationi Vestrae frater eiusdem dominus
+                        <persName>Franscisus</persName>,<note xml:id="note.4">Ferenc
+                        Batthyány.</note> qui prope diem hinc domum revertetur. In reliquo
+                    Dominationem Vestram feliciter valere opto.</p>
                 <p xml:id="p.3"><placeName>Spyrae</placeName> 29. Maii 1544. </p>
                 <p xml:id="p.4">
                     <seg type="signature">

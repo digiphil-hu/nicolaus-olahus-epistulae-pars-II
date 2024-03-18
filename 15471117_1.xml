@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Batthyány<idno type="ITIdata">Q141443</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,15 +246,15 @@
                 <p xml:id="p.1">Magnifice Domine, et Amice nobis Honorandissime, salutem et
                     servitiorum nostrorum commendationem! </p>
                 <p xml:id="p.2">[1.] Ad litteras, quas Magnifica Dominatio Vestra his diebus per
-                    dominum <persName>Naydeker</persName><note type="critic" xml:id="note.1">We do
-                        not know him more closely.</note> ad <persName>regiam maiestatem</persName>,
-                    dominum nostrum clementissimum miserat, responsum a sua maiestate accepimus;
-                    quod quale sit, Magnifica Dominatio Vestra ex litteris suae maiestatis ad se
-                    datis clare intelliget. Nos quamadmodum hactenus semper fecimus, ita inposterum
-                    quoque operam, et intercessionem nostram, apud suam maiestatem in rebus
-                    Dominationis Vestrae desiderari non patiemur.</p>
+                    dominum <persName>Naydeker</persName><note xml:id="note.1">We do not know him
+                        more closely.</note> ad <persName>regiam maiestatem</persName>, dominum
+                    nostrum clementissimum miserat, responsum a sua maiestate accepimus; quod quale
+                    sit, Magnifica Dominatio Vestra ex litteris suae maiestatis ad se datis clare
+                    intelliget. Nos quamadmodum hactenus semper fecimus, ita inposterum quoque
+                    operam, et intercessionem nostram, apud suam maiestatem in rebus Dominationis
+                    Vestrae desiderari non patiemur.</p>
                 <p xml:id="p.3">Quod ad negotium domini <persName>Keglewith</persName><note
-                        type="critic" xml:id="note.2">Péter Keglevich, see Ep.
+                        xml:id="note.2">Péter Keglevich, see Ep.
                             668.<ref>olahus.tei.15461108_1</ref></note> attinet, quaemadmodum
                     Dominatio Vestra et per litteras, et per nuntium nos petiit, pro eo apud regiam
                     maiestatem intercessimus, praesertim ut in captivitate mitius et remissius, quam
@@ -296,22 +294,21 @@
                     </seg>
                 </p>
                 <p xml:id="p.7">[3.] <add corresp="Olahus" type="insert">Postquam per
-                            <persName>Pethew</persName><note type="critic" xml:id="note.3">Probably
-                            János Pethő of Gerse (†1577). He became a Baron in 1549, and he was
-                            Captain of Lipova from 1552 and Captain of Košice from 1558. From 1561
-                            until his death, he was Master cup-bearer. The Pethő family was a
-                            distant relation to the Nádasdy family, see <hi rend="smallcap"
-                                >Szeremlei</hi> 1913, 923–924; and <hi rend="smallcap">Pálffy</hi>
-                            2002, 326–327.</note><persName>dominus locumtenens</persName><note
-                            type="critic" xml:id="note.4">Ferenc Révay.</note> et Dominationes
-                        Vestrae ad maiestatem regiam scripserunt se ex conventu Thirnaviensi
-                        oratores huc missuros,<note type="critic" xml:id="note.5">At the end of
-                            1547, Oláh, Ferenc Batthyány, Mihály Mérey and Georg Werner became
-                            legates, see <hi rend="smallcap">Fraknói</hi> 1876, 128.</note> maiestas
-                        regia illos exspectat. Habeant hi, dum advenerint, litteras credentiae ad
-                        serenissimam reginam Mariam, principem Maximilianum filium regiae maiestatis
-                        et ad alios electores ecclesiastices et seculares, qui omnes nunc hic
-                        sunt.</add></p>
+                            <persName>Pethew</persName><note xml:id="note.3">Probably János Pethő of
+                            Gerse (†1577). He became a Baron in 1549, and he was Captain of Lipova
+                            from 1552 and Captain of Košice from 1558. From 1561 until his death, he
+                            was Master cup-bearer. The Pethő family was a distant relation to the
+                            Nádasdy family, see <hi rend="smallcap">Szeremlei</hi> 1913, 923–924;
+                            and <hi rend="smallcap">Pálffy</hi> 2002,
+                            326–327.</note><persName>dominus locumtenens</persName><note
+                            xml:id="note.4">Ferenc Révay.</note> et Dominationes Vestrae ad
+                        maiestatem regiam scripserunt se ex conventu Thirnaviensi oratores huc
+                            missuros,<note xml:id="note.5">At the end of 1547, Oláh, Ferenc
+                            Batthyány, Mihály Mérey and Georg Werner became legates, see <hi
+                                rend="smallcap">Fraknói</hi> 1876, 128.</note> maiestas regia illos
+                        exspectat. Habeant hi, dum advenerint, litteras credentiae ad serenissimam
+                        reginam Mariam, principem Maximilianum filium regiae maiestatis et ad alios
+                        electores ecclesiastices et seculares, qui omnes nunc hic sunt.</add></p>
                 <pb/>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

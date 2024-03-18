@@ -204,11 +204,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,16 +233,15 @@
                     servitiorum etc.!</p>
                 <p xml:id="p.3">Acceperamus litteras Reverendissimae Dominationis Vestrae in
                     commendationem egregii domini <persName>Ioannis Feierthoy</persName><note
-                        type="critic" xml:id="note.1">János Fejérthóy.</note> decimas frugum et
-                        bladorum<note type="critic" xml:id="note.2">I.e. bladum, see <hi
-                            rend="smallcap">DuCange</hi> 1883; and <hi rend="smallcap">Szovák</hi>
-                        1983–2017.</note> civitatis <placeName>Zacolcza</placeName><note
-                        type="critic" xml:id="note.3">Skalica.</note> sibi honesto pretio vendi
-                    postulantis, cui iam antea quoque eius harum rerum spem feceramus, postea allata
-                    sunt mandata regia ad supplicationem egregii domini <persName>Alberti
-                        Somogy</persName><note type="critic" xml:id="note.4">Albert Somogyi was <hi
-                            rend="italic">viceprovisor</hi> of the archiespicopate of Esztergom, see
-                            <hi rend="smallcap">Laczlavik</hi> 2014, 117–118.</note> expedita. Quod
+                        xml:id="note.1">János Fejérthóy.</note> decimas frugum et bladorum<note
+                        xml:id="note.2">I.e. bladum, see <hi rend="smallcap">DuCange</hi> 1883; and
+                            <hi rend="smallcap">Szovák</hi> 1983–2017.</note> civitatis
+                        <placeName>Zacolcza</placeName><note xml:id="note.3">Skalica.</note> sibi
+                    honesto pretio vendi postulantis, cui iam antea quoque eius harum rerum spem
+                    feceramus, postea allata sunt mandata regia ad supplicationem egregii domini
+                        <persName>Alberti Somogy</persName><note xml:id="note.4">Albert Somogyi was
+                            <hi rend="italic">viceprovisor</hi> of the archiespicopate of Esztergom,
+                        see <hi rend="smallcap">Laczlavik</hi> 2014, 117–118.</note> expedita. Quod
                     ad litteras regias attinet, non videmus nobis esse integrum, ut aliter de
                     decimis frugum dictae civitatis disponamus, quod tamen ad vina spectat, iussimus
                     deferri ad nos rationem collectionis vinorum eam ubi acceperimus, poterimus suam

@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>János Czeglédi<idno type="ITIdata">Q470296</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,32 +231,31 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem Cegledinum provisorem. </p>
                 <p xml:id="p.2">A multis temporibus nullas tuas litteras accepi, quam quas tertio
-                    Ianuarii praeteriti ad me dedisti.<note type="critic" xml:id="note.1">We do not
-                        know this letter.</note> Scribis in bonis meis recuperandis nihil actum
-                    esse, doleo id maxime, fiet fortasse aliquando, si Deus voluerit. Miror, quod
+                    Ianuarii praeteriti ad me dedisti.<note xml:id="note.1">We do not know this
+                        letter.</note> Scribis in bonis meis recuperandis nihil actum esse, doleo id
+                    maxime, fiet fortasse aliquando, si Deus voluerit. Miror, quod
                         <persName>rex</persName> bona mea in manibus <persName>Valentini
-                        Theurek</persName><note type="critic" xml:id="note.2">Bálint Török.</note>
-                    dimisit usque ad certum tempus. Si sollicitatores mei praestitissent operam
-                    suam, credo, id non fuisset factum, sed <quote xml:id="quote.1">qui currum
-                        alterius insidet, illius cantilenam eum cantare necesse est.</quote><note
-                        type="quote" xml:id="note.quote.1">Cf. old Hungarian proverb: “Az ki másnak
-                        szekere farkán ül, annak énekét mondgya.” János Baranyai Decsi, <hi
-                            rend="italic">Adagiorum Graecolatinoungaricorum Chiliades quinque</hi>
-                        VI,9,8,2, see <hi rend="smallcap">Decii Baronii</hi> 1596, 328; and “kinek
-                        szekere farkán ülsz, annak nótáját dudoljad.” KV 1866., see <hi
-                            rend="smallcap">Erdélyi</hi> 1851, 362. No. 7112.</note> Fac, ut melius
-                    consulatur, si fieri potest. Canonici dicunt se restituturos proventus praeter
-                    hos, qui solent, praesentibus dari. At ego non censeor absens, qui sum in
-                    servitio regis et reginae. Missa non negligatur, si non ex proventibus
-                    canonicatus. At ex quarta et cathedratico provideas solutioni. Nam missam
-                    negligi nullo modo volo. </p>
+                        Theurek</persName><note xml:id="note.2">Bálint Török.</note> dimisit usque
+                    ad certum tempus. Si sollicitatores mei praestitissent operam suam, credo, id
+                    non fuisset factum, sed <quote xml:id="quote.1">qui currum alterius insidet,
+                        illius cantilenam eum cantare necesse est.</quote><note type="quote"
+                        xml:id="note.quote.1">Cf. old Hungarian proverb: “Az ki másnak szekere
+                        farkán ül, annak énekét mondgya.” János Baranyai Decsi, <hi rend="italic"
+                            >Adagiorum Graecolatinoungaricorum Chiliades quinque</hi> VI,9,8,2, see
+                            <hi rend="smallcap">Decii Baronii</hi> 1596, 328; and “kinek szekere
+                        farkán ülsz, annak nótáját dudoljad.” KV 1866., see <hi rend="smallcap"
+                            >Erdélyi</hi> 1851, 362. No. 7112.</note> Fac, ut melius consulatur, si
+                    fieri potest. Canonici dicunt se restituturos proventus praeter hos, qui solent,
+                    praesentibus dari. At ego non censeor absens, qui sum in servitio regis et
+                    reginae. Missa non negligatur, si non ex proventibus canonicatus. At ex quarta
+                    et cathedratico provideas solutioni. Nam missam negligi nullo modo volo. </p>
                 <p xml:id="p.3">Centum illos ducatos Posonienses non vidi, cura, ut videam eos et
                     alios residuos, si qui sunt, brevi. Nam intellexisti ex meis aliis res meas. Cum
-                        <persName>Griti</persName><note type="critic" xml:id="note.3">Lodovico
-                        Gritti.</note> advenerit, rem meam non negligas. Tui non obliviscar, certus
-                    sis, modo sine me respirare. Vale et scribe. Responsum domini
-                        <persName>Strigoniensis</persName><note type="critic" xml:id="note.4">Pál
-                        Várday.</note> non misisti, cura, ut illud habeam. </p>
+                        <persName>Griti</persName><note xml:id="note.3">Lodovico Gritti.</note>
+                    advenerit, rem meam non negligas. Tui non obliviscar, certus sis, modo sine me
+                    respirare. Vale et scribe. Responsum domini
+                        <persName>Strigoniensis</persName><note xml:id="note.4">Pál Várday.</note>
+                    non misisti, cura, ut illud habeam. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 4. Martii 1534.</p>
             </div>
         </body>

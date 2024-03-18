@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Gerendi<idno type="ITIdata">Q51011</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -249,28 +247,27 @@
                 <p xml:id="p.1">Nicolai Olai ad Nicolaum Gerendi episcopum Transsylvaniensem
                     thesaurarium regium. </p>
                 <p xml:id="p.2">[1.] Quanta fuerim animi laetitia, quantoque gaudio affectus, cum
-                    litteras tuas ultima Decembris scriptas<note type="critic" xml:id="note.1">We do
-                        not know this letter.</note> hic XX. Februarii acceperim, vix explicare
-                    possum. Nam ex eis cognovi veterem illam tuam in me benevolentiam tanto et
-                    temporis et locorum intervallo non refrixisse, quam nec in posterum refrictum
-                    iri spero. Nam et ego enitar, ut non modo non praebeam occasionem illius
-                    sopiendae, sed potius contendam, ut tua in me ab ineunte nostra aetate<note
-                        type="critic" xml:id="note.2">Cf. Ep.
-                        450.<ref>olahus.tei.15340208_2</ref></note> favor ac benivolentia, aetate
-                    iam matura conservetur. Doleo te ex tuo ad <persName>regem</persName> adventu
-                    dolorem potius, quam laetitiam accepisse, utinam ita merita praestarentur, ut
-                    cuilibet honos et munificentia pro meritis daretur, melius profecto rebus regiis
-                    esset consultum; sed scio et vidi, ut res istic agatur: qui servierunt fideliter
-                    et serviunt, minus habent, et tantum non moriuntur. </p>
+                    litteras tuas ultima Decembris scriptas<note xml:id="note.1">We do not know this
+                        letter.</note> hic XX. Februarii acceperim, vix explicare possum. Nam ex eis
+                    cognovi veterem illam tuam in me benevolentiam tanto et temporis et locorum
+                    intervallo non refrixisse, quam nec in posterum refrictum iri spero. Nam et ego
+                    enitar, ut non modo non praebeam occasionem illius sopiendae, sed potius
+                    contendam, ut tua in me ab ineunte nostra aetate<note xml:id="note.2">Cf. Ep.
+                            450.<ref>olahus.tei.15340208_2</ref></note> favor ac benivolentia,
+                    aetate iam matura conservetur. Doleo te ex tuo ad <persName>regem</persName>
+                    adventu dolorem potius, quam laetitiam accepisse, utinam ita merita
+                    praestarentur, ut cuilibet honos et munificentia pro meritis daretur, melius
+                    profecto rebus regiis esset consultum; sed scio et vidi, ut res istic agatur:
+                    qui servierunt fideliter et serviunt, minus habent, et tantum non moriuntur. </p>
                 <p xml:id="p.3">Indicia praecedentia futurae salutis regni, iampridem ego quoque non
                     modo audivi, sed et cognovi et scio, tamen non omnibus spiritibus credendum est.
                     Miror nos tam facile credere solere his, qui nostras res oppugnarunt, et qui non
                     tam nostra, quam suam rem curant, <milestone unit="pb"/>qua de re latius
                     scribere non possum. Nihil esset, ita vivam, mihi iucundius, quam si de eis
                     coram mutuo loqui audentius possemus. </p>
-                <p xml:id="p.4">[2.] <persName>Gritum</persName><note type="critic" xml:id="note.3"
-                        >Lodovico Gritti.</note> exspectamus. Quid fiet, si iam venit, aut venturus
-                    est; arbitramur res regis eo adveniente stabiliri, utinam vere arbitremur. Regni
+                <p xml:id="p.4">[2.] <persName>Gritum</persName><note xml:id="note.3">Lodovico
+                        Gritti.</note> exspectamus. Quid fiet, si iam venit, aut venturus est;
+                    arbitramur res regis eo adveniente stabiliri, utinam vere arbitremur. Regni
                     unionem speramus et libertatem, utinam id futurum sit, vereor tamen, ne et
                     unionem et libertatem, et si quid est aliud, paulatim amittamus. Equidem plures
                     ad te litteras meas dedi in Transsylvania constitutum, sed eas non fuisse
@@ -278,54 +275,51 @@
                     te affici credis. Nihil est, quod in me desideres. Manda, iube, fac de me, quod
                     vis. </p>
                 <p xml:id="p.5">[3.] De tua in rebus meis apud <persName>Valentinum
-                        Theuurek</persName><note type="critic" xml:id="note.4">Bálint Török.</note>
-                    opera habeo tibi gratias cumulatas. Scribis eum nunquam in rebus meis durum se
-                    ostendisse. Non durus est, sed bona tenet, panem famelico exemit e faucibus, num
-                    hoc duricies est? An putat me hostem regis τῆς καὶ τὸν προδότικον πατρίδος
-                        εἶναι,<note type="critic" xml:id="note.5">‘also (be) a traitor = that I also
-                        betray my country’.</note> quod hoc me pacto tractet; quibus meis pro mea
-                    facultate servivi et servio fideliter. Nonne et ego ex illorum sum numero, qui
-                    ab initio fidem regis et reginae secuti, multa in illorum servitiis passi sunt
-                    detrimenta, damna, labores et expensas? Si rex iudicare non potest, Deus id
-                    iudicet, si spem suam a rege, ut scribis, consequi non potuit, debetne propterea
-                    τὸν <choice>
+                        Theuurek</persName><note xml:id="note.4">Bálint Török.</note> opera habeo
+                    tibi gratias cumulatas. Scribis eum nunquam in rebus meis durum se ostendisse.
+                    Non durus est, sed bona tenet, panem famelico exemit e faucibus, num hoc
+                    duricies est? An putat me hostem regis τῆς καὶ τὸν προδότικον πατρίδος
+                        εἶναι,<note xml:id="note.5">‘also (be) a traitor = that I also betray my
+                        country’.</note> quod hoc me pacto tractet; quibus meis pro mea facultate
+                    servivi et servio fideliter. Nonne et ego ex illorum sum numero, qui ab initio
+                    fidem regis et reginae secuti, multa in illorum servitiis passi sunt detrimenta,
+                    damna, labores et expensas? Si rex iudicare non potest, Deus id iudicet, si spem
+                    suam a rege, ut scribis, consequi non potuit, debetne propterea τὸν <choice>
                         <orig>δράχηλον</orig>
                         <supplied>τράχηλον </supplied>
-                    </choice> μοῦ ἐκκόπτειν?<note type="critic" xml:id="note.6">‘to cut off my
-                        neck’.</note> Qui, ut ipse in suis rebus, suaque conditione, ita et ego in
-                    meis post principes, graves expensas, labores et calamitates habui, si quid apud
-                    eum in his ipsis meis rebus in vestro conventu effeceris, fac me certiorem. De
-                    uno pastore et ovili ego iamdudum spem non minimam habui. Et scio ego, quid
-                    fiat, sed contra perpendo, quae sit societas infidelium, in qua utinam spes
-                    regis et nostrorum omnium non fallatur. Quicquid sit, exspecto a te de eis, ut
-                    scribis, certiora. </p>
+                    </choice> μοῦ ἐκκόπτειν?<note xml:id="note.6">‘to cut off my neck’.</note> Qui,
+                    ut ipse in suis rebus, suaque conditione, ita et ego in meis post principes,
+                    graves expensas, labores et calamitates habui, si quid apud eum in his ipsis
+                    meis rebus in vestro conventu effeceris, fac me certiorem. De uno pastore et
+                    ovili ego iamdudum spem non minimam habui. Et scio ego, quid fiat, sed contra
+                    perpendo, quae sit societas infidelium, in qua utinam spes regis et nostrorum
+                    omnium non fallatur. Quicquid sit, exspecto a te de eis, ut scribis, certiora. </p>
                 <p xml:id="p.6">[4.] Quod statum meorum affinium et fratrum in
                         <placeName>Transsilvania</placeName> mihi significaris, habeo gratias
-                    immortales: fratrem <persName>Matheum</persName><note type="critic"
-                        xml:id="note.7">Máté Oláh was loyal to King John I, which generated a
-                        conflict between the brothers.</note> quin frater sit, negare non possum. Si
-                    quid contra nos facit, male facit. Si meae litterae,<note type="critic"
-                        xml:id="note.8">We do not know this letter.</note> quas ad eum per
-                        Sidonium<note type="critic" xml:id="note.9">Martinus Sydonius was a
-                        Secretary of King Ferdinand I and Administrator of the Archbishop’s income
-                        in Esztergom between 1531 and 1535, see <hi rend="smallcap">C. Tóth</hi>
-                        2019, 35.</note> dederam, redditae illi fuere, intellexit, quomodo mihi eius
-                    facta displiceant. Frater tamen est nihilominus et unicus, cuius ut salutem
-                    veluti meam cupio, ita detrimentum non libenter audio. Ipse modo multum aut
-                    prodesse aut obesse rebus regiis potest, unus est ex aliis. Modo rectificentur
-                    alia, ipse facile resipiscet, velis igitur eum defendere, ne quid detrimenti
-                    patiatur. <choice>
+                    immortales: fratrem <persName>Matheum</persName><note xml:id="note.7">Máté Oláh
+                        was loyal to King John I, which generated a conflict between the
+                        brothers.</note> quin frater sit, negare non possum. Si quid contra nos
+                    facit, male facit. Si meae litterae,<note xml:id="note.8">We do not know this
+                        letter.</note> quas ad eum per Sidonium<note xml:id="note.9">Martinus
+                        Sydonius was a Secretary of King Ferdinand I and Administrator of the
+                        Archbishop’s income in Esztergom between 1531 and 1535, see <hi
+                            rend="smallcap">C. Tóth</hi> 2019, 35.</note> dederam, redditae illi
+                    fuere, intellexit, quomodo mihi eius facta displiceant. Frater tamen est
+                    nihilominus et unicus, cuius ut salutem veluti meam cupio, ita detrimentum non
+                    libenter audio. Ipse modo multum aut prodesse aut obesse rebus regiis potest,
+                    unus est ex aliis. Modo rectificentur alia, ipse facile resipiscet, velis igitur
+                    eum defendere, ne quid detrimenti patiatur. <choice>
                         <orig>Amiculi</orig>
                         <supplied>Avunculi</supplied>
                     </choice> mei <milestone unit="pb"/><persName>Ioannis Hwsar</persName><note
-                        type="critic" xml:id="note.10">According to his letter, János Huszár was
-                        Borbála Huszár’s brother. The son was probably Bartholomeus or Bertalan
-                        Huszár. We know an epitaphium written by Hubert Leodius c. 1543: <hi
-                            rend="italic">Epitaphium nobilissimi doctissimique adolescentis
-                            Bartholomaei Huzari nepotis et avunculi reverendissimi domini domini
-                            Nicolai Olahi</hi>, see ELTE EK H 46 26v–28r.</note> filium iuniorem
-                    apud me habeo, bonum adolescentem fidum, et quem faciam erudiri, qui ex matre,
-                    ut arbitror, tibi quoque propter familiam Bogatinam non est alienus. </p>
+                        xml:id="note.10">According to his letter, János Huszár was Borbála Huszár’s
+                        brother. The son was probably Bartholomeus or Bertalan Huszár. We know an
+                        epitaphium written by Hubert Leodius c. 1543: <hi rend="italic">Epitaphium
+                            nobilissimi doctissimique adolescentis Bartholomaei Huzari nepotis et
+                            avunculi reverendissimi domini domini Nicolai Olahi</hi>, see ELTE EK H
+                        46 26v–28r.</note> filium iuniorem apud me habeo, bonum adolescentem fidum,
+                    et quem faciam erudiri, qui ex matre, ut arbitror, tibi quoque propter familiam
+                    Bogatinam non est alienus. </p>
                 <p xml:id="p.7">Rogo igitur, ut interea, dum hinc reverti potero, velis illius et
                     bonorum praecipuam curam habere, ne damnum aliquod patiatur. Reverterer autem,
                     si non tam durus <persName>Valentinus Theuurek</persName> in me esset. Reginae

@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Lajos Pekry<idno type="ITIdata">Q31978</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -260,36 +258,34 @@
                     intercessionem nostram dignata est facere, poterit eadem ex litteris suae
                     maiestatis ad unguem intelligere. Ceterum simultates, quas intelligimus
                     Dominationem Vestram cum domino <persName>Brodaryth</persName><note
-                        type="critic" xml:id="note.1">Mátyás Brodarics, István Brodarics’s brother.
-                        He was Prefect of Lykava around 1544–1545. <hi rend="smallcap">Faragó</hi>
-                        2022.</note> habere, si eadem consilio nostro uti voluerit, eas simultates
-                    deponet, seque servabit atque accomodabit omni fidelitatis officio. Ad eam
-                    obligationem, quam eadem cum maiestate regia haberet proventusque quantum <add
-                        corresp="scriba" type="insert">conservationem</add> ad arcem
-                        <placeName>Lykawa</placeName> pertinet reddere ac restituere, eo enim pacto
-                    censemus eidem utile fore et quiete pacificeque permanere posse. Ubi autem
-                    Vestra Dominatio Magnifica scribit se accepisse maiestatem regiam arcem
-                        <placeName>Lykava</placeName> domino <persName>Francisco de
-                        Rewa</persName><note type="critic" xml:id="note.2">Ferenc Révay.</note>
-                    inscripsisse, id nos non intelleximus, nec cum scitu nostro est, quare ne eadem
-                    quoque credat. Intelleximus porro, quod Dominatio Vestra Magnifica
-                    tricesimatores maiestatis regiae ad <milestone unit="pb"/>oppidum suum
-                        <placeName>Rosombergh</placeName><note type="critic" xml:id="note.3"
-                        >Ružomberok.</note> vocaret, noluisset intromittere. In qua ratione eadem
-                    fecerit, miramur. Maiestas enim regia, ubicumque visum fuerit suae maiestati,
-                    potest officiales suos collocare, nec est conveniens, ut eadem suae voluntati
-                    repugnet. Non censemus enim ad damnum et detrimentum colonis illius oppidi fore
-                    exactionem tricesimae propter frequentem commeationem hominum, unde non nihil
-                    lucri oppidani habere possent, eo enim pacto oppidum quoque aedificare
-                    posse.</p>
+                        xml:id="note.1">Mátyás Brodarics, István Brodarics’s brother. He was Prefect
+                        of Lykava around 1544–1545. <hi rend="smallcap">Faragó</hi> 2022.</note>
+                    habere, si eadem consilio nostro uti voluerit, eas simultates deponet, seque
+                    servabit atque accomodabit omni fidelitatis officio. Ad eam obligationem, quam
+                    eadem cum maiestate regia haberet proventusque quantum <add corresp="scriba"
+                        type="insert">conservationem</add> ad arcem <placeName>Lykawa</placeName>
+                    pertinet reddere ac restituere, eo enim pacto censemus eidem utile fore et
+                    quiete pacificeque permanere posse. Ubi autem Vestra Dominatio Magnifica scribit
+                    se accepisse maiestatem regiam arcem <placeName>Lykava</placeName> domino
+                        <persName>Francisco de Rewa</persName><note xml:id="note.2">Ferenc
+                        Révay.</note> inscripsisse, id nos non intelleximus, nec cum scitu nostro
+                    est, quare ne eadem quoque credat. Intelleximus porro, quod Dominatio Vestra
+                    Magnifica tricesimatores maiestatis regiae ad <milestone unit="pb"/>oppidum suum
+                        <placeName>Rosombergh</placeName><note xml:id="note.3">Ružomberok.</note>
+                    vocaret, noluisset intromittere. In qua ratione eadem fecerit, miramur. Maiestas
+                    enim regia, ubicumque visum fuerit suae maiestati, potest officiales suos
+                    collocare, nec est conveniens, ut eadem suae voluntati repugnet. Non censemus
+                    enim ad damnum et detrimentum colonis illius oppidi fore exactionem tricesimae
+                    propter frequentem commeationem hominum, unde non nihil lucri oppidani habere
+                    possent, eo enim pacto oppidum quoque aedificare posse.</p>
                 <p xml:id="p.3">[2.] Nova scribere <del corresp="Olahus">nos</del> Vestrae
                     Dominationi Magnificae haec <choice>
                         <orig>possimus</orig>
                         <supplied>possumus</supplied>
                     </choice>, quod maiestas regia hic <placeName>Vormicae</placeName><note
-                        type="critic" xml:id="note.4">Worms.</note> est, agitque et tractat cum
-                    imperialibus de futura expeditione, speramusque brevi de futura expeditione
-                    conclusuram. Caesarea maiestas autem septima die huius mensis
+                        xml:id="note.4">Worms.</note> est, agitque et tractat cum imperialibus de
+                    futura expeditione, speramusque brevi de futura expeditione conclusuram.
+                    Caesarea maiestas autem septima die huius mensis
                         <placeName>Bruxellis</placeName> movit se, rectaque dirigit gressum suum huc
                         <placeName>Vormaciam</placeName>, sed paulatim incedit, ne ex itinere aliqua
                     molestia afficeretur, nunc enim pristinae valetudini est restitutus. Hinc se

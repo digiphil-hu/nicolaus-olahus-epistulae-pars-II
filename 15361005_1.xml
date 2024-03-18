@@ -223,11 +223,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis De Schrijver <idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -252,39 +250,38 @@
                 <p xml:id="p.1">Nicolaus Olaus Cornelio Grapheo salutem. </p>
                 <p xml:id="p.2"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Quae tu
-                        grandissimo…]<?oxy_custom_end?><note type="critic" xml:id="note.1"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 589. In Romanian: <hi rend="smallcap"
+                        grandissimo…]<?oxy_custom_end?><note xml:id="note.1"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 589. In Romanian: <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022, 1406–1409.</note></p>
                 <pb/>
                 <p xml:id="p.3">Habeo praeterea tibi, mi Scriboni, gratias de epitaphio
                         <persName>Erasmi</persName> et <hi rend="italic">Panagne</hi><note
-                        type="critic" xml:id="note.2">De Schrijver’s book <hi rend="italic">Ad
-                            optimam heroidem Mariam</hi>… mentioned in Ep. 551. and Ep. 574. Part I:
-                        Panagne, quae Virg. Mariae epithalamium, II: Theander, quae aureo mundo Dei
-                        hominis nativitatem, II: Pan, qui veri Panos Christi necem canit. Praeter
-                        alia quaedam piis affectibus plena… See also <hi rend="smallcap">Beer</hi>
-                        1903, LXVII: “Corn. Graphei Panagne, h. e. rusticus in divi Joseph e Mariae
+                        xml:id="note.2">De Schrijver’s book <hi rend="italic">Ad optimam heroidem
+                            Mariam</hi>… mentioned in Ep. 551. and Ep. 574. Part I: Panagne, quae
+                        Virg. Mariae epithalamium, II: Theander, quae aureo mundo Dei hominis
+                        nativitatem, II: Pan, qui veri Panos Christi necem canit. Praeter alia
+                        quaedam piis affectibus plena… See also <hi rend="smallcap">Beer</hi> 1903,
+                        LXVII: “Corn. Graphei Panagne, h. e. rusticus in divi Joseph e Mariae
                         nuptias lusus. Med. 243. Corn. Grapheus descripsit senatum Antverpiae
                         civitatis a Carolo V. insitutum. Liber impressus Antverp. in 4° 1541: Conr.
                         Gesner, Bibliotheca univ., fol.
                         188.”<ref>olahus.tei.15351201_1</ref></note><ref>/o:olahus.tei.15360924_1</ref>
-                    tua ad me missa,<note type="critic" xml:id="note.3">Ep.
-                            574.<ref>olahus.tei.15360924_1</ref></note> ex qua cognosco iam
-                    penitius, quam antea ingenii tui excellentiam. Quidam amici mei diebus
-                    superioribus miserunt ad me quaedam Erasmi epitaphia ab eis conscripta,<note
-                        type="critic" xml:id="note.4">See the epitaphs of Frans van Cranevelt: <hi
-                            rend="smallcap">Ipolyi</hi> 1875, 581; and François de Bourgogne: <hi
-                            rend="smallcap">Hegedüs</hi> 1906, 374; <hi rend="smallcap"
-                            >Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap">Neagu</hi> 2003, 294.
-                        See also Cranevelt’s letter Ep. 571.<ref>olahus.tei.15360910_1</ref></note>
-                    quae cum meis <del corresp="Olahus">rudibus</del> carminibus ad te misi, ut
-                    illorum scripta videres, mea autem carmina, vere videlicet Transylvana vel
-                    silvana potius, castigares. Carmen, quo tibi respondi, boni consule, veluti
-                    extemporaneum. <persName>Maximilianum</persName><note type="critic"
-                        xml:id="note.5">Maximiliaan van Zevenbergen.</note> salutavi tuo nomine.
-                        <persName>Cornelius <add corresp="Olahus" type="insert"
-                        >Scepperus</add></persName> profectus est ante XVI. diem ad
-                        <placeName>Selandiam</placeName>,<note type="critic" xml:id="note.6">See Ep.
+                    tua ad me missa,<note xml:id="note.3">Ep.
+                        574.<ref>olahus.tei.15360924_1</ref></note> ex qua cognosco iam penitius,
+                    quam antea ingenii tui excellentiam. Quidam amici mei diebus superioribus
+                    miserunt ad me quaedam Erasmi epitaphia ab eis conscripta,<note xml:id="note.4"
+                        >See the epitaphs of Frans van Cranevelt: <hi rend="smallcap">Ipolyi</hi>
+                        1875, 581; and François de Bourgogne: <hi rend="smallcap">Hegedüs</hi> 1906,
+                        374; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap"
+                            >Neagu</hi> 2003, 294. See also Cranevelt’s letter Ep.
+                            571.<ref>olahus.tei.15360910_1</ref></note> quae cum meis <del
+                        corresp="Olahus">rudibus</del> carminibus ad te misi, ut illorum scripta
+                    videres, mea autem carmina, vere videlicet Transylvana vel silvana potius,
+                    castigares. Carmen, quo tibi respondi, boni consule, veluti extemporaneum.
+                        <persName>Maximilianum</persName><note xml:id="note.5">Maximiliaan van
+                        Zevenbergen.</note> salutavi tuo nomine. <persName>Cornelius <add
+                            corresp="Olahus" type="insert">Scepperus</add></persName> profectus est
+                    ante XVI. diem ad <placeName>Selandiam</placeName>,<note xml:id="note.6">See Ep.
                         572. Cap. 2.<ref>olahus.tei.15360916_1</ref></note> cui, cum redierit,
                     reddam libellum. Vale feliciter, mi Corneli, et me tuum esse existima habeque
                     commendatum. </p>

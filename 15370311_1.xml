@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,14 +238,13 @@
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Habeo gratiam Dominationi Tuae de <del corresp="Olahus"
                         >argento</del><add corresp="Olahus" type="corr">argenteo</add> nummo per
-                        <persName>Nannium</persName><note type="critic" xml:id="note.1">Pieter
-                        Nanninck.</note> nostrum mihi dono misso, pro quo donum chartaceum tibi
-                    remitto centum exemplaria <persName>Erasmi</persName> epitaphiorum per te et
-                    alios conscriptorum.<note type="critic" xml:id="note.2"><hi rend="italic">D.
-                            Erasmi Roterodami epitaphia, per clarissimos aliquot viros
-                            conscripta</hi>, Lovanii apud Rutgerum Rescium, 1537.</note> Mitto autem
-                    ea per famulum nostrum, ut commode possis ad amicos tuos
-                        <placeName>Francofordiam</placeName> venturos scribere, nam
+                        <persName>Nannium</persName><note xml:id="note.1">Pieter Nanninck.</note>
+                    nostrum mihi dono misso, pro quo donum chartaceum tibi remitto centum exemplaria
+                        <persName>Erasmi</persName> epitaphiorum per te et alios conscriptorum.<note
+                        xml:id="note.2"><hi rend="italic">D. Erasmi Roterodami epitaphia, per
+                            clarissimos aliquot viros conscripta</hi>, Lovanii apud Rutgerum
+                        Rescium, 1537.</note> Mitto autem ea per famulum nostrum, ut commode possis
+                    ad amicos tuos <placeName>Francofordiam</placeName> venturos scribere, nam
                         <persName>Nannius</persName> eo te scribere in <milestone unit="pb"/>animo
                     habere dixit. Ego propter negotia quaedam non sum illuc profecturus, sed libros,
                     quos nunc misi, tradidi amico cuidam, ut is rerum curam agat. Exspecto autem

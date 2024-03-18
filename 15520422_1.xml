@@ -212,7 +212,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -247,9 +246,9 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Egregie Amice nobis Dilecte!<note type="critic" xml:id="note.1"
-                        >Péter Gutai. This letter was probably delivered by Dobó and Oláh’s vicar,
-                        see his diary <hi rend="smallcap">Kovachich</hi> 1798, 92.</note></p>
+                <p xml:id="p.1">Egregie Amice nobis Dilecte!<note xml:id="note.1">Péter Gutai. This
+                        letter was probably delivered by Dobó and Oláh’s vicar, see his diary <hi
+                            rend="smallcap">Kovachich</hi> 1798, 92.</note></p>
                 <p xml:id="p.2">[1.] Prout nobis datur intelligi, nimis discessisti a tuo officio
                     ingerendo te in nostrum et post nos in provisoris nostri negotium. Tui esset
                     officii, si collectio, aut erogatio proventuum fieret indebite, annotare
@@ -268,16 +267,15 @@
                     suo, sicuti sua maiestas regia ad supplicationem nostram humillimam litteras
                     suas de ordine tali mihi dedit.</p>
                 <p xml:id="p.3">[2.] Quare ad id te moneo, ut fideliter in his agas,
-                        contrascribam,<note type="critic" xml:id="note.2">Gutai was Counter-signer
-                            <hi rend="italic">(constrascriba)</hi> between 1549 and 1551.</note> et
-                    non tibi cauponeris neque vituperiis et captivitatem praesbiterorum, cum quibus
-                    tu nihil agere habes, sed meum tamquam episcopi, ut vicarii mei, hoc est
-                    officium, istic insolens sis. Mala est pluralitas principum et iudicum
-                    indirectorum, mores istos tuos si <placeName>Chabragh</placeName><note
-                        type="critic" xml:id="note.3">Čabraď.</note> ferre non potuit, nimis
-                        <placeName>Agria</placeName><note type="critic" xml:id="note.4">Eger.</note>
-                    feret, quare omnino volumus, ut te hortamur, <quote xml:id="quote.1">ne in
-                        messem alienam,
+                        contrascribam,<note xml:id="note.2">Gutai was Counter-signer <hi
+                            rend="italic">(constrascriba)</hi> between 1549 and 1551.</note> et non
+                    tibi cauponeris neque vituperiis et captivitatem praesbiterorum, cum quibus tu
+                    nihil agere habes, sed meum tamquam episcopi, ut vicarii mei, hoc est officium,
+                    istic insolens sis. Mala est pluralitas principum et iudicum indirectorum, mores
+                    istos tuos si <placeName>Chabragh</placeName><note xml:id="note.3"
+                        >Čabraď.</note> ferre non potuit, nimis <placeName>Agria</placeName><note
+                        xml:id="note.4">Eger.</note> feret, quare omnino volumus, ut te hortamur,
+                        <quote xml:id="quote.1">ne in messem alienam,
                         <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>OLDALTÖRÉS<?oxy_custom_end?>
                         tuam immittito falcem,</quote><note type="quote" xml:id="note.quote.1">Cf.
                         Erasm. <hi rend="italic">Adag.</hi> 1182. II,II,82. Quam quisque norit

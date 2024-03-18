@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -249,25 +247,24 @@
                 <pb/>
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">[1.] Ego iam perveni <placeName>Lubianam</placeName>, ubi intellexi
-                        <persName>Petrum Crusitz</persName><note type="critic" xml:id="note.1">Péter
-                        Krusics or Petar Kružić (1495–1537) was Captain of Klis, Senj, and a famous
-                        defender of Klis until his heroic death in 1537. For more on his life, see
-                            <hi rend="smallcap">Jurković</hi> 2007.</note> fecisse excursionem in
-                    Turcas et profligasse aliquot illorum centurias. Non satis scio, quo consilio
-                    aut ratione, nisi quod praesidiarii isti de limitophore quietem pati non
-                    possunt. De <persName>Imbrahimo bassa</persName><note type="critic"
-                        xml:id="note.2">Ibrahim Pargalı Pasha.</note> nihil scitur. Quidam dicunt
-                    profligatum illum a <persName>Tagmatz Sciach</persName><note type="critic"
-                        xml:id="note.3">Tahmasp I (1514–1576), the second Shah of Safavid Iran,
-                        ruled from 1524 until his death in 1576.</note> Sophy,<note type="critic"
-                        xml:id="note.4">Sophy was the name of the ruler of the Safavid dynasty of
-                        Iran (ca. 1501–1736), see <hi rend="smallcap">Floor</hi> 2016.</note> alii
-                    nescio quo confugisse. Constat, quicquid roboris Turcarum hic fuit, Europa
-                    excessisse. De <persName>Gryti</persName><note type="critic" xml:id="note.5"
-                        >Lodovico Gritti.</note> adventu nihil dum certi scio, tametsi advenerit
-                        <persName>Vespasianus Iaderensis</persName>;<note type="critic"
-                        xml:id="note.6">Vespasian of Zara.</note> credo certiora vos istic scire,
-                    nam in <persName>Vespasianum</persName> non incidi. </p>
+                        <persName>Petrum Crusitz</persName><note xml:id="note.1">Péter Krusics or
+                        Petar Kružić (1495–1537) was Captain of Klis, Senj, and a famous defender of
+                        Klis until his heroic death in 1537. For more on his life, see <hi
+                            rend="smallcap">Jurković</hi> 2007.</note> fecisse excursionem in Turcas
+                    et profligasse aliquot illorum centurias. Non satis scio, quo consilio aut
+                    ratione, nisi quod praesidiarii isti de limitophore quietem pati non possunt. De
+                        <persName>Imbrahimo bassa</persName><note xml:id="note.2">Ibrahim Pargalı
+                        Pasha.</note> nihil scitur. Quidam dicunt profligatum illum a
+                        <persName>Tagmatz Sciach</persName><note xml:id="note.3">Tahmasp I
+                        (1514–1576), the second Shah of Safavid Iran, ruled from 1524 until his
+                        death in 1576.</note> Sophy,<note xml:id="note.4">Sophy was the name of the
+                        ruler of the Safavid dynasty of Iran (ca. 1501–1736), see <hi
+                            rend="smallcap">Floor</hi> 2016.</note> alii nescio quo confugisse.
+                    Constat, quicquid roboris Turcarum hic fuit, Europa excessisse. De
+                        <persName>Gryti</persName><note xml:id="note.5">Lodovico Gritti.</note>
+                    adventu nihil dum certi scio, tametsi advenerit <persName>Vespasianus
+                        Iaderensis</persName>;<note xml:id="note.6">Vespasian of Zara.</note> credo
+                    certiora vos istic scire, nam in <persName>Vespasianum</persName> non incidi. </p>
                 <p xml:id="p.3">[2.] Haesi hic <placeName>Lubianae</placeName> ob summa incrementa
                     aquarum. Adeo enim <placeName>Savus</placeName> et
                         <placeName>Labacus</placeName> et ceteri fluvii dissolutione nivium
@@ -276,9 +273,9 @@
                     obmissurum, quod ad ipsius maiestatem aut Dominationem Vestram aliquo pacto
                     spectare potest. <persName>Wolffgango Haller</persName> me commendabis,
                     ceterisque dominis et amicis. Litterasque ad carissimam
-                        <persName>uxorem</persName><note type="critic" xml:id="note.7">Anna Isabella
-                        (Elizabeth) Donche.</note> meam per fidum tabellarium transmittat, cui me ex
-                    animo commendo. </p>
+                        <persName>uxorem</persName><note xml:id="note.7">Anna Isabella (Elizabeth)
+                        Donche.</note> meam per fidum tabellarium transmittat, cui me ex animo
+                    commendo. </p>
                 <p xml:id="p.4">Ex <placeName>Lubiana</placeName> ultimo Februarii 1534.</p>
             </div>
         </body>

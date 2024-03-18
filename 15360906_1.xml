@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Daniel Mauch<idno type="ITIdata">Q470236</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,33 +235,30 @@
                 <p xml:id="p.2">Reverende et Magnifice Domine, Patrone mihi plurimum Honorande!
                     Celebrantur hic provincialia comitia, quibus peractis ibimus
                         <placeName>Tridentum</placeName> ad nuptias cuiusdam <persName>comitis de
-                        Laterano</persName><note type="critic" xml:id="note.1">We do not know him
-                        more closely. Papal Count Palatine (<hi rend="italic">comes palatinus
-                            Lateranus</hi>, Count of the Sacred Palace of Lateran) was merely an
-                        honorary title.</note> cum consanguinea episcopi
-                        <persName>Tridentini</persName>,<note type="critic" xml:id="note.2">Bernhard
-                        von Cles.</note> qui maximo apparatu nuptiarum impensam solvet, nempe qui
-                    Romanorum <persName>regem</persName><note type="critic" xml:id="note.3">King
-                        Ferdinand I.</note> cum <persName>consorte</persName><note type="critic"
-                        xml:id="note.4">Anna Jagellonica.</note> et magnam turbam maximorum
-                    dominorum invitavit. Inde cum redierimus, parabimus nos pro itinere in
-                    inferiorem Germaniam.<note type="critic" xml:id="note.5">Germania inferior was a
-                        Roman province, today: Luxembourg, the southern Netherlands, part of
-                        Belgium, and part of Germany.</note> Quo cum pervenero, de nostris rebus
-                    multa coram narrabo Dominationi Vestrae Reverendissimae. </p>
+                        Laterano</persName><note xml:id="note.1">We do not know him more closely.
+                        Papal Count Palatine (<hi rend="italic">comes palatinus Lateranus</hi>,
+                        Count of the Sacred Palace of Lateran) was merely an honorary title.</note>
+                    cum consanguinea episcopi <persName>Tridentini</persName>,<note xml:id="note.2"
+                        >Bernhard von Cles.</note> qui maximo apparatu nuptiarum impensam solvet,
+                    nempe qui Romanorum <persName>regem</persName><note xml:id="note.3">King
+                        Ferdinand I.</note> cum <persName>consorte</persName><note xml:id="note.4"
+                        >Anna Jagellonica.</note> et magnam turbam maximorum dominorum invitavit.
+                    Inde cum redierimus, parabimus nos pro itinere in inferiorem Germaniam.<note
+                        xml:id="note.5">Germania inferior was a Roman province, today: Luxembourg,
+                        the southern Netherlands, part of Belgium, and part of Germany.</note> Quo
+                    cum pervenero, de nostris rebus multa coram narrabo Dominationi Vestrae
+                    Reverendissimae. </p>
                 <p xml:id="p.3">Serenissimus Romanus <persName>rex</persName> redibit in Austriam.
                     De <persName>caesare</persName> puto Reverendissimam Dominationem Vestram nihil
                     latere. Res Danicae notiores vobis sunt, quam nobis. Interim felicissime et diu
                     valeat Reverendissima Dominatio Vestra, cui me humillime commendo. Si me non
-                    fallit opinio, reverendissimus <persName>dominus</persName><note type="critic"
-                        xml:id="note.6">Lorenzo Campeggio.</note> meus ante festum sancti
-                        Michaelis<note type="critic" xml:id="note.7">29
-                        September.</note><placeName>Brixina</placeName><note type="critic"
+                    fallit opinio, reverendissimus <persName>dominus</persName><note xml:id="note.6"
+                        >Lorenzo Campeggio.</note> meus ante festum sancti Michaelis<note
+                        xml:id="note.7">29 September.</note><placeName>Brixina</placeName><note
                         xml:id="note.8">Brixen.</note> exibit. Iam venerunt ad nos
-                        <persName>Muscutella</persName><note type="critic" xml:id="note.9">We do not
-                        know him more closely.</note> tibicen cum sociis, quos vobis una nobiscum
-                    adducemus et cum maximo plausu intrabimus in regionem cervisiaticam, quod di
-                    bene vertant. </p>
+                        <persName>Muscutella</persName><note xml:id="note.9">We do not know him more
+                        closely.</note> tibicen cum sociis, quos vobis una nobiscum adducemus et cum
+                    maximo plausu intrabimus in regionem cervisiaticam, quod di bene vertant. </p>
                 <p xml:id="p.4">Praeterea unum, quod maxime scribendum fuit, paene praetermisissem,
                     videlicet reverendissimum <persName>dominum</persName> meum de Reverendissima
                     Dominatione Vestra saepe et honestissimam mentionem facere, atque omnino
@@ -273,8 +268,8 @@
                     </choice><hi rend="italic">Institutiones</hi> Iustiniani, ad quod cum laude
                     peragendum Deus optimus maximus suam mihi gratiam concedat. Cetera boni aequique
                     faciat Reverendissima Dominatio Vestra, cui me iterum commendo et
-                        <persName>Danum</persName><note type="critic" xml:id="note.10">Jakob
-                        Jespersen.</note> sponsandum saluto. </p>
+                        <persName>Danum</persName><note xml:id="note.10">Jakob Jespersen.</note>
+                    sponsandum saluto. </p>
                 <p xml:id="p.5">Ex <placeName>Bulsano</placeName> octavi Idus Septembris 1536.</p>
             </div>
         </body>

@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Léon Le Plaisant<idno type="ITIdata">Q470341</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,27 +234,27 @@
                 <pb/>
                 <p xml:id="p.1">Clarissimo viro domino Nicolao Olao, Albensi ecclesiae regni
                     Hungariae custodi, serenessimae reginae Mariae et Romanorum regi a secretis
-                        Placentius<note type="critic" xml:id="note.1">Léon Le Plaisant (†1548) was a
-                        Dominican monk and poet. He wrote various scholarly works and poems in Latin
-                        and Greek, see <hi rend="smallcap">Tournoy</hi> 2020.</note> salutem dicit. </p>
-                <p xml:id="p.2"><persName>Iacobus Arrhusius</persName><note type="critic"
-                        xml:id="note.2">Jakob Jespersen.</note> adulescens, Graece iuxte ac Latine
-                    doctissimus, familiaris tuus, Clarissime Vir, quicum summa mihi necessitudo iam
-                    inde a quinquennio intercessit, cum me superiore aestate inviseret, Olaum herum
-                    suum sedulo apud me depraedicans unice desiderare argumentum litteratium e
-                    Musaeo Placentiano inter cetera recensebat.</p>
+                        Placentius<note xml:id="note.1">Léon Le Plaisant (†1548) was a Dominican
+                        monk and poet. He wrote various scholarly works and poems in Latin and
+                        Greek, see <hi rend="smallcap">Tournoy</hi> 2020.</note> salutem dicit. </p>
+                <p xml:id="p.2"><persName>Iacobus Arrhusius</persName><note xml:id="note.2">Jakob
+                        Jespersen.</note> adulescens, Graece iuxte ac Latine doctissimus, familiaris
+                    tuus, Clarissime Vir, quicum summa mihi necessitudo iam inde a quinquennio
+                    intercessit, cum me superiore aestate inviseret, Olaum herum suum sedulo apud me
+                    depraedicans unice desiderare argumentum litteratium e Musaeo Placentiano inter
+                    cetera recensebat.</p>
                 <p xml:id="p.3">Cuius verbis ut nihil verius unquam comperi, perinde serio definire
                     coepi, quod tandem ex omnibus tibi arrideret animumque oblectaret. </p>
-                <p xml:id="p.4">Itaque cum Phaleucio carmine<note type="critic" xml:id="note.3">A
-                        “kind of verse is named Phalaecium, Phalaecum, or Phaleucium carmen. This
-                        verse is hendecasyllabic, consisting of a spondee, a dactyl, and three
-                        trochees”, see: <hi rend="italic">Phalaecus</hi> in <hi rend="smallcap"
+                <p xml:id="p.4">Itaque cum Phaleucio carmine<note xml:id="note.3">A “kind of verse
+                        is named Phalaecium, Phalaecum, or Phaleucium carmen. This verse is
+                        hendecasyllabic, consisting of a spondee, a dactyl, and three trochees”,
+                        see: <hi rend="italic">Phalaecus</hi> in <hi rend="smallcap"
                             >Lewis–Short</hi> 1984<hi rend="super">2</hi>, 1366–1367.</note><hi
-                        rend="italic">Lucianum Aulicum</hi><note type="critic" xml:id="note.4">On
-                        this fabula, see <hi rend="smallcap">Tournoy</hi> 2020, 13.</note>
-                    absolvissem, tuque regiae aulae unicum sis columen ac rarum quoddam monile – nam
-                    illic studia ac mores philosophicos solus tueris – iure optimo fabulam tuo
-                    auspicio in publicum emergere passus sum. </p>
+                        rend="italic">Lucianum Aulicum</hi><note xml:id="note.4">On this fabula, see
+                            <hi rend="smallcap">Tournoy</hi> 2020, 13.</note> absolvissem, tuque
+                    regiae aulae unicum sis columen ac rarum quoddam monile – nam illic studia ac
+                    mores philosophicos solus tueris – iure optimo fabulam tuo auspicio in publicum
+                    emergere passus sum. </p>
                 <p xml:id="p.5">Quam tu pro tua humanitate gratus excipies exceptamque ingenue
                     defensabis, faciesque officio tuo, ut lucubrationes alias, quas plurimas apud me
                     retinei, Olao posthac nuncupem. Vale. </p>

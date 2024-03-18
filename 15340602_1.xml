@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -252,24 +251,24 @@
                 <p xml:id="p.2">Ego hodie valedixi <persName>caesari</persName> Turcarum, a quo mira
                     cum benignitate sum dimissus. Venio per Vlachos, ut aiunt, per regnum Hungariae.
                     Iussum est capitaneis omnibus et <persName>sansacho</persName><note
-                        type="critic" xml:id="note.1">Yahya Pashazade Mehmed Bey (†1548) was the son
-                        of Yahya Pasha. According to a list dated 1526, he was already Pasha of
-                        Smederevo at this time. He later became Pasha of Buda (1543–1548), see <hi
+                        xml:id="note.1">Yahya Pashazade Mehmed Bey (†1548) was the son of Yahya
+                        Pasha. According to a list dated 1526, he was already Pasha of Smederevo at
+                        this time. He later became Pasha of Buda (1543–1548), see <hi
                             rend="smallcap">Barta</hi> 1971, 292; <hi rend="smallcap">Gévay</hi>
                         1841, 6; and <hi rend="smallcap">İnbaşi</hi> 2019,
-                        528.</note><placeName>Samandriae</placeName>,<note type="critic"
-                        xml:id="note.2">Smederevo.</note> ut me salvum et laetum deducant ad
-                        <placeName>Strigonium</placeName>.<note type="critic" xml:id="note.3"
-                        >Esztergom.</note> Neque de vita sua securi sint, donec a me litteras
-                    habuerint, quibus significem me sanum eo pervenisse. Ipse Turcarum
-                        <persName>caesar</persName> ore proprio dixit: “Etiam si mihi esses mortalis
-                    hostis, ego te inter brachia servorum meorum faciam portari laetum et ridentem
-                    usque in Strigonium, quia tu es servitor domini tui et facis ea, quae tibi sunt
-                    commissa.” Egi ipsius maiestati gratias. Neque parum est quod mihi contigit, Deo
-                    sit laus et gloria. Illustris dominus <persName>Aloisius Griti</persName><note
-                        type="critic" xml:id="note.4">Lodovico Gritti.</note> valedixit similiter
-                    magno caesari venitque per Transsilvaniam <placeName>Budam</placeName>, deinde
-                    ad serenissimum regem <persName>Ferdinandum</persName>.</p>
+                        528.</note><placeName>Samandriae</placeName>,<note xml:id="note.2"
+                        >Smederevo.</note> ut me salvum et laetum deducant ad
+                        <placeName>Strigonium</placeName>.<note xml:id="note.3">Esztergom.</note>
+                    Neque de vita sua securi sint, donec a me litteras habuerint, quibus significem
+                    me sanum eo pervenisse. Ipse Turcarum <persName>caesar</persName> ore proprio
+                    dixit: “Etiam si mihi esses mortalis hostis, ego te inter brachia servorum
+                    meorum faciam portari laetum et ridentem usque in Strigonium, quia tu es
+                    servitor domini tui et facis ea, quae tibi sunt commissa.” Egi ipsius maiestati
+                    gratias. Neque parum est quod mihi contigit, Deo sit laus et gloria. Illustris
+                    dominus <persName>Aloisius Griti</persName><note xml:id="note.4">Lodovico
+                        Gritti.</note> valedixit similiter magno caesari venitque per Transsilvaniam
+                        <placeName>Budam</placeName>, deinde ad serenissimum regem
+                        <persName>Ferdinandum</persName>.</p>
                 <pb/>
                 <p xml:id="p.3">Abiturus est eo, quo ego, tempore. Ita quae anno superiore magnus
                     caesar promisit, de restituenda scilicet dote serenissimae <persName>reginae
@@ -278,8 +277,8 @@
                     me, cum in Germaniam pervenero, nam haud satis scio, per quorum manus hae sunt
                     pertransiturae. Commenda me dominis et amicis omnibus, qui istic sunt, et
                     maiestati reginali imprimis, domino duci <persName>Darscoth</persName>,<note
-                        type="critic" xml:id="note.5">Philippe II de Croÿ.</note> archiepiscopo
-                        <persName>Panormitano</persName><note type="critic" xml:id="note.6">Jean II
+                        xml:id="note.5">Philippe II de Croÿ.</note> archiepiscopo
+                        <persName>Panormitano</persName><note xml:id="note.6">Jean II
                         Carondelet.</note> aliisque. Commendo itidem Dominationis Vestrae familiam
                     meam, ut eam consoleris. Et bene vale. </p>
                 <p xml:id="p.4">Datum <placeName>Constantinopoli</placeName>, quae et Bizantium die

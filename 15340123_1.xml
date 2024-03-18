@@ -228,7 +228,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -259,47 +258,46 @@
                 <p xml:id="p.2">[1.] Toties me repetit cruciatus ille membrorum, ut nesciam, quid
                     sperandum sit de hoc plusquam vitreo corpusculo. A natali Christi gravissime
                     laboravi, ac misere mihi metuo, simul atque se resolverit hoc gelu. Itaque
-                    condidi testamentum,<note type="critic" xml:id="note.1">Erasmus writes about his
-                        testament in his Ep. 2754, see <hi rend="smallcap">Allen</hi> 1941,
-                        142–143.</note> et excuditur liber meus <hi rend="italic">De preparatione ad
-                        mortem</hi>.<note type="critic" xml:id="note.2"><hi rend="italic">Liber cum
-                            primis pius, de preparatione ad mortem</hi>, Basileae, In officina
-                        Frobeniana per Hieronymum Frobenium et Nicolaum Episcopium, 1534. Written in
-                        response to a request from Thomas Boleyn, see Thomas Boleyn to Erasmus of
-                        Rotterdam, 19 June [1533], in: <hi rend="smallcap">Allen</hi> 1941, 249: “…
-                        rogitans, ut libellum aliquem de preparatione ad moriendum, quam primum
-                        possis effectum curaveris.”</note> Cetera sunt in manu <choice>
+                    condidi testamentum,<note xml:id="note.1">Erasmus writes about his testament in
+                        his Ep. 2754, see <hi rend="smallcap">Allen</hi> 1941, 142–143.</note> et
+                    excuditur liber meus <hi rend="italic">De preparatione ad mortem</hi>.<note
+                        xml:id="note.2"><hi rend="italic">Liber cum primis pius, de preparatione ad
+                            mortem</hi>, Basileae, In officina Frobeniana per Hieronymum Frobenium
+                        et Nicolaum Episcopium, 1534. Written in response to a request from Thomas
+                        Boleyn, see Thomas Boleyn to Erasmus of Rotterdam, 19 June [1533], in: <hi
+                            rend="smallcap">Allen</hi> 1941, 249: “… rogitans, ut libellum aliquem
+                        de preparatione ad moriendum, quam primum possis effectum curaveris.”</note>
+                    Cetera sunt in manu <choice>
                         <orig>Domino</orig>
                         <supplied>Domini</supplied>
                     </choice>, qui si dederit vel mediocrem valetudinem, statui vos sub finem
                     Aprilis <milestone unit="pb"/>revisere. </p>
                 <p xml:id="p.3">[2.] <placeName>Antverpiae</placeName> excusus est libellus
-                        <persName>scurrae</persName><note type="critic" xml:id="note.3">The
-                        Franciscan Nikolaus Ferber of Herborn (†1535) attacked Erasmus “as a
-                        harbringre of the Protestant Reformation” in his volume. For more on Ferber
-                        and this conflict, see Erasmus’ letter to Jean II Carondelet in <hi
-                            rend="smallcap">Allen</hi> 1941, 349; <hi rend="smallcap">Ipolyi</hi>
-                        1875, 449–451; and <hi rend="smallcap">Hoffmann</hi>–<hi rend="smallcap"
-                            >Bietenholz</hi> 1986.</note> cuiusdam indocti, insulsi, effrontis ac
-                    vecordis, qui mira convicia evomit in me. Nec alio consilio videtur edidisse
-                    conciones suas, nisi ut illa veneno misceret. Nulla est in toto libro scintilla
-                    piae mentis. Quod si istic talibus monstris licet quicquid libet, nescio, an
-                    expediat mihi istuc remigrare, quod tamen multis de causis percupio. Rem plenius
-                    cognosces e schedis, quas huic adiunxi epistolae.<note type="critic"
-                        xml:id="note.4">“Specimen pages of Herborn’s book”, see <hi rend="smallcap"
-                            >Allen</hi> 1941, 348. Erasmus also sent his letter addressed to Jean II
-                        Carondelet (Ep. 2899.) to Oláh, which is why Erasmus’ letter was located and
-                        published in Oláh’s collection of letters.</note> Eas, si videtur,
-                    communicabis amicis et per quos putabis tales rabulas posse compesci. Utinam
-                    caesar non tribueret tantum isti hominum generi,<note type="critic"
-                        xml:id="note.5">According to Allen, the Franciscans.</note> si tamen homines
-                    sunt appellandi! Ex quo discessit hinc <persName>Levinus</persName><note
-                        type="critic" xml:id="note.6">Probably Lieven Algoet.</note> nihil a vobis
-                    allatum est, fortasse mercatu Franckfordiensi venient epistolae. Interim
-                    clarissimo <persName>duci Arscoti</persName><note type="critic" xml:id="note.7"
-                        >Philippe II de Croÿ.</note> me commendabis. <persName>Dano</persName><note
-                        type="critic" xml:id="note.8">Jakob Jespersen.</note> salutem plurimam, cui
-                    nondum rescripsi, quia non vacavit. Vale. </p>
+                        <persName>scurrae</persName><note xml:id="note.3">The Franciscan Nikolaus
+                        Ferber of Herborn (†1535) attacked Erasmus “as a harbringre of the
+                        Protestant Reformation” in his volume. For more on Ferber and this conflict,
+                        see Erasmus’ letter to Jean II Carondelet in <hi rend="smallcap">Allen</hi>
+                        1941, 349; <hi rend="smallcap">Ipolyi</hi> 1875, 449–451; and <hi
+                            rend="smallcap">Hoffmann</hi>–<hi rend="smallcap">Bietenholz</hi>
+                        1986.</note> cuiusdam indocti, insulsi, effrontis ac vecordis, qui mira
+                    convicia evomit in me. Nec alio consilio videtur edidisse conciones suas, nisi
+                    ut illa veneno misceret. Nulla est in toto libro scintilla piae mentis. Quod si
+                    istic talibus monstris licet quicquid libet, nescio, an expediat mihi istuc
+                    remigrare, quod tamen multis de causis percupio. Rem plenius cognosces e
+                    schedis, quas huic adiunxi epistolae.<note xml:id="note.4">“Specimen pages of
+                        Herborn’s book”, see <hi rend="smallcap">Allen</hi> 1941, 348. Erasmus also
+                        sent his letter addressed to Jean II Carondelet (Ep. 2899.) to Oláh, which
+                        is why Erasmus’ letter was located and published in Oláh’s collection of
+                        letters.</note> Eas, si videtur, communicabis amicis et per quos putabis
+                    tales rabulas posse compesci. Utinam caesar non tribueret tantum isti hominum
+                        generi,<note xml:id="note.5">According to Allen, the Franciscans.</note> si
+                    tamen homines sunt appellandi! Ex quo discessit hinc
+                        <persName>Levinus</persName><note xml:id="note.6">Probably Lieven
+                        Algoet.</note> nihil a vobis allatum est, fortasse mercatu Franckfordiensi
+                    venient epistolae. Interim clarissimo <persName>duci Arscoti</persName><note
+                        xml:id="note.7">Philippe II de Croÿ.</note> me commendabis.
+                        <persName>Dano</persName><note xml:id="note.8">Jakob Jespersen.</note>
+                    salutem plurimam, cui nondum rescripsi, quia non vacavit. Vale. </p>
                 <p xml:id="p.4"><placeName>Friburgi</placeName> 23. die Ianuarii anno 1534.</p>
             </div>
         </body>

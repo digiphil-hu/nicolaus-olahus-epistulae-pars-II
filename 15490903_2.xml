@@ -204,11 +204,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,31 +243,31 @@
                         corresp="author">numerare</del> certam summam pecuniae. Et non obscure
                     dicitur exstare adhuc litteras quondam <persName>Beatricis reginae</persName>,
                     quibus inscripsisset tam <del corresp="author">eam</del> arcem Lypche,<note
-                        type="critic" xml:id="note.1">Castle of Zólyomlipcse, Ľupčiansky hrad
-                        today.</note> quam Saskew<note type="critic" xml:id="note.2">Castle of
-                        Saskő, Šášovský hrad today.</note> quondam reverendissimo domino
-                        <persName>Urbano episcopo thesaurario</persName><note type="critic"
-                        xml:id="note.3">Orbán Dóczy of Nagylucse (†1491) was Bishop of Eger.</note>
-                    pro octo millibus Florenorum.<note type="critic" xml:id="note.4"> Beatrice of
-                        Aragon, Queen of Hungary gave these two castles to the Dóczy family via <hi
-                            rend="italic">inscriptio</hi>, which was why the family was in constant
-                        litigation regarding these possessions, see <hi rend="smallcap">Wenzel</hi>
-                        1876, 19–20.</note> Contulimus de his cum domino <persName>directore
-                        causarum regiarum</persName>,<note type="critic" xml:id="note.5">János
-                        Zomor.</note> qui asserit posse non magno negotio <del corresp="author"
-                        >tibi</del> recuperari arcem Saskew pro fisco regio, liberarique <choice>
+                        xml:id="note.1">Castle of Zólyomlipcse, Ľupčiansky hrad today.</note> quam
+                        Saskew<note xml:id="note.2">Castle of Saskő, Šášovský hrad today.</note>
+                    quondam reverendissimo domino <persName>Urbano episcopo
+                        thesaurario</persName><note xml:id="note.3">Orbán Dóczy of Nagylucse (†1491)
+                        was Bishop of Eger.</note> pro octo millibus Florenorum.<note
+                        xml:id="note.4"> Beatrice of Aragon, Queen of Hungary gave these two castles
+                        to the Dóczy family via <hi rend="italic">inscriptio</hi>, which was why the
+                        family was in constant litigation regarding these possessions, see <hi
+                            rend="smallcap">Wenzel</hi> 1876, 19–20.</note> Contulimus de his cum
+                    domino <persName>directore causarum regiarum</persName>,<note xml:id="note.5"
+                        >János Zomor.</note> qui asserit posse non magno negotio <del
+                        corresp="author">tibi</del> recuperari arcem Saskew pro fisco regio,
+                    liberarique <choice>
                         <orig>maiestate</orig>
                         <supplied>maiestas</supplied>
                     </choice> regia ab praedicta pensione et obligatione. Existimabamus autem domino
-                        <persName>Christofero Kewrish</persName><note type="critic" xml:id="note.6"
-                        >Christoph Konritz. On the contract regarding the handover of the two
-                        castles in return for an annual amount of 600 florins, see ÖStA FHKA
-                        Hoffinanz–Ungarn RN 2. Konv. 1549 fol. 147–150.</note> praefecto fodinarum
-                    cupri Novosoliensis rem exactuus constare, ad quem cum scripsissemus, respondit
-                    haberi eas ipsas litteras apud manus Dominationis Vestrae Reverendissimae, quas
-                        <del corresp="author">ut</del> scribit se anno proxime praeterito vidisse
-                    immo et processum, quem pro recuperatione castrorum illorum instituisset felicis
-                    memoriae quondam dominus <persName>Ludovicus rex</persName>.<note type="critic"
+                        <persName>Christofero Kewrish</persName><note xml:id="note.6">Christoph
+                        Konritz. On the contract regarding the handover of the two castles in return
+                        for an annual amount of 600 florins, see ÖStA FHKA Hoffinanz–Ungarn RN 2.
+                        Konv. 1549 fol. 147–150.</note> praefecto fodinarum cupri Novosoliensis rem
+                    exactuus constare, ad quem cum scripsissemus, respondit haberi eas ipsas
+                    litteras apud manus Dominationis Vestrae Reverendissimae, quas <del
+                        corresp="author">ut</del> scribit se anno proxime praeterito vidisse immo et
+                    processum, quem pro recuperatione castrorum illorum instituisset felicis
+                    memoriae quondam dominus <persName>Ludovicus rex</persName>.<note
                         xml:id="note.7">King Louis II. In fact, King Wladislaus II confirmed
                         Beatrice of Aragon’s donation, see <hi rend="smallcap">Ortvay</hi> 1894,
                         65.</note> Quare Dominatio Vestra Reverendissima de voluntate sacrae regiae

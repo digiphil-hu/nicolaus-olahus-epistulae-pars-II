@@ -213,7 +213,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Nicolaus Prossinowzky</persName>
                 </correspAction>
@@ -246,13 +245,13 @@
                 <p xml:id="p.1">Prudenti et Circumspecti Domini, Amici Nobis Honorandissimi, salutem
                     plurimam et mei commendationes! </p>
                 <p xml:id="p.2">Litteras vestras simul et generosae dominae <persName>Annae de
-                        Lewa</persName><note type="critic" xml:id="note.1">Probably Anna Thurzó,
-                        Gábor Lévai’s widow. Lévai fell at the siege of Buda and Pest in 1541, see
-                            <hi rend="smallcap">Kasza</hi> 2021, 220; and Ep.
+                        Lewa</persName><note xml:id="note.1">Probably Anna Thurzó, Gábor Lévai’s
+                        widow. Lévai fell at the siege of Buda and Pest in 1541, see <hi
+                            rend="smallcap">Kasza</hi> 2021, 220; and Ep.
                             619.<ref>olahus.tei.15410327_1</ref></note> relictae accepimus.<note
-                        type="critic" xml:id="note.2">We do not know these letters.</note> Itaque ad
-                    petitionem vestram exemplum responsi praesentibus inclusum ad vos mittimus, ex
-                    quo intelligetis, quid ipsa domina relicta scribat et optat. Maiestas quidem
+                        xml:id="note.2">We do not know these letters.</note> Itaque ad petitionem
+                    vestram exemplum responsi praesentibus inclusum ad vos mittimus, ex quo
+                    intelligetis, quid ipsa domina relicta scribat et optat. Maiestas quidem
                         <persName>regia</persName>, dominus noster clementissimus anno superiori ad
                     meam Nicolai Olahi intercessionem et sollicitationem, uti aliquot vestrum
                     sciunt, de multa illa, ni fallor, 1500 florentium vobis gratiam fecit. Nescimus
@@ -262,14 +261,14 @@
                     </choice>, uti domina ipsa de Lewa scribit, illarum gratiam fecerit, quod ex
                     litteris regiis, quas ego Nicolaus Olahus vobis ordinaveram, perspici deberit.
                     Utcumque tamen se res habeat, si post dietam praeteritam Novizoliensem,<note
-                        type="critic" xml:id="note.3">The diet in Banksá Bystrica was held in
-                        February and March of 1542.</note> uti ipsa domina de Lewa scribit,
-                    concordastis, nisi provisore ipsius et Davide litterato, nobis ita videretur
-                    etc. propter vitandas maiores expensas et earum damna, quae vobis nisi tempore
-                    inferri hac ratione possent. Iuxta concordiam et promissionem factam provisori
-                    de Lewa et haeredibus Davidis litterati satisfaceretis. Quid tamen melius vobis
-                    factu sit, vos exsignate. Quibus nos omne bonum et commode cupimus, quos et
-                    feliciter valere optamus. </p>
+                        xml:id="note.3">The diet in Banksá Bystrica was held in February and March
+                        of 1542.</note> uti ipsa domina de Lewa scribit, concordastis, nisi
+                    provisore ipsius et Davide litterato, nobis ita videretur etc. propter vitandas
+                    maiores expensas et earum damna, quae vobis nisi tempore inferri hac ratione
+                    possent. Iuxta concordiam et promissionem factam provisori de Lewa et haeredibus
+                    Davidis litterati satisfaceretis. Quid tamen melius vobis factu sit, vos
+                    exsignate. Quibus nos omne bonum et commode cupimus, quos et feliciter valere
+                    optamus. </p>
                 <p xml:id="p.3">Ex arce Zoliensi XXI. Iunii anno Domini MDXLII. </p>
                 <p xml:id="p.4">
                     <seg type="signature">Nicolaus Olahus custos Albensis consiliarius regiae

@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
             </correspDesc>
@@ -256,14 +254,14 @@
                 <p xml:id="p.1">Mein freuntlichen grueß mit guetem willen zuvor, ersam, weis, sonder
                     lieb herren und gut freundt!</p>
                 <p xml:id="p.2">[1.] Eur schreiben, so ir jungstlich mir und doctor <persName>Johan
-                        Spolin</persName><note type="critic" xml:id="note.1">Johann Spölin.</note>
-                    gen <placeName>Prag</placeName> zuegethan, hab ich in abwesen gemelts hern
+                        Spolin</persName><note xml:id="note.1">Johann Spölin.</note> gen
+                        <placeName>Prag</placeName> zuegethan, hab ich in abwesen gemelts hern
                         <persName>doctor Spolins</persName> den 18. tag dits monats gleich in
-                    aufbruch, als di ro. ku. mt.<note type="critic" xml:id="note.2">I.e. römische
-                        königliche Majestät.</note> daselbst zu <placeName>Prag</placeName> und auf
-                    den reichstag gen <placeName>Speir</placeName> werdts verrucken wellen,
-                    empfangen, dasselb eur schreiben und darinn gemelt begern und eur obligen, der
-                    ro. ku. mt. furtragen, und unnser gnedigisten frauwen in daz
+                    aufbruch, als di ro. ku. mt.<note xml:id="note.2">I.e. römische königliche
+                        Majestät.</note> daselbst zu <placeName>Prag</placeName> und auf den
+                    reichstag gen <placeName>Speir</placeName> werdts verrucken wellen, empfangen,
+                    dasselb eur schreiben und darinn gemelt begern und eur obligen, der ro. ku. mt.
+                    furtragen, und unnser gnedigisten frauwen in daz
                         <placeName>Niderlannd</placeName> auf der posst zuegeschickt, darauf sich
                     sein ro. ku. mt. gantz gnedigclich erboten, sovil muglich ist, handlung
                     furzunemen, wie dann ir mt. im werckh ist, damit ir und annder irer mt. getrewe
@@ -281,20 +279,19 @@
                     Wellet demnach noch die clain zeit geduldt tragen und bei gueter huet und
                     warnung sein, damit euch nit etwo durch verraterey unnd annder poß practicken
                     ainicherlai nachtail oder schad, das Got verhuetten welle, beschehe. Inmassen
-                    ich herren <persName>Ruepprechten Haller</persName><note type="critic"
-                        xml:id="note.3">Ruprecht Haller.</note> etc., hern <persName>Balthasar
-                        Himlreich</persName><note type="critic" xml:id="note.4">Balthasar
-                        Himmelreich was a Deputy Count of the Chamber <hi rend="italic"
-                            >(Unterkammergraf)</hi> in Kremnica in 1539, see <hi rend="smallcap"
-                            >Heiss</hi> 1976, 69.</note> und <persName>Puechwallder</persName><note
-                        type="critic" xml:id="note.5">Adam Puchwaldt was Captain <hi rend="italic"
-                            >(Hauptmann)</hi> of Zvolen, see <hi rend="smallcap"
-                            >Meier–Piirainen–Wegera</hi> 2009, 14.</note> auch schreib und sy ermon,
-                    sovil muglich, ir vleissig gut aufsehen zu haben, damit euch khain schad
-                    beschehe etc. Das wolt ich euch auf eur schreiben zu antwurt und, des ain wissen
-                    emphacht, gueter mainung also anzaigen. Dann warinnen ich euch allen
-                    freuntlichen und dienstlichen willen erzaigen und beweisen khan, sollt ir mich
-                    willig haben. </p>
+                    ich herren <persName>Ruepprechten Haller</persName><note xml:id="note.3"
+                        >Ruprecht Haller.</note> etc., hern <persName>Balthasar
+                        Himlreich</persName><note xml:id="note.4">Balthasar Himmelreich was a Deputy
+                        Count of the Chamber <hi rend="italic">(Unterkammergraf)</hi> in Kremnica in
+                        1539, see <hi rend="smallcap">Heiss</hi> 1976, 69.</note> und
+                        <persName>Puechwallder</persName><note xml:id="note.5">Adam Puchwaldt was
+                        Captain <hi rend="italic">(Hauptmann)</hi> of Zvolen, see <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 14.</note> auch
+                    schreib und sy ermon, sovil muglich, ir vleissig gut aufsehen zu haben, damit
+                    euch khain schad beschehe etc. Das wolt ich euch auf eur schreiben zu antwurt
+                    und, des ain wissen emphacht, gueter mainung also anzaigen. Dann warinnen ich
+                    euch allen freuntlichen und dienstlichen willen erzaigen und beweisen khan,
+                    sollt ir mich willig haben. </p>
                 <p xml:id="p.4">Geben zu <placeName>Wienn</placeName> den 26. tag January anno etc.
                     im zwayundviertzigistenn. </p>
                 <p xml:id="p.5">
@@ -308,8 +305,8 @@
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
                 <p xml:id="p.6">Den ersamen unnd weisen, meinen sondern leiben herrn unnd gueten
-                    freundten, n.,<note type="critic" xml:id="note.6">I.e. Name.</note> richtern und
-                    raten der siben hungarischen perckhsteet sament unnd sonnderlichen.</p>
+                    freundten, n.,<note xml:id="note.6">I.e. Name.</note> richtern und raten der
+                    siben hungarischen perckhsteet sament unnd sonnderlichen.</p>
             </div>
         </body>
     </text>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,31 +236,30 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine, et Frater nobis Observandissime,
                     salutem et obsequiorum nostrorum commendationem! </p>
                 <p xml:id="p.2">Aestate superiori homines nostri in episcopatu nostro Zagrabiensi,
-                    oppido scilicet <placeName>Iwanych</placeName><note type="critic"
-                        xml:id="note.1">Ivanić-Grad.</note> ceperant quendam Turcam
-                        <persName>Dymytrasyn</persName><note type="critic" xml:id="note.2">We do not
-                        know him more closely.</note> vocatum, qui, ut dicitur, fuit insignis latro
-                    et dux Turcarum ad faciendas excursiones. Quem cum administrator bonorum
-                    episcopatus nostri <persName>Georgius Thompa</persName><note type="critic"
-                        xml:id="note.3">György III Tompa.</note> metu Turcicarum copiarum, quae tum
-                    castra et fortalitia in Sclavonia oppugnaturae paratae esse dicebantur, tutioris
-                    conservationis gratia <placeName>Zagrabiam</placeName> mitteret, equites regiae
-                    maiestatis, qui in Sclavonia stipendio provinciarum hereditariarum suae
-                    maiestatis aluntur, nescimus, quid iuris in eo praetendentes, in itinere
-                    eripuerant, et ad manus magnifici domini <persName>Lucae Zekel</persName>,<note
-                        type="critic" xml:id="note.4">Lukács Székely was Captain of Pécs in 1543 and
-                        Captain of Szentgyörgyhegy from 1549. He participated at the diet in
-                        Bratislava in 1546, and between 1546–1457, he was in intensive
-                        correspondence with Niklas von Salm and Miklós Zrínyi. See <hi
-                            rend="smallcap">Mikó</hi> 2017, 68; <hi rend="smallcap">Barabás</hi>
-                        1898, passim; and <hi rend="smallcap">Hozjan</hi> 2010.</note> capitanei sui
-                    assignaverant. Quem cum de restitutione admonuissemus, respondit tandem
-                    communibus cum spectabile et magnifico domino comite <persName>Nicolao a
-                        Salmis</persName>,<note type="critic" xml:id="note.5">Niklas von
-                        Salm.</note> capitaneo generali, etc. litteris se propter mutuam amicitiam
-                    nobis velle illum reddere rogavitque, ut <placeName>Varasdinum</placeName><note
-                        type="critic" xml:id="note.6">Varaždin.</note> pro captivo ipso<note
-                        type="critic" xml:id="note.7">Dymystrasyn.</note> ad se mitteremus. Cum
+                    oppido scilicet <placeName>Iwanych</placeName><note xml:id="note.1"
+                        >Ivanić-Grad.</note> ceperant quendam Turcam
+                        <persName>Dymytrasyn</persName><note xml:id="note.2">We do not know him more
+                        closely.</note> vocatum, qui, ut dicitur, fuit insignis latro et dux
+                    Turcarum ad faciendas excursiones. Quem cum administrator bonorum episcopatus
+                    nostri <persName>Georgius Thompa</persName><note xml:id="note.3">György III
+                        Tompa.</note> metu Turcicarum copiarum, quae tum castra et fortalitia in
+                    Sclavonia oppugnaturae paratae esse dicebantur, tutioris conservationis gratia
+                        <placeName>Zagrabiam</placeName> mitteret, equites regiae maiestatis, qui in
+                    Sclavonia stipendio provinciarum hereditariarum suae maiestatis aluntur,
+                    nescimus, quid iuris in eo praetendentes, in itinere eripuerant, et ad manus
+                    magnifici domini <persName>Lucae Zekel</persName>,<note xml:id="note.4">Lukács
+                        Székely was Captain of Pécs in 1543 and Captain of Szentgyörgyhegy from
+                        1549. He participated at the diet in Bratislava in 1546, and between
+                        1546–1457, he was in intensive correspondence with Niklas von Salm and
+                        Miklós Zrínyi. See <hi rend="smallcap">Mikó</hi> 2017, 68; <hi
+                            rend="smallcap">Barabás</hi> 1898, passim; and <hi rend="smallcap"
+                            >Hozjan</hi> 2010.</note> capitanei sui assignaverant. Quem cum de
+                    restitutione admonuissemus, respondit tandem communibus cum spectabile et
+                    magnifico domino comite <persName>Nicolao a Salmis</persName>,<note
+                        xml:id="note.5">Niklas von Salm.</note> capitaneo generali, etc. litteris se
+                    propter mutuam amicitiam nobis velle illum reddere rogavitque, ut
+                        <placeName>Varasdinum</placeName><note xml:id="note.6">Varaždin.</note> pro
+                    captivo ipso<note xml:id="note.7">Dymystrasyn.</note> ad se mitteremus. Cum
                     autem tam insignem Turcici itineris ducem non satis tutum esse existimemus in
                     finibus illis vinctum detineri, confisi Spectabili Magnificae Dominationi
                     Vestrae rogamus eam, diligenter velit homines suos

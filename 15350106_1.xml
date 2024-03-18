@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Guilhelmus van den Steene</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,8 +241,8 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Guilhelmus Lapidanus monachus Nicolao Olao salutem.<note
-                        type="critic" xml:id="note.1">On this letter, see <hi rend="smallcap"
-                            >Verbeke</hi> 2005.</note></p>
+                        xml:id="note.1">On this letter, see <hi rend="smallcap">Verbeke</hi>
+                        2005.</note></p>
                 <p xml:id="p.2">[1.] Gestiit iamdudum animus, Magnifice Domine, ad Magnificentiam
                     Tuam litteras transmittere, sed huius animi mei desiderium, velut repagulis
                     quibusdam coercuit, quo minus sese exprompserit in opus rarus tabellionum
@@ -256,63 +254,61 @@
                     sine fenore peperit, ac in dies parturit, relegatus sum ad <choice>
                         <orig>lapidicinam</orig>
                         <supplied>lapicidinam</supplied>
-                    </choice>,<note type="critic" xml:id="note.2">Paronomasia with Steene’s
-                        name.</note> aut si quid molestius est, ineptissimorum hominum abhorrentium
-                    ab omni morum civilitate ac pietate vitae praeseferentium, tamen ipso vestitu,
-                    ac tonso capillitio, miram sanctimoniae personam, si haec liceat illis in os
-                    dicere citra omnem invidiae notam, sed veritatis comes simultas est. </p>
+                    </choice>,<note xml:id="note.2">Paronomasia with Steene’s name.</note> aut si
+                    quid molestius est, ineptissimorum hominum abhorrentium ab omni morum civilitate
+                    ac pietate vitae praeseferentium, tamen ipso vestitu, ac tonso capillitio, miram
+                    sanctimoniae personam, si haec liceat illis in os dicere citra omnem invidiae
+                    notam, sed veritatis comes simultas est. </p>
                 <p xml:id="p.3">Apud te autem et reverendissimum dominum <persName>episcopum
-                        Brixinensem</persName>,<note type="critic" xml:id="note.3">George of
-                        Austria.</note> absit adulatio, quid aliud etiam in saevissima bruma vernat,
-                    floret et maturescit, quam uberrima omnium bonorum studiorum seges? Deum
-                    immortalem, quanta nuper apud vos relucebat eruditio, quanta facundiae adulatio,
-                    quam regiae immo plusquam regiae dotes, adeo ut ipse stupefactus nescierim me
-                    vel hominibus terrenis, vel dis immortalibus adiunctum, utinam Lapidano
-                    concederent aliquando superi in eiusmodi virorum coetu vivere, quibus praeter
-                    unicam virtutem ac eruditionem cetera in rebus humanis, quantumvis magnifica
-                    vilescunt, atque in nauseam vertuntur. Tuae tamen Dominationi, mi Patrone Unice,
-                    integrum est tuum Lapidanum subrigere in aedificium ecclesiasticum,<note
-                        type="critic" xml:id="note.4">Van den Steene plays with his name and alluds
-                        Mt16, 18: “Et ego dico tibi, quia tu es Petrus, et super hanc petram
-                        ædificabo Ecclesiam meam”.</note> non quod ambiam in summo culmine collocari
-                    tumidus, ac expositus omnibus superbiae ventis ac tempestatibus, sed ut vel
-                    exigua saltem mihi oblata esset materia virtutis exercendae, quam nec mihi
-                    arrogo, nec omnino a me alienam affirmo. Tum apud nos bona studia, iam flaccida,
-                    aut potius emortua reviviscerent. Tum monasterium non lapidibus terreis, sed
-                    vivis construeretur, tum vera religio refloresceret, ac <quote xml:id="quote.1"
-                        >tacentibus graculis cygni canerent.</quote><note type="quote"
-                        xml:id="note.quote.1">Proverb., see Erasm. <hi rend="italic">Adag</hi>.
-                        2297. III, III, 97. Tunc canent cygni, cum tacebunt graculi.</note></p>
-                <p xml:id="p.4">[2.] Scripsisti<note type="critic" xml:id="note.5">We do not know
-                        this letter.</note> nuper mea causa, cuius rei gratia gratiam habeo
-                    immortalem, ut me promoveret <persName>dominus</persName><note type="critic"
-                        xml:id="note.6">According to van den Steene’s dedication in his book <hi
-                            rend="italic">De non timenda morte</hi>, he was Franciscus
-                        Oudegherstius, i.e. François d’Oudegherste, the Abbot of the Abbey of St.
-                        Winnoc. See also <hi rend="smallcap">Verbeke</hi> 2005, 176.</note> meus
-                        <milestone unit="pb"/>praelatus, sed is apertiorem requirit scripturam, ut
-                    qui ex litteris nequiverit intelligere, quorsum tenderet tuus sermo. Itaque
-                    etiam atque etiam rogo et obtestor, ut si quando permittant tuae occupationes,
-                    non graveris rursum transcribere ad meum dominum
-                        <persName>abbatem</persName>,<note type="critic" xml:id="note.7">François
-                        d’Oudegherste.</note> nullam mei faciens mentionem, quod Dominationem Tuam
-                    sollicitaverim ad id negotii, utpote ab ipso expascens, ut me dignetur in
-                    beneficium coadiutoriae promovere, promittens etiam ad hoc apud illustrissimam
-                        <persName>reginam</persName> tuum studium et operam. Nam, Observande mi
-                    Domine, non ausim ipse haec meo domino ob oculos ponere, neque aliqua ex parte
-                    praesens significare. Quaeso, sis mihi in hac re fautor et patronus, in te uno
-                    tota spes mea est fixa, non deero, si res fluat mihi feliciter, ingratus erga
-                    tua in me benemerita, sed quid tanta contentione verborum haec a tam candido
-                    tamque prompto domino expostulo, perinde quasi diffisus videar tua humanitate.
-                    Bene vale, mi Observande Domine, cui me totum despondeo devoveoque. De impresso
-                    meo opusculo<note type="critic" xml:id="note.8"><hi rend="italic">De non timenda
-                            morte</hi> was printed in Leuven in 1533.</note> tuo nomini dedicando
-                    spero te propediem resciturum. </p>
-                <p xml:id="p.5">Ex monasterio divi Quinoci<note type="critic" xml:id="note.9"
-                        >Benedictine Abbey of St. Winnoc.</note> ipso Epiphaniae anno 1534.<note
-                        type="critic" xml:id="note.10">The author used the so-called Easter Style,
-                        meaning 1535, see <hi rend="smallcap">Tournoy</hi> 2019, 173. Note
-                        43.</note></p>
+                        Brixinensem</persName>,<note xml:id="note.3">George of Austria.</note> absit
+                    adulatio, quid aliud etiam in saevissima bruma vernat, floret et maturescit,
+                    quam uberrima omnium bonorum studiorum seges? Deum immortalem, quanta nuper apud
+                    vos relucebat eruditio, quanta facundiae adulatio, quam regiae immo plusquam
+                    regiae dotes, adeo ut ipse stupefactus nescierim me vel hominibus terrenis, vel
+                    dis immortalibus adiunctum, utinam Lapidano concederent aliquando superi in
+                    eiusmodi virorum coetu vivere, quibus praeter unicam virtutem ac eruditionem
+                    cetera in rebus humanis, quantumvis magnifica vilescunt, atque in nauseam
+                    vertuntur. Tuae tamen Dominationi, mi Patrone Unice, integrum est tuum Lapidanum
+                    subrigere in aedificium ecclesiasticum,<note xml:id="note.4">Van den Steene
+                        plays with his name and alluds Mt16, 18: “Et ego dico tibi, quia tu es
+                        Petrus, et super hanc petram ædificabo Ecclesiam meam”.</note> non quod
+                    ambiam in summo culmine collocari tumidus, ac expositus omnibus superbiae ventis
+                    ac tempestatibus, sed ut vel exigua saltem mihi oblata esset materia virtutis
+                    exercendae, quam nec mihi arrogo, nec omnino a me alienam affirmo. Tum apud nos
+                    bona studia, iam flaccida, aut potius emortua reviviscerent. Tum monasterium non
+                    lapidibus terreis, sed vivis construeretur, tum vera religio refloresceret, ac
+                        <quote xml:id="quote.1">tacentibus graculis cygni canerent.</quote><note
+                        type="quote" xml:id="note.quote.1">Proverb., see Erasm. <hi rend="italic"
+                            >Adag</hi>. 2297. III, III, 97. Tunc canent cygni, cum tacebunt
+                        graculi.</note></p>
+                <p xml:id="p.4">[2.] Scripsisti<note xml:id="note.5">We do not know this
+                        letter.</note> nuper mea causa, cuius rei gratia gratiam habeo immortalem,
+                    ut me promoveret <persName>dominus</persName><note xml:id="note.6">According to
+                        van den Steene’s dedication in his book <hi rend="italic">De non timenda
+                            morte</hi>, he was Franciscus Oudegherstius, i.e. François
+                        d’Oudegherste, the Abbot of the Abbey of St. Winnoc. See also <hi
+                            rend="smallcap">Verbeke</hi> 2005, 176.</note> meus <milestone unit="pb"
+                    />praelatus, sed is apertiorem requirit scripturam, ut qui ex litteris
+                    nequiverit intelligere, quorsum tenderet tuus sermo. Itaque etiam atque etiam
+                    rogo et obtestor, ut si quando permittant tuae occupationes, non graveris rursum
+                    transcribere ad meum dominum <persName>abbatem</persName>,<note xml:id="note.7"
+                        >François d’Oudegherste.</note> nullam mei faciens mentionem, quod
+                    Dominationem Tuam sollicitaverim ad id negotii, utpote ab ipso expascens, ut me
+                    dignetur in beneficium coadiutoriae promovere, promittens etiam ad hoc apud
+                    illustrissimam <persName>reginam</persName> tuum studium et operam. Nam,
+                    Observande mi Domine, non ausim ipse haec meo domino ob oculos ponere, neque
+                    aliqua ex parte praesens significare. Quaeso, sis mihi in hac re fautor et
+                    patronus, in te uno tota spes mea est fixa, non deero, si res fluat mihi
+                    feliciter, ingratus erga tua in me benemerita, sed quid tanta contentione
+                    verborum haec a tam candido tamque prompto domino expostulo, perinde quasi
+                    diffisus videar tua humanitate. Bene vale, mi Observande Domine, cui me totum
+                    despondeo devoveoque. De impresso meo opusculo<note xml:id="note.8"><hi
+                            rend="italic">De non timenda morte</hi> was printed in Leuven in
+                        1533.</note> tuo nomini dedicando spero te propediem resciturum. </p>
+                <p xml:id="p.5">Ex monasterio divi Quinoci<note xml:id="note.9">Benedictine Abbey of
+                        St. Winnoc.</note> ipso Epiphaniae anno 1534.<note xml:id="note.10">The
+                        author used the so-called Easter Style, meaning 1535, see <hi
+                            rend="smallcap">Tournoy</hi> 2019, 173. Note 43.</note></p>
             </div>
         </body>
     </text>

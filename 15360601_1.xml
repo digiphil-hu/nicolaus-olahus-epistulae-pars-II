@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,30 +239,30 @@
                 <pb/>
                 <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Optime et Eruditissime Olahe, mittimus tibi triginta
-                        exemplaria,<note type="critic" xml:id="note.1">Of his <hi rend="italic"
-                            >Declamatio de bello Turcis inferendo</hi>.</note> de numero nihil
-                    significaveras, quod si ista non sufficiunt, fac, ut sciamus. Vendibiles esse
-                    meos libellos plurimum gaudeo, sed ut vendibiles sint, nulli debeo, nisi tibi,
-                    cuius nominis titulum in fronte tanquam gemmam ostendunt. Deinde quia non nihil
-                    vel potius pleraque ex tuo ingenio orationi inserta sunt, res et maiestatem et
-                    ornamentum accepit, non aliter, quam <persName>Ulysses</persName> Palladis opera
-                    summam dignitatem corporis accepit, ut qui ante in litus: eiectus terrori esset
-                    comitibus <persName>Nausicae</persName>,<note type="critic" xml:id="note.2"
-                        >Nausicaa was Princess of Phaeacia, see Hom. <hi rend="italic">Od.</hi>
-                        VI.</note> postea universis Pheacensibus venerabilis videretur, versatur
-                    noster libellus in aula, inter heroum manus iactatur, sed, ut dixi, id totum
-                    tibi debetur. Quare in hac re velim, ut gratuleris, non mihi de meis, sed tibi
-                    de tuis rebus. <persName>Rutgerus Rescius</persName>,<note type="critic"
-                        xml:id="note.3">Rutger Ressen.</note> cum <del corresp="Olahus"
-                        >hac</del><add corresp="Olahus" type="corr">haec</add> scriberem, rusticatum
-                    abierat; misi tamen quendam ex meis, qui illum investigaret, sed puto illum non
-                    scripturum exclusum temporis angustia. Nos in his litteris amanuensis opera usi
-                    sumus, prohibiti capitis vertigine <choice>
+                        exemplaria,<note xml:id="note.1">Of his <hi rend="italic">Declamatio de
+                            bello Turcis inferendo</hi>.</note> de numero nihil significaveras, quod
+                    si ista non sufficiunt, fac, ut sciamus. Vendibiles esse meos libellos plurimum
+                    gaudeo, sed ut vendibiles sint, nulli debeo, nisi tibi, cuius nominis titulum in
+                    fronte tanquam gemmam ostendunt. Deinde quia non nihil vel potius pleraque ex
+                    tuo ingenio orationi inserta sunt, res et maiestatem et ornamentum accepit, non
+                    aliter, quam <persName>Ulysses</persName> Palladis opera summam dignitatem
+                    corporis accepit, ut qui ante in litus: eiectus terrori esset comitibus
+                        <persName>Nausicae</persName>,<note xml:id="note.2">Nausicaa was Princess of
+                        Phaeacia, see Hom. <hi rend="italic">Od.</hi> VI.</note> postea universis
+                    Pheacensibus venerabilis videretur, versatur noster libellus in aula, inter
+                    heroum manus iactatur, sed, ut dixi, id totum tibi debetur. Quare in hac re
+                    velim, ut gratuleris, non mihi de meis, sed tibi de tuis rebus.
+                        <persName>Rutgerus Rescius</persName>,<note xml:id="note.3">Rutger
+                        Ressen.</note> cum <del corresp="Olahus">hac</del><add corresp="Olahus"
+                        type="corr">haec</add> scriberem, rusticatum abierat; misi tamen quendam ex
+                    meis, qui illum investigaret, sed puto illum non scripturum exclusum temporis
+                    angustia. Nos in his litteris amanuensis opera usi sumus, prohibiti capitis
+                    vertigine <choice>
                         <orig>αὐτογραφείν</orig>
                         <supplied>αὐτογράφειν</supplied>
-                    </choice>.<note type="critic" xml:id="note.4">‘to write in your on hand.’</note>
-                    Tu, mi Carissime Domine, ita valebis, ut omnes docti optant, hoc est, et
-                    diutissime et felicissime. </p>
+                    </choice>.<note xml:id="note.4">‘to write in your on hand.’</note> Tu, mi
+                    Carissime Domine, ita valebis, ut omnes docti optant, hoc est, et diutissime et
+                    felicissime. </p>
                 <p xml:id="p.3">Ipsis Kalendis Iuniis.</p>
             </div>
         </body>

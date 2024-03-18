@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,42 +238,40 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Per balium <persName>reginae</persName> nostrae
-                        <persName>pincernam</persName>,<note type="critic" xml:id="note.1">Philippe
-                        de Souvastre.</note> quae in eam usque diem habebamus, per litteras meas
-                    tibi significavi, quae praeterea secuta sunt in praesentiarum,
-                        <persName>dux</persName><note type="critic" xml:id="note.2">Franceso II
+                        <persName>pincernam</persName>,<note xml:id="note.1">Philippe de
+                        Souvastre.</note> quae in eam usque diem habebamus, per litteras meas tibi
+                    significavi, quae praeterea secuta sunt in praesentiarum,
+                        <persName>dux</persName><note xml:id="note.2">Franceso II
                         Sforza.</note><persName>maiestatem</persName> reginae nostrae monet. Res
                     Vertenbergensis nos mire sollicitat, adde, quod Romanorum
-                        <persName>rex</persName><persName>Leynae</persName><note type="critic"
-                        xml:id="note.3">Antonio de Leyva.</note> imperatori exercitus totius Italici
-                    foederis scribit <persName>Gallum</persName><note type="critic" xml:id="note.4"
-                        >King Francis I.</note> manibus et pedibus conari, ut omnes illas copias,
-                    quas <persName>Lantgravius</persName><note type="critic" xml:id="note.5">Philipp
-                        I, Landgrave of Hesse.</note> et <persName>Uldericus</persName><note
-                        type="critic" xml:id="note.6">Ulrich, Duke of Württemberg
-                        (1487–1550).</note> contraxerunt, in Italiam descendant, ad oppugnandum
-                    Mediolanensem <milestone unit="pb"/>ducatum; quid casurum sit, adhuc ignoramus,
-                    satis constat eundem <persName>Gallum</persName> Helvetios magnis conditionibus
-                    propositis ad expeditionem hanc hortari; brevi intelligemus, si quid in nos
-                    gravius decernet. Apud Insubres tranquilla omnia, in agro Parmensi, qui nunc per
-                    summum <persName>pontificem</persName><note type="critic" xml:id="note.7">Pope
-                        Clement VII.</note> possidetur, <placeName>Pallavicini</placeName> et
-                        <placeName>Cagnini</placeName> contagio male habetur.
-                        <persName>Pontifex</persName> noster aequissimus Cagnini rebus studiose
-                    favet, si quid praeterea succedet, te monebo. <persName>Cornelius
+                        <persName>rex</persName><persName>Leynae</persName><note xml:id="note.3"
+                        >Antonio de Leyva.</note> imperatori exercitus totius Italici foederis
+                    scribit <persName>Gallum</persName><note xml:id="note.4">King Francis I.</note>
+                    manibus et pedibus conari, ut omnes illas copias, quas
+                        <persName>Lantgravius</persName><note xml:id="note.5">Philipp I, Landgrave
+                        of Hesse.</note> et <persName>Uldericus</persName><note xml:id="note.6"
+                        >Ulrich, Duke of Württemberg (1487–1550).</note> contraxerunt, in Italiam
+                    descendant, ad oppugnandum Mediolanensem <milestone unit="pb"/>ducatum; quid
+                    casurum sit, adhuc ignoramus, satis constat eundem <persName>Gallum</persName>
+                    Helvetios magnis conditionibus propositis ad expeditionem hanc hortari; brevi
+                    intelligemus, si quid in nos gravius decernet. Apud Insubres tranquilla omnia,
+                    in agro Parmensi, qui nunc per summum <persName>pontificem</persName><note
+                        xml:id="note.7">Pope Clement VII.</note> possidetur,
+                        <placeName>Pallavicini</placeName> et <placeName>Cagnini</placeName>
+                    contagio male habetur. <persName>Pontifex</persName> noster aequissimus Cagnini
+                    rebus studiose favet, si quid praeterea succedet, te monebo. <persName>Cornelius
                         Scepperus</persName> ex
                         <placeName>Epidauro</placeName><persName>ducem</persName> et
-                        <persName>Soatram</persName><note type="critic" xml:id="note.8">Philippe de
+                        <persName>Soatram</persName><note xml:id="note.8">Philippe de
                         Souvastre.</note> certiorem fecit, magnis se itineribus ad Turcam festinare,
                     melioraque operare. Haec <persName>Scepperus</persName>, cuius votis di
                     obsecundent. Globum meum resque meas omnes tibi summopere commendo.
                         <persName>Dux</persName> me ad <persName>regem</persName> Romanum<note
-                        type="critic" xml:id="note.9">I.e. Romanorum.</note> designavit, cum eo
-                    proficiscar, te admonebo. Interim serenissimae <persName>reginae</persName>
-                    dominae, dominae nostrae clementissimae pedes meo nomine deosculabis, cuius
-                    bonam valetudinem <persName>dux</persName> meus et nos omnes tantum desideramus,
-                    quantum debemus, isti enim omnia debemus. Vale, Olae Doctissime, et me, ut
-                    facis, ama. </p>
+                        xml:id="note.9">I.e. Romanorum.</note> designavit, cum eo proficiscar, te
+                    admonebo. Interim serenissimae <persName>reginae</persName> dominae, dominae
+                    nostrae clementissimae pedes meo nomine deosculabis, cuius bonam valetudinem
+                        <persName>dux</persName> meus et nos omnes tantum desideramus, quantum
+                    debemus, isti enim omnia debemus. Vale, Olae Doctissime, et me, ut facis, ama. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> XV. Iunii 1534.</p>
             </div>
         </body>

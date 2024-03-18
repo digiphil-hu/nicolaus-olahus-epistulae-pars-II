@@ -192,11 +192,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -221,77 +219,76 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad dominum cancellarium.<note type="critic" xml:id="note.1">On this
-                        letter, see <hi rend="smallcap">Laczlavik</hi> 2012, 192–193, and <hi
+                <p xml:id="p.1">Ad dominum cancellarium.<note xml:id="note.1">On this letter, see
+                            <hi rend="smallcap">Laczlavik</hi> 2012, 192–193, and <hi
                             rend="smallcap">Laczlavik</hi> 2013b, 25.</note></p>
                 <p xml:id="p.2">Reverendissime Domine etc.!</p>
                 <p xml:id="p.3">[1.] Inter cetera negotia, de quibus nuper per egregium
-                        <persName>Ioannem Feyerthoy</persName><note type="critic" xml:id="note.2"
-                        >János Fejérthóy.</note> Reverendissimae Dominationi Vestrae nuntiaveramus,
-                    illud fuerat non postremum, quo minorem praeposituram Agriensem petebamus apud
-                        <persName>Marcum Anthonium Bentivolum</persName><note type="critic"
-                        xml:id="note.3">Marcantonio Bentivoglio.</note> relinqui, cui a nobis regia
-                    authoritate annum ferme iam fuit collata, cum sane nondum episcopatus Agriensis
-                    palam esset in potestate et sub nomine Vestrae Reverendissimae Dominationis.
-                    Verum cum de reliquis negotiis idem Feyerthoy ad nos proxime rescriberet, hac de
-                    re nec quidem verbum fecit; interim autem allatum ad nos est <persName>Stephanum
-                        Dobo</persName><note type="critic" xml:id="note.4">István Dobó.</note>
-                    praeposituram ipsam et eius bona ac proventus occupasse. Quae res incredilibilem
-                    nobis molestiam attulit. Nam cum superiori anno coram hac re praepositura simul
-                    et altera praepositura, quae prius erat <persName>Marcantonii</persName>, sed
-                    per translationem illius ad hanc praeposituram minorem<note type="critic"
-                        xml:id="note.5">Here is going to the St. Peter provostry in Eger.</note>
-                    eodem tempore eademque regia authoritate, qua absente maiestate sua fungimur,
-                        <persName>Petro Paulino</persName><note type="critic" xml:id="note.6">Petrus
-                        Paulinus (†1561) was the Révay boys’ tutor in Padua between 1546 and 1551,
-                        when he was already Prebend of Esztergom. Then he was Oláh’s secretary from
-                        1551, Provost of Bratislava from 1555, and finally Bishop of Csanád
-                        (1559–1561) and Provost of Spiš (1560–1561), see <hi rend="smallcap"
-                            >Frankl</hi> 30; <hi rend="smallcap">Pirhalla</hi> 1899, 248–252; <hi
-                            rend="smallcap">Juhász</hi> 1935, 55–63.</note> fuerat a nobis collata,
-                    cum Reverendissima Dominatione Vestra transegerimus, neque quicquam amplius hoc
+                        <persName>Ioannem Feyerthoy</persName><note xml:id="note.2">János
+                        Fejérthóy.</note> Reverendissimae Dominationi Vestrae nuntiaveramus, illud
+                    fuerat non postremum, quo minorem praeposituram Agriensem petebamus apud
+                        <persName>Marcum Anthonium Bentivolum</persName><note xml:id="note.3"
+                        >Marcantonio Bentivoglio.</note> relinqui, cui a nobis regia authoritate
+                    annum ferme iam fuit collata, cum sane nondum episcopatus Agriensis palam esset
+                    in potestate et sub nomine Vestrae Reverendissimae Dominationis. Verum cum de
+                    reliquis negotiis idem Feyerthoy ad nos proxime rescriberet, hac de re nec
+                    quidem verbum fecit; interim autem allatum ad nos est <persName>Stephanum
+                        Dobo</persName><note xml:id="note.4">István Dobó.</note> praeposituram ipsam
+                    et eius bona ac proventus occupasse. Quae res incredilibilem nobis molestiam
+                    attulit. Nam cum superiori anno coram hac re praepositura simul et altera
+                    praepositura, quae prius erat <persName>Marcantonii</persName>, sed per
+                    translationem illius ad hanc praeposituram minorem<note xml:id="note.5">Here is
+                        going to the St. Peter provostry in Eger.</note> eodem tempore eademque
+                    regia authoritate, qua absente maiestate sua fungimur, <persName>Petro
+                        Paulino</persName><note xml:id="note.6">Petrus Paulinus (†1561) was the
+                        Révay boys’ tutor in Padua between 1546 and 1551, when he was already
+                        Prebend of Esztergom. Then he was Oláh’s secretary from 1551, Provost of
+                        Bratislava from 1555, and finally Bishop of Csanád (1559–1561) and Provost
+                        of Spiš (1560–1561), see <hi rend="smallcap">Frankl</hi> 30; <hi
+                            rend="smallcap">Pirhalla</hi> 1899, 248–252; <hi rend="smallcap"
+                            >Juhász</hi> 1935, 55–63.</note> fuerat a nobis collata, cum
+                    Reverendissima Dominatione Vestra transegerimus, neque quicquam amplius hoc
                     nomine curae accessurum persuasum haberemus, praesertim, quod eam nostram in se
                     voluntatem, eam plane observantiam Reverendissima Dominatio Vestra multis
                     argumentis quotidie perspiceret, ut longe maiora ab ea officia iure optimo
                     exspectari posse videremur, quam ut legitimae collationi nostrae, nobis id
                     obnixe petentibus, locum esse sineret in ecclesia sua. Frustratos nos ista esse
                     spe nostra non potest non esse molestissimum. Ac tametsi proxime per
-                        <persName>Iohannem litteratum</persName><note type="critic" xml:id="note.7"
-                        >Probably János Fejérthóy.</note> eadem de re copiose satis Reverendissimae
-                    Dominationi Vestrae nuntiaverimus, neque in animum nostrum possumus inducere,
-                    usque adeo parum illi acceptam esse singularem nostram voluntatem, ut omnino
-                    palamque sese nostrae velit authoritati opponere <del corresp="author">ut
-                        praeposituram hanc minorem Marci Anthonii</del>. Petimus tamen ob eadem
-                    rursum vehementer, ut praeposituram hanc minorem <persName>Marci
-                        Anthonii</persName> esse sinat, cui a nobis legitime collata est, quique et
-                    sacerdos et ea doctrina, eis moribus est praeditus, ut facile in consortium
-                    coetumque aliorum in ecclesia Reverendissimae Dominationi Vestrae ibidem, et
-                    ubicumque necessitas postularit, non minus, quam alter quisquam potest
-                    invenire.</p>
+                        <persName>Iohannem litteratum</persName><note xml:id="note.7">Probably János
+                        Fejérthóy.</note> eadem de re copiose satis Reverendissimae Dominationi
+                    Vestrae nuntiaverimus, neque in animum nostrum possumus inducere, usque adeo
+                    parum illi acceptam esse singularem nostram voluntatem, ut omnino palamque sese
+                    nostrae velit authoritati opponere <del corresp="author">ut praeposituram hanc
+                        minorem Marci Anthonii</del>. Petimus tamen ob eadem rursum vehementer, ut
+                    praeposituram hanc minorem <persName>Marci Anthonii</persName> esse sinat, cui a
+                    nobis legitime collata est, quique et sacerdos et ea doctrina, eis moribus est
+                    praeditus, ut facile in consortium coetumque aliorum in ecclesia Reverendissimae
+                    Dominationi Vestrae ibidem, et ubicumque necessitas postularit, non minus, quam
+                    alter quisquam potest invenire.</p>
                 <p xml:id="p.4">[2.] Neque vero est, quod Reverendissima Dominatio Vestra impetratam
-                    nobis, vel <persName>nepoti nostro</persName><note type="critic" xml:id="note.8"
-                        >Tamás Várday.</note> praeposituram de Thurocz obiiciat, quamvis enim
-                    officium illud Reverendissimae Dominationis Vestrae in nos collatum nobis gratum
-                    fuit, uti omnia esse solent, quae in nos ab ea proficiscuntur, recordari tamen
-                    eadem potest, praeposituram illam a domino <persName>Reway</persName><note
-                        type="critic" xml:id="note.9">Ferenc Révay.</note> 4 millibus Florenorum
-                    fuisse redemptam, ex quibus quingentos tantummodo maiestas regia contribuit,
-                    reliquos nos partim iam solvimus, partim solvendos promisimus provisori nostro,
-                    qui interim, dum suam pecuniam recipiat, quam numeravit, quo millia videlicet et
-                    quingentos Florenos, praeposituram ipsam cum pertinentiis possidet, neque nos
-                    aliud quicquam habemus ex ea, quam quod ad cultum divinum in ecclesia simul et
-                    templum claustrumque instaurandum non mediocres hactenus sumptus fecimus
-                    facimusque quotidie, uti antea Reverendissima Dominatio Vestra potuit
-                    intelligere. Alendo autem <persName>nepoti nostro</persName> in gymnasio quantas
-                    impensas faciamus triennium iam, Reverendissima Dominatio Vestra id quoque
-                    potest facile existimare. Ac proinde velit eadem omnibus his de causis id, quod
-                    superiori anno nobis obtulerat, collationi nostrae praedictae consentire pro
-                    certoque habere, si Reverendissima Dominatio Vestra vel sibi, vel alicui ex suis
-                    in ecclesia nostra pingue aliquod et magnorum reddituum sacerdotium cuperet,
-                    libenter collaturos fore et absentem tolleraturos, quando omni genere officii
-                    probare illi nostram voluntatem nobiscum iam pridem constituimus. Vicissimi ut
-                    ipsa benivole et fraterne omnibus in rebus aget nobiscum, ab eadem etiam atque
-                    etiam petimus vehementer. Valere etc.</p>
+                    nobis, vel <persName>nepoti nostro</persName><note xml:id="note.8">Tamás
+                        Várday.</note> praeposituram de Thurocz obiiciat, quamvis enim officium
+                    illud Reverendissimae Dominationis Vestrae in nos collatum nobis gratum fuit,
+                    uti omnia esse solent, quae in nos ab ea proficiscuntur, recordari tamen eadem
+                    potest, praeposituram illam a domino <persName>Reway</persName><note
+                        xml:id="note.9">Ferenc Révay.</note> 4 millibus Florenorum fuisse redemptam,
+                    ex quibus quingentos tantummodo maiestas regia contribuit, reliquos nos partim
+                    iam solvimus, partim solvendos promisimus provisori nostro, qui interim, dum
+                    suam pecuniam recipiat, quam numeravit, quo millia videlicet et quingentos
+                    Florenos, praeposituram ipsam cum pertinentiis possidet, neque nos aliud
+                    quicquam habemus ex ea, quam quod ad cultum divinum in ecclesia simul et templum
+                    claustrumque instaurandum non mediocres hactenus sumptus fecimus facimusque
+                    quotidie, uti antea Reverendissima Dominatio Vestra potuit intelligere. Alendo
+                    autem <persName>nepoti nostro</persName> in gymnasio quantas impensas faciamus
+                    triennium iam, Reverendissima Dominatio Vestra id quoque potest facile
+                    existimare. Ac proinde velit eadem omnibus his de causis id, quod superiori anno
+                    nobis obtulerat, collationi nostrae praedictae consentire pro certoque habere,
+                    si Reverendissima Dominatio Vestra vel sibi, vel alicui ex suis in ecclesia
+                    nostra pingue aliquod et magnorum reddituum sacerdotium cuperet, libenter
+                    collaturos fore et absentem tolleraturos, quando omni genere officii probare
+                    illi nostram voluntatem nobiscum iam pridem constituimus. Vicissimi ut ipsa
+                    benivole et fraterne omnibus in rebus aget nobiscum, ab eadem etiam atque etiam
+                    petimus vehementer. Valere etc.</p>
                 <p xml:id="p.5"><placeName>Posonii</placeName> die 3. Septembris 1549.</p>
                 <p xml:id="p.6">
                     <seg type="signature">Strigoniensis etc.</seg>

@@ -218,11 +218,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,15 +246,15 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Sceperum responsio.</p>
-                <p xml:id="p.2">[1.] Litterae tuae, quae datae<note type="critic" xml:id="note.1"
-                        >See Ep. 442.<ref>olahus.tei.15340117_1</ref></note> erant
+                <p xml:id="p.2">[1.] Litterae tuae, quae datae<note xml:id="note.1">See Ep.
+                            442.<ref>olahus.tei.15340117_1</ref></note> erant
                         <placeName>Dolae</placeName> XVII. Ianuarii, redditae mihi sunt hodie a
-                        <persName>Haller</persName>.<note type="critic" xml:id="note.2">Wolfgang
-                        Haller von Hallerstein.</note> Te incolumem esse laetor plurimum. Si
-                        <milestone unit="pb"/>quae mittenda erunt in <persName>reginae</persName>
-                    rebus et meis, ultra ea, quae proxime missa sunt (nam praeveneram tuum reditum,
-                    suspicans id, quod factum est te per <placeName>Burgundiam</placeName> iter
-                    fecisse), mittentur. Consternatus sum, ita <del corresp="Olahus">etiam</del><add
+                        <persName>Haller</persName>.<note xml:id="note.2">Wolfgang Haller von
+                        Hallerstein.</note> Te incolumem esse laetor plurimum. Si <milestone
+                        unit="pb"/>quae mittenda erunt in <persName>reginae</persName> rebus et
+                    meis, ultra ea, quae proxime missa sunt (nam praeveneram tuum reditum, suspicans
+                    id, quod factum est te per <placeName>Burgundiam</placeName> iter fecisse),
+                    mittentur. Consternatus sum, ita <del corresp="Olahus">etiam</del><add
                         corresp="Olahus" type="corr">vivam</add>, mi Frater, visis tuis scriptis, de
                     illis <choice>
                         <orig>blumbeis</orig>
@@ -270,16 +268,16 @@
                     virtus et labores tui meruerunt, ornareris. </p>
                 <p xml:id="p.3">[2.] Cum <persName>regina</persName> plura adhuc de tuo hoc officio
                     loquar. Nunc veredarium hunc cito abeuntem sine meis litteris abire ad te nolui.
-                    Domino <persName>Lundensi</persName><note type="critic" xml:id="note.3">Johan
-                        Weze.</note> dic me suum negotium, ut potuerim, confecisse. Quomodo autem
-                    brevi scribam. Mea negotia unice tibi et ei commendo. Si me spirare volueritis,
-                    ea conficite, et, ut res istic agatur, significate. De tuis rebus nihil a me,
-                    nec a <persName>Haller</persName> praetermittetur. <persName>Regina</persName>
-                    cum maximo meo dolore nunc peius, nunc meliuscule se habet. Ad Maium speramus
-                    eam convalituram. De medico Lothoringo<note type="critic" xml:id="note.4">We do
-                        not know him more closely.</note> res non <del corresp="Olahus"
-                        >proceditur</del><add corresp="Olahus" type="corr">procedit</add>, si
-                    videtur meo nomine hunc <persName>reginae</persName> statum referre poteris
+                    Domino <persName>Lundensi</persName><note xml:id="note.3">Johan Weze.</note> dic
+                    me suum negotium, ut potuerim, confecisse. Quomodo autem brevi scribam. Mea
+                    negotia unice tibi et ei commendo. Si me spirare volueritis, ea conficite, et,
+                    ut res istic agatur, significate. De tuis rebus nihil a me, nec a
+                        <persName>Haller</persName> praetermittetur. <persName>Regina</persName> cum
+                    maximo meo dolore nunc peius, nunc meliuscule se habet. Ad Maium speramus eam
+                    convalituram. De medico Lothoringo<note xml:id="note.4">We do not know him more
+                        closely.</note> res non <del corresp="Olahus">proceditur</del><add
+                        corresp="Olahus" type="corr">procedit</add>, si videtur meo nomine hunc
+                        <persName>reginae</persName> statum referre poteris
                         <persName>regi</persName>, in cuius gratiam mea servitia commenda. Vale. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> prima Februarii 1534. </p>
             </div>

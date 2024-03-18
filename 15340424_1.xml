@@ -218,11 +218,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -249,35 +247,35 @@
                 <pb/>
                 <p xml:id="p.1">Nicolao Olai ad Cornelium Sceperum. </p>
                 <p xml:id="p.2">[1.] Ex litteris tuis ultima Februarii
-                        <placeName>Lubianae</placeName> datis<note type="critic" xml:id="note.1">Ep.
+                        <placeName>Lubianae</placeName> datis<note xml:id="note.1">Ep.
                             460.<ref>olahus.tei.15340228_1</ref></note> intellexi te sanum esse, et
                     istic haesisse aliquantisper ob aquarum inundationem. Scito tuos quoque omnes
-                    hic sanos esse, praeter <persName>decanum</persName>,<note type="critic"
-                        xml:id="note.2">Mark Lauwerijns.</note> qui nuper veteris sui <del
-                        corresp="Olahus">more</del><add corresp="Olahus" type="corr">morbi</add>,
-                    tibi, ut arbitror, non <add corresp="Olahus" type="insert">ignoti</add>, curandi
-                    gratia <del corresp="Olahus">huc</del><add corresp="Olahus" type="corr"
-                        >hinc</add> diverterat <placeName>Antverpiam</placeName>, ubi adhuc est in
-                    manibus chirurgi. Ex catapotiis inciderat in dysenteriam. Iam valet melius.
-                    Credo eum convaliturum. </p>
-                <p xml:id="p.3">[2.] <persName>Ibrahimi</persName><note type="critic"
-                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> eventus mihi non satis
-                    placuit, vellem infra finem rerum salvus fuisset. Nam si res in manus alterius
-                    devenerit, nescio, an faciliter sit progressus. Nemo est omnium, quem mora
-                        <persName>Gryti</persName><note type="critic" xml:id="note.4">Lodovico
-                        Gritti.</note> non commoverit, verentur omnes, ne fraus lateat in rebus.
-                    Quae voluisti referri, <persName>reginae</persName> retuli, tibi in meis rebus
-                    diligentem curam habituro ago gratias non minimas. Fac deinceps quoque, ut
-                    eandem, quam coepisti et in qua nihil dubito habeas sollicitudinem, ut me hinc,
-                    si dis placet, reducas. Tu perfectis istic ex sententia rebus omnibus redi
-                    feliciter. Iam consiliaritus tuus confectus est, subscripserunt financiarii
-                    omnes. Litteras per <persName>decanum</persName><placeName>Brugas</placeName> ad
-                        <persName>uxorem</persName><note type="critic" xml:id="note.5">Anna Isabella
-                        (Elizabeth) Donche.</note> nuper misimus. Nisi homines plumbei et plusquam
-                    caudices essent, nulla melior occasio data fuisset aliquid praeclare agendi,
-                    quam nunc, dum vires omnes ab Europa excesserunt. Scis, quid velim. Mitto ad te
-                    litteras <persName>coniugis</persName> tuae cum aliorum literis, vale, mei et
-                    mearum <milestone unit="pb"/>rerum non immemor. Iterum vale. </p>
+                    hic sanos esse, praeter <persName>decanum</persName>,<note xml:id="note.2">Mark
+                        Lauwerijns.</note> qui nuper veteris sui <del corresp="Olahus"
+                        >more</del><add corresp="Olahus" type="corr">morbi</add>, tibi, ut arbitror,
+                    non <add corresp="Olahus" type="insert">ignoti</add>, curandi gratia <del
+                        corresp="Olahus">huc</del><add corresp="Olahus" type="corr">hinc</add>
+                    diverterat <placeName>Antverpiam</placeName>, ubi adhuc est in manibus chirurgi.
+                    Ex catapotiis inciderat in dysenteriam. Iam valet melius. Credo eum
+                    convaliturum. </p>
+                <p xml:id="p.3">[2.] <persName>Ibrahimi</persName><note xml:id="note.3">Ibrahim
+                        Pargalı Pasha.</note> eventus mihi non satis placuit, vellem infra finem
+                    rerum salvus fuisset. Nam si res in manus alterius devenerit, nescio, an
+                    faciliter sit progressus. Nemo est omnium, quem mora
+                        <persName>Gryti</persName><note xml:id="note.4">Lodovico Gritti.</note> non
+                    commoverit, verentur omnes, ne fraus lateat in rebus. Quae voluisti referri,
+                        <persName>reginae</persName> retuli, tibi in meis rebus diligentem curam
+                    habituro ago gratias non minimas. Fac deinceps quoque, ut eandem, quam coepisti
+                    et in qua nihil dubito habeas sollicitudinem, ut me hinc, si dis placet,
+                    reducas. Tu perfectis istic ex sententia rebus omnibus redi feliciter. Iam
+                    consiliaritus tuus confectus est, subscripserunt financiarii omnes. Litteras per
+                        <persName>decanum</persName><placeName>Brugas</placeName> ad
+                        <persName>uxorem</persName><note xml:id="note.5">Anna Isabella (Elizabeth)
+                        Donche.</note> nuper misimus. Nisi homines plumbei et plusquam caudices
+                    essent, nulla melior occasio data fuisset aliquid praeclare agendi, quam nunc,
+                    dum vires omnes ab Europa excesserunt. Scis, quid velim. Mitto ad te litteras
+                        <persName>coniugis</persName> tuae cum aliorum literis, vale, mei et mearum
+                        <milestone unit="pb"/>rerum non immemor. Iterum vale. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 24. Aprilis 1534.</p>
             </div>
         </body>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -255,84 +253,83 @@
                     mandatum Sacratissimae Maiestatis Vestrae suae serenitati omnia communico. Quae
                     etiam sua serenitas etsi Sacratissimae Maiestati Vestrae perscribat, tamen ego
                     quoque volui eidem significare. Ex tribus his copiis litterarum<note
-                        type="critic" xml:id="note.1">See Ep. 814., Ep. 816., and Ep.
+                        xml:id="note.1">See Ep. 814., Ep. 816., and Ep.
                             817.<ref>olahus.tei.15520529_1</ref></note><ref>/o:olahus.tei.15520607_1</ref><ref>/o:olahus.tei.15520612_1</ref><persName>Stephani
-                        Dobo</persName><note type="critic" xml:id="note.2">István Dobó.</note><choice>
+                        Dobo</persName><note xml:id="note.2">István Dobó.</note><choice>
                         <orig>praesentib<gap extent="unknown" reason="damage" unit="word"/>s</orig>
                         <supplied>praesentib<corr>u</corr>s</supplied>
                     </choice> annexis Sacratissima Maiestas Vestra intelligere dignabitur, quid de
-                        <persName>bassae Budensis</persName><note type="critic" xml:id="note.3"
-                        >Hadim Ali Pasha.</note> sinistris conatibus <choice>
+                        <persName>bassae Budensis</persName><note xml:id="note.3">Hadim Ali
+                        Pasha.</note> sinistris conatibus <choice>
                         <orig>scrib<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>scrib<corr>it</corr></supplied>
                     </choice>. Ad priores binas ipsius, tametsi antea quoque non intermisimus, quae
                     pro hoc tempore et scribi et ordinari potuerunt. Tamen hodie, cum postremas<note
-                        type="critic" xml:id="note.4">See Ep.
-                        817.<ref>olahus.tei.15520612_1</ref></note> eius accepissem, serenissimus
-                        <persName>rex Boemiae</persName> me proponente et sollicitante hoc negotium
-                    scribi iussit et ad <persName>Erasmum Theyffel</persName><note type="critic"
-                        xml:id="note.5">Erasmus Teufel.</note> et ad alios, qui
-                        <placeName>Agriae</placeName><note type="critic" xml:id="note.6"
-                        >Eger.</note> sunt extra arcem, (nam hi dicuntur palam dicere, quod etiam si
-                    obsidatur arx, nollent ad eam ingredi, nam non ad arcem, sed ad campum essent
-                    conducti), ut si opus fuerit, ingrediantur arcem. Similiter scribitur ad dominos
-                    et comitatus illarum partium, ut ipsi quoque solutos aliquos pedites in
-                    praesidium arcis mittant, et praeterea secundum ordinationem et conclusionem
-                    dietae Posoniensis parati sint et ipsi et personaliter et cum gentibus suis. </p>
+                        xml:id="note.4">See Ep. 817.<ref>olahus.tei.15520612_1</ref></note> eius
+                    accepissem, serenissimus <persName>rex Boemiae</persName> me proponente et
+                    sollicitante hoc negotium scribi iussit et ad <persName>Erasmum
+                        Theyffel</persName><note xml:id="note.5">Erasmus Teufel.</note> et ad alios,
+                    qui <placeName>Agriae</placeName><note xml:id="note.6">Eger.</note> sunt extra
+                    arcem, (nam hi dicuntur palam dicere, quod etiam si obsidatur arx, nollent ad
+                    eam ingredi, nam non ad arcem, sed ad campum essent conducti), ut si opus
+                    fuerit, ingrediantur arcem. Similiter scribitur ad dominos et comitatus illarum
+                    partium, ut ipsi quoque solutos aliquos pedites in praesidium arcis mittant, et
+                    praeterea secundum ordinationem et conclusionem dietae Posoniensis parati sint
+                    et ipsi et personaliter et cum gentibus suis. </p>
                 <p xml:id="p.3">[2.] Haec, Domine Clementissime, ita facta sunt hodie, sed deest
                     loco <persName>Andreae Bathori</persName> nunc in Transsilvania occupati in
                     partibus illis superioribus, <milestone unit="pb"/>qui levet gentes tempore
                     necessitatis. De qua re nuper me ad Sacratissimam Maiestatem Vestram scripsisse
-                        memini.<note type="critic" xml:id="note.7">We do not know this
-                        letter.</note><persName>Bebeck</persName><note type="critic" xml:id="note.8"
-                        >György Bebek.</note> autem quid hactenus fecerit, eadem cognovit. Hoc etiam
-                    me anxit, quod ex illis bombardis omnibus, quas Sacratissima Maiestas Vestra
+                        memini.<note xml:id="note.7">We do not know this
+                        letter.</note><persName>Bebeck</persName><note xml:id="note.8">György
+                        Bebek.</note> autem quid hactenus fecerit, eadem cognovit. Hoc etiam me
+                    anxit, quod ex illis bombardis omnibus, quas Sacratissima Maiestas Vestra
                     aestate superiore vel potius tertia <placeName>Agriam</placeName> miserat, non
-                    plures quam quatuor falconetas<note type="critic" xml:id="note.9"><hi
-                            rend="italic">falconeta</hi>, i.e. ‘smaller cannon’, see <hi
-                            rend="smallcap">DuCange</hi> 1883.</note> et quintam maiorem paulo
+                    plures quam quatuor falconetas<note xml:id="note.9"><hi rend="italic"
+                            >falconeta</hi>, i.e. ‘smaller cannon’, see <hi rend="smallcap"
+                            >DuCange</hi> 1883.</note> et quintam maiorem paulo
                         <placeName>Agriae</placeName>, sicuti his proximis diebus
-                        <persName>Stephanus Mekczey</persName><note type="critic" xml:id="note.10"
-                        >István Mekcsey.</note> mihi retulit, reliquerunt. Alias partim in
-                    Transsilvaniam, partim ad <placeName>Zolnok</placeName><note type="critic"
-                        xml:id="note.11">Szolnok.</note> et nescio ad quae alia loca iampridem
-                    illinc abduxerunt. Ego quoque commisi <persName>Stephano Dobo</persName>, ut
-                    ultra illos equites et pedites ordinarios, quos ex proventibus partim
-                    episcopatus, partim ex superadditione Sacratissimae Maiestatis Vestrae istic
-                    habet, centum pedites ex meis propriis pecuniis conducat.</p>
+                        <persName>Stephanus Mekczey</persName><note xml:id="note.10">István
+                        Mekcsey.</note> mihi retulit, reliquerunt. Alias partim in Transsilvaniam,
+                    partim ad <placeName>Zolnok</placeName><note xml:id="note.11">Szolnok.</note> et
+                    nescio ad quae alia loca iampridem illinc abduxerunt. Ego quoque commisi
+                        <persName>Stephano Dobo</persName>, ut ultra illos equites et pedites
+                    ordinarios, quos ex proventibus partim episcopatus, partim ex superadditione
+                    Sacratissimae Maiestatis Vestrae istic habet, centum pedites ex meis propriis
+                    pecuniis conducat.</p>
                 <p xml:id="p.4">[3.] Dominus <persName>Andreas Bathori</persName> ex Bathor, quas ad
-                    me manu sua scripserat litteras Hungarice<note type="critic" xml:id="note.12"
-                        >Ep. 813. We only know this letter in Oláh’s
-                            translation.<ref>olahus.tei.15520528_1</ref></note> ante profectionem
-                    suam in Transsilvaniam, eas serenissimo <persName>regi Boemiae</persName>,
-                    domino meo clementissimo perlegeram nuper et e lingua Hungarica in Latinam
-                    versas dederam. Arbitratus eas suam serenitatem Sacratissimae Maiestati Vestrae
-                    misisse, sed quia id ob plurimas occupationes, ut semper fieri solet, oblivioni
-                    datum esse intelligo, misi nunc Maiestati Vestrae, ut intelligere eius querelas
-                    dignetur. Et licet <del corresp="Olahus">post</del><add corresp="Olahus"
-                        type="corr">tempore</add> ingressus quoque <del corresp="Olahus"
-                        >suum</del><add corresp="Olahus" type="corr">sui</add> in Transsilvaniam
-                    litteras suas huc dederit, non tamen ab simili utitur etiam postea querela.</p>
-                <p xml:id="p.5">[4.] Praeterea, Sacratissime Rex, hodie litteras<note type="critic"
+                    me manu sua scripserat litteras Hungarice<note xml:id="note.12">Ep. 813. We only
+                        know this letter in Oláh’s
+                        translation.<ref>olahus.tei.15520528_1</ref></note> ante profectionem suam
+                    in Transsilvaniam, eas serenissimo <persName>regi Boemiae</persName>, domino meo
+                    clementissimo perlegeram nuper et e lingua Hungarica in Latinam versas dederam.
+                    Arbitratus eas suam serenitatem Sacratissimae Maiestati Vestrae misisse, sed
+                    quia id ob plurimas occupationes, ut semper fieri solet, oblivioni datum esse
+                    intelligo, misi nunc Maiestati Vestrae, ut intelligere eius querelas dignetur.
+                    Et licet <del corresp="Olahus">post</del><add corresp="Olahus" type="corr"
+                        >tempore</add> ingressus quoque <del corresp="Olahus">suum</del><add
+                        corresp="Olahus" type="corr">sui</add> in Transsilvaniam litteras suas huc
+                    dederit, non tamen ab simili utitur etiam postea querela.</p>
+                <p xml:id="p.5">[4.] Praeterea, Sacratissime Rex, hodie litteras<note
                         xml:id="note.13">Ep. 818.<ref>olahus.tei.15520615_1</ref></note> etiam
-                    dominorum <persName>locumtenentis</persName><note type="critic" xml:id="note.14"
-                        >Ferenc Révay.</note> et <persName>consiliariorum</persName>, qui
+                    dominorum <persName>locumtenentis</persName><note xml:id="note.14">Ferenc
+                        Révay.</note> et <persName>consiliariorum</persName>, qui
                         <placeName>Posonii</placeName> sunt, accepi communi nomine subscriptas.
                     Sigillum tamen aliorum non agnovi, quam <persName>Iauriensis</persName><note
-                        type="critic" xml:id="note.15">Ferenc Újlaki.</note> et
-                        <persName>Zagrabiensis</persName>.<note type="critic" xml:id="note.16">Pál
+                        xml:id="note.15">Ferenc Újlaki.</note> et
+                        <persName>Zagrabiensis</persName>.<note xml:id="note.16">Pál
                         Gregorjánczy.</note> Praeter enim hos duos alios consiliarios ordinarios
                         <milestone unit="pb"/>nunc <placeName>Posonii</placeName> neminem esse
-                    audio. <persName>Merey</persName><note type="critic" xml:id="note.17">Mihály
-                        Mérey.</note> est in castello suo <placeName>Eberhard</placeName> prorogatis
-                    iampridem iudiciis. Nos eos huc vocamus, ipsi vero nos eo vocant. Et quia
-                    rogaverunt me, ut apud Sacratissimam Vestram Maiestatem secundum eorum opinionem
-                    supplicarem, non putavi esse alienum, si litteras eorum proprias in specie ad
-                    Sacratissimam Maiestatem Vestram mitterem. Quae gratiose providere dignabitur,
-                    quid ulterius sit faciendum. Deus optimus maximus Sacratissimam Maiestatem
-                    Vestram diutissime felicem et incolumem conservare et cito cum omnium rerum
-                    prospero tractatu ac fine ad nos reducere dignetur. In cuius gratiam me et
-                    fidelia servitia mea iterum atque iterum unice commendo.</p>
+                    audio. <persName>Merey</persName><note xml:id="note.17">Mihály Mérey.</note> est
+                    in castello suo <placeName>Eberhard</placeName> prorogatis iampridem iudiciis.
+                    Nos eos huc vocamus, ipsi vero nos eo vocant. Et quia rogaverunt me, ut apud
+                    Sacratissimam Vestram Maiestatem secundum eorum opinionem supplicarem, non
+                    putavi esse alienum, si litteras eorum proprias in specie ad Sacratissimam
+                    Maiestatem Vestram mitterem. Quae gratiose providere dignabitur, quid ulterius
+                    sit faciendum. Deus optimus maximus Sacratissimam Maiestatem Vestram diutissime
+                    felicem et incolumem conservare et cito cum omnium rerum prospero tractatu ac
+                    fine ad nos reducere dignetur. In cuius gratiam me et fidelia servitia mea
+                    iterum atque iterum unice commendo.</p>
                 <p xml:id="p.6">Ex <placeName>Wienna</placeName> 17. Iunii anno 1552.</p>
                 <p xml:id="p.7">Eiusdem Sacratissimae Maiestatis Vestrae fidelis et humilis servitor
                     et capellanus</p>

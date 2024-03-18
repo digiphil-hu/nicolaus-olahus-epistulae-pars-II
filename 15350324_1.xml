@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Christiern Winther [?]</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -232,19 +230,18 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Christiernus Umbra Cymber<note type="critic" xml:id="note.1"
-                        >Probably Christiern Winther, see <hi rend="smallcap">Tournoy</hi> 2015,
-                        527; and <hi rend="smallcap">Christiansen</hi> 2002, 82.</note> Nicolao Olao
-                    suo salutem.</p>
+                <p xml:id="p.1">Christiernus Umbra Cymber<note xml:id="note.1">Probably Christiern
+                        Winther, see <hi rend="smallcap">Tournoy</hi> 2015, 527; and <hi
+                            rend="smallcap">Christiansen</hi> 2002, 82.</note> Nicolao Olao suo
+                    salutem.</p>
                 <p xml:id="p.2">Quamquam praeclari ingenii tui dexteritas mira quadam morum
                     maturitate unita, tum aetas, quae et ipsa iam quoque maturuit, palam arguunt et
                     perspicue, te viri consummati, ita circulum absolvisse, ut nulla aut vix ulla
                     iam amplius quaeat fieri accessio, nihilominus adeo otium non amplecteris, quin
                     honestissimis studiis intentus, contendas quotidie te ipsum, si fieri possit,
-                    superare, tanquam <persName>Neoptolemus</persName><note type="critic"
-                        xml:id="note.2">He was Achilles’ son.</note> quispiam Martis et militiae
-                    ignarus, arma manibus diurnis nocturnisque vigilans versare solet, ne rudis in
-                    harena cum hoste <choice>
+                    superare, tanquam <persName>Neoptolemus</persName><note xml:id="note.2">He was
+                        Achilles’ son.</note> quispiam Martis et militiae ignarus, arma manibus
+                    diurnis nocturnisque vigilans versare solet, ne rudis in harena cum hoste <choice>
                         <orig>congredietur</orig>
                         <supplied>congrediatur</supplied>
                     </choice> turpiter succubiturus. Quae res vel hoc argumento abunde claret, Vir
@@ -256,10 +253,10 @@
                         <quote xml:id="quote.1">talpae appareat.</quote><note type="quote"
                         xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag</hi>. 255. I, III,
                         55. Talpa caecior; and 3571. IV, VI, 71. Loquax talpa.</note> In primis
-                        <persName>Cornelii Sceperi</persName>,<note type="critic" xml:id="note.3"
-                        >Cornelis de Schepper.</note> viri et singularis prudentiae et doctrinae
-                    undevis exquisitissimae, qui haud dubie divino ingenio donatus, tum facundiae
-                    flumine <milestone unit="pb"/>iuxta praeditus, omnium de se opinione aut est
+                        <persName>Cornelii Sceperi</persName>,<note xml:id="note.3">Cornelis de
+                        Schepper.</note> viri et singularis prudentiae et doctrinae undevis
+                    exquisitissimae, qui haud dubie divino ingenio donatus, tum facundiae flumine
+                        <milestone unit="pb"/>iuxta praeditus, omnium de se opinione aut est
                     superior, aut genius parum propitius, nobis tenebras ob oculos offuderit, unde
                     indicitum caliginem contraxerit. Ad hoc mare felicitatis, tamquam quaedam
                     auctaria, adfluunt felicissimae dotes, quas in ista generosa <choice>
@@ -289,19 +286,18 @@
                 </quote>
                 <note type="quote" xml:id="note.quote.3">It is probably a poem by Winther, but it
                     has not been confirmed.</note>
-                <p xml:id="p.3">Vale, Nicolae Generosissime, nec credas Colacem<note type="critic"
-                        xml:id="note.4">Colax was the title of pieces written by Ennius and Plautus.
-                        The name means ‘flatterer’.</note> quempiam adulari, ut ventri prospectum
-                    sit. Nam <choice>
+                <p xml:id="p.3">Vale, Nicolae Generosissime, nec credas Colacem<note xml:id="note.4"
+                        >Colax was the title of pieces written by Ennius and Plautus. The name means
+                        ‘flatterer’.</note> quempiam adulari, ut ventri prospectum sit. Nam <choice>
                         <orig>ταῦτην τῆν</orig>
                         <supplied>ταύτην τὴν</supplied>
-                    </choice> γραφὴν σου<note type="critic" xml:id="note.5">‘this writing of
-                        yours’.</note> a viris multo emunctissimae naris accepi. Dominum
-                        <persName>Cornelium Sceperum</persName>, quo cum per otium etiam litteris
-                    nugabor, ex me saluta et nostra nugamenta boni consule. Iterum vale. </p>
+                    </choice> γραφὴν σου<note xml:id="note.5">‘this writing of yours’.</note> a
+                    viris multo emunctissimae naris accepi. Dominum <persName>Cornelium
+                        Sceperum</persName>, quo cum per otium etiam litteris nugabor, ex me saluta
+                    et nostra nugamenta boni consule. Iterum vale. </p>
                 <p xml:id="p.4"><placeName>Lovanii</placeName> ex aedibus <persName>Rutgeri
-                        Rescii</persName><note type="critic" xml:id="note.6">Rutger Ressen.</note>
-                    XXIIII. Martii anno MDXXXV.</p>
+                        Rescii</persName><note xml:id="note.6">Rutger Ressen.</note> XXIIII. Martii
+                    anno MDXXXV.</p>
             </div>
         </body>
     </text>

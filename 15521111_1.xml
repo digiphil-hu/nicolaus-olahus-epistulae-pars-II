@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,38 +235,37 @@
                 <p xml:id="p.2">Rogatos nos habuit per suas litteras Spectabilis et Magnifica
                     Dominatio Vestra, ut litteras donationales sacrae <persName>maiestatis
                         regiae</persName>, domini nostri clementissimi super nonnullis bonis
-                    magnifico domino <persName>Kynspergh</persName><note type="critic"
-                        xml:id="note.1">Probably Honorius Königsberg. He was Royal Commissioner in
-                        1555 with András (Bonaventura) Báthori in Košice, see <hi rend="smallcap">H.
-                            Németh</hi> 1997, 148.</note> collatis, idque gratis, expedire
-                    faceremus. Spectabilis et Magnifica Dominatio Vestra certo sibi persuaderet nos
-                    libenter et Dominationi Vestrae et eiusdem amicis velle gratificari. Scire tamen
-                    volumus Spectabilem et Magnificam Dominationem Vestram, scribarum hic sub
-                    tentoriis negotium non aliter se habere atque istic in castris Vestris sub
-                        <placeName>Iaurino</placeName><note type="critic" xml:id="note.2"
-                        >Győr.</note> positis stipendiariorum Vestrorum. Praeterea <persName>soror
-                        nostra</persName><note type="critic" xml:id="note.3">Orsolya Oláh.</note>
+                    magnifico domino <persName>Kynspergh</persName><note xml:id="note.1">Probably
+                        Honorius Königsberg. He was Royal Commissioner in 1555 with András
+                        (Bonaventura) Báthori in Košice, see <hi rend="smallcap">H. Németh</hi>
+                        1997, 148.</note> collatis, idque gratis, expedire faceremus. Spectabilis et
+                    Magnifica Dominatio Vestra certo sibi persuaderet nos libenter et Dominationi
+                    Vestrae et eiusdem amicis velle gratificari. Scire tamen volumus Spectabilem et
+                    Magnificam Dominationem Vestram, scribarum hic sub tentoriis negotium non aliter
+                    se habere atque istic in castris Vestris sub <placeName>Iaurino</placeName><note
+                        xml:id="note.2">Győr.</note> positis stipendiariorum Vestrorum. Praeterea
+                        <persName>soror nostra</persName><note xml:id="note.3">Orsolya Oláh.</note>
                     dicit iam cellam vinariam perfectam esse, sed nihil in ea vini contineri. In
                     reliquo, Dominationem Vestram Magnificam feliciter valere optamus.</p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 11. die Novembris 1552. </p>
                 <p xml:id="p.4">
                     <add corresp="Olahus" type="insert">Maiestas regia, dominus noster
                         clementissimus exspectat responsum Dominationis Vestrae in negotio
-                            <persName>Gabrielis Pekry</persName><note type="critic" xml:id="note.4"
-                            >Gábor Pekry was Captain of Szolnok castle from 1551, see <hi
-                                rend="smallcap">Illésy</hi> 1893, 663; and <hi rend="smallcap"
-                                >Benedek</hi> 2007, 165.</note> et <persName>Gasparis
-                            More</persName>,<note type="critic" xml:id="note.5">Gáspár Móré also was
-                            Vice-captain of Szolnok castle, see <hi rend="smallcap">Illésy</hi>
-                            1893, 658–661; and <hi rend="smallcap">Benedek</hi> 2007, 159–161.
-                            Because of the fall of Szolnok, Móré was caught up in a trial of
-                            treachery, see <hi rend="smallcap">Szendrei</hi> 1889, 129–140.</note>
-                        in quo proximis diebus litteras sua maiestas per postham ad Dominationem
-                        Vestram dedit. De rebus aliis coram plura loquemur.
-                            <placeName>Agria</placeName> adhuc esset in periculo, tarda exercitus
-                        nostri et consultatione et motione, nisi Deus primum sua misericordia <add
-                            corresp="Olahus" type="insert">et potentia</add>, deinde virtute
-                        proborum servitorum meorum et aliorum, qui in ea fuerunt, liberasset.</add>
+                            <persName>Gabrielis Pekry</persName><note xml:id="note.4">Gábor Pekry
+                            was Captain of Szolnok castle from 1551, see <hi rend="smallcap"
+                                >Illésy</hi> 1893, 663; and <hi rend="smallcap">Benedek</hi> 2007,
+                            165.</note> et <persName>Gasparis More</persName>,<note xml:id="note.5"
+                            >Gáspár Móré also was Vice-captain of Szolnok castle, see <hi
+                                rend="smallcap">Illésy</hi> 1893, 658–661; and <hi rend="smallcap"
+                                >Benedek</hi> 2007, 159–161. Because of the fall of Szolnok, Móré
+                            was caught up in a trial of treachery, see <hi rend="smallcap"
+                                >Szendrei</hi> 1889, 129–140.</note> in quo proximis diebus litteras
+                        sua maiestas per postham ad Dominationem Vestram dedit. De rebus aliis coram
+                        plura loquemur. <placeName>Agria</placeName> adhuc esset in periculo, tarda
+                        exercitus nostri et consultatione et motione, nisi Deus primum sua
+                        misericordia <add corresp="Olahus" type="insert">et potentia</add>, deinde
+                        virtute proborum servitorum meorum et aliorum, qui in ea fuerunt,
+                        liberasset.</add>
                 </p>
                 <p xml:id="p.5">
                     <seg type="signature">

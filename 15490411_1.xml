@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,18 +235,17 @@
                 <pb/>
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     et Frater Observandissime!</p>
-                <p xml:id="p.2">[1.] Litteras,<note type="critic" xml:id="note.1">We do not know
-                        this letter.</note> quas Dominatio Vestra Magnifica ex
-                        <placeName>Diozeg</placeName><note type="critic" xml:id="note.2"
-                        >Sládkovičovo.</note> decima quarta Martii ad me dedit, <del
-                        corresp="Olahus">nudiustertius</del><add corresp="Olahus" type="corr">ante
-                        dies aliquot</add> accepi unacum litteris ad dominos
-                        <persName>Hoffmanum</persName><note type="critic" xml:id="note.3">Hans
-                        Hofmann, see Ep. 347. Cap. 5.</note> et <persName>Guzmanum</persName>,<note
-                        type="critic" xml:id="note.4">Márton Guzman occurs in the correspondence of
-                        Antal Verancsics and Tamás Nádasdy.</note> quas illis reddidi. In litteris,
-                    quas ad me dedit, rogavit me, ut apud <persName>maiestatem regiam</persName>,
-                    dominum nostrum clementissimum pro annuentia et permissione redemptionis decimae
+                <p xml:id="p.2">[1.] Litteras,<note xml:id="note.1">We do not know this
+                        letter.</note> quas Dominatio Vestra Magnifica ex
+                        <placeName>Diozeg</placeName><note xml:id="note.2">Sládkovičovo.</note>
+                    decima quarta Martii ad me dedit, <del corresp="Olahus">nudiustertius</del><add
+                        corresp="Olahus" type="corr">ante dies aliquot</add> accepi unacum litteris
+                    ad dominos <persName>Hoffmanum</persName><note xml:id="note.3">Hans Hofmann, see
+                        Ep. 347. Cap. 5.</note> et <persName>Guzmanum</persName>,<note
+                        xml:id="note.4">Márton Guzman occurs in the correspondence of Antal
+                        Verancsics and Tamás Nádasdy.</note> quas illis reddidi. In litteris, quas
+                    ad me dedit, rogavit me, ut apud <persName>maiestatem regiam</persName>, dominum
+                    nostrum clementissimum pro annuentia et permissione redemptionis decimae
                     Soproniensis intercederem. Feci, quod mihi Dominatio Vestra Magnifica mandavit,
                     et non aliter, quam in re mea, diligentiam omnem praestiti. Effecissemque nunc
                     quoque, si Dominatio Vestra Magnifica tardius, quam opus erat, voluntatem suam
@@ -256,14 +253,13 @@
                     Magnifica ex litteris eiusdem intellegit. Ego deinceps quoque post maiestatem
                     regiam faciam omnia in re Dominationis Vestrae Magnificae diligenter modo, quid
                     praestare possum. </p>
-                <p xml:id="p.3">[2.] <persName>Stepan</persName><note type="critic" xml:id="note.5"
-                        >We do not know him more closely.</note> ex
-                        <placeName>Constantinopoli</placeName> his diebus reversus huc venit et
-                    attulit litteras has praesentibus adiunctas domini
-                        <persName>Maylath</persName><note type="critic" xml:id="note.6">István
-                        Majláth.</note> ad Dominationem Vestram Magnificam datas, quas nunc eidem
-                    mitto. Si frater ille noster bene valet, et liberationis suae spem facit
-                    aliquam, Dominatio Vestra Magnifica faciat me certiorem.</p>
+                <p xml:id="p.3">[2.] <persName>Stepan</persName><note xml:id="note.5">We do not know
+                        him more closely.</note> ex <placeName>Constantinopoli</placeName> his
+                    diebus reversus huc venit et attulit litteras has praesentibus adiunctas domini
+                        <persName>Maylath</persName><note xml:id="note.6">István Majláth.</note> ad
+                    Dominationem Vestram Magnificam datas, quas nunc eidem mitto. Si frater ille
+                    noster bene valet, et liberationis suae spem facit aliquam, Dominatio Vestra
+                    Magnifica faciat me certiorem.</p>
                 <p xml:id="p.4">Agriensia mea negotia Dominationi Vestrae Magnificae commendo, et
                     rogo, ut dum revertetur divino auxilio, me de singulis edoceat, quae ibi fiant.
                     Et si spes est aliqua pecuniae illinc mihi <add corresp="Olahus" type="insert"

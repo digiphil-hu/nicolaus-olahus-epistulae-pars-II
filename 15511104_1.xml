@@ -210,13 +210,11 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ferenc Újlaki<idno type="ITIdata">Q91046</idno></persName>
                     <persName>Pál Bornemissza<idno type="ITIdata">Q240096</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
             </correspDesc>
@@ -250,34 +248,33 @@
                 <p xml:id="p.1">Reverende ac Egregii Domini et Amici nobis Honorandi, salutem et
                     nostri commendationem!</p>
                 <p xml:id="p.2">Retulit nobis dominus <persName>Michael de Mere</persName>,<note
-                        type="critic" xml:id="note.1">Mihály Mérey.</note> quod forent certi cives
-                    civitatis Posoniensis, qui in promontoriis ad decimas de
-                        <placeName>Reche</placeName><note type="critic" xml:id="note.2">Rača.</note>
-                    pertinentes vineas<note type="critic" xml:id="note.3">On the vine of Rača, see
-                            <hi rend="smallcap">Vályi</hi> 1799, 184.</note> haberent, quas quidem
-                    decimas <persName>maiestas regia</persName>, dominus noster clementissimus ad
-                    nostram intercessionem pro solita arenda eidem domino <persName>Merey</persName>
-                    pro anno praesenti concessit; cumque <persName>decimator</persName> suus a
-                    praefatis civibus Posoniensibus decimas talium vinearum persolvi debere
-                    postulasset, dicti cives misso ad eundem dominum <persName>Merey</persName>
-                    nuntio eorum asseruissent se etiam antea nunquam ab huiusmodi vineis ipsorum
-                    decimas in <placeName>Reche</placeName> persolvisse, sed unas in torculari
-                    nondum expressas <placeName>Posonium</placeName> in vasis deduxissent, ibique
-                    pressis torcularibus et vinis in vasis collocatis decimae eorum in cellariis
-                    decimatae fuissent, et eas ad domum archiepiscopalem<note type="critic"
-                        xml:id="note.4">On the tithing yard of the archiepiscopal palace in
-                        Bratislava, see <hi rend="smallcap">Gál-Mlakár</hi> 2007, 290.</note>
-                    persolvissent, id quod etiam nunc Vestrae Dominationes eodem modo ab eisdem
-                    exigere vellent. Eundem vero dominum <persName>Merey</persName> respondisse, ut
-                    etiam si tempore quondam domini <persName>Strigoniensis</persName><note
-                        type="critic" xml:id="note.5">Pál Várday.</note> decimae talium vinearum
-                        <placeName>Posonii</placeName> essent connumeratae et solutae, id liberum
-                    fuisse facere archiepiscopis, si decimas ipsas cum etiam aliis arendassent,
-                    vineas civium pro se reservassent, sed cum maiestas regia integras decimas ad
-                        <placeName>Reche</placeName> pertinentes nulla facta exceptione vinearum
-                    civium Posoniensium ipsi domino <persName>Merey</persName> arendaverit, omni
-                    iure et aequitate dignum fore, ut decimae omnium vinearum ad decimas
-                        <placeName>Reche</placeName> pertinentes tam a Posoniensibus, quam aliis
+                        xml:id="note.1">Mihály Mérey.</note> quod forent certi cives civitatis
+                    Posoniensis, qui in promontoriis ad decimas de <placeName>Reche</placeName><note
+                        xml:id="note.2">Rača.</note> pertinentes vineas<note xml:id="note.3">On the
+                        vine of Rača, see <hi rend="smallcap">Vályi</hi> 1799, 184.</note> haberent,
+                    quas quidem decimas <persName>maiestas regia</persName>, dominus noster
+                    clementissimus ad nostram intercessionem pro solita arenda eidem domino
+                        <persName>Merey</persName> pro anno praesenti concessit; cumque
+                        <persName>decimator</persName> suus a praefatis civibus Posoniensibus
+                    decimas talium vinearum persolvi debere postulasset, dicti cives misso ad eundem
+                    dominum <persName>Merey</persName> nuntio eorum asseruissent se etiam antea
+                    nunquam ab huiusmodi vineis ipsorum decimas in <placeName>Reche</placeName>
+                    persolvisse, sed unas in torculari nondum expressas
+                        <placeName>Posonium</placeName> in vasis deduxissent, ibique pressis
+                    torcularibus et vinis in vasis collocatis decimae eorum in cellariis decimatae
+                    fuissent, et eas ad domum archiepiscopalem<note xml:id="note.4">On the tithing
+                        yard of the archiepiscopal palace in Bratislava, see <hi rend="smallcap"
+                            >Gál-Mlakár</hi> 2007, 290.</note> persolvissent, id quod etiam nunc
+                    Vestrae Dominationes eodem modo ab eisdem exigere vellent. Eundem vero dominum
+                        <persName>Merey</persName> respondisse, ut etiam si tempore quondam domini
+                        <persName>Strigoniensis</persName><note xml:id="note.5">Pál Várday.</note>
+                    decimae talium vinearum <placeName>Posonii</placeName> essent connumeratae et
+                    solutae, id liberum fuisse facere archiepiscopis, si decimas ipsas cum etiam
+                    aliis arendassent, vineas civium pro se reservassent, sed cum maiestas regia
+                    integras decimas ad <placeName>Reche</placeName> pertinentes nulla facta
+                    exceptione vinearum civium Posoniensium ipsi domino <persName>Merey</persName>
+                    arendaverit, omni iure et aequitate dignum fore, ut decimae omnium vinearum ad
+                    decimas <placeName>Reche</placeName> pertinentes tam a Posoniensibus, quam aliis
                     omnibus sibi sine omni defecto persolverentur, sicque certi ex civibus decimas
                     ibidem in <placeName>Reche</placeName> persolvissent, alii vero se in eorum
                     domibus persolvere paratos obtulissent, modo a Vestris Dominationibus rursum

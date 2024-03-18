@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -235,11 +233,11 @@
                 <p xml:id="p.1">Salutem et mei commendationem, Prudentes et Circumspecti Domini et
                     Amici Honorandissimi!</p>
                 <p xml:id="p.2">Intelligo quendam <persName>Martinum Zybolen</persName>,<note
-                        type="critic" xml:id="note.1">We do not know him more closely.</note> qui se
-                    in colonum reverendissimi domini nostri <persName>Strigoniensis</persName><note
-                        type="critic" xml:id="note.2">Pál Várday.</note> iamdudum addixisse dicitur,
-                    apud Dominationes Vestras captum esse, et die crastina iudicium in ipsius causa
-                    per easdem fieri. Dicitur autem nonnullos fidedignos testes habere, quorum
+                        xml:id="note.1">We do not know him more closely.</note> qui se in colonum
+                    reverendissimi domini nostri <persName>Strigoniensis</persName><note
+                        xml:id="note.2">Pál Várday.</note> iamdudum addixisse dicitur, apud
+                    Dominationes Vestras captum esse, et die crastina iudicium in ipsius causa per
+                    easdem fieri. Dicitur autem nonnullos fidedignos testes habere, quorum
                     attestationes in sublevamen immo potius in liberationem causae ipsius plurimum
                     facerent. Quare rogo Dominationes Vestras, velint testes ipsius
                         <persName>Martini Zybolen</persName> admittere examinareque et quatenus

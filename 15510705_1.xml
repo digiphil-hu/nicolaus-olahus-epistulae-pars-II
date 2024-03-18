@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Orsolya Kanizsai<idno type="ITIdata">Q146870</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,14 +229,14 @@
                 <p xml:id="p.1">Generosa et Magnifica Domina, Domina nobis Observandissima, post
                     servitiorum nostrorum commendationem! </p>
                 <p xml:id="p.2">Hac ipsa hora allatae sunt ad nos ex Transsylvania<note
-                        type="critic" xml:id="note.1">Tamás Nádasdy was in Sebeș on 10 July,
-                        according to Ep. 772.<ref>olahus.tei.15510702_1</ref></note> litterae domini
-                    fratris nostri, domini comitis <persName>Thomae</persName>,<note type="critic"
-                        xml:id="note.2">Tamás Nádasdy. We do not know this letter.</note> ex quibus
-                    intelleximus eum optime valere, pro quo etiam nos, ut feliciter valeat, Deum
-                    altissimum precabimur. Inclusae autem erant in litteras nostras alioquoque
-                    litterae eiusdem domini fratris nostri ad Magnificentiam Vestram datae, quas
-                    statim ad ipsam misimus. De melonibus<note type="critic" xml:id="note.3">See Ep.
+                        xml:id="note.1">Tamás Nádasdy was in Sebeș on 10 July, according to Ep.
+                            772.<ref>olahus.tei.15510702_1</ref></note> litterae domini fratris
+                    nostri, domini comitis <persName>Thomae</persName>,<note xml:id="note.2">Tamás
+                        Nádasdy. We do not know this letter.</note> ex quibus intelleximus eum
+                    optime valere, pro quo etiam nos, ut feliciter valeat, Deum altissimum
+                    precabimur. Inclusae autem erant in litteras nostras alioquoque litterae eiusdem
+                    domini fratris nostri ad Magnificentiam Vestram datae, quas statim ad ipsam
+                    misimus. De melonibus<note xml:id="note.3">See Ep.
                             772.<ref>olahus.tei.15510702_1</ref></note> nobis missis habemus
                     Magnificentiae Vestrae gratias, quas statim novitatis nomine <persName>maiestati
                         regiae</persName> misimus, quas clementer accepit, et laudavit melonis et

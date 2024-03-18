@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,19 +236,19 @@
                     clare intelleximus. Dolemus sane Dominationem Vestram in tantis molestiis
                     constitutam esse et differentiis controversiisque, quae inter Magnificentiam
                     Vestram et magnificum dominum <persName>Franciscum de Batthyan</persName><note
-                        type="critic" xml:id="note.1">Ferenc Batthyány.</note> patruum eiusdem
-                    vertuntur, nullum unquam finem imponi. Nos libenter Dominationis Vestrae causa
-                    apud ipsum dominum <persName>Franciscum</persName><choice>
+                        xml:id="note.1">Ferenc Batthyány.</note> patruum eiusdem vertuntur, nullum
+                    unquam finem imponi. Nos libenter Dominationis Vestrae causa apud ipsum dominum
+                        <persName>Franciscum</persName><choice>
                         <orig>parteis</orig>
                         <supplied>partes</supplied>
                     </choice> nostras interponemus laborabimusque, si quid boni efficere poterimus,
                     et quicquid perfecerimus aut egerimus, Dominationi Vestrae per hominem
-                        Varasdiensem<note type="critic" xml:id="note.2">We do not know him more
-                        closely.</note> significabimus. Hominem autem Dominationis Vestrae hic
-                    retinere noluimus, ne faceret sumptus, sed ad Dominationem Vestram remisimus.
-                    Pro ferinis carnibus ac aliis, quae nobis Dominatio Vestra Magnifica misit,
-                    eidem agimus gratias, et quod nostri memor fuit, nos vicissim mutua amicitia
-                    Dominationi Vestrae non deerimus, eandem feliciter valere optamus. </p>
+                        Varasdiensem<note xml:id="note.2">We do not know him more closely.</note>
+                    significabimus. Hominem autem Dominationis Vestrae hic retinere noluimus, ne
+                    faceret sumptus, sed ad Dominationem Vestram remisimus. Pro ferinis carnibus ac
+                    aliis, quae nobis Dominatio Vestra Magnifica misit, eidem agimus gratias, et
+                    quod nostri memor fuit, nos vicissim mutua amicitia Dominationi Vestrae non
+                    deerimus, eandem feliciter valere optamus. </p>
                 <p xml:id="p.3"><placeName>Graczy</placeName> 14. Ianuarii anno Domini 1553.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

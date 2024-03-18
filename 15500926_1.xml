@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,75 +244,73 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Antonius Wrancius Nicolao Olaho antistiti suo salutem!</p>
-                <p xml:id="p.2">[1.] Scito me iam <placeName>Agriam</placeName><note type="critic"
-                        xml:id="note.1">Eger.</note> incolumem pervenisse nulloque vel periculo
-                    itineris vexatum vel incommodo, ubi a <persName>praefectis</persName><note
-                        type="critic" xml:id="note.2">István Dobó and István Mekcsey.</note> tuis
-                    humaniter, a canonicis fraterne exceptus archidiaconatum IIII. Idibus
-                        Septembris<note type="critic" xml:id="note.3">I.e. 10 September. Verancsics
-                        became Canon of Eger in 1550 and Archdeacon of Szabolcs county in
-                        1549.</note> feliciter occupavi. Domum meam inveni desolatam, hiantem
-                    ruinis, possessam milite, oppressamque fere ad culmen fimo equino. Cui purgandae
-                    instaurandaeque addixi non mediocrem et curam et pecuniam, multis aliis de suo
-                        <del corresp="author">desperantibus</del> et de crastino desperantibus.
-                    Proventus habeo satis tenues propter belli vicinitatem, quo non Agriensis
-                        <milestone unit="pb"/>tractus solum, sed iam, ut videmus, et Hungaria et
-                    Transsylvania tota adeo succensa est, ut induciae,<note type="critic"
-                        xml:id="note.4">I.e. the Treaty of Edirne (1547).</note> quae quinquennales
-                    erant, vix legitimum finem assequentur. Porro et hic et ubique per omnes
-                    comitatus tanto spiritu omnis ordo, omnis status, omnis conditio, omnis aetas,
-                    omne denique pectus in arma ruit et manus hostem petit, ut huius motus initia
-                    maximum quoddam bellum in Turcas polliceri videatur. Nos tamen dabimus operam
-                    omni studio atque industria, ut et belli pericula evitemus, et alimentis non
-                    careamus. Et si copia defuerit, ad parsimoniam accurremus. Sed de privatis
-                    alias. Vocor ad publica, quae nunc ubique ab imo late commoventur. </p>
-                <p xml:id="p.3">[2.] Castellum <placeName>Zolnocchi</placeName>,<note type="critic"
+                <p xml:id="p.2">[1.] Scito me iam <placeName>Agriam</placeName><note xml:id="note.1"
+                        >Eger.</note> incolumem pervenisse nulloque vel periculo itineris vexatum
+                    vel incommodo, ubi a <persName>praefectis</persName><note xml:id="note.2">István
+                        Dobó and István Mekcsey.</note> tuis humaniter, a canonicis fraterne
+                    exceptus archidiaconatum IIII. Idibus Septembris<note xml:id="note.3">I.e. 10
+                        September. Verancsics became Canon of Eger in 1550 and Archdeacon of
+                        Szabolcs county in 1549.</note> feliciter occupavi. Domum meam inveni
+                    desolatam, hiantem ruinis, possessam milite, oppressamque fere ad culmen fimo
+                    equino. Cui purgandae instaurandaeque addixi non mediocrem et curam et pecuniam,
+                    multis aliis de suo <del corresp="author">desperantibus</del> et de crastino
+                    desperantibus. Proventus habeo satis tenues propter belli vicinitatem, quo non
+                    Agriensis <milestone unit="pb"/>tractus solum, sed iam, ut videmus, et Hungaria
+                    et Transsylvania tota adeo succensa est, ut induciae,<note xml:id="note.4">I.e.
+                        the Treaty of Edirne (1547).</note> quae quinquennales erant, vix legitimum
+                    finem assequentur. Porro et hic et ubique per omnes comitatus tanto spiritu
+                    omnis ordo, omnis status, omnis conditio, omnis aetas, omne denique pectus in
+                    arma ruit et manus hostem petit, ut huius motus initia maximum quoddam bellum in
+                    Turcas polliceri videatur. Nos tamen dabimus operam omni studio atque industria,
+                    ut et belli pericula evitemus, et alimentis non careamus. Et si copia defuerit,
+                    ad parsimoniam accurremus. Sed de privatis alias. Vocor ad publica, quae nunc
+                    ubique ab imo late commoventur. </p>
+                <p xml:id="p.3">[2.] Castellum <placeName>Zolnocchi</placeName>,<note
                         xml:id="note.5">Szolnok.</note> quod dudum etiam praeripiendum erat
                     hostibus, iam exstructum et firmatum sic habemus, ut vim etiam non exiguam
-                    sustinere posset. Comes <persName>Salmus</persName><note type="critic"
-                        xml:id="note.6">Niklas von Salm.</note><milestone unit="pb"/> summus huius
-                    expeditionis dux, nudiustertius habito colloquio cum <persName>Andrea
-                        Bathoreo</persName><note type="critic" xml:id="note.7">András (Bonaventura)
-                        Báthori.</note> in <placeName>Abad</placeName>,<note type="critic"
-                        xml:id="note.8">Abád, today part of Abádszalók.</note> pago ad Tibiscum
-                    posito profectus est <placeName>Zolnocchum</placeName>, ut ei praeficiat
-                        <persName>Ioannem Balassam</persName>,<note type="critic" xml:id="note.9"
-                        >János Balassa.</note> insignem iuvenem, imponatque praesidia et munitiones
-                    necessarias cum machinis. Ex parte Turcarum nulli adhuc motus audiuntur,
-                    mirandumque est, quod sileant. His hic bene constitutis, quo signa illaturus est
-                    comes, sunt enim tum ei tum <persName>Bathoreo</persName>, alteri cis, alteri
-                    citra flumen ad <del corresp="author">XII</del><add corresp="author" type="corr"
-                        >X</add> ferme millium hominum, non facile intelligo, res enim secretissime
-                    et sine ullo tumultu geritur, tanta et in comite elucet solertia et scientia rei
-                    militaris, tanto et ceteri omnes consensu in rem bene gerendam incubuerunt. Et
-                    quanquam vox multitudinis est, quod <persName>Heremitae</persName><note
-                        type="critic" xml:id="note.10">George Martinuzzi.</note> suppetias ibitur,
-                    mihi tamen quoniam ignotum est consilium, non audeo quicquam scribere, cum
-                    alioqui <milestone unit="pb"/>omnem expeditionis huius rationem tibi vel ab ipso
-                    initio constitisse certum est. De viribus <persName>Heremitae</persName> omnia
-                    maxima et plena spei bonae afferuntur. Dicitur habere XXV millium hominum
-                    copias, sedereque <placeName>Meggiessii</placeName>,<note type="critic"
-                        xml:id="note.11">Mediaș.</note> ac silere non sine admiratione multorum. Nec
-                    id ex metu aut ignavia perhibent illum facere, sed exspectatione regii subsidii,
-                    cupientem cum integris, tum auctis viribus rem aggredi atque perficere, quam
-                    hactenus tanto artificio fabricavit. Ego iam illi nequeo non bene velle, post
-                    quam sic induxit animum, ut Christianae reipublicae opera eius consulatur. Faxit
-                    Deus, ut <del corresp="author">ei</del> succedat <add corresp="author"
-                        type="insert">illi</add>, si probe agit, <del corresp="author"
-                        >eique</del><add corresp="author" type="corr">cui</add> si <del
-                        corresp="author">erit</del><add corresp="author" type="corr">omnino</add>
-                    succurrendum <add corresp="author" type="insert">erit</add>, succurratur iustis
-                    auxiliis, quo et Transsylvani rem secure amplecti audeant, quia feruntur id
-                    ipsum opperiri, dum adhuc neutri parti accesserunt, (solito enim agunt ingenio,
-                    ut etiam <persName>Gritteo</persName><note type="critic" xml:id="note.12"
+                    sustinere posset. Comes <persName>Salmus</persName><note xml:id="note.6">Niklas
+                        von Salm.</note><milestone unit="pb"/> summus huius expeditionis dux,
+                    nudiustertius habito colloquio cum <persName>Andrea Bathoreo</persName><note
+                        xml:id="note.7">András (Bonaventura) Báthori.</note> in
+                        <placeName>Abad</placeName>,<note xml:id="note.8">Abád, today part of
+                        Abádszalók.</note> pago ad Tibiscum posito profectus est
+                        <placeName>Zolnocchum</placeName>, ut ei praeficiat <persName>Ioannem
+                        Balassam</persName>,<note xml:id="note.9">János Balassa.</note> insignem
+                    iuvenem, imponatque praesidia et munitiones necessarias cum machinis. Ex parte
+                    Turcarum nulli adhuc motus audiuntur, mirandumque est, quod sileant. His hic
+                    bene constitutis, quo signa illaturus est comes, sunt enim tum ei tum
+                        <persName>Bathoreo</persName>, alteri cis, alteri citra flumen ad <del
+                        corresp="author">XII</del><add corresp="author" type="corr">X</add> ferme
+                    millium hominum, non facile intelligo, res enim secretissime et sine ullo
+                    tumultu geritur, tanta et in comite elucet solertia et scientia rei militaris,
+                    tanto et ceteri omnes consensu in rem bene gerendam incubuerunt. Et quanquam vox
+                    multitudinis est, quod <persName>Heremitae</persName><note xml:id="note.10"
+                        >George Martinuzzi.</note> suppetias ibitur, mihi tamen quoniam ignotum est
+                    consilium, non audeo quicquam scribere, cum alioqui <milestone unit="pb"/>omnem
+                    expeditionis huius rationem tibi vel ab ipso initio constitisse certum est. De
+                    viribus <persName>Heremitae</persName> omnia maxima et plena spei bonae
+                    afferuntur. Dicitur habere XXV millium hominum copias, sedereque
+                        <placeName>Meggiessii</placeName>,<note xml:id="note.11">Mediaș.</note> ac
+                    silere non sine admiratione multorum. Nec id ex metu aut ignavia perhibent illum
+                    facere, sed exspectatione regii subsidii, cupientem cum integris, tum auctis
+                    viribus rem aggredi atque perficere, quam hactenus tanto artificio fabricavit.
+                    Ego iam illi nequeo non bene velle, post quam sic induxit animum, ut Christianae
+                    reipublicae opera eius consulatur. Faxit Deus, ut <del corresp="author">ei</del>
+                    succedat <add corresp="author" type="insert">illi</add>, si probe agit, <del
+                        corresp="author">eique</del><add corresp="author" type="corr">cui</add> si
+                        <del corresp="author">erit</del><add corresp="author" type="corr"
+                        >omnino</add> succurrendum <add corresp="author" type="insert">erit</add>,
+                    succurratur iustis auxiliis, quo et Transsylvani rem secure amplecti audeant,
+                    quia feruntur id ipsum opperiri, dum adhuc neutri parti accesserunt, (solito
+                    enim agunt ingenio, ut etiam <persName>Gritteo</persName><note xml:id="note.12"
                         >Lodovico Gritti.</note> casu <del corresp="author">olim</del> egerunt),
                     deturque <milestone unit="pb"/>opera, ut ea provincia fractis <del
                         corresp="author">obstantui</del><add corresp="author" type="corr"
                         >seditiosorum</add> conatibus non obtineri solum, sed etiam possessione
                     occupari tenerique, et imposterum quicquid alicunde ingruerit, paucis castellis
                     in quibusdam semitis constitutis fortiter tueri possit. </p>
-                <p xml:id="p.4">[3.] Rem <persName>Petrovii</persName><note type="critic"
-                        xml:id="note.13">Péter Petrovics.</note> omnes, qui inde veniunt, magis quam
+                <p xml:id="p.4">[3.] Rem <persName>Petrovii</persName><note xml:id="note.13">Péter
+                        Petrovics.</note> omnes, qui inde veniunt, magis quam
                         <persName>Heremitae</persName> infirmant, facileque ita esse credo, quod et
                     avaritia laboret, et audere raro solet, nullius magnitudinis appetens. Fertur
                     aliud nihil agere, quam et dies et vires <choice>
@@ -322,30 +318,28 @@
                         <supplied>terere</supplied>
                     </choice> in castella quadam, quae etiam si adimantur, parum sint et illi
                     allatura emolumenti, et <persName>Heremitae</persName> detrimenti.
-                        <placeName>Vincium</placeName><note type="critic" xml:id="note.14">Vinț.
-                        Martinuzzi lived here from 1546 until his death.</note> deditione accepit,
-                        <placeName>Cianadinum</placeName><note type="critic" xml:id="note.15">Cenad.
-                        On the devastation of Cenad and the expulsion of István Szegedi Kis, see <hi
+                        <placeName>Vincium</placeName><note xml:id="note.14">Vinț. Martinuzzi lived
+                        here from 1546 until his death.</note> deditione accepit,
+                        <placeName>Cianadinum</placeName><note xml:id="note.15">Cenad. On the
+                        devastation of Cenad and the expulsion of István Szegedi Kis, see <hi
                             rend="smallcap">Barta</hi> 1993, 91.</note> igne vastavit,<note
-                        type="critic" xml:id="note.16">See <hi rend="smallcap">Oborni</hi> 2017,
-                        156.</note> ab arce repulsus est. Nec <placeName>Vincii</placeName>
-                    accessionem incruenta victoria obtinuit. <persName>Paulus cognomento
-                        Bank</persName>,<note type="critic" xml:id="note.17">Pál Bánk was Royal
-                        Castellan of Gherla and Deva, and Vice-Voivode in 1552–1553, see <hi
-                            rend="smallcap">Veress</hi> 1898, passim; and <hi rend="smallcap"
-                            >Oborni</hi> 2018, 436.</note> cui
+                        xml:id="note.16">See <hi rend="smallcap">Oborni</hi> 2017, 156.</note> ab
+                    arce repulsus est. Nec <placeName>Vincii</placeName> accessionem incruenta
+                    victoria obtinuit. <persName>Paulus cognomento Bank</persName>,<note
+                        xml:id="note.17">Pál Bánk was Royal Castellan of Gherla and Deva, and
+                        Vice-Voivode in 1552–1553, see <hi rend="smallcap">Veress</hi> 1898, passim;
+                        and <hi rend="smallcap">Oborni</hi> 2018, 436.</note> cui
                         <persName>Heremita</persName><placeName>Saxosabesum</placeName><note
-                        type="critic" xml:id="note.18">Sebeș.</note> crediderat, facta in eos <del
+                        xml:id="note.18">Sebeș.</note> crediderat, facta in eos <del
                         corresp="author">irruptione</del><add corresp="author" type="corr"
                         >eruptione</add>, qui Vincium receperant, non exigua caede affecit; ipse
                     vulneratus <milestone unit="pb"/>abscessit. Quid deinceps futurum sit, Deus
-                    novit et Rhamnusia Adrastia,<note type="critic" xml:id="note.19">I.e.
-                        Nemesis.</note> quae malos male perdet. Omnino tamen postquam in tantos
-                    motus coniecta est Transsylvania, cuius causa etiam reliquiis Hungariae non
-                    parum fortasse oborietur sollicitudinis, maturandum esse censerem in recipienda
-                    et firmanda validis praesidiis ea provincia, ne postea duobus aut etiam pluribus
-                    in tantae molis tantique momenti locis laboretur. Haec mea est de his sententia.
-                    Vale. </p>
+                    novit et Rhamnusia Adrastia,<note xml:id="note.19">I.e. Nemesis.</note> quae
+                    malos male perdet. Omnino tamen postquam in tantos motus coniecta est
+                    Transsylvania, cuius causa etiam reliquiis Hungariae non parum fortasse
+                    oborietur sollicitudinis, maturandum esse censerem in recipienda et firmanda
+                    validis praesidiis ea provincia, ne postea duobus aut etiam pluribus in tantae
+                    molis tantique momenti locis laboretur. Haec mea est de his sententia. Vale. </p>
                 <p xml:id="p.5">XXVI. Septembris 1550. <placeName>Agriae</placeName>. </p>
             </div>
         </body>

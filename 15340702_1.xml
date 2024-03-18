@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Lieven van den Zande<idno type="ITIdata">Q470351</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -251,9 +249,9 @@
                 <pb/>
                 <p xml:id="p.1">Levinus Ammonius monachus Carthusiensis Nicolao Olao secretario. </p>
                 <p xml:id="p.2">[1.] Dignus es profecto, Heros Clarissime, quem aeterno prosequar
-                    amore, non solum, quod hosce libellos<note type="critic" xml:id="note.1"><hi
-                            rend="italic">De praeparatione ad mortem</hi> and <hi rend="italic"
-                            >Purgatio adversus epistolam Lutheri</hi>, see Ep. 493. Cap.
+                    amore, non solum, quod hosce libellos<note xml:id="note.1"><hi rend="italic">De
+                            praeparatione ad mortem</hi> and <hi rend="italic">Purgatio adversus
+                            epistolam Lutheri</hi>, see Ep. 493. Cap.
                             5.<ref>olahus.tei.15340606_1</ref></note><persName>Erasmi</persName>
                     mihi plane gratissimos dono mihi dederis, sed etiam quod istum potius animum me
                     cupias expendere, eumque penitius amplecti. Quod ut faciam, et suadet honestas
@@ -262,32 +260,31 @@
                     verborum officia, sed par est tamen, ut gratus animus beneficium collatum
                     libenter agnoscat, si quando praeter gratum sermonem rependere nihil potest. </p>
                 <p xml:id="p.3">[2.] Vehementer male me habet, quod et
-                        <persName>Benedictinus</persName><note type="critic" xml:id="note.2">We do
-                        not know him more closely. See Ep. 489. Cap.
-                            1.<ref>olahus.tei.15340529_1</ref></note> ille vanus apud nos fuit,
-                    inani cupiens nos oblectare mendacio, et quod morbus alius subinde atque alius
-                    invadens <persName>Erasmum</persName> nostrum a reditu remoratur. Metuo enim ne
-                    omnino <milestone unit="pb"/>illic illum detineat. Non leviter enim pupugit
-                    animum meum illud in ipsius epistola:<note type="critic" xml:id="note.3">Ep.
-                            482.<ref>olahus.tei.15340422_1</ref></note> “sive redeo, sive non
+                        <persName>Benedictinus</persName><note xml:id="note.2">We do not know him
+                        more closely. See Ep. 489. Cap. 1.<ref>olahus.tei.15340529_1</ref></note>
+                    ille vanus apud nos fuit, inani cupiens nos oblectare mendacio, et quod morbus
+                    alius subinde atque alius invadens <persName>Erasmum</persName> nostrum a reditu
+                    remoratur. Metuo enim ne omnino <milestone unit="pb"/>illic illum detineat. Non
+                    leviter enim pupugit animum meum illud in ipsius epistola:<note xml:id="note.3"
+                        >Ep. 482.<ref>olahus.tei.15340422_1</ref></note> “sive redeo, sive non
                     redeo.” Sed boni consulendum, quicquid mutari non potest. </p>
                 <p xml:id="p.4">[3.] Accipio plane tuam excusationem in
-                        <persName>Molendini</persName><note type="critic" xml:id="note.4">Jean
-                        Molinier.</note> nostri negotio, quamquam alioqui cupio vehementer illi bene
-                    consultum. Quod vero tam benigniter offers animum bene merendi promptum, idque
-                    in omnem prorsus occasionem, agnosco sane candorem eximium, sed ista tamen
-                    magnificentia dignissimum. Cui tantum abest, ut paria facere possim, quod tamen,
-                    nisi improbum foret optare, pervelim, ut vix agendae gratiae iam locus supersit,
-                    nimirum quod pro tanta benignitatis accumulatione, tam levi gratiarum actionis
-                    munere defungi sit pudor. Nec tamen abiicio, nec recuso, quod offers usurus, si
-                    quando res ita feret, citra tuum tamen incommodum. </p>
+                        <persName>Molendini</persName><note xml:id="note.4">Jean Molinier.</note>
+                    nostri negotio, quamquam alioqui cupio vehementer illi bene consultum. Quod vero
+                    tam benigniter offers animum bene merendi promptum, idque in omnem prorsus
+                    occasionem, agnosco sane candorem eximium, sed ista tamen magnificentia
+                    dignissimum. Cui tantum abest, ut paria facere possim, quod tamen, nisi improbum
+                    foret optare, pervelim, ut vix agendae gratiae iam locus supersit, nimirum quod
+                    pro tanta benignitatis accumulatione, tam levi gratiarum actionis munere defungi
+                    sit pudor. Nec tamen abiicio, nec recuso, quod offers usurus, si quando res ita
+                    feret, citra tuum tamen incommodum. </p>
                 <p xml:id="p.5">[4.] Quod vero tam humaniter habeas <persName>Danum</persName><note
-                        type="critic" xml:id="note.5">Jakob Jespersen.</note> nostrum, ut aegroto
-                    provideris de hospitio, medicis rebusque necessariis, quantis laudibus vehendum
-                    est? Sed scio te nihil morari solaque virtute contentum esse et a Christo
-                    mercedem exspectare. Sic age, mi Olahe, sic age! Huiusmodi officiis demerebere
-                    Christum, sic itur ad astra. Nusquam tutius depones thesauros tuos; hoc enim
-                    solum minime perit, quicquid hic impenditur. </p>
+                        xml:id="note.5">Jakob Jespersen.</note> nostrum, ut aegroto provideris de
+                    hospitio, medicis rebusque necessariis, quantis laudibus vehendum est? Sed scio
+                    te nihil morari solaque virtute contentum esse et a Christo mercedem exspectare.
+                    Sic age, mi Olahe, sic age! Huiusmodi officiis demerebere Christum, sic itur ad
+                    astra. Nusquam tutius depones thesauros tuos; hoc enim solum minime perit,
+                    quicquid hic impenditur. </p>
                 <p xml:id="p.6">[5.] Interea, dum haec scriberem, ecce venit ad me meus affinis
                     dominus <persName>Ioannes Molendinus</persName>, qui cum rogaret, quid agerem,
                     audissetque me epistolam ad Olaum scribere, “eia”, inquit, “multam verbis meis
@@ -301,11 +298,11 @@
                         <orig>commodum</orig>
                         <supplied>commodus</supplied>
                     </choice> nuntius istuc postridie primo mane profecturus οἰκονόμος<note
-                        type="critic" xml:id="note.6">‘administrator’.</note> domus Carthusianae
-                    Bruxellensis, hic desinendum statui et erat iam cum dicto domino
-                        <persName>Ioanne Molendino</persName> miscendum colloquium. Brevi forte
-                    latius. Bene te valere opto, Clarissime Domine. Hoc in calce addendum duxi me
-                    Olahum inter amicos principe loco habiturum. </p>
+                        xml:id="note.6">‘administrator’.</note> domus Carthusianae Bruxellensis, hic
+                    desinendum statui et erat iam cum dicto domino <persName>Ioanne
+                        Molendino</persName> miscendum colloquium. Brevi forte latius. Bene te
+                    valere opto, Clarissime Domine. Hoc in calce addendum duxi me Olahum inter
+                    amicos principe loco habiturum. </p>
                 <p xml:id="p.7">E Valleregia <placeName>Gandavensi</placeName> sexto Nonas Iulii
                     1534.</p>
             </div>

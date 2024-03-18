@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Chapter of Oradea</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -251,16 +249,15 @@
                     cupere. </p>
                 <p xml:id="p.3">Temeraria ac caeca perversitas Lutheranorum, quos his proximis
                     tantum diebus magnificus dominus <persName>Stephanus Lossoncy</persName><note
-                        type="critic" xml:id="note.1">István Losonczy.</note> expulsos de oppido suo
-                        <placeName>Pankotha</placeName><note type="critic" xml:id="note.2"
-                        >Pâncota.</note> profugos ac divagos fecit, civitatem
-                        <placeName>Waradiensem</placeName><note type="critic" xml:id="note.3"
-                        >Oradea.</note> invasit virus<note type="critic" xml:id="note.4">The Chapter
-                        of Oradea calls the Lutheran faith a virus or <hi rend="italic">pestis</hi>
-                        (plague) as did his contemporaries, István Brodarics, Chapter of Sibiu, and
-                        Camillo Ghilino, see <hi rend="smallcap">Kasza</hi> 2012, 92; <hi
-                            rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1902, 260; <hi
-                            rend="smallcap">Szilágyi</hi> 2022; in this edition: Ep.
+                        xml:id="note.1">István Losonczy.</note> expulsos de oppido suo
+                        <placeName>Pankotha</placeName><note xml:id="note.2">Pâncota.</note>
+                    profugos ac divagos fecit, civitatem <placeName>Waradiensem</placeName><note
+                        xml:id="note.3">Oradea.</note> invasit virus<note xml:id="note.4">The
+                        Chapter of Oradea calls the Lutheran faith a virus or <hi rend="italic"
+                            >pestis</hi> (plague) as did his contemporaries, István Brodarics,
+                        Chapter of Sibiu, and Camillo Ghilino, see <hi rend="smallcap">Kasza</hi>
+                        2012, 92; <hi rend="smallcap">Bunyitay–Rapaics–Karácsonyi</hi> 1902, 260;
+                            <hi rend="smallcap">Szilágyi</hi> 2022; in this edition: Ep.
                             531.<ref>olahus.tei.15350311_1</ref></note> perversae suae doctrinae
                     nunc clam, nunc palam per singulas domos infundendo. Non desunt iam plerique,
                     qui <quote xml:id="quote.1">auribus prurientibus</quote><note type="quote"
@@ -270,12 +267,12 @@
                     et pessumdent. </p>
                 <p xml:id="p.4">[2.] Auxilium autem vel potestatem puniendi pestiferos ipstos
                     Lutheranos a nullo principe saeculari habemus, ne ab ipso quidem, qui<note
-                        type="critic" xml:id="note.5">András (Bonaventura) Báthori was Voivode of
-                        Transylvania between 1552 and 1553.</note> in regimine episcopatus hic
-                    primas est, quem quia Lutherani factionis ipsorum persuasionibus favorabilem
-                    animadvertunt, audacter undique in rempublicam nostram confluunt, et impune
-                    quoscumque seducunt, plures etiam plebanatus iam nunc turpiter eiectis plebanis
-                    sub episcopatu Waradiensi occupaverunt, in quibus pro libidine sua Lutheranam
+                        xml:id="note.5">András (Bonaventura) Báthori was Voivode of Transylvania
+                        between 1552 and 1553.</note> in regimine episcopatus hic primas est, quem
+                    quia Lutherani factionis ipsorum persuasionibus favorabilem animadvertunt,
+                    audacter undique in rempublicam nostram confluunt, et impune quoscumque
+                    seducunt, plures etiam plebanatus iam nunc turpiter eiectis plebanis sub
+                    episcopatu Waradiensi occupaverunt, in quibus pro libidine sua Lutheranam
                     tyrannidem exercent etiam nolente pro maiore parte populo. </p>
                 <p xml:id="p.5">Quare Reverendissimae eidem Dominationi Vestrae, velut
                     confidentissimo patrono humillime et devote supplicamus, dignetur in primis ob

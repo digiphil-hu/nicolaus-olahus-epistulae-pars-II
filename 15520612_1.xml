@@ -205,7 +205,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>István Dobó <idno type="ITIdata">Q252235</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -241,46 +240,43 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Reverendissime Domine, Domine mihi semper Gratiosissime, servitiorum
-                    meorum debitam perpetuamque exhibitionem!<note type="critic" xml:id="note.1">On
-                        this letter, see <hi rend="smallcap">Szántó</hi> 1972; and <hi
-                            rend="smallcap">Szántó</hi> 1977.</note></p>
+                    meorum debitam perpetuamque exhibitionem!<note xml:id="note.1">On this letter,
+                        see <hi rend="smallcap">Szántó</hi> 1972; and <hi rend="smallcap"
+                            >Szántó</hi> 1977.</note></p>
                 <p xml:id="p.2">[1.] Negotia Turcarum quomodo hic agantur et quo mihi sunt per
                     Turcum captivum relata, Dominationi Vestrae Reverendissimae antea quoque et per
-                        postam<note type="critic" xml:id="note.2">See Ep.
-                            816.<ref>olahus.tei.15520607_1</ref></note> et per servitorem
-                    Dominationis Vestrae Reverendissimae egregium <persName>Gregorium
-                        Horwath</persName><note type="critic" xml:id="note.3">Gergely Horváth
-                        (†1552) was cavalryan captain and Dobó’s messenger, see <hi rend="smallcap"
-                            >Sugár</hi> 1969, 221; and <hi rend="smallcap">Csiffáry</hi> 2003,
-                        292.</note> perscripsi. Qualiterque <persName>Budensis bassa</persName><note
-                        type="critic" xml:id="note.4">Hadim Ali Pasha.</note> expugnato
-                        <placeName>Vesprimio</placeName><note type="critic" xml:id="note.5"
-                        >Veszprém.</note> reversus sit, credo Dominationi Vestrae Reverendissimae
-                    apertius quam mihi constare. Nunc est in castris in campo
+                        postam<note xml:id="note.2">See Ep.
+                        816.<ref>olahus.tei.15520607_1</ref></note> et per servitorem Dominationis
+                    Vestrae Reverendissimae egregium <persName>Gregorium Horwath</persName><note
+                        xml:id="note.3">Gergely Horváth (†1552) was cavalryan captain and Dobó’s
+                        messenger, see <hi rend="smallcap">Sugár</hi> 1969, 221; and <hi
+                            rend="smallcap">Csiffáry</hi> 2003, 292.</note> perscripsi. Qualiterque
+                        <persName>Budensis bassa</persName><note xml:id="note.4">Hadim Ali
+                        Pasha.</note> expugnato <placeName>Vesprimio</placeName><note
+                        xml:id="note.5">Veszprém.</note> reversus sit, credo Dominationi Vestrae
+                    Reverendissimae apertius quam mihi constare. Nunc est in castris in campo
                         <placeName>Rakos</placeName> certoque mihi nuntiatum est, exspectare dicitur
-                    motum <persName>Ahmath bassae</persName><note type="critic" xml:id="note.6">Kara
-                        Ahmed Pasha.</note> et ubi motum illius intelligeret, habere intentionem
-                    arcem hanc Dominationis Vestrae Reverendissimae obsidere. Ille vero pontem iam
-                    struit super Danubium et dicitur se movisse, contra quem dicitur magnificus
-                    dominus <persName>Stephanus de Lossoncz</persName><note type="critic"
-                        xml:id="note.7">István Losonczy.</note> etc., si quid proficere posset,
-                    profectus esse. Quare cum Dominatio Vestra Reverendissima aperte intelligit, ego
-                    quo numero gentium ad conservationem huius arcis hic sim, regia quoque
-                        <persName>maiestas</persName> quantam copiam equitum et peditum ad
-                    defensionem eiusdem arcis hic teneat, supplico Dominationi Vestrae
-                    Reverendissimae tamquam Domino Gratiosissimo, dignetur eadem Dominatio Vestra
-                    Reverendissima de opportuno subsidio quantum ad gentium copiam necesse est, eo
-                    modo mature providere, ne in tam amplissima arce prae paucitate gentium
-                    inopinate subruamur et (quod Deus avertat) tempore Dominationis Vestrae
-                    Reverendissimae per Turcam capiatur. </p>
+                    motum <persName>Ahmath bassae</persName><note xml:id="note.6">Kara Ahmed
+                        Pasha.</note> et ubi motum illius intelligeret, habere intentionem arcem
+                    hanc Dominationis Vestrae Reverendissimae obsidere. Ille vero pontem iam struit
+                    super Danubium et dicitur se movisse, contra quem dicitur magnificus dominus
+                        <persName>Stephanus de Lossoncz</persName><note xml:id="note.7">István
+                        Losonczy.</note> etc., si quid proficere posset, profectus esse. Quare cum
+                    Dominatio Vestra Reverendissima aperte intelligit, ego quo numero gentium ad
+                    conservationem huius arcis hic sim, regia quoque <persName>maiestas</persName>
+                    quantam copiam equitum et peditum ad defensionem eiusdem arcis hic teneat,
+                    supplico Dominationi Vestrae Reverendissimae tamquam Domino Gratiosissimo,
+                    dignetur eadem Dominatio Vestra Reverendissima de opportuno subsidio quantum ad
+                    gentium copiam necesse est, eo modo mature providere, ne in tam amplissima arce
+                    prae paucitate gentium inopinate subruamur et (quod Deus avertat) tempore
+                    Dominationis Vestrae Reverendissimae per Turcam capiatur. </p>
                 <p xml:id="p.3">[2.] Praeterea dignetur Dominatio Vestra Reverendissima dominis
-                        <persName>Gaspar Pethew</persName>,<note type="critic" xml:id="note.8"
-                        >Gáspár Pető (†after 1561) was Cavalry Officer of Eger castle in 1552, see
-                            <hi rend="smallcap">Csiffáry</hi> 2003, 267 and
-                        323–324.</note><persName>Stephano Zolthay</persName><note type="critic"
-                        xml:id="note.9">István Zoltay was Cavalry Officer of Eger castle in 1552,
-                        see <hi rend="smallcap">Csiffáry</hi> 2003, 347–350.</note> et
-                        <persName>Martino Kaldy</persName><note type="critic" xml:id="note.10"
+                        <persName>Gaspar Pethew</persName>,<note xml:id="note.8">Gáspár Pető (†after
+                        1561) was Cavalry Officer of Eger castle in 1552, see <hi rend="smallcap"
+                            >Csiffáry</hi> 2003, 267 and 323–324.</note><persName>Stephano
+                        Zolthay</persName><note xml:id="note.9">István Zoltay was Cavalry Officer of
+                        Eger castle in 1552, see <hi rend="smallcap">Csiffáry</hi> 2003,
+                        347–350.</note> et <persName>Martino Kaldy</persName><note xml:id="note.10"
                         >Márton Káldy was pedestrian captain, see <hi rend="smallcap">Szántó</hi>
                         1972, 201.</note> capitaneis hic constitutis per litteras mandare, ut et
                     ipsi conservationi arcis se tenere debeant, similiter et ad comitatus superiores

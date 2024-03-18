@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Bratislava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -235,14 +233,14 @@
                     nostram commendationem!</p>
                 <p xml:id="p.2">Ex litteris regiae maiestatis ad vos datis intelligetis, quibus
                     iniuriis et contumeliis et verberibus uxor egregii <persName>Alexandri
-                        Rakowy</persName>,<note type="critic" xml:id="note.1">Sándor Rokawy.</note>
-                    aulici regiae maiestatis a quodam barbitonsore concive vestro <persName>Urbano
-                        Regio</persName><note type="critic" xml:id="note.2">We do not know him more
+                        Rakowy</persName>,<note xml:id="note.1">Sándor Rokawy.</note> aulici regiae
+                    maiestatis a quodam barbitonsore concive vestro <persName>Urbano
+                        Regio</persName><note xml:id="note.2">We do not know him more
                         closely.</note> vocato sit affecta, et quid sua maietas a Dominationibus
                     Vestris propter tale facinus fieri velit. Quare et nos easdem rogamus,
                     diligenter velint suadente communi iustitia ipsi Alexandro Rakowy de praefato
                     barbitonsore citra dilationem iustitiam et debitam exsecutionem facere, ut ipse
-                    Rakowy, ex quo aulicus et contrascriba regiae maiestatis est,<note type="critic"
+                    Rakowy, ex quo aulicus et contrascriba regiae maiestatis est,<note
                         xml:id="note.3">He was Counter-signer <hi rend="italic">(constrascriba)</hi>
                         until 30 August, 1549, see Ep. 675. Cap.
                         3.<ref>olahus.tei.15470818_1</ref></note><placeName>Agriam</placeName> ad

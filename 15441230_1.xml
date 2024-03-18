@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Chapter of Zagreb</orgName>
                 </correspAction>
             </correspDesc>
@@ -232,20 +230,20 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Venerabiles in Christo Fratres, nobis Dilecti salutem!</p>
-                <p xml:id="p.2">Acceptis non sine animi nostri dolore ex litteris<note type="critic"
+                <p xml:id="p.2">Acceptis non sine animi nostri dolore ex litteris<note
                         xml:id="note.1">See the Chapter’s to King Ferdinand I, <hi rend="smallcap"
                             >Laszowski</hi> 1917, 230–231.</note> et supplicatione vestra
                     oppressionibus et nefandis facinoribus, quibus miseri coloni ecclesiae istius
-                    nostrae per gentes domini <persName>bani</persName><note type="critic"
-                        xml:id="note.2">Miklós Zrínyi or Nikola IV Zrinski (1508–1566) was a
-                        Croatian nobleman, serving as Ban of Croatia between 1542 and 1556, and <hi
-                            rend="italic">magister tavernicorum regalium</hi> from 1557 until his
-                        death. He is famous for his heroic death at the siege of Szigetvár. More on
-                        him, see <hi rend="smallcap">Varga</hi> 2016.</note> afficiuntur, continuo
-                    mandatum regiae maiestatis ad ipsum banum exarandum curavimus, non dubitamus,
-                    vel hac posteriore commissione, si prior minus fuisset efficax, mandato suae
-                    maiestatis pariturum. Si ne id quidem adhibenda erunt certa remedia, quibus
-                    damna miseris ecclesiae colonis illata, alicunde resarciantur.</p>
+                    nostrae per gentes domini <persName>bani</persName><note xml:id="note.2">Miklós
+                        Zrínyi or Nikola IV Zrinski (1508–1566) was a Croatian nobleman, serving as
+                        Ban of Croatia between 1542 and 1556, and <hi rend="italic">magister
+                            tavernicorum regalium</hi> from 1557 until his death. He is famous for
+                        his heroic death at the siege of Szigetvár. More on him, see <hi
+                            rend="smallcap">Varga</hi> 2016.</note> afficiuntur, continuo mandatum
+                    regiae maiestatis ad ipsum banum exarandum curavimus, non dubitamus, vel hac
+                    posteriore commissione, si prior minus fuisset efficax, mandato suae maiestatis
+                    pariturum. Si ne id quidem adhibenda erunt certa remedia, quibus damna miseris
+                    ecclesiae colonis illata, alicunde resarciantur.</p>
                 <p xml:id="p.3">De cetero quoque quoties nostram opem vobis necessariam esse
                     putabitis, modum iuvandi vestri nobis perscribite, nunquam frustra auxilium
                     nostrum implorabitis. Valete.</p>

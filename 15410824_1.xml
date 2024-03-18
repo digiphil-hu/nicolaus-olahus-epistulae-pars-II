@@ -6,8 +6,8 @@
             <titleStmt>
                 <title type="num">621</title>
                 <title key="body" n="621" type="main">Godschalk Ericksen, Miklós Oláh and
-                    Bartholomäus Haller von Hallerstein to Banská Štiavnica Town Council (Banská
-                    Bystrica, 24 August 1541)</title>
+                    Bartholomäus Haller to Banská Štiavnica Town Council (Banská Bystrica, 24 August
+                    1541)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -218,14 +218,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Godschalk Ericksen<idno type="ITIdata">Q470934</idno></persName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -234,9 +232,8 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Godschalk Ericksen, Miklós Oláh and Bartholomäus Haller von
-                    Hallerstein to Banská Štiavnica Town Council (Banská Bystrica, 24 August
-                    1541)</head>
+                <head type="title">Godschalk Ericksen, Miklós Oláh and Bartholomäus Haller to Banská
+                    Štiavnica Town Council (Banská Bystrica, 24 August 1541)</head>
                 <floatingText type="regesta">
                     <body>
                         <p xml:id="reg.p.1">As they already know well, the King’s campaign for Buda
@@ -252,22 +249,21 @@
                 <p xml:id="p.1">Unnser freundtschafft unnd <del corresp="scriba">alles</del> alles
                     guts zuvor, besonder liebe freundt!</p>
                 <p xml:id="p.2">Wiewol wir durch euer und etliche andere freunden schreiben vernumen
-                    haben, das ro. khu. mt.<note type="critic" xml:id="note.1">I.e. römische
-                        königliche Majestät.</note> etc., unsers allergnedigisten hern kriegsvolgkh
-                    fur <placeName>Ofen</placeName> ain niderlag und schaden gelitten sollen
-                        habenn.<note type="critic" xml:id="note.2">The siege of Buda ended on 21–22
-                        August, 1541. For contemporary accounts on the siege, see <hi
-                            rend="smallcap">Kasza</hi> 2021.</note> Wiewol wir verhoffen, die
-                    zeitung nicht so schwer sol sein, jedoch sol man nichts verachten unnd in
-                    zeitten rat unnd guete mittl zu weiter errettung suchenn. Derhalben ist an euch
-                    unser freundtlich pit unnd ernstlich ermanung, das ir auß euerm mittel zwo
-                    anseliche rats perschon mitsampt euerm statschreibern morgen, zeitlich den
-                    funfundzwanntzigisten Augusti, bey unns hieher auf den
-                        <placeName>Neuensol</placeName> gewißlich schickhen, wie wir den erbarn
-                    richter und rat der stat <placeName>Chrennitz</placeName> auch geschriben haben.
-                    Dann wir hie haben hern <persName>Johan Dobotzkhi</persName><note type="critic"
+                    haben, das ro. khu. mt.<note xml:id="note.1">I.e. römische königliche
+                        Majestät.</note> etc., unsers allergnedigisten hern kriegsvolgkh fur
+                        <placeName>Ofen</placeName> ain niderlag und schaden gelitten sollen
+                        habenn.<note xml:id="note.2">The siege of Buda ended on 21–22 August, 1541.
+                        For contemporary accounts on the siege, see <hi rend="smallcap">Kasza</hi>
+                        2021.</note> Wiewol wir verhoffen, die zeitung nicht so schwer sol sein,
+                    jedoch sol man nichts verachten unnd in zeitten rat unnd guete mittl zu weiter
+                    errettung suchenn. Derhalben ist an euch unser freundtlich pit unnd ernstlich
+                    ermanung, das ir auß euerm mittel zwo anseliche rats perschon mitsampt euerm
+                    statschreibern morgen, zeitlich den funfundzwanntzigisten Augusti, bey unns
+                    hieher auf den <placeName>Neuensol</placeName> gewißlich schickhen, wie wir den
+                    erbarn richter und rat der stat <placeName>Chrennitz</placeName> auch geschriben
+                    haben. Dann wir hie haben hern <persName>Johan Dobotzkhi</persName><note
                         xml:id="note.3">János Dubraviczky.</note> unnd <persName>der Fuggern
-                        factor</persName><note type="critic" xml:id="note.4">We do not know him more
+                        factor</persName><note xml:id="note.4">We do not know him more
                         closely.</note> unnd wollen also samentlich mit guettem eindrechtigen rat
                     beschliessen unnd ernnstlich <choice>
                         <orig>furn<gap extent="1" reason="damage" unit="word"/></orig>
@@ -284,7 +280,7 @@
                     <seg type="signature">
                         <add corresp="author" type="insert">Godschalk Eryke</add>
                     </seg>
-                    <note type="critic" xml:id="note.5">Godschalk Ericksen.</note>
+                    <note xml:id="note.5">Godschalk Ericksen.</note>
                 </p>
                 <p xml:id="p.5">
                     <seg type="signature">
@@ -302,8 +298,7 @@
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
                 <p xml:id="p.7">Den ersamen, unsern besondern lieben freunden, n.,<note
-                        type="critic" xml:id="note.6">I.e. Name.</note> richter unnd rat der stat
-                    Schemnitz.</p>
+                        xml:id="note.6">I.e. Name.</note> richter unnd rat der stat Schemnitz.</p>
                 <p xml:id="p.8">Cito, cito, cito. </p>
             </div>
         </body>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Chapter of Zagreb</orgName>
                 </correspAction>
             </correspDesc>
@@ -230,18 +228,17 @@
                 <p xml:id="p.1">Venerabiles Domini et Fratres in Christo nobis Carissimi, salutem et
                     omnem bonum!</p>
                 <p xml:id="p.2">Misimus ad vos nobilem <persName>Albertum Zylwa</persName><note
-                        type="critic" xml:id="note.1">Albert Szilva occurs later in the
-                        correspondence of Antal Verancsics, see <hi rend="smallcap"
-                            >Szalay–Wenzel</hi> 1868, 283; <hi rend="smallcap">Wenzel</hi> 1871,
-                        261; and <hi rend="smallcap">Wenzel</hi> 1873, 98. He is probably identical
-                        with a trufator Péter Bornemisza mentions in his <hi rend="italic">Ördögi
-                            kísértetek</hi>, see <hi rend="smallcap">Eckhardt</hi> 1955, 177.</note>
-                    servitorem nostrum in certis quibusdam negotiis nostris, quae ex verbis eiusdem
-                    intelligetis. Quare vos hortamur et requirimus, ut ea, quae dictus
-                        <persName>Albertus Zylwa</persName> vobis nomine nostro dixerit, fidem
-                    indubiam adhibeatis, atque vos voluntati nostrae modis omnibus accomodetis. Id
-                    quod grato a vobis <gap extent="1" reason="damage" unit="word"/> animo. Valete
-                    feliciter.</p>
+                        xml:id="note.1">Albert Szilva occurs later in the correspondence of Antal
+                        Verancsics, see <hi rend="smallcap">Szalay–Wenzel</hi> 1868, 283; <hi
+                            rend="smallcap">Wenzel</hi> 1871, 261; and <hi rend="smallcap"
+                            >Wenzel</hi> 1873, 98. He is probably identical with a trufator Péter
+                        Bornemisza mentions in his <hi rend="italic">Ördögi kísértetek</hi>, see <hi
+                            rend="smallcap">Eckhardt</hi> 1955, 177.</note> servitorem nostrum in
+                    certis quibusdam negotiis nostris, quae ex verbis eiusdem intelligetis. Quare
+                    vos hortamur et requirimus, ut ea, quae dictus <persName>Albertus
+                        Zylwa</persName> vobis nomine nostro dixerit, fidem indubiam adhibeatis,
+                    atque vos voluntati nostrae modis omnibus accomodetis. Id quod grato a vobis
+                        <gap extent="1" reason="damage" unit="word"/> animo. Valete feliciter.</p>
                 <p xml:id="p.3">Datum <placeName>Viennae</placeName><choice>
                         <orig>quin<gap extent="1" reason="damage" unit="word"/>anuarii</orig>
                         <supplied>quin<corr>ta die I</corr>anuarii</supplied>

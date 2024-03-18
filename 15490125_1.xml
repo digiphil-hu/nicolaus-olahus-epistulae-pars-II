@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Niklas von Salm</persName>
                 </correspAction>
@@ -241,24 +239,23 @@
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime Devote ac Spectabilis et Magnifice,
                     Fideles Dilecti! </p>
-                <p xml:id="p.2">Accepimus et Vestras<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">Accepimus et Vestras<note xml:id="note.1">Ep.
                             702.<ref>olahus.tei.15490119_1</ref></note> et <persName>Fratris
-                        Georgii</persName>,<note type="critic" xml:id="note.2">George
-                        Martinuzzi.</note> quas una ad nos transmisistis, litteras. Quid autem ei
-                    respondendum duxerimus, id ex incluso litterarum nostrarum, quas <del
-                        corresp="scriba">vobis</del> una cum his ad ipsum transmittendas accepistis,
-                        <del corresp="scriba">ab unde</del><add corresp="scriba" type="corr"
-                        >exemplo</add> cognoscere poteritis. Committentes Vobis, ut ad eisdem
-                    litteris expressam mentem et voluntatem nostram vos accommodare et praedicta
-                    negotia nostra dirigere studeatis. Quantum enim ad mutationem loci attinet, ut
-                    his quoque litteris vobis animi nostri sententiam significemus, sumus contenti,
-                    ut vel in loco iam designato, vel alibi congressus fiat, prout commissariis
-                    utrinque pro fienda tractatione commodius visum fuerit, <del corresp="scriba">et
-                        commissarii</del><add corresp="scriba" type="corr">qui commissarii</add>
-                    nostri super eo pro dignitate et authoritate nostra <del corresp="scriba"
-                        >deliberare</del><add corresp="scriba" type="corr">concludere</add>
-                    poterunt. In quibus exsequendis vos bene gratam nostram exsecuturi estis
-                    voluntatem.</p>
+                        Georgii</persName>,<note xml:id="note.2">George Martinuzzi.</note> quas una
+                    ad nos transmisistis, litteras. Quid autem ei respondendum duxerimus, id ex
+                    incluso litterarum nostrarum, quas <del corresp="scriba">vobis</del> una cum his
+                    ad ipsum transmittendas accepistis, <del corresp="scriba">ab unde</del><add
+                        corresp="scriba" type="corr">exemplo</add> cognoscere poteritis.
+                    Committentes Vobis, ut ad eisdem litteris expressam mentem et voluntatem nostram
+                    vos accommodare et praedicta negotia nostra dirigere studeatis. Quantum enim ad
+                    mutationem loci attinet, ut his quoque litteris vobis animi nostri sententiam
+                    significemus, sumus contenti, ut vel in loco iam designato, vel alibi congressus
+                    fiat, prout commissariis utrinque pro fienda tractatione commodius visum fuerit,
+                        <del corresp="scriba">et commissarii</del><add corresp="scriba" type="corr"
+                        >qui commissarii</add> nostri super eo pro dignitate et authoritate nostra
+                        <del corresp="scriba">deliberare</del><add corresp="scriba" type="corr"
+                        >concludere</add> poterunt. In quibus exsequendis vos bene gratam nostram
+                    exsecuturi estis voluntatem.</p>
                 <p xml:id="p.3">Datum <placeName>Pragae</placeName> die 25. Ianuarii 1549.</p>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

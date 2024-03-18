@@ -224,12 +224,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Pieter Nanninck<idno type="ITIdata"
                                                 >Q470423</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
@@ -265,29 +263,27 @@
                                 <p xml:id="p.2">[1.] Etsi nihil est, quod scribam, Vir non minus
                                         eruditione et humanitate, quam regiis natalibus Ornate
                                         Nicolae Patrone Unice, tamen, ut saltem elicerem responsum
-                                        de binis litteris,<note type="critic" xml:id="note.1">Ep.
-                                                595. and Ep.
-                                                596.<ref>olahus.tei.15371116_1</ref></note><ref>/o:olahus.tei.15371120_1</ref>
+                                        de binis litteris,<note xml:id="note.1">Ep. 595. and Ep.
+                                                  596.<ref>olahus.tei.15371116_1</ref></note><ref>/o:olahus.tei.15371120_1</ref>
                                         quas ad te misi, si <choice>
                                                 <orig>ono</orig>
                                                 <supplied>otio</supplied>
                                         </choice> abundares, etiam nunc tertio scribendum putavi,
                                         cum is nuntius huc iturus esset, qui brevi recursu me
                                         certiorare possit, ut loquar iurisperitorum more. In Ioannis
-                                        negotiis <persName>Henkel</persName><note type="critic"
-                                                xml:id="note.2">Johann Henckel the Younger.</note>
-                                        egimus, ut a te in mandatis habebamus, quosdam enim ex
-                                        creditoribus pecunia, quosdam <del corresp="editor"
-                                                >quosdam</del> fideiussionibus, quosdam spe mature
-                                        solutionis in aliquot hebdomadas placavimus. De iuvene longe
-                                        nunc aliam spem habeo, quam cum primum ad me veniret, sentio
-                                        illum, quicquid hactenus <del corresp="Olahus"
-                                                >deliquis</del><add corresp="Olahus" type="corr"
-                                                >deliquit</add>, adolescentia, amore, malorum
-                                        seductione potius, quam suopte ingenio peccavisse. Video
-                                        illum quotidie in litteris in cubiculo assidue, ubi intra
-                                        libros inclusus totos ferme dies transigit, quare ego hos
-                                        dies, quos apud me egit, pro arrhabone et pignore in
+                                        negotiis <persName>Henkel</persName><note xml:id="note.2"
+                                                >Johann Henckel the Younger.</note> egimus, ut a te
+                                        in mandatis habebamus, quosdam enim ex creditoribus pecunia,
+                                        quosdam <del corresp="editor">quosdam</del> fideiussionibus,
+                                        quosdam spe mature solutionis in aliquot hebdomadas
+                                        placavimus. De iuvene longe nunc aliam spem habeo, quam cum
+                                        primum ad me veniret, sentio illum, quicquid hactenus <del
+                                                corresp="Olahus">deliquis</del><add corresp="Olahus"
+                                                type="corr">deliquit</add>, adolescentia, amore,
+                                        malorum seductione potius, quam suopte ingenio peccavisse.
+                                        Video illum quotidie in litteris in cubiculo assidue, ubi
+                                        intra libros inclusus totos ferme dies transigit, quare ego
+                                        hos dies, quos apud me egit, pro arrhabone et pignore in
                                         posterum frugalis vitae accipio, nec timeo me delusum <choice>
                                                 <orig>eri</orig>
                                                 <supplied>iri</supplied>
@@ -336,10 +332,10 @@
                                         te rarius, apud alios de te liberrime loquar, ubi mea
                                         iudicia nulli verecundiae nec suspicioni astricta sunt.
                                         Totus sum in <hi rend="italic">Demosthene</hi><note
-                                                type="critic" xml:id="note.3">I.e. in book <hi
-                                                  rend="italic">Demosthenis De immunitate adversus
-                                                  Leptinem</hi>.</note> ubi, ut in superioribus
-                                        litteris scripsi,<note type="critic" xml:id="note.4">Ep.
+                                                xml:id="note.3">I.e. in book <hi rend="italic"
+                                                  >Demosthenis De immunitate adversus
+                                                Leptinem</hi>.</note> ubi, ut in superioribus
+                                        litteris scripsi,<note xml:id="note.4">Ep.
                                                   596.<ref>olahus.tei.15371120_1</ref></note> tuas
                                         auxiliares manus imploro, opus, nisi tu aliter iubeas, tuis
                                         auspiciis in lucem prodibit, cui, quid est meorum studiorum,

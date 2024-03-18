@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Maciej Przybyło<idno type="ITIdata">Q470377</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,27 +239,26 @@
                 <pb/>
                 <p xml:id="p.1">Mathias Auctus physicus Vratislaviensis Nicolao Olao suo. </p>
                 <p xml:id="p.2">[1.] Admonebar diligenter tuis ad me datis litteris,<note
-                        type="critic" xml:id="note.1">We do not know this letter.</note> ut frequens
-                    ad te in scribendo forem. Certo id persuasum habeas me ex animo et saepius
-                    voluisse ad te scribere, modo talium aliquem fidum latorem habuissem.
-                    Tabellionum itaque defectus omnem excusationum sarcinam in se cumulabit. Iam
-                    vero si frequentior, quam antea, non agnoscar facile negligentiae meae et
-                    oscitacioni ad scribendum veniet. Dabo autem operam sedulo, ut minime talibus a
-                        <del corresp="Olahus">me</del><add corresp="Olahus" type="corr">te</add>
-                    notabor. Nam praesentium exhibitor, dominus <persName>Ieronimus cognomine
-                        Kromer</persName>,<note type="critic" xml:id="note.2">Probably Georg
-                        Hieronymus Kromeier (†1551), who was Councillor and Chamberlain of the city
-                        of Wrocław, see <hi rend="smallcap">Kneschke</hi> 1864, 296.</note> civis ac
-                    homo ordinis senatorii Vratislaviensis affinisque meus carissimus (duas namque
-                    sorores in coniuges habemus), vir integrae fidei et undequaque honestus,
+                        xml:id="note.1">We do not know this letter.</note> ut frequens ad te in
+                    scribendo forem. Certo id persuasum habeas me ex animo et saepius voluisse ad te
+                    scribere, modo talium aliquem fidum latorem habuissem. Tabellionum itaque
+                    defectus omnem excusationum sarcinam in se cumulabit. Iam vero si frequentior,
+                    quam antea, non agnoscar facile negligentiae meae et oscitacioni ad scribendum
+                    veniet. Dabo autem operam sedulo, ut minime talibus a <del corresp="Olahus"
+                        >me</del><add corresp="Olahus" type="corr">te</add> notabor. Nam praesentium
+                    exhibitor, dominus <persName>Ieronimus cognomine Kromer</persName>,<note
+                        xml:id="note.2">Probably Georg Hieronymus Kromeier (†1551), who was
+                        Councillor and Chamberlain of the city of Wrocław, see <hi rend="smallcap"
+                            >Kneschke</hi> 1864, 296.</note> civis ac homo ordinis senatorii
+                    Vratislaviensis affinisque meus carissimus (duas namque sorores in coniuges
+                    habemus), vir integrae fidei et undequaque honestus,
                         <placeName>Antverpiae</placeName><milestone unit="pb"/> per longum est
                     mansurus. Et tandem post suum inde discessum <persName>Ioannem
-                        Schebitz</persName>,<note type="critic" xml:id="note.3">Jan Nipszyc.</note>
-                    filium ex sorore ipsius, patre vero <persName>Nicolao Schebicz</persName><note
-                        type="critic" xml:id="note.4">Mikołaj Nipszyc.</note> capitaneo moderno
-                    Vratislaviensi ortum illic in locum sui est relicturus, ut occasio et
-                    opportunitas ad longum nobis nedum dandarum, sed etiam reddendarum utrinque
-                    litterarum dabitur. </p>
+                        Schebitz</persName>,<note xml:id="note.3">Jan Nipszyc.</note> filium ex
+                    sorore ipsius, patre vero <persName>Nicolao Schebicz</persName><note
+                        xml:id="note.4">Mikołaj Nipszyc.</note> capitaneo moderno Vratislaviensi
+                    ortum illic in locum sui est relicturus, ut occasio et opportunitas ad longum
+                    nobis nedum dandarum, sed etiam reddendarum utrinque litterarum dabitur. </p>
                 <p xml:id="p.3">Hunc autem dominum <persName>Ieronimum</persName> ita apud te
                     commendatum iri peto atque fratrem mihi amantissimum, sibique consilio et opera
                     (si illi necessum contra malitiam aliquorum fuerit) adesse <choice>
@@ -275,13 +272,12 @@
                 <p xml:id="p.4">[2.] Ex <placeName>Cracovia</placeName> nuper accepi Turcarum sat
                     numerosum exercitum Hungariam venire. Quid autem constituere se facturos, nondum
                     certo scio. Quidam illos Moraviam, alii Slesiam, reliqui Cepusium<note
-                        type="critic" xml:id="note.5">I.e. Scepusium.</note> petituros asserunt.
-                        <persName>Ioannes vaida</persName><note type="critic" xml:id="note.6">King
-                        John I.</note> cum suis gentibus illis iungitur. <persName>Rex
-                        Poloniae</persName><note type="critic" xml:id="note.7">King Sigismund I the
-                        Old.</note> cum Valacho iterum bellum habet. Cum Moschis pax exstat nulla.
-                    Cristas Galli per sacratissimam caesaream maiestatem speramus gratia Domini
-                    deposituras. <persName>Doctor Henckelus</persName><note type="critic"
+                        xml:id="note.5">I.e. Scepusium.</note> petituros asserunt. <persName>Ioannes
+                        vaida</persName><note xml:id="note.6">King John I.</note> cum suis gentibus
+                    illis iungitur. <persName>Rex Poloniae</persName><note xml:id="note.7">King
+                        Sigismund I the Old.</note> cum Valacho iterum bellum habet. Cum Moschis pax
+                    exstat nulla. Cristas Galli per sacratissimam caesaream maiestatem speramus
+                    gratia Domini deposituras. <persName>Doctor Henckelus</persName><note
                         xml:id="note.8">Johann Henckel.</note><placeName>Cassoviae</placeName>
                     concionatorem agit, meliusque illic, ut in solo paterno, quam hic valet.
                     Reginali maiestati servitia mea per opportunitatem aliquando offeras, feliciter

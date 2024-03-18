@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,35 +243,34 @@
                 <pb/>
                 <p xml:id="p.1">Cornelius Sceperus Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">[1.] Hodie misit ad me <persName>Perybeg Baltogly</persName><note
-                        type="critic" xml:id="note.1">Balta oğlu Piri Bey. No data is available that
-                        he may have been the sanjak-bey of Herzegovina in 1534. Mihaloğlu besieged
-                        Klis together with Mehmed Bey, see <hi rend="smallcap"
+                        xml:id="note.1">Balta oğlu Piri Bey. No data is available that he may have
+                        been the sanjak-bey of Herzegovina in 1534. Mihaloğlu besieged Klis together
+                        with Mehmed Bey, see <hi rend="smallcap"
                             >Özkılıç–Coşkun–Sivridağ–Yüzbaşıoğlu–Toköz</hi> 2005, 33, 45; <hi
                             rend="smallcap">Göyünç</hi> 1969, 26–27.</note> Sansachus Hertzogoninae
-                    ex slavis<note type="critic" xml:id="note.2">‘slave’, see <hi rend="smallcap">Du
-                            Cange</hi>.</note> suum unum cum quadraginta equis,<note type="critic"
-                        xml:id="note.3">i.e. equitibus. Fourty horses seem to be too many for two
+                    ex slavis<note xml:id="note.2">‘slave’, see <hi rend="smallcap">Du
+                        Cange</hi>.</note> suum unum cum quadraginta equis,<note xml:id="note.3"
+                        >i.e. equitibus. Fourty horses seem to be too many for two
                         travellers.</note> qui me hinc sunt abducturi
                         <placeName>Constantinopolim</placeName>. Scribit idem
                         <persName>Sansachus</persName><persName>Aloisium Griti</persName><note
-                        type="critic" xml:id="note.4">Lodovico Gritti.</note> esse
+                        xml:id="note.4">Lodovico Gritti.</note> esse
                         <placeName>Constantinopoli</placeName> adhuc, neque tam cito inde esse
                     abiturum, hortatus, ut eo me conferam. Id quod facturus sum die Lunae proximo,
-                    non exspectato <persName>Hieronimo de Zara</persName>,<note type="critic"
-                        xml:id="note.5">Hieronymus of Zara.</note> qui in eis, quae regiam
-                    maiestatem concernunt mihi adiunctus, aegrotus mansit in <placeName>oppido
-                        Sancti Viti Liburniae</placeName>.<note type="critic" xml:id="note.6"
-                        >Rijeka.</note> Omnino magnum aliquid mari moliuntur Turcae parata classe
-                    ducentarum navium actuariarium, triremium dico et biremium. In quam piratae
-                    remigesque sine numero proficiscuntur indies. Huius ducatum habiturus est
-                        <persName>Barbarossa</persName>,<note type="critic" xml:id="note.7"
-                        >Hayreddin Barbarossa Pasha.</note> ab ineunte aetate piratarum alpha. Quid
-                    intendant, Deus novit, neque omnino me clam est, sed nunquam defuit suis ipsius
-                    gratia. Vae autem illis, per quos in id inductus est. <persName>Imbrahimus
-                        bassa</persName><note type="critic" xml:id="note.8">Ibrahim Pargalı
-                        Pasha.</note> amissa parte copiarum nescio, quibus artibus iuvenes illos
-                    Persas fratres induxit ad inducias, quibus stantibus ipsorum
-                        <persName>Sophy</persName><note type="critic" xml:id="note.9">Tahmasp I,
+                    non exspectato <persName>Hieronimo de Zara</persName>,<note xml:id="note.5"
+                        >Hieronymus of Zara.</note> qui in eis, quae regiam maiestatem concernunt
+                    mihi adiunctus, aegrotus mansit in <placeName>oppido Sancti Viti
+                        Liburniae</placeName>.<note xml:id="note.6">Rijeka.</note> Omnino magnum
+                    aliquid mari moliuntur Turcae parata classe ducentarum navium actuariarium,
+                    triremium dico et biremium. In quam piratae remigesque sine numero
+                    proficiscuntur indies. Huius ducatum habiturus est
+                        <persName>Barbarossa</persName>,<note xml:id="note.7">Hayreddin Barbarossa
+                        Pasha.</note> ab ineunte aetate piratarum alpha. Quid intendant, Deus novit,
+                    neque omnino me clam est, sed nunquam defuit suis ipsius gratia. Vae autem
+                    illis, per quos in id inductus est. <persName>Imbrahimus bassa</persName><note
+                        xml:id="note.8">Ibrahim Pargalı Pasha.</note> amissa parte copiarum nescio,
+                    quibus artibus iuvenes illos Persas fratres induxit ad inducias, quibus
+                    stantibus ipsorum <persName>Sophy</persName><note xml:id="note.9">Tahmasp I,
                         Shah of Iran.</note> fratrum mater cum alter viro Persa sene, maximaeque in
                     ea gente authoritatis <placeName>Constantinopolim</placeName> ventura est brevi
                     de pace actura. Ipse <persName>caesar</persName> Turcarum, cuius re in ambiguo
@@ -290,24 +287,23 @@
                     Illi enim nomine lapsi sunt <persName>Barbarossam</persName> pro
                         <persName>Imbrahimo</persName> putantes. </p>
                 <p xml:id="p.3">[2.] Haec sunt, quae verissima esse ego scio. Dispono interim
-                    conscientiae meae hac Domini resurrectione,<note type="critic" xml:id="note.10"
-                        >Easter Monday was on 5 April.</note> ut sumpto viatico sanctissimi ipsius
-                    corporis et sanguinis, tutius audaciusque me committere possim fidei barbarorum,
-                    a quibus ipsius praesidio fretus nihil metuo, immo certissimam spero victoriam,
-                    et quorundam sceleratorum hominum conatibus obviaturum in rem totius reipublicae
+                    conscientiae meae hac Domini resurrectione,<note xml:id="note.10">Easter Monday
+                        was on 5 April.</note> ut sumpto viatico sanctissimi ipsius corporis et
+                    sanguinis, tutius audaciusque me committere possim fidei barbarorum, a quibus
+                    ipsius praesidio fretus nihil metuo, immo certissimam spero victoriam, et
+                    quorundam sceleratorum hominum conatibus obviaturum in rem totius reipublicae
                     Christianae et principum nostrorum. Ibo autem tyrannico illo modo, quo priore
                     vice, in gladio et baculo scilicet. Interim me serenissimae reginali maiestati
-                    et <persName>Panormitano</persName>,<note type="critic" xml:id="note.11">Jean II
+                    et <persName>Panormitano</persName>,<note xml:id="note.11">Jean II
                         Carondelet.</note> ceterisque dominis et amicis plurimum commenda. Et bene
-                    vale. Commenda me <persName>Conrado Goclenio</persName><note type="critic"
-                        xml:id="note.12">Conrad Wackers.</note> et <persName>Petro
-                        Aegidio</persName>,<note type="critic" xml:id="note.13">Peter Gilles
-                        (1486–1533) was a humanist and a famous printer. He was a friend of Erasmus
-                        of Rotterdam and Thomas More, who dedicated his work <hi rend="italic"
-                            >Utopia</hi> to him. Gilles died on 11 November, 1533, but Schepper
-                        would not have known of his death at the time of writing this letter. See
-                            <hi rend="smallcap">De Vocht</hi> 1961, 204–206.</note> si ad eos
-                    scripseris. </p>
+                    vale. Commenda me <persName>Conrado Goclenio</persName><note xml:id="note.12"
+                        >Conrad Wackers.</note> et <persName>Petro Aegidio</persName>,<note
+                        xml:id="note.13">Peter Gilles (1486–1533) was a humanist and a famous
+                        printer. He was a friend of Erasmus of Rotterdam and Thomas More, who
+                        dedicated his work <hi rend="italic">Utopia</hi> to him. Gilles died on 11
+                        November, 1533, but Schepper would not have known of his death at the time
+                        of writing this letter. See <hi rend="smallcap">De Vocht</hi> 1961,
+                        204–206.</note> si ad eos scripseris. </p>
                 <p xml:id="p.4">Ex <placeName>Rhagusio</placeName> 3. Aprilis 1534.</p>
             </div>
         </body>

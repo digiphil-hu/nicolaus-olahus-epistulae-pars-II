@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -230,15 +228,14 @@
                 <pb/>
                 <p xml:id="p.1">Salutem et servitiorum meorum commendationem, Spectabilis et
                     Magnifice Domine mihi Observandissime! </p>
-                <p xml:id="p.2"><persName>Lucae Therpendi</persName><note type="critic"
-                        xml:id="note.1">Lukács Terpendi or Törpendi. He was Tamás Nádasdy’s
-                        servitor.</note> negotium confeci, quem remisi ad Dominationem Vestram
-                    Magnificam. Si quis etiam alius eiusdem servitor aliquando occurrerit, qui meam
-                    qualemcumque operam petiverit, nihil est, quod facere possim, quod non faciam.
-                    Dominationem Vestram Magnificam unacum domina <persName>coniuge</persName><note
-                        type="critic" xml:id="note.2">Orsolya Kanizsai.</note> sua amantissima,
-                    domina mea observandissima feliciter valere cupio ad propagationem
-                    liberorum.</p>
+                <p xml:id="p.2"><persName>Lucae Therpendi</persName><note xml:id="note.1">Lukács
+                        Terpendi or Törpendi. He was Tamás Nádasdy’s servitor.</note> negotium
+                    confeci, quem remisi ad Dominationem Vestram Magnificam. Si quis etiam alius
+                    eiusdem servitor aliquando occurrerit, qui meam qualemcumque operam petiverit,
+                    nihil est, quod facere possim, quod non faciam. Dominationem Vestram Magnificam
+                    unacum domina <persName>coniuge</persName><note xml:id="note.2">Orsolya
+                        Kanizsai.</note> sua amantissima, domina mea observandissima feliciter
+                    valere cupio ad propagationem liberorum.</p>
                 <p xml:id="p.3"><placeName>Posonii</placeName> prima Iunii anno 1543.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Servitor Olahus etc.</seg>

@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>a friend</persName>
                 </correspAction>
             </correspDesc>
@@ -234,15 +232,14 @@
                     modo diebus singulis, sed momentis quibuslibet fuerim iactatus, nunc tibi <choice>
                         <orig>ταὶς γραφαὶς</orig>
                         <supplied>ταῖς γραφαῖς</supplied>
-                    </choice><note type="critic" xml:id="note.1">‘in the letter’.</note> minime
-                    explicare possum. Nam si ea omnia animi incommoda tibi declarare vellem, non
-                    aliquot dies huic rei essent suffecturae, propterea hanc rerum mearum querelam
-                    in aliud differam tempus, ne tamen τῶν πραγμάτων <choice>
+                    </choice><note xml:id="note.1">‘in the letter’.</note> minime explicare possum.
+                    Nam si ea omnia animi incommoda tibi declarare vellem, non aliquot dies huic rei
+                    essent suffecturae, propterea hanc rerum mearum querelam in aliud differam
+                    tempus, ne tamen τῶν πραγμάτων <choice>
                         <orig>ἐμοὺ</orig>
                         <supplied>ἐμοῦ</supplied>
-                    </choice><note type="critic" xml:id="note.2">‘(to know) about my
-                        affairs’.</note> etiam nunc omnino esses ignarus,
-                        <persName>Ioanni</persName><note type="critic" xml:id="note.3">Probably
+                    </choice><note xml:id="note.2">‘(to know) about my affairs’.</note> etiam nunc
+                    omnino esses ignarus, <persName>Ioanni</persName><note xml:id="note.3">Probably
                         Johannes Morbellius.</note> tuo, quem expeditis tuis rebus ad te remisi,
                     aliqua ex meis rebus explicavi. Qui tibi referre poterit rerum mearum non <del
                         corresp="Olahus">minimum</del><add corresp="Olahus" type="corr"

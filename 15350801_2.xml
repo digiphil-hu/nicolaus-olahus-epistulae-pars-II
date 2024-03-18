@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,11 +242,11 @@
                 <p xml:id="p.2">Vix <placeName>Meclinia</placeName> negotiorum meorum curandorum
                     gratia huc reversus heri respiraveram, cum <persName>Ruthgerus
                         Rescius</persName>, amicus noster communis <hi rend="italic"
-                        >Homiliam</hi><note type="critic" xml:id="note.1">Oláh wrote Cornelis de
-                        Schrijver that Frans van Cranevelt himself had sent him his translation, see
-                        Ep. 545. According to Oláh’s correspondence, Ressen sent Basil of Caesarea’s
-                        homily to Oláh in 1532, but it was obviously the original Greek text, see
-                        Ep. 215. Cap.
+                        >Homiliam</hi><note xml:id="note.1">Oláh wrote Cornelis de Schrijver that
+                        Frans van Cranevelt himself had sent him his translation, see Ep. 545.
+                        According to Oláh’s correspondence, Ressen sent Basil of Caesarea’s homily
+                        to Oláh in 1532, but it was obviously the original Greek text, see Ep. 215.
+                        Cap.
                         2.<ref>olahus.tei.15350801_1</ref></note><ref>/o:olahus.tei.15320225_1</ref><persName>Basilii</persName>
                     contra temulentos a te, Vir Praestantissime, Latinitate donatam meoque nomini
                     dicatam ad me misit. Non possum, Vir omnibus virtutibus Ornatissime, gratias

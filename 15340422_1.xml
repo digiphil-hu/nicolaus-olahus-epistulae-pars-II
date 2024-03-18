@@ -233,7 +233,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -275,31 +274,30 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Erasmus Roterodamus Nicolao Olao secretario reginae salutem. </p>
-                <p xml:id="p.2">[1.] Quae scribis<note type="critic" xml:id="note.1">Ep. 471. Cap.
+                <p xml:id="p.2">[1.] Quae scribis<note xml:id="note.1">Ep. 471. Cap.
                             1.<ref>olahus.tei.15340312_1</ref></note> de rebus
                         <placeName>Angliae</placeName>, facile credo ex parte esse vera, omnia non
                     credo. Ad hanc tragoediam non fuisset ventum, si cardinales a
-                        <persName>pontifice</persName><note type="critic" xml:id="note.2">Pope
-                        Clement VII.</note> delegati ante annos septem liquido pronuntiassent.
-                    Optarim inter nos et Anglos convenire.</p>
+                        <persName>pontifice</persName><note xml:id="note.2">Pope Clement VII.</note>
+                    delegati ante annos septem liquido pronuntiassent. Optarim inter nos et Anglos
+                    convenire.</p>
                 <p xml:id="p.3">Ad Kalendas Aprilis cepi non bene quidem, sed aliquanto minus male
                     habere, et in bonam spem erectus sum. At post dies octo gravissimus cruciatus
                     invasit sinistrum capitis et colli latus cum humero et brachio, qui sic illic
                     haeret, ut videatur nusquam abiturus. Quinque mensibus non extuleram pedem domo.
-                    Ipso die Paschae<note type="critic" xml:id="note.3">5 April.</note> sacrificavi
-                    in cubiculo. Me a reditu monachorum intemperiae non deterrerent, nisi mihi
-                    metuerem a paralysi. Quod si iter esset quattuor aut quinque dierum, vel lectica
-                    curarem me istuc deportandum. </p>
-                <p xml:id="p.4">Arguerent, inquis, te inconstantiae;<note type="critic"
-                        xml:id="note.4">See Ep. 471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note>
-                    utinam hoc crimen in me haereret. <persName>Marchio</persName><note
-                        type="critic" xml:id="note.5">William van den Werwe.</note> nihil faciet
-                        <persName>Hillenio</persName>,<note type="critic" xml:id="note.6">Michaël
-                        Hillen von Hoochstraaten was a printer who published Herborn’s book, see <hi
-                            rend="smallcap">Allen</hi> 1941, 376. For more on his editions, see <hi
-                            rend="smallcap">Conley</hi> 2011.</note> favet funigeris. Et iam
-                    volumina distracta sunt. Quamquam ille stolidus liber haut multum officiet meo
-                    nomini. Hic timeo graviora a <choice>
+                    Ipso die Paschae<note xml:id="note.3">5 April.</note> sacrificavi in cubiculo.
+                    Me a reditu monachorum intemperiae non deterrerent, nisi mihi metuerem a
+                    paralysi. Quod si iter esset quattuor aut quinque dierum, vel lectica curarem me
+                    istuc deportandum. </p>
+                <p xml:id="p.4">Arguerent, inquis, te inconstantiae;<note xml:id="note.4">See Ep.
+                        471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note> utinam hoc crimen in me
+                    haereret. <persName>Marchio</persName><note xml:id="note.5">William van den
+                        Werwe.</note> nihil faciet <persName>Hillenio</persName>,<note
+                        xml:id="note.6">Michaël Hillen von Hoochstraaten was a printer who published
+                        Herborn’s book, see <hi rend="smallcap">Allen</hi> 1941, 376. For more on
+                        his editions, see <hi rend="smallcap">Conley</hi> 2011.</note> favet
+                    funigeris. Et iam volumina distracta sunt. Quamquam ille stolidus liber haut
+                    multum officiet meo nomini. Hic timeo graviora a <choice>
                         <orig>sectorum</orig>
                         <supplied>sectarum</supplied>
                     </choice> fautoribus, qui sibi persuadent Erasmum in mora esse, quo minus impune
@@ -308,24 +306,24 @@
                     Olahe Carissime, profecto memorem mones, nec sum ignarus, quot et quantis
                     nominibus tibi debeam. Id utinam officio quopiam insigni queam declarare. </p>
                 <p xml:id="p.5">[2.] Gratum est, quod scribis de <persName>Levino</persName>,<note
-                        type="critic" xml:id="note.7">Probably Lieven Algoet</note> sed utinam ille
-                        <quote xml:id="quote.1">τὰς χεῖρας ποτιφέρων</quote><note type="quote"
+                        xml:id="note.7">Probably Lieven Algoet</note> sed utinam ille <quote
+                        xml:id="quote.1">τὰς χεῖρας ποτιφέρων</quote><note type="quote"
                         xml:id="note.quote.1">Cf. Apophthegmata Laconica 239 A 10: τὰν χεῖρα
-                        ποτιφέροντα τὰν τύχαν καλεῖν.</note><note type="critic" xml:id="note.8"
-                        >‘putting his hands together (i.e. bringing them forward)’. </note> fortunam
-                    invocaret. Significat te parare reditum in Hungariam, quod ut tibi precor, quam
+                        ποτιφέροντα τὰν τύχαν καλεῖν.</note><note xml:id="note.8">‘putting his hands
+                        together (i.e. bringing them forward)’. </note> fortunam invocaret.
+                    Significat te parare reditum in Hungariam, quod ut tibi precor, quam
                     felicissimum esse, ita mihi futurum est incommodum sive redeo, sive non redeo:
-                    τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι.<note type="critic" xml:id="note.9"
-                        >‘friends who live far away are not friends’.</note> Oro, ut apud
-                    reverendissimum dominum archiepiscopum <persName>Panormitanum</persName><note
-                        type="critic" xml:id="note.10">Jean II Carondelet.</note></p>
+                    τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι.<note xml:id="note.9">‘friends who live far
+                        away are not friends’.</note> Oro, ut apud reverendissimum dominum
+                    archiepiscopum <persName>Panormitanum</persName><note xml:id="note.10">Jean II
+                        Carondelet.</note></p>
                 <pb/>
                 <p xml:id="p.6"> sis mihi epistolae vice, eique meo nomine gratias agas, et si
                     commodum videbitur, has illi litteras exhibeas. Vix enim haec potui scribere
                     prae cruciatu. Crede mihi, nullis hortamentis opus est ad reditum: non deero
                     occasioni. Serenissimae <persName>reginae</persName> precor omnia laeta.
-                        <persName>Duci Arscoti</persName><note type="critic" xml:id="note.11"
-                        >Philippe II de Croÿ.</note> salutem plurimam. <choice>
+                        <persName>Duci Arscoti</persName><note xml:id="note.11">Philippe II de
+                        Croÿ.</note> salutem plurimam. <choice>
                         <orig>Danis</orig>
                         <supplied>Danum</supplied>
                     </choice> meis verbis salvere iube. Fortasse suspiciatur me iratum, quod non
@@ -333,24 +331,23 @@
                 <p xml:id="p.7"><placeName>Friburgi</placeName> 22. die Aprilis 1534. </p>
                 <p xml:id="p.8">[3.] Lege solus! </p>
                 <p xml:id="p.9">Scio, quid venetur <persName>Petrus Montfortius</persName>,<note
-                        type="critic" xml:id="note.12">Pieter van Monfoort of Harlem.</note> nec
-                    illi invideo successum. Mea causa non est, quod illi faveat quisquam. Nulli
-                    amicus est, nisi sibi ipsi. Mihi certe amicus non est. Est magno promptoque
-                    ingenio, sed vafro, vano, fastuoso et sordido. Cave quicquam illi credas.
-                    Extorquet undique commendationes. Ambiit, ut ad me perferret munus honorarium,
-                    quod sex Hollandiae civitates decreverant. Decreti erant Floreni Caroleni
-                    trecenti. Ille pertulit ducentos, sed verbis dumtaxat. Me tum graviter
-                    laborantem urgebat usque ad vitae taedium, ut scriberem longas ac mendaces ad
-                    caesarem, ad commendatorem mihi ignotum, ad thesaurarium Hollandiae et ad alios.
-                    Maluissem ei numerare bonam pecuniae summam, quam eo labore cruciare
-                    valetudinem. Pastus est domi <choice>
+                        xml:id="note.12">Pieter van Monfoort of Harlem.</note> nec illi invideo
+                    successum. Mea causa non est, quod illi faveat quisquam. Nulli amicus est, nisi
+                    sibi ipsi. Mihi certe amicus non est. Est magno promptoque ingenio, sed vafro,
+                    vano, fastuoso et sordido. Cave quicquam illi credas. Extorquet undique
+                    commendationes. Ambiit, ut ad me perferret munus honorarium, quod sex Hollandiae
+                    civitates decreverant. Decreti erant Floreni Caroleni trecenti. Ille pertulit
+                    ducentos, sed verbis dumtaxat. Me tum graviter laborantem urgebat usque ad vitae
+                    taedium, ut scriberem longas ac mendaces ad caesarem, ad commendatorem mihi
+                    ignotum, ad thesaurarium Hollandiae et ad alios. Maluissem ei numerare bonam
+                    pecuniae summam, quam eo labore cruciare valetudinem. Pastus est domi <choice>
                         <orig>mei</orig>
                         <supplied>meae</supplied>
                     </choice> cum suo collega dies aliquot. Nec egit gratias. Per
-                        <persName>Quirinum</persName><note type="critic" xml:id="note.13">Quirinus
-                        Hagius.</note> meum non dignatus est tria verba scribere. Haec, mi Olae,
-                    oportuit te scire. Dissimulandum tamen. Loquacissimus est et posset laedere,
-                    quod cuivis facillimum est. Vale.</p>
+                        <persName>Quirinum</persName><note xml:id="note.13">Quirinus Hagius.</note>
+                    meum non dignatus est tria verba scribere. Haec, mi Olae, oportuit te scire.
+                    Dissimulandum tamen. Loquacissimus est et posset laedere, quod cuivis facillimum
+                    est. Vale.</p>
             </div>
         </body>
     </text>

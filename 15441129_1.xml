@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,16 +232,16 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Magnifice Domine, Amice Observandissime, salutem! </p>
-                <p xml:id="p.2">Accepta ex litteris<note type="critic" xml:id="note.1">We do not
-                        know this letter.</note> propensa voluntate Magnificae Dominationis Vestrae
+                <p xml:id="p.2">Accepta ex litteris<note xml:id="note.1">We do not know this
+                        letter.</note> propensa voluntate Magnificae Dominationis Vestrae
                     administrandarum decimarum nostrarum commisimus e vestigio aliis litteris
-                    nostris magistro <persName>Georgio Thompa</persName><note type="critic"
-                        xml:id="note.2">György Tompa.</note> administratori bonorum episcopatus
-                    nostri, ne quam tarditatem in earum negotio admittat, sed statim mittat ad
-                    Magnificam Dominationem Vestram certum suum hominem, qui huiusmodi decimas a
-                    Magnifica Dominatione Vestra oblatas excipiat. Rogamus itaque eandem, velit
-                    gratia mutuae amicitiae tam praeteriti, quam etiam praesentis annorum decimas,
-                    (prout se facturum obtulit) reddere.</p>
+                    nostris magistro <persName>Georgio Thompa</persName><note xml:id="note.2">György
+                        Tompa.</note> administratori bonorum episcopatus nostri, ne quam tarditatem
+                    in earum negotio admittat, sed statim mittat ad Magnificam Dominationem Vestram
+                    certum suum hominem, qui huiusmodi decimas a Magnifica Dominatione Vestra
+                    oblatas excipiat. Rogamus itaque eandem, velit gratia mutuae amicitiae tam
+                    praeteriti, quam etiam praesentis annorum decimas, (prout se facturum obtulit)
+                    reddere.</p>
                 <p xml:id="p.3">Quod autem petit nos Magnifica Dominatio Vestra, ut in negotio suo
                     apud regiam maiestatem bonum <add corresp="Olahus" type="insert">amicum et</add>
                     patronum ageremus, nostra hactenus in rebus eiusdem intercessio non defuit,

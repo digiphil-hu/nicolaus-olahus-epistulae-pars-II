@@ -187,11 +187,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -216,18 +214,18 @@
                     Strigoniensi, serenissimi Ferdinandi Romanorum regis atc. ac Mariae reginae a
                     secretis et consiliis, Petrus Nannius salutem dicit.</p>
                 <p xml:id="p.2">[1.] Acerbissimos tuos luctus de amicissimo fratre<note
-                        type="critic" xml:id="note.1">Máté Oláh died in 1536, see Oláh’s epitaphs on
-                        his brother’s death: <hi rend="smallcap">Hegedüs</hi> 1906, 419–421; <hi
-                            rend="smallcap">Fógel–Juhász</hi> 1934, 38–40; <hi rend="smallcap"
-                            >Neagu</hi> 2003, 342 –344. Oláh’s friends sent a heap of condolences,
-                        elegies, and epitaphs from the Netherlands to lessen his grief, which
-                        Nanninck published in print, see <hi rend="smallcap">Hegedüs</hi> 1906, 417;
-                            <hi rend="smallcap">Tournoy</hi> 2006, 135–139. See the manuscripts:
-                        ELTE EK H 46, fol. 31–43.</note> non lacrimis tantummodo, sed gravi
-                    aegritudine animi prosequor, et ex laboribus adversae valetudinis, qua nunc
-                    affligor, nihil tam triste sentio, quam cruciatus istius maeroris. Et ut
-                    libenter studium consolandi prae me ferrem (tametsi tua sapientia et animi
-                    fortitudo istiusmodi adminiculis non egeat), ita ipse vix <app xml:id="app.1">
+                        xml:id="note.1">Máté Oláh died in 1536, see Oláh’s epitaphs on his brother’s
+                        death: <hi rend="smallcap">Hegedüs</hi> 1906, 419–421; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 38–40; <hi rend="smallcap">Neagu</hi> 2003, 342
+                        –344. Oláh’s friends sent a heap of condolences, elegies, and epitaphs from
+                        the Netherlands to lessen his grief, which Nanninck published in print, see
+                            <hi rend="smallcap">Hegedüs</hi> 1906, 417; <hi rend="smallcap"
+                            >Tournoy</hi> 2006, 135–139. See the manuscripts: ELTE EK H 46, fol.
+                        31–43.</note> non lacrimis tantummodo, sed gravi aegritudine animi
+                    prosequor, et ex laboribus adversae valetudinis, qua nunc affligor, nihil tam
+                    triste sentio, quam cruciatus istius maeroris. Et ut libenter studium consolandi
+                    prae me ferrem (tametsi tua sapientia et animi fortitudo istiusmodi adminiculis
+                    non egeat), ita ipse vix <app xml:id="app.1">
                         <lem wit="#CE #I" xml:id="lem.1"><choice>
                                 <orig>inven<gap extent="1" reason="damage" unit="word"/></orig>
                                 <supplied>inven<corr>io</corr></supplied>
@@ -237,14 +235,14 @@
                     ipse acquiescerem, carmen hoc elegiacum super consolationes fraternae mortis,
                     quod ad te mitto, condidi, qualecumque ab animo ita misere afflicto exprimere
                     potui.</p>
-                <p xml:id="p.3">[Nunc utinam Pyliae…]<note type="critic" xml:id="note.2">See <hi
-                            rend="smallcap">Tournoy</hi> 2006, 150–151.</note></p>
+                <p xml:id="p.3">[Nunc utinam Pyliae…]<note xml:id="note.2">See <hi rend="smallcap"
+                            >Tournoy</hi> 2006, 150–151.</note></p>
                 <pb/>
                 <p xml:id="p.4">[2.] De <app xml:id="app.2">
                         <lem wit="#CE #I" xml:id="lem.2"><del corresp="Olahus">tua</del><add
                                 corresp="Olahus" type="corr">tuo</add></lem>
                         <rdg wit="#II" xml:id="rdg.2">tuo</rdg>
-                    </app><hi rend="italic">Athila</hi> et Hungariae descriptione<note type="critic"
+                    </app><hi rend="italic">Athila</hi> et Hungariae descriptione<note
                         xml:id="note.3">I.e. <hi rend="italic">Hungaria</hi>.</note> quid sentiam,
                     iam saepius litteris meis testatus sum. Cuius me iudicii nunquam paenitebit,
                     nisi quod malignius videor et nimis parce rei laudatissimae laudes impertiisse.
@@ -258,7 +256,7 @@
                     </app> sim.</p>
                 <p xml:id="p.5">Vale, Unicum <quote xml:id="quote.1">Praesidium Meum!</quote><note
                         type="quote" xml:id="note.quote.1">Cf. Hor. <hi rend="italic">Carm</hi>.
-                        I,I,2.</note><note type="critic" xml:id="note.4">See Ep. 598. Cap.
+                        I,I,2.</note><note xml:id="note.4">See Ep. 598. Cap.
                             3.<ref>olahus.tei.15371222_1</ref></note></p>
                 <p xml:id="p.6"><placeName>Lovanii</placeName>, nona <app xml:id="app.4">
                         <lem wit="#CE #I" xml:id="lem.4"><choice>

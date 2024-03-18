@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,24 +236,22 @@
                 <p xml:id="p.2">Quod Magnificae Dominationi Vestrae scribere possemus, tantundem hoc
                     tempore habemus. <persName>Regia maiestas</persName>, dominus noster
                     clementissimus decima huius mensis hinc <placeName>Viennam</placeName> versus
-                    profectura est. Litteras<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> domini <persName>Maylath</persName><note type="critic"
-                        xml:id="note.2">István Majláth.</note> ex
-                        <placeName>Constantinopoli</placeName> scriptas mittimus in specie ad
+                    profectura est. Litteras<note xml:id="note.1">We do not know this letter.</note>
+                    domini <persName>Maylath</persName><note xml:id="note.2">István Majláth.</note>
+                    ex <placeName>Constantinopoli</placeName> scriptas mittimus in specie ad
                     Dominationem Vestram Magnificam. Quantum res ipsa ostendit, spes est de eius
                     eliberatione, si potissimus Turcarum <del corresp="Olahus">exercitus</del><add
-                        corresp="Olahus" type="corr">caesar</add><note type="critic" xml:id="note.3"
-                        >Suleiman I.</note> salvus redire poterit, sed quid de hoc futurum sit, Deus
-                    scit. Constans enim ac non vulgaris fama est apud nos,
-                        <persName>caesarem</persName> Thurcarum hydropisi graviter laborare,
-                    praeterea simili fere tumore pedum teneri, qui ipsum etiam dominum olim
-                        <persName>Strigoniensem</persName><note type="critic" xml:id="note.4"
-                        >Probably Pál Várday who died on 12 October, 1549.</note> invaserat, <del
-                        corresp="Olahus">Orozlan</del><persName><add corresp="Olahus" type="corr"
-                            >Ruwzthan</add> passam</persName><note type="critic" xml:id="note.5"
-                        >Rüstem Pasha (ca. 1500–1561).</note> etiam vehementer aegrotare, et ipse
-                    exercitus caesaris aliis pressuris cinctus esse dicitur, adeo, ut, quid inde
-                    nascatur, in manu solius Dei sit.</p>
+                        corresp="Olahus" type="corr">caesar</add><note xml:id="note.3">Suleiman
+                        I.</note> salvus redire poterit, sed quid de hoc futurum sit, Deus scit.
+                    Constans enim ac non vulgaris fama est apud nos, <persName>caesarem</persName>
+                    Thurcarum hydropisi graviter laborare, praeterea simili fere tumore pedum
+                    teneri, qui ipsum etiam dominum olim <persName>Strigoniensem</persName><note
+                        xml:id="note.4">Probably Pál Várday who died on 12 October, 1549.</note>
+                    invaserat, <del corresp="Olahus">Orozlan</del><persName><add corresp="Olahus"
+                            type="corr">Ruwzthan</add> passam</persName><note xml:id="note.5">Rüstem
+                        Pasha (ca. 1500–1561).</note> etiam vehementer aegrotare, et ipse exercitus
+                    caesaris aliis pressuris cinctus esse dicitur, adeo, ut, quid inde nascatur, in
+                    manu solius Dei sit.</p>
                 <p xml:id="p.3">Si Magnifica Dominatio Vestra aliquid negotii haberet, cuius causa
                         <placeName>Viennam</placeName> ad regiam maiestatem venire deberet, id valde
                     optaremus, ut nimirum cum eadem prius, quam <placeName>Posonium</placeName>

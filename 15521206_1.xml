@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,57 +246,55 @@
                 <p xml:id="p.2">[1.] Superioribus diebus, cum adhuc essemus in <add corresp="scriba"
                         type="insert">oppido nostro</add><placeName>Leoben</placeName>, allatae
                     fuerunt nobis annexae litterae spectabilis et magnifici fidelis nobis dilecti
-                        <persName>Iohannis Baptistae Castaldi</persName>,<note type="critic"
-                        xml:id="note.1">Giovanni Battista Castaldo was Count of Cassano and
-                        Piadena.</note> marchionis <placeName>Cassani</placeName> et comitis
-                    Platinae, nostri consiliarii ac serenissimi principis domini,
-                        <persName>Maximiliani</persName> regis Bohemiae et filii nostri carissimi
-                    bellici locumtenentis, cum <del corresp="scriba"> quibus nobis
-                        adiuncti</del><add corresp="scriba" type="corr">adiuncto</add> exemplo
-                    binarum litterarum, <del corresp="scriba">et suorum</del><add corresp="scriba"
-                        type="corr">quas ipse <persName>Castaldus</persName></add> et spectabilis ac
-                    magnifici <persName>Andreae de Bathor</persName><note type="critic"
-                        xml:id="note.2">András (Bonaventura) Báthori.</note> vaivodae nostri
-                    Transsylvaniensis <add corresp="scriba" type="insert"><del corresp="scriba"
-                            >quas</del> coniunctim</add> super officio thesaurariatus et
-                    inscriptione bonorum et iurium possessionariarum egregii quondam
-                        <persName>Francisci Wyzacknay</persName><note type="critic" xml:id="note.3"
-                        >Ferenc Vízaknai (†1551).</note><del corresp="scriba">quas coniunctim</del>
-                    pro egregio fideli nobis dilecto <persName>Petro Haller ab
-                        Hallerstain</persName><note type="critic" xml:id="note.4">Peter Haller von
-                        Hallerstein (1490?–1569) was President of the Council in Sibiu, and
-                        Treasurer of King Ferdinand I in Transylvania between 1552 and 1553, see <hi
-                            rend="smallcap">Oborni</hi> 2002, 18 et passim; <hi rend="smallcap"
-                            >Gündisch</hi> 1947; and <hi rend="smallcap">Gündisch</hi> 1944.</note>
-                    consiliario nostro expediverunt, petiitque dictus <persName>Castaldus</persName>
-                    a nobis perhumillime, quod easdem litteras pro nostra in eundem
-                        <persName>Hallerum</persName> clementia gratiose confirmare dignaremur,
-                    prout Devotio Tua ex eisdem litteris suis cognoscere poterit.<note type="critic"
+                        <persName>Iohannis Baptistae Castaldi</persName>,<note xml:id="note.1"
+                        >Giovanni Battista Castaldo was Count of Cassano and Piadena.</note>
+                    marchionis <placeName>Cassani</placeName> et comitis Platinae, nostri
+                    consiliarii ac serenissimi principis domini, <persName>Maximiliani</persName>
+                    regis Bohemiae et filii nostri carissimi bellici locumtenentis, cum <del
+                        corresp="scriba"> quibus nobis adiuncti</del><add corresp="scriba"
+                        type="corr">adiuncto</add> exemplo binarum litterarum, <del corresp="scriba"
+                        >et suorum</del><add corresp="scriba" type="corr">quas ipse
+                            <persName>Castaldus</persName></add> et spectabilis ac magnifici
+                        <persName>Andreae de Bathor</persName><note xml:id="note.2">András
+                        (Bonaventura) Báthori.</note> vaivodae nostri Transsylvaniensis <add
+                        corresp="scriba" type="insert"><del corresp="scriba">quas</del>
+                        coniunctim</add> super officio thesaurariatus et inscriptione bonorum et
+                    iurium possessionariarum egregii quondam <persName>Francisci
+                        Wyzacknay</persName><note xml:id="note.3">Ferenc Vízaknai
+                        (†1551).</note><del corresp="scriba">quas coniunctim</del> pro egregio
+                    fideli nobis dilecto <persName>Petro Haller ab Hallerstain</persName><note
+                        xml:id="note.4">Peter Haller von Hallerstein (1490?–1569) was President of
+                        the Council in Sibiu, and Treasurer of King Ferdinand I in Transylvania
+                        between 1552 and 1553, see <hi rend="smallcap">Oborni</hi> 2002, 18 et
+                        passim; <hi rend="smallcap">Gündisch</hi> 1947; and <hi rend="smallcap"
+                            >Gündisch</hi> 1944.</note> consiliario nostro expediverunt, petiitque
+                    dictus <persName>Castaldus</persName> a nobis perhumillime, quod easdem litteras
+                    pro nostra in eundem <persName>Hallerum</persName> clementia gratiose confirmare
+                    dignaremur, prout Devotio Tua ex eisdem litteris suis cognoscere poterit.<note
                         xml:id="note.5">See <hi rend="smallcap">Szabó</hi> 2008, 14.</note> Deinde
                     vero <add corresp="scriba" type="insert">in aliis litteris ad nos datis</add>
                     ostendit nobis fideliter iam dictum <persName>Hallerum</persName>, cum creatus
                     sit thesaurarius, magistrum civium <del corresp="scriba">Cibinii</del> civitatis
-                    nostrae Cibiniensis<note type="critic" xml:id="note.6">Sibiu.</note> esse non
-                    posse, quin etiam si esse posset, tamen in fine praesentis mensis alium
-                    magistrum civium eligendum fore, eoque propter iudicat ex re nostra fore, quod
-                    iudex, quem nos creare debemus, nunc omnibus in rebus magistro civium <choice>
+                    nostrae Cibiniensis<note xml:id="note.6">Sibiu.</note> esse non posse, quin
+                    etiam si esse posset, tamen in fine praesentis mensis alium magistrum civium
+                    eligendum fore, eoque propter iudicat ex re nostra fore, quod iudex, quem nos
+                    creare debemus, nunc omnibus in rebus magistro civium <choice>
                         <orig>assist<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>assist<corr>at</corr></supplied>
                     </choice> et quod ipse <persName>Hallerus</persName> iudex Cibiniensis eligatur
                     atque constituatur, et quod litterae desuper expediendae confestim istuc
                     mittantur. Super his itaque iam dicto <persName>bellico locumtenenti
-                        nostro</persName><note type="critic" xml:id="note.7">Giovanni Battista
-                        Castaldo.</note> respondimus, tum praedictarum litterarum ab ipso et
-                    praefato vaivoda nostro <del corresp="scriba">ex emandarum</del><add
-                        corresp="scriba" type="insert">super officio thesaurariatus et inscriptione
-                        bonorum quondam <persName>Francisci Wizacknay</persName> emanatorum
-                        confirmationem</add> tum iudicis Cibiniensis institutionem per Devotionem
-                    Tuam, tamquam nostrum per <milestone unit="pb"/>Hungaricam cancellariam expedire
-                    debere, ideoque id ad praesens Devotione scilicet Tua ab aula nostra regia adhuc
-                    absente fieri non posse, quamprimum autem reditura esset, sicuti brevi et in
-                    foras exspectaretur, tunc nos operam daturos, ut expeditio statim <add
-                        corresp="scriba" type="insert">quemadmodum necessitas postulet</add> non
-                    mittatur. </p>
+                        nostro</persName><note xml:id="note.7">Giovanni Battista Castaldo.</note>
+                    respondimus, tum praedictarum litterarum ab ipso et praefato vaivoda nostro <del
+                        corresp="scriba">ex emandarum</del><add corresp="scriba" type="insert">super
+                        officio thesaurariatus et inscriptione bonorum quondam <persName>Francisci
+                            Wizacknay</persName> emanatorum confirmationem</add> tum iudicis
+                    Cibiniensis institutionem per Devotionem Tuam, tamquam nostrum per <milestone
+                        unit="pb"/>Hungaricam cancellariam expedire debere, ideoque id ad praesens
+                    Devotione scilicet Tua ab aula nostra regia adhuc absente fieri non posse,
+                    quamprimum autem reditura esset, sicuti brevi et in foras exspectaretur, tunc
+                    nos operam daturos, ut expeditio statim <add corresp="scriba" type="insert"
+                        >quemadmodum necessitas postulet</add> non mittatur. </p>
                 <p xml:id="p.3">[2.] Quandoquidem igitur Devotio Tua ipsamet considerare potest
                     nostra plurimi referre, ne istiusmodi expeditioni longior mora interponatur.
                         <add corresp="scriba" type="insert">Nos autem de eiusdem Devotionis Tuae

@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,39 +238,37 @@
                         <placeName>Sardiniam</placeName> applicuisse XI. die et inde XII. in
                     Aphricam transmisisse, praeterea nihil aliud certi habemus, verum optime ab
                     omnibus de exitu rerum Aphricanarum existimatur.
-                        <persName>Pontifex</persName><note type="critic" xml:id="note.1">Pope Paul
-                        III.</note> publico edicto indixit III dierum vigilias et ieiunium pro
+                        <persName>Pontifex</persName><note xml:id="note.1">Pope Paul III.</note>
+                    publico edicto indixit III dierum vigilias et ieiunium pro
                         <persName>caesaris</persName> et eius exercitus incolumitate. Item omnium
                     erratorum remissionem promittit eis, qui confitebuntur et pro caesare preces ad
                     Deum effundent. Quid, quaeris? Caelum, maria ac terras pro Deo nostro nonne
                     pugnare vides? Fac igitur, bono animo sis, fortunabit enim immortalis rector
                     huius machinae iustissima incepta caesaris, et ad imperium eius Asiam non
                     Aphricam adiunget. <persName>Episcopus Massiliensis</persName>,<note
-                        type="critic" xml:id="note.2">Giovanni Battista Cibo (1503–1550), Cardinal
-                        Cibo’s brother, was Bishop of Marseille from 1530, see <hi rend="smallcap"
-                            >Van Gulik–Eubel</hi> 1923, 238.</note><persName>cardinalis
-                        Cibo</persName><note type="critic" xml:id="note.3">Innocenzo Cibo acquired
-                        the rights of administration of the Episcopal See of Marseille in
-                        1517.</note> frater et <persName>ducis Florentiae</persName><note
-                        type="critic" xml:id="note.4">Alessandro de' Medici.</note> consobrinus in <choice>
+                        xml:id="note.2">Giovanni Battista Cibo (1503–1550), Cardinal Cibo’s brother,
+                        was Bishop of Marseille from 1530, see <hi rend="smallcap">Van
+                            Gulik–Eubel</hi> 1923, 238.</note><persName>cardinalis
+                        Cibo</persName><note xml:id="note.3">Innocenzo Cibo acquired the rights of
+                        administration of the Episcopal See of Marseille in 1517.</note> frater et
+                        <persName>ducis Florentiae</persName><note xml:id="note.4">Alessandro de'
+                        Medici.</note> consobrinus in <choice>
                         <orig>consobrinam</orig>
                         <supplied>consobrinum</supplied>
                     </choice> ducem conspiravit, et nescio, quo pacto patefactis insidiis captus
                     est, credimus illum brevi poenas daturum. Fama nos tenet, haec perpetrasse
-                    authore <persName>cardinalis Medices</persName>.<note type="critic"
-                        xml:id="note.5">Ippolito de’ Medici (1511–1535) acted as Florentine
-                        ambassador to Emperor Charles V at this time. For more on this case and his
-                        life, see <hi rend="smallcap">V. Thomsen</hi> 1986.</note> Reliqua de
-                        <persName>Lucretia</persName><note type="critic" xml:id="note.6">Lucretia
-                        Caballis (vom Ross).</note> nostra intelliges, cuius litteris exempla
-                    multarum litterarum ad principem <choice>
+                    authore <persName>cardinalis Medices</persName>.<note xml:id="note.5">Ippolito
+                        de’ Medici (1511–1535) acted as Florentine ambassador to Emperor Charles V
+                        at this time. For more on this case and his life, see <hi rend="smallcap">V.
+                            Thomsen</hi> 1986.</note> Reliqua de <persName>Lucretia</persName><note
+                        xml:id="note.6">Lucretia Caballis (vom Ross).</note> nostra intelliges,
+                    cuius litteris exempla multarum litterarum ad principem <choice>
                         <orig>meam</orig>
                         <supplied>meum</supplied>
                     </choice> addidi. Tu vale et saepissime ad nos scribe de statu vestro et
                     peregrinis novis. <persName>Cornelium Sceperum</persName> et
-                        <persName>coniugem</persName><note type="critic" xml:id="note.7">Anna
-                        Isabella (Elizabeth) Donche.</note> salutabis mihi plurimum. Iterum vale et
-                    me, ut facis, ama. </p>
+                        <persName>coniugem</persName><note xml:id="note.7">Anna Isabella (Elizabeth)
+                        Donche.</note> salutabis mihi plurimum. Iterum vale et me, ut facis, ama. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> pridie Kalendarum Iulias anno
                     Domini MDXXXV.</p>
             </div>

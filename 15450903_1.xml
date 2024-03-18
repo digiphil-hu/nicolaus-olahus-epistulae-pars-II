@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,22 +231,22 @@
                 <pb/>
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     mihi Observandissime etc.!</p>
-                <p xml:id="p.2">Quod <persName>Camaray</persName><note type="critic" xml:id="note.1"
-                        >Tamás Kamarjay was Pál Várday’s retainer <hi rend="italic"
-                            >(familiaris)</hi>, and he later became Deputy Palatine <hi
-                            rend="italic">(vicepalatinus)</hi>, see <hi rend="smallcap">Pálffy</hi>
-                        2004, 1023. On 1 September, King Ferdinand I ordered the Camera to pay for
-                        Kamaray’s travel expenses, see <hi rend="smallcap">Fazekas</hi> 2021,
-                        72.</note> paulo tardius quam Dominatio Vestra Magnifica forte sperabat,
-                    post <persName>Sarcanum</persName><note type="critic" xml:id="note.2">Probably
-                        Antal Sárkány.</note> expeditus et dimissus sit, id regiae occupationi
-                    partim, partim vero praesentibus <persName>Camaray</persName> negotiis
-                    tribuendum est. Per eum remisi litteras gratiae ad manus Dominationis Vestrae
-                    Magnificae <del corresp="Olahus">ad</del> tum canapiis,<note type="critic"
-                        xml:id="note.3"><hi rend="italic">canipa</hi> or <hi rend="italic"
-                            >canaba</hi> meaning ‘storage room’ or ‘wine cellar’, see <hi
-                            rend="smallcap">Ramminger</hi> 2008; <hi rend="smallcap">DuCange</hi>
-                        1883; and <hi rend="smallcap">Szovák</hi> 1983–2017.</note> tum his, <choice>
+                <p xml:id="p.2">Quod <persName>Camaray</persName><note xml:id="note.1">Tamás
+                        Kamarjay was Pál Várday’s retainer <hi rend="italic">(familiaris)</hi>, and
+                        he later became Deputy Palatine <hi rend="italic">(vicepalatinus)</hi>, see
+                            <hi rend="smallcap">Pálffy</hi> 2004, 1023. On 1 September, King
+                        Ferdinand I ordered the Camera to pay for Kamaray’s travel expenses, see <hi
+                            rend="smallcap">Fazekas</hi> 2021, 72.</note> paulo tardius quam
+                    Dominatio Vestra Magnifica forte sperabat, post
+                        <persName>Sarcanum</persName><note xml:id="note.2">Probably Antal
+                        Sárkány.</note> expeditus et dimissus sit, id regiae occupationi partim,
+                    partim vero praesentibus <persName>Camaray</persName> negotiis tribuendum est.
+                    Per eum remisi litteras gratiae ad manus Dominationis Vestrae Magnificae <del
+                        corresp="Olahus">ad</del> tum canapiis,<note xml:id="note.3"><hi
+                            rend="italic">canipa</hi> or <hi rend="italic">canaba</hi> meaning
+                        ‘storage room’ or ‘wine cellar’, see <hi rend="smallcap">Ramminger</hi>
+                        2008; <hi rend="smallcap">DuCange</hi> 1883; and <hi rend="smallcap"
+                            >Szovák</hi> 1983–2017.</note> tum his, <choice>
                         <orig>qui</orig>
                         <supplied>quae</supplied>
                     </choice> in arte sunt factae. A primis solvant 200 aureos, a secundis 100, hanc
@@ -256,9 +254,8 @@
                     dieta haec felicem habebit ad quatridiem <del corresp="Olahus">finem</del><add
                         corresp="Olahus" type="corr">exitum</add>, credo autem nos hinc
                         <placeName>Viennam</placeName> versus abituros intra XVI diem, ubi
-                        plura<note type="critic" xml:id="note.4">Sc. loqui possumus.</note> cum
-                    Dominatione Vestra Magnifica, quae feliciter valeat, meque habeat
-                    commendatum.</p>
+                        plura<note xml:id="note.4">Sc. loqui possumus.</note> cum Dominatione Vestra
+                    Magnifica, quae feliciter valeat, meque habeat commendatum.</p>
                 <p xml:id="p.3">Ex <placeName>Praga</placeName> 3. Septembris 1545.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Servitor et frater Zagrabiensis</seg>

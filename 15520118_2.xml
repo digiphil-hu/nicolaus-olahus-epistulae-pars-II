@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,25 +235,25 @@
                 <p xml:id="p.1">Reverendissime Domine, Domine et Patrone nobis Observandissime,
                     servitiorum nostrorum commendationem!</p>
                 <p xml:id="p.2">En iterum venerunt huc coloni <persName>maiestatis regiae</persName>
-                    sacrae ex pertinentiis arcis <placeName>Chabrag</placeName><note type="critic"
-                        xml:id="note.1">Čabraď.</note> novas adferentes querelas de immanitate ac
-                    crudelitate ipsius <persName>Ioannis Krwsith</persName> rogantque propter Deum,
-                    ne eos in tantis calamitatibus deseramus, sed ipsos omni nostro auxilio iuvemus,
-                    si quo modo a tantis cruciatibus aliquod suspirium eis impetrare possimus.
-                    Scripsimus per annexas ad maiestatem suam, quamquam inviti, ne id nos aliquo
-                    modo affectu potius maiestas sua, quam re ipsa inductos facere existimet.
-                    Quamobrem et Reverendissimam Dominationem Vestram hac in parte vehementer
-                    oramus, <del corresp="author">istorum miserorum causam suscipere ac per
-                        occasionem apud maiestatem suam instare velit, ut tandem sua maiestas
-                        aliquando de istorum ex istius crudelis hominis tyrannide gratiosa
-                        eliberatione cogitare dignetur atque illum tyrannum aut alio transferre aut
-                        eius libidinem opprimendi coercere ac retundere velit. Qui ex inquisitione
-                        de sua crudelitate ex voluntate et mandato maiestatis regiae nuper facta,
-                        non modo nulla poenitudine ducitur, sed multo crudelior et miseris colonis
-                        intolerabilior est redditus et factus, ut plane cum quadam admiratione nobis
-                        est, quod maiestas sua regia tot de istius hominis immanitate, querelas
-                        silentio praeterire potest.</del><add corresp="author" type="corr">dignetur
-                        bonum patronum agere miserorum istorum idque Dei et pietatis respectu et per
+                    sacrae ex pertinentiis arcis <placeName>Chabrag</placeName><note xml:id="note.1"
+                        >Čabraď.</note> novas adferentes querelas de immanitate ac crudelitate
+                    ipsius <persName>Ioannis Krwsith</persName> rogantque propter Deum, ne eos in
+                    tantis calamitatibus deseramus, sed ipsos omni nostro auxilio iuvemus, si quo
+                    modo a tantis cruciatibus aliquod suspirium eis impetrare possimus. Scripsimus
+                    per annexas ad maiestatem suam, quamquam inviti, ne id nos aliquo modo affectu
+                    potius maiestas sua, quam re ipsa inductos facere existimet. Quamobrem et
+                    Reverendissimam Dominationem Vestram hac in parte vehementer oramus, <del
+                        corresp="author">istorum miserorum causam suscipere ac per occasionem apud
+                        maiestatem suam instare velit, ut tandem sua maiestas aliquando de istorum
+                        ex istius crudelis hominis tyrannide gratiosa eliberatione cogitare dignetur
+                        atque illum tyrannum aut alio transferre aut eius libidinem opprimendi
+                        coercere ac retundere velit. Qui ex inquisitione de sua crudelitate ex
+                        voluntate et mandato maiestatis regiae nuper facta, non modo nulla
+                        poenitudine ducitur, sed multo crudelior et miseris colonis intolerabilior
+                        est redditus et factus, ut plane cum quadam admiratione nobis est, quod
+                        maiestas sua regia tot de istius hominis immanitate, querelas silentio
+                        praeterire potest.</del><add corresp="author" type="corr">dignetur bonum
+                        patronum agere miserorum istorum idque Dei et pietatis respectu et per
                         occasionem apud maiestatem regiam efficere, ut re ipsa, si ita placeat <del
                             corresp="author">certe</del> denuo explorata non solum removeat nefarium
                         hominem, sed puniri de iure faciat, eo iam miseros redegit, ut ne hiscere

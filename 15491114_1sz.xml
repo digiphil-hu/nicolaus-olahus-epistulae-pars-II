@@ -190,11 +190,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Royal Lieutenancy Council in Bratislava</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -221,34 +219,34 @@
                 <p xml:id="p.2">Reverendissime Domine etc.!</p>
                 <p xml:id="p.3">Cognoscet Reverendissima Dominatio Vestra tum ex litteris nostris,
                     quas ad regiam maiestatem scribimus, tum vero ex hoc egregio <persName>Paulo
-                        Mwchay</persName>,<note type="critic" xml:id="note.1">Pál Mucsey
-                        (†1557/1558) was Registrator, Seal-keeper, and Royal Notary and Scribe in
-                        1543–1544. He became Provost of Alba Julia in 1551, Canon of Oradea between
-                        1555–1557, and died as Canon of Bratislava, see <hi rend="smallcap"
-                            >Fazekas</hi> 2019, 30; and <hi rend="smallcap">Fazekas</hi> 2021,
-                        425.</note> quid nobis faciundum esse videatur pro evitando superioris anni
-                    tumultu, qui tempore conventus acciderat propter male distributa hospitia. Cum
-                    igitur Reverendissima Dominatio Vestra ea de re optime etiam tacentibus nobis
-                    instructa sit satisque meminerit inter cetera illud quoque superiori anno
-                    deprehensum esse, quod Germanus distributor commodiora quaeque et ampliora
-                    hospitia occupasset sub eorum dominorum nomine, qui partim in arce ipsi
-                    deversabantur paucos admodum asseclas, ut dominorum Germanorum mos est, in
-                    inferioribus illis hospitiis habentes, partim etiam omnino absentes erant ex
-                    huiusmodique hospitiis pleraque per idiotas et mechanicos, qui aulam sequuntur,
-                    pretio redimi solere ab eodem distributore, dominis interim Hungaris compluribus
-                    et aliis nobilibus vel incommode vel plane nusquam diversantibus. Dominatio
-                    Vestra Reverendissima velit omnibus de causis eniti, ut domino
-                        <persName>Nyary</persName><note type="critic" xml:id="note.2">Ferenc Nyári.
-                        It was his duty as Royal Master of the Horse.</note> (cuius id in Hungaria
-                    interest) haec tota distributio committatur, quippe qui pro sui <choice>
+                        Mwchay</persName>,<note xml:id="note.1">Pál Mucsey (†1557/1558) was
+                        Registrator, Seal-keeper, and Royal Notary and Scribe in 1543–1544. He
+                        became Provost of Alba Julia in 1551, Canon of Oradea between 1555–1557, and
+                        died as Canon of Bratislava, see <hi rend="smallcap">Fazekas</hi> 2019, 30;
+                        and <hi rend="smallcap">Fazekas</hi> 2021, 425.</note> quid nobis faciundum
+                    esse videatur pro evitando superioris anni tumultu, qui tempore conventus
+                    acciderat propter male distributa hospitia. Cum igitur Reverendissima Dominatio
+                    Vestra ea de re optime etiam tacentibus nobis instructa sit satisque meminerit
+                    inter cetera illud quoque superiori anno deprehensum esse, quod Germanus
+                    distributor commodiora quaeque et ampliora hospitia occupasset sub eorum
+                    dominorum nomine, qui partim in arce ipsi deversabantur paucos admodum asseclas,
+                    ut dominorum Germanorum mos est, in inferioribus illis hospitiis habentes,
+                    partim etiam omnino absentes erant ex huiusmodique hospitiis pleraque per
+                    idiotas et mechanicos, qui aulam sequuntur, pretio redimi solere ab eodem
+                    distributore, dominis interim Hungaris compluribus et aliis nobilibus vel
+                    incommode vel plane nusquam diversantibus. Dominatio Vestra Reverendissima velit
+                    omnibus de causis eniti, ut domino <persName>Nyary</persName><note
+                        xml:id="note.2">Ferenc Nyári. It was his duty as Royal Master of the
+                        Horse.</note> (cuius id in Hungaria interest) haec tota distributio
+                    committatur, quippe qui pro sui <choice>
                         <orig>numeris</orig>
                         <supplied>muneris</supplied>
                     </choice> ratione ut Germanis et Hungaris et Hispanis, qui <persName>regiam
                         maiestatem</persName> sequi solent, competentia constituet hospitia, ita, ut
                     nemini iustae querelae supersit locus, prout haec omnia latius is
-                        <persName>Paulus</persName><note type="critic" xml:id="note.3">Pál
-                        Mucsey.</note> litteratus Reverendissimae Dominationi Vestrae coram
-                    explicabit, cui fidem adhibere velit. Valere etc. </p>
+                        <persName>Paulus</persName><note xml:id="note.3">Pál Mucsey.</note>
+                    litteratus Reverendissimae Dominationi Vestrae coram explicabit, cui fidem
+                    adhibere velit. Valere etc. </p>
                 <p xml:id="p.4"><placeName>Posonii</placeName> die 14. Novembris anno 1549. </p>
                 <p xml:id="p.5">
                     <seg type="signature">Consiliarii.</seg>

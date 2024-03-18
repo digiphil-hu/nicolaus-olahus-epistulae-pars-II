@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Chapter of Zagreb</orgName>
                 </correspAction>
             </correspDesc>
@@ -257,15 +255,15 @@
                 <pb/>
                 <p xml:id="p.1">Reverendi ac Honorabiles in Christo Fratres Dilecti, salutem! </p>
                 <p xml:id="p.2">[1.] Binas parvo intervallo eodem fere exemplo accepimus
-                        litteras<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> Vestras, quibus scripsistis saepe studium vobis fuisse nos
-                    invisendi, nobisque et nostrae huic vocationi non litteris tantum, aut privata
-                    salutatione, sed publico omnium vestrum suffragio et applausu congratulandi, se
-                    id commode, et non nobis in publicis regiae maiestatis negotiis in exteris
-                    regnis agentibus, facere licuisset. Equidem conveniebat, ut postquam divina
-                    vocatione ad hoc munus episcopale electi sumus, membra suum caput cognovissent.
-                    Et in hisque ad coalescendum totum corpus facere visa fuissent, bene, cohaerere,
-                    verum quando <persName>regia maiestate</persName> ita volente, in publicis suae
+                        litteras<note xml:id="note.1">We do not know this letter.</note> Vestras,
+                    quibus scripsistis saepe studium vobis fuisse nos invisendi, nobisque et nostrae
+                    huic vocationi non litteris tantum, aut privata salutatione, sed publico omnium
+                    vestrum suffragio et applausu congratulandi, se id commode, et non nobis in
+                    publicis regiae maiestatis negotiis in exteris regnis agentibus, facere
+                    licuisset. Equidem conveniebat, ut postquam divina vocatione ad hoc munus
+                    episcopale electi sumus, membra suum caput cognovissent. Et in hisque ad
+                    coalescendum totum corpus facere visa fuissent, bene, cohaerere, verum quando
+                        <persName>regia maiestate</persName> ita volente, in publicis suae
                     maiestatis et regni coacti fuerimus magnis itineribus, voluntatem suae
                     maiestatis in exteris etiam et procul dissitis regnis sequi. Vestra haec
                     excusatio facile a nobis veniam impetrabit, maxime cum per privatas personas
@@ -324,26 +322,25 @@
                     bene voluimus. Nunquam sane sperassemus vos his rerum primordiis debitam erga
                     nos observantiam praebituros. Merebamur omnino, ut ante quam res ad vim et
                     occupationem veniret, nos tanquam caput fidelia membra requisivissetis. Quas
-                    quidem terras <persName>praedecessor</persName><note type="critic"
-                        xml:id="note.2">Simon Erdődy died on 2 June, 1543.</note> olim noster
-                    iuridice multorum sententiis confirmata veritate obtinuerat, et in earum
-                    possessione complures annos usque ad extremum halitum pacifice perstiterat. Id
-                    quod etiamnum certi ex iudicibus eius causae praeter litteratoria <milestone
-                        unit="pb"/>testimonia, ita fuisse testantur. Si, ut scribitis,
-                    praescriptionis metu occupaveratis, id oportuerat vobis fecisse vivente adhuc
-                    olim praedecessore nostro, quem etiam ob id violentiae accusatis, iusque vestrum
-                    contra illum stabilire, nos quoque ob id coacti reoccupare, et iniuriam iniuria
-                    regerere, ne unquam iuribus nostris praescriberetur. Quod autem allegatis,
-                    nunquam vos eam occupationem facturos fuisse, si <persName>Gregorius
-                        Bornemyzza</persName><note type="critic" xml:id="note.3">Gergely Bornemissza
-                        (1526–1555) participated at the defense of Eger in 1552. In 1553, he became
-                        Captain of Eger. One year later, he was captured by the Turks and executed
-                        in the Yedikule Fortress in Constantinople.</note> per litteras non
-                    praebuisset authoritatem. <persName>Bornemyzza</persName> multa fecisse dicitur,
-                    de quibus nullam a nobis habuit commissionem, quaeque denuo reformanda
-                    necessario erunt. Sed eam occupationem ad eius permissionem non fuisse factam,
-                    vel ex eo coniicere possumus, quod diu post eius discessum sub nostro nomine
-                    occupaveritis.</p>
+                    quidem terras <persName>praedecessor</persName><note xml:id="note.2">Simon
+                        Erdődy died on 2 June, 1543.</note> olim noster iuridice multorum sententiis
+                    confirmata veritate obtinuerat, et in earum possessione complures annos usque ad
+                    extremum halitum pacifice perstiterat. Id quod etiamnum certi ex iudicibus eius
+                    causae praeter litteratoria <milestone unit="pb"/>testimonia, ita fuisse
+                    testantur. Si, ut scribitis, praescriptionis metu occupaveratis, id oportuerat
+                    vobis fecisse vivente adhuc olim praedecessore nostro, quem etiam ob id
+                    violentiae accusatis, iusque vestrum contra illum stabilire, nos quoque ob id
+                    coacti reoccupare, et iniuriam iniuria regerere, ne unquam iuribus nostris
+                    praescriberetur. Quod autem allegatis, nunquam vos eam occupationem facturos
+                    fuisse, si <persName>Gregorius Bornemyzza</persName><note xml:id="note.3"
+                        >Gergely Bornemissza (1526–1555) participated at the defense of Eger in
+                        1552. In 1553, he became Captain of Eger. One year later, he was captured by
+                        the Turks and executed in the Yedikule Fortress in Constantinople.</note>
+                    per litteras non praebuisset authoritatem. <persName>Bornemyzza</persName> multa
+                    fecisse dicitur, de quibus nullam a nobis habuit commissionem, quaeque denuo
+                    reformanda necessario erunt. Sed eam occupationem ad eius permissionem non
+                    fuisse factam, vel ex eo coniicere possumus, quod diu post eius discessum sub
+                    nostro nomine occupaveritis.</p>
                 <p xml:id="p.8">[4.] Accusare nos videmini, quod non satis convenisset officio
                     pastorali haec ita a nobis geri commissa esse; si tamen recte perpenderitis,
                     haec nos possemus merito vobis obiicere. Perpendite enim et intra vos iudicate,
@@ -360,12 +357,12 @@
                 <p xml:id="p.9">Haec non ideo vobis inculcamus, ut velimus iuribus vestris derogatum
                     iri, quae reliquo tempore aliter, aliisque modis curari poterunt. Quamobrem
                     sitis animi quieti, et nihil de nobis alieni exspectetis. Commissimus enim tam
-                        <persName>vicario</persName><note type="critic" xml:id="note.4">Pál
-                        Szondi.</note> nostro temporali, quam aliis officialibus nostris, ut nihil
-                    ulterius innovent, neque colonis vestris aliquid incommodi aut turbationis
-                    inferri patiantur, atque eos in eorum iure possesso perinde tueantur, ac nostros
-                    subditos non multo minor namque cura nobis impendit, vos et vestros in suis
-                    iustis iuribus defendere, quam nostros subditos.</p>
+                        <persName>vicario</persName><note xml:id="note.4">Pál Szondi.</note> nostro
+                    temporali, quam aliis officialibus nostris, ut nihil ulterius innovent, neque
+                    colonis vestris aliquid incommodi aut turbationis inferri patiantur, atque eos
+                    in eorum iure possesso perinde tueantur, ac nostros subditos non multo minor
+                    namque cura nobis impendit, vos et vestros in suis iustis iuribus defendere,
+                    quam nostros subditos.</p>
                 <p xml:id="p.10">[5.] Operam atque diligentiam vestram in reformatione
                     propugnaculorum et moeniorum arcis factam non possumus non magnopere probare,
                     utpote, quae et nobis usui sit futura, et vobis in omnibus adversitatibus
@@ -395,10 +392,9 @@
                     fieri poterit, constituimus hoc autumno venire ad vos, ut aliquando capiti
                     liceat membris suis iungi, et mutuo convictu frui. Ubi mutuo conspectu,
                     colloquio et convictu licuerit uti, ut speramus, non vos paenitebit nostri.<note
-                        type="critic" xml:id="note.5">According to his itinerarium, he did not visit
-                        the Chapter of Zagreb in fall of 1544. More on this period, see <hi
-                            rend="smallcap">Fazekas</hi> 2003; and <hi rend="smallcap">Varga</hi>
-                        2014.</note></p>
+                        xml:id="note.5">According to his itinerarium, he did not visit the Chapter
+                        of Zagreb in fall of 1544. More on this period, see <hi rend="smallcap"
+                            >Fazekas</hi> 2003; and <hi rend="smallcap">Varga</hi> 2014.</note></p>
                 <pb/>
                 <p xml:id="p.15">Litteras vestras, quas ad regiam maiestatem misistis,
                     praesentavimus et omnem quam potuimus et debuimus operam in supplicatione vestra
@@ -421,19 +417,18 @@
                     relicta fuerant, sub bona et fideli custodia, ne quid ex illis pereat. Arca, in
                     qua reposita sunt, signetur sigillis certorum ex vobis, <milestone unit="pb"
                     />praepositi lectoris, cantoris et custodis, inter quae apponat suum nostris
-                    vicibus, magister <persName>Georgius Thompa</persName>,<note type="critic"
-                        xml:id="note.6">György III Tompa (†1552) was Oláh’s administrator in Zagreb.
-                        Between 1547–1550, he was Bishop of Bosnia, and between 1550–1552 Bishop of
-                        Pécs, see <hi rend="smallcap">Varga</hi> 2010b.</note> administrator bonorum
+                    vicibus, magister <persName>Georgius Thompa</persName>,<note xml:id="note.6"
+                        >György III Tompa (†1552) was Oláh’s administrator in Zagreb. Between
+                        1547–1550, he was Bishop of Bosnia, and between 1550–1552 Bishop of Pécs,
+                        see <hi rend="smallcap">Varga</hi> 2010b.</note> administrator bonorum
                     istius episcopatus nostri <add corresp="Olahus" type="insert">et
-                            <persName>Czegledi</persName></add>.<note type="critic" xml:id="note.7"
-                        >János Czeglédi</note> Nostra namque interest curam conservandarum rerum
-                    ecclesiae nostrae praecipuam habere. Nam scitis, haec ornamenta non alium
-                    concernere, quam me, quem ex Dei ordinatione maiestas regia, dominus noster
-                    clementissimus, in praelatum et pastorem istius ecclesiae praefecit. Cupimus
-                    itaque a vobis, ut regestrum istarum rerum omnium, coram praefatis hominibus
-                    nostris conscriptum ad nos mittatis quantocius fieri poterit. Valete iterum in
-                    Christo feliciter. </p>
+                            <persName>Czegledi</persName></add>.<note xml:id="note.7">János
+                        Czeglédi</note> Nostra namque interest curam conservandarum rerum ecclesiae
+                    nostrae praecipuam habere. Nam scitis, haec ornamenta non alium concernere, quam
+                    me, quem ex Dei ordinatione maiestas regia, dominus noster clementissimus, in
+                    praelatum et pastorem istius ecclesiae praefecit. Cupimus itaque a vobis, ut
+                    regestrum istarum rerum omnium, coram praefatis hominibus nostris conscriptum ad
+                    nos mittatis quantocius fieri poterit. Valete iterum in Christo feliciter. </p>
                 <p xml:id="p.18">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Vester uti frater Nicolaus Olahus

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,14 +231,14 @@
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime in Christo Pater, Fidelis sincere
                     nobis Dilecte!</p>
                 <p xml:id="p.2">Redditae sunt nobis et tuae et egregii <persName>Stephani
-                        Dobonis</persName><note type="critic" xml:id="note.1">István
-                        Dobó.</note><del corresp="scriba">de P</del> arcis Agriensis castellani
-                        litterae,<note type="critic" xml:id="note.2">Oláh sent him Dobó’s letter,
-                        see Ep. 809.<ref>olahus.tei.15520516_3</ref></note> ex quibus abunde
+                        Dobonis</persName><note xml:id="note.1">István Dobó.</note><del
+                        corresp="scriba">de P</del> arcis Agriensis castellani litterae,<note
+                        xml:id="note.2">Oláh sent him Dobó’s letter, see Ep.
+                            809.<ref>olahus.tei.15520516_3</ref></note> ex quibus abunde
                     intelleximus tum ea, quae ipse <persName>Dobo</persName> iuxta mandatum et
                     instructionem nostram in negotio arcis <placeName>Baldokew</placeName><note
-                        type="critic" xml:id="note.3">Castle of Boldogkő.</note> egit, tum etiam
-                        <del corresp="scriba"><gap extent="1" reason="illegible" unit="word"/></del>
+                        xml:id="note.3">Castle of Boldogkő.</note> egit, tum etiam <del
+                        corresp="scriba"><gap extent="1" reason="illegible" unit="word"/></del>
                     praesertim autem ex litteris pro signatura ad nos missas ea, quae serenissimo
                     principi domino <persName>Maximiliano</persName> regi Bohemiae, filio nostro
                     carissimo atque tibi in eo ipso negotio a nobis scribi debere visa sunt,
@@ -250,10 +248,10 @@
                     significavimus, et tibi cum praesentibus remittimus, ut sigillo nostro Hungarico
                     per te <del corresp="scriba">obsignatae</del> primum obsignentur, et deinde ad
                     exsecutionem mittantur, ut restitutio arcis <placeName>Giwlae</placeName><note
-                        type="critic" xml:id="note.4">Gyula.</note> iam tandem fiat et ulterius id,
-                    quod plurimum optamus, non differatur. <add corresp="scriba" type="insert"
-                        >Expensas, quas ipse <persName>Dobo</persName> iam faciet et adhuc facit in
-                        praesenti negotio per Cameram nostram exsolvi ordinavimus.</add></p>
+                        xml:id="note.4">Gyula.</note> iam tandem fiat et ulterius id, quod plurimum
+                    optamus, non differatur. <add corresp="scriba" type="insert">Expensas, quas ipse
+                            <persName>Dobo</persName> iam faciet et adhuc facit in praesenti negotio
+                        per Cameram nostram exsolvi ordinavimus.</add></p>
                 <p xml:id="p.3">Datum <placeName>Oeniponti</placeName> die 19. Maii 1552.</p>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Gerendi<idno type="ITIdata">Q51011</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,24 +245,23 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Nicolaum Gerendi episcopum Transsylvaniensem. </p>
-                <p xml:id="p.2">[1.] Accepi tuas litteras.<note type="critic" xml:id="note.1">We do
-                        not know this letter.</note> Non possum litteris explicare, quantum et ego
-                    tecum una doleam patriae nostrae ruinam, quae nisi aut vi adversarius eiiciatur,
-                    aut concordia res transigatur, in hac factione paulatim ipsa se consumet. Si
-                    statim post necatum <persName>Griti</persName><note type="critic"
-                        xml:id="note.2">Lodovico Gritti.</note> missi fuissent saltem tria millia
-                    externorum militum tecum in Transsylvaniam, credo tua et tuorum opera omnis ea
-                    regio nunc regi pareret, et nec <persName>Maylath</persName><note type="critic"
-                        xml:id="note.3">István Majláth.</note> esset vaivoda, nec
-                        <persName>Ioannes</persName><note type="critic" xml:id="note.4">King John
+                <p xml:id="p.2">[1.] Accepi tuas litteras.<note xml:id="note.1">We do not know this
+                        letter.</note> Non possum litteris explicare, quantum et ego tecum una
+                    doleam patriae nostrae ruinam, quae nisi aut vi adversarius eiiciatur, aut
+                    concordia res transigatur, in hac factione paulatim ipsa se consumet. Si statim
+                    post necatum <persName>Griti</persName><note xml:id="note.2">Lodovico
+                        Gritti.</note> missi fuissent saltem tria millia externorum militum tecum in
+                    Transsylvaniam, credo tua et tuorum opera omnis ea regio nunc regi pareret, et
+                    nec <persName>Maylath</persName><note xml:id="note.3">István Majláth.</note>
+                    esset vaivoda, nec <persName>Ioannes</persName><note xml:id="note.4">King John
                         I.</note> Transsylvaniae incubaret. Ex qua etiam ea Hungariae pars, quae
                     trans Tibiscum est ad oboedientiam praestandam facile cogi potuisset, sed quot,
                     mi Domine, occasiones commodissimae, quot res rebus regiis faventes, sive fato,
                     sive negligentia, vel τῇ <choice>
                         <orig>πενεία</orig>
                         <supplied>πενείᾳ</supplied>
-                    </choice> μᾶλλον<note type="critic" xml:id="note.5">‘or rather due to the lack
-                        of money’.</note> hactenus <add corresp="Olahus" type="insert">sunt</add>
+                    </choice> μᾶλλον<note xml:id="note.5">‘or rather due to the lack of
+                        money’.</note> hactenus <add corresp="Olahus" type="insert">sunt</add>
                     praetermissae, si nunc, cum Turca omnes suas vires ex Europa ad bellum illud
                     Persicum eduxit, et cum paucos habeamus obvios, si modo cum modicis viribus
                     progrederemur, nostri nihil facient. Quae postea spes erit recuperandae
@@ -274,9 +271,9 @@
                         unit="pb"/>suae immemores, tot mala, tot utrinque captivitates, caedes,
                     direptiones tam diu perferre potuerint. Serenissima <persName>regina</persName>
                     facere posset, sine dubio faceret τὰ χρήματα, περὶ ὧν ἔγραψας;<note
-                        type="critic" xml:id="note.6">‘the things about which you have
-                        written’.</note> quae fieri poterunt, non longe absunt ab illis locis, modo
-                    aliquid certi incipiant. Ingens ubique telum est necessitas. </p>
+                        xml:id="note.6">‘the things about which you have written’.</note> quae fieri
+                    poterunt, non longe absunt ab illis locis, modo aliquid certi incipiant. Ingens
+                    ubique telum est necessitas. </p>
                 <p xml:id="p.3">[2.] Insulae illae orientales novi mundi, quae nostra aetate
                     repertae sunt, plenae esse dicuntur aureis montibus. Nudiusquartus venit huc ex
                     Hispaniis nuntius, qui retulit nunc rursus unam insulam repertam, in qua uniones
@@ -295,11 +292,10 @@
                     mihi praeponuntur, tam firmae sunt datae, ut firmiores dari non potuerint, si
                     usquam salva est fides, ex alia parte etiam meis per eos, quibus rex et non
                     adversarius praeest, vi privor. Non, inquies, parent mandatis regiis; at in
-                        <placeName>Iaurino</placeName>,<note type="critic" xml:id="note.7"
-                        >Győr.</note> in <placeName>Nitria</placeName> remittenda parent, parent
-                    etiam in aliis, in quibus expressum habet mandatum, in meis tantum rebus non
-                    parent, videoque me in ea calamitate versari, de qua
-                        <persName>Hesiodus</persName> conqueritur: </p>
+                        <placeName>Iaurino</placeName>,<note xml:id="note.7">Győr.</note> in
+                        <placeName>Nitria</placeName> remittenda parent, parent etiam in aliis, in
+                    quibus expressum habet mandatum, in meis tantum rebus non parent, videoque me in
+                    ea calamitate versari, de qua <persName>Hesiodus</persName> conqueritur: </p>
                 <quote xml:id="quote.1">
                     <lg xml:id="lg.1">
                         <l xml:id="l.1">ἕτερος δ' ἑτέρου πόλιν <choice>
@@ -338,11 +334,11 @@
                 <note type="quote" xml:id="note.quote.2">Hesiod, <hi rend="italic">Works and
                         Days</hi> 180.</note>
                 <p xml:id="p.6">Summa mea est in te spes et in <persName>episcopo
-                        Agriensi</persName>,<note type="critic" xml:id="note.8">Tamás
-                        Szalaházy.</note> si vos non praestabitis vestrum favorem et <milestone
-                        unit="pb"/>auxilium me absente in utraque re mea, ne scilicet contra regis
-                    promissum negligar semper, sed ut regia promissa mihi serventur, et ne meis,
-                    quae habui, tam indigne spolier, nescio in quo ultra sperare possim. Vale. </p>
+                        Agriensi</persName>,<note xml:id="note.8">Tamás Szalaházy.</note> si vos non
+                    praestabitis vestrum favorem et <milestone unit="pb"/>auxilium me absente in
+                    utraque re mea, ne scilicet contra regis promissum negligar semper, sed ut regia
+                    promissa mihi serventur, et ne meis, quae habui, tam indigne spolier, nescio in
+                    quo ultra sperare possim. Vale. </p>
                 <p xml:id="p.7"><placeName>Bruxellae</placeName> 10. Ianuarii 1535.</p>
             </div>
         </body>

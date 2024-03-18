@@ -209,7 +209,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -236,12 +235,11 @@
                     vestrae <del corresp="Olahus">reddidit</del><add corresp="Olahus" type="corr"
                         >fecit</add> testimonium. Litteras mandati regii, quas a nobis expediendas
                     optastis, misimus ad vos per dominum <persName>Paulum
-                        Bornemyzam</persName>.<note type="critic" xml:id="note.1">According to Ep.
-                        684., he sent Gergely Bornemisza, but that is likely to have been a mistake,
-                        and he was talking about Pál
-                        Bornemisza.<ref>olahus.tei.15480529_1</ref></note> Credimus nos hinc deo
-                    bene iuvante unacum <persName>maiestate regia</persName>, domino nostro
-                    clementissimo <add corresp="Olahus" type="insert"
+                        Bornemyzam</persName>.<note xml:id="note.1">According to Ep. 684., he sent
+                        Gergely Bornemisza, but that is likely to have been a mistake, and he was
+                        talking about Pál Bornemisza.<ref>olahus.tei.15480529_1</ref></note>
+                    Credimus nos hinc deo bene iuvante unacum <persName>maiestate regia</persName>,
+                    domino nostro clementissimo <add corresp="Olahus" type="insert"
                         >brevi</add><placeName>Wiennam</placeName> redituros. Et si quid in re
                     vestra reique publicae vestrae nobis per vos proponenda operae et auxilii
                     praestare istic poterimus, faciemus id perlibenter.</p>

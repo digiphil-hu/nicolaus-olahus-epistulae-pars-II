@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -230,17 +228,16 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao summe suo salutem. </p>
                 <p xml:id="p.2">Globus meus si perfectus est, <persName>Iacobo
-                        Fagnano</persName><note type="critic" xml:id="note.1">Giacomo
-                        Fagnano.</note> negotiatori Mediolanensi, qui
-                        <placeName>Antverpiae</placeName> agit, fac, per
-                        <persName>Bannisium</persName><note type="critic" xml:id="note.2">Jakob
-                        Radich de Bannisis the Younger.</note> tradatur. Is enim a me in mandatis
-                    habet, ut quamprimum eundem ad me mittat. <persName>Gritteus</persName><note
-                        type="critic" xml:id="note.3">Lodovico Gritti.</note> cum fratre et filio
-                        periit.<note type="critic" xml:id="note.4">Gritti was killed along with his
-                        two sons on 29 September, 1534, during the siege of Mediaș.</note> Utinam
-                    regi nostro omnia feliciter et ex sententia succedant, magnum certe adversarium
-                    fortuna ei intercepit. Vale et amicos omnes iubebis ex me salvere. </p>
+                        Fagnano</persName><note xml:id="note.1">Giacomo Fagnano.</note> negotiatori
+                    Mediolanensi, qui <placeName>Antverpiae</placeName> agit, fac, per
+                        <persName>Bannisium</persName><note xml:id="note.2">Jakob Radich de Bannisis
+                        the Younger.</note> tradatur. Is enim a me in mandatis habet, ut quamprimum
+                    eundem ad me mittat. <persName>Gritteus</persName><note xml:id="note.3">Lodovico
+                        Gritti.</note> cum fratre et filio periit.<note xml:id="note.4">Gritti was
+                        killed along with his two sons on 29 September, 1534, during the siege of
+                        Mediaș.</note> Utinam regi nostro omnia feliciter et ex sententia succedant,
+                    magnum certe adversarium fortuna ei intercepit. Vale et amicos omnes iubebis ex
+                    me salvere. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> XX. Novembris 1534.</p>
             </div>
         </body>

@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -242,47 +240,45 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Hodie accepi litteras tuas, quas XXIIII. Ianuarii ad me
-                        dedisti.<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> Ex his facile cognovi, quo in statu serenissimae
-                        <persName>reginae</persName> nostrae valetudo sit, utinam
-                        <persName>Candianum</persName><note type="critic" xml:id="note.2">Ambrogio
-                        Candiano.</note> audiat, cuius praeceptis si obtemperabit, non est, quod
-                    vereamur. <persName>Princeps meus</persName><note type="critic" xml:id="note.3"
+                        dedisti.<note xml:id="note.1">We do not know this letter.</note> Ex his
+                    facile cognovi, quo in statu serenissimae <persName>reginae</persName> nostrae
+                    valetudo sit, utinam <persName>Candianum</persName><note xml:id="note.2"
+                        >Ambrogio Candiano.</note> audiat, cuius praeceptis si obtemperabit, non
+                    est, quod vereamur. <persName>Princeps meus</persName><note xml:id="note.3"
                         >Francesco II Sforza.</note> litteras tuas libentissime legit et tibi
                     gratias agit, quod ex te solo Anglicas res et Monasterienses intellexit, et in
                     hac re frequentissimam operam tuam ei pollicitus sum. Quare invigilabis, ne me
                     mendacem dicat, quod ut facias te etiam atque etiam obtestor. Nunc primum ex
                         <placeName>Venetis</placeName> litteris accepimus
-                        <persName>Imbrahimum</persName><note type="critic" xml:id="note.4">Ibrahim
-                        Pargalı Pasha.</note> cum exercitu Turcico a Persa interceptum, et Turcarum
+                        <persName>Imbrahimum</persName><note xml:id="note.4">Ibrahim Pargalı
+                        Pasha.</note> cum exercitu Turcico a Persa interceptum, et Turcarum
                     imperatorem in Syria esse ad continendos in fide populos. Id ipsum Genuenses
                     attestantur litterae, si quid certius intelligam, curabo, ut scias. Rumor est in
                     maioribus syrtibus XXX triremes <persName>Aenobarbi</persName><note
-                        type="critic" xml:id="note.5">Hayreddin Barbarossa Pasha.</note> naufragium
-                    fecisse, et remiges ferme omnes pestilentia absumptos, classis caesaris erit
-                    omnino CC navium, triremes LXXX reliquae onerariae, et iam ferme omnis
-                    aedificata est et instructa. Exspectamus Germanos pedites per totum hunc mensem,
-                    qui una cum Hispano et Italo peditatu conscendent, velim, putes res nostras, id
-                    est caesaris Dei nostri in portu navigare, et nos stolidorum Gallorum levitates
-                    et nugas haud multum curare; sentient profecto, si descendent cum viris, se
-                    negotium habituros. <persName>Pontifex</persName><note type="critic"
-                        xml:id="note.6">Pope Paul III.</note> noster, si dis placet, <persName>regi
-                        Gallo</persName><note type="critic" xml:id="note.7">King Francis I.</note>
-                    duas decimas concessit, per causam instruent XXX triremes, quas eius auspiciis
-                    navigaturas pollicentur; si caesar voluerit et iste nebulo senex deliquerit,
-                    debitas poenas luet. Veneti in fide permanebunt et reliqui Italiae proceres.
-                    Audivimus <persName>ducem Sicambrium</persName><note type="critic"
-                        xml:id="note.8">According to the ancient historians, Sicambria was an area
-                        on the Lower Rhine inhabited by the Sicambers. For more, see <hi
-                            rend="smallcap">Eckhardt</hi> 1927; and <hi rend="smallcap"
-                            >Eckhardt</hi> 1927–1928.</note> ad Gallos defecisse fide labefactata.
-                    Tu, si ita est, fac me per litteras certiorem. Ensem, quem <milestone unit="pb"
-                    />cupis in reditu <persName>dominae Soatriae</persName>,<note type="critic"
-                        xml:id="note.9">Madame de Souvastre.</note> quae brevissime ad vos
-                    festinabit, habebis et fabrefactum et amorem nostrum augeri, tum sentiam, quando
-                    opera tui Gilini, Olae, uteris. Omnes amicos nostros et praesertim
-                        <persName>Dupplicium</persName><note type="critic" xml:id="note.10">Cornelis
-                        de Schepper.</note> nostrum salvere iubeo. Vale, Amice Optime. </p>
+                        xml:id="note.5">Hayreddin Barbarossa Pasha.</note> naufragium fecisse, et
+                    remiges ferme omnes pestilentia absumptos, classis caesaris erit omnino CC
+                    navium, triremes LXXX reliquae onerariae, et iam ferme omnis aedificata est et
+                    instructa. Exspectamus Germanos pedites per totum hunc mensem, qui una cum
+                    Hispano et Italo peditatu conscendent, velim, putes res nostras, id est caesaris
+                    Dei nostri in portu navigare, et nos stolidorum Gallorum levitates et nugas haud
+                    multum curare; sentient profecto, si descendent cum viris, se negotium
+                    habituros. <persName>Pontifex</persName><note xml:id="note.6">Pope Paul
+                        III.</note> noster, si dis placet, <persName>regi Gallo</persName><note
+                        xml:id="note.7">King Francis I.</note> duas decimas concessit, per causam
+                    instruent XXX triremes, quas eius auspiciis navigaturas pollicentur; si caesar
+                    voluerit et iste nebulo senex deliquerit, debitas poenas luet. Veneti in fide
+                    permanebunt et reliqui Italiae proceres. Audivimus <persName>ducem
+                        Sicambrium</persName><note xml:id="note.8">According to the ancient
+                        historians, Sicambria was an area on the Lower Rhine inhabited by the
+                        Sicambers. For more, see <hi rend="smallcap">Eckhardt</hi> 1927; and <hi
+                            rend="smallcap">Eckhardt</hi> 1927–1928.</note> ad Gallos defecisse fide
+                    labefactata. Tu, si ita est, fac me per litteras certiorem. Ensem, quem
+                        <milestone unit="pb"/>cupis in reditu <persName>dominae
+                        Soatriae</persName>,<note xml:id="note.9">Madame de Souvastre.</note> quae
+                    brevissime ad vos festinabit, habebis et fabrefactum et amorem nostrum augeri,
+                    tum sentiam, quando opera tui Gilini, Olae, uteris. Omnes amicos nostros et
+                    praesertim <persName>Dupplicium</persName><note xml:id="note.10">Cornelis de
+                        Schepper.</note> nostrum salvere iubeo. Vale, Amice Optime. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> VIIII. Februarii anno MDXXXV.</p>
             </div>
         </body>

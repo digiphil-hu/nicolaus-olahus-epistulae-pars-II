@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Conrad Wackers<idno type="ITIdata">Q470231</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,10 +238,9 @@
                 <p xml:id="p.1">Conradus Goclenius domino Olao thesaurario Albensi secretario
                     reginae Mariae. </p>
                 <p xml:id="p.2">Scio me impudenter facere, nec video, quo colore possim deprecari
-                    culpam, qui huic <persName>Franciscano</persName><note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note> litteras ad te
-                        dederim.<note type="critic" xml:id="note.2">See Ep.
-                            436.<ref>olahus.tei.15340102_1</ref></note> Sed, ut vere dicam,
+                    culpam, qui huic <persName>Franciscano</persName><note xml:id="note.1">We do not
+                        know him more closely.</note> litteras ad te dederim.<note xml:id="note.2"
+                        >See Ep. 436.<ref>olahus.tei.15340102_1</ref></note> Sed, ut vere dicam,
                     expugnavit me homo, ut est illud genus non nimis verecundum, assiduis
                     flagitationibus, ut aliquid litterarum ad Tuam Excellentiam darem, quo illi
                     aditus esset paratior ad ea, quae sine tuo sicut affirmat incommodo ambit. Tuo

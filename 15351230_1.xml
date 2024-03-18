@@ -192,11 +192,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -223,8 +221,8 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolaus Olahus Petro Nannio salutem plurimam dicit. </p>
-                <p xml:id="p.2">Declamationem,<note type="critic" xml:id="note.1"><hi rend="italic"
-                            >Declamatio de bello Turcis inferendo</hi>, see Ep.
+                <p xml:id="p.2">Declamationem,<note xml:id="note.1"><hi rend="italic">Declamatio de
+                            bello Turcis inferendo</hi>, see Ep.
                             554.<ref>olahus.tei.15351229_1</ref></note> qua, Doctissime Nanni, nuper
                     usus es in frequenti clarissimorum virorum consessu, heri ad multam noctem
                     accepi. Quae adeo mihi arrisit, tum ob argumentum pium et sanctum, tum ob
@@ -243,8 +241,8 @@
                     necessariam, maxime hoc tempore, in vulgum prodere debes. Quare fac, Optime
                     Nanni, ne nos et bonos omnes hac tua frustreris fetura. Quae autem mihi visa
                     sunt ad rem bene declamatam aliquid afferre posse cumuli, ex meis istis
-                        παρεκβατικῶς<note type="critic" xml:id="note.2">‘(discussed) through
-                        digressions’.</note> annotatis et huic epistolae subiunctis accipies. Vale. </p>
+                        παρεκβατικῶς<note xml:id="note.2">‘(discussed) through digressions’.</note>
+                    annotatis et huic epistolae subiunctis accipies. Vale. </p>
                 <p xml:id="p.3">Ex <placeName>Bruxella</placeName> tertio Kalendas Ianuarii
                     1535.</p>
             </div>

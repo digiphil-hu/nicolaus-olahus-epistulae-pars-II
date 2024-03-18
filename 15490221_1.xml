@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,15 +245,15 @@
                     </choice> denorum nummorum a dominis regnicolis et <choice>
                         <orig>sta<gap extent="unknown" reason="damage" unit="word"/>bus</orig>
                         <supplied>sta<corr>ti</corr>bus</supplied>
-                    </choice> in proxima congregatione Posoniensi<note type="critic" xml:id="note.1"
-                        >The diet began on 16 October, 1548.</note> nobis in <choice>
+                    </choice> in proxima congregatione Posoniensi<note xml:id="note.1">The diet
+                        began on 16 October, 1548.</note> nobis in <choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>um</orig>
                         <supplied><corr>…</corr>um</supplied>
                     </choice> sustentationem proxime oblatum est. Tunc temporis fueramus (uti
                     recordamur) super ea re unacum reverendissimo domino
-                        <persName>archiepiscopo</persName><note type="critic" xml:id="note.2">Pál
-                        Várday.</note> etc. Spectabili Magnificae Dominationi Vestrae locuti, ut
-                    eadem huius nostri oblati subsidii, in comitatibus <choice>
+                        <persName>archiepiscopo</persName><note xml:id="note.2">Pál Várday.</note>
+                    etc. Spectabili Magnificae Dominationi Vestrae locuti, ut eadem huius nostri
+                    oblati subsidii, in comitatibus <choice>
                         <orig>Cis<gap extent="unknown" reason="damage" unit="word"/>bium</orig>
                         <supplied>Cis<corr>danu</corr>bium</supplied>
                     </choice> habitis curam diligentem gerere. Servitii <choice>
@@ -281,20 +279,19 @@
                     Cisdanubium habitis diligenter et absque defectu aliquali exigi facere,
                     exactumque secundum registrum dicatorum et ad manus suas acceptum aut ad nos
                     nacta commoditate ubicumque Dei voluntate erimus mittere, aut si id fieri non
-                    posset, ad manus sive <persName>Kremmer</persName>,<note type="critic"
-                        xml:id="note.3">Wolfgang Kremer.</note> sive <persName>Lynk</persName><note
-                        type="critic" xml:id="note.4">Christoph Linck was a <hi rend="italic"
-                            >factor</hi> in Vienna and Steward, see <hi rend="smallcap">Sarusi
-                            Kiss</hi> 2009; and <hi rend="smallcap">Gecsényi</hi> 2010,
-                        15.</note><placeName>Viennae</placeName> assignari facere, qui nobis illud
-                    facile administrabunt. Quo vero haec decem nummorum pecunia rectius et sine
-                    damno exigi possit, scripsimus ad dominos consiliarios camerae, ut regestrum
-                    comitatuum, ex quibus deni illi nummi exigi debebant, ad Spectabilem Magnificam
-                    Dominationem Vestram mittant. Quod illos facere non diffidimus. Quicquid studii
-                    ac diligentiae hac in re eadem nobis praestiterit, nos idipsum omni genere
-                    amicitiae, et obsequiorum <milestone unit="pb"/>promereri apud Spectabilem
-                    Magnificam Dominationem Vestram studebimus, quam in reliquo optamus
-                    val&lt;ere&gt; felicissimam.</p>
+                    posset, ad manus sive <persName>Kremmer</persName>,<note xml:id="note.3"
+                        >Wolfgang Kremer.</note> sive <persName>Lynk</persName><note xml:id="note.4"
+                        >Christoph Linck was a <hi rend="italic">factor</hi> in Vienna and Steward,
+                        see <hi rend="smallcap">Sarusi Kiss</hi> 2009; and <hi rend="smallcap"
+                            >Gecsényi</hi> 2010, 15.</note><placeName>Viennae</placeName> assignari
+                    facere, qui nobis illud facile administrabunt. Quo vero haec decem nummorum
+                    pecunia rectius et sine damno exigi possit, scripsimus ad dominos consiliarios
+                    camerae, ut regestrum comitatuum, ex quibus deni illi nummi exigi debebant, ad
+                    Spectabilem Magnificam Dominationem Vestram mittant. Quod illos facere non
+                    diffidimus. Quicquid studii ac diligentiae hac in re eadem nobis praestiterit,
+                    nos idipsum omni genere amicitiae, et obsequiorum <milestone unit="pb"
+                    />promereri apud Spectabilem Magnificam Dominationem Vestram studebimus, quam in
+                    reliquo optamus val&lt;ere&gt; felicissimam.</p>
                 <p xml:id="p.3"><placeName>Pragae</placeName> 21. Februarii anno Domini 1549.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

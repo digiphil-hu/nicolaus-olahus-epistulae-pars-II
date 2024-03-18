@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,24 +234,24 @@
                     plurimam et servitiorum meorum commendationem! </p>
                 <p xml:id="p.2">Heri redditae mihi fuere litterae Dominationis Vestrae Magnificae ad
                         <persName>regiam maiestatem</persName>, dominum nostrum clementissimum et ad
-                    me datae. Expedivi mox litteras<note type="critic" xml:id="note.1">See Ep.
+                    me datae. Expedivi mox litteras<note xml:id="note.1">See Ep.
                             651.<ref>olahus.tei.15450108_1</ref></note> ad
-                        <persName>Adurnum</persName><note type="critic" xml:id="note.2">Hieronymus
-                        Adorno.</note> duplicatas, copiam earum ad Dominationem Vestram Magnificam
-                    misi, ut, quod ei scriptum sit, congnoscat. Titulus omnium quodammodo
-                    praeteritus est, ut et tutius litterae perferri possint, et res sine aliqua
-                    suspicione istic tractari. Litterae etiam ita moderatae et tamen verbis
-                    ponderosis scriptae sunt, <del corresp="Olahus">Quae</del><add corresp="Olahus"
-                        type="corr">ut</add> et captivum fratrem nostrum non videre possint, in
-                    maiorem gravedinem et nihilominus data sit <persName>Adurno</persName> potestas
-                    omnia pro ratione temporis, quae poterint, agendi. Eas omnes ad Dominationem
-                    Vestram Magnificam misi, si quibus in rebus tum nunc, tum in posterum
-                    Dominationi Vestrae Magnificae inservire potero, maxime in consequenda <choice>
+                        <persName>Adurnum</persName><note xml:id="note.2">Hieronymus Adorno.</note>
+                    duplicatas, copiam earum ad Dominationem Vestram Magnificam misi, ut, quod ei
+                    scriptum sit, congnoscat. Titulus omnium quodammodo praeteritus est, ut et
+                    tutius litterae perferri possint, et res sine aliqua suspicione istic tractari.
+                    Litterae etiam ita moderatae et tamen verbis ponderosis scriptae sunt, <del
+                        corresp="Olahus">Quae</del><add corresp="Olahus" type="corr">ut</add> et
+                    captivum fratrem nostrum non videre possint, in maiorem gravedinem et
+                    nihilominus data sit <persName>Adurno</persName> potestas omnia pro ratione
+                    temporis, quae poterint, agendi. Eas omnes ad Dominationem Vestram Magnificam
+                    misi, si quibus in rebus tum nunc, tum in posterum Dominationi Vestrae
+                    Magnificae inservire potero, maxime in consequenda <choice>
                         <orig><gap extent="unknown" reason="illegible" unit="word"/>ptate</orig>
                         <supplied>voluptate</supplied>
-                    </choice><note type="critic" xml:id="note.3">Uncertain reading.</note> ipsius
-                    praesentis nostri nihil faciam libentius. Nova nunc nulla. Exspectamus, quid in
-                    dieta Tirnaviensi concludatur. Dominatio Vestra Magnifica feliciter valeat.</p>
+                    </choice><note xml:id="note.3">Uncertain reading.</note> ipsius praesentis
+                    nostri nihil faciam libentius. Nova nunc nulla. Exspectamus, quid in dieta
+                    Tirnaviensi concludatur. Dominatio Vestra Magnifica feliciter valeat.</p>
                 <p xml:id="p.3">Ex <placeName>Praga</placeName> 10. Februarii 1545.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Frater et servitor Zagrabiensis sua manu</seg>

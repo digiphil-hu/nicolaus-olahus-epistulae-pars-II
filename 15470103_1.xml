@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Queen Mary<idno type="ITIdata">Q165927</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -250,19 +248,18 @@
                     humillimam commendationem!</p>
                 <p xml:id="p.2">[1.] Quae in montanis civitatibus et aliis bonis Vestrae Sacrae
                     Maiestatis agantur, cum dominus <persName>Robertus Haller</persName><note
-                        type="critic" xml:id="note.1">Ruprecht Haller.</note> ad eandem
-                    proficiscatur, non putam opus esse me de his ipsam certiorem facere. Heri accepi
-                    a quibusdam amicis meis quaedam scripta,<note type="critic" xml:id="note.2">We
-                        do not know this letter.</note> quae a quodam <persName>presbytero
-                        Constantinopoli</persName> agente missa fuerunt; ea ad Sacram Maiestatem
-                    Vestram misi, ut cognosceret Thurcam multa scire in his, quae in orbe nostro
-                    Christiano agantur, eaque ex Christianissimo vel diabolico potius <persName>rege
-                        Galliae</persName>.<note type="critic" xml:id="note.3">King Francis
+                        xml:id="note.1">Ruprecht Haller.</note> ad eandem proficiscatur, non putam
+                    opus esse me de his ipsam certiorem facere. Heri accepi a quibusdam amicis meis
+                    quaedam scripta,<note xml:id="note.2">We do not know this letter.</note> quae a
+                    quodam <persName>presbytero Constantinopoli</persName> agente missa fuerunt; ea
+                    ad Sacram Maiestatem Vestram misi, ut cognosceret Thurcam multa scire in his,
+                    quae in orbe nostro Christiano agantur, eaque ex Christianissimo vel diabolico
+                    potius <persName>rege Galliae</persName>.<note xml:id="note.3">King Francis
                         I.</note></p>
                 <p xml:id="p.3">Haec quoque sententia verba quidam meus amicus ex Transsylvania ad
-                    me scribit,<note type="critic" xml:id="note.4">We do not know this
-                        letter.</note> nihil iam certius habemus, quam quod Thurcarum imperator non
-                    solum <placeName>Wiennae</placeName> expugnationem parat, verum etiam totius
+                    me scribit,<note xml:id="note.4">We do not know this letter.</note> nihil iam
+                    certius habemus, quam quod Thurcarum imperator non solum
+                        <placeName>Wiennae</placeName> expugnationem parat, verum etiam totius
                     Austriae occupationem. Ad eam rem ex tributi collatione farina, hordeum et alia
                     ad commeatum pertinentia sub ferias nativitatis Christi ex mandato imperatoris
                         <placeName>Budam</placeName> et non <placeName>Pesth</placeName>

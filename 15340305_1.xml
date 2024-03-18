@@ -219,11 +219,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Adrien Amerot<idno type="ITIdata">Q470220</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,15 +245,15 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Hadrianum Amerotium responsio. </p>
                 <p xml:id="p.2">Cum nuper in legendo <persName>Luciani</persName> περὶ
-                        παρασίτου<note type="critic" xml:id="note.1">‘(On) the parasite.’</note>
-                    dialogo, locus quidam difficilior videretur, mihique inter aulicas curas et
-                    occupationes, quibus tunc distinebar, nullum otium esset ad te scribendi,
-                    commiseram <persName>Levino</persName>,<note type="critic" xml:id="note.2"
-                        >Lieven Algoet.</note> ut eum locum, in quo haerebamus, exscriberet, et meo
-                    nomine de eo te consuleret, quod ipse fecerat. Tu vero meo respondisti voto,
-                    eumque <persName>Luciani</persName> locum tam exquisite, docte et erudite
-                        explicasti,<note type="critic" xml:id="note.3">Ep.
-                            457.<ref>olahus.tei.15340218_1</ref></note> ut nihil visus sis
+                        παρασίτου<note xml:id="note.1">‘(On) the parasite.’</note> dialogo, locus
+                    quidam difficilior videretur, mihique inter aulicas curas et occupationes,
+                    quibus tunc distinebar, nullum otium esset ad te scribendi, commiseram
+                        <persName>Levino</persName>,<note xml:id="note.2">Lieven Algoet.</note> ut
+                    eum locum, in quo haerebamus, exscriberet, et meo nomine de eo te consuleret,
+                    quod ipse fecerat. Tu vero meo respondisti voto, eumque
+                        <persName>Luciani</persName> locum tam exquisite, docte et erudite
+                        explicasti,<note xml:id="note.3">Ep.
+                        457.<ref>olahus.tei.15340218_1</ref></note> ut nihil visus sis
                     praetermisisse, quod ad lucidam illius explanationem pertinuerit. Ego vero
                     admonueram <persName>M. Claudium</persName> familiarem tuum, qui hanc
                     explanationem attulerat, ut me inscio ad te non reverteretur, ut tibi
@@ -269,21 +267,20 @@
                     iterum, ego vero simili aulicarum rerum occupatione, tunc in aula apud
                         <persName>reginam</persName> nostram detentus fueram diutius, ignarus omnino
                     te huc advenisse. Postea vero quam ad hospitium revertissem et
-                        <persName>Danus</persName><note type="critic" xml:id="note.4">Jakob
-                        Jespersen.</note> mihi retulisset te adfuisse meque quaesivisse. Di boni,
-                    qua sum tristitia affectus, utpote qui tui praesentiam consequi hic non
-                    potuissem! Quam ob rem, mi Hadriane, <milestone unit="pb"/>quod prius facere
-                    debebam, nunc facio. Ago et habeo tibi gratias, qui <persName>Levini</persName>
-                    scriptis immo meis votis abunde responderis, si quando dabitur occasio, ut tibi
-                    gratificari possim, certo tibi persuade, me vicissim omnia, quae me facere
-                    velis, libentissime tui honoris causa facturum. Quod vero in extremo epistolae
-                    tuae adiungis te in omnibus rebus, quibus tuam operam sim desideraturus, meum
-                    futurum, vicissim de me quoque ita tibi pollicere, nullam rem me neglecturum,
-                    quam mea opera curavi, volueris. Vale et me, ut soles, ama, meoque omni, ut
-                    volueris, utere officio ad arbitrium tuum promptissimo. Quod vero tardius ad te
-                    rescripserim, quam tuus in me amor requirebat, ignosce, et meis occupationibus,
-                    quibus per hos omnes dies maxime fueram obrutus, magis tribue, quam quod tui in
-                    me officii fuerim immemor. </p>
+                        <persName>Danus</persName><note xml:id="note.4">Jakob Jespersen.</note> mihi
+                    retulisset te adfuisse meque quaesivisse. Di boni, qua sum tristitia affectus,
+                    utpote qui tui praesentiam consequi hic non potuissem! Quam ob rem, mi Hadriane,
+                        <milestone unit="pb"/>quod prius facere debebam, nunc facio. Ago et habeo
+                    tibi gratias, qui <persName>Levini</persName> scriptis immo meis votis abunde
+                    responderis, si quando dabitur occasio, ut tibi gratificari possim, certo tibi
+                    persuade, me vicissim omnia, quae me facere velis, libentissime tui honoris
+                    causa facturum. Quod vero in extremo epistolae tuae adiungis te in omnibus
+                    rebus, quibus tuam operam sim desideraturus, meum futurum, vicissim de me quoque
+                    ita tibi pollicere, nullam rem me neglecturum, quam mea opera curavi, volueris.
+                    Vale et me, ut soles, ama, meoque omni, ut volueris, utere officio ad arbitrium
+                    tuum promptissimo. Quod vero tardius ad te rescripserim, quam tuus in me amor
+                    requirebat, ignosce, et meis occupationibus, quibus per hos omnes dies maxime
+                    fueram obrutus, magis tribue, quam quod tui in me officii fuerim immemor. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> V. Martii 1534.</p>
             </div>
         </body>

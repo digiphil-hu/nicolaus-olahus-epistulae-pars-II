@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Lajos Pekry<idno type="ITIdata">Q31978</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,18 +238,17 @@
                     ad Magnificam Dominationem Vestram cum praesentibus perlatae sunt, domino
                         <persName>Andreae de Bathor</persName>, ut ratione telonei patientiam
                     habeat, neque novas iniurias suscitet, sed quiete exspectet iuris revisionem,
-                    quam dominus <persName>locumtenens</persName><note type="critic" xml:id="note.1"
-                        >Pál Várday.</note> praescribet. Magnifica Dominatio Vestra curet,
-                    quamprimum litteras suae maiestatis ad ipsum dominum
-                        <persName>Bathory</persName> expedire, et seipsam mandato suae maiestatis
-                    accommodare.</p>
+                    quam dominus <persName>locumtenens</persName><note xml:id="note.1">Pál
+                        Várday.</note> praescribet. Magnifica Dominatio Vestra curet, quamprimum
+                    litteras suae maiestatis ad ipsum dominum <persName>Bathory</persName> expedire,
+                    et seipsam mandato suae maiestatis accommodare.</p>
                 <p xml:id="p.3">Quod autem scribit Magnifica Dominatio Vestra recepta pristina
-                        sanitate<note type="critic" xml:id="note.2">In Ep. 654. Pekry does not
-                        mention his state of health.<ref>olahus.tei.15450521_1</ref></note> se in
-                    Sclavoniam profecturam, et ibi hominibus nostris auxilio adfuturam, id nobis
-                    gratum est. Eamque rogamus, ut cum illuc venerit, ope sua homines nostros iuvare
-                    non praetermittat. Nos hunc laborem Magnificae Dominationis Vestrae maioribus
-                    rebus reponemus. Quam bene valere optamus.</p>
+                        sanitate<note xml:id="note.2">In Ep. 654. Pekry does not mention his state
+                        of health.<ref>olahus.tei.15450521_1</ref></note> se in Sclavoniam
+                    profecturam, et ibi hominibus nostris auxilio adfuturam, id nobis gratum est.
+                    Eamque rogamus, ut cum illuc venerit, ope sua homines nostros iuvare non
+                    praetermittat. Nos hunc laborem Magnificae Dominationis Vestrae maioribus rebus
+                    reponemus. Quam bene valere optamus.</p>
                 <p xml:id="p.4">Datum <placeName>Vormatiae</placeName> 16. mensis Iunii 1545.</p>
                 <p xml:id="p.5">
                     <seg type="signature">
@@ -262,9 +259,9 @@
                 <p xml:id="p.6">
                     <add corresp="Olahus" type="insert">Litteras regias ad dominum
                             <persName>Bathori</persName> sonantes misi ad dominum
-                            <persName>Strigoniensem</persName>.<note type="critic" xml:id="note.3"
-                            >Pál Várday.</note> Ipse enim eas citius ad ipsum dominum Bathori
-                        mittere poterit.</add>
+                            <persName>Strigoniensem</persName>.<note xml:id="note.3">Pál
+                            Várday.</note> Ipse enim eas citius ad ipsum dominum Bathori mittere
+                        poterit.</add>
                 </p>
                 <pb/>
             </div>

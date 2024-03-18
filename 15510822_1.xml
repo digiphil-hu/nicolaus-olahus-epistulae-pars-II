@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,7 +242,7 @@
                 <pb/>
                 <p xml:id="p.1">Reverendissime Domine etc., servitiorum etc.!</p>
                 <p xml:id="p.2">[1.] Litteras sacrae <persName>regiae maiestatis</persName>, quibus
-                    nos sua maiestas gratiose consolari et confirmari digna est,<note type="critic"
+                    nos sua maiestas gratiose consolari et confirmari digna est,<note
                         xml:id="note.1">See Ep. 776.<ref>olahus.tei.15510808_1</ref></note> magna
                     cum gratulatione accepimus, et non dubitamus maiestatem suam serio pro
                     defensione nostra sollicitam esse, hoc unicum saltem veremur, ne
@@ -254,11 +252,11 @@
                     redigant, aut si secus fieri nequeat, igne et ferro perdat, ut modo regiae
                     maiestati incommodare queat. Ceterum maiestas sua regia misit ad nos cum
                     mandatis egregium dominum <persName>Wolfgangum Hamersbach</persName><note
-                        type="critic" xml:id="note.2">Johann Wolfgang Hammerspach was a Commander of
-                        the German Battalion in Szolnok, see <hi rend="smallcap">Kertész–Korpás</hi>
-                        2013, 437–438.</note> aulicum suae maiestatis, cui hos pedites, quos apud
-                    nos habemus, tradere deberemus, quos ipse pro defensione nostra disponere et
-                    regere deberet. Cum autem pedites isti ultra trecenti non sunt, quorum ducentos
+                        xml:id="note.2">Johann Wolfgang Hammerspach was a Commander of the German
+                        Battalion in Szolnok, see <hi rend="smallcap">Kertész–Korpás</hi> 2013,
+                        437–438.</note> aulicum suae maiestatis, cui hos pedites, quos apud nos
+                    habemus, tradere deberemus, quos ipse pro defensione nostra disponere et regere
+                    deberet. Cum autem pedites isti ultra trecenti non sunt, quorum ducentos
                     sexagintaquinque nos reliquos ceterae civitates intertenuerunt, civitates autem
                     suos iam pedites propter egestatem ipsarum dimiserunt, nos eadem de causa
                     nostros quoque partim ablegare cogebimur, partim tamen <milestone unit="pb"
@@ -278,20 +276,20 @@
                     incumbere, quo nos a militum onere liberemur. Nam isti trecenti pedites omnem
                     annonam in duplo hic tam brevi temporis spatio auxerunt. </p>
                 <p xml:id="p.3">[2.] Insuper, Reverendissime Domine, egregii domini
-                        <persName>Lypchey</persName><note type="critic" xml:id="note.3">Probably
-                        János Lipcsey.</note> commissionem quandam regiae maiestatis nobis
-                    praesentari curaverunt ratione conflatorii <persName>Augustini
-                        Schneider</persName><note type="critic" xml:id="note.4">We do not know him
-                        more closely.</note> concivis nostri, quod in territoriis suis exstructum
-                    esse asseverant, cum autem certi simus, non in ipsorum, sed huius civitatis
-                    regiae Sebniciensis <milestone unit="pb"/>territoriis exaedificatum et situm
-                    esse. Nunc autem tempus revidendarum metarum non sit, voluimus id Dominationi
-                    Vestrae Reverendissimae indicasse, ne nos quispiam apud eandem insimulare queat,
-                    tanquam commissioni maiestatis regiae minus oboedientes esse velimus.
-                    Supplicamus autem Dominationi Vestrae Reverendissimae, velit nobis adiutorio suo
-                    adesse et cavere, ne medio tempore domini <persName>Lypschei</persName> ex
-                    insidiis huius controversiae causa aliquid mali attentent, quemadmodum cum istis
-                    de S. Cruce non pridem et nunc denuo cum nece aliquorum <choice>
+                        <persName>Lypchey</persName><note xml:id="note.3">Probably János
+                        Lipcsey.</note> commissionem quandam regiae maiestatis nobis praesentari
+                    curaverunt ratione conflatorii <persName>Augustini Schneider</persName><note
+                        xml:id="note.4">We do not know him more closely.</note> concivis nostri,
+                    quod in territoriis suis exstructum esse asseverant, cum autem certi simus, non
+                    in ipsorum, sed huius civitatis regiae Sebniciensis <milestone unit="pb"
+                    />territoriis exaedificatum et situm esse. Nunc autem tempus revidendarum
+                    metarum non sit, voluimus id Dominationi Vestrae Reverendissimae indicasse, ne
+                    nos quispiam apud eandem insimulare queat, tanquam commissioni maiestatis regiae
+                    minus oboedientes esse velimus. Supplicamus autem Dominationi Vestrae
+                    Reverendissimae, velit nobis adiutorio suo adesse et cavere, ne medio tempore
+                    domini <persName>Lypschei</persName> ex insidiis huius controversiae causa
+                    aliquid mali attentent, quemadmodum cum istis de S. Cruce non pridem et nunc
+                    denuo cum nece aliquorum <choice>
                         <orig>innocentum</orig>
                         <supplied>innocentium</supplied>
                     </choice> hominum perpetraverunt. Dominationem Vestram Reverendissimam

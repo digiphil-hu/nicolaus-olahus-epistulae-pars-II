@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,14 +235,13 @@
                 <pb/>
                 <p xml:id="p.1">Camillus Gilinus Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Commodum tabellarius recesserat, cum nobis allatum fuit cardinalem
-                        <persName>Farnesium</persName><note type="critic" xml:id="note.1">Alessandro
-                        Farnese (1468–1549) was elected on 13 October, 1534 and became Pope Paul
-                        III. On the election see Ghilino’s previous letter: Ep.
+                        <persName>Farnesium</persName><note xml:id="note.1">Alessandro Farnese
+                        (1468–1549) was elected on 13 October, 1534 and became Pope Paul III. On the
+                        election see Ghilino’s previous letter: Ep.
                             514.<ref>olahus.tei.15341012_2</ref></note> pontificem designatum esse,
                     omniaque <placeName>Romae</placeName> pacata. Fama nos tenet
-                        <persName>Griteum</persName><note type="critic" xml:id="note.2">Lodovico
-                        Gritti was killed on 29 September, 1534.</note> Turcae a Dacis tuis civibus
-                    interfectum. </p>
+                        <persName>Griteum</persName><note xml:id="note.2">Lodovico Gritti was killed
+                        on 29 September, 1534.</note> Turcae a Dacis tuis civibus interfectum. </p>
                 <pb/>
                 <p xml:id="p.3">Utinam prius caesaris Turcarum sententiam super rebus Hungaricis
                     perscrutati essent, multa certe ex eo de Gallis et fortasse de Venetis et
@@ -252,18 +249,18 @@
                     aequi et iniqui intelligant, caesarum nostrorum <del corresp="Olahus"
                         >illustrissimarum</del><add corresp="Olahus" type="corr"
                         >illustrissimam</add> domum sibi oppido curae esse. <persName>Christophorus
-                        Auria</persName>,<note type="critic" xml:id="note.3">Cristoforo
-                        Doria.</note><persName>principis Auriae</persName><note type="critic"
-                        xml:id="note.4">Andrea Doria.</note> nepos ex sorore, qui pyraticam
-                    faciebat, in <placeName>Syriam</placeName> cum duabus actuariis navibus
-                    descendit et capta <placeName>Tyro</placeName><note type="critic"
-                        xml:id="note.5">Tyre.</note> depopulata et incensa transmittebat in
-                    Palestinam, certum habemus illum in hac expeditione IIII triremes et fustes V <choice>
+                        Auria</persName>,<note xml:id="note.3">Cristoforo
+                        Doria.</note><persName>principis Auriae</persName><note xml:id="note.4"
+                        >Andrea Doria.</note> nepos ex sorore, qui pyraticam faciebat, in
+                        <placeName>Syriam</placeName> cum duabus actuariis navibus descendit et
+                    capta <placeName>Tyro</placeName><note xml:id="note.5">Tyre.</note> depopulata
+                    et incensa transmittebat in Palestinam, certum habemus illum in hac expeditione
+                    IIII triremes et fustes V <choice>
                         <orig>Turcis</orig>
                         <supplied>Turcos</supplied>
                     </choice> intercepisse, et magnis divitiis auctum. Vale et me <persName>Virgini
-                        Lucretiae</persName><note type="critic" xml:id="note.6"> Lucretia Caballis
-                        (vom Ross).</note> plurimum commenda. </p>
+                        Lucretiae</persName><note xml:id="note.6"> Lucretia Caballis (vom
+                        Ross).</note> plurimum commenda. </p>
                 <p xml:id="p.4"><placeName>Mediolano</placeName> XV. Kalendas Novembris anno Domini
                     1534.</p>
             </div>

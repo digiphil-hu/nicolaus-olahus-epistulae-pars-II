@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,34 +238,32 @@
                 <p xml:id="p.1">Ad dominum cancellarium.</p>
                 <p xml:id="p.2">Reverendissime Domine, Domine et Patrone Observandissime,
                     servitiorum nostrae commendationem!</p>
-                <p xml:id="p.3">Reddidit <persName>magister postarum</persName><note type="critic"
-                        xml:id="note.1">Matthias Taxis was Postmaster general <hi rend="italic"
-                            >(supremus postarum magister)</hi> between 1548 and 1558, see <hi
-                            rend="smallcap">Ember</hi> 1946, 375–376.</note> regiae maiestatis hodie
-                    fasciculum litterarum, <del corresp="author">quibus</del><add corresp="author"
-                        type="corr">cui</add> et Reverendissimae Dominationis Vestrae litterae <add
-                        corresp="author" type="insert">ad nos</add> erant insertae significantes
-                    oportere, ut litterae regiae ad dominum <persName>Bathory</persName><note
-                        type="critic" xml:id="note.2">András (Bonaventura) Báthori.</note> et
-                            <persName><add corresp="author" type="insert">Georgium</add>
-                        Vernerum</persName>,<note type="critic" xml:id="note.3">Georg Werner.</note>
-                        citissime<note type="critic" xml:id="note.4">Uncertain reading.</note>
-                    dirigentur. Nos quidem perlibenter id facimus, quod a sua maiestate iubemur.
-                    Certa tamen sit Reverendissima Dominatio Vestra abesse ad
-                        <placeName>Cassoviam</placeName>,<note type="critic" xml:id="note.5"
-                        >Košice.</note> ad <placeName>Epperies</placeName><note type="critic"
-                        xml:id="note.6">Prešov.</note> et remota alia loca missos tres equites
-                    Camerae, quartus post longissima itinera hodie est reversus ita, ut per quem
-                    mittamur litterae, nullus sit ad manum. Hos autem quattuor equites ad negotia
-                    tamen proventuum maiestas regia hinc Camerae attribuit, ad quem etiam vix
-                    sufficiunt, ut necesse <del corresp="author">sit</del> videantur ea, quae
-                    negotium regiae maiestatis concernent vel reverendissimo domino
-                        <persName>locumtenenti</persName><note type="critic" xml:id="note.7">Ferenc
-                        Újlaki.</note> imponi et iniugi, vel alium modum excogitari. Impossibile est
-                    enim <del corresp="author">ut</del>, ut et Camerae et regiae maiestatis negotia
-                        <add corresp="author" type="insert">omnia</add> nos curemus opera quattuor
-                    equitum, non tutum est litteras maioris momenti occurrentibus et incertis
-                    hominibus committi. </p>
+                <p xml:id="p.3">Reddidit <persName>magister postarum</persName><note xml:id="note.1"
+                        >Matthias Taxis was Postmaster general <hi rend="italic">(supremus postarum
+                            magister)</hi> between 1548 and 1558, see <hi rend="smallcap">Ember</hi>
+                        1946, 375–376.</note> regiae maiestatis hodie fasciculum litterarum, <del
+                        corresp="author">quibus</del><add corresp="author" type="corr">cui</add> et
+                    Reverendissimae Dominationis Vestrae litterae <add corresp="author"
+                        type="insert">ad nos</add> erant insertae significantes oportere, ut
+                    litterae regiae ad dominum <persName>Bathory</persName><note xml:id="note.2"
+                        >András (Bonaventura) Báthori.</note> et <persName><add corresp="author"
+                            type="insert">Georgium</add> Vernerum</persName>,<note xml:id="note.3"
+                        >Georg Werner.</note> citissime<note xml:id="note.4">Uncertain
+                        reading.</note> dirigentur. Nos quidem perlibenter id facimus, quod a sua
+                    maiestate iubemur. Certa tamen sit Reverendissima Dominatio Vestra abesse ad
+                        <placeName>Cassoviam</placeName>,<note xml:id="note.5">Košice.</note> ad
+                        <placeName>Epperies</placeName><note xml:id="note.6">Prešov.</note> et
+                    remota alia loca missos tres equites Camerae, quartus post longissima itinera
+                    hodie est reversus ita, ut per quem mittamur litterae, nullus sit ad manum. Hos
+                    autem quattuor equites ad negotia tamen proventuum maiestas regia hinc Camerae
+                    attribuit, ad quem etiam vix sufficiunt, ut necesse <del corresp="author"
+                        >sit</del> videantur ea, quae negotium regiae maiestatis concernent vel
+                    reverendissimo domino <persName>locumtenenti</persName><note xml:id="note.7"
+                        >Ferenc Újlaki.</note> imponi et iniugi, vel alium modum excogitari.
+                    Impossibile est enim <del corresp="author">ut</del>, ut et Camerae et regiae
+                    maiestatis negotia <add corresp="author" type="insert">omnia</add> nos curemus
+                    opera quattuor equitum, non tutum est litteras maioris momenti occurrentibus et
+                    incertis hominibus committi. </p>
                 <p xml:id="p.4">Quare Reverendissimam Dominationem Vestram rogamus plurimum, velit
                     servare in directione litterarum <del corresp="author">talem</del> eum modum,
                     qui possibilis sit et cum plures habeant equites domini locumtenentis, cui

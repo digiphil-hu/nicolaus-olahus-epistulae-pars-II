@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Újlaki<idno type="ITIdata">Q91046</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,15 +236,14 @@
                         corresp="Olahus" type="insert">maiestati</add> benevole oblata sunt. Nihil
                     iam instare videtur, quam ut paremus nos ad futuram expeditionem. In
                     Transsilvania quoque et alibi circa <placeName>Waradinum</placeName><note
-                        type="critic" xml:id="note.1">Oradea.</note> res omnes prospere succedunt in
-                    Dei gloriam. Si <persName>Podmaniczki</persName><note type="critic"
-                        xml:id="note.2">Rafael Podmaniczy (†1558) was <hi rend="italic">ispán</hi>
-                        of Trencsén county from 1544. For more on his family and on him, see <hi
-                            rend="smallcap">Lukinich</hi> 1943.</note> ob eas rationes, quas
-                    Dominatio Vestra Reverendissima ex <del corresp="Olahus">ipsius</del><add
-                        corresp="Olahus" type="corr">illius</add> informatione perscripsi, ad
-                        <placeName>Palotham</placeName><note type="critic" xml:id="note.3">The
-                        castle of Palota (today: Várpalota) had been in the possession of this
+                        xml:id="note.1">Oradea.</note> res omnes prospere succedunt in Dei gloriam.
+                    Si <persName>Podmaniczki</persName><note xml:id="note.2">Rafael Podmaniczy
+                        (†1558) was <hi rend="italic">ispán</hi> of Trencsén county from 1544. For
+                        more on his family and on him, see <hi rend="smallcap">Lukinich</hi>
+                        1943.</note> ob eas rationes, quas Dominatio Vestra Reverendissima ex <del
+                        corresp="Olahus">ipsius</del><add corresp="Olahus" type="corr">illius</add>
+                    informatione perscripsi, ad <placeName>Palotham</placeName><note xml:id="note.3"
+                        >The castle of Palota (today: Várpalota) had been in the possession of this
                         family since 1533, <hi rend="smallcap">Lukinich</hi> 1943, 170–171.</note>
                     cum gentibus reverti <add corresp="Olahus" type="insert">nunc</add> non cogitat,
                     potest nihilominus suae maiestati aliter servire in locis aliis. Non erit id,

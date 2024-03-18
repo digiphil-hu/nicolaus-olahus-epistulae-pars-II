@@ -216,7 +216,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -249,30 +248,29 @@
                 </p>
                 <p xml:id="p.2">Binas tuas litteras accepi ante aliquot dies intra Septembrium et
                     Octobrium <milestone unit="pb"/>Kalendarum tempus ad me datas.<note
-                        type="critic" xml:id="note.1">We know five letters from Verancsics to Oláh
-                        during September and October 1550: Ep. 745., Ep. 746., Ep. 747., Ep. 748.,
-                        and Ep.
-                        749.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15500926_1</ref><ref>/o:olahus.tei.15500928_1</ref><ref>/o:olahus.tei.15501002_1</ref><ref>/o:olahus.tei.15501011_1</ref>
+                        xml:id="note.1">We know five letters from Verancsics to Oláh during
+                        September and October 1550: Ep. 745., Ep. 746., Ep. 747., Ep. 748., and Ep.
+                            749.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15500926_1</ref><ref>/o:olahus.tei.15500928_1</ref><ref>/o:olahus.tei.15501002_1</ref><ref>/o:olahus.tei.15501011_1</ref>
                     Habeo tibi magnas gratias, quod non praetermiseris me de his rebus facere
                     certiorem, quas ab aliis minus perspicue et copiose cognoveramus. Negotium
-                    lectoratus Strigoniensis,<note type="critic" xml:id="note.2">Verancsics aspired
-                        to the <hi rend="italic">officium lectoratus</hi> of Esztergom, see Ep.
+                    lectoratus Strigoniensis,<note xml:id="note.2">Verancsics aspired to the <hi
+                            rend="italic">officium lectoratus</hi> of Esztergom, see Ep.
                             745.<ref>olahus.tei.15500902_1</ref></note> spero, quod brevi pro voto
                     tuo expediam, habes enim principem tibi benignissimum, me paterne affectum,
                     eiusque donationis litteras, cum
                         <placeName>Agria</placeName><placeName>Viennam</placeName> redieris,
-                    invenies apud <placeName>Bonnam</placeName><note type="critic" xml:id="note.3"
-                        >Georg Bona.</note> meum sororium. Proinde mittam hoc triduo istuc
-                        <persName>Matthaeum Zerdahelinum</persName><note type="critic"
-                        xml:id="note.4">Máté Szerdahelyi was Provost of Myslina, see <hi
-                            rend="smallcap">Pirhalla</hi> 1899, 220–221; <hi rend="smallcap"
-                            >Erős</hi> 2018, 47–48.</note> secretarium meum in quibusdam rebus meis
-                    peculiaribus, cui te in omnibus collegam assignavi, iussique, ut nihil prorsus
-                    agat sine te et consilio tuo, quemadmodum ex eodem <persName>Matthaeo</persName>
-                    et ex litteris meis, quas ei ad te dedi, intelliges. Tu itaque interim, dum
-                        <milestone unit="pb"/><persName>Matthaeus</persName> advenit, tuas res <add
-                        corresp="author" type="insert">familiares</add> istic componas, quo postea
-                    confectis meis negotiis ad me remeare possis. Vale. </p>
+                    invenies apud <placeName>Bonnam</placeName><note xml:id="note.3">Georg
+                        Bona.</note> meum sororium. Proinde mittam hoc triduo istuc
+                        <persName>Matthaeum Zerdahelinum</persName><note xml:id="note.4">Máté
+                        Szerdahelyi was Provost of Myslina, see <hi rend="smallcap">Pirhalla</hi>
+                        1899, 220–221; <hi rend="smallcap">Erős</hi> 2018, 47–48.</note> secretarium
+                    meum in quibusdam rebus meis peculiaribus, cui te in omnibus collegam assignavi,
+                    iussique, ut nihil prorsus agat sine te et consilio tuo, quemadmodum ex eodem
+                        <persName>Matthaeo</persName> et ex litteris meis, quas ei ad te dedi,
+                    intelliges. Tu itaque interim, dum <milestone unit="pb"
+                        /><persName>Matthaeus</persName> advenit, tuas res <add corresp="author"
+                        type="insert">familiares</add> istic componas, quo postea confectis meis
+                    negotiis ad me remeare possis. Vale. </p>
                 <p xml:id="p.3">23. Octobris 1550. <placeName>Augustae</placeName>. </p>
             </div>
         </body>

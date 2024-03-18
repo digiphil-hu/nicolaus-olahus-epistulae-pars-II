@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
@@ -234,24 +232,23 @@
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime in Christo Frater ac Venerabiles
                     Devoti Fideles nobis Dilecti!</p>
-                <p xml:id="p.2">Ex supplici libello<note type="critic" xml:id="note.1">We do not
-                        know this document.</note> magnifici fidelis nobis dilecti
-                        <persName>Stephani de Lossuntz</persName><note type="critic" xml:id="note.2"
-                        >István Losonczy (†1552) was loyal to King John I, then changed sides and
-                        remained loyal to King Ferdinand I. In 1547, he became <hi rend="italic"
-                            >ispán</hi> of Nógrád county. From 1551, he was <hi rend="italic"
-                            >ispán</hi> of Temes county and participated in the Transylvanian
-                        campaign, see <hi rend="smallcap">Kenyeres</hi> 1982, 89. Sebestyén Tinódi
-                        Lantos’ lay commemorates his heroic death: <hi rend="italic">A vég
-                            Temes­várban Losonczi István haláláról</hi>.</note> comitis comitatus
-                    Neugradiensis hisce litteris nostris incluso <del corresp="scriba"
-                        >intelligetis</del><add corresp="scriba" type="insert">intelliget</add><add
-                        corresp="scriba" type="insert">Fidelitas Vestra</add> querelas ac gravamina
-                    sua contra et adversus quendam <persName>Iacobum</persName><note type="critic"
-                        xml:id="note.3">We do not know him more closely.</note> nuncupatum
-                    litteratum servitorem suum. Quoniam vero ipse quoque
-                        <persName>Iacobus</persName> posset praetendere aliquid iuris contra dicti
-                        <persName>Lossunzi</persName>, idcirco mandamus Fidelitati Vestrae, quod
+                <p xml:id="p.2">Ex supplici libello<note xml:id="note.1">We do not know this
+                        document.</note> magnifici fidelis nobis dilecti <persName>Stephani de
+                        Lossuntz</persName><note xml:id="note.2">István Losonczy (†1552) was loyal
+                        to King John I, then changed sides and remained loyal to King Ferdinand I.
+                        In 1547, he became <hi rend="italic">ispán</hi> of Nógrád county. From 1551,
+                        he was <hi rend="italic">ispán</hi> of Temes county and participated in the
+                        Transylvanian campaign, see <hi rend="smallcap">Kenyeres</hi> 1982, 89.
+                        Sebestyén Tinódi Lantos’ lay commemorates his heroic death: <hi
+                            rend="italic">A vég Temes­várban Losonczi István haláláról</hi>.</note>
+                    comitis comitatus Neugradiensis hisce litteris nostris incluso <del
+                        corresp="scriba">intelligetis</del><add corresp="scriba" type="insert"
+                        >intelliget</add><add corresp="scriba" type="insert">Fidelitas Vestra</add>
+                    querelas ac gravamina sua contra et adversus quendam
+                        <persName>Iacobum</persName><note xml:id="note.3">We do not know him more
+                        closely.</note> nuncupatum litteratum servitorem suum. Quoniam vero ipse
+                    quoque <persName>Iacobus</persName> posset praetendere aliquid iuris contra
+                    dicti <persName>Lossunzi</persName>, idcirco mandamus Fidelitati Vestrae, quod
                     summa cum diligentia utriusque partis querelas ac gravamina audiatis ac
                     perpendatis, et super illis plane statuat decernatque, quod aequum et iustum
                     fuerit, <del corresp="scriba">In qua sane fidelitas</del> ita ut neutri parti

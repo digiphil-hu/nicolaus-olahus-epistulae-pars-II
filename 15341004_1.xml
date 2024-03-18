@@ -212,7 +212,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -259,12 +258,11 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao <del corresp="editor">Olao</del> suo. </p>
                 <p xml:id="p.2">[1.] Ex <placeName>Brugis</placeName> ante dies quattuordecim
-                        scripsi<note type="critic" xml:id="note.1">Ep.
-                            507.<ref>olahus.tei.15340919_1</ref></note> ad Dominationem Vestram de
-                    abitu meo, quem conieci fore in brevi. Ad eas litteras, quas tum scripsi ad
-                        <persName>reginalem maiestatem</persName>, nihil dum mihi responsum fuit per
-                    eandem, nec per Reverendissimam Dominationem Vestram, solus
-                        <persName>Panormitanus</persName><note type="critic" xml:id="note.2">Jean II
+                        scripsi<note xml:id="note.1">Ep. 507.<ref>olahus.tei.15340919_1</ref></note>
+                    ad Dominationem Vestram de abitu meo, quem conieci fore in brevi. Ad eas
+                    litteras, quas tum scripsi ad <persName>reginalem maiestatem</persName>, nihil
+                    dum mihi responsum fuit per eandem, nec per Reverendissimam Dominationem
+                    Vestram, solus <persName>Panormitanus</persName><note xml:id="note.2">Jean II
                         Carondelet.</note> id fecit, quod exspectabam, quodque se facturum
                     receperat, hoc est, rescripsit. Quia tamen ex ipsius litteris deprehendi fore,
                     ut reginalis maiestas nonnulla ad me perscriberet, speravi una cum ipsius
@@ -280,8 +278,8 @@
                     excelsis habitat, neque periculis, neque laboribus, neque fortunis, neque vitae
                     meae peperci in rebus dominorum meorum, neque adhuc parcam, si modo sit ex usu
                     reipublicae. Temere autem nunquam me amplius obiiciam sicut fieri, neque verbis
-                    inductus, neque minis. Nam ut <persName>poeta</persName><note type="critic"
-                        xml:id="note.3">Sextus Propertius.</note> optime ait: </p>
+                    inductus, neque minis. Nam ut <persName>poeta</persName><note xml:id="note.3"
+                        >Sextus Propertius.</note> optime ait: </p>
                 <quote xml:id="quote.1">
                     <lg xml:id="lg.1">
                         <l xml:id="l.1">Mi natura dedit leges ex sanguine ductas,</l>
@@ -293,40 +291,37 @@
                 <p xml:id="p.3">Tantum abest, ut ullius fortunae metu inducar, neque admodum moveor
                     cupiditatibus, quae fere illudunt magnae parti hominum. Docuit enim me studium
                     philosophiae ab huiusmodi rebus alienum esse. Neque tamen incurius<note
-                        type="critic" xml:id="note.4">‘carefree’, see <hi rend="smallcap">Hoven</hi>
-                        2006, 274.</note> aut negligens omnino videri cuperem. Quare privatarum
-                    rerum eo libentius iniicio memoriam, et ut ostendam me Dominationi Vestrae nihil
-                    non maximum minimum fidere. Quare citra molestiam ubi tempus erit, Dominatio
-                    Vestra poterit admonere reginalem maiestatem, ut aerariis istis iubeat mei
-                    absentis rationem haberi. Nam etsi hoc fiat, adhuc satis indiligentes erunt in
-                    solvendo. Sufficit autem, ut intelligant maiestatis ipsius hanc esse voluntatem.
-                    Sequatur, quicquid potest. Scripsi de hac re ad <persName>Wolffgangum
-                        Haller</persName>. </p>
+                        xml:id="note.4">‘carefree’, see <hi rend="smallcap">Hoven</hi> 2006,
+                        274.</note> aut negligens omnino videri cuperem. Quare privatarum rerum eo
+                    libentius iniicio memoriam, et ut ostendam me Dominationi Vestrae nihil non
+                    maximum minimum fidere. Quare citra molestiam ubi tempus erit, Dominatio Vestra
+                    poterit admonere reginalem maiestatem, ut aerariis istis iubeat mei absentis
+                    rationem haberi. Nam etsi hoc fiat, adhuc satis indiligentes erunt in solvendo.
+                    Sufficit autem, ut intelligant maiestatis ipsius hanc esse voluntatem. Sequatur,
+                    quicquid potest. Scripsi de hac re ad <persName>Wolffgangum Haller</persName>. </p>
                 <p xml:id="p.4">[2.] De rebus Hungariae breviter dicam, quid sentiam. Intellexi
-                        <persName>Gritum</persName><note type="critic" xml:id="note.5">Lodovico
-                        Gritti.</note> post patratam caedem <persName>Emerici Cybach</persName><note
-                        type="critic" xml:id="note.6">In Gritti's absence, Imre Czibak plotted
-                        against him and became Deputy Voivode of Transylvania. Gritti later captured
-                        and beheaded him (12 August, 1534), as a result of which an uprising erupted
-                        against Gritti.</note> obsessum in oppido
-                        <placeName>Mitbisch</placeName><note type="critic" xml:id="note.7"
-                        >Mediaș.</note> et inde aufugisse <placeName>Bellogradum</placeName> amisso
-                    filio et aliis. Ea de re quid <milestone unit="pb"/>sentiam, hoc est.
-                        <persName>Ioannem Scepusiensem</persName><note type="critic" xml:id="note.8"
-                        >King John I.</note> et Hungaros omnes in extremam redactos esse
-                    necessitatem submittendi se <persName>Ferdinando</persName> regi, sine cuius
-                    auxiliis <persName>Grito</persName> pares esse non poterunt ex limitibus
-                    Turcorum adducturo quicquid illic est virium. Nam iussi sunt illi subesse
-                    sanchsachi omnes et efferate, tam ob acceptam ignominiam, quam ob
+                        <persName>Gritum</persName><note xml:id="note.5">Lodovico Gritti.</note>
+                    post patratam caedem <persName>Emerici Cybach</persName><note xml:id="note.6">In
+                        Gritti's absence, Imre Czibak plotted against him and became Deputy Voivode
+                        of Transylvania. Gritti later captured and beheaded him (12 August, 1534),
+                        as a result of which an uprising erupted against Gritti.</note> obsessum in
+                    oppido <placeName>Mitbisch</placeName><note xml:id="note.7">Mediaș.</note> et
+                    inde aufugisse <placeName>Bellogradum</placeName> amisso filio et aliis. Ea de
+                    re quid <milestone unit="pb"/>sentiam, hoc est. <persName>Ioannem
+                        Scepusiensem</persName><note xml:id="note.8">King John I.</note> et Hungaros
+                    omnes in extremam redactos esse necessitatem submittendi se
+                        <persName>Ferdinando</persName> regi, sine cuius auxiliis
+                        <persName>Grito</persName> pares esse non poterunt ex limitibus Turcorum
+                    adducturo quicquid illic est virium. Nam iussi sunt illi subesse sanchsachi
+                    omnes et efferate, tam ob acceptam ignominiam, quam ob
                         <persName>Griti</persName> iunioris caedem, filii, cui parabat praeter
                     episcopatum Agriensem dominium Transsylvaniae. Si bene meministi verborum inter
                     nos habitorum, facile intelliges, quorsum res spectent. </p>
-                <p xml:id="p.5">Est et vivente <persName>Imbrahimo</persName><note type="critic"
-                        xml:id="note.9"> Ibrahim Pargalı Pasha.</note> bassa timendum Hungaris a
-                    Thurcis, nisi inveniant rationem sese tutandi adversus illorum violentiam. Et
-                    nunc tempus est, quale nunquam erit, neque de Maio praeterito aliquid aliud
-                    arbitrare, fuit enim ille causa secutarum et secuturarum rerum nostrarum, quales
-                    nosti. </p>
+                <p xml:id="p.5">Est et vivente <persName>Imbrahimo</persName><note xml:id="note.9">
+                        Ibrahim Pargalı Pasha.</note> bassa timendum Hungaris a Thurcis, nisi
+                    inveniant rationem sese tutandi adversus illorum violentiam. Et nunc tempus est,
+                    quale nunquam erit, neque de Maio praeterito aliquid aliud arbitrare, fuit enim
+                    ille causa secutarum et secuturarum rerum nostrarum, quales nosti. </p>
                 <p xml:id="p.6">Omnino habet rex duo, e quibus potest alterum desumere aut neutrum.
                     Nam si servare vult pacem cum Turcis et permittere <persName>Gritum</persName>,
                     qui iam leaena amisso catulo severior, inhiabit sanguini Hungarorum, quibus

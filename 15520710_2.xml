@@ -206,7 +206,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Pál Gregorjánczy<idno type="ITIdata">Q59539</idno></persName>
                     <persName>Pál Bornemissza<idno type="ITIdata">Q240096</idno></persName>
@@ -214,7 +213,6 @@
                     <persName>Mihály Mérey<idno type="ITIdata">Q38164</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,20 +237,20 @@
                     servitiorum nostrorum humillimam commendationem!</p>
                 <p xml:id="p.2">Intelliget Sacra Maiestas Vestra ex litteris serenissimi regis
                         <persName>Maximiliani</persName>, domini nostri clementissimi, quibus de
-                    rebus dominus <persName>Lossonczy</persName><note type="critic" xml:id="note.1"
-                        >István Losonczy.</note> per suum internuntium huc missum supplicet.<note
-                        type="critic" xml:id="note.2">See Losonczy’s <hi rend="italic"
-                            >supplicatio</hi> to King Maximilian II on 29 June, 1552, ÖStA HHStA, UA
-                        AA Fasc. 64. Konv. B. fol. 176–177.</note> Tametsi igitur nobis dubium non
-                    erat, quin Sacra Vestra Maiestas petitionibus eiusdem domini
-                        <persName>Lossonczy</persName> accedente imprimis intercessione, serenissimi
-                    regis filii sui, clementer esset responsura, petente id tamen a nobis non tam
-                    ipso domino <persName>Lossonczy</persName>, quam causa ipsa, facere non
-                    potuimus, quin ea qua debemus summissione, supplicemus Vestrae Maiestati,
-                    dignetur postulationibus eiusdem domini <persName>Lossonczy</persName> benignum
-                    dare responsum, et ea illi concedere, quae petit, neque enim in his quicquam est
-                    eiusmodi quod non merito videatur a Vestra Maiestate posse impetrare. Quod si et
-                    rerum ac temporum spectetur status, et in quantum discrimen ipse dominus
+                    rebus dominus <persName>Lossonczy</persName><note xml:id="note.1">István
+                        Losonczy.</note> per suum internuntium huc missum supplicet.<note
+                        xml:id="note.2">See Losonczy’s <hi rend="italic">supplicatio</hi> to King
+                        Maximilian II on 29 June, 1552, ÖStA HHStA, UA AA Fasc. 64. Konv. B. fol.
+                        176–177.</note> Tametsi igitur nobis dubium non erat, quin Sacra Vestra
+                    Maiestas petitionibus eiusdem domini <persName>Lossonczy</persName> accedente
+                    imprimis intercessione, serenissimi regis filii sui, clementer esset responsura,
+                    petente id tamen a nobis non tam ipso domino <persName>Lossonczy</persName>,
+                    quam causa ipsa, facere non potuimus, quin ea qua debemus summissione,
+                    supplicemus Vestrae Maiestati, dignetur postulationibus eiusdem domini
+                        <persName>Lossonczy</persName> benignum dare responsum, et ea illi
+                    concedere, quae petit, neque enim in his quicquam est eiusmodi quod non merito
+                    videatur a Vestra Maiestate posse impetrare. Quod si et rerum ac temporum
+                    spectetur status, et in quantum discrimen ipse dominus
                         <persName>Lossonczy</persName> pro Vestrae Maiestatis regnique ac
                     reipublicae Christianae servitio se coniecerit, quantoque in periculo versetur,
                     diligentius secum Maiestas Vestra reputarit, uti eandem facere non dubitamus.
@@ -272,25 +270,25 @@
                     <seg type="signature">
                         <add corresp="author" type="insert">Zagrabiensis</add>
                     </seg>
-                    <note type="critic" xml:id="note.3">Pál Gregorjánczy.</note>
+                    <note xml:id="note.3">Pál Gregorjánczy.</note>
                 </p>
                 <p xml:id="p.7">
                     <seg type="signature">
                         <add corresp="author" type="insert">Vesprimiensis</add>
                     </seg>
-                    <note type="critic" xml:id="note.4">Pál Bornemissza.</note>
+                    <note xml:id="note.4">Pál Bornemissza.</note>
                 </p>
                 <p xml:id="p.8">
                     <seg type="signature">
                         <add corresp="author" type="insert">Franciscus de Batian manu propria</add>
                     </seg>
-                    <note type="critic" xml:id="note.5">Ferenc Batthyány.</note>
+                    <note xml:id="note.5">Ferenc Batthyány.</note>
                 </p>
                 <p xml:id="p.9">
                     <seg type="signature">
                         <add corresp="author" type="insert">Merey manu propria</add>
                     </seg>
-                    <note type="critic" xml:id="note.6">Mihály Mérey.</note>
+                    <note xml:id="note.6">Mihály Mérey.</note>
                 </p>
             </div>
         </body>

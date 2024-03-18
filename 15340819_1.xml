@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,29 +245,28 @@
                 <p xml:id="p.2">Accidit proximis diebus casus admodum luctuosus non tantum familiae
                         <milestone unit="pb"/>meae, sed toti huic Lovanensi Academiae. Noctu quidam
                     ex meis convictoribus hinc avectus est <placeName>Viluortiam</placeName>,<note
-                        type="critic" xml:id="note.1">Vilvoorde.</note> illicque in carcerem
-                    coniectus, iuvenis sane apprime nobilis, ac quantum convictores mei atque ego
-                    iudicare potuimus, alienissimus a crimine haereseos, ob quod fertur comprehensus
-                    esse. Idem de eo asserunt tres doctores ac unus licentiatus, apud quos
-                    habitavit, priusquam in aedes meas migrarit. Praedicant et id ipsum alii,
-                    quibuscum hic consuetudinem ac conversationem habuit. Excusa est etiam eius
-                    bibliotheca ab eis, quibus hoc negotium ab Academia commissum erat: nullusque in
-                    ea est inventus liber de haeresi suspectus. Scio te legisse
-                        <persName>Luciani</persName> commentarium περὶ τοῦ μὴ ῥᾳδίως πιστεύειν
-                        διαβολῇ,<note type="critic" xml:id="note.2">‘Why shouldn’t we readely
-                        believe slander?’ The English title of the work is <hi rend="italic">On
-                            Calumny</hi>.</note> idcirco non puto opus esse, ut exemplis illinc
+                        xml:id="note.1">Vilvoorde.</note> illicque in carcerem coniectus, iuvenis
+                    sane apprime nobilis, ac quantum convictores mei atque ego iudicare potuimus,
+                    alienissimus a crimine haereseos, ob quod fertur comprehensus esse. Idem de eo
+                    asserunt tres doctores ac unus licentiatus, apud quos habitavit, priusquam in
+                    aedes meas migrarit. Praedicant et id ipsum alii, quibuscum hic consuetudinem ac
+                    conversationem habuit. Excusa est etiam eius bibliotheca ab eis, quibus hoc
+                    negotium ab Academia commissum erat: nullusque in ea est inventus liber de
+                    haeresi suspectus. Scio te legisse <persName>Luciani</persName> commentarium
+                    περὶ τοῦ μὴ ῥᾳδίως πιστεύειν διαβολῇ,<note xml:id="note.2">‘Why shouldn’t we
+                        readely believe slander?’ The English title of the work is <hi rend="italic"
+                            >On Calumny</hi>.</note> idcirco non puto opus esse, ut exemplis illinc
                     sumptis nitar ostendere, quam multi saepe innocentissimi in summum periculum τῇ
-                    τῶν ἐχθρῶν διαβολῇ<note type="critic" xml:id="note.3">‘due to slandering the
-                        enemy’.</note> pervenerunt. Quid autem sit, ob quod hic quidam mussitent
-                    hunc nimirum in suspitionem huius criminis incidisse, <del corresp="Olahus"
-                        >auctus</del><add corresp="Olahus" type="corr">audies</add> facile ex
-                    latoribus huius epistolae. Ego cum certi nihil habeam, non ausus sum multorum
-                    coniecturam meis litteris inserere. Oramur igitur te, quam possumus maxime,
-                    Domine Consiliarie Observandissime, ut adsis legatis universitatis nostrae, quo
-                    possint assequi a serenissima regina, ut hic reus tractetus iuxta consuetudinem
-                    et privilegium nostrae universitatis. Quae autem sit illa exponent ipsi legati.
-                    Bene vale, Olae Doctissime. Raptim. </p>
+                    τῶν ἐχθρῶν διαβολῇ<note xml:id="note.3">‘due to slandering the enemy’.</note>
+                    pervenerunt. Quid autem sit, ob quod hic quidam mussitent hunc nimirum in
+                    suspitionem huius criminis incidisse, <del corresp="Olahus">auctus</del><add
+                        corresp="Olahus" type="corr">audies</add> facile ex latoribus huius
+                    epistolae. Ego cum certi nihil habeam, non ausus sum multorum coniecturam meis
+                    litteris inserere. Oramur igitur te, quam possumus maxime, Domine Consiliarie
+                    Observandissime, ut adsis legatis universitatis nostrae, quo possint assequi a
+                    serenissima regina, ut hic reus tractetus iuxta consuetudinem et privilegium
+                    nostrae universitatis. Quae autem sit illa exponent ipsi legati. Bene vale, Olae
+                    Doctissime. Raptim. </p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> XIX. Augusti 1534.</p>
             </div>
         </body>

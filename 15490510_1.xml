@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName> Christoph Linck</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
@@ -240,19 +238,19 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Hochwirdiger herr unnd fursst! </p>
-                <p xml:id="p.2">Mir hat <persName>Alexannder Rokawy</persName><note type="critic"
-                        xml:id="note.1">Sándor Rokawy.</note> vonn. e. f. g.<note type="critic"
-                        xml:id="note.2">I.e. eure fürstliche Gnade.</note> wegenn zwgestellt stuckh
-                    300 allerlei gold, tut zw 10 ß fur ein gulden, per ait 420 f.,<note
-                        type="critic" xml:id="note.3">I.e. Florin.</note> was ich nu fur meine
-                    herrn, und was ich selbst empfangen, eurn f. gnaden schuldig bin. Das ist e. f.
-                    g. woll wissennt, wem eur. f. g. solchs verschafft, will ich das gellt erlegenn.
-                    Allain beger ich, das mir meine obligattionn und quitung, die ich e. f. g.
-                    gebenn hab, auch die ich dem <persName>Alexannder</persName> geben hab, widerumb
-                    werden gegen uberantwortung des geltes herausgegebenn. Der anndern sahen halb
-                    schreib ich e. f. g. <gap extent="unknown" reason="illegible" unit="word"/>ier,
-                    wie e. f. g. wol verstett, was ich maine. Thwe mich e. f. gnaden dinstlich
-                    bevelhen, die gnad Gotts mit unns allen.</p>
+                <p xml:id="p.2">Mir hat <persName>Alexannder Rokawy</persName><note xml:id="note.1"
+                        >Sándor Rokawy.</note> vonn. e. f. g.<note xml:id="note.2">I.e. eure
+                        fürstliche Gnade.</note> wegenn zwgestellt stuckh 300 allerlei gold, tut zw
+                    10 ß fur ein gulden, per ait 420 f.,<note xml:id="note.3">I.e. Florin.</note>
+                    was ich nu fur meine herrn, und was ich selbst empfangen, eurn f. gnaden
+                    schuldig bin. Das ist e. f. g. woll wissennt, wem eur. f. g. solchs verschafft,
+                    will ich das gellt erlegenn. Allain beger ich, das mir meine obligattionn und
+                    quitung, die ich e. f. g. gebenn hab, auch die ich dem
+                        <persName>Alexannder</persName> geben hab, widerumb werden gegen
+                    uberantwortung des geltes herausgegebenn. Der anndern sahen halb schreib ich e.
+                    f. g. <gap extent="unknown" reason="illegible" unit="word"/>ier, wie e. f. g.
+                    wol verstett, was ich maine. Thwe mich e. f. gnaden dinstlich bevelhen, die gnad
+                    Gotts mit unns allen.</p>
                 <p xml:id="p.3">Dattum <placeName>Wienn</placeName> 10. Maii anno 49<hi rend="super"
                         >ten</hi>. </p>
                 <p xml:id="p.4">E. f. g. williger </p>

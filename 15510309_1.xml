@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,28 +229,27 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime Fidelis nobis Dilecte! </p>
-                <p xml:id="p.2">Reddidit nobis litteras<note type="critic" xml:id="note.1">We do not
-                        know this letter.</note> Devotionis Tuae <persName>Gregorius
-                        Bornemissa</persName><note type="critic" xml:id="note.2">Gergely
-                        Bornemissza.</note> nuntius reverendissimi <persName>episcopi
-                        Waradiensis</persName>,<note type="critic" xml:id="note.3">George
-                        Martinuzzi.</note> qui hodie huc <placeName>Augustam</placeName><note
-                        type="critic" xml:id="note.4">Augsburg.</note> applicuit, nosque <del
-                        corresp="scriba">tamen</del><add corresp="scriba" type="corr">primum</add> a
-                    meridie inter secundam et tertiam horam convenit et mandata sua nobis exposuit.
-                    Cum utro <del corresp="scriba"> cras discessivi</del> cras discedere et intra
-                    octiduum <placeName>Viennam</placeName> dante Deo pervenire statuerimus, eiusdem
+                <p xml:id="p.2">Reddidit nobis litteras<note xml:id="note.1">We do not know this
+                        letter.</note> Devotionis Tuae <persName>Gregorius
+                        Bornemissa</persName><note xml:id="note.2">Gergely Bornemissza.</note>
+                    nuntius reverendissimi <persName>episcopi Waradiensis</persName>,<note
+                        xml:id="note.3">George Martinuzzi.</note> qui hodie huc
+                        <placeName>Augustam</placeName><note xml:id="note.4">Augsburg.</note>
+                    applicuit, nosque <del corresp="scriba">tamen</del><add corresp="scriba"
+                        type="corr">primum</add> a meridie inter secundam et tertiam horam convenit
+                    et mandata sua nobis exposuit. Cum utro <del corresp="scriba"> cras
+                        discessivi</del> cras discedere et intra octiduum
+                        <placeName>Viennam</placeName> dante Deo pervenire statuerimus, eiusdem
                     nuntii expeditionem eo usque differendam esse censuimus, ut illis omnibus <del
                         corresp="scriba">maturius deliberare</del> ponderitis <del corresp="scriba"
                         >eo</del><add corresp="scriba" type="corr">tanto</add> melius respondere, et
                     deinde ipsum nuntium, quem <del corresp="scriba">eo etiamsi</del> pro nunc eo
-                    remisimus, recta ad ipsum <persName>Waradiensem</persName><note type="critic"
-                        xml:id="note.5">Martinuzzi was also Bishop of Oradea.</note><del
-                        corresp="scriba">ac remittere</del><add corresp="scriba" type="corr"
-                        >expedire</add> possimus. Quod <del corresp="scriba">tibi</del><add
-                        corresp="scriba" type="corr">Devotioni Tuae</add> ideo significamus, ut in
-                    adventu istic nostro <del corresp="scriba">nobis tu</del> Devotio Tua quoque ibi
-                    adsit. </p>
+                    remisimus, recta ad ipsum <persName>Waradiensem</persName><note xml:id="note.5"
+                        >Martinuzzi was also Bishop of Oradea.</note><del corresp="scriba">ac
+                        remittere</del><add corresp="scriba" type="corr">expedire</add> possimus.
+                    Quod <del corresp="scriba">tibi</del><add corresp="scriba" type="corr">Devotioni
+                        Tuae</add> ideo significamus, ut in adventu istic nostro <del
+                        corresp="scriba">nobis tu</del> Devotio Tua quoque ibi adsit. </p>
                 <p xml:id="p.3">Datum <placeName>Augustae</placeName> die 9. Martii 1551.</p>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

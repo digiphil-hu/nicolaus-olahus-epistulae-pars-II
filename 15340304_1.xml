@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -255,20 +253,20 @@
                     scriptu dignum. Nec meum officium scribendi intermisi, sed a multo tempore nihil
                     fuit, de quo scribere potuissem. Et praeterea postquam vidi nullum istic rerum
                     mearum progressum fieri, <persName>Valentinumque Thewrek</persName><note
-                        type="critic" xml:id="note.1">Bálint Török.</note> mea perinde ac hostis
-                    exigua bona vi tenere, in qua re aliquoties ad te scripsi, in rebus his meis
-                    privatis toties tibi obstrepere <add corresp="Olahus" type="insert">nolui</add>. </p>
+                        xml:id="note.1">Bálint Török.</note> mea perinde ac hostis exigua bona vi
+                    tenere, in qua re aliquoties ad te scripsi, in rebus his meis privatis toties
+                    tibi obstrepere <add corresp="Olahus" type="insert">nolui</add>. </p>
                 <p xml:id="p.3">In aliis vero publicis nihil erat, in quo scribendum esset, praeter
-                    verborum scriptorumque inter <persName>pontificem</persName><note type="critic"
+                    verborum scriptorumque inter <persName>pontificem</persName><note
                         xml:id="note.2">Pope Clement VII.</note> et <persName>regem
-                        Angliae</persName><note type="critic" xml:id="note.3">King Henry
-                        VIII.</note> concertationem. Qui excommunicationem propter repudiatam
-                        <persName>reginam</persName><note type="critic" xml:id="note.4">Catherine of
+                        Angliae</persName><note xml:id="note.3">King Henry VIII.</note>
+                    concertationem. Qui excommunicationem propter repudiatam
+                        <persName>reginam</persName><note xml:id="note.4">Catherine of
                         Aragon.</note> contra se latam inique ferens, nunc indies ex Anglia famosos
-                    contra pontificem emittit libellos,<note type="critic" xml:id="note.5"><hi
-                            rend="italic">libellus famosus</hi> (plur. <hi rend="italic">libelli
-                            famosi</hi>) means ‘defamatory publication’, ‘libel’ or ‘pasquinades’.
-                        See Ep. 463. Cap. 2. and Ep. 471. Cap.
+                    contra pontificem emittit libellos,<note xml:id="note.5"><hi rend="italic"
+                            >libellus famosus</hi> (plur. <hi rend="italic">libelli famosi</hi>)
+                        means ‘defamatory publication’, ‘libel’ or ‘pasquinades’. See Ep. 463. Cap.
+                        2. and Ep. 471. Cap.
                         1.<ref>olahus.tei.15340304_2</ref></note><ref>/o:olahus.tei.15340312_1</ref>
                     qui aperte illius inoboedientiam et contemptum pontificis declarant; quae sicuti
                     nihil mea intereat, ita <del corresp="Olahus">malim</del><add corresp="Olahus"
@@ -292,16 +290,16 @@
                     scriberet et rebus aliquibus aut privatis aut publicis se immisceret, sed etiam
                     ne domo egrederetur, verum speramus eam vernis amoenisque his temporibus
                     advenientibus, convalituram; tunc ad te scribet. </p>
-                <p xml:id="p.5">[3.] <persName>Gritei</persName><note type="critic" xml:id="note.6"
-                        >Lodovico Gritti.</note> exitus tardior est, quam deberet; qui si etiam
-                    venerit, quid ab eo sperari possit boni in partem regis, nescio. Prius erat mihi
-                    spes aliqua, ut regnum miserum <add corresp="Olahus" type="insert">illud</add>
-                    aliquando pristinam suam libertatem recuperaturum esset. Nunc aut parva est, aut
-                    nulla, nisi Deus ultra humanam rationem miraculo rem Hungariae in pristinam
-                    redderet aut dignitatem, aut libertatem. Utcumque sit, credo te et alios dominos
-                    in rem maiestatis regiae consulturos, ne vestro tempore regnum illud perire
-                    possit, tam nobile, praeclarum et nuper inclytissimum. In meis rebus, si quid
-                    authoritate tua facere poteris, rogo, fac et effice, ut <persName>Valentinus
+                <p xml:id="p.5">[3.] <persName>Gritei</persName><note xml:id="note.6">Lodovico
+                        Gritti.</note> exitus tardior est, quam deberet; qui si etiam venerit, quid
+                    ab eo sperari possit boni in partem regis, nescio. Prius erat mihi spes aliqua,
+                    ut regnum miserum <add corresp="Olahus" type="insert">illud</add> aliquando
+                    pristinam suam libertatem recuperaturum esset. Nunc aut parva est, aut nulla,
+                    nisi Deus ultra humanam rationem miraculo rem Hungariae in pristinam redderet
+                    aut dignitatem, aut libertatem. Utcumque sit, credo te et alios dominos in rem
+                    maiestatis regiae consulturos, ne vestro tempore regnum illud perire possit, tam
+                    nobile, praeclarum et nuper inclytissimum. In meis rebus, si quid authoritate
+                    tua facere poteris, rogo, fac et effice, ut <persName>Valentinus
                         Thewrek</persName> mea bona remittat. Non sum regis hostis, non patriae, non
                     illius, sed potius ut mea fert conditio, horum omnium fidelis et bonus servitor, <choice>
                         <orig>nonque</orig>

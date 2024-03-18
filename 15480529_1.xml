@@ -209,7 +209,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -233,13 +232,13 @@
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici Honorandissimi, salutem et
                     nostri commendationem!</p>
                 <p xml:id="p.2">Referet vel nuntiabit nonnulla Dominationibus Vestris nomine nostro
-                    egregius dominus <persName>Gregorius Bornemyza</persName><note type="critic"
-                        xml:id="note.1">Gergely Bornemisza. According this letter, he sent Gergely
-                        Bornemisza, but that is likely to have been a mistake, and he was talking
-                        about Pál Bornemisza, see Ep. 685.<ref>olahus.tei.15480602_1</ref></note>
-                    aulicus regius. Rogamus igitur Dominationes Vestras, velint amicitiae nostrae
-                    intuitu ea perficere, ad quae praefatus Bornemyza easdem nomine nostro rogaverit
-                    et hortabitur, ut gratias eisdem coram habere et referre possimus.</p>
+                    egregius dominus <persName>Gregorius Bornemyza</persName><note xml:id="note.1"
+                        >Gergely Bornemisza. According this letter, he sent Gergely Bornemisza, but
+                        that is likely to have been a mistake, and he was talking about Pál
+                        Bornemisza, see Ep. 685.<ref>olahus.tei.15480602_1</ref></note> aulicus
+                    regius. Rogamus igitur Dominationes Vestras, velint amicitiae nostrae intuitu ea
+                    perficere, ad quae praefatus Bornemyza easdem nomine nostro rogaverit et
+                    hortabitur, ut gratias eisdem coram habere et referre possimus.</p>
                 <p xml:id="p.3">Dominationes Vestrae bene valeant.</p>
                 <p xml:id="p.4">Ex <placeName>Augusta Vindelicorum</placeName> 29. Maii 1548.</p>
                 <p xml:id="p.5">

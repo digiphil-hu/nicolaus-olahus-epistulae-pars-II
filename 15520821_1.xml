@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,15 +234,14 @@
                 <p xml:id="p.2">Ea, de quibus Dominatio Vestra nobis scripsit, intelleximus,
                     litteras regiae maiestatis pro Dominatione Vestra necessarias expeditas ad eam
                     misimus. De aliis rebus locuti fuimus nuper cum domino <persName>Francisco
-                        Bathyany</persName>,<note type="critic" xml:id="note.1">Ferenc
-                        Batthyány.</note> qui respondit se curaturum esse, ut bona de manu
-                        <persName>Laurentii litterati Palffy</persName><note type="critic"
-                        xml:id="note.2">Lőrinc Pálffy († after 1557), often called <hi rend="italic"
-                            >litteratus</hi>, a prosecutor and a magistrate of the Royal Court, see
-                            <hi rend="smallcap">Nagy</hi> 1862, 39.</note> liberentur. Quae etiam in
-                    praesentia liberari non possunt, se tamen daturum esse Dominationi Vestrae
-                    tantum, quantum proventus bonorum illorum hoc anno facerent. Dominationem Vestra
-                    bene valere optamus.</p>
+                        Bathyany</persName>,<note xml:id="note.1">Ferenc Batthyány.</note> qui
+                    respondit se curaturum esse, ut bona de manu <persName>Laurentii litterati
+                        Palffy</persName><note xml:id="note.2">Lőrinc Pálffy († after 1557), often
+                        called <hi rend="italic">litteratus</hi>, a prosecutor and a magistrate of
+                        the Royal Court, see <hi rend="smallcap">Nagy</hi> 1862, 39.</note>
+                    liberentur. Quae etiam in praesentia liberari non possunt, se tamen daturum esse
+                    Dominationi Vestrae tantum, quantum proventus bonorum illorum hoc anno facerent.
+                    Dominationem Vestra bene valere optamus.</p>
                 <p xml:id="p.3">Datum <placeName>Viennae</placeName> 21. Augusti.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

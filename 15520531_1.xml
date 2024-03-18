@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,30 +241,28 @@
                     commendationem! </p>
                 <p xml:id="p.2">Credo Sacratissimam Maiestatem Vestram gratiose meminisse, qualem
                     deliberationem facere dignata erat in negotio abbatiae Sancti Gothardi,<note
-                        type="critic" xml:id="note.1">Szentgotthárd Abbey.</note> ut illam dominae
-                        <persName>uxor comitis ab Ark</persName><note type="critic" xml:id="note.2"
-                        >Margit Széchy married Pyrrhus Arco in 1551, see Ep.
-                            811.<ref>olahus.tei.15520526_1</ref></note> et
-                        <persName>coniuges</persName><note type="critic" xml:id="note.3">Báthori’s
-                        first wife was Anna Thurzó, while his the second wife was Katalin
-                        Mindszenti. Jaroslav von Pernstein married Erzsébet Thurzó of Bethlenfalva
-                        in 1552.</note><persName>Andreae Bathory</persName><note type="critic"
-                        xml:id="note.4">András (Bonaventura) Báthori.</note> ac ipsius <persName>a
-                        Pernstan</persName>,<note type="critic" xml:id="note.5">Jaroslav von
-                        Pernstein was the eldest son of Johann von Pernstein.</note> quae ius
-                    patronatus in ipsa abbatia conferenda habent, alicui religioso vel saltem
-                    ecclesiastico viro, qui habitum assumeret, conferre deberent,<note type="critic"
-                        xml:id="note.6">For this, see also Ep. 812. Cap.
-                            3.<ref>olahus.tei.15520526_2</ref></note> ea conditione, ut ille, qui
-                    futurus esset abbas, trecentos Florenos filio quondam domini <persName>comitis
-                        Nicolai</persName>,<note type="critic" xml:id="note.7">Niklas von
+                        xml:id="note.1">Szentgotthárd Abbey.</note> ut illam dominae <persName>uxor
+                        comitis ab Ark</persName><note xml:id="note.2">Margit Széchy married Pyrrhus
+                        Arco in 1551, see Ep. 811.<ref>olahus.tei.15520526_1</ref></note> et
+                        <persName>coniuges</persName><note xml:id="note.3">Báthori’s first wife was
+                        Anna Thurzó, while his the second wife was Katalin Mindszenti. Jaroslav von
+                        Pernstein married Erzsébet Thurzó of Bethlenfalva in
+                        1552.</note><persName>Andreae Bathory</persName><note xml:id="note.4">András
+                        (Bonaventura) Báthori.</note> ac ipsius <persName>a
+                        Pernstan</persName>,<note xml:id="note.5">Jaroslav von Pernstein was the
+                        eldest son of Johann von Pernstein.</note> quae ius patronatus in ipsa
+                    abbatia conferenda habent, alicui religioso vel saltem ecclesiastico viro, qui
+                    habitum assumeret, conferre deberent,<note xml:id="note.6">For this, see also
+                        Ep. 812. Cap. 3.<ref>olahus.tei.15520526_2</ref></note> ea conditione, ut
+                    ille, qui futurus esset abbas, trecentos Florenos filio quondam domini
+                        <persName>comitis Nicolai</persName>,<note xml:id="note.7">Niklas von
                         Salm.</note> cui antea ipsa abbatia, per ipsas dominas, pari voto, collata
                     fuerat, ad sustentationem studiorum ipsius quotannis ad certos annos dare
                     deberet. Nunc <persName>Andreas Bathory</persName> et ipse <persName>a
                         Pernsthan</persName>, inscia ipsa <persName>domina Zechy, uxore comitis ab
-                        Ark</persName>,<note type="critic" xml:id="note.8">Margit Széchy.</note>
-                    abbatiam ipsam cuidam praesbitero dederunt. Et ipsa quoque <persName>comitissa
-                        ab Ark</persName>, inscia illorum donationis, et quia etiam est soror maior
+                        Ark</persName>,<note xml:id="note.8">Margit Széchy.</note> abbatiam ipsam
+                    cuidam praesbitero dederunt. Et ipsa quoque <persName>comitissa ab
+                        Ark</persName>, inscia illorum donationis, et quia etiam est soror maior
                     natu praefatarum dominarum, ac ex bonis suis avitis et paternis abbatia ipsa
                     fundata erat, cuidam religioso viro contulit. Et utraque pars mihi tamquam
                     Sacratissimae Maiestatis Vestrae minimo servitori et cancellario in Hungaria
@@ -279,8 +275,8 @@
                     negligitur. </p>
                 <p xml:id="p.3">Meo iudicio <persName>uxor ipsius ab Ark</persName>, tum quod
                     abbatia ipsa non a matris, sed patris sui, <persName>Zechy</persName> maioribus
-                    fundata est, et <persName>filiae Thurzonis</persName><note type="critic"
-                        xml:id="note.9">Anna Thurzó and Erzsébet Thurzó.</note> saltem ex patris <choice>
+                    fundata est, et <persName>filiae Thurzonis</persName><note xml:id="note.9">Anna
+                        Thurzó and Erzsébet Thurzó.</note> saltem ex patris <choice>
                         <orig>eorum</orig>
                         <supplied>earum</supplied>
                     </choice>, a Sacratissima Maiestate Vestra impetrata gratia, aliquid interesse

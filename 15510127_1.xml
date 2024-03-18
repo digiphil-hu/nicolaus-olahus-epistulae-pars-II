@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,42 +234,40 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Frater Observandissime,
                     servitiorum meorum commendationem! </p>
                 <p xml:id="p.2"><persName>Maiestas regia</persName>, dominus noster clementissimus
-                    ad Dominicam Invocavit<note type="critic" xml:id="note.1">15 February.</note>
-                    ibit hinc <placeName>Oenipontem</placeName>,<note type="critic" xml:id="note.2"
-                        >Innsbruck.</note> magis filiarum suarum inivisendarum, quam aliarum rerum
-                    gratia, deinde recta <placeName>Wiennam</placeName>, ad primum diem Martii. Ego
-                    nisi vi trahar, recta hinc <placeName>Wiennam</placeName> Deo volente
-                    proficiscar. De <placeName>Posonio</placeName> non obliviscar, nondum data est
-                    occasio bona. <persName>Kechethi</persName><note type="critic" xml:id="note.3"
-                        >Márton Kecseti was Tamás Szalaházy’s nephew, thanks to whom he became
-                        Bishop of Veszprém between 1527 and 1548. He then resigned from the
-                        bishopric and got married. He died on 13 January, 1551 in Bratislava, in
-                        miserable conditions, see <hi rend="smallcap">Fazekas</hi> 2007, 33.</note>
-                    pauper mortuus est, nescio, qualiter, ut audio, periculosum est <quote
-                        xml:id="quote.1">aurum tangere Tolosanum</quote><note type="quote"
-                        xml:id="note.quote.1">Gell. <hi rend="italic">Noct. Att.</hi>
-                        3,9,7.</note><note type="critic" xml:id="note.4">This proverb refers to a
-                        person who has bad luck.</note> et <quote xml:id="quote.2">equum
-                        Seianum.</quote><note type="quote" xml:id="note.quote.2">Gell. <hi
-                            rend="italic">Noct. Att.</hi> 3,9.</note><note type="critic"
-                        xml:id="note.5">According to the proverb, anyone who possessed this horse
-                        died, together with their entire family.</note> Mea sententia in officiis et
-                    aliis omnibus regni et nostrorum omnium liberalitas inviolate semper
-                    observabitur, sed quid inter tot unus? Alii ne digito quidem rem attingere aut
-                    volunt, aut ex corde cogitant, ut commodi ita laboris et curae deberent esse
-                    participes. Ego nihil unquam me praetermisisse memini, quod ad dignitatem
-                    regiam, simul etiam nostram libertatem et permansionem pertinere fui arbitratus,
-                    neque deinceps et supplicando et orando praetermittam. </p>
-                <p xml:id="p.3">Surculos serenissima regia exspectat,<note type="critic"
-                        xml:id="note.6">See Ep. 757.<ref>olahus.tei.15510106_1</ref></note> ego vero
-                    responsum de specificatione rerum quondam fratris
-                        <persName>Francisci</persName>.<note type="critic" xml:id="note.7">Ferenc
-                        Frangepán, see Ep. 757. Cap. 1.<ref>olahus.tei.15510106_1</ref></note>
-                    Caesarea et regia maiestates unacum regibus et principibus, laus Deo, bene
-                    valent. Dominationem Vestram feliciter <del corresp="Olahus">valere opto</del>
-                    cum domina <persName>coniuge</persName><note type="critic" xml:id="note.8"
-                        >Orsolya Kanizsai.</note> sua carissima, domina mea valere opto, quibus me
-                    commendo.</p>
+                    ad Dominicam Invocavit<note xml:id="note.1">15 February.</note> ibit hinc
+                        <placeName>Oenipontem</placeName>,<note xml:id="note.2">Innsbruck.</note>
+                    magis filiarum suarum inivisendarum, quam aliarum rerum gratia, deinde recta
+                        <placeName>Wiennam</placeName>, ad primum diem Martii. Ego nisi vi trahar,
+                    recta hinc <placeName>Wiennam</placeName> Deo volente proficiscar. De
+                        <placeName>Posonio</placeName> non obliviscar, nondum data est occasio bona.
+                        <persName>Kechethi</persName><note xml:id="note.3">Márton Kecseti was Tamás
+                        Szalaházy’s nephew, thanks to whom he became Bishop of Veszprém between 1527
+                        and 1548. He then resigned from the bishopric and got married. He died on 13
+                        January, 1551 in Bratislava, in miserable conditions, see <hi
+                            rend="smallcap">Fazekas</hi> 2007, 33.</note> pauper mortuus est,
+                    nescio, qualiter, ut audio, periculosum est <quote xml:id="quote.1">aurum
+                        tangere Tolosanum</quote><note type="quote" xml:id="note.quote.1">Gell. <hi
+                            rend="italic">Noct. Att.</hi> 3,9,7.</note><note xml:id="note.4">This
+                        proverb refers to a person who has bad luck.</note> et <quote
+                        xml:id="quote.2">equum Seianum.</quote><note type="quote"
+                        xml:id="note.quote.2">Gell. <hi rend="italic">Noct. Att.</hi>
+                        3,9.</note><note xml:id="note.5">According to the proverb, anyone who
+                        possessed this horse died, together with their entire family.</note> Mea
+                    sententia in officiis et aliis omnibus regni et nostrorum omnium liberalitas
+                    inviolate semper observabitur, sed quid inter tot unus? Alii ne digito quidem
+                    rem attingere aut volunt, aut ex corde cogitant, ut commodi ita laboris et curae
+                    deberent esse participes. Ego nihil unquam me praetermisisse memini, quod ad
+                    dignitatem regiam, simul etiam nostram libertatem et permansionem pertinere fui
+                    arbitratus, neque deinceps et supplicando et orando praetermittam. </p>
+                <p xml:id="p.3">Surculos serenissima regia exspectat,<note xml:id="note.6">See Ep.
+                            757.<ref>olahus.tei.15510106_1</ref></note> ego vero responsum de
+                    specificatione rerum quondam fratris <persName>Francisci</persName>.<note
+                        xml:id="note.7">Ferenc Frangepán, see Ep. 757. Cap.
+                            1.<ref>olahus.tei.15510106_1</ref></note> Caesarea et regia maiestates
+                    unacum regibus et principibus, laus Deo, bene valent. Dominationem Vestram
+                    feliciter <del corresp="Olahus">valere opto</del> cum domina
+                        <persName>coniuge</persName><note xml:id="note.8">Orsolya Kanizsai.</note>
+                    sua carissima, domina mea valere opto, quibus me commendo.</p>
                 <p xml:id="p.4">Ex <placeName>Augusta</placeName> 27. Ianuarii 1551.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Servitor et frater Agriensis etc. manu sua.</seg>

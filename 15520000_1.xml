@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -227,14 +225,13 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Sacratissime Rex Domine, Domine Clementissime!</p>
-                <p xml:id="p.2"><persName>Tharnoczy</persName><note type="critic" xml:id="note.1"
-                        >András Tarnóczy was Captain-in-chief of the armed boatmen of Komárom until
-                        October 1551 when King Ferdinand I relieved him of his service, see <hi
-                            rend="smallcap">Ember</hi> 1990, 70.</note> scribit<note type="critic"
-                        xml:id="note.2">On Tarnóczy’s earlier letters, see <hi rend="smallcap"
-                            >Takáts</hi> 1906, 17–20.</note> ad me haec nova, quae hodie accepi,
-                    misique ea ad Sacratissimam Maiestatem Vestram, ut intelligere dignetur, qualia
-                    sint.</p>
+                <p xml:id="p.2"><persName>Tharnoczy</persName><note xml:id="note.1">András Tarnóczy
+                        was Captain-in-chief of the armed boatmen of Komárom until October 1551 when
+                        King Ferdinand I relieved him of his service, see <hi rend="smallcap"
+                            >Ember</hi> 1990, 70.</note> scribit<note xml:id="note.2">On Tarnóczy’s
+                        earlier letters, see <hi rend="smallcap">Takáts</hi> 1906, 17–20.</note> ad
+                    me haec nova, quae hodie accepi, misique ea ad Sacratissimam Maiestatem Vestram,
+                    ut intelligere dignetur, qualia sint.</p>
                 <p xml:id="p.3">
                     <seg type="signature">Servitor fidelis et humilis Agriensis</seg>
                 </p>

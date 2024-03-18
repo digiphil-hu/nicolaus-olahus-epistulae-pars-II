@@ -209,7 +209,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -233,11 +232,11 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad viceplebanum Myskolcz.<note type="critic" xml:id="note.1">We do
-                        not know the name of the Deputy Parish Priest of Miskolc. According to
-                        Dobrossy, the Deputy Parish Priest did not respond to any of Oláh’s letters
-                        because he could not write or was a Lutheran, see <hi rend="smallcap"
-                            >Dobrossy</hi> 2000, 173.</note></p>
+                <p xml:id="p.1">Ad viceplebanum Myskolcz.<note xml:id="note.1">We do not know the
+                        name of the Deputy Parish Priest of Miskolc. According to Dobrossy, the
+                        Deputy Parish Priest did not respond to any of Oláh’s letters because he
+                        could not write or was a Lutheran, see <hi rend="smallcap">Dobrossy</hi>
+                        2000, 173.</note></p>
                 <p xml:id="p.2">Superioribus temporibus scripseram ad te, ut me certum redderes de
                     rebus plebaniae, quomodo scilicet eas curares, et quid iam a biennio <del
                         corresp="Olahus">perceperis</del><add corresp="Olahus" type="corr"

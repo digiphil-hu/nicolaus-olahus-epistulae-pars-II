@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Erasmus Schets<idno type="ITIdata">Q470240</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,23 +229,22 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Erasmus Schetus Nicolao Olao secretario Mariae reginae. </p>
-                <p xml:id="p.2">Accepi tuae humanitatis epistolam<note type="critic" xml:id="note.1"
-                        >We do not know this letter.</note> simul ea sarcina, quam carissimo nobis
+                <p xml:id="p.2">Accepi tuae humanitatis epistolam<note xml:id="note.1">We do not
+                        know this letter.</note> simul ea sarcina, quam carissimo nobis
                         <persName>Erasmo Rotterodamo</persName> transmitti desideras; fide me huic
                     officio non defuturum. Curabo namque, ut quamprimum accipiat. Summe mihi
-                    placuit, quod apud inclitam reginam sic institeris,<note type="critic"
-                        xml:id="note.2">See Ep. 471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note>
-                    ut aemulorum <persName>Erasmi</persName> aliquot rabulas, quae hic sub praelo
-                    sunt, supprimi iubeat. Utinam iam non esset serum, vereor iam acervos aliquot
-                    exiisse. <persName>Marchionem</persName><note type="critic" xml:id="note.3"
-                        >Probably William van den Werwe, see Ep. 471. Cap.
-                            2.<ref>olahus.tei.15340312_1</ref></note> nostrum officio suo alias non
-                    defuturum puto. Est namque vir bonus optimorum doctissimorumque, non indevotus
-                    mihique gratissimus et amantissimus. Tibi vero, quam plus valeo, pro hoc tuo
-                    erga <persName>Erasmum</persName> affectu, ago gratias simulque pro tua mihi
-                    oblata amicitia. Si quid obvenerit, quod hanc tuam erga me humanitatem experiri
-                    poscat, scias me adoriturum te liberius et licentius. Et tu, precor, erga me fac
-                    simile. Vale. </p>
+                    placuit, quod apud inclitam reginam sic institeris,<note xml:id="note.2">See Ep.
+                        471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note> ut aemulorum
+                        <persName>Erasmi</persName> aliquot rabulas, quae hic sub praelo sunt,
+                    supprimi iubeat. Utinam iam non esset serum, vereor iam acervos aliquot exiisse.
+                        <persName>Marchionem</persName><note xml:id="note.3">Probably William van
+                        den Werwe, see Ep. 471. Cap. 2.<ref>olahus.tei.15340312_1</ref></note>
+                    nostrum officio suo alias non defuturum puto. Est namque vir bonus optimorum
+                    doctissimorumque, non indevotus mihique gratissimus et amantissimus. Tibi vero,
+                    quam plus valeo, pro hoc tuo erga <persName>Erasmum</persName> affectu, ago
+                    gratias simulque pro tua mihi oblata amicitia. Si quid obvenerit, quod hanc tuam
+                    erga me humanitatem experiri poscat, scias me adoriturum te liberius et
+                    licentius. Et tu, precor, erga me fac simile. Vale. </p>
                 <p xml:id="p.3">Ex <placeName>Antverpia</placeName> XI. Martii anno a Christo nato
                     1534.</p>
             </div>

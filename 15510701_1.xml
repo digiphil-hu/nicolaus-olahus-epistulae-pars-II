@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Révay<idno type="ITIdata">Q53802</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -252,35 +250,34 @@
                     facturam. Nondum tamen ad ea intelligere potui, an id fuerit, hodie enim summo
                     mane profecta est venatum. Si ego bene recordor, litterae hae
                         <persName>Pekry</persName> vel apud dominos cameraros Hungaros, vel apud
-                        <persName>directorem causarum</persName>,<note type="critic" xml:id="note.1"
-                        >János Zomor.</note> si quae sunt, esse habentur, nam si tractatione
-                        scoriarum<note type="critic" xml:id="note.2"><hi rend="italic">scoria</hi>
-                        meaning ‘stabulum equorum’, see <hi rend="smallcap">DuCange</hi>
-                        1883.</note> memini tales litteras; nescio, an per dominum
-                        <persName>Nadasdi</persName>, vel per camerarios Austriacos, qui
-                        <persName>Pekry</persName> negotium, si memini, tractarunt, eo fuisse
-                    missas. Quare Dominatio Vestra istic <placeName>Pisonii</placeName><note
-                        type="critic" xml:id="note.3">Bratislava.</note> apud dominos camerarios vel
-                    directorem causarum de eis sciscitetur. Ego quoque cum primum maiestas sua
-                    redierit, suam maiestatem regiam hac in re interpellabo. Litterarum regiarum
-                        <add corresp="Olahus" type="insert">copiam</add>, quae datae erant ipsi
+                        <persName>directorem causarum</persName>,<note xml:id="note.1">János
+                        Zomor.</note> si quae sunt, esse habentur, nam si tractatione scoriarum<note
+                        xml:id="note.2"><hi rend="italic">scoria</hi> meaning ‘stabulum equorum’,
+                        see <hi rend="smallcap">DuCange</hi> 1883.</note> memini tales litteras;
+                    nescio, an per dominum <persName>Nadasdi</persName>, vel per camerarios
+                    Austriacos, qui <persName>Pekry</persName> negotium, si memini, tractarunt, eo
+                    fuisse missas. Quare Dominatio Vestra istic <placeName>Pisonii</placeName><note
+                        xml:id="note.3">Bratislava.</note> apud dominos camerarios vel directorem
+                    causarum de eis sciscitetur. Ego quoque cum primum maiestas sua redierit, suam
+                    maiestatem regiam hac in re interpellabo. Litterarum regiarum <add
+                        corresp="Olahus" type="insert">copiam</add>, quae datae erant ipsi
                         <persName>Pekry</persName>, requiri feci in libro regio, quam ad
                     Dominationem Vestram mitto. </p>
                 <p xml:id="p.3">[2.] Statim post mortem
-                        <persName>Pekry</persName><persName>vidua</persName><note type="critic"
-                        xml:id="note.4">Lajos Pekry’s second wife was Erzsébet Báthori (†1562), see
-                            <hi rend="smallcap">Nagy</hi> 1862, 200.</note> eius miserat ad
-                    maiestatem regiam duos suos, si bene memini, servitores, quorum medio
-                    supplicabat, ut eam maiestas regia acciperet, veluti viduam et orbam marito in
-                    protectionem et tutelam suam regiam. Deinde, ut dare dignatum ei illam communem
-                    prorogationem infra annum, quae solet dari viduis, iure et suo et <milestone
-                        unit="pb"/>consuetudine regni, ex consilii deliberatione maiestas sua illi
-                    haec more solito concessit. Nondum tunc <del corresp="Olahus">fuit</del>
-                    quicquam maiestas sua vel cogitaverat, vel deliberaverat de repetitione, si bene
-                    recordor, arcis <persName>Pekry</persName>, postea ea per maiestatem suam de
-                    illa repetenda fuerint deliberata et conclusa, quae Dominatio Vestra Magnifica
-                    scit. Misi itaque et copiam prolixationis illius, quae etsi ante deliberationem
-                    maiestatis regiae fuit emanata. Non videtur tamen mihi <choice>
+                        <persName>Pekry</persName><persName>vidua</persName><note xml:id="note.4"
+                        >Lajos Pekry’s second wife was Erzsébet Báthori (†1562), see <hi
+                            rend="smallcap">Nagy</hi> 1862, 200.</note> eius miserat ad maiestatem
+                    regiam duos suos, si bene memini, servitores, quorum medio supplicabat, ut eam
+                    maiestas regia acciperet, veluti viduam et orbam marito in protectionem et
+                    tutelam suam regiam. Deinde, ut dare dignatum ei illam communem prorogationem
+                    infra annum, quae solet dari viduis, iure et suo et <milestone unit="pb"
+                    />consuetudine regni, ex consilii deliberatione maiestas sua illi haec more
+                    solito concessit. Nondum tunc <del corresp="Olahus">fuit</del> quicquam maiestas
+                    sua vel cogitaverat, vel deliberaverat de repetitione, si bene recordor, arcis
+                        <persName>Pekry</persName>, postea ea per maiestatem suam de illa repetenda
+                    fuerint deliberata et conclusa, quae Dominatio Vestra Magnifica scit. Misi
+                    itaque et copiam prolixationis illius, quae etsi ante deliberationem maiestatis
+                    regiae fuit emanata. Non videtur tamen mihi <choice>
                         <orig>illam</orig>
                         <supplied>illa</supplied>
                     </choice> obesse posse arcis ipsius repetitioni et recuperationi, quia vidua

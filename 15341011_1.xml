@@ -218,11 +218,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -262,12 +260,11 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolaus Olaus Cornelio Scepero suo salutem. </p>
-                <p xml:id="p.2">[1.] Septima huius accepi litteras tuas,<note type="critic"
-                        xml:id="note.1">Ep. 509.<ref>olahus.tei.15341004_1</ref></note> quas ex
-                        <placeName>Cameraco</placeName><note type="critic" xml:id="note.2"
-                        >Cambrai.</note> quarto huius ipsius ad me dederas. Conquereris nec
-                        <persName>reginam</persName>, nec me ad te rescripsisse ad priores
-                        tuas,<note type="critic" xml:id="note.3">Ep.
+                <p xml:id="p.2">[1.] Septima huius accepi litteras tuas,<note xml:id="note.1">Ep.
+                            509.<ref>olahus.tei.15341004_1</ref></note> quas ex
+                        <placeName>Cameraco</placeName><note xml:id="note.2">Cambrai.</note> quarto
+                    huius ipsius ad me dederas. Conquereris nec <persName>reginam</persName>, nec me
+                    ad te rescripsisse ad priores tuas,<note xml:id="note.3">Ep.
                             507.<ref>olahus.tei.15340919_1</ref></note> quas
                         <placeName>Brugis</placeName> dederas. A me propterea rescriptum nihil fuit,
                     quia arbitratus eram meas te neque <placeName>Brugis</placeName> neque in
@@ -290,11 +287,11 @@
                     Minor illorum pars <del corresp="Olahus">curam</del><add corresp="Olahus"
                         type="corr">curiam</add> sequitur et haec quoque venationi potius, quam hoc
                     quaestuario lucro est dedita. Ego aut <placeName>Bruxellis</placeName>, aut ubi
-                    tempus erit, rem tuam cum <persName>Haller</persName><note type="critic"
-                        xml:id="note.4">Wolfgang Haller von Hallerstain.</note> curae habebo.
-                    Scribam ad tuas <del corresp="Olahus">Brugam ut</del><add corresp="Olahus"
-                        type="corr">Brugas</add>,<note type="critic" xml:id="note.5">Brugge.</note>
-                    exemplum <del corresp="Olahus">diplomarum</del><add corresp="Olahus" type="corr"
+                    tempus erit, rem tuam cum <persName>Haller</persName><note xml:id="note.4"
+                        >Wolfgang Haller von Hallerstain.</note> curae habebo. Scribam ad tuas <del
+                        corresp="Olahus">Brugam ut</del><add corresp="Olahus" type="corr"
+                        >Brugas</add>,<note xml:id="note.5">Brugge.</note> exemplum <del
+                        corresp="Olahus">diplomarum</del><add corresp="Olahus" type="corr"
                         >diplomatis</add> tui ad me mittant, ut sciamus diem, ad quem primum solutio
                     tibi debeatur. Importunus, ut scribis, esse non debes, neque ex pecuniis
                     pendere, sed facturus esse videreris tu tibi ipse iniuriam, si rem tuam, quam
@@ -320,14 +317,13 @@
                     ipsi sagacissimi optime norunt, instructum edoctumque in eorum contubernium
                     apprehenderint. Quid tibi restare poterit, quod Deus longe repellat, quam
                     periculum? Non tibi plus, quam amantissimae <persName>coniugi</persName>,<note
-                        type="critic" xml:id="note.6">Anna Isabella (Elizabeth) Donche.</note>
-                    liberis nociturum. Etsi enim studio philosophiae iam a puero edoctus amore
-                    reipublicae omnia et adversa et prospera aequo ferre posses animo. Quid tamen
-                    aetas imbecilla tuorum faceret? Quomodo te satisfecisse putares caritati
-                    proximorum, dum eos in periculum coniiceres? Res suas tractare possunt
-                    principes, ut volunt. Tu vel ego non tenemur in rebus quibuslibet ultra id, quod
-                    honestum est et possumus servire. Si virtutis ullum esset nostra aetate praemium
-                    vel saltem umbra <choice>
+                        xml:id="note.6">Anna Isabella (Elizabeth) Donche.</note> liberis nociturum.
+                    Etsi enim studio philosophiae iam a puero edoctus amore reipublicae omnia et
+                    adversa et prospera aequo ferre posses animo. Quid tamen aetas imbecilla tuorum
+                    faceret? Quomodo te satisfecisse putares caritati proximorum, dum eos in
+                    periculum coniiceres? Res suas tractare possunt principes, ut volunt. Tu vel ego
+                    non tenemur in rebus quibuslibet ultra id, quod honestum est et possumus
+                    servire. Si virtutis ullum esset nostra aetate praemium vel saltem umbra <choice>
                         <orig>paemii</orig>
                         <supplied>praemii</supplied>
                     </choice>, liceret bonis aliquid agere, nunc cum nullum sit, quid est, quod
@@ -346,24 +342,22 @@
                     quod conscientiae et veridicentiae principum non convenit, <milestone unit="pb"
                     />non me hominem esse obliviscar, et eum, qui philosophiam ipsam his omnibus
                     facile praeponam. </p>
-                <p xml:id="p.4">[3.] In rebus Hungariae, quae ad me scribis,<note type="critic"
-                        xml:id="note.7">Ep. 509. Cap. 2.<ref>olahus.tei.15341004_1</ref></note>
-                    intelligo <persName>Czyback</persName><note type="critic" xml:id="note.8">Imre
-                        Czibak was executed on 12 August, 1534.</note> cum suis truncatum. <del
-                        corresp="Olahus">Notum</del><add corresp="Olahus" type="corr"
-                        >Nothum</add><note type="critic" xml:id="note.9">Lodovico Gritti was Andrea
-                        Gritti’s illegitimate son.</note><del corresp="Olahus">Griticum</del><add
-                        corresp="Olahus" type="corr">Griti</add> trucidatum,
-                        <persName>patrem</persName><note type="critic" xml:id="note.10">Andrea
-                        Gritti.</note> obsessum ante tuas litteras audiveramus. Et praeterea
-                        <persName>regina</persName> dixit eum evasisse et
-                        <placeName>Taurinum</placeName><note type="critic" xml:id="note.11"
-                        >Belgrade.</note> profectum, postremo intelleximus
-                        <placeName>Constantinopolim</placeName>. Memor sum illorum omnium, quae
-                    inter nos <del corresp="Olahus">commemorati</del><add corresp="Olahus"
-                        type="corr">commenti</add> sumus. Multa sunt principibus nostris, postquam
-                    res ita cecidit, cogitanda, sed nihil magis ac diligentius, quam si
-                    expergiscerentur. <del corresp="Olahus">Fari</del><add corresp="Olahus"
+                <p xml:id="p.4">[3.] In rebus Hungariae, quae ad me scribis,<note xml:id="note.7"
+                        >Ep. 509. Cap. 2.<ref>olahus.tei.15341004_1</ref></note> intelligo
+                        <persName>Czyback</persName><note xml:id="note.8">Imre Czibak was executed
+                        on 12 August, 1534.</note> cum suis truncatum. <del corresp="Olahus"
+                        >Notum</del><add corresp="Olahus" type="corr">Nothum</add><note
+                        xml:id="note.9">Lodovico Gritti was Andrea Gritti’s illegitimate
+                        son.</note><del corresp="Olahus">Griticum</del><add corresp="Olahus"
+                        type="corr">Griti</add> trucidatum, <persName>patrem</persName><note
+                        xml:id="note.10">Andrea Gritti.</note> obsessum ante tuas litteras
+                    audiveramus. Et praeterea <persName>regina</persName> dixit eum evasisse et
+                        <placeName>Taurinum</placeName><note xml:id="note.11">Belgrade.</note>
+                    profectum, postremo intelleximus <placeName>Constantinopolim</placeName>. Memor
+                    sum illorum omnium, quae inter nos <del corresp="Olahus">commemorati</del><add
+                        corresp="Olahus" type="corr">commenti</add> sumus. Multa sunt principibus
+                    nostris, postquam res ita cecidit, cogitanda, sed nihil magis ac diligentius,
+                    quam si expergiscerentur. <del corresp="Olahus">Fari</del><add corresp="Olahus"
                         type="corr">Pati</add> hoc, ut misera illa nostra gens in viscera sua
                     saeviat et sese <del corresp="Olahus">expedat</del><add corresp="Olahus"
                         type="corr">exedat</add>, dum tertius adveniat. Quod officium est
@@ -372,11 +366,11 @@
                     in gratiam admittendo etc. ab initio mihi summe placuit. </p>
                 <p xml:id="p.5">[4.] Qua de re et tecum saepius, si meministi, sum locutus, et
                     antequam tuae litterae hae postremae ad me venirent, ut antea saepe, sic et
-                    nuper ad nostrum <persName>Lundensem</persName><note type="critic"
-                        xml:id="note.12">Johan Weze.</note> scripseram. Locutus sum, ut mones,
-                    reginae, sed <del corresp="Olahus">illi</del><add corresp="Olahus" type="corr"
-                        >ei</add> et iudicio suo, etiam si quod proferret, non valde parent, vel ut
-                        <del corresp="Olahus">optemperetur</del><add corresp="Olahus" type="corr"
+                    nuper ad nostrum <persName>Lundensem</persName><note xml:id="note.12">Johan
+                        Weze.</note> scripseram. Locutus sum, ut mones, reginae, sed <del
+                        corresp="Olahus">illi</del><add corresp="Olahus" type="corr">ei</add> et
+                    iudicio suo, etiam si quod proferret, non valde parent, vel ut <del
+                        corresp="Olahus">optemperetur</del><add corresp="Olahus" type="corr"
                         >obtemperetur</add>, non sinunt suis privatis ducti cupiditatibus et rebus.
                     Quae velim in Tartarum imum <del corresp="Olahus">Tithanibus</del><add
                         corresp="Olahus" type="corr"> cum anchoribus</add> deiicerentur. Quorum
@@ -403,19 +397,19 @@
                         <persName>Ioannis</persName><del corresp="Olahus">sequacis</del><add
                         corresp="Olahus" type="corr">sequaceis</add> velle subesse regi nostro
                     Ferdinando. <persName>Ioannem</persName> misisse ad <persName>regem</persName>
-                    pro salvo conducto, ut aliquem<note type="critic" xml:id="note.13">Probably,
-                        István Brodarics.</note> ex suis mittat tractandi gratia. Quae credo <del
+                    pro salvo conducto, ut aliquem<note xml:id="note.13">Probably, István
+                        Brodarics.</note> ex suis mittat tractandi gratia. Quae credo <del
                         corresp="Olahus">verba</del><add corresp="Olahus" type="corr">vera</add>
                     esse, nam illi eadem moventur <del corresp="Olahus">sententia</del><add
                         corresp="Olahus" type="corr">scutica</add>. Dominus
                         <persName>Lundensis</persName>, ut mihi scribit, negotium Bavaricum<note
-                        type="critic" xml:id="note.14">The treaty of Linz was concluded by Weze in
-                        1534, signed between the Bavarian princes and the Habsburgs, and most
-                        importantly, King Ferdinand I.</note> ex regio voto totum confecit. Scribe
-                    ad me certa de his, de quibus aliquando commentati sumus. Vale, Amantissime
-                    Cornelii mei non Immemor, et scribe! Hinc proficiscemur
-                        <placeName>Valencenas</placeName> et illinc in
-                        <placeName>Hannoniam</placeName>, postremo <placeName>Bruxellas</placeName>. </p>
+                        xml:id="note.14">The treaty of Linz was concluded by Weze in 1534, signed
+                        between the Bavarian princes and the Habsburgs, and most importantly, King
+                        Ferdinand I.</note> ex regio voto totum confecit. Scribe ad me certa de his,
+                    de quibus aliquando commentati sumus. Vale, Amantissime Cornelii mei non
+                    Immemor, et scribe! Hinc proficiscemur <placeName>Valencenas</placeName> et
+                    illinc in <placeName>Hannoniam</placeName>, postremo
+                        <placeName>Bruxellas</placeName>. </p>
                 <p xml:id="p.7"><placeName>Atrebati</placeName> XI. Octobris 1534.</p>
             </div>
         </body>

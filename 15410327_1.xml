@@ -106,10 +106,10 @@
                         umb zugeschribene newe zeittung. </p>
                     <p><hi rend="italic">Other contemporary handwriting
                             3:</hi><placeName>Pest</placeName> ist belegert. <persName>Gabriel de
-                            Lewa</persName><note type="critic">Gábor Lévai fell at the siege of Buda
-                            and Pest in 1541, see <hi rend="smallcap">Kasza</hi> 2021, 220.</note>
-                        bitt umb hilff auf <placeName>Baath</placeName><note type="critic">Bát in
-                            Hont county, today: Bátovce.</note></p>
+                            Lewa</persName><note>Gábor Lévai fell at the siege of Buda and Pest in
+                            1541, see <hi rend="smallcap">Kasza</hi> 2021, 220.</note> bitt umb
+                        hilff auf <placeName>Baath</placeName><note>Bát in Hont county, today:
+                            Bátovce.</note></p>
                     <p><hi rend="italic">Other 18th-century handwriting:</hi> Nicolai Olahi
                         canclari, Bartholomei Haller, Johanße Dubrawitzki. </p>
                 </note>
@@ -222,14 +222,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                     <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -251,12 +249,12 @@
                 <p xml:id="p.1">Ersam, namhafft und weyss lieb herrn und frundt, unnser frundtlich
                     dienst sein euch zuvor!</p>
                 <p xml:id="p.2">Euer schreiben den XXVI. tag Martii nechst verschinen sambt den
-                    aingeschlosen newen zeytungen<note type="critic" xml:id="note.1">We do not know
-                        these attached letters. According to a note on the outside, one of them must
-                        have referred to the siege of Pest.</note> ist unns woll geantwurt,
-                    bedannckhen unns derselben, haben von annder orten auch dergleichen, wo unns was
-                    zukhumbt, soll euch unverhallten von unns beleiben. Sonnst was euch lieb ist,
-                    sein wir zu thun willig. </p>
+                    aingeschlosen newen zeytungen<note xml:id="note.1">We do not know these attached
+                        letters. According to a note on the outside, one of them must have referred
+                        to the siege of Pest.</note> ist unns woll geantwurt, bedannckhen unns
+                    derselben, haben von annder orten auch dergleichen, wo unns was zukhumbt, soll
+                    euch unverhallten von unns beleiben. Sonnst was euch lieb ist, sein wir zu thun
+                    willig. </p>
                 <p xml:id="p.3">Datum <placeName>Cremnitz</placeName> den XXVII. tag Martii anno
                     Domini XXXXI<hi rend="super">o</hi>. </p>
                 <p xml:id="p.4">

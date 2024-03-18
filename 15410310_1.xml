@@ -5,9 +5,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="num">618</title>
-                <title key="body" n="618" type="main">Miklós Oláh, Bartholomäus Haller von
-                    Hallerstain and János Dubraviczky to Banská Štiavnica Town Council ([Kremnica],
-                    10 March 1541)</title>
+                <title key="body" n="618" type="main">Miklós Oláh, Bartholomäus Haller and János
+                    Dubraviczky to Banská Štiavnica Town Council ([Kremnica], 10 March 1541)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -211,14 +210,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                     <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -227,8 +224,8 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Miklós Oláh, Bartholomäus Haller von Hallerstain and János
-                    Dubraviczky to Banská Štiavnica Town Council ([Kremnica], 10 March 1541)</head>
+                <head type="title">Miklós Oláh, Bartholomäus Haller and János Dubraviczky to Banská
+                    Štiavnica Town Council ([Kremnica], 10 March 1541)</head>
                 <floatingText type="regesta">
                     <body>
                         <p xml:id="reg.p.1">As far as they know, the final hearing in the case of
@@ -241,20 +238,19 @@
                 <p xml:id="p.1">Namhaufft, ersam, weis hern und freunt, unser freuntlich dinnst
                     zuvor! </p>
                 <p xml:id="p.2">Wir sein bericht, das ir <persName>Marthin Siboltin</persName><note
-                        type="critic" xml:id="note.1">Martin Zybolen, see Ep.
-                            614.<ref>olahus.tei.15410217_1</ref></note> auff morgen freytags<note
-                        type="critic" xml:id="note.2">Friday, 11 March, 1541.</note> ein entlichen
-                    rechtstag angesetzt habt. Derhalbenn von wegen unsers gnedigen hern
-                        <persName>erzbischoffen vonn Grann</persName><note type="critic"
-                        xml:id="note.3">Pál Várday.</note> angesucht euch seiner halben zw pitten,
-                    ob er was strefflichs gehandelt het, ims umb seiner g.<note type="critic"
-                        xml:id="note.4">I.e. Gnade.</note> willen gnad zu erzeigen, diewill dan s.
-                    f. g.<note type="critic" xml:id="note.5">I.e. seine fürstliche Gnade.</note>
-                    ewer und unser gnediger her ist und liebes erzeigen kan und unser g. f.<note
-                        type="critic" xml:id="note.6">I.e. gnädigen Fürst.</note> dinen mag. Ist
-                    derhalben unser freuntlich pit, ob der gefangen was strefflichs gehandelt het,
-                    ir wolt ime aus angezaigten ursachen gnad erzaigen. Sunst was euch lieb unnd
-                    dinstlich ist, sein wir zw thun gewilt. </p>
+                        xml:id="note.1">Martin Zybolen, see Ep.
+                        614.<ref>olahus.tei.15410217_1</ref></note> auff morgen freytags<note
+                        xml:id="note.2">Friday, 11 March, 1541.</note> ein entlichen rechtstag
+                    angesetzt habt. Derhalbenn von wegen unsers gnedigen hern
+                        <persName>erzbischoffen vonn Grann</persName><note xml:id="note.3">Pál
+                        Várday.</note> angesucht euch seiner halben zw pitten, ob er was strefflichs
+                    gehandelt het, ims umb seiner g.<note xml:id="note.4">I.e. Gnade.</note> willen
+                    gnad zu erzeigen, diewill dan s. f. g.<note xml:id="note.5">I.e. seine
+                        fürstliche Gnade.</note> ewer und unser gnediger her ist und liebes erzeigen
+                    kan und unser g. f.<note xml:id="note.6">I.e. gnädigen Fürst.</note> dinen mag.
+                    Ist derhalben unser freuntlich pit, ob der gefangen was strefflichs gehandelt
+                    het, ir wolt ime aus angezaigten ursachen gnad erzaigen. Sunst was euch lieb
+                    unnd dinstlich ist, sein wir zw thun gewilt. </p>
                 <p xml:id="p.3"><choice>
                         <orig>Datatum</orig>
                         <supplied>Datum</supplied>

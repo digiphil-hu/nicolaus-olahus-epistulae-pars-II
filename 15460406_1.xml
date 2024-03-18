@@ -205,12 +205,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <placeName/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Trnava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -230,12 +228,11 @@
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti, Amici nobis Honorandi, salutem!</p>
                 <p xml:id="p.2">Effecimus apud regiam maiestatem, dominum nostrum clementissimum, ut
-                    egregius dominus <persName>Ioannes Zomor</persName>,<note type="critic"
-                        xml:id="note.1">János Zomor.</note> director causarum suae maiestatis,
-                    causas vestras dirigeret, easque contra omnes impetitores causidicos et actores
-                    protegeret. Mandatum suae maiestatis ad ipsum Ioannem Zomor datum vobis misimus,
-                    vos illud eidem exhibeatis et illius opera in causis vestris utamini. Bene
-                    valete.</p>
+                    egregius dominus <persName>Ioannes Zomor</persName>,<note xml:id="note.1">János
+                        Zomor.</note> director causarum suae maiestatis, causas vestras dirigeret,
+                    easque contra omnes impetitores causidicos et actores protegeret. Mandatum suae
+                    maiestatis ad ipsum Ioannem Zomor datum vobis misimus, vos illud eidem
+                    exhibeatis et illius opera in causis vestris utamini. Bene valete.</p>
                 <p xml:id="p.3">Datum <placeName>Olomucii</placeName> sexta die Aprilis 1546.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

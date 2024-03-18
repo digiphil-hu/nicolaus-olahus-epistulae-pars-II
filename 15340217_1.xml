@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,31 +241,31 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolaus Olaus Cornelio Sceppero suo salutem. </p>
-                <p xml:id="p.2">[1.] Litteras tuas datas VIII. huius mensis<note type="critic"
-                        xml:id="note.1">See Ep. 451.<ref>olahus.tei.15340208_3</ref></note> heri
-                    accepi. Parco, ut petis, brevitati, sed ita, si ad alias longiores non dederis.
-                    De tarditate adventus <persName>Gryti</persName><note type="critic"
-                        xml:id="note.2">Lodovico Gritti.</note> plurima suspicor. <quote
-                        xml:id="quote.1">Inter os et offam multa cadere solent.</quote><note
-                        type="quote" xml:id="note.quote.1">Gell. <hi rend="italic">Noct. Att.</hi>
-                        XIII, 18, cf. Erasm. <hi rend="italic">Adag.</hi> 402. Ι,V,2. Inter os et
-                        offam.</note><persName>Ibrahimi</persName><note type="critic"
-                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> profectio ad
-                        <placeName>Anatoliam</placeName>, si res nostras considero, mihi non multum
-                    placet. Quid res meae erunt illo absente? Si res ad emendicationem venit, quid
-                    ea est turpius rebus <persName>Ioannis</persName> salvis; favet nobis Christus,
-                    favent homines, favent oppressi, favet astrum, et potestne ullus esse locus
-                    honestus emendicationi? Pudet me huius facti etc. Celas me, quod celare non
-                    deberes. Audio ab aliis, quod a te non intelligo, quod scribis reginae, dixi
-                    aliis <milestone unit="pb"/>non. Relegis iter tuum, quod utinam faustum sit.
-                    Deus applaudet nobis, nos illius dona accipere nolumus. Miraris forte haec a me
+                <p xml:id="p.2">[1.] Litteras tuas datas VIII. huius mensis<note xml:id="note.1">See
+                        Ep. 451.<ref>olahus.tei.15340208_3</ref></note> heri accepi. Parco, ut
+                    petis, brevitati, sed ita, si ad alias longiores non dederis. De tarditate
+                    adventus <persName>Gryti</persName><note xml:id="note.2">Lodovico Gritti.</note>
+                    plurima suspicor. <quote xml:id="quote.1">Inter os et offam multa cadere
+                        solent.</quote><note type="quote" xml:id="note.quote.1">Gell. <hi
+                            rend="italic">Noct. Att.</hi> XIII, 18, cf. Erasm. <hi rend="italic"
+                            >Adag.</hi> 402. Ι,V,2. Inter os et
+                        offam.</note><persName>Ibrahimi</persName><note xml:id="note.3">Ibrahim
+                        Pargalı Pasha.</note> profectio ad <placeName>Anatoliam</placeName>, si res
+                    nostras considero, mihi non multum placet. Quid res meae erunt illo absente? Si
+                    res ad emendicationem venit, quid ea est turpius rebus
+                        <persName>Ioannis</persName> salvis; favet nobis Christus, favent homines,
+                    favent oppressi, favet astrum, et potestne ullus esse locus honestus
+                    emendicationi? Pudet me huius facti etc. Celas me, quod celare non deberes.
+                    Audio ab aliis, quod a te non intelligo, quod scribis reginae, dixi aliis
+                        <milestone unit="pb"/>non. Relegis iter tuum, quod utinam faustum sit. Deus
+                    applaudet nobis, nos illius dona accipere nolumus. Miraris forte haec a me
                     scripta, non mireris: ruina patriae et amor in rem Christianam coegit me
                     scribere. </p>
                 <p xml:id="p.3">[2.] De tuis rebus accipe: non potui exspectare, ut
-                        <persName>Panormitanus</persName><note type="critic" xml:id="note.4">Jean II
+                        <persName>Panormitanus</persName><note xml:id="note.4">Jean II
                         Carondelet.</note> ad <persName>reginam</persName> veniret.
-                        <persName>Haller</persName><note type="critic" xml:id="note.5">Wolfgang
-                        Haller von Hallerstein.</note> abfuit sex diebus, nunc rediit. Locutus sum
+                        <persName>Haller</persName><note xml:id="note.5">Wolfgang Haller von
+                        Hallerstein.</note> abfuit sex diebus, nunc rediit. Locutus sum
                         <persName>reginae</persName>, quae, ut scripsi alias, tui honoris est
                     cupidissima. Accessi <persName>Panormitanum</persName> cum mandato
                     consiliariatus tui, egi cum eo negotium tuum diligenter, favet tibi. Nam, ut
@@ -278,10 +276,9 @@
                     tuum peragas, et qualicumque via poterit ex animi nostri sententia. Meas res
                     habe commendatas, et ita, ut ego in te confido, et tu pollicitus es
                         <persName>reginae</persName> et mihi iamdudum te obtulisti. Litteras
-                        <persName>uxoris</persName><note type="critic" xml:id="note.6"> Anna
-                        Isabella (Elizabeth) Donche.</note> tuae cum praesentibus ad te mitto, quas
-                    autem nunc ad eam dedisti, cras eo mittam. Vale et scribe de omnibus rebus sine
-                    timore. </p>
+                        <persName>uxoris</persName><note xml:id="note.6"> Anna Isabella (Elizabeth)
+                        Donche.</note> tuae cum praesentibus ad te mitto, quas autem nunc ad eam
+                    dedisti, cras eo mittam. Vale et scribe de omnibus rebus sine timore. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 17. Februarii 1534.</p>
             </div>
         </body>

@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -251,27 +249,26 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Scepperum responsio. </p>
                 <p xml:id="p.2">[1.] Litteras tuas ex <placeName>Constantinopoli</placeName> secunda
-                    Iunii datas<note type="critic" xml:id="note.1">Ep.
-                            492.<ref>olahus.tei.15340602_1</ref></note> accepi nudiusquartus. Laetor
-                    ex animo te sanum esse et revertisse. Nam ex quibusdam aliis tuis intelleximus
-                    te XV. mensis praeteriti applicuisse <placeName>Posonium</placeName>.
-                        <persName>Uxor</persName>,<note type="critic" xml:id="note.2">Anna Isabella
-                        (Elizabeth) Donche.</note> liberi, familia, fratres et amici sunt omnes
-                    sani. Cum nihil certi de te audire poteramus, domina miserat ad me XXIIII. Iulii
-                    praeteriti <persName>Petrum</persName><note type="critic" xml:id="note.3">Pieter
-                        Lauwerijns was brother of Mark Lauweijns.</note> domini
-                        <persName>decani</persName><note type="critic" xml:id="note.4">Mark
-                        Lauweijns.</note> sciscitatum de tuo statu. Quaedam anus mirum in modum eam
-                    conturbarat, dicens se vidisse in somnis te ter ad eam venisse et precatum, ut
-                    pro tua anima preces ad Deum funderentur; his anus verbis familia plurimum erat
-                    maesta, cum <persName>Petrum</persName> ad me misissent. Ego quantum potui
-                    fallacias eius vetulae detestatus sum, et iussi dominam et totam familiam bono
-                    esse animo, nam propediem reversurus esses incolumis. Ex supputatione enim
-                    dierum discessus tui erat mihi spes te non tarditurum. Sic
-                        <persName>Petro</persName> reverso in tempore advenerunt litterae tuae.
-                    Scripsi rursus denuo <persName>uxori</persName> tuae, credo eam nunc esse
-                    laetam. Nullas postea ab ea accepi litteras. Tu fac, ut confectis istic bene
-                    rebus redeas, fac tamen, ut possimus dicere te non frustra bis fuisse profectam
+                    Iunii datas<note xml:id="note.1">Ep. 492.<ref>olahus.tei.15340602_1</ref></note>
+                    accepi nudiusquartus. Laetor ex animo te sanum esse et revertisse. Nam ex
+                    quibusdam aliis tuis intelleximus te XV. mensis praeteriti applicuisse
+                        <placeName>Posonium</placeName>. <persName>Uxor</persName>,<note
+                        xml:id="note.2">Anna Isabella (Elizabeth) Donche.</note> liberi, familia,
+                    fratres et amici sunt omnes sani. Cum nihil certi de te audire poteramus, domina
+                    miserat ad me XXIIII. Iulii praeteriti <persName>Petrum</persName><note
+                        xml:id="note.3">Pieter Lauwerijns was brother of Mark Lauweijns.</note>
+                    domini <persName>decani</persName><note xml:id="note.4">Mark Lauweijns.</note>
+                    sciscitatum de tuo statu. Quaedam anus mirum in modum eam conturbarat, dicens se
+                    vidisse in somnis te ter ad eam venisse et precatum, ut pro tua anima preces ad
+                    Deum funderentur; his anus verbis familia plurimum erat maesta, cum
+                        <persName>Petrum</persName> ad me misissent. Ego quantum potui fallacias
+                    eius vetulae detestatus sum, et iussi dominam et totam familiam bono esse animo,
+                    nam propediem reversurus esses incolumis. Ex supputatione enim dierum discessus
+                    tui erat mihi spes te non tarditurum. Sic <persName>Petro</persName> reverso in
+                    tempore advenerunt litterae tuae. Scripsi rursus denuo
+                        <persName>uxori</persName> tuae, credo eam nunc esse laetam. Nullas postea
+                    ab ea accepi litteras. Tu fac, ut confectis istic bene rebus redeas, fac tamen,
+                    ut possimus dicere te non frustra bis fuisse profectam
                         <placeName>Constantinopolim</placeName>. Scribe huc certi aliquid, rogo, et
                     an sit spes aliqua pacis. </p>
                 <p xml:id="p.3">[2.] Meas autem res in quancumque partem res ceciderit, confice ex
@@ -280,16 +277,16 @@
                 <p xml:id="p.4"><del corresp="Olahus">cor</del> nisi me iugulare volueris <add
                         corresp="Olahus" type="insert">sententia</add>. Ex instructione olim missa
                     omnia intellexisti iampridem. Domino <persName>Lundensi</persName><note
-                        type="critic" xml:id="note.5">Johan Weze.</note> commenda me, et dic, quod
-                    oratores nostri reversi sunt <del corresp="Olahus">e</del><add corresp="Olahus"
-                        type="corr">ex</add><placeName>Dania</placeName> infecta re, immo non ausi
-                    ultra fines Holsatiae progredi. Nuper misit <persName>regina</persName> rursus
-                    eo doctorem quendam Almanum<note type="critic" xml:id="note.6">Instead of
-                        Alemannus, i.e. German.</note><persName>Thuucher</persName>,<note
-                        type="critic" xml:id="note.7">Lazarus Tucher (†1563) was a member of a
-                        merchant family from Nürnberg, see <hi rend="smallcap">De Vocht</hi> 1961,
-                        303.</note> nisi et ille metu revertatur, ut antea fecerat. Vale et habe cum
-                    domino <persName>Lundensi</persName> una mea negotia commendata. </p>
+                        xml:id="note.5">Johan Weze.</note> commenda me, et dic, quod oratores nostri
+                    reversi sunt <del corresp="Olahus">e</del><add corresp="Olahus" type="corr"
+                        >ex</add><placeName>Dania</placeName> infecta re, immo non ausi ultra fines
+                    Holsatiae progredi. Nuper misit <persName>regina</persName> rursus eo doctorem
+                    quendam Almanum<note xml:id="note.6">Instead of Alemannus, i.e.
+                        German.</note><persName>Thuucher</persName>,<note xml:id="note.7">Lazarus
+                        Tucher (†1563) was a member of a merchant family from Nürnberg, see <hi
+                            rend="smallcap">De Vocht</hi> 1961, 303.</note> nisi et ille metu
+                    revertatur, ut antea fecerat. Vale et habe cum domino
+                        <persName>Lundensi</persName> una mea negotia commendata. </p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> prima Augusti 1534.</p>
             </div>
         </body>

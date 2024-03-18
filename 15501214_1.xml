@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,8 +245,8 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Reverendissime Domine et Patrone nobis Gratiosissime, post
-                    servitiorum nostrorum indignorum paratissimam<note type="critic" xml:id="note.1"
-                        >Sc. commendationem.</note> oblatorum!</p>
+                    servitiorum nostrorum indignorum paratissimam<note xml:id="note.1">Sc.
+                        commendationem.</note> oblatorum!</p>
                 <p xml:id="p.2">[1.] Intelliget Reverendissima Dominatio Vestra ea, qua urgenti
                     necessitate compulsi ad <persName>regiam maiestatem</persName>, dominum
                     clementissimum scribimus ex nostris ad suam regiam maiestatem litteris istis
@@ -260,14 +258,14 @@
                     nam et in praesentia suos habent praecursores et audent plagiarii etiam ex ipsis
                     fodinis prope civitates habitis laboratores abducere, aut statim necare, immo
                     etiam sacras aedes ad spoliandum aggredi. Quare nos, Reverendissimae Dominationi
-                    Vestrae humillime supplicamus, dignetur nostram petitionem<note type="critic"
-                        xml:id="note.2">We do not know the petition, but the King’s answer is
-                        attached to this letter.</note> apud sacram regiam maiestatem promotam et
-                    adiutam habere. Quemadmodum Reverendissima Dominatio Vestra idipsum antea summo
-                    studio semperque fecit et tandem inposterum cum quia patriam diligit, tum quod
-                    pastor sit animarum Christianarum tanto magis et ardentius, quanto pericula
-                    atrociora et nobis viciniora sunt, pro summa quam in Reverendissimam
-                    Dominationem Vestram positam habemus spe nostra facturam esse confidimus.</p>
+                    Vestrae humillime supplicamus, dignetur nostram petitionem<note xml:id="note.2"
+                        >We do not know the petition, but the King’s answer is attached to this
+                        letter.</note> apud sacram regiam maiestatem promotam et adiutam habere.
+                    Quemadmodum Reverendissima Dominatio Vestra idipsum antea summo studio semperque
+                    fecit et tandem inposterum cum quia patriam diligit, tum quod pastor sit
+                    animarum Christianarum tanto magis et ardentius, quanto pericula atrociora et
+                    nobis viciniora sunt, pro summa quam in Reverendissimam Dominationem Vestram
+                    positam habemus spe nostra facturam esse confidimus.</p>
                 <p xml:id="p.3">[2.] Intelliget etiam Reverendissima Dominatio Vestra ea, quae ad
                     sacram regiam maiestatem de nova nobis proposita montanica ordinatione
                     scribimus. Non moramur eam suscipere, etiamsi fiat cum amissione nostrarum
@@ -277,13 +275,13 @@
                     Id ipsum plane contra fidem et iuramentum nostrum <milestone unit="pb"/>regiae
                     maiestati praestitum esse censuimus. Et ut rem totam Reverendissima Dominatio
                     Vestra accipiat, mittimus ad Reverendissimam Dominationem Vestram et ipsam novam
-                        exordinationem<note type="critic" xml:id="note.3">On the margin: diese
-                        shriff &lt;…&gt; suorum tamen findus.</note> et nostrum iudicium
-                    Reverendissimae Dominationi Vestrae humilliter supplicantes, velit pro suo in
-                    patriam amore multo missa acta alicui fideli ex suis ad perlegendum et
-                    Reverendissimae Dominationi Vestrae summam totius rei referendum committere,
-                    suaeque in hac parte patriae deinde regiae maiestati haeredibusque suis ac nobis
-                    miseris subditis gratiose prospicere.</p>
+                        exordinationem<note xml:id="note.3">On the margin: diese shriff &lt;…&gt;
+                        suorum tamen findus.</note> et nostrum iudicium Reverendissimae Dominationi
+                    Vestrae humilliter supplicantes, velit pro suo in patriam amore multo missa acta
+                    alicui fideli ex suis ad perlegendum et Reverendissimae Dominationi Vestrae
+                    summam totius rei referendum committere, suaeque in hac parte patriae deinde
+                    regiae maiestati haeredibusque suis ac nobis miseris subditis gratiose
+                    prospicere.</p>
                 <p xml:id="p.4">[3.] Nam cum in dicta nova ordinatione novum ius contra regni
                     consuetudinem constituatur nosque ea in parte a regni legibus avellamur,
                     veremur, ne nos propterea per omnes status et ordines regni, in quo nobis

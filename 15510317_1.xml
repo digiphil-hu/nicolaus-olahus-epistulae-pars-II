@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Trnava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -236,25 +234,24 @@
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti Domini, Amici Honorandi, salutem!</p>
                 <p xml:id="p.2">[1.] Quoniam maiestas regia, dominus noster clementissimus
-                    lectoratum ecclesiae Strigoniensis<note type="critic" xml:id="note.1">See Ep.
-                        745., Ep. 750., and Ep.
+                    lectoratum ecclesiae Strigoniensis<note xml:id="note.1">See Ep. 745., Ep. 750.,
+                        and Ep.
                         751.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15501023_1</ref><ref>/o:olahus.tei.15501110_1</ref>
-                    venerabili magistro <persName>Anthonio Wrantio</persName><note type="critic"
-                        xml:id="note.2">Antal Verancsics.</note> praeposito contulit, et domo idem
-                    beneficium istic carere dicitur, itaque vos tamquam amicos rogamus, ut ex duabus
-                    domibus per mortem olim archidiaconorum Neugradiensis et Honthensis vacantibus
-                    alteram, quae commodior est, ipsi Wrantio lectori intuitu nostrae amicitiae dare
-                    et conferre velitis, ne domo istic inter vos in capitulo primaria persona
-                    existens careat. Hoc si feceritis, in maioribus vobis rependemus, et ipse
-                    Wrantius lector idipsum apud nos in vestris negotiis promovendis cumulate
-                    referre studebit.</p>
+                    venerabili magistro <persName>Anthonio Wrantio</persName><note xml:id="note.2"
+                        >Antal Verancsics.</note> praeposito contulit, et domo idem beneficium istic
+                    carere dicitur, itaque vos tamquam amicos rogamus, ut ex duabus domibus per
+                    mortem olim archidiaconorum Neugradiensis et Honthensis vacantibus alteram, quae
+                    commodior est, ipsi Wrantio lectori intuitu nostrae amicitiae dare et conferre
+                    velitis, ne domo istic inter vos in capitulo primaria persona existens careat.
+                    Hoc si feceritis, in maioribus vobis rependemus, et ipse Wrantius lector idipsum
+                    apud nos in vestris negotiis promovendis cumulate referre studebit.</p>
                 <p xml:id="p.3">[2.] Ceterum gratiam habemus, quod anno superiori ad petitionem
-                    nostram et magistro <persName>Blasio Zanthai</persName><note type="critic"
-                        xml:id="note.3">Balázs Zathay was Archdeacon of Zvolen between 1547 and
-                        1562, see <hi rend="smallcap">Kollányi</hi> 1900, 146.</note> archidiacono
-                    Zoliensi domum dederitis, sed quoniam eadem domus, ut intelligimus, adhuc nondum
-                    a priori hospite, qui alteram quoque domum ibidem habere dicitur, omnino libera
-                    est. Rogamus, ut etiam eandem domum, cum semel magistro Blasio dederitis, <choice>
+                    nostram et magistro <persName>Blasio Zanthai</persName><note xml:id="note.3"
+                        >Balázs Zathay was Archdeacon of Zvolen between 1547 and 1562, see <hi
+                            rend="smallcap">Kollányi</hi> 1900, 146.</note> archidiacono Zoliensi
+                    domum dederitis, sed quoniam eadem domus, ut intelligimus, adhuc nondum a priori
+                    hospite, qui alteram quoque domum ibidem habere dicitur, omnino libera est.
+                    Rogamus, ut etiam eandem domum, cum semel magistro Blasio dederitis, <choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>retis</orig>
                         <supplied><corr>vacuam face</corr>retis</supplied>
                     </choice> et sibi liberam et modis omnibus expeditam inhabitandam concedatis.

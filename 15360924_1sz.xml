@@ -200,11 +200,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis De Schrijver<idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -228,54 +226,53 @@
                 <pb/>
                 <p xml:id="p.1">Cornelius Grapheus Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Magnifice Domine! Quem dicavi augustissimae
-                        <persName>reginae</persName> libellum,<note type="critic" xml:id="note.1"
-                            ><hi rend="italic">Ad optimam heroidem Mariam, Hungariae reginam,
-                            sacrorum bucolicorum aeglogae tres</hi>, see Ep.
+                        <persName>reginae</persName> libellum,<note xml:id="note.1"><hi
+                            rend="italic">Ad optimam heroidem Mariam, Hungariae reginam, sacrorum
+                            bucolicorum aeglogae tres</hi>, see Ep.
                             551.<ref>olahus.tei.15351201_1</ref></note> eum una cum aliis nonnullis
-                    per <persName>fratrem</persName><note type="critic" xml:id="note.2">Johannes
-                        Grapheus was a printer in Antwerp.</note> meum excusum, <milestone unit="pb"
-                    />tandem ad te mitto. Ut autem mundus non ignoret tuum erga me beneficium, nempe
-                    te mihi exhibendo libello apud reginam fuisse ducem, posui pro fronte libelli
-                    epigramma, quo mea Musa meam erga te testatur gratitudinem. Epitaphia quoque,
-                    quae <persName>Erasmo</persName> demortuo scripsi, ad te cum praesentibus misi.
+                    per <persName>fratrem</persName><note xml:id="note.2">Johannes Grapheus was a
+                        printer in Antwerp.</note> meum excusum, <milestone unit="pb"/>tandem ad te
+                    mitto. Ut autem mundus non ignoret tuum erga me beneficium, nempe te mihi
+                    exhibendo libello apud reginam fuisse ducem, posui pro fronte libelli epigramma,
+                    quo mea Musa meam erga te testatur gratitudinem. Epitaphia quoque, quae
+                        <persName>Erasmo</persName> demortuo scripsi, ad te cum praesentibus misi.
                     Te vero oro, ut haec qualia, qualia sunt, boni consulas. Vale et me amicis
                     commenda, praesertim domino <persName>Cornelio Sceppero</persName><note
-                        type="critic" xml:id="note.3">Cornelis de Schepper.</note> et
-                        <persName>Maximiliano Transilvano</persName>,<note type="critic"
-                        xml:id="note.4">Maximiliaan van Zevenbergen.</note> ad quem quoque privatim
-                    scribo. Rursum vale. </p>
+                        xml:id="note.3">Cornelis de Schepper.</note> et <persName>Maximiliano
+                        Transilvano</persName>,<note xml:id="note.4">Maximiliaan van
+                        Zevenbergen.</note> ad quem quoque privatim scribo. Rursum vale. </p>
                 <p xml:id="p.3"><placeName>Antverpiae</placeName> VIII. Kalendas Octobris anno
                     MDXXXVI. </p>
                 <p xml:id="p.4"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Epitaphium
-                    domini Erasmi Roterodami per Grapheum]<?oxy_custom_end?><note type="critic"
-                        xml:id="note.5"><hi rend="smallcap">Ipolyi</hi> 1875, 586–587. In Romanian:
-                            <hi rend="smallcap">Albu–Capoianu</hi> 1974, 157–158; <hi
-                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                    domini Erasmi Roterodami per Grapheum]<?oxy_custom_end?><note xml:id="note.5"
+                            ><hi rend="smallcap">Ipolyi</hi> 1875, 586–587. In Romanian: <hi
+                            rend="smallcap">Albu–Capoianu</hi> 1974, 157–158; <hi rend="smallcap"
+                            >Capoianu–Costa–Nicolae</hi> 2022,
                     1402–1405.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.5">[Aliud]<?oxy_custom_end?><note type="critic" xml:id="note.6"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                <p xml:id="p.5">[Aliud]<?oxy_custom_end?><note xml:id="note.6"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
                             >Albu–Capoianu</hi> 1974, 158; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1404–1405.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.6">[Aliud]<?oxy_custom_end?><note type="critic" xml:id="note.7"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                <p xml:id="p.6">[Aliud]<?oxy_custom_end?><note xml:id="note.7"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
                             >Albu–Capoianu</hi> 1974, 158; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1404–1405.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.7">[Aliud]<?oxy_custom_end?><note type="critic" xml:id="note.8"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
+                <p xml:id="p.7">[Aliud]<?oxy_custom_end?><note xml:id="note.8"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587. In Romanian: <hi rend="smallcap"
                             >Albu–Capoianu</hi> 1974, 158; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1404–1405.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.8">[Aliud]<?oxy_custom_end?><note type="critic" xml:id="note.9"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 587–588. In Romanian: <hi
-                            rend="smallcap">Albu–Capoianu</hi> 1974, 158; <hi rend="smallcap"
+                <p xml:id="p.8">[Aliud]<?oxy_custom_end?><note xml:id="note.9"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 587–588. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974, 158; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1404–1407.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.9">[In Erasmi imaginem]<?oxy_custom_end?><note type="critic"
-                        xml:id="note.10"><hi rend="smallcap">Ipolyi</hi> 1875, 588. In Romanian: <hi
-                            rend="smallcap">Albu–Capoianu</hi> 1974, 158–159; <hi rend="smallcap"
+                <p xml:id="p.9">[In Erasmi imaginem]<?oxy_custom_end?><note xml:id="note.10"><hi
+                            rend="smallcap">Ipolyi</hi> 1875, 588. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974, 158–159; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1246–1247.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
             </div>

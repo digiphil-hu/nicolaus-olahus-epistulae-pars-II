@@ -211,12 +211,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -242,7 +240,7 @@
                     herren und guet frundt! </p>
                 <p xml:id="p.2">Nachdem sich die leuff diser zeit gantz sorglich und gefarlich
                     ertzaigen, haben wir vernomen, wie ir durch eur gesanndten und annder taglichen
-                    neue zeitung von <placeName>Graan</placeName><note type="critic" xml:id="note.1"
+                    neue zeitung von <placeName>Graan</placeName><note xml:id="note.1"
                         >Esztergom.</note> und von anndern orten habet. Ist demnach unnser bit und
                     begern an euch, ir wellet uns, was ir nun also furter vernemen werdet, solhes
                     jeder zeit unvertzogenlich antzaigen. Daentgegen wellen wir auch dermassen unser
@@ -266,9 +264,8 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.6">Denn ersamenn, weissen, n.,<note type="critic" xml:id="note.2">I.e.
-                        Name.</note> richter unnd ratt der statt Schembnitz unsren guettenn frainden
-                    zu hannden. </p>
+                <p xml:id="p.6">Denn ersamenn, weissen, n.,<note xml:id="note.2">I.e. Name.</note>
+                    richter unnd ratt der statt Schembnitz unsren guettenn frainden zu hannden. </p>
             </div>
         </body>
     </text>

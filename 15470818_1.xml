@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,37 +239,35 @@
                 <pb/>
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     et Frater Observandissime! </p>
-                <p xml:id="p.2">[1.] Iam Boemia adeo pacata esse videtur,<note type="critic"
-                        xml:id="note.1">See the previous letter, Ep.
-                            674.<ref>olahus.tei.15470816_1</ref></note> ut nihil putem
-                    conspirationis oriri inposterum posse adversus maiestatem regiam. Bona omnia
-                        <persName>Flug</persName><note type="critic" xml:id="note.2">Kaspar
-                        Pflug.</note> capitanei profugi fisco regio sunt applicata, civitatum
-                    similiter omnium quatuor exceptis, quae permanserant in fide. Item baronum et
-                    nobilium omnium, qui conspirationis huius factiosae fuerant participes, sunt
-                    occupata et occupabuntur civitatibus praemia, ademptae sunt omnes bombardae,
-                    privilegia et immunitates. Restat solum modo, ut in dieta futura, cuius primus
-                    dies est 22.,<note type="critic" xml:id="note.3">On the executions and the diet,
-                        see <hi rend="smallcap">Winkelbauer</hi> 2003, 84.</note> huius ordo
-                    paretur, qui in posterium ab omnibus sit observandus.</p>
+                <p xml:id="p.2">[1.] Iam Boemia adeo pacata esse videtur,<note xml:id="note.1">See
+                        the previous letter, Ep. 674.<ref>olahus.tei.15470816_1</ref></note> ut
+                    nihil putem conspirationis oriri inposterum posse adversus maiestatem regiam.
+                    Bona omnia <persName>Flug</persName><note xml:id="note.2">Kaspar Pflug.</note>
+                    capitanei profugi fisco regio sunt applicata, civitatum similiter omnium quatuor
+                    exceptis, quae permanserant in fide. Item baronum et nobilium omnium, qui
+                    conspirationis huius factiosae fuerant participes, sunt occupata et occupabuntur
+                    civitatibus praemia, ademptae sunt omnes bombardae, privilegia et immunitates.
+                    Restat solum modo, ut in dieta futura, cuius primus dies est 22.,<note
+                        xml:id="note.3">On the executions and the diet, see <hi rend="smallcap"
+                            >Winkelbauer</hi> 2003, 84.</note> huius ordo paretur, qui in posterium
+                    ab omnibus sit observandus.</p>
                 <p xml:id="p.3">[2.] Non itaque iam equis adeo multis et armis in praesentia
                     indigeo, si quando indiguero, recurram mox ad Dominationem Vestram Magnificam.
                     Quare remisi equos et servitores nostros communes et gratias habeo et referam
                     magnas, quas potero Dominationi Vestrae Magnificae, quod me in mea <del
                         corresp="Olahus">non</del> necessitate nec equis, nec servitoribus
                         <milestone unit="pb"/>carere permiserit. </p>
-                <p xml:id="p.4"><persName>Rhumi</persName>,<note type="critic" xml:id="note.4">We do
-                        not know him more closely.</note><persName>Benedictus</persName><note
-                        type="critic" xml:id="note.5">Probably Benedikt Zercheky or Benedek
-                        Szörcsögi, who was Royal Chancellor Notary, and one of Oláh’s servitors. His
-                        name occurs in Oláh’s household. We also know his brief autobiographical
-                        work, according to which he only met Oláh after 1553: <hi rend="italic"
-                            >Brevis descriptio cursus vitae Benedicti Zercheky Secretarii
-                            Cancellariae Regiae sub Ferdinando I. et Nicolao Olaho manu ipsius
-                            conscripta. Circa Annum 1568</hi>, see <hi rend="smallcap"
-                            >Kovachich</hi> 1798, 154–155. On his life, see <hi rend="smallcap"
-                            >Fazekas</hi> 2019, 31; and <hi rend="smallcap">Fazekas</hi> 2018,
-                        365–366.</note> et <persName>Matheus</persName><note type="critic"
+                <p xml:id="p.4"><persName>Rhumi</persName>,<note xml:id="note.4">We do not know him
+                        more closely.</note><persName>Benedictus</persName><note xml:id="note.5"
+                        >Probably Benedikt Zercheky or Benedek Szörcsögi, who was Royal Chancellor
+                        Notary, and one of Oláh’s servitors. His name occurs in Oláh’s household. We
+                        also know his brief autobiographical work, according to which he only met
+                        Oláh after 1553: <hi rend="italic">Brevis descriptio cursus vitae Benedicti
+                            Zercheky Secretarii Cancellariae Regiae sub Ferdinando I. et Nicolao
+                            Olaho manu ipsius conscripta. Circa Annum 1568</hi>, see <hi
+                            rend="smallcap">Kovachich</hi> 1798, 154–155. On his life, see <hi
+                            rend="smallcap">Fazekas</hi> 2019, 31; and <hi rend="smallcap"
+                            >Fazekas</hi> 2018, 365–366.</note> et <persName>Matheus</persName><note
                         xml:id="note.6">Probably Matthias Tolnai Deák (Litteratus), who was Royal
                         Chancellor Notary, see <hi rend="smallcap">Fazekas</hi> 2019, 31.</note>
                     optimi sunt servitores et diligentes. Eos singulariter Dominationi Vestrae
@@ -290,26 +286,26 @@
                     quoque rogo, velit ipsis generosus dominus esse. </p>
                 <p xml:id="p.5">[3.] In rebus aliis Dominationi Vestrae Magnificae nunc nihil
                     scribo, satis enim nuper scripseram per <persName>Sbordellatum</persName>.<note
-                        type="critic" xml:id="note.7">Augustín Sbardelatti or János Ágoston Dudith
-                        (1500–1552) studied at the University of Padua. Between 1548 and 1552, he
-                        was Bishop of Vác. He fell during the battle at
-                        Plášťovce.</note><persName>Nekczey</persName><note type="critic"
-                        xml:id="note.8">István Mekcsey (ca. 1500–1553) was Castellan of Khust, then
-                        Castellan of Eger together with István Dobó from 1551. He played a key role
-                        in the defense of Eger during the 1552 siege. For more on him, see <hi
-                            rend="smallcap">Csiffáry</hi> 2005.</note> et
-                        <persName>contrascriba</persName><note type="critic" xml:id="note.9">Sándor
-                        Rokawy was Counter-signer <hi rend="italic">(contrascriba)</hi> in
-                        1549–1550, and Accountant <hi rend="italic">(rationista)</hi> from 1558. In
-                        1546, he became the first Royal Inspector of the Eger castle, see <hi
-                            rend="smallcap">Csiffáry</hi> 2009, 73; and <hi rend="smallcap"
-                            >Kenyeres</hi> 2002, 143.</note> adhuc hic sunt. Commissarii etiam
-                    reginae adsunt iam aliquot dies. Nescio, <del corresp="Olahus">quid</del> adhuc
-                    quid a rege petant, nam nudiustertius eorum legationem in scriptis Germanicis
-                    praesentaverunt. Quod restat, Dominationem Vestram Magnificam feliciter cum
-                    domina <milestone unit="pb"/><persName>coniuge</persName><note type="critic"
-                        xml:id="note.10">Orsolya Kanizsai.</note> sua carissima, domina mea
-                    observandissima ad multa secula valere opto, quibus servitia mea commendo.</p>
+                        xml:id="note.7">Augustín Sbardelatti or János Ágoston Dudith (1500–1552)
+                        studied at the University of Padua. Between 1548 and 1552, he was Bishop of
+                        Vác. He fell during the battle at
+                        Plášťovce.</note><persName>Nekczey</persName><note xml:id="note.8">István
+                        Mekcsey (ca. 1500–1553) was Castellan of Khust, then Castellan of Eger
+                        together with István Dobó from 1551. He played a key role in the defense of
+                        Eger during the 1552 siege. For more on him, see <hi rend="smallcap"
+                            >Csiffáry</hi> 2005.</note> et <persName>contrascriba</persName><note
+                        xml:id="note.9">Sándor Rokawy was Counter-signer <hi rend="italic"
+                            >(contrascriba)</hi> in 1549–1550, and Accountant <hi rend="italic"
+                            >(rationista)</hi> from 1558. In 1546, he became the first Royal
+                        Inspector of the Eger castle, see <hi rend="smallcap">Csiffáry</hi> 2009,
+                        73; and <hi rend="smallcap">Kenyeres</hi> 2002, 143.</note> adhuc hic sunt.
+                    Commissarii etiam reginae adsunt iam aliquot dies. Nescio, <del corresp="Olahus"
+                        >quid</del> adhuc quid a rege petant, nam nudiustertius eorum legationem in
+                    scriptis Germanicis praesentaverunt. Quod restat, Dominationem Vestram
+                    Magnificam feliciter cum domina <milestone unit="pb"
+                        /><persName>coniuge</persName><note xml:id="note.10">Orsolya
+                        Kanizsai.</note> sua carissima, domina mea observandissima ad multa secula
+                    valere opto, quibus servitia mea commendo.</p>
                 <p xml:id="p.6">Ex <placeName>Praga</placeName> 18. Augusti anno 1547.</p>
                 <p xml:id="p.7">
                     <seg type="signature">Servitor et frater Nicolaus Zagrabiensis cancellarius

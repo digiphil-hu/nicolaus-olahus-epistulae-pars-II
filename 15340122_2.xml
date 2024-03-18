@@ -206,7 +206,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -233,20 +232,19 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad archiepiscopum Lundensem oratorem caesaris. </p>
                 <p xml:id="p.2">In rebus tuis, in quibus sint terminis, proximis meis litteris<note
-                        type="critic" xml:id="note.1">See Ep.
-                        435.<ref>olahus.tei.15331228_1</ref></note> abunde perscripsi. Nunc restat,
-                    ut <persName>Erhardus Mueler</persName><note type="critic" xml:id="note.2"
-                        >Erhard Müller.</note> cum suis sociis abeat ad XV. Februarii
+                        xml:id="note.1">See Ep. 435.<ref>olahus.tei.15331228_1</ref></note> abunde
+                    perscripsi. Nunc restat, ut <persName>Erhardus Mueler</persName><note
+                        xml:id="note.2">Erhard Müller.</note> cum suis sociis abeat ad XV. Februarii
                         <placeName>Hamburgam</placeName>. Qui ad octavum hinc diem solvent,
                     habebuntque etiam in rebus tuis, ut scripsi antea, commissionem. Exspectavi
-                        <persName>Cornelium</persName><note type="critic" xml:id="note.3">Cornelis
-                        de Schepper.</note> nostrum huc in hunc usque diem, nondum tamen venit.
+                        <persName>Cornelium</persName><note xml:id="note.3">Cornelis de
+                        Schepper.</note> nostrum huc in hunc usque diem, nondum tamen venit.
                     Arbitror eum per <placeName>Burgundiam</placeName> profectum esse ad vos. Quare
                     ne et <persName>reginae</persName> rebus et meis deessem, volui litteras has
                     recta ad curiam in eventum rei mittere. Nunc si <persName>Griti</persName><note
-                        type="critic" xml:id="note.4">Lodovico Gritti.</note> advenerit, tempus erit
-                    rerum mearum curandarum. Quare rogo te, ut illas habeas commendatas, et una cum
-                    Cornelio illas ex animi mei confice sententia. Quid in illis agendum sit et ubi
+                        xml:id="note.4">Lodovico Gritti.</note> advenerit, tempus erit rerum mearum
+                    curandarum. Quare rogo te, ut illas habeas commendatas, et una cum Cornelio
+                    illas ex animi mei confice sententia. Quid in illis agendum sit et ubi
                     tractandum, pluribus ipsi Cornelio nostro descripsi, in eum finem, ut ea omnia
                     tecum communicet. Rogo igitur atque iterum te rogo, ut eas tua authoritate et
                     favore apud quoscumque necessarium erit, promoveas, et efficias, ut bonum in his

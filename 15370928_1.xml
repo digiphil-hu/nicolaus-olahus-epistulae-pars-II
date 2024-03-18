@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -264,38 +262,37 @@
                     quas Graeci <choice>
                         <orig>ἐκειχειρίας</orig>
                         <supplied>ἐκεχειρίας</supplied>
-                    </choice>,<note type="critic" xml:id="note.1">‘caesefire’.</note> ut scis
-                        <milestone unit="pb"/>ἐκεχειρίας appellant, et tibi periculorum et mihi <choice>
+                    </choice>,<note xml:id="note.1">‘caesefire’.</note> ut scis <milestone unit="pb"
+                    />ἐκεχειρίας appellant, et tibi periculorum et mihi <choice>
                         <orig>timores</orig>
                         <supplied>timoris</supplied>
                     </choice> materiam adimunt. </p>
                 <p xml:id="p.3">[2.] Audio te ex litteris <persName>Dani</persName><note
-                        type="critic" xml:id="note.2">Jakob Jespersen.</note> Aeschinem
-                        oppugnare,<note type="critic" xml:id="note.3">In 1534, Nanninck also read
-                        Aeschines “in the hall of the Augustinians”, see <hi rend="smallcap">Van
-                            Rooy–Van Hal</hi> 2018.</note> et illi nectere crinem male obitae
-                    legationis. Cupio ex <del corresp="Olahus">litteris</del> tuis lucubrationibus
-                    vel <del corresp="editor">vel</del> extemporabilibus potius schedis cognoscere,
-                    quae pericula reus ille sustineat; non enim dubito, quin omnia prosolita tua
-                    felicitate tractaveris. Ego <choice>
+                        xml:id="note.2">Jakob Jespersen.</note> Aeschinem oppugnare,<note
+                        xml:id="note.3">In 1534, Nanninck also read Aeschines “in the hall of the
+                        Augustinians”, see <hi rend="smallcap">Van Rooy–Van Hal</hi> 2018.</note> et
+                    illi nectere crinem male obitae legationis. Cupio ex <del corresp="Olahus"
+                        >litteris</del> tuis lucubrationibus vel <del corresp="editor">vel</del>
+                    extemporabilibus potius schedis cognoscere, quae pericula reus ille sustineat;
+                    non enim dubito, quin omnia prosolita tua felicitate tractaveris. Ego <choice>
                         <orig>Eurypides</orig>
                         <supplied><persName>Eurypidis</persName></supplied>
-                    </choice><hi rend="italic">Andromachem</hi> verto,<note type="critic"
-                        xml:id="note.4">We do not know this translation.</note> ubi aliquo usque
-                    progressus fuero, gustum tibi eius rei faciam. Scio enim aulicis hominibus
-                    rusticos aliquando cibos ex lignea paropside vel potius obba depromptos bene
-                    sapere. Multa praeconia depredicant de tuo <hi rend="italic">Athila</hi>, homo
-                    aliquin parcissimae laudis, <persName>Conradus Goclenius</persName>,<note
-                        type="critic" xml:id="note.5">Conrad Wackers.</note> quae res quam mihi
-                    iucunda sit, vix ullis verbis consequi potero, certe aliquot honesti et eximii
-                    iuvenes tuum <hi rend="italic">Athilam</hi> quantumcumque torvum conspicere
-                    desiderant. Nos rursum lippi sumus, ut superiore anno.<note type="critic"
-                        xml:id="note.6">See Ep. 577.<ref>/o:olahus.tei.15361018_1</ref></note> Tu,
-                    Ornatissime et Humanissime Patrone, diu feliciterque vive. Ages, si non grave
-                    sit, <persName>Rutgero</persName><note type="critic" xml:id="note.7">Rutger
-                        Pathius.</note> tuo gratias meo nomine, quod <persName>fratrem</persName>
-                    suum apud me collocarit, nam tametsi res exigui quaestus sit, ego tamen pro re
-                    magnifica habeo, tanti ab honestis viris fieri, iterum vale. </p>
+                    </choice><hi rend="italic">Andromachem</hi> verto,<note xml:id="note.4">We do
+                        not know this translation.</note> ubi aliquo usque progressus fuero, gustum
+                    tibi eius rei faciam. Scio enim aulicis hominibus rusticos aliquando cibos ex
+                    lignea paropside vel potius obba depromptos bene sapere. Multa praeconia
+                    depredicant de tuo <hi rend="italic">Athila</hi>, homo aliquin parcissimae
+                    laudis, <persName>Conradus Goclenius</persName>,<note xml:id="note.5">Conrad
+                        Wackers.</note> quae res quam mihi iucunda sit, vix ullis verbis consequi
+                    potero, certe aliquot honesti et eximii iuvenes tuum <hi rend="italic"
+                        >Athilam</hi> quantumcumque torvum conspicere desiderant. Nos rursum lippi
+                    sumus, ut superiore anno.<note xml:id="note.6">See Ep.
+                            577.<ref>/o:olahus.tei.15361018_1</ref></note> Tu, Ornatissime et
+                    Humanissime Patrone, diu feliciterque vive. Ages, si non grave sit,
+                        <persName>Rutgero</persName><note xml:id="note.7">Rutger Pathius.</note> tuo
+                    gratias meo nomine, quod <persName>fratrem</persName> suum apud me collocarit,
+                    nam tametsi res exigui quaestus sit, ego tamen pro re magnifica habeo, tanti ab
+                    honestis viris fieri, iterum vale. </p>
                 <p xml:id="p.4">4. Kalendas Octobres 1537.</p>
             </div>
         </body>

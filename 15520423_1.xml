@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName> King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,11 +235,11 @@
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime in Christo Pater Fidelis Sincere
                     Dilecte!</p>
                 <p xml:id="p.2">Ex litteris tuis die 19. praesentis mensis ad nos datis<note
-                        type="critic" xml:id="note.1">We do not know this letter.</note> clementer
-                    intelleximus ea, quae tibi visa sunt, ut nos propter spectabilis et magnifici
-                        <del corresp="scriba">Andreae iudici</del><persName>Andreae de
-                        Bathor</persName><note type="critic" xml:id="note.2">András (Bonaventura)
-                        Báthori.</note> aegritudinem, in quam denuo incidit, ordinaremus, quaeque ad <choice>
+                        xml:id="note.1">We do not know this letter.</note> clementer intelleximus
+                    ea, quae tibi visa sunt, ut nos propter spectabilis et magnifici <del
+                        corresp="scriba">Andreae iudici</del><persName>Andreae de
+                        Bathor</persName><note xml:id="note.2">András (Bonaventura) Báthori.</note>
+                    aegritudinem, in quam denuo incidit, ordinaremus, quaeque ad <choice>
                         <orig>tuis</orig>
                         <supplied>tuas</supplied>
                     </choice> litteras, quas una nobis transmisisti, <del corresp="scriba"
@@ -249,23 +247,22 @@
                         corresp="scriba" type="corr">Probat</add> itaque <del corresp="scriba">isti
                         suo</del> gratiose istiusmodi consilio et opinione tua, litteras per te ad
                     spectabilem et magnificum <persName>Ioannem Baptistam Castaldum</persName>,<note
-                        type="critic" xml:id="note.3">Giovanni Battista Castaldo.</note> bellicum
-                    locumtenentem, necnon consiliarios nostros reverendissimum <persName>Paulum
-                        episcopum Vesprimiensiem</persName><note type="critic" xml:id="note.4">Pál
-                        Bornemissza.</note> et egregium <persName>Georgium Vernerum</persName><note
-                        type="critic" xml:id="note.5">Georg Werner.</note> de conventu <del
-                        corresp="scriba">in</del><add corresp="scriba" type="corr">cum</add>
-                    Transsylvania ab eis absente <persName>Bathory</persName> celebrando confectas,
-                    simulque litteras credentiales manu nostra subsignavimus, tibique illas sigillo
-                    nostro Hungarico ulterius expediendas remittimus. <del corresp="scriba"
-                        >Ipsique</del><add corresp="scriba" type="corr">Ipsi</add> vera
-                        <persName>Bathory</persName> iuxta <del corresp="scriba">formulam pro te
-                        quaque tuam</del> conceptum, quod nobis transmisit, respondemus hoc solum
-                    modo <milestone unit="pb"/>addito, quod, quo ad reditum suum audiveram, daturi
-                    sumus, ut quamprimum possibile fuerit ei satisfactio facit. Restat igitur, ut
-                    litteras praedictas quamprimum expedias et per postam celeriter in
-                    Transsylvaniam transmittas. Vestram in eo ex<gap extent="1" reason="illegible"
-                        unit="word"/> exsecuturus voluntatem. </p>
+                        xml:id="note.3">Giovanni Battista Castaldo.</note> bellicum locumtenentem,
+                    necnon consiliarios nostros reverendissimum <persName>Paulum episcopum
+                        Vesprimiensiem</persName><note xml:id="note.4">Pál Bornemissza.</note> et
+                    egregium <persName>Georgium Vernerum</persName><note xml:id="note.5">Georg
+                        Werner.</note> de conventu <del corresp="scriba">in</del><add
+                        corresp="scriba" type="corr">cum</add> Transsylvania ab eis absente
+                        <persName>Bathory</persName> celebrando confectas, simulque litteras
+                    credentiales manu nostra subsignavimus, tibique illas sigillo nostro Hungarico
+                    ulterius expediendas remittimus. <del corresp="scriba">Ipsique</del><add
+                        corresp="scriba" type="corr">Ipsi</add> vera <persName>Bathory</persName>
+                    iuxta <del corresp="scriba">formulam pro te quaque tuam</del> conceptum, quod
+                    nobis transmisit, respondemus hoc solum modo <milestone unit="pb"/>addito, quod,
+                    quo ad reditum suum audiveram, daturi sumus, ut quamprimum possibile fuerit ei
+                    satisfactio facit. Restat igitur, ut litteras praedictas quamprimum expedias et
+                    per postam celeriter in Transsylvaniam transmittas. Vestram in eo ex<gap
+                        extent="1" reason="illegible" unit="word"/> exsecuturus voluntatem. </p>
                 <p xml:id="p.3">Datum in oppido nostro <placeName>Lynczio</placeName> die 23.
                     Aprilis 1552.</p>
                 <p xml:id="p.4"><hi rend="italic"

@@ -211,12 +211,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -243,7 +241,7 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Unnser freundtlich grueß zuvor, lieben herrn unnd gueten freundt! </p>
-                <p xml:id="p.2">Demnach wir bericht, wie sich etlich ir khu. mt.<note type="critic"
+                <p xml:id="p.2">Demnach wir bericht, wie sich etlich ir khu. mt.<note
                         xml:id="note.1">I.e. königliche Majestät.</note> etc. unnser
                         <persName>allergnedigisten frawen</persName> unnderthanen und <add
                         corresp="author" type="insert">eurer</add> mitburger beschweren und widern
@@ -251,27 +249,25 @@
                     unnderhalltung irer perckhwerch furgelihen, ire schrifftlich bekhanntnuß zu
                     geben, wie dann schon etlich gethan. Ist derhalben in ir khu. mt. etc. namen
                     unnser bevelh an euch und fur unns unnser fruntlich bit, wie euch
-                        <persName>Petter Hiltpranndt</persName>,<note type="critic" xml:id="note.2"
-                        >Peter Hilleprandt or Hillnprandt was Deputy Count of the Chamber <hi
-                            rend="italic">(Unterkammergraf)</hi> of Banská Štiavnica between 1529
-                        and 1543, <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 13; <hi
+                        <persName>Petter Hiltpranndt</persName>,<note xml:id="note.2">Peter
+                        Hilleprandt or Hillnprandt was Deputy Count of the Chamber <hi rend="italic"
+                            >(Unterkammergraf)</hi> of Banská Štiavnica between 1529 and 1543, <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 13; <hi
                             rend="smallcap">Probszt</hi>, 1958, 66.</note><persName>Thadeuß
-                        Bartfelder</persName><note type="critic" xml:id="note.3">Thadeus Bartfelder
-                        was ciziten of Banská Štiavnica, see <hi rend="smallcap"
-                            >Meier–Piirainen–Wegera</hi> 2009, 575.</note> oder <persName>Petter
-                        Unngerfeindt</persName><note type="critic" xml:id="note.4">Peter Ungerfeindt
-                        or Hungerfeindt was Deputy Count of the Chamber <hi rend="italic"
-                            >(Unterkammergraf)</hi> of Banská Štiavnica, see <hi rend="smallcap"
-                            >Denis</hi> 1807, 358.</note> inn sollichem umb hilff anlanngen wurdt,
-                    ir wellet inen zu sollichem verhelffen und dermaßen verschaffen, das gemelte
-                    widersprünge waldtpurger<note type="critic" xml:id="note.5">Waldbürger ‘citizen
-                        of a mining town’.</note> ire solche ire bekhanntnuß an weitter auffzug
-                    geben, wie wir euch dann vor etlichen tagen mundtlich durch euren ratsfreundt,
-                        <persName>Banngratz</persName><note type="critic" xml:id="note.6">Probably
+                        Bartfelder</persName><note xml:id="note.3">Thadeus Bartfelder was ciziten of
+                        Banská Štiavnica, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009,
+                        575.</note> oder <persName>Petter Unngerfeindt</persName><note
+                        xml:id="note.4">Peter Ungerfeindt or Hungerfeindt was Deputy Count of the
+                        Chamber <hi rend="italic">(Unterkammergraf)</hi> of Banská Štiavnica, see
+                            <hi rend="smallcap">Denis</hi> 1807, 358.</note> inn sollichem umb hilff
+                    anlanngen wurdt, ir wellet inen zu sollichem verhelffen und dermaßen
+                    verschaffen, das gemelte widersprünge waldtpurger<note xml:id="note.5"
+                        >Waldbürger ‘citizen of a mining town’.</note> ire solche ire bekhanntnuß an
+                    weitter auffzug geben, wie wir euch dann vor etlichen tagen mundtlich durch
+                    euren ratsfreundt, <persName>Banngratz</persName><note xml:id="note.6">Probably
                         Pankraz. We do not know him more closely.</note> und dem
-                        <persName>statschreiber</persName>,<note type="critic" xml:id="note.7">Anton
-                        Paus.</note> zu entbotten und aufgelegt haben etc. Damit was euch
-                    freundtlich lieb ist. </p>
+                        <persName>statschreiber</persName>,<note xml:id="note.7">Anton Paus.</note>
+                    zu entbotten und aufgelegt haben etc. Damit was euch freundtlich lieb ist. </p>
                 <p xml:id="p.3">Datum <placeName>Crembnitz</placeName> den 8. tag Augusti anno im
                         42<hi rend="super">ten</hi>.</p>
                 <p xml:id="p.4">
@@ -289,9 +285,9 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.6">Denn ersamen unnd weysen herrn, n.,<note type="critic"
-                        xml:id="note.8">I.e. Name.</note> richter unnd rat der stat Schembnitz,
-                    unnsern sonnder gueten freunden zu hanndenn.</p>
+                <p xml:id="p.6">Denn ersamen unnd weysen herrn, n.,<note xml:id="note.8">I.e.
+                        Name.</note> richter unnd rat der stat Schembnitz, unnsern sonnder gueten
+                    freunden zu hanndenn.</p>
             </div>
         </body>
     </text>

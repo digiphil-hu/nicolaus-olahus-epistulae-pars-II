@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Batthyány<idno type="ITIdata">Q141443</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,53 +238,50 @@
                 <pb/>
                 <p xml:id="p.1">Salutem et servitiorum meorum commendationem, Magnifice Domine mihi
                     Honorandissime! </p>
-                <p xml:id="p.2">[1.] Hodie ad noctem accepi litteras<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> Dominationis Vestrae, ad
-                    quas volui brevibus respondere, cum alias quoque litteras
-                        <placeName>Posonium</placeName> daturus essem. Filius<note type="critic"
-                        xml:id="note.2">The later Maximilian II, Holy Roman
+                <p xml:id="p.2">[1.] Hodie ad noctem accepi litteras<note xml:id="note.1">We do not
+                        know this letter.</note> Dominationis Vestrae, ad quas volui brevibus
+                    respondere, cum alias quoque litteras <placeName>Posonium</placeName> daturus
+                    essem. Filius<note xml:id="note.2">The later Maximilian II, Holy Roman
                         Emperor.</note><persName>regiae maiestatis</persName>, qui huc venerat,
                     hodie expeditus est. Litterae Dominationis Vestrae fuerant domino
-                        <persName>Keglewyth</persName><note type="critic" xml:id="note.3">Probably
-                        Péter Keglevich or Petar Keglević (ca. 1485/1500–1554/1555), who was Ban of
-                        Croatia and Slavonia from 1537 to 1542. In 1542, he was imprisoned as an
-                        infidel, but he was soon released. In 1546, the new Ban of Croatia, Miklós
-                        Zrínyi captured him and imprisoned him in Kostel. See <hi rend="smallcap"
+                        <persName>Keglewyth</persName><note xml:id="note.3">Probably Péter Keglevich
+                        or Petar Keglević (ca. 1485/1500–1554/1555), who was Ban of Croatia and
+                        Slavonia from 1537 to 1542. In 1542, he was imprisoned as an infidel, but he
+                        was soon released. In 1546, the new Ban of Croatia, Miklós Zrínyi captured
+                        him and imprisoned him in Kostel. See <hi rend="smallcap"
                             >Mujadžević–Katušić</hi> 2009; and Lukács Székely’s letter to Niklas von
                         Salm on 15 September, 1546: <hi rend="smallcap">Barabás</hi> 1898,
                         71–74.</note> praesentatae. Propter dominum
-                        <persName>Christophorum</persName><note type="critic" xml:id="note.4"
-                        >Kristóf Batthyány.</note> fratrem suum de me conqueri nihil merito potest.
-                    Nam sicuti maiestas regia mihi diebus praeteritis dixit, cur saltem dominos
+                        <persName>Christophorum</persName><note xml:id="note.4">Kristóf
+                        Batthyány.</note> fratrem suum de me conqueri nihil merito potest. Nam
+                    sicuti maiestas regia mihi diebus praeteritis dixit, cur saltem dominos
                     consiliarios suos voluit inscribi, qui <placeName>Posonii</placeName> ordinarie
                     sunt et ibi semper manent, alii quoque omnes domini consiliarii, sicuti maiestas
                     sua dixit, quando ad <del corresp="Olahus">reverendissimum</del> dominum
-                    reverendissimum <persName>locumtenentem</persName><note type="critic"
-                        xml:id="note.5">Pál Várday.</note> veniunt, habent suum locum <del
-                        corresp="Olahus">tam summo</del> in consilio, inter quos est dominus
+                    reverendissimum <persName>locumtenentem</persName><note xml:id="note.5">Pál
+                        Várday.</note> veniunt, habent suum locum <del corresp="Olahus">tam
+                        summo</del> in consilio, inter quos est dominus
                         <persName>Christophorus</persName>; et non modo ibi, sed etiam in consilio
                     suae maiestatis. De hac tamen re loquar rursus suae maiestati, quamprimum otium
-                    habuerit. Super iure domini <persName>Balassa</persName><note type="critic"
-                        xml:id="note.6">Probably Menyhárt Balassa, who was <hi rend="italic"
-                            >ispán</hi> of Hont and Bars counties. The Balassa brothers sued Ferenc
-                        Batthyány for the estates in Güssing, see <hi rend="smallcap">Virovecz</hi>
-                        2017, 54, 247–248.</note> in <placeName>Wywar</placeName><note type="critic"
-                        xml:id="note.7">Németújvár, today: Güssing.</note> habito <del
-                        corresp="Olahus">aut</del> Dominationi Vestrae et mihi dando, quod maiestas
-                    sua mihi respondeat, Dominationi Vestrae iam pridem perscripsi. <del
-                        corresp="Olahus">Non</del> De tricesima in
+                    habuerit. Super iure domini <persName>Balassa</persName><note xml:id="note.6"
+                        >Probably Menyhárt Balassa, who was <hi rend="italic">ispán</hi> of Hont and
+                        Bars counties. The Balassa brothers sued Ferenc Batthyány for the estates in
+                        Güssing, see <hi rend="smallcap">Virovecz</hi> 2017, 54, 247–248.</note> in
+                        <placeName>Wywar</placeName><note xml:id="note.7">Németújvár, today:
+                        Güssing.</note> habito <del corresp="Olahus">aut</del> Dominationi Vestrae
+                    et mihi dando, quod maiestas sua mihi respondeat, Dominationi Vestrae iam pridem
+                    perscripsi. <del corresp="Olahus">Non</del> De tricesima in
                         <placeName>Nemethwywar</placeName> adhuc responsum habere non potui,
                     qualecumque habuero, perscribam Dominationi Vestrae. </p>
                 <pb/>
                 <p xml:id="p.3">[2.] Nova, quae hic habemus, Dominatio Vestra accipere poterit a
                     reverendissimo domino nostro <persName>Strigoniensi</persName>,<note
-                        type="critic" xml:id="note.8">Pál Várday.</note> ad quem et ego scripsi, et
-                    dominus etiam <persName>Nyary</persName><note type="critic" xml:id="note.9"
-                        >Ferenc Nyári.</note> scripsit.<note type="critic" xml:id="note.10">See
-                        OSZK, Fol. Lat. 1657. fol. 140r–141r. and OSZK, Fol. Lat. 2630. Anno 1546
-                        No. 2. fol. 1. This letter also was edited, see <hi rend="smallcap"
-                            >Pray</hi> 1805, 147–153; and Ep.
-                        667.<ref>olahus.tei.15461105_1sz</ref></note> Omnia hactenus, laus esto,
+                        xml:id="note.8">Pál Várday.</note> ad quem et ego scripsi, et dominus etiam
+                        <persName>Nyary</persName><note xml:id="note.9">Ferenc Nyári.</note>
+                        scripsit.<note xml:id="note.10">See OSZK, Fol. Lat. 1657. fol. 140r–141r.
+                        and OSZK, Fol. Lat. 2630. Anno 1546 No. 2. fol. 1. This letter also was
+                        edited, see <hi rend="smallcap">Pray</hi> 1805, 147–153; and Ep.
+                            667.<ref>olahus.tei.15461105_1sz</ref></note> Omnia hactenus, laus esto,
                     prospera fuerint tam apud <persName>caesarem</persName> quam in expeditione hac
                     maiestatis regiae suae Saxonica. Iam dimidia et maior pars bonorum ducis
                     Saxoniae electoris est in manu regia, propediem feliciora nova exspectamus.

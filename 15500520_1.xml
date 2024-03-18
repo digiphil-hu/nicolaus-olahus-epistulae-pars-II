@@ -226,12 +226,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Ferenc Thurzó</persName>
                                         <orgName>Hungarian Chamber</orgName>
                                 </correspAction>
@@ -272,46 +270,43 @@
                                         litteris suis de expeditione negotiorum Maromarusiensium
                                         nobis scripserunt, intelleximus. Cumque litteras ad id
                                         necessarias expedivissemus, supervenerunt aliae quoque
-                                                litterae<note type="critic" xml:id="note.1">We do
-                                                not know these letters.</note> Dominationum
-                                        Vestrarum, quibus mutato priori proposito dominum
-                                                <persName>Anthonium Naghwathy</persName><note
-                                                type="critic" xml:id="note.2">Antal Nagyváthi was
-                                                Secretary of the Palatin in 1527, Castellan of Devín
-                                                in 1543, and Personalis <hi rend="italic"
-                                                  >(locumtenens personalis praesentiae)</hi> from
-                                                1549, see <hi rend="smallcap">Fazekas</hi> 2021, 42;
-                                                  <hi rend="smallcap">Gecsényi</hi> 2008b,
-                                                402.</note> loco directoris causarum Maromarusium
-                                        mitti statuerunt, novasque litteras per nos expediri
-                                        petierunt. Nos quidem eas quoque expedivimus, et una cum
-                                        prioribis praesentibusque nostris ad Dominationes Vestras
-                                        misimus. Iam stabit in earum arbitrio priorine, an
-                                        posteriori expeditione velint uti. Verum deinceps in talibus
-                                        rebus Dominationes Vestrae sint diligentiores, ne negotiorum
-                                                <persName>regiae maiestatis</persName> expeditionem
-                                        ad terminum praefixum differant. Nosque faciant tempestive
-                                        de his rebus certiores, quae expediri debent. Nam
-                                        praeterquam quod non est bona talium negotiorum crebra
-                                        mutatio, non semper datur opportunitas huiusmodi negotia
-                                        expediendi, tum quod maiestas regia crebro multis rebus
-                                        occupatur. Interdum etiam solatii gratia venari solet, tum
-                                        vero quod temporis brevitas in seriis negotiis damnum dare
-                                        consuevit, sed de his satis.</p>
+                                                litterae<note xml:id="note.1">We do not know these
+                                                letters.</note> Dominationum Vestrarum, quibus
+                                        mutato priori proposito dominum <persName>Anthonium
+                                                Naghwathy</persName><note xml:id="note.2">Antal
+                                                Nagyváthi was Secretary of the Palatin in 1527,
+                                                Castellan of Devín in 1543, and Personalis <hi
+                                                  rend="italic">(locumtenens personalis
+                                                  praesentiae)</hi> from 1549, see <hi
+                                                  rend="smallcap">Fazekas</hi> 2021, 42; <hi
+                                                  rend="smallcap">Gecsényi</hi> 2008b, 402.</note>
+                                        loco directoris causarum Maromarusium mitti statuerunt,
+                                        novasque litteras per nos expediri petierunt. Nos quidem eas
+                                        quoque expedivimus, et una cum prioribis praesentibusque
+                                        nostris ad Dominationes Vestras misimus. Iam stabit in earum
+                                        arbitrio priorine, an posteriori expeditione velint uti.
+                                        Verum deinceps in talibus rebus Dominationes Vestrae sint
+                                        diligentiores, ne negotiorum <persName>regiae
+                                                maiestatis</persName> expeditionem ad terminum
+                                        praefixum differant. Nosque faciant tempestive de his rebus
+                                        certiores, quae expediri debent. Nam praeterquam quod non
+                                        est bona talium negotiorum crebra mutatio, non semper datur
+                                        opportunitas huiusmodi negotia expediendi, tum quod maiestas
+                                        regia crebro multis rebus occupatur. Interdum etiam solatii
+                                        gratia venari solet, tum vero quod temporis brevitas in
+                                        seriis negotiis damnum dare consuevit, sed de his satis.</p>
                                 <p xml:id="p.3">[2.] Praeterea non ignorant Dominationes Vestrae
                                         maiestatem regiam et nos cum ea brevi ad comitia imperialia
-                                                profecturos,<note type="critic" xml:id="note.3">To
-                                                Augsburg, see Ep.
-                                                  738.<ref>olahus.tei.15500511_1</ref></note> ubi
+                                                profecturos,<note xml:id="note.3">To Augsburg, see
+                                                Ep. 738.<ref>olahus.tei.15500511_1</ref></note> ubi
                                         praesente pecunia opus erit. Cum autem festum Urbani,<note
-                                                type="critic" xml:id="note.4">25 May.</note> ad quod
-                                        Dominationes Vestrae se nobis pecuniam daturas
-                                                obtulerunt,<note type="critic" xml:id="note.5">See
-                                                Ep. 737. Cap.
-                                                1.<ref>olahus.tei.15500423_1</ref></note> in proximo
-                                        sit, rogamus easdem, <milestone unit="pb"/>velint iuxta suam
-                                        pollicitationem nobis pecuniam reddere. Ceterum scripserunt
-                                        nobis Dominationes Vestrae de decimis
+                                                xml:id="note.4">25 May.</note> ad quod Dominationes
+                                        Vestrae se nobis pecuniam daturas obtulerunt,<note
+                                                xml:id="note.5">See Ep. 737. Cap.
+                                                  1.<ref>olahus.tei.15500423_1</ref></note> in
+                                        proximo sit, rogamus easdem, <milestone unit="pb"/>velint
+                                        iuxta suam pollicitationem nobis pecuniam reddere. Ceterum
+                                        scripserunt nobis Dominationes Vestrae de decimis
                                                 <placeName>Saros</placeName> et
                                                 <placeName>Bereg</placeName> comitatuum. Nunc ad id
                                         Dominationibus Vestris respondere non possumus, verum ubi

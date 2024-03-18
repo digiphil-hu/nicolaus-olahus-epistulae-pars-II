@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,12 +239,12 @@
                     promotione saepenumero clementer facere dignata fuit, non erubui <del
                         corresp="Olahus">supplex</del> clementiam et munificentiam eius nunc supplex
                     implorare, cum Sacratissimae Maiestati Vestrae in episcopatibus Agriensi et
-                    Transsylvaniensi nunc vacantibus<note type="critic" xml:id="note.1">Oláh aspired
-                        to an Episcopate for a long time. He wrote about this desire to Imre Kálnai
-                        in 1530, see Ep. 98. The Episcopate of Eger was unfilled after Ferenc
-                        Frangepán died in January 1543. The Episcopate of Alba Julia was unfilled
-                        after Miklós Gerendi died in 1540, and the interregnum lasted until 1551. In
-                        addition, all the Transylvanian Saxonian priests converted to Lutheranism in
+                    Transsylvaniensi nunc vacantibus<note xml:id="note.1">Oláh aspired to an
+                        Episcopate for a long time. He wrote about this desire to Imre Kálnai in
+                        1530, see Ep. 98. The Episcopate of Eger was unfilled after Ferenc Frangepán
+                        died in January 1543. The Episcopate of Alba Julia was unfilled after Miklós
+                        Gerendi died in 1540, and the interregnum lasted until 1551. In addition,
+                        all the Transylvanian Saxonian priests converted to Lutheranism in
                             1543.<ref>olahus.tei.15301013_2</ref></note> datam esse videam
                     occasionem, qua in me suam clementiam declarare possit, et mihi locum ac
                     conditionem dare, ex qua non quidem fidelius, quam in hunc diem (id enim totis

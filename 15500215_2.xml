@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Michael Manlich</persName>
                 </correspAction>
             </correspDesc>
@@ -240,15 +238,14 @@
                 <pb/>
                 <p xml:id="p.1">Carissime Domine Manlii!</p>
                 <p xml:id="p.2">Debebat reverendissimus quondam dominus <persName>Paulus de
-                        Warda</persName><note type="critic" xml:id="note.1">Pál Várdai.</note>
-                    archiepiscopus Strigoniensis huic domino <persName>Stephano
-                        Laureo</persName>,<note type="critic" xml:id="note.2">Stephanus Laureus of
-                        Amersfoort (ca. †1564) was the Imperial Physician of Emperors Ferdinand I
-                        and Maximilian II. He studied in Leuven, see <hi rend="smallcap"
-                            >Stolberg</hi> 2015, 77; and Konrad Gessner’s letter to Caspar von
-                        Nidbruck on 2 February, 1556, in ÖNB Cod. 9737k, fol. 23–25.</note> artis
-                    medicae doctori centum et viginti Florenos Hungaricos in monetis, quod debitum
-                    in nos ipsos recepimus.</p>
+                        Warda</persName><note xml:id="note.1">Pál Várdai.</note> archiepiscopus
+                    Strigoniensis huic domino <persName>Stephano Laureo</persName>,<note
+                        xml:id="note.2">Stephanus Laureus of Amersfoort (ca. †1564) was the Imperial
+                        Physician of Emperors Ferdinand I and Maximilian II. He studied in Leuven,
+                        see <hi rend="smallcap">Stolberg</hi> 2015, 77; and Konrad Gessner’s letter
+                        to Caspar von Nidbruck on 2 February, 1556, in ÖNB Cod. 9737k, fol.
+                        23–25.</note> artis medicae doctori centum et viginti Florenos Hungaricos in
+                    monetis, quod debitum in nos ipsos recepimus.</p>
                 <p xml:id="p.3">Quare rogamus vos, velitis hos centum et viginti Florenos Hungaricos
                     in monetis, quemlicet Florenum per septuaginta quinque cruciferos computandos
                     praefato domino <persName>Stephano Laureo</persName> doctori pro nobis

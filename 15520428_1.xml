@@ -217,12 +217,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <orgName>Hungarian Chamber</orgName>
                                 </correspAction>
                         </correspDesc>
@@ -251,11 +249,10 @@
                                 <p xml:id="p.1">Reverendissime, Reverende et Egregii Domini Amici
                                         Honorandi, salutem et nostri commendationem!</p>
                                 <p xml:id="p.2">Venerabiles et religiosae sanctimoniales de
-                                                <placeName>Tyrnavia</placeName><note type="critic"
-                                                xml:id="note.1">Trnava.</note> venerunt huc
-                                        conquestum colonos ipsarum, quos paucos habent in praesenti
-                                        contributione esse dicatos, cum tamen a multo tempore, dum
-                                        sane fundatum esset <choice>
+                                                <placeName>Tyrnavia</placeName><note xml:id="note.1"
+                                                >Trnava.</note> venerunt huc conquestum colonos
+                                        ipsarum, quos paucos habent in praesenti contributione esse
+                                        dicatos, cum tamen a multo tempore, dum sane fundatum esset <choice>
                                                 <orig>eorum</orig>
                                                 <supplied>earum</supplied>
                                         </choice> monasterium, ea libertate a divis regibus donatum

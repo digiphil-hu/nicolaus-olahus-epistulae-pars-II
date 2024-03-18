@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
             </correspDesc>
@@ -229,9 +227,9 @@
                 <p xml:id="p.1">Reverendissime, Reverende ac Egregii Domini et Amici nobis
                     Honorandi, salutem et nostri commendationem!</p>
                 <p xml:id="p.2">Nuntiavimus in negotiis nostris quaedam Dominationibus Vestris medio
-                    huius magistri <persName>Mathei Zerdaheli</persName>,<note type="critic"
-                        xml:id="note.1">Máté Szerdahelyi.</note> cui ut fidem adhibere velint,
-                    rogamus, optamus in reliquo feliciter valere. </p>
+                    huius magistri <persName>Mathei Zerdaheli</persName>,<note xml:id="note.1">Máté
+                        Szerdahelyi.</note> cui ut fidem adhibere velint, rogamus, optamus in
+                    reliquo feliciter valere. </p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 23. Iunii 1551.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

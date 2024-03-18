@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,47 +232,45 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Antonius Wrancius<note type="critic" xml:id="note.1">Antal
-                        Verancsics or Antun Vrančić (1504–1573) was a humanist, prelate, and
-                        historian of Dalmatian origin. He studied at the University of Padua, and
-                        after Mohács, he became a diplomat of King John I. In 1549, he changed side
-                        and remained loyal to the Habsburgs until his death. He was Canon of Eger
-                        from 1550, Bishop of Pécs from 1553, and Bishop of Eger from 1557. Following
-                        Oláh’s death, he was elected Archbishop of Esztergom in 1569. Today he is
-                        known of his historical work and his collection of letters. See <hi
-                            rend="smallcap">Sörös</hi> 1898; <hi rend="smallcap">Torbarina</hi>
-                        1969; <hi rend="smallcap">Nemes</hi> 2011; and <hi rend="smallcap"
-                            >Gyulai</hi> 2021.</note> Nicolao Olaho praesuli suo salutem
-                    plurimam!</p>
+                <p xml:id="p.1">Antonius Wrancius<note xml:id="note.1">Antal Verancsics or Antun
+                        Vrančić (1504–1573) was a humanist, prelate, and historian of Dalmatian
+                        origin. He studied at the University of Padua, and after Mohács, he became a
+                        diplomat of King John I. In 1549, he changed side and remained loyal to the
+                        Habsburgs until his death. He was Canon of Eger from 1550, Bishop of Pécs
+                        from 1553, and Bishop of Eger from 1557. Following Oláh’s death, he was
+                        elected Archbishop of Esztergom in 1569. Today he is known of his historical
+                        work and his collection of letters. See <hi rend="smallcap">Sörös</hi> 1898;
+                            <hi rend="smallcap">Torbarina</hi> 1969; <hi rend="smallcap">Nemes</hi>
+                        2011; and <hi rend="smallcap">Gyulai</hi> 2021.</note> Nicolao Olaho
+                    praesuli suo salutem plurimam!</p>
                 <p xml:id="p.2">Beneficium quoddam non exile, ut referunt, vacavit per hosce dies
-                        <placeName>Strigonii</placeName>,<note type="critic" xml:id="note.2"
-                        >Esztergom.</note> cuius causa dudum quidam istuc iam profecti sunt, quod
-                    ego serius quidem intellexi, quam res mea postulabat. Quamquam igitur satis
-                    verecunde agam pro me ipso in hoc beneficio consequendo, cum adhuc nulla merita
-                    me in factione vestra commendent: non desunt <milestone unit="pb"/>tamen causae,
-                    quibus id audere non expavescam. Clementia imprimis et bonitas munificentissimi
-                    principis, tuum deinde singulare iudicium, quo polles in hominibus cognoscendis.
-                    Non dubitans igitur, certum te iam et persuasum esse de integritate mea, qua in
-                    istius <del corresp="author">optimis</del><add corresp="author" type="corr"
-                        >optimi</add> principis servitio reliquum id aetatis meae sum exacturus, te,
-                    Praesul Amplissime, maiorem in modum peto, ne dedigneris, si licebit, viderisque
-                    e dignitate eque re mea futurum, mei apud <persName>serenissimum
-                        regem</persName> meminisse. Nihil volens interea tanto domino, tamque pio
-                        parenti<note type="critic" xml:id="note.3">Sc. Oláh as his patron.</note>
-                    meo, de me iam non mediocriter <milestone unit="pb"/>in episcopatu suo<note
-                        type="critic" xml:id="note.4">Verancsics received the canonry of Eger in
-                        1550.</note> merito vel oneris vel molestiarum imponere. Cuius quidem erga
-                    me animum tanti facio et facturus sum per omnem vitam, quanti quidvis
-                    beneficiorum, quod in homines quam dignissimos conferri possit. Omnia enim
-                    optima et felicissima mihi accessisse perspexi, ubi me in gremium benevolentiae
-                    tuae vidi pervenisse. Sed ex me quid vicissim velim polliceri aut debeam?
-                    Equidem praeter fidem atque obsequia nihil invenio magnitudini tuae
-                    convenientius. Haec tamen ita iam data, dedita atque addicta tibi sunt, ut nisi
-                    morte mea divelli a tuo limine minime <milestone unit="pb"/>queant. Quicquid
-                    igitur tua opera tuaque commendatione accedet mihi fortunarum, id tuum censebo
-                    semper, nempe in <del corresp="author"><gap extent="1" reason="illegible"
-                            unit="word"/>itate tuum</del><add corresp="author" type="corr">tuum
-                        hominem</add> collatum. Vale.</p>
+                        <placeName>Strigonii</placeName>,<note xml:id="note.2">Esztergom.</note>
+                    cuius causa dudum quidam istuc iam profecti sunt, quod ego serius quidem
+                    intellexi, quam res mea postulabat. Quamquam igitur satis verecunde agam pro me
+                    ipso in hoc beneficio consequendo, cum adhuc nulla merita me in factione vestra
+                    commendent: non desunt <milestone unit="pb"/>tamen causae, quibus id audere non
+                    expavescam. Clementia imprimis et bonitas munificentissimi principis, tuum
+                    deinde singulare iudicium, quo polles in hominibus cognoscendis. Non dubitans
+                    igitur, certum te iam et persuasum esse de integritate mea, qua in istius <del
+                        corresp="author">optimis</del><add corresp="author" type="corr">optimi</add>
+                    principis servitio reliquum id aetatis meae sum exacturus, te, Praesul
+                    Amplissime, maiorem in modum peto, ne dedigneris, si licebit, viderisque e
+                    dignitate eque re mea futurum, mei apud <persName>serenissimum regem</persName>
+                    meminisse. Nihil volens interea tanto domino, tamque pio parenti<note
+                        xml:id="note.3">Sc. Oláh as his patron.</note> meo, de me iam non
+                    mediocriter <milestone unit="pb"/>in episcopatu suo<note xml:id="note.4"
+                        >Verancsics received the canonry of Eger in 1550.</note> merito vel oneris
+                    vel molestiarum imponere. Cuius quidem erga me animum tanti facio et facturus
+                    sum per omnem vitam, quanti quidvis beneficiorum, quod in homines quam
+                    dignissimos conferri possit. Omnia enim optima et felicissima mihi accessisse
+                    perspexi, ubi me in gremium benevolentiae tuae vidi pervenisse. Sed ex me quid
+                    vicissim velim polliceri aut debeam? Equidem praeter fidem atque obsequia nihil
+                    invenio magnitudini tuae convenientius. Haec tamen ita iam data, dedita atque
+                    addicta tibi sunt, ut nisi morte mea divelli a tuo limine minime <milestone
+                        unit="pb"/>queant. Quicquid igitur tua opera tuaque commendatione accedet
+                    mihi fortunarum, id tuum censebo semper, nempe in <del corresp="author"><gap
+                            extent="1" reason="illegible" unit="word"/>itate tuum</del><add
+                        corresp="author" type="corr">tuum hominem</add> collatum. Vale.</p>
                 <p xml:id="p.3">2. Iulii 1550. <placeName>Viennae</placeName>.</p>
             </div>
         </body>

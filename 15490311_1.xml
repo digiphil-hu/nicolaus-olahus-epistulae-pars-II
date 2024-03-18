@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Christoph Linck</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <placeName>Prague<idno type="ITIdata">Q22802</idno></placeName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
@@ -249,21 +247,20 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Hochwirdiger herr unnd fursst, mein willig diennst seindt eurn f.
-                        g.<note type="critic" xml:id="note.1">I.e. fürstliche Gnade.</note> zuvoran! </p>
-                <p xml:id="p.2">[1.] Dis mein schreiben ann e. f. g.<note type="critic"
-                        xml:id="note.2">I.e. eure fürstliche Gnade.</note> ist von wegenn, das ich
-                    eurer genaden unnterthenigst ansueche und pitte, meiner herrn nit zu vergessen
-                    der confirmation halb uber des <persName>bischoff vonn Grann</persName><note
-                        type="critic" xml:id="note.3">Pál Várday was Archbishop of Esztergom.</note>
-                    schuldt. <persName>Der bischoff</persName> hat mir geschriben unnd gepetten,
-                    soll im abermals fur 300 f.<note type="critic" xml:id="note.4">I.e.
-                        florenos.</note> gwant porgenn, auf ain halb jar zw bezalnn. Ich pit e.
-                        g.,<note type="critic" xml:id="note.5">I.e. eure Gnade.</note> wellen mir
-                    schrifftlichen euren ratt mittailnn, wie ich im than soll. Ich furcht mich, solt
-                    er sterbenn, der <persName>kung</persName> wurd nichts fur in wollen bezalenn,
-                    unnd hab doch hoffnung, ain jeder, der nach im wirt willen
-                        <persName>bischoff</persName> sein, der muß die schuldenn bezalenn, die er
-                    pro rest wirt schuldig sein auf sein absterben.</p>
+                        g.<note xml:id="note.1">I.e. fürstliche Gnade.</note> zuvoran! </p>
+                <p xml:id="p.2">[1.] Dis mein schreiben ann e. f. g.<note xml:id="note.2">I.e. eure
+                        fürstliche Gnade.</note> ist von wegenn, das ich eurer genaden
+                    unnterthenigst ansueche und pitte, meiner herrn nit zu vergessen der
+                    confirmation halb uber des <persName>bischoff vonn Grann</persName><note
+                        xml:id="note.3">Pál Várday was Archbishop of Esztergom.</note> schuldt.
+                        <persName>Der bischoff</persName> hat mir geschriben unnd gepetten, soll im
+                    abermals fur 300 f.<note xml:id="note.4">I.e. florenos.</note> gwant porgenn,
+                    auf ain halb jar zw bezalnn. Ich pit e. g.,<note xml:id="note.5">I.e. eure
+                        Gnade.</note> wellen mir schrifftlichen euren ratt mittailnn, wie ich im
+                    than soll. Ich furcht mich, solt er sterbenn, der <persName>kung</persName> wurd
+                    nichts fur in wollen bezalenn, unnd hab doch hoffnung, ain jeder, der nach im
+                    wirt willen <persName>bischoff</persName> sein, der muß die schuldenn bezalenn,
+                    die er pro rest wirt schuldig sein auf sein absterben.</p>
                 <p xml:id="p.3">[2.] Wo ich e. g. kunfftig in gut weg auch gediennen mag, bin ich
                     willig, es werden weg furfallenn, das meine herrnn im May ain hofhanndel werden
                     thann, soverr e. g. mit 10 M<hi rend="super">o</hi> f. etwas hanndeln will, so
@@ -272,22 +269,21 @@
                     darvon melden, die sach mues anfanngs durch mich an sy gepracht werden, durch
                     condition und umb ursach willen, die ich e. g. nachmals numenttlich wol anzaigen
                     will, soverr e. g. wirt gefast sein mit dem gellt. Ich acht darfur, meine herrn
-                    werden ain hanndel umb 50 M<hi rend="super">o</hi> f. tann<note type="critic"
-                        xml:id="note.6">Uncertain reading.</note> auf des kungs salzampt zw
+                    werden ain hanndel umb 50 M<hi rend="super">o</hi> f. tann<note xml:id="note.6"
+                        >Uncertain reading.</note> auf des kungs salzampt zw
                         <placeName>Wienn</placeName> und zw <placeName>Aussee</placeName><note
-                        type="critic" xml:id="note.7">Bad Aussee.</note> unnd zw
-                        <placeName>Gmunden</placeName>, und werden das gelt im Maii jezo ausgebenn,
-                    wirt inen der interesse angeen. Aber die widerbezalung wirt gescheen im 50<hi
-                        rend="super">ten</hi> jar <gap extent="1" reason="illegible damage"
-                        unit="word"/> Juni, wurdt man anfachen, widerumb zw bezaln das hauptgut unnd
-                    interesse 10 pro 5<hi rend="super">o</hi>. Des hab ich<milestone unit="pb"
-                    />eurnn gnaden vertreulichen wollenn im pesten annzaigen. Las mich eur genad ain
-                    anntwort wissen, mich hab darnach zw richten. Disen brief furt der herr
-                        <persName>Hanns Holzer</persName>,<note type="critic" xml:id="note.8">Hans
-                        Holzer was Court Paymaster <hi rend="italic">(Hofzahlmeister)</hi>, see <hi
-                            rend="smallcap">Hengerer</hi> 2008, 225–226.</note> so vormals
-                    hoffzalmaister gewest, durch in mag mir e. g. widerumb gwislichen brieff
-                    zwbringen. Thue mich e. g. bevelhen. </p>
+                        xml:id="note.7">Bad Aussee.</note> unnd zw <placeName>Gmunden</placeName>,
+                    und werden das gelt im Maii jezo ausgebenn, wirt inen der interesse angeen. Aber
+                    die widerbezalung wirt gescheen im 50<hi rend="super">ten</hi> jar <gap
+                        extent="1" reason="illegible damage" unit="word"/> Juni, wurdt man anfachen,
+                    widerumb zw bezaln das hauptgut unnd interesse 10 pro 5<hi rend="super">o</hi>.
+                    Des hab ich<milestone unit="pb"/>eurnn gnaden vertreulichen wollenn im pesten
+                    annzaigen. Las mich eur genad ain anntwort wissen, mich hab darnach zw richten.
+                    Disen brief furt der herr <persName>Hanns Holzer</persName>,<note
+                        xml:id="note.8">Hans Holzer was Court Paymaster <hi rend="italic"
+                            >(Hofzahlmeister)</hi>, see <hi rend="smallcap">Hengerer</hi> 2008,
+                        225–226.</note> so vormals hoffzalmaister gewest, durch in mag mir e. g.
+                    widerumb gwislichen brieff zwbringen. Thue mich e. g. bevelhen. </p>
                 <p xml:id="p.4">Dattum <placeName>Wienn</placeName> 11. Marzo anno 49<hi
                         rend="super">ten</hi>. </p>
                 <p xml:id="p.5">E. f. g. dinst williger </p>

@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,20 +238,19 @@
                 <pb/>
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Nactus opportunum tabellarium, dominum
-                        <persName>Lapidanum</persName><note type="critic" xml:id="note.1">Guilhelmus
-                        van den Steene.</note> nolui committere, quin te vel paucis salutarem,
-                    Domine <choice>
+                        <persName>Lapidanum</persName><note xml:id="note.1">Guilhelmus van den
+                        Steene.</note> nolui committere, quin te vel paucis salutarem, Domine <choice>
                         <orig>Consiliarie</orig>
                         <supplied>Consiliari</supplied>
                     </choice> Observande, quem virum tibi commendarem, nisi scirem eum iam tibi esse
                     commendatissimum. Est profecto vir talibus praeditus ingenii dotibus et
                     eruditione ac morum probitate, ut dignissimus sit, qui aliquando fiat abbas sui
                     coenobii. Mitto Dominationi Tuae per illum <hi rend="italic">Epitomen quoddam
-                        rerum Romanarum</hi>.<note type="critic" xml:id="note.2">The little synopsis
-                        of Roman history, written by John Warsenius of Huy, was printed in September
-                        1534. See <hi rend="smallcap">De Vocht</hi>, 1954, 116.</note> Homerum<note
-                        type="critic" xml:id="note.3">Ressen’s Homer edition was completed in 1535,
-                        see <hi rend="smallcap">De Vocht</hi> 1954, 117.</note> nondum absolvimus
+                        rerum Romanarum</hi>.<note xml:id="note.2">The little synopsis of Roman
+                        history, written by John Warsenius of Huy, was printed in September 1534.
+                        See <hi rend="smallcap">De Vocht</hi>, 1954, 116.</note> Homerum<note
+                        xml:id="note.3">Ressen’s Homer edition was completed in 1535, see <hi
+                            rend="smallcap">De Vocht</hi> 1954, 117.</note> nondum absolvimus
                     propter papyri inopiam, quia eius formae, qua incepimus illum excudere,
                         <placeName>Antverpiae</placeName> venalem invenire non<milestone unit="pb"
                     />possumus, speramus tamen brevi illic allatum iri. Quamprimum absolutus fuerit,

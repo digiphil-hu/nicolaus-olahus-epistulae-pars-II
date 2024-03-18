@@ -214,11 +214,9 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <orgName>The Seven Mining Towns</orgName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
@@ -255,9 +253,9 @@
                                         curavimus. Quare nunc novissime in extremis periculis
                                         nostris scripto regiae maiestati, domino nostro
                                         clementissimo pro celerrimo praesidio supplicamus,<note
-                                                type="critic" xml:id="note.1">See the letter of the
-                                                Seven Mining Towns’, Ep.
-                                                  768.<ref>olahus.tei.15510421_1</ref></note> quod
+                                                xml:id="note.1">See the letter of the Seven Mining
+                                                Towns’, Ep.
+                                                768.<ref>olahus.tei.15510421_1</ref></note> quod
                                         nisi maiestas sua sine aliqua procrastinatione nobis
                                         praestare dignabitur, sine dubio crudelissimus Christiani
                                         nominis hostis hunc regni thesaurum pro neglecto et

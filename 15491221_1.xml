@@ -210,7 +210,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -240,14 +239,14 @@
                     felicitatem!</p>
                 <p xml:id="p.2">Intelligimus istic eum rumorem divulgatum esse, quod nolet
                         <persName>regia maietas</persName>, dominus noster clementissimus ad dietam
-                    ad festum Epiphaniarum Domini<note type="critic" xml:id="note.1">6 January,
-                        1550.</note> proxime affuturum indictam eo descendere. A quocumque hic rumor
-                    prodiit, falsus est, nam quemadmodum sua maiestas constituit, omnino ad idem
-                    festum Epiphaniarum istuc ventura est, praemissuraque est dominos Hungaros, quos
-                    hic secum habet statim. Publicent igitur Dominationes Vestrae suae maiestatis
-                    reditum et praedicent omnibus, ne praedicto falso rumore domini regnicolae
-                    terreantur, aut a profectione ad eandem dietam alienentur. Easdem in reliquo
-                    optamus valere feliciter.</p>
+                    ad festum Epiphaniarum Domini<note xml:id="note.1">6 January, 1550.</note>
+                    proxime affuturum indictam eo descendere. A quocumque hic rumor prodiit, falsus
+                    est, nam quemadmodum sua maiestas constituit, omnino ad idem festum Epiphaniarum
+                    istuc ventura est, praemissuraque est dominos Hungaros, quos hic secum habet
+                    statim. Publicent igitur Dominationes Vestrae suae maiestatis reditum et
+                    praedicent omnibus, ne praedicto falso rumore domini regnicolae terreantur, aut
+                    a profectione ad eandem dietam alienentur. Easdem in reliquo optamus valere
+                    feliciter.</p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 21a die <del corresp="Olahus"
                         >Ianuariis</del><add corresp="Olahus" type="corr">Decembris</add> 1549.</p>
                 <p xml:id="p.4">

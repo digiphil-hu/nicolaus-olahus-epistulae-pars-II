@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>István Brodarics<idno type="ITIdata">Q142886</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,12 +245,12 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad eundem responsio. </p>
-                <p xml:id="p.2">[1.] <persName>Gabriel Xanthus</persName><note type="critic"
-                        xml:id="note.1">Gabriel Sanchez.</note> protonotarius Apostolicus, nuntius
-                    serenissimi Romanorum regis apud sedem Apostolicam, quo cum mihi iam a multis
-                    annis non vulgaris fuit amicitia, misit ad me ex <placeName>Urbe</placeName>
-                    litteras tuas XXII. Aprilis praeteriti datas,<note type="critic" xml:id="note.2"
-                        >Ep. 564.<ref>olahus.tei.15360422_1</ref></note> mihi vero hic nudiustertius
+                <p xml:id="p.2">[1.] <persName>Gabriel Xanthus</persName><note xml:id="note.1"
+                        >Gabriel Sanchez.</note> protonotarius Apostolicus, nuntius serenissimi
+                    Romanorum regis apud sedem Apostolicam, quo cum mihi iam a multis annis non
+                    vulgaris fuit amicitia, misit ad me ex <placeName>Urbe</placeName> litteras tuas
+                    XXII. Aprilis praeteriti datas,<note xml:id="note.2">Ep.
+                            564.<ref>olahus.tei.15360422_1</ref></note> mihi vero hic nudiustertius
                     redditas. Vix possum calamo perstringere, quanto dolore sim affectus, cum ex
                     ipsis litteris tuam ex multis, ut scribis, laboribus et renum incommodis <del
                         corresp="Olahus">contrariam</del><add corresp="Olahus" type="corr"
@@ -313,14 +311,14 @@
                     ad rem tuam commendendam pertinet, sicuti hactenus feci, nihil a me
                     praetermittetur. </p>
                 <p xml:id="p.6">[5.] Reverendissimum dominum <persName>Lundensem</persName><note
-                        type="critic" xml:id="note.3">Johan Weze.</note> cum reverendissimo domino
-                        <persName>Frangepano</persName><note type="critic" xml:id="note.4">Ferenc
+                        xml:id="note.3">Johan Weze.</note> cum reverendissimo domino
+                        <persName>Frangepano</persName><note xml:id="note.4">Ferenc
                         Frangepán.</note> ad Hungariam profecturos iampridem ex litteris<note
-                        type="critic" xml:id="note.5">We do not know this letter.</note> ipsius
-                    Lundensis intellexeram. Faxit Deus, ut rebus istic e bono publico utilitateque
-                    reipublicae Christianae cito confectis felices revertantur, de quorum fine, rogo
-                    te, velis me certiorem facere, elaborareque interea, ut quemadmodum scribis,
-                    bonus sequatur cura et opera tua, sic: </p>
+                        xml:id="note.5">We do not know this letter.</note> ipsius Lundensis
+                    intellexeram. Faxit Deus, ut rebus istic e bono publico utilitateque reipublicae
+                    Christianae cito confectis felices revertantur, de quorum fine, rogo te, velis
+                    me certiorem facere, elaborareque interea, ut quemadmodum scribis, bonus
+                    sequatur cura et opera tua, sic: </p>
                 <quote xml:id="quote.2">
                     <lg xml:id="lg.2">
                         <l xml:id="l.3">In freta dum fluvii current, dum montibus umbrae</l>
@@ -332,21 +330,21 @@
                 </quote>
                 <note type="quote" xml:id="note.quote.2">Verg. <hi rend="italic">Aen</hi>. I,
                     607–609.</note>
-                <p xml:id="p.7">[6.] De <persName>Gallo</persName><note type="critic"
-                        xml:id="note.6">King Francis I.</note> res omnis nobis est cognita, de quo
-                    taceo potius, quam aliquid dicam. Hoc unum spero Deum tot malarum rerum et
-                    toties turbatae reipublicae Christianae authorem, quisquis is sit, vindicaturum. </p>
+                <p xml:id="p.7">[6.] De <persName>Gallo</persName><note xml:id="note.6">King Francis
+                        I.</note> res omnis nobis est cognita, de quo taceo potius, quam aliquid
+                    dicam. Hoc unum spero Deum tot malarum rerum et toties turbatae reipublicae
+                    Christianae authorem, quisquis is sit, vindicaturum. </p>
                 <pb/>
                 <p xml:id="p.8">Tot <del corresp="Olahus">iam</del><add corresp="Olahus"
                         type="insert">inita et iam</add> in lucem prodita consilia, <del
                         corresp="Olahus">facta</del> tot nuntii et litterae interceptae, tot
                     irritamenta hostium Christi conveniuntne Catholico principi? Credo satis eum
                     negotii undique habiturum.</p>
-                <p xml:id="p.9"><persName>Cornelium Scepperum</persName><note type="critic"
-                        xml:id="note.7">Cornelis de Schepper.</note> tuo nomine salutavi, commendat
-                    vicissim servitia sua tibi et dixit se ad te scripturum, cum primum otium nactus
-                    fuerit. Vale feliciter et me tuum esse scito, ubicunque sim futurus, illum, quem
-                    nosti veterem Olahum. </p>
+                <p xml:id="p.9"><persName>Cornelium Scepperum</persName><note xml:id="note.7"
+                        >Cornelis de Schepper.</note> tuo nomine salutavi, commendat vicissim
+                    servitia sua tibi et dixit se ad te scripturum, cum primum otium nactus fuerit.
+                    Vale feliciter et me tuum esse scito, ubicunque sim futurus, illum, quem nosti
+                    veterem Olahum. </p>
                 <p xml:id="p.10"><placeName>Bruxellae</placeName> 18. Iunii anno 1536.</p>
             </div>
         </body>

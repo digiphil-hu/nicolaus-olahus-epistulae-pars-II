@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Thurzó</persName>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
@@ -241,9 +239,9 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Reverendissime,<note type="critic" xml:id="note.1">Ferenc
-                        Thurzó.</note> Reverende ac Egregii Domini et Amici nobis honorandissimi,
-                    salutem et nostri commendationem!</p>
+                <p xml:id="p.1">Reverendissime,<note xml:id="note.1">Ferenc Thurzó.</note> Reverende
+                    ac Egregii Domini et Amici nobis honorandissimi, salutem et nostri
+                    commendationem!</p>
                 <p xml:id="p.2">Dixit nobis <persName>maiestas regia</persName> se in statum et
                     instructionem Dominationis Vestrae hinc nuper missam solutionem militum quoque
                     Agriensium redegisse. Rogamus itaque Dominationes Vestras, plurimum velint

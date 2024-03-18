@@ -219,12 +219,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Francesco Sforza<idno type="ITIdata"
                                                   >Q470242</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
@@ -249,9 +247,9 @@
                                 <p xml:id="p.1">Franciscus Sforciae dux Mediolani Nicolao Olao
                                         salutem. </p>
                                 <p xml:id="p.2">Reverende Amice Carissime! Quae de rebus publicis
-                                                <persName>Gilino</persName><note type="critic"
-                                                xml:id="note.1">Camillo Ghilino.</note> secretario
-                                        nostro scripsisti,<note type="critic" xml:id="note.2">Ep.
+                                                <persName>Gilino</persName><note xml:id="note.1"
+                                                >Camillo Ghilino.</note> secretario nostro
+                                                scripsisti,<note xml:id="note.2">Ep.
                                                   479.<ref>olahus.tei.15340413_2</ref></note> et
                                         libenter legimus et nobis grata fuerunt, verum longe
                                         gratissima, quae in calce epistolae tuae adiunxisti, salutem

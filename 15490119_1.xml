@@ -218,12 +218,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Niklas von Salm</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -256,23 +254,22 @@
                     servitiorum nostrorum in gratiam Sacratissimae Maiestatis Vestrae humillimam
                     commendationem! </p>
                 <p xml:id="p.2">[1.] Hac hora diei praesentis undecimae venerunt litterae<note
-                        type="critic" xml:id="note.1">We do not know these
-                        letters.</note><persName>Fratris Georgii</persName><note type="critic"
-                        xml:id="note.2">George Martinuzzi.</note> ad nos singulares et primum ad
-                    Sacratissimam Maiestatem Vestram, quas communi consilio ideo aperuimus, ut ob
-                    lucrandum tempus opinionem nostram Sacratissimae Maiestatis Vestrae perscribere
-                    possemus. Litteras ipsas <persName>Fratris Georgii</persName> ad eandem misimus
-                    humiliter. Eadem scribit ad nos quoque, quae ad Sacratissimam Maiestatem
-                    Vestram, quod autem ad locum conventus mutandum propter suspicionem, ut ipse
-                    scribit, attinet, non videtur hic aperte deliberari posse de alio loco
-                    conventus, sumus enim locorum illarum partium nunc inexperti. Verum cum domini
-                    commissarii una mecum <persName><add corresp="Olahus" type="insert">Nicolao
-                            comite</add></persName><note type="critic" xml:id="note.3">Niklas von
-                        Salm.</note> convenerunt, poterimus pro dignitate atque authoritate
-                    Sacratissimae Maiestatis Vestrae deliberare, quid sit faciendum, si vero aliud
-                    mihi, <persName>comiti Nicolao</persName> et aliis collegis meis, Sacratissima
-                    Maiestas Vestra dederit in mandatis, faciemus, quod eadem nobis mandare
-                    dignabitur.</p>
+                        xml:id="note.1">We do not know these letters.</note><persName>Fratris
+                        Georgii</persName><note xml:id="note.2">George Martinuzzi.</note> ad nos
+                    singulares et primum ad Sacratissimam Maiestatem Vestram, quas communi consilio
+                    ideo aperuimus, ut ob lucrandum tempus opinionem nostram Sacratissimae
+                    Maiestatis Vestrae perscribere possemus. Litteras ipsas <persName>Fratris
+                        Georgii</persName> ad eandem misimus humiliter. Eadem scribit ad nos quoque,
+                    quae ad Sacratissimam Maiestatem Vestram, quod autem ad locum conventus mutandum
+                    propter suspicionem, ut ipse scribit, attinet, non videtur hic aperte deliberari
+                    posse de alio loco conventus, sumus enim locorum illarum partium nunc inexperti.
+                    Verum cum domini commissarii una mecum <persName><add corresp="Olahus"
+                            type="insert">Nicolao comite</add></persName><note xml:id="note.3"
+                        >Niklas von Salm.</note> convenerunt, poterimus pro dignitate atque
+                    authoritate Sacratissimae Maiestatis Vestrae deliberare, quid sit faciendum, si
+                    vero aliud mihi, <persName>comiti Nicolao</persName> et aliis collegis meis,
+                    Sacratissima Maiestas Vestra dederit in mandatis, faciemus, quod eadem nobis
+                    mandare dignabitur.</p>
                 <p xml:id="p.3">[2.] Quod vero ad querelas <persName>Fratris Georgii</persName>
                     contra Agrienses pertinet, vina quidem ipsa Agrienses iussu Maiestati Vestrae
                     Sacratissimae abduxerunt, sed si in <placeName>Kysvarda</placeName> aliquid

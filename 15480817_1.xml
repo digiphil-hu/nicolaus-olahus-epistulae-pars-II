@@ -209,7 +209,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -234,16 +233,16 @@
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici nobis Honorandi,
                     salutem!</p>
-                <p xml:id="p.2"><persName>Ioannes Sartor</persName>,<note type="critic"
-                        xml:id="note.1">Probably János Szabó, citizen of Bratislava, see Oláh’s
-                        later letter, Ep. 710.<ref>olahus.tei.15490206_1</ref></note> servitor
-                    noster praesentium exhibitor habet certam causam et litem cum socru sua ratione
-                    quorundam negotiorum, in cuius transactione opera et consilio vestro se indigere
-                    dicit, supplicans nobis, ut eum negotiumque suum Dominationibus Vestris
-                    commendaremus. Eum igitur simul cum negotiis suis Dominationibus Vestris
-                    commendamus, easdemque petimus diligenter, ut ipsi Ioanni Sartori nostra causa
-                    in iustis suis negotiis omni ope, consilio et auxilio adesse velint, quod nos
-                    Dominationibus Vestris amicitia nostra in maioribus rebus reponemus.</p>
+                <p xml:id="p.2"><persName>Ioannes Sartor</persName>,<note xml:id="note.1">Probably
+                        János Szabó, citizen of Bratislava, see Oláh’s later letter, Ep.
+                            710.<ref>olahus.tei.15490206_1</ref></note> servitor noster praesentium
+                    exhibitor habet certam causam et litem cum socru sua ratione quorundam
+                    negotiorum, in cuius transactione opera et consilio vestro se indigere dicit,
+                    supplicans nobis, ut eum negotiumque suum Dominationibus Vestris commendaremus.
+                    Eum igitur simul cum negotiis suis Dominationibus Vestris commendamus, easdemque
+                    petimus diligenter, ut ipsi Ioanni Sartori nostra causa in iustis suis negotiis
+                    omni ope, consilio et auxilio adesse velint, quod nos Dominationibus Vestris
+                    amicitia nostra in maioribus rebus reponemus.</p>
                 <p xml:id="p.3">Dominationes Vestras bene valere optamus.</p>
                 <p xml:id="p.4">Datum <placeName>Viennae</placeName> 17. Augusti 1548.</p>
                 <p xml:id="p.5">

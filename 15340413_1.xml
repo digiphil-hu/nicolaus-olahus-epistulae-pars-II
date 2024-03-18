@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Jemme Reinerszoon<idno type="ITIdata">Q470305</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -230,31 +228,31 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1"><persName>Gemma Frisius</persName><note type="critic"
-                        xml:id="note.1">Jemme Reinerszoon (1508–1555) was a Dutch physician,
-                        mathematician, and cartographer. For more on his life and works, see <hi
-                            rend="smallcap">Haasbroek</hi> 1968, 8–15.</note> Nicolao Olao
-                    thesaurario Albensi secretario reginae Mariae. </p>
+                <p xml:id="p.1"><persName>Gemma Frisius</persName><note xml:id="note.1">Jemme
+                        Reinerszoon (1508–1555) was a Dutch physician, mathematician, and
+                        cartographer. For more on his life and works, see <hi rend="smallcap"
+                            >Haasbroek</hi> 1968, 8–15.</note> Nicolao Olao thesaurario Albensi
+                    secretario reginae Mariae. </p>
                 <p xml:id="p.2">Cum in quadragesima <placeName>Bruxellam</placeName> venissem domini
-                        <persName>Camilli</persName><note type="critic" xml:id="note.2">Camillo
-                        Ghilino (†1535) was an orator and a Secretary of the Duke of Milan,
-                        Francesco II Sforza. He was intensely interested in the arts and sciences,
-                        see <hi rend="smallcap">De Vocht</hi> 1961, 239–240. On the correspondence
-                        between Oláh and Ghilino, see <hi rend="smallcap">Popa-Gorjanu</hi>
-                        2005.</note> gratia, memini Dominationem Vestram mihi iniunxisse, uti
-                    nonnunquam meis, etsi ineptis litteris eam seriis alioqui occupatam rebus
-                    interpellarem, quod nullo modo omittendum duxi, quandoquidem principibus
-                    placuisse viris non infima laus est. Verum absterruere non sine ratione ab
-                    instituto meo ardua ac seria, quibus Dominationem Vestram occupatam video,
-                    negotia, metuentem, ne importunae meae litterae merito foras reiicerentur.
-                    Contra tamen me incitavit ac animum mihi addidit insignis Dominationis Vestrae
-                    in omnes studiosos humanitas, qua sola fretus iam non incedere vereor per mediam
-                    aulam, per medias turbas perque ardua quantumvis negotia, et Dominationis
-                    Vestrae parvo munisculo aggredi, quod etsi quantitate sua parvum sit, si tamen
-                    animi in Dominationem Vestram mei affectum spectemus, cum quovis magnifico
-                    munere conferri poterit. Quod oro Dominationem Vestram uti pro sua humanitate,
-                    meique animi candore gratum habere velit, meque iam inde commendatissimum
-                    habeat. Deus optimus maximus Dominationem Vestram diu servet incolumem. </p>
+                        <persName>Camilli</persName><note xml:id="note.2">Camillo Ghilino (†1535)
+                        was an orator and a Secretary of the Duke of Milan, Francesco II Sforza. He
+                        was intensely interested in the arts and sciences, see <hi rend="smallcap"
+                            >De Vocht</hi> 1961, 239–240. On the correspondence between Oláh and
+                        Ghilino, see <hi rend="smallcap">Popa-Gorjanu</hi> 2005.</note> gratia,
+                    memini Dominationem Vestram mihi iniunxisse, uti nonnunquam meis, etsi ineptis
+                    litteris eam seriis alioqui occupatam rebus interpellarem, quod nullo modo
+                    omittendum duxi, quandoquidem principibus placuisse viris non infima laus est.
+                    Verum absterruere non sine ratione ab instituto meo ardua ac seria, quibus
+                    Dominationem Vestram occupatam video, negotia, metuentem, ne importunae meae
+                    litterae merito foras reiicerentur. Contra tamen me incitavit ac animum mihi
+                    addidit insignis Dominationis Vestrae in omnes studiosos humanitas, qua sola
+                    fretus iam non incedere vereor per mediam aulam, per medias turbas perque ardua
+                    quantumvis negotia, et Dominationis Vestrae parvo munisculo aggredi, quod etsi
+                    quantitate sua parvum sit, si tamen animi in Dominationem Vestram mei affectum
+                    spectemus, cum quovis magnifico munere conferri poterit. Quod oro Dominationem
+                    Vestram uti pro sua humanitate, meique animi candore gratum habere velit, meque
+                    iam inde commendatissimum habeat. Deus optimus maximus Dominationem Vestram diu
+                    servet incolumem. </p>
                 <p xml:id="p.3">Ex <placeName>Lovanio</placeName> 13. Aprilis 1534.</p>
             </div>
         </body>

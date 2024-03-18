@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,8 +229,8 @@
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime Devote Fidelis nobis Dilecte!</p>
                 <p xml:id="p.2">Transmittimus <del corresp="scriba">te</del> Devotioni Tuae
                     praesentibus adiunctas binas litteras magnifici fidelis nobis dilecti
-                        <persName>Stephani Lossuntzy</persName>,<note type="critic" xml:id="note.1"
-                        >István Losonczy.</note> eidem <del corresp="scriba">grati</del> clementer
+                        <persName>Stephani Lossuntzy</persName>,<note xml:id="note.1">István
+                        Losonczy.</note> eidem <del corresp="scriba">grati</del> clementer
                     committentes, <del corresp="scriba">quod</del><add corresp="scriba" type="corr"
                         >ut</add> eas, cum Deo concedente <placeName>Viennam</placeName> reversi
                     fuerimus, nobis in consilio primo quoque tempore proponat, quo mature desuper

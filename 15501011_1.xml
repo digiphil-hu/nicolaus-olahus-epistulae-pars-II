@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,86 +244,83 @@
                 <pb/>
                 <p xml:id="p.2">[1.] Nos iam hic egregie armamur, et in armis his longe, puto,
                     diutius erit nobis perseverandum, quam forte fortuna nemo initio existimasset.
-                    Quoniam <placeName>Zolnocchum</placeName><note type="critic" xml:id="note.1"
-                        >Szolnok.</note> excitavit huic loco satis cumulate veteres sollicitudines,
-                    et attulit novas non pauciores, neque minores. Firmato castello milite et
-                    munitionibus nunc commeatu expletur. In Transsylvania <del corresp="author"
-                        >XXXmus</del><add corresp="author" type="corr">XXX</add> iam <del
-                        corresp="author">VIImus</del><add corresp="author" type="corr"
-                        >septimus</add> dies est, quod <persName>Heremita</persName><note
-                        type="critic" xml:id="note.2">George
-                        Martinuzzi.</note><placeName>Albam</placeName><note type="critic"
-                        xml:id="note.3">Alba Julia.</note> obsidet. Habet exercitum (ut <del
-                        corresp="author">et privata et</del> publica voce audimus) XXIIII millium
-                    hominum; <add corresp="author" type="insert">quamvis longe est secus, et</add>
-                    in eis equitum sunt XVI millium, peditum VIII, sed qui eius aere merent, IIII
-                    sunt, dumtaxat equitum millia <del corresp="author">sunt</del>, peditum mille.
-                    Reliquus numerus ex provincialibus et nobilitate diversorum comitatuum,
-                    collatitius est. Diu obsessos non petiit ulla vi machinarum; ad ultroneam
-                    deditionem sollicitavit <milestone unit="pb"/>assidue
-                        <persName>Petrovium</persName>,<note type="critic" xml:id="note.4">Péter
-                        Petrovics.</note> ut Turcam et hostem publicum, pupillum, ut eius gentis
-                    dominum reddi sibi postulando. <persName>Regina</persName>,<note type="critic"
-                        xml:id="note.5">Queen Isabella.</note> ut femina, quae non capit hostis
-                    nomen, cum ceteris ut imbecilles et indulgentia magis, quam severa pro belli
-                    iure animadversione digni, non tanti aestimati sunt, ut in eorum conatibus
-                    pondus haberi declararetur. Ad consensum tantum regni publicum et Christianam
-                    societatem hortati, venia etiam ultro quotidie oblata, si ante vim sententiam
-                    mutavissent. Verum quoniam in obstinatione perdurant, <del corresp="author"
-                        >bombardis</del><add corresp="author" type="corr">bombardas</add> quoque iam
-                        <del corresp="author">ab VIII die</del><add corresp="author" type="corr"
-                        >admovit</add> et <del corresp="author">omne genus</del><del
-                        corresp="author">oppugnationis</del><add corresp="author" type="corr"
-                        >oppugnatione</add><del corresp="author">adhibuit</del><add corresp="author"
-                        type="corr">muros sollicitat</add>. Nec prius ad hanc vim dicitur accedere
-                    voluisse, quam comperit certo<note type="critic" xml:id="note.6">Uncertain
-                        reading.</note> et reginam et <persName>Petrovium</persName> Turcas <del
-                        corresp="author">in auxilium</del> evocasse. </p>
-                <p xml:id="p.3">Bassa enim <persName>Budensis</persName><note type="critic"
-                        xml:id="note.7">Gazi Kasim Pasha.</note> iam movit
-                        <placeName>Pesto</placeName><note type="critic" xml:id="note.8">Pest.</note>
-                    et in Transsylvaniam <milestone unit="pb"/>pergit, sed non cum tantis copiis,
-                    quas <persName>Heremita</persName> deberet pertimescere, nisi inter eundum
-                    augebitur. Dubium etiam est, quonam signa vertat. Nam haesit ferme in medio
-                    itineris, quod est inter <placeName>Zegedinum</placeName><note type="critic"
-                        xml:id="note.9">Szeged.</note> et <placeName>Zolnocchum</placeName>, et
-                        <placeName>Zegedinum</placeName> versus erit ei declinandum, si in
-                    Transsylvaniam animus est, quod quidem firmiore fama fertur. Sed interim, et hic
-                    suspectus est, is eius motus et haec mora, et hoc anceps iter, ne forte alio via
-                    demonstrata, erumpat in <placeName>Zolnocchum</placeName>. </p>
+                    Quoniam <placeName>Zolnocchum</placeName><note xml:id="note.1">Szolnok.</note>
+                    excitavit huic loco satis cumulate veteres sollicitudines, et attulit novas non
+                    pauciores, neque minores. Firmato castello milite et munitionibus nunc commeatu
+                    expletur. In Transsylvania <del corresp="author">XXXmus</del><add
+                        corresp="author" type="corr">XXX</add> iam <del corresp="author"
+                        >VIImus</del><add corresp="author" type="corr">septimus</add> dies est, quod
+                        <persName>Heremita</persName><note xml:id="note.2">George
+                        Martinuzzi.</note><placeName>Albam</placeName><note xml:id="note.3">Alba
+                        Julia.</note> obsidet. Habet exercitum (ut <del corresp="author">et privata
+                        et</del> publica voce audimus) XXIIII millium hominum; <add corresp="author"
+                        type="insert">quamvis longe est secus, et</add> in eis equitum sunt XVI
+                    millium, peditum VIII, sed qui eius aere merent, IIII sunt, dumtaxat equitum
+                    millia <del corresp="author">sunt</del>, peditum mille. Reliquus numerus ex
+                    provincialibus et nobilitate diversorum comitatuum, collatitius est. Diu
+                    obsessos non petiit ulla vi machinarum; ad ultroneam deditionem sollicitavit
+                        <milestone unit="pb"/>assidue <persName>Petrovium</persName>,<note
+                        xml:id="note.4">Péter Petrovics.</note> ut Turcam et hostem publicum,
+                    pupillum, ut eius gentis dominum reddi sibi postulando.
+                        <persName>Regina</persName>,<note xml:id="note.5">Queen Isabella.</note> ut
+                    femina, quae non capit hostis nomen, cum ceteris ut imbecilles et indulgentia
+                    magis, quam severa pro belli iure animadversione digni, non tanti aestimati
+                    sunt, ut in eorum conatibus pondus haberi declararetur. Ad consensum tantum
+                    regni publicum et Christianam societatem hortati, venia etiam ultro quotidie
+                    oblata, si ante vim sententiam mutavissent. Verum quoniam in obstinatione
+                    perdurant, <del corresp="author">bombardis</del><add corresp="author"
+                        type="corr">bombardas</add> quoque iam <del corresp="author">ab VIII
+                        die</del><add corresp="author" type="corr">admovit</add> et <del
+                        corresp="author">omne genus</del><del corresp="author"
+                        >oppugnationis</del><add corresp="author" type="corr">oppugnatione</add><del
+                        corresp="author">adhibuit</del><add corresp="author" type="corr">muros
+                        sollicitat</add>. Nec prius ad hanc vim dicitur accedere voluisse, quam
+                    comperit certo<note xml:id="note.6">Uncertain reading.</note> et reginam et
+                        <persName>Petrovium</persName> Turcas <del corresp="author">in
+                        auxilium</del> evocasse. </p>
+                <p xml:id="p.3">Bassa enim <persName>Budensis</persName><note xml:id="note.7">Gazi
+                        Kasim Pasha.</note> iam movit <placeName>Pesto</placeName><note
+                        xml:id="note.8">Pest.</note> et in Transsylvaniam <milestone unit="pb"
+                    />pergit, sed non cum tantis copiis, quas <persName>Heremita</persName> deberet
+                    pertimescere, nisi inter eundum augebitur. Dubium etiam est, quonam signa
+                    vertat. Nam haesit ferme in medio itineris, quod est inter
+                        <placeName>Zegedinum</placeName><note xml:id="note.9">Szeged.</note> et
+                        <placeName>Zolnocchum</placeName>, et <placeName>Zegedinum</placeName>
+                    versus erit ei declinandum, si in Transsylvaniam animus est, quod quidem
+                    firmiore fama fertur. Sed interim, et hic suspectus est, is eius motus et haec
+                    mora, et hoc anceps iter, ne forte alio via demonstrata, erumpat in
+                        <placeName>Zolnocchum</placeName>. </p>
                 <p xml:id="p.4">[2.] Seculi <persName>Heremitam</persName> non destituerunt, Saxonum
                     quidam potiores reginae adhaeserant, sed cognita plane eius mente de inducendis
                     Turcarum auxiliis una omnes cum nobilitate et Seculis redierunt ad
                         <persName>Heremitam</persName>. <persName>Francisci Kendini</persName><note
-                        type="critic" xml:id="note.10">Ferenc Kendy was <hi rend="italic">magister
-                            tavernicorum regalium</hi> to King John I in 1539, and he participated
-                        in the Balassa–Majláth-revolt in 1540. They probably tried to bring the
+                        xml:id="note.10">Ferenc Kendy was <hi rend="italic">magister tavernicorum
+                            regalium</hi> to King John I in 1539, and he participated in the
+                        Balassa–Majláth-revolt in 1540. They probably tried to bring the
                         Transylvanian parts under the rule of King Ferdinand I. Between 1553 and
                         1556, he was a Vice-Voivode of Transylvania, see <hi rend="smallcap"
                             >Oborni</hi> 2017, 63–66; and <hi rend="smallcap">Fallenbüchl</hi> 1988,
-                        129.</note> dubius animus,<note type="critic" xml:id="note.11">The
-                        Balassa–Majláth-revolt in 1540 took place against George Martinuzzi. Kendy
-                        obviously hated Martinuzzi.</note> ac (uti nuntii
-                        <persName>Heremitae</persName> afferebant) cum <persName>Petrovio</persName>
-                    sentit, <milestone unit="pb"/>quamvis cum <persName>Heremita</persName> simulet,
-                    hic vicissim secum; et quod enormius de tanto homine publica etiam fama
-                    vulgavit, eius ambitionis scintilla tantum incendium excitavit. Sed verius de
-                    hoc postea. </p>
-                <p xml:id="p.5"><persName>Comes</persName><note type="critic" xml:id="note.12"
-                        >Probably Niklas von Salm.</note> summa vigilantia et dexteritate rebus
-                    praeest. Nihil certe praetermittit (si quid ego iudicii habeam de alienis
-                    actionibus), quod audiendum, videndum, cognoscendum experiundumque et agendum
-                    est optimo maximo et prudentissimo belli ductori, illud dumtaxat eum quoque
-                    perturbat, ut alios omnes, quod comitatus dimittuntur. Qui si omnino missionem
-                    tam cito impetrabunt, (ut eis negari nequit) stipendiarii milites, qui
-                    remanebunt, vix sat erunt tanto limiti, hoste praesertim non mediocriter, ut
-                    affertur, aucto. Non enim multi supererunt. Turcae autem ad tantum motum,
-                        <milestone unit="pb"/>qui a nobis factus est, serio videntur esse
-                    multiplicati, timendumque, ne tunc ipsi bellum ordiri incipiant, cum nos
-                    desierimus. Arx Cianadiensis<note type="critic" xml:id="note.13">Cenad.</note>
-                    adhuc resistit, sed periculum est, ne succumbat, si Turcae obsidentibus
-                    accesserunt, quod ita esse nuntiatur. Haec a legatis Heremitae, qui hic fuere
-                    nudiustertius, magna ex parte cognita. Vale. </p>
+                        129.</note> dubius animus,<note xml:id="note.11">The Balassa–Majláth-revolt
+                        in 1540 took place against George Martinuzzi. Kendy obviously hated
+                        Martinuzzi.</note> ac (uti nuntii <persName>Heremitae</persName> afferebant)
+                    cum <persName>Petrovio</persName> sentit, <milestone unit="pb"/>quamvis cum
+                        <persName>Heremita</persName> simulet, hic vicissim secum; et quod enormius
+                    de tanto homine publica etiam fama vulgavit, eius ambitionis scintilla tantum
+                    incendium excitavit. Sed verius de hoc postea. </p>
+                <p xml:id="p.5"><persName>Comes</persName><note xml:id="note.12">Probably Niklas von
+                        Salm.</note> summa vigilantia et dexteritate rebus praeest. Nihil certe
+                    praetermittit (si quid ego iudicii habeam de alienis actionibus), quod
+                    audiendum, videndum, cognoscendum experiundumque et agendum est optimo maximo et
+                    prudentissimo belli ductori, illud dumtaxat eum quoque perturbat, ut alios
+                    omnes, quod comitatus dimittuntur. Qui si omnino missionem tam cito impetrabunt,
+                    (ut eis negari nequit) stipendiarii milites, qui remanebunt, vix sat erunt tanto
+                    limiti, hoste praesertim non mediocriter, ut affertur, aucto. Non enim multi
+                    supererunt. Turcae autem ad tantum motum, <milestone unit="pb"/>qui a nobis
+                    factus est, serio videntur esse multiplicati, timendumque, ne tunc ipsi bellum
+                    ordiri incipiant, cum nos desierimus. Arx Cianadiensis<note xml:id="note.13"
+                        >Cenad.</note> adhuc resistit, sed periculum est, ne succumbat, si Turcae
+                    obsidentibus accesserunt, quod ita esse nuntiatur. Haec a legatis Heremitae, qui
+                    hic fuere nudiustertius, magna ex parte cognita. Vale. </p>
                 <p xml:id="p.6">XI. Octobris 1550. <placeName>Agriae</placeName>. </p>
             </div>
         </body>

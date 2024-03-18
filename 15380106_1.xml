@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -269,9 +267,9 @@
                     te tua fide, ut in hanc aulam venires inpulsum esse, ut mortui <choice>
                         <orig>reges</orig>
                         <supplied><persName>regis</persName></supplied>
-                    </choice><note type="critic" xml:id="note.1">King Louis
-                        II.</note><persName>uxorem</persName><note type="critic" xml:id="note.2"
-                        >Queen Mary.</note> officiis demereri possis, et illius memoriam beneficiis
+                    </choice><note xml:id="note.1">King Louis
+                        II.</note><persName>uxorem</persName><note xml:id="note.2">Queen
+                        Mary.</note> officiis demereri possis, et illius memoriam beneficiis
                     coleres, spe otii litterarum allectum esse, consilio detrusum, constantia
                     detineri <del corresp="Olahus">possis et illius memoriam.</del>. Ego dum res
                     tuas inspicio, si modo mihi fas hanc curiositatem assumere, videris mihi summa
@@ -326,14 +324,13 @@
                     </choice> faciat, plane oportet in te esse divinam ingenii vim, quae inter tot
                     spinas sollicitudinum non suffocatur. </p>
                 <p xml:id="p.5">Rogavit me <persName>Iohannes Henckhellus</persName>,<note
-                        type="critic" xml:id="note.3">Johann Henckel the Younger.</note> ut
-                    posteaquam individuus socius <persName>reginae</persName> commeatu instructus in
-                    Italiam abiturus est, ut idem munus ei a regina impetres; scit te pro tuo merito
-                    omnia apud reginam posse, nec libenter vellet <persName>Martinum</persName> sibi
-                    eripi, quem amicum sibi caritate, integrum fide, admonitiorem consiliis
-                        <milestone unit="pb"/>prudentem semper expertus est. Ego tametsi iuvene isto
-                    non libenter careo, est enim moribus perquam humanis, tamen nolim ei mea causa
-                    quicquam <choice>
+                        xml:id="note.3">Johann Henckel the Younger.</note> ut posteaquam individuus
+                    socius <persName>reginae</persName> commeatu instructus in Italiam abiturus est,
+                    ut idem munus ei a regina impetres; scit te pro tuo merito omnia apud reginam
+                    posse, nec libenter vellet <persName>Martinum</persName> sibi eripi, quem amicum
+                    sibi caritate, integrum fide, admonitiorem consiliis <milestone unit="pb"
+                    />prudentem semper expertus est. Ego tametsi iuvene isto non libenter careo, est
+                    enim moribus perquam humanis, tamen nolim ei mea causa quicquam <choice>
                         <orig>remoror</orig>
                         <supplied>remorae</supplied>
                     </choice> obicii, aut ob meum affectum illius commoda retardari, amo enim eum

@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Mark Lauwerijns<idno type="ITIdata">Q470379</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,10 +242,10 @@
                     Nicolao Olao. </p>
                 <p xml:id="p.2">Magnifice Domine Olae! Quod a meo discessu a
                         <placeName>Bruxella</placeName> ex me nil audiveris, miraberis, scio
-                        certe.<note type="critic" xml:id="note.1">Oláh actually knew about
-                        Lauwerijns’ illness, see Oláh’s letter to Schepper Ep.
-                            483.<ref>olahus.tei.15340424_1</ref></note> In causa fuit meus diuturnus
-                    ex malo, quo laboravi, decubitus. Consilio quorundam submisi me curae chirurgi
+                        certe.<note xml:id="note.1">Oláh actually knew about Lauwerijns’ illness,
+                        see Oláh’s letter to Schepper Ep.
+                        483.<ref>olahus.tei.15340424_1</ref></note> In causa fuit meus diuturnus ex
+                    malo, quo laboravi, decubitus. Consilio quorundam submisi me curae chirurgi
                     Galli et vere nebulonis, qui ex multis et magnis pollicitis nil praestitit. Immo
                     in peiore me collocavit statu, ubi prius sine molestia agerem, quae collibuisset
                         <milestone unit="pb"/>in omni genere profectionis curru, equo videlicet, aut
@@ -275,7 +273,7 @@
                 <p xml:id="p.3">Nolui omittere, Domine Olae Magnifice, quin meas fortunas Tuae
                     Dominationi cognitas facerem, priusquam in <placeName>Flandriam</placeName>
                     demigrarem, a qua nunc ad bimestre abfui. Nec interea quicquam de domino
-                        <persName>Cornelio</persName><note type="critic" xml:id="note.2">Cornelis de
+                        <persName>Cornelio</persName><note xml:id="note.2">Cornelis de
                         Schepper.</note> nostro, communi amico <del corresp="editor">quicquam</del>
                     audivi. Si quid habueris, rogo, fac nos participes, die crastina abeo in
                     Flandriam <placeName>Brugas</placeName>, ubi si quid dignum percepero, ut scias,

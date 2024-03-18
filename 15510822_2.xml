@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,49 +246,48 @@
                 <pb/>
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Frater Observandissime,
                     servitiorum meorum commendationem! </p>
-                <p xml:id="p.2">[1.] Binas hoc die accepi litteras<note type="critic"
-                        xml:id="note.1">We do not know these letters.</note> Dominationis Vestrae de
-                    data 10. huius, sed quas breviter respondeo. Cacodaemon ille, qui meo immerenti
-                    capiti discrimen moliebatur, <quote xml:id="quote.1">cadet aliquando in foveam,
-                        quam aliis parat.</quote><note type="quote" xml:id="note.quote.1">Erasm. <hi
+                <p xml:id="p.2">[1.] Binas hoc die accepi litteras<note xml:id="note.1">We do not
+                        know these letters.</note> Dominationis Vestrae de data 10. huius, sed quas
+                    breviter respondeo. Cacodaemon ille, qui meo immerenti capiti discrimen
+                    moliebatur, <quote xml:id="quote.1">cadet aliquando in foveam, quam aliis
+                        parat.</quote><note type="quote" xml:id="note.quote.1">Erasm. <hi
                             rend="italic">Adag.</hi> 52. I,I,52. Incidit in foveam quam
                         fecit.</note> Is ille est, qui cum <persName>Bakyth</persName><note
-                        type="critic" xml:id="note.2">Péter Bakics.</note> commercium habet, de quo
-                    alias plura. Deum glorifico, qui res vestras immo meas prosperavit et sine
-                    sanguine totas ex animi mei sententia perfecit. Iam enitendum est, ut
-                        <placeName>Babatum</placeName><note type="critic" xml:id="note.3">Bavay, see
-                        Ep. 757. Cap. 2.<ref>olahus.tei.15510106_1</ref></note> levatum teneamus, in
-                    quo nos hic dies et noctes meditamur. </p>
-                <p xml:id="p.3"><persName>Reginam</persName><note type="critic" xml:id="note.4"
-                        >Queen Isabella Jagiellon.</note> exivisse ex Transsylvania;<note
-                        type="critic" xml:id="note.5">She left Transylvania after George Martinuzzi
-                        convinced her to cede Transylvania to King Ferdinand I, see <hi
-                            rend="smallcap">Oborni</hi> 2017,
+                        xml:id="note.2">Péter Bakics.</note> commercium habet, de quo alias plura.
+                    Deum glorifico, qui res vestras immo meas prosperavit et sine sanguine totas ex
+                    animi mei sententia perfecit. Iam enitendum est, ut
+                        <placeName>Babatum</placeName><note xml:id="note.3">Bavay, see Ep. 757. Cap.
+                            2.<ref>olahus.tei.15510106_1</ref></note> levatum teneamus, in quo nos
+                    hic dies et noctes meditamur. </p>
+                <p xml:id="p.3"><persName>Reginam</persName><note xml:id="note.4">Queen Isabella
+                        Jagiellon.</note> exivisse ex Transsylvania;<note xml:id="note.5">She left
+                        Transylvania after George Martinuzzi convinced her to cede Transylvania to
+                        King Ferdinand I, see <hi rend="smallcap">Oborni</hi> 2017,
                         248.</note><placeName>Solymos</placeName>,
-                        <placeName>Lyppam</placeName><note type="critic" xml:id="note.6">Șoimuș and
-                        Lipova were engagement gifts to Queen Isabella, see <hi rend="smallcap"
-                            >Oborni</hi> 2017, 211.</note> et postremo 14. huius
-                        <placeName>Themeswar</placeName><note type="critic" xml:id="note.7"
-                        >Timișoara.</note> in manibus nostris iam esse audivimus ante triduum,<note
-                        type="critic" xml:id="note.8">George Martinuzzi turned over the castles to
-                        King Ferdinand I, but the friar lied to Sokollu Mehmed Pasha saying that the
-                        castles were turned over by Péter Petrovics, see <hi rend="smallcap"
-                            >Horváth</hi> 1896, 49.</note> et ad litteras Dominationum Vestrarum
-                    capitanei <persName>Bathori</persName><note type="critic" xml:id="note.9">András
-                        (Bonaventura) Báthori.</note> et aliorum hodie respondimus. <persName>Begler
-                        begum</persName><note type="critic" xml:id="note.10">Sokollu Mehmed Pasha
-                        (ca.1505–1579), Governor-General of Rumelia (1551–1555) was sent by Suleiman
-                        I to drive the Habsburg troops out off Transylvania, see <hi rend="smallcap"
-                            >Oborni</hi> 2017, 223; and <hi rend="smallcap">Dakić</hi> 2012,
-                        36–61.</note> quoque in <placeName>Zemplinium</placeName> 3. huius ex
-                        <placeName>Nandoralba</placeName><note type="critic" xml:id="note.11"
-                        >Belgrade.</note> traiecisse intelleximus, <del corresp="Olahus">cum</del>
-                    et Tartares quosdam illuc exspectari. Cum vaivodis fratribus meis<note
-                        type="critic" xml:id="note.12">Oláh was indeed related to the Voivode of
-                        Wallachia., see Ep. 641; and <hi rend="smallcap">Szilágyi</hi>
-                            2021.<ref>olahus.tei.15431211_1</ref></note> agendum vobis esse, ne
-                    partim essent aliarum quam Christianarum, frenderent dentes suos in Alcoranum.
-                    Non nihil ea res rebus nostris accessionis adderet.</p>
+                        <placeName>Lyppam</placeName><note xml:id="note.6">Șoimuș and Lipova were
+                        engagement gifts to Queen Isabella, see <hi rend="smallcap">Oborni</hi>
+                        2017, 211.</note> et postremo 14. huius
+                        <placeName>Themeswar</placeName><note xml:id="note.7">Timișoara.</note> in
+                    manibus nostris iam esse audivimus ante triduum,<note xml:id="note.8">George
+                        Martinuzzi turned over the castles to King Ferdinand I, but the friar lied
+                        to Sokollu Mehmed Pasha saying that the castles were turned over by Péter
+                        Petrovics, see <hi rend="smallcap">Horváth</hi> 1896, 49.</note> et ad
+                    litteras Dominationum Vestrarum capitanei <persName>Bathori</persName><note
+                        xml:id="note.9">András (Bonaventura) Báthori.</note> et aliorum hodie
+                    respondimus. <persName>Begler begum</persName><note xml:id="note.10">Sokollu
+                        Mehmed Pasha (ca.1505–1579), Governor-General of Rumelia (1551–1555) was
+                        sent by Suleiman I to drive the Habsburg troops out off Transylvania, see
+                            <hi rend="smallcap">Oborni</hi> 2017, 223; and <hi rend="smallcap"
+                            >Dakić</hi> 2012, 36–61.</note> quoque in
+                        <placeName>Zemplinium</placeName> 3. huius ex
+                        <placeName>Nandoralba</placeName><note xml:id="note.11">Belgrade.</note>
+                    traiecisse intelleximus, <del corresp="Olahus">cum</del> et Tartares quosdam
+                    illuc exspectari. Cum vaivodis fratribus meis<note xml:id="note.12">Oláh was
+                        indeed related to the Voivode of Wallachia., see Ep. 641; and <hi
+                            rend="smallcap">Szilágyi</hi>
+                        2021.<ref>olahus.tei.15431211_1</ref></note> agendum vobis esse, ne partim
+                    essent aliarum quam Christianarum, frenderent dentes suos in Alcoranum. Non
+                    nihil ea res rebus nostris accessionis adderet.</p>
                 <p xml:id="p.4">De insolentia et petulantia <persName>Bakyth</persName> ideo non
                     scripsi, quod scivi litterarum relatoriarum copiam ad te missam fecisse, et
                     volui scribendo <choice>
@@ -299,57 +296,55 @@
                     </choice> animum. Mecum quoque rem habet et non minus tum propter te, cum
                     propter me turbat. Hic <milestone unit="pb"/>apud regiam maiestatem nihil
                     neglexi, quod ad me et te pertinuit. Est animi constantis, quod vult
-                    dimidietatem bonorum apud orphanos<note type="critic" xml:id="note.13">See the
-                        letter on the Czobor orphans, Ep.
-                        741.<ref>olahus.tei.15500620_1</ref></note> esse. In hocque nunc laboramus,
-                    convivens aliquid cum ille sit in expeditione, sed res non negligetur. Erit
-                    tempus, quo advolare poteris, non festinis,<note type="critic" xml:id="note.14"
-                        >Rare use instead of festino.</note> sed lente, ut dicitur in proverbio. </p>
-                <p xml:id="p.5">[2.] Domina <persName>coniunx</persName><note type="critic"
-                        xml:id="note.15">Orsolya Kanizsai.</note> Dominationis Vestrae carissima,
-                    domina mea observandissima recte valere dicitur.
-                        <persName>Paulum</persName><note type="critic" xml:id="note.16">Probably Pál
-                        Miklós, Tamás Nádasdy’s servant, see <hi rend="smallcap">Károlyi–Szalay</hi>
-                        1882, 53 and 107.</note> remisi, quem ad me miserat, ut haberet, cum quo
-                    confabularetur. <persName>Choron</persName> est mortuus.<note type="critic"
-                        xml:id="note.17">András Choron wrote his last letter to Tamás Nádasdy on 8
-                        August, 1551, see <hi rend="smallcap">Varga</hi> 2001, 269; so he died some
-                        time between 8 and 22 August.</note><persName>Zychy</persName><note
-                        type="critic" xml:id="note.18">István Zichy was Captain of Pápa, see HHStA
-                        UA AA Fasc. 61. Konv. C. 1551 s.d. fol. 70–72. He occurs in the
-                        correspondence between Tamás Nádasdy and his wife, see <hi rend="smallcap"
-                            >Károlyi–Szalay</hi> 1882, 49, 135, and 152.</note> cum collega suo
-                        <persName>Paulo Rathkay</persName><note type="critic" xml:id="note.19">Pál
+                    dimidietatem bonorum apud orphanos<note xml:id="note.13">See the letter on the
+                        Czobor orphans, Ep. 741.<ref>olahus.tei.15500620_1</ref></note> esse. In
+                    hocque nunc laboramus, convivens aliquid cum ille sit in expeditione, sed res
+                    non negligetur. Erit tempus, quo advolare poteris, non festinis,<note
+                        xml:id="note.14">Rare use instead of festino.</note> sed lente, ut dicitur
+                    in proverbio. </p>
+                <p xml:id="p.5">[2.] Domina <persName>coniunx</persName><note xml:id="note.15"
+                        >Orsolya Kanizsai.</note> Dominationis Vestrae carissima, domina mea
+                    observandissima recte valere dicitur. <persName>Paulum</persName><note
+                        xml:id="note.16">Probably Pál Miklós, Tamás Nádasdy’s servant, see <hi
+                            rend="smallcap">Károlyi–Szalay</hi> 1882, 53 and 107.</note> remisi,
+                    quem ad me miserat, ut haberet, cum quo confabularetur.
+                        <persName>Choron</persName> est mortuus.<note xml:id="note.17">András Choron
+                        wrote his last letter to Tamás Nádasdy on 8 August, 1551, see <hi
+                            rend="smallcap">Varga</hi> 2001, 269; so he died some time between 8 and
+                        22 August.</note><persName>Zychy</persName><note xml:id="note.18">István
+                        Zichy was Captain of Pápa, see HHStA UA AA Fasc. 61. Konv. C. 1551 s.d. fol.
+                        70–72. He occurs in the correspondence between Tamás Nádasdy and his wife,
+                        see <hi rend="smallcap">Károlyi–Szalay</hi> 1882, 49, 135, and 152.</note>
+                    cum collega suo <persName>Paulo Rathkay</persName><note xml:id="note.19">Pál
                         Rátkay (†1556) was Captain of Pápa in 1543 and participated in many battles,
                         for example the one at Telekes (1549), see <hi rend="smallcap">Budai</hi>
                         1805, 157.</note> est in posta. Maiestas regia novos equites praeter priores
                     conscribi iussit ad 40.000. Cras advenient hastati pedites ex
                         <placeName>Patavia</placeName> boni 3000, ex Moravia post quintum dies ad
                     800 cathaphracti, hic ex Austria totidem fere. Circa
-                        <placeName>Zygeth</placeName><note type="critic" xml:id="note.20"
-                        >Szigetvár.</note> aliquid praeclari agetur ad Galli cautum rubei, in aliis
-                    etiam litteris non dormient. Maxime opus esset, si vel dominus
-                        <persName>Bathori</persName> vel Dominatio Vestra proprius esset. De aliis
-                    externorum regnorum novis scribere etiam non possum, quia lapsus sum propter
-                    negotia et scripturam assiduam. Ad dominum <persName>Bathori</persName> nulla
-                    raptim scripsi, credo, quod Dominationem Vestram litteris suis de his <milestone
-                        unit="pb"/>certiorem reddet. Commendet me dominis <persName>capitaneo
-                        generali</persName>,<note type="critic" xml:id="note.21">Giovanni Battista
-                        Castaldo.</note><persName>thesaurario</persName><note type="critic"
-                        xml:id="note.22">George Martinuzzi.</note> et aliis, si egi sicut in
-                    hospitia, nolo pauciores, quam viginti equos gradarios omnes, mihi coemi facias,
-                    ex his eligam duos aut unum. Deus conservet Dominationem Vestram felicem et
-                    incolumem. </p>
+                        <placeName>Zygeth</placeName><note xml:id="note.20">Szigetvár.</note>
+                    aliquid praeclari agetur ad Galli cautum rubei, in aliis etiam litteris non
+                    dormient. Maxime opus esset, si vel dominus <persName>Bathori</persName> vel
+                    Dominatio Vestra proprius esset. De aliis externorum regnorum novis scribere
+                    etiam non possum, quia lapsus sum propter negotia et scripturam assiduam. Ad
+                    dominum <persName>Bathori</persName> nulla raptim scripsi, credo, quod
+                    Dominationem Vestram litteris suis de his <milestone unit="pb"/>certiorem
+                    reddet. Commendet me dominis <persName>capitaneo generali</persName>,<note
+                        xml:id="note.21">Giovanni Battista
+                        Castaldo.</note><persName>thesaurario</persName><note xml:id="note.22"
+                        >George Martinuzzi.</note> et aliis, si egi sicut in hospitia, nolo
+                    pauciores, quam viginti equos gradarios omnes, mihi coemi facias, ex his eligam
+                    duos aut unum. Deus conservet Dominationem Vestram felicem et incolumem. </p>
                 <p xml:id="p.6">Ex <placeName>Wienna</placeName> 22. Augusti anno 1551.</p>
                 <p xml:id="p.7">
                     <seg type="signature"> Servitor et frater Agriensis etc. manu propria</seg>
                 </p>
                 <p xml:id="p.8"><persName>Maximilianum regem</persName> ad finem huius mensis immo
                     ante exspectamus <placeName>Genuam</placeName>, <persName>Andreas a
-                        Doria</persName><note type="critic" xml:id="note.23">Andrea Doria.</note>
-                    iam ante aliquot dies cum Gallenis ivit ei obviam
-                        <placeName>Barcinonam</placeName>. <persName>Caesarea maiestas</persName> et
-                        <persName>regia</persName> optime valent. </p>
+                        Doria</persName><note xml:id="note.23">Andrea Doria.</note> iam ante aliquot
+                    dies cum Gallenis ivit ei obviam <placeName>Barcinonam</placeName>.
+                        <persName>Caesarea maiestas</persName> et <persName>regia</persName> optime
+                    valent. </p>
                 <pb/>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

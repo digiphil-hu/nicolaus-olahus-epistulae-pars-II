@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,28 +233,26 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem dicit. </p>
                 <p xml:id="p.2">Tandem aliquando <persName>negotiator iste
-                        Mediolanensis</persName><note type="critic" xml:id="note.1">Giacomo Fagnano,
-                        see Ep. 490.<ref>olahus.tei.15340531_1</ref></note> globum mihi reddidit
-                    affabre quidem factum, sed dum vector commodo suo magis studuit, circulos
-                    quosdam minutulos confregit, sed spero hic aliquem me inventurum, qui omnia in
-                    pristinam faciem restituat. <persName>Gemma Phrisius</persName><note
-                        type="critic" xml:id="note.2">Jemme Reinerszoon.</note> mihi istinc
-                    recedenti pollicitus est una cum globo missurum libellum suum docentem, quopacto
-                    utendus sit globus. Te etiam atque etiam rogo, des operam, ut quamprimum
-                    rationem istam Gemmae et sic anulorum habeam. Credo iam excussos typis libellos
-                    esse. </p>
+                        Mediolanensis</persName><note xml:id="note.1">Giacomo Fagnano, see Ep.
+                            490.<ref>olahus.tei.15340531_1</ref></note> globum mihi reddidit affabre
+                    quidem factum, sed dum vector commodo suo magis studuit, circulos quosdam
+                    minutulos confregit, sed spero hic aliquem me inventurum, qui omnia in pristinam
+                    faciem restituat. <persName>Gemma Phrisius</persName><note xml:id="note.2">Jemme
+                        Reinerszoon.</note> mihi istinc recedenti pollicitus est una cum globo
+                    missurum libellum suum docentem, quopacto utendus sit globus. Te etiam atque
+                    etiam rogo, des operam, ut quamprimum rationem istam Gemmae et sic anulorum
+                    habeam. Credo iam excussos typis libellos esse. </p>
                 <p xml:id="p.3">De rebus publicis non est, quod addere possim <del corresp="Olahus"
                         >externis</del><add corresp="Olahus" type="corr">hesternis</add> litteris
                         meis,<ref>See Ep. 537.</ref><ref>/o:olahus.tei.15350530_1</ref> praeterquam
                     quod ex curia caesaris intelleximus in praesenti expeditione ad septingentos
                     nobiles equestri ordinis Hispanos caesarem secuturos Marte suo. Addunt praeterea
                     duces, comites, marchiones VII et multos comites. Vale, Olahe Amantissime, et
-                        <persName>Scepero</persName><note type="critic" xml:id="note.3">Cornelis de
+                        <persName>Scepero</persName><note xml:id="note.3">Cornelis de
                         Schepper.</note> nostro item eius <persName>coniugi</persName><note
-                        type="critic" xml:id="note.4">Anna Isabella (Elizabeth) Donche.</note> me
-                    plurimum commenda. Electissimam <persName>Virginem Lucretiam</persName><note
-                        type="critic" xml:id="note.5">Lucretia Caballis (vom Ross).</note> salvebis
-                    meo nomine. </p>
+                        xml:id="note.4">Anna Isabella (Elizabeth) Donche.</note> me plurimum
+                    commenda. Electissimam <persName>Virginem Lucretiam</persName><note
+                        xml:id="note.5">Lucretia Caballis (vom Ross).</note> salvebis meo nomine. </p>
                 <p xml:id="p.4">Ultima Maii XXXV.</p>
             </div>
         </body>

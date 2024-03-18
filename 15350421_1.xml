@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,29 +233,28 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Gratissimae mihi fuerunt litterae tuae, quas VIII. Aprilis ad me
-                        dedisti,<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> ex his cognovi meas ad vos incolumes pervenisse cum Urbanis,
-                    Hispanis et Aphricanis rebus. Reliquae, quae post ad
-                        <persName>principem</persName><note type="critic" xml:id="note.2">Francesco
-                        II Sforza.</note> meum pervenerunt, <persName>reginae</persName>
-                    serenissimae dominae nostrae per eundem uberrime scribuntur, tu de ista
-                    intelliges. Ensem, quem efflagitasti, <persName>Carolo</persName><note
-                        type="critic" xml:id="note.3">We do not know him more closely. In a previous
-                        letter, Ghilino mentioned another merchant from Milan negotiating in
-                        Antwerp, called Giacomo Fagnano, see Ep. 490. He also said that Madame
-                        Souvastre would take the sword to Oláh, see Ep.
+                        dedisti,<note xml:id="note.1">We do not know this letter.</note> ex his
+                    cognovi meas ad vos incolumes pervenisse cum Urbanis, Hispanis et Aphricanis
+                    rebus. Reliquae, quae post ad <persName>principem</persName><note
+                        xml:id="note.2">Francesco II Sforza.</note> meum pervenerunt,
+                        <persName>reginae</persName> serenissimae dominae nostrae per eundem
+                    uberrime scribuntur, tu de ista intelliges. Ensem, quem efflagitasti,
+                        <persName>Carolo</persName><note xml:id="note.3">We do not know him more
+                        closely. In a previous letter, Ghilino mentioned another merchant from Milan
+                        negotiating in Antwerp, called Giacomo Fagnano, see Ep. 490. He also said
+                        that Madame Souvastre would take the sword to Oláh, see Ep.
                             528.<ref>olahus.tei.15340531_1</ref></note><ref>/o:olahus.tei.15350209_1</ref>
                     negotiatori Mediolanensi, qui mercaturam <placeName>Antverpiae</placeName>
                     facit, dedi. Is, ut spero, tibi arridebit, et propediem habebis capulum et
                     reliqua, ornamenta inaurata opere striato sunt et theca ex serico viloso cum
                     gladiolis inauratis. Principes mei te resalutant et diligunt, exitum rerum
                     Cymbricarum avide exspectamus. Vale, Amicorum Optime, et me, ut facis, ama.
-                        <persName>Sceperum</persName><note type="critic" xml:id="note.4">Cornelis de
+                        <persName>Sceperum</persName><note xml:id="note.4">Cornelis de
                         Schepper.</note> et reliquos amicos ex me <choice>
                         <orig>iubis</orig>
                         <supplied>iubebis</supplied>
                     </choice> salvere. Iterum vale. </p>
-                <p xml:id="p.3">Ex vico Iovis<note type="critic" xml:id="note.5">See Ep.
+                <p xml:id="p.3">Ex vico Iovis<note xml:id="note.5">See Ep.
                             533.<ref>olahus.tei.15350402_1</ref></note> XXI. Aprilis MDXXXV.</p>
             </div>
         </body>

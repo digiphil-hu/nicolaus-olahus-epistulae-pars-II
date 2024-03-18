@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Willem Gheershoven<idno type="ITIdata">Q470428</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,38 +233,37 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1"><persName>Guilhelmus Lovaniensis</persName><note type="critic"
-                        xml:id="note.1">Willem Gheershoven (†1547) was Canon Regular of St.
-                        Augustine at the monastery of Groenendaal at Hoeilaart. “For twenty years he
-                        was in charge of the library, and his fellow monks remembered him as a keen
-                        emendator of ancient manuscripts”, see <hi rend="smallcap">Bietenholz</hi>
-                        1986.</note> canonicus regularis divi Augustini in Viridi valle Nicolao Olao
-                    salutem. </p>
+                <p xml:id="p.1"><persName>Guilhelmus Lovaniensis</persName><note xml:id="note.1"
+                        >Willem Gheershoven (†1547) was Canon Regular of St. Augustine at the
+                        monastery of Groenendaal at Hoeilaart. “For twenty years he was in charge of
+                        the library, and his fellow monks remembered him as a keen emendator of
+                        ancient manuscripts”, see <hi rend="smallcap">Bietenholz</hi> 1986.</note>
+                    canonicus regularis divi Augustini in Viridi valle Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Mitto iam, Magnifice Domine ac Patrone Singularis, ista
-                        remediorum<note type="critic" xml:id="note.2">Oláh was probably looking for
-                        therapies for his kidney disease, see Ep. 567. Cap.
-                            1.<ref>olahus.tei.15360618_1</ref></note> collectanea e diversis libris
-                    ac schedis tuo iussu hic in <milestone unit="pb"/>unum congesta, nec modo
-                    Latina, verum etiam, uti volebas, nostrate lingua conscripta. In quibus etsi
-                    plerique sint termini seu vocabula, quae non satis intelligo, quia tamen harum
-                    rerum notitiam et scientiam mihi non vendico, nihil in his temere immutare
-                    praesumpsi, sed exemplaria in omnibus secutus sum. Si quae forte per scriptores,
-                    ut fere fit in hac praesertim materia, depravata sunt et corrupta, ab alio in
-                    huiusmodi exercitato facile efficiam, ut parvo negotio poterunt emendari.
-                    Scripsi autem currenti littera incompta sane et plus satis praecipitata, quod
-                    tempus ob alia intercurrentia, ut praedixi, impedimenta non patiebatur haec alio
-                    charactere magis legibili depingere. Verum ubi ex qualicumque lectione aliquem
-                    horum gustum acceperit, Dominationi Tuae si adeo placebunt, ut digna iudices,
-                    quae vel in tuum ipsius, vel in amicorum serventur usum, non gravabor eadem
-                    rursus alio tempore, quo maius dabitur otium, maiori et elegantiori littera
-                    exarare. Neque enim huic animo, ita me Deus amet, in omni vita gratius quicquam
-                    fuerit, quam si qualicumque officio vel obsequio Tuae Dominationis possim
-                    gratificari, quae nimirum tam insolita humanitate ac benevolentia tantisque
-                    beneficiis me immeritum prorsus et indignum hominem prosecuta est, ut pro his,
-                    non dico ullam rependere vicem, sed nec condignas agere gratias queam. Opto, ut
-                    feliciter valeas, Praeceptor Eruditissime et Amicissime atque Humanissime
-                    Patrone, et hanc nostram congregationem Tuae Dominationi devotis animis ac votis
-                    concordibus addictissimam semper habeas commendatam. </p>
+                        remediorum<note xml:id="note.2">Oláh was probably looking for therapies for
+                        his kidney disease, see Ep. 567. Cap.
+                        1.<ref>olahus.tei.15360618_1</ref></note> collectanea e diversis libris ac
+                    schedis tuo iussu hic in <milestone unit="pb"/>unum congesta, nec modo Latina,
+                    verum etiam, uti volebas, nostrate lingua conscripta. In quibus etsi plerique
+                    sint termini seu vocabula, quae non satis intelligo, quia tamen harum rerum
+                    notitiam et scientiam mihi non vendico, nihil in his temere immutare praesumpsi,
+                    sed exemplaria in omnibus secutus sum. Si quae forte per scriptores, ut fere fit
+                    in hac praesertim materia, depravata sunt et corrupta, ab alio in huiusmodi
+                    exercitato facile efficiam, ut parvo negotio poterunt emendari. Scripsi autem
+                    currenti littera incompta sane et plus satis praecipitata, quod tempus ob alia
+                    intercurrentia, ut praedixi, impedimenta non patiebatur haec alio charactere
+                    magis legibili depingere. Verum ubi ex qualicumque lectione aliquem horum gustum
+                    acceperit, Dominationi Tuae si adeo placebunt, ut digna iudices, quae vel in
+                    tuum ipsius, vel in amicorum serventur usum, non gravabor eadem rursus alio
+                    tempore, quo maius dabitur otium, maiori et elegantiori littera exarare. Neque
+                    enim huic animo, ita me Deus amet, in omni vita gratius quicquam fuerit, quam si
+                    qualicumque officio vel obsequio Tuae Dominationis possim gratificari, quae
+                    nimirum tam insolita humanitate ac benevolentia tantisque beneficiis me
+                    immeritum prorsus et indignum hominem prosecuta est, ut pro his, non dico ullam
+                    rependere vicem, sed nec condignas agere gratias queam. Opto, ut feliciter
+                    valeas, Praeceptor Eruditissime et Amicissime atque Humanissime Patrone, et hanc
+                    nostram congregationem Tuae Dominationi devotis animis ac votis concordibus
+                    addictissimam semper habeas commendatam. </p>
                 <p xml:id="p.3">Ex cellula nostra sexto idus Iulias.</p>
             </div>
         </body>

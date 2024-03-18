@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,10 +246,10 @@
                 <pb/>
                 <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">[1.] Etsi nihil haberem, Optime Patrone, quod scriberem, saepius
-                    enim iam scripsi,<note type="critic" xml:id="note.1">Nanninck wrote three
-                        letters to Oláh and did not receive any answers, see Ep. 597. Cap.
+                    enim iam scripsi,<note xml:id="note.1">Nanninck wrote three letters to Oláh and
+                        did not receive any answers, see Ep. 597. Cap.
                             1.<ref>olahus.tei.15371204_1</ref></note> tamen cum nuntium haberem tam
-                    idoneum, <persName>Rutgeri</persName><note type="critic" xml:id="note.2">Rutger
+                    idoneum, <persName>Rutgeri</persName><note xml:id="note.2">Rutger
                         Pathius.</note> nostri patruelem, non potui mihi imperare, quin si nihil
                     aliud, saltem per litteras te salutarem. Si enim illi <del corresp="Olahus"
                         >salus</del><add corresp="Olahus" type="corr">saluti</add> geruli, quos
@@ -259,44 +257,42 @@
                     cum singulis diebus mane patronis suis novum <choice>
                         <orig>χαίρε</orig>
                         <supplied>χαῖρε</supplied>
-                    </choice><note type="critic" xml:id="note.3">‘my regards’.</note> apportant,
-                    idque magis ex consuetudine, quam quod ex animo talia optent, ego me certe
-                    piaculum facere debebo persuadere, si illum, quem ob regii generis claritatem
-                    suspicio, ob eruditionem admiror, ob virtutis heroicas veneror, ob benemerendi
-                    de doctis studium colo, ob plurima sua in me beneficia carissimum habeo, non ad
-                    singulas opportunitates δυσωπία<note type="critic" xml:id="note.4"
-                        >‘coyness’.</note> laetisque <choice>
+                    </choice><note xml:id="note.3">‘my regards’.</note> apportant, idque magis ex
+                    consuetudine, quam quod ex animo talia optent, ego me certe piaculum facere
+                    debebo persuadere, si illum, quem ob regii generis claritatem suspicio, ob
+                    eruditionem admiror, ob virtutis heroicas veneror, ob benemerendi de doctis
+                    studium colo, ob plurima sua in me beneficia carissimum habeo, non ad singulas
+                    opportunitates δυσωπία<note xml:id="note.4">‘coyness’.</note> laetisque <choice>
                         <orig>improcationibus</orig>
                         <supplied>impricationibus</supplied>
                     </choice> adeo. Atque utinam superi mea vota audirent, ut Olahum meum vel potius
                     omnium studiosorum, non in aula caesaris inter primos, sed sua ipsius aula in
                     avitis ditionibus principem haberem, sed id si datum fuisset, animus iste
                     infractus inter adversa non eluxisset. </p>
-                <p xml:id="p.3">[2.] Alii<note type="critic" xml:id="note.5">This long enumeration
-                        and the closing allude to Hor. <hi rend="italic">Carm</hi>. I,I.</note>
-                    fortasse alia in te admirabuntur, admirationemque suam ex nitissimis causis
-                    colligent. Ille prudens consilium perspicacemque rerum curam; iste gravitatem
-                    constantiamque pectoris, quod a coepto <del corresp="Olahus">institudo</del><add
-                        corresp="Olahus" type="corr">instituto</add> nullis damnis dimoveare. Alii,
-                    quod ex naufragio patriae, ex iactura regiarum opum animum non depressum aut <choice>
+                <p xml:id="p.3">[2.] Alii<note xml:id="note.5">This long enumeration and the closing
+                        allude to Hor. <hi rend="italic">Carm</hi>. I,I.</note> fortasse alia in te
+                    admirabuntur, admirationemque suam ex nitissimis causis colligent. Ille prudens
+                    consilium perspicacemque rerum curam; iste gravitatem constantiamque pectoris,
+                    quod a coepto <del corresp="Olahus">institudo</del><add corresp="Olahus"
+                        type="corr">instituto</add> nullis damnis dimoveare. Alii, quod ex naufragio
+                    patriae, ex iactura regiarum opum animum non depressum aut <choice>
                         <orig>in morsum</orig>
                         <supplied>immersum</supplied>
                     </choice> undis, sed longe sublatum, ac supra fortunae saevitiam habeas. Alii
                     fidem amicitiae sanctissimam, quam tibi non intra pomeria vitae, sed etiam a
                     morte tuorum colendas putas. Habet te <persName>regina</persName> fidelissimum
                     et amicum <milestone unit="pb"/>et consiliarium, quia
-                        <persName>maritus</persName><note type="critic" xml:id="note.6">King Louis
-                        II.</note> eius te quondam amicum fidelissimum habuit. Consulis uxori, quia
-                    iam amplius marito non potes; procul es a patria, procul a tuis et commodis et
-                    incommodis, quae tua praesentia fortasse in melius procurari possent, ut reginae
-                    commodis melius prospicias; abes a tuis, sed ades deposito amici regis; affers
-                    ad reginae consilia, ex sanctitate fidem, ex usu peritiam, ex eruditione
-                    scientiam, ex sagacitate prudentiam. Alii rursus admirabuntur ingenium ad omnes
-                    artes versatile et quod non lento conamine, nec quasi per gradus, sed quasi
-                    flamma statim ad summa evolat. Alii rursus, quod doctos maecenatio vel potius
-                    patrio amore prosequare. Alii rursum, quod in tanto fastu rerum animum geras a
-                    fastu alienissimum eumque tam modestum, ut unus videare non sentire, quantus
-                    sis. </p>
+                        <persName>maritus</persName><note xml:id="note.6">King Louis II.</note> eius
+                    te quondam amicum fidelissimum habuit. Consulis uxori, quia iam amplius marito
+                    non potes; procul es a patria, procul a tuis et commodis et incommodis, quae tua
+                    praesentia fortasse in melius procurari possent, ut reginae commodis melius
+                    prospicias; abes a tuis, sed ades deposito amici regis; affers ad reginae
+                    consilia, ex sanctitate fidem, ex usu peritiam, ex eruditione scientiam, ex
+                    sagacitate prudentiam. Alii rursus admirabuntur ingenium ad omnes artes
+                    versatile et quod non lento conamine, nec quasi per gradus, sed quasi flamma
+                    statim ad summa evolat. Alii rursus, quod doctos maecenatio vel potius patrio
+                    amore prosequare. Alii rursum, quod in tanto fastu rerum animum geras a fastu
+                    alienissimum eumque tam modestum, ut unus videare non sentire, quantus sis. </p>
                 <p xml:id="p.4">[3.] Ego non singula ista, sed omnia simul admiror, et in
                     contemplatione tantarum virtutum, <quote xml:id="quote.1">quasi in officina
                         Phidiae</quote><note type="quote" xml:id="note.quote.1"> Cf. <hi

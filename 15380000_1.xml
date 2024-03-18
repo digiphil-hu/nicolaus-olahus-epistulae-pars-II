@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">606</title>
-                                                  <title key="body" n="606" type="main">Willem
-                                                  Gheershoven to Miklós Oláh (Groenendaal at
-                                                  Hoeilaart, 1538)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">606</title>
+                                        <title key="body" n="606" type="main">Willem Gheershoven to
+                                                  Miklós Oláh (Groenendaal at Hoeilaart,
+                                                  1538)</title>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -20,8 +20,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -29,8 +29,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -39,8 +39,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -48,40 +48,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15380000_1</idno>
-                                                  <idno type="ITIdata">Q473259</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15380000_1</idno>
+                                        <idno type="ITIdata">Q473259</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15380000_1.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -93,21 +92,21 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/II.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/II.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Copy with Oláh’s
                                                   emendations. </p>
-                                                  </note>
-                                                  <note type="publication"><hi rend="smallcap"
-                                                  >Ipolyi</hi> 1875, 621–622.</note>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </note>
+                                        <note type="publication"><hi rend="smallcap">Ipolyi</hi>
+                                                  1875, 621–622.</note>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Hungary</country>
                                                   <settlement>Budapest</settlement>
@@ -136,8 +135,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   II. 1534–1553</title>
                                                   <idno type="ISBN">978-615-6255-40-2</idno>
@@ -202,45 +201,42 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.8011468</idno><idno
                                                   type="ITIdata">Q469915</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <date when="1538">1538</date>
-                                                  <placeName>Groenendaal at Hoeilaart<idno
-                                                  type="ITIdata">Q470198</idno></placeName>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <date/>
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <date when="1538">1538</date>
+                                        <placeName>Groenendaal at Hoeilaart<idno type="ITIdata"
+                                                  >Q470198</idno></placeName>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Willem Gheershoven<idno type="ITIdata"
                                                   >Q470428</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
-                                                  <date/>
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div style="handwritten" type="letter"
-                                                  xml:id="d.1">
-                                                  <head type="title">Willem Gheershoven to Miklós
-                                                  Oláh (Groenendaal at Hoeilaart, 1538)</head>
-                                                  <floatingText type="regesta">
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div style="handwritten" type="letter" xml:id="d.1">
+                                        <head type="title">Willem Gheershoven to Miklós Oláh
+                                                  (Groenendaal at Hoeilaart, 1538)</head>
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1">1. He is sending back the
                                                   poems Oláh sent him, having greedily copied them
@@ -260,71 +256,71 @@
                                                   did not think it even worse not to send Oláh’s
                                                   poems back to him and respond to him.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb/>
-                                                  <p xml:id="p.1">Reverendo domino Nicolao Olaho
-                                                  etc. patrono suo beneficentissimo Guilelmus
-                                                  canonicus regularis divi Augustini in Viridi Valle
-                                                  salutem plurimam dicit. </p>
-                                                  <p xml:id="p.2">[1.] Reddo iam, Venerande et
-                                                  Illustris Domine, missa mihi abs tua dignatione
-                                                  carmina, quae ut avidus desideraveram, ita laetus
-                                                  suscepi et magna quoque alacritate, nec minori,
-                                                  fateor, <milestone unit="pb"/>animi voluptate
-                                                  descripsi omnia. Habeo itaque Dominationi Tuae
-                                                  gratiam, quam plurimam, pro tam prompta <del
-                                                  corresp="Olahus">ut</del><add corresp="Olahus"
-                                                  type="corr">et</add> amica horum communione simul
-                                                  et pro adiectis <del corresp="Olahus"
-                                                  >amantissi</del><add corresp="Olahus" type="corr"
-                                                  >amantissimis</add> litteris, quae cum singularem
-                                                  et admirandam istam comitatem et humanitatem tuam
-                                                  abunde testentur, unum tamen in eis est, quod male
-                                                  habet animum meum, nempe quod haec, quae describi
-                                                  gratissima benignitate passus es, intra carceris
-                                                  nostri claustra sic recludi iubes, ut aliis amicis
-                                                  non liceat exhibere videnda. Qua de re coram
-                                                  aliquando si dignaberis, agam liberius. Et ego
-                                                  quidem hactenus in te mirari soleo praeter non
-                                                  vulgarem utriusque linguae peritiam, tam
-                                                  praeclaram, tamque variam cum in humanis, tum
-                                                  etiam in sacris litteris eruditionem, quae in
-                                                  aulico et tam nobili viro, ut praeterquam raro
-                                                  inveniuntur, ita summam merentur laudem. Iam vero
-                                                  nihil aeque demiror atque raram et incomparabilem
-                                                  istam animi tui modestiam, qua fieri video, ut
-                                                  adeo gravatim feras legi ab aliis lucubrationes
-                                                  tuas, quibus tamen premendis, quam praeter aequum
-                                                  negotia praetexas et aulam, ipsa tua scripta palam
-                                                  arguunt et multis <del corresp="Olahus"
-                                                  >connincunt</del><add corresp="Olahus" type="corr"
-                                                  >convincunt</add> modis. </p>
-                                                  <p xml:id="p.3">[2.] Quod si mihi ea esset ingenii
-                                                  Latinique sermonis facultas, qua apte possem
-                                                  proferre, quod sentio, profecto non vererer et
-                                                  ipse meam iudicare sententiam et, quid mihi de
-                                                  tuis videatur scriptis, prodere. At iam satius
-                                                  duco prorsus obmutescere, quam minus digne et non
-                                                  satis pro merito de hoc aliquid dicere. Eadem
-                                                  denique imperitia cogor et hanc epistolam
-                                                  praecidere verius, quam finire. Immo (ut verum
-                                                  fatear) ne haec quidem citra pudorem missurus sum,
-                                                  nec unquam ab hoc animo impetrare potuisse, ut
-                                                  Tibi, Viro longe Doctissimo, meas obtruderem
-                                                  ineptias, nisi parum decorum <del corresp="Olahus"
-                                                  >vel</del><add corresp="Olahus" type="corr"
-                                                  >et</add> integrum mihi fore iudicassem tua
-                                                  remittere <del corresp="Olahus">vel</del><add
-                                                  corresp="Olahus" type="corr">et</add> nihil omnino
-                                                  rescribere. Tuae ergo ingenitae humanitatis erit,
-                                                  qualiacumque haec sunt, boni consulere, et me,
-                                                  quantulus sum, intra famulicium tuum adnumerare. </p>
-                                                  <pb/>
-                                                  <p xml:id="p.4">Dominationem Tuam mihi ex animo
-                                                  semper colendam Deus optimus maximus felicem
-                                                  servare dignetur et incolumem. </p>
-                                                  <p xml:id="p.5">1538.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                        </floatingText>
+                                        <pb/>
+                                        <p xml:id="p.1">Reverendo domino Nicolao Olaho etc. patrono
+                                                  suo beneficentissimo Guilelmus canonicus regularis
+                                                  divi Augustini in Viridi Valle salutem plurimam
+                                                  dicit. </p>
+                                        <p xml:id="p.2">[1.] Reddo iam, Venerande et Illustris
+                                                  Domine, missa mihi abs tua dignatione carmina,
+                                                  quae ut avidus desideraveram, ita laetus suscepi
+                                                  et magna quoque alacritate, nec minori, fateor,
+                                                  <milestone unit="pb"/>animi voluptate descripsi
+                                                  omnia. Habeo itaque Dominationi Tuae gratiam, quam
+                                                  plurimam, pro tam prompta <del corresp="Olahus"
+                                                  >ut</del><add corresp="Olahus" type="corr"
+                                                  >et</add> amica horum communione simul et pro
+                                                  adiectis <del corresp="Olahus">amantissi</del><add
+                                                  corresp="Olahus" type="corr">amantissimis</add>
+                                                  litteris, quae cum singularem et admirandam istam
+                                                  comitatem et humanitatem tuam abunde testentur,
+                                                  unum tamen in eis est, quod male habet animum
+                                                  meum, nempe quod haec, quae describi gratissima
+                                                  benignitate passus es, intra carceris nostri
+                                                  claustra sic recludi iubes, ut aliis amicis non
+                                                  liceat exhibere videnda. Qua de re coram aliquando
+                                                  si dignaberis, agam liberius. Et ego quidem
+                                                  hactenus in te mirari soleo praeter non vulgarem
+                                                  utriusque linguae peritiam, tam praeclaram, tamque
+                                                  variam cum in humanis, tum etiam in sacris
+                                                  litteris eruditionem, quae in aulico et tam nobili
+                                                  viro, ut praeterquam raro inveniuntur, ita summam
+                                                  merentur laudem. Iam vero nihil aeque demiror
+                                                  atque raram et incomparabilem istam animi tui
+                                                  modestiam, qua fieri video, ut adeo gravatim feras
+                                                  legi ab aliis lucubrationes tuas, quibus tamen
+                                                  premendis, quam praeter aequum negotia praetexas
+                                                  et aulam, ipsa tua scripta palam arguunt et multis
+                                                  <del corresp="Olahus">connincunt</del><add
+                                                  corresp="Olahus" type="corr">convincunt</add>
+                                                  modis. </p>
+                                        <p xml:id="p.3">[2.] Quod si mihi ea esset ingenii Latinique
+                                                  sermonis facultas, qua apte possem proferre, quod
+                                                  sentio, profecto non vererer et ipse meam iudicare
+                                                  sententiam et, quid mihi de tuis videatur
+                                                  scriptis, prodere. At iam satius duco prorsus
+                                                  obmutescere, quam minus digne et non satis pro
+                                                  merito de hoc aliquid dicere. Eadem denique
+                                                  imperitia cogor et hanc epistolam praecidere
+                                                  verius, quam finire. Immo (ut verum fatear) ne
+                                                  haec quidem citra pudorem missurus sum, nec unquam
+                                                  ab hoc animo impetrare potuisse, ut Tibi, Viro
+                                                  longe Doctissimo, meas obtruderem ineptias, nisi
+                                                  parum decorum <del corresp="Olahus">vel</del><add
+                                                  corresp="Olahus" type="corr">et</add> integrum
+                                                  mihi fore iudicassem tua remittere <del
+                                                  corresp="Olahus">vel</del><add corresp="Olahus"
+                                                  type="corr">et</add> nihil omnino rescribere. Tuae
+                                                  ergo ingenitae humanitatis erit, qualiacumque haec
+                                                  sunt, boni consulere, et me, quantulus sum, intra
+                                                  famulicium tuum adnumerare. </p>
+                                        <pb/>
+                                        <p xml:id="p.4">Dominationem Tuam mihi ex animo semper
+                                                  colendam Deus optimus maximus felicem servare
+                                                  dignetur et incolumem. </p>
+                                        <p xml:id="p.5">1538.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

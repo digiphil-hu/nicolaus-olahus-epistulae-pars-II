@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis De Schrijver<idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,18 +242,18 @@
                     divagatus. Itaque felicibus avibus domum reversus non potui, quin te per
                     litteras adirem atque salutarem, cum aliud non esset, quod peculiarius ad te
                     scribendum occurreret. <hi rend="italic">Monstri anabaptistici</hi><note
-                        type="critic" xml:id="note.1"><hi rend="italic">Monstrum anabaptisticum, rei
-                            Christianae pernicies,</hi> Antuerpiae apud Joan. Grapheum, 1535. De
-                        Schrijver dedicated his book to Oláh, see fol. 1v. See also <hi
-                            rend="smallcap">Pettegree–Walsby</hi> 2011, 597.</note> ad te mitto sex
-                    exemplaria, ut ea impertias, quibus voles. <hi rend="italic">Epithalamion
-                        Virginis Mariae</hi><note type="critic" xml:id="note.2"><hi rend="italic">Ad
-                            optimam heroidem Mariam, Hungariae reginam, sacrorum bucolicorum
-                            aeglogae tres</hi>, Antwerpen, typis Grapheus apud Joannes Steelsius,
-                        1536. See also <hi rend="smallcap">Pettegree–Walsby</hi> 2011, 597.</note>
-                    augustissimae reginae dicatum (cum alia quaedam <milestone unit="pb"/>eius
-                    farinae illi addenda ad liniam reduxero) impressum curabimus, tibique exemplaria
-                    aliquot mittemus. Vale, Maecenas Optime! </p>
+                        xml:id="note.1"><hi rend="italic">Monstrum anabaptisticum, rei Christianae
+                            pernicies,</hi> Antuerpiae apud Joan. Grapheum, 1535. De Schrijver
+                        dedicated his book to Oláh, see fol. 1v. See also <hi rend="smallcap"
+                            >Pettegree–Walsby</hi> 2011, 597.</note> ad te mitto sex exemplaria, ut
+                    ea impertias, quibus voles. <hi rend="italic">Epithalamion Virginis
+                        Mariae</hi><note xml:id="note.2"><hi rend="italic">Ad optimam heroidem
+                            Mariam, Hungariae reginam, sacrorum bucolicorum aeglogae tres</hi>,
+                        Antwerpen, typis Grapheus apud Joannes Steelsius, 1536. See also <hi
+                            rend="smallcap">Pettegree–Walsby</hi> 2011, 597.</note> augustissimae
+                    reginae dicatum (cum alia quaedam <milestone unit="pb"/>eius farinae illi
+                    addenda ad liniam reduxero) impressum curabimus, tibique exemplaria aliquot
+                    mittemus. Vale, Maecenas Optime! </p>
                 <p xml:id="p.3"><placeName>Antverpiae</placeName> postridie Andreae MDXXXV.</p>
             </div>
         </body>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics <idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,41 +235,41 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem.</p>
-                <p xml:id="p.2">[1.] Audio tandem abbatiam divi Gothardi<note type="critic"
-                        xml:id="note.1">Szentgotthárd Abbey was a Cistercian monastery. In the 1550s
-                        Margit Széchy (wife of Niklas von Salm until 1550, then wife of Pyrrhus
-                        Arco) allowed the monastery to be rebuilt into a fortress. In 1556, she
-                        expelled the last abbot from the abbey, see <hi rend="smallcap">Zlinszkyné
-                            Sternegg</hi> 1981, 368 and 379.</note> exituram e manibus prophanorum
-                    mandato regis, cum qua libens Pornonianam meam, si possem, te consulente et
-                    patrocinante commutarem. Habet enim ditionem amplam, uno tractu collectam, caelo
-                    salubrem, tritici ac vini feracem, gratam situ, aspectu pulchram et amoenam usu,
-                    quippe quae mire pro loco et ad utilitatem et ad voluptatem distincta, hic
-                    assurgit collibus, campis illis excurrit, silvisque velut pictura umbris
-                    animata, qua densis et obscuris, qua patulis et raris non indecenter vestitur.
-                    Amne quoque aluitur <placeName>Arabonae</placeName><note type="critic"
-                        xml:id="note.2">Rába or Raab river.</note> celebri quidem, et in hac regione
-                    ceterorum praecipuo, qui cum <del corresp="author">melis frumentariis</del><add
-                        corresp="author" type="corr">melas frumentarias plures habeat, tum</add>
-                    etiam asseritias<note type="critic" xml:id="note.3">Probably from <hi
-                            rend="italic">assericium</hi> meaning ‘boarded’, see <hi rend="smallcap"
-                            >DuCange</hi> 1883.</note> agit, <del corresp="author"
-                        >numeroque</del><add corresp="author" type="corr">numero praeterea</add>
-                    colonorum quadruplo maiore possidetur, quam <placeName>Pornonium</placeName><del
-                        corresp="author">Ad haec</del><add corresp="author" type="corr">et
-                        Norico</add> tutarum <del corresp="author">Noricorum</del><add
-                        corresp="author" type="corr">quam propinquissimo</add><milestone unit="pb"
-                        /><del corresp="editor">propinquissimo</del> quodque hoc tempore in primis
-                    commodis haberi debet, nec Turcis adhuc est in vestigio, nec fovendi praesidii
-                    militaris subiacet necessitati. Proventibus vero his praedita est eo iure, ea
-                    libertate, regum vestrum liberalitate collata pollet, ut aliquot huius temporis
-                    episcopatibus facile praeferri possit, ab illo praesertim homine, cui nondum
-                    episcopatus cura somnos perturbat, quemadmodum mihi, qui ad arbitrium meum
-                    magnopere cupiam senectutem exigere, caveoque sedulo ab excelsis, quibus abrupta
-                    proxima sunt, quique sane nec merita tanta habeam adhuc apud hunc principem, nec
-                    sum ea eruditione ac vita, ut audeam tam sublime culmen affectare, tam
-                    praeclaram functionem ambire, ad quam quidem non de trivio sumpti, aut ei, qui
-                    se suo iudicio<milestone unit="pb"/>confisus, secure apud te ambire possim,
+                <p xml:id="p.2">[1.] Audio tandem abbatiam divi Gothardi<note xml:id="note.1"
+                        >Szentgotthárd Abbey was a Cistercian monastery. In the 1550s Margit Széchy
+                        (wife of Niklas von Salm until 1550, then wife of Pyrrhus Arco) allowed the
+                        monastery to be rebuilt into a fortress. In 1556, she expelled the last
+                        abbot from the abbey, see <hi rend="smallcap">Zlinszkyné Sternegg</hi> 1981,
+                        368 and 379.</note> exituram e manibus prophanorum mandato regis, cum qua
+                    libens Pornonianam meam, si possem, te consulente et patrocinante commutarem.
+                    Habet enim ditionem amplam, uno tractu collectam, caelo salubrem, tritici ac
+                    vini feracem, gratam situ, aspectu pulchram et amoenam usu, quippe quae mire pro
+                    loco et ad utilitatem et ad voluptatem distincta, hic assurgit collibus, campis
+                    illis excurrit, silvisque velut pictura umbris animata, qua densis et obscuris,
+                    qua patulis et raris non indecenter vestitur. Amne quoque aluitur
+                        <placeName>Arabonae</placeName><note xml:id="note.2">Rába or Raab
+                        river.</note> celebri quidem, et in hac regione ceterorum praecipuo, qui cum
+                        <del corresp="author">melis frumentariis</del><add corresp="author"
+                        type="corr">melas frumentarias plures habeat, tum</add> etiam
+                        asseritias<note xml:id="note.3">Probably from <hi rend="italic"
+                            >assericium</hi> meaning ‘boarded’, see <hi rend="smallcap">DuCange</hi>
+                        1883.</note> agit, <del corresp="author">numeroque</del><add
+                        corresp="author" type="corr">numero praeterea</add> colonorum quadruplo
+                    maiore possidetur, quam <placeName>Pornonium</placeName><del corresp="author">Ad
+                        haec</del><add corresp="author" type="corr">et Norico</add> tutarum <del
+                        corresp="author">Noricorum</del><add corresp="author" type="corr">quam
+                        propinquissimo</add><milestone unit="pb"/><del corresp="editor"
+                        >propinquissimo</del> quodque hoc tempore in primis commodis haberi debet,
+                    nec Turcis adhuc est in vestigio, nec fovendi praesidii militaris subiacet
+                    necessitati. Proventibus vero his praedita est eo iure, ea libertate, regum
+                    vestrum liberalitate collata pollet, ut aliquot huius temporis episcopatibus
+                    facile praeferri possit, ab illo praesertim homine, cui nondum episcopatus cura
+                    somnos perturbat, quemadmodum mihi, qui ad arbitrium meum magnopere cupiam
+                    senectutem exigere, caveoque sedulo ab excelsis, quibus abrupta proxima sunt,
+                    quique sane nec merita tanta habeam adhuc apud hunc principem, nec sum ea
+                    eruditione ac vita, ut audeam tam sublime culmen affectare, tam praeclaram
+                    functionem ambire, ad quam quidem non de trivio sumpti, aut ei, qui se suo
+                        iudicio<milestone unit="pb"/>confisus, secure apud te ambire possim,
                     necessitate, quae est frequens in aula, et quae et pater, in cuius sinu filio
                     eiulare et humano more modo ineptire, modo delinquere indulgentius concedi
                     solet, nequit tamen animus moderatur non vereri. Quia id petitionis mihi vitio
@@ -299,29 +297,29 @@
                         corresp="author" type="corr">precor</add>, oroque, mi Praesul, mi Pater,
                     velis operam et intercessionem tuam apud regem intendere <del corresp="author"
                         >per et</del> efficereque, ut inter ceteros
-                        <placeName>Gothardi</placeName><note type="critic" xml:id="note.4"
-                        >Szentgotthárd.</note> petitores, ipse eum ante omnes <del corresp="author"
-                        >alios</del> obtineam. Hoc enim commode me in aula sustentabo, donec ea te
-                    fortuna exseret, quam mihi tanto amore ac studio parturis, paras, polliceris.
-                    Haec te rogabo, nec monebo diligentius, ut me et hoc et aliis cum honoribus
-                    decorare tum beneficiis, quod diligentissime facis, locupletare velis, (id enim
-                    est superfluum et alienum a mea in te dudum constanti deliberatione fundata et
-                    firmata fiducia), quamquidem si hactenus nec petentem, <milestone unit="pb"/>nec
-                    opinantem eo me honorum provexisti et extulisti commodorum, ne nemo sit in hoc
-                    regno, qui amplissima sua studia, favorem, promptissima, et sine exemplo
-                    benevolentiam erga me non prospiciat et admiretur, mique tibi maxime carum,
-                    maximeque esse curae non existimet ac firmissime credat, quid, quaeso, est, quod
-                    a te petere, exspectare apud te, et tecum nudere non confidam? Quae mea quidem
-                    in te fiducia, et tua in me tanta amoris propensitas, tanta animi ac voluntatis
-                    indicatio cum sit, audacter equidem peto iam, non exspecto beneficia, primusque
-                    in meo ambitu <placeName>Gothardus</placeName> erit, quem si mihi esse re et
-                    honestate futurum censes. (Haec enim potest non posse esse et honestus et
-                    utilis, cum <add corresp="author" type="insert"
-                        >apud</add><placeName>Pornonium</placeName> longe
-                        <placeName>Gothardo</placeName> inferiorem non erubescimus, neque esurimus),
-                    etiam atque oro enitere, Praesul, ut <add corresp="author" type="insert">eum
-                        mi</add> vel cum pensione modo moderata, sine quo onere nemini, quod dicunt,
-                    conferetur, <del corresp="author">eam mi</del> cures conferendum. </p>
+                        <placeName>Gothardi</placeName><note xml:id="note.4">Szentgotthárd.</note>
+                    petitores, ipse eum ante omnes <del corresp="author">alios</del> obtineam. Hoc
+                    enim commode me in aula sustentabo, donec ea te fortuna exseret, quam mihi tanto
+                    amore ac studio parturis, paras, polliceris. Haec te rogabo, nec monebo
+                    diligentius, ut me et hoc et aliis cum honoribus decorare tum beneficiis, quod
+                    diligentissime facis, locupletare velis, (id enim est superfluum et alienum a
+                    mea in te dudum constanti deliberatione fundata et firmata fiducia), quamquidem
+                    si hactenus nec petentem, <milestone unit="pb"/>nec opinantem eo me honorum
+                    provexisti et extulisti commodorum, ne nemo sit in hoc regno, qui amplissima sua
+                    studia, favorem, promptissima, et sine exemplo benevolentiam erga me non
+                    prospiciat et admiretur, mique tibi maxime carum, maximeque esse curae non
+                    existimet ac firmissime credat, quid, quaeso, est, quod a te petere, exspectare
+                    apud te, et tecum nudere non confidam? Quae mea quidem in te fiducia, et tua in
+                    me tanta amoris propensitas, tanta animi ac voluntatis indicatio cum sit,
+                    audacter equidem peto iam, non exspecto beneficia, primusque in meo ambitu
+                        <placeName>Gothardus</placeName> erit, quem si mihi esse re et honestate
+                    futurum censes. (Haec enim potest non posse esse et honestus et utilis, cum <add
+                        corresp="author" type="insert">apud</add><placeName>Pornonium</placeName>
+                    longe <placeName>Gothardo</placeName> inferiorem non erubescimus, neque
+                    esurimus), etiam atque oro enitere, Praesul, ut <add corresp="author"
+                        type="insert">eum mi</add> vel cum pensione modo moderata, sine quo onere
+                    nemini, quod dicunt, conferetur, <del corresp="author">eam mi</del> cures
+                    conferendum. </p>
                 <p xml:id="p.4">[3.] <del corresp="author">Cur</del><add corresp="author"
                         type="corr">Quare</add> autem ultra superiores causas adductus sim, ut
                         <placeName>Gothardum</placeName> tanto studio exspectam, tamque etiam
@@ -336,34 +334,33 @@
                     praeter omnem spem consequendi, considerata existimatione et authoritate apud
                     regem familiae, in cuius potestate tanto tempore permansisset. </p>
                 <p xml:id="p.5">Iosephus tantum medicus cognomine <persName>Salády</persName><note
-                        type="critic" xml:id="note.5">József Salády, we do not know him more
-                        closely.</note> magna mi familiaritate copulatus, nuper cum discederem
-                        <placeName>Vienna</placeName>, primus me commonefecit
-                        <placeName>Gothardum</placeName> esse ad conferendum praepositum, summaque
-                    vi ac peramanter incitavit, ut ad eum patenter mentem intendere et voluntatem
-                    arriperem. Plures esse etiam alios dicens esse eam fortunam urgerent. <del
-                        corresp="author">Maturarem</del><add corresp="author" type="corr"
-                        >Maturaret</add> itaque ipse, nec haererem diem. In celeritate rem versari,
-                    si <placeName>Gothardum</placeName> vellem et sperare se meum futurum poti,
-                    utque cuiuspiam alterius, quod se quoque conciliatorem eius obtulisset, cum apud
-                    comites Salmos familiaritate non postrema valeret. Ego veri officium amici magni
-                    duxerim, gratamque etiam popularem opinionem habuerim, diu tamen quod velim
-                    credas, persuadere mihi non potui, quod tam opulentum sacerdotium tam dives et
-                    potens et apud regem gratiosa familia emittere <placeName>Gothardum</placeName>
-                    decrevisset, neglexique id curae hactenus, tamquam et vulgo parum tribuerem et
-                    suasu unius hominis nollerem tantam prius aggredere, quoque consilium et
-                    voluntatem tuam explorassem. Verum postque constat et propalam <add
-                        corresp="author" type="insert">est</add>, quod et comites memorati emissuri
-                    suum <placeName>Gothardum</placeName>, et vox populi putet habere quodpiam
-                    numinis iuxta tritam <del corresp="author">toti mundo</del><add corresp="author"
-                        type="corr">late</add> sententiam, vox populi, vox Dei, <del
-                        corresp="author">pater ipse, ut hoc omen</del><add corresp="author"
-                        type="corr">urgeamus omen, et <gap extent="1" reason="illegible" unit="word"
-                        /> aulico</add>, tuque, quae et formator es et educator fortunae meae,
-                    elabora, quaeso, diligenter, et ex amore solito, ut et populi opinio fidem
-                    obtineat, et ego <placeName>Gothardum</placeName>, quod quidem me et abbatem
-                    domi et aulicum foris facile alet, eroque pro tuo voto cum
-                        <placeName>Gothardo</placeName> non mendicus aulicus. Vale.</p>
+                        xml:id="note.5">József Salády, we do not know him more closely.</note> magna
+                    mi familiaritate copulatus, nuper cum discederem <placeName>Vienna</placeName>,
+                    primus me commonefecit <placeName>Gothardum</placeName> esse ad conferendum
+                    praepositum, summaque vi ac peramanter incitavit, ut ad eum patenter mentem
+                    intendere et voluntatem arriperem. Plures esse etiam alios dicens esse eam
+                    fortunam urgerent. <del corresp="author">Maturarem</del><add corresp="author"
+                        type="corr">Maturaret</add> itaque ipse, nec haererem diem. In celeritate
+                    rem versari, si <placeName>Gothardum</placeName> vellem et sperare se meum
+                    futurum poti, utque cuiuspiam alterius, quod se quoque conciliatorem eius
+                    obtulisset, cum apud comites Salmos familiaritate non postrema valeret. Ego veri
+                    officium amici magni duxerim, gratamque etiam popularem opinionem habuerim, diu
+                    tamen quod velim credas, persuadere mihi non potui, quod tam opulentum
+                    sacerdotium tam dives et potens et apud regem gratiosa familia emittere
+                        <placeName>Gothardum</placeName> decrevisset, neglexique id curae hactenus,
+                    tamquam et vulgo parum tribuerem et suasu unius hominis nollerem tantam prius
+                    aggredere, quoque consilium et voluntatem tuam explorassem. Verum postque
+                    constat et propalam <add corresp="author" type="insert">est</add>, quod et
+                    comites memorati emissuri suum <placeName>Gothardum</placeName>, et vox populi
+                    putet habere quodpiam numinis iuxta tritam <del corresp="author">toti
+                        mundo</del><add corresp="author" type="corr">late</add> sententiam, vox
+                    populi, vox Dei, <del corresp="author">pater ipse, ut hoc omen</del><add
+                        corresp="author" type="corr">urgeamus omen, et <gap extent="1"
+                            reason="illegible" unit="word"/> aulico</add>, tuque, quae et formator
+                    es et educator fortunae meae, elabora, quaeso, diligenter, et ex amore solito,
+                    ut et populi opinio fidem obtineat, et ego <placeName>Gothardum</placeName>,
+                    quod quidem me et abbatem domi et aulicum foris facile alet, eroque pro tuo voto
+                    cum <placeName>Gothardo</placeName> non mendicus aulicus. Vale.</p>
                 <p xml:id="p.6">XXVI. Maii 1552 ex <placeName>Pornoniano</placeName>.</p>
             </div>
         </body>

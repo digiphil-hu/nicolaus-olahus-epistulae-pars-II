@@ -210,12 +210,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Bystrica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -240,29 +238,29 @@
                 <pb/>
                 <p xml:id="p.1">Unnser fraindtlich grues zuvorann, sonnder lieb hernn unnd fraind! </p>
                 <p xml:id="p.2">Demnach wier euch verganngen tagenn auff der <persName>fraw
-                        Dobrawitzkhy</persName><note type="critic" xml:id="note.1">Probably Helena
-                        Kóváry, who was János Dubraviczky’s wife (already a widow this time), see
-                            <hi rend="smallcap">Palásthy</hi> 1891, 274.</note> bitt angelanngdt
-                    irem derselbenn zeit angesetztenn rechtstag zwischenn ier unnd
-                        <persName>Georgenn Schaffer</persName><note type="critic" xml:id="note.2"
-                        >Georg Schaffer or Schäffer was a member of the Banská Bystrica Town Council
-                        from 1527, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 145 and
-                        passim; and <hi rend="smallcap">Kuzma</hi> 2004.</note> etlicher
-                    beweglichenn ursachenn halbenn auff ein zeit zu verlenngern unnd zw erstrekhenn,
-                    darauff unns dann gemelte fraw abermals anngelanngdt unnd zw erkhennen geben,
-                    wie ier gemeltenn rechtstag nit lenger, dann bis auff nechst khunfftigenn
-                        erichtag<note type="critic" xml:id="note.3">11 July.</note> erstrekht unnd
-                    verlenngerdt habt. Diewayll ir aber auß denn ursachenn, wie wier euch zuvor
-                    zugeschribenn, mit denn irenn zw erscheinenn nit muglich lange sehenn, daß sie
-                    iere lewdt, so sie zw sollichem prauchenn mueß, nit ainhambs, sonnder, wie
-                    meniglich wissenndt, auff ro. khu. mt.<note type="critic" xml:id="note.4">I.e.
-                        römische königliche Majestät.</note> ernstlich bevelh in das leger schikhen
-                    muessenn. Ist derhalb auff begern <persName>gemelter frawen</persName> unnser
-                    pit, ir wollet sollichenn rechtstag biß zw dem abzug des khriegsvolkhs
-                    verlenngern unnd erstrekhenn, doch dermassenn versehung thuen, damit solliche
-                    verlenngerung gemelter frawenn nach <persName>Georgen Schaffer</persName> nit zw
-                    nachtayll oder schadenn raichenn maeg, wie ierer zu thun woll werdt wissenn.
-                    Damit waß euch fraindtlich lieb ist. </p>
+                        Dobrawitzkhy</persName><note xml:id="note.1">Probably Helena Kóváry, who was
+                        János Dubraviczky’s wife (already a widow this time), see <hi
+                            rend="smallcap">Palásthy</hi> 1891, 274.</note> bitt angelanngdt irem
+                    derselbenn zeit angesetztenn rechtstag zwischenn ier unnd <persName>Georgenn
+                        Schaffer</persName><note xml:id="note.2">Georg Schaffer or Schäffer was a
+                        member of the Banská Bystrica Town Council from 1527, see <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 145 and passim; and
+                            <hi rend="smallcap">Kuzma</hi> 2004.</note> etlicher beweglichenn
+                    ursachenn halbenn auff ein zeit zu verlenngern unnd zw erstrekhenn, darauff unns
+                    dann gemelte fraw abermals anngelanngdt unnd zw erkhennen geben, wie ier
+                    gemeltenn rechtstag nit lenger, dann bis auff nechst khunfftigenn erichtag<note
+                        xml:id="note.3">11 July.</note> erstrekht unnd verlenngerdt habt. Diewayll
+                    ir aber auß denn ursachenn, wie wier euch zuvor zugeschribenn, mit denn irenn zw
+                    erscheinenn nit muglich lange sehenn, daß sie iere lewdt, so sie zw sollichem
+                    prauchenn mueß, nit ainhambs, sonnder, wie meniglich wissenndt, auff ro. khu.
+                        mt.<note xml:id="note.4">I.e. römische königliche Majestät.</note> ernstlich
+                    bevelh in das leger schikhen muessenn. Ist derhalb auff begern
+                        <persName>gemelter frawen</persName> unnser pit, ir wollet sollichenn
+                    rechtstag biß zw dem abzug des khriegsvolkhs verlenngern unnd erstrekhenn, doch
+                    dermassenn versehung thuen, damit solliche verlenngerung gemelter frawenn nach
+                        <persName>Georgen Schaffer</persName> nit zw nachtayll oder schadenn
+                    raichenn maeg, wie ierer zu thun woll werdt wissenn. Damit waß euch fraindtlich
+                    lieb ist. </p>
                 <p xml:id="p.3">Datum <placeName>Crembnitz</placeName> den VI. Juli anno 42.</p>
                 <p xml:id="p.4">
                     <seg type="signature">
@@ -279,9 +277,9 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.6">Denn ersamen unnd weysenn, n.,<note type="critic" xml:id="note.5"
-                        >I.e. Name.</note> richter unnd ratt der statt Newsoll, unnsern guetten
-                    fraindenn etc.</p>
+                <p xml:id="p.6">Denn ersamen unnd weysenn, n.,<note xml:id="note.5">I.e.
+                        Name.</note> richter unnd ratt der statt Newsoll, unnsern guetten fraindenn
+                    etc.</p>
             </div>
         </body>
     </text>

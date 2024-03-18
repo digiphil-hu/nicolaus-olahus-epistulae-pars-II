@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,56 +241,54 @@
                 <pb/>
                 <p xml:id="p.2">Scripsi superioribus diebus ad te de omnibus rebus, quae hic
                     circumferebantur et litteris tuis, quas ad me <persName>Candiano</persName><note
-                        type="critic" xml:id="note.1">Ambrogio Candiano.</note> dedisti,
-                        respondi.<note type="critic" xml:id="note.2">Probably Ep. 490. and Ep.
+                        xml:id="note.1">Ambrogio Candiano.</note> dedisti, respondi.<note
+                        xml:id="note.2">Probably Ep. 490. and Ep.
                             491.<ref>olahus.tei.15340531_1</ref></note><ref>/o:olahus.tei.15340531_2</ref>
                     Nunc venientibus istuc Maximiliani comitis familiaribus emptum hirifalcos<note
-                        type="critic" xml:id="note.3">The gyrfalcon according to Hoven, i.e. the
-                        largest of the falcon species (falco rusticolus). See <hi rend="smallcap"
-                            >Hoven</hi> 2006, 246.</note> non falcones, officii mei esse censui haec
-                    paucula tibi exarare, quo meam sempiternam erga te observantiam facilius
-                    cognoscere posses. <persName>Augustae</persName><note type="critic"
-                        xml:id="note.4">Isabella of Portugal.</note> abortus<note type="critic"
-                        xml:id="note.5">This son was stillborn. The Empress had seven pregnancies
-                        and suffered two miscarriages.</note> nos omnes sollicitos reddidit. Utinam
-                    caesari in danda filiis opera melior ei fortuna arrideat, sed deos spero
-                    caesari, deo nostro<note type="critic" xml:id="note.6">After this word, a word
-                        missing.</note> fore propitios. <persName>Pontifex</persName><note
-                        type="critic" xml:id="note.7">Pope Clement VII.</note> ex Urbanis litteris
-                    III. Nonarum Sextilis<note type="critic" xml:id="note.8">3 August.</note>
+                        xml:id="note.3">The gyrfalcon according to Hoven, i.e. the largest of the
+                        falcon species (falco rusticolus). See <hi rend="smallcap">Hoven</hi> 2006,
+                        246.</note> non falcones, officii mei esse censui haec paucula tibi exarare,
+                    quo meam sempiternam erga te observantiam facilius cognoscere posses.
+                        <persName>Augustae</persName><note xml:id="note.4">Isabella of
+                        Portugal.</note> abortus<note xml:id="note.5">This son was stillborn. The
+                        Empress had seven pregnancies and suffered two miscarriages.</note> nos
+                    omnes sollicitos reddidit. Utinam caesari in danda filiis opera melior ei
+                    fortuna arrideat, sed deos spero caesari, deo nostro<note xml:id="note.6">After
+                        this word, a word missing.</note> fore propitios.
+                        <persName>Pontifex</persName><note xml:id="note.7">Pope Clement VII.</note>
+                    ex Urbanis litteris III. Nonarum Sextilis<note xml:id="note.8">3 August.</note>
                     disenteria gravissime laborabat, hominem medici in desperatis habebant, quamvis
-                    meliusculus esset factus.<note type="critic" xml:id="note.9">Indeed, he died
-                        soon, on 25 September.</note><persName>Aenobarbus</persName><note
-                        type="critic" xml:id="note.10">Hayreddin Barbarossa Pasha.</note> cum classe
-                    Turcica <placeName>Zaznithum</placeName> versus navigabat oppugnaturus
-                        <placeName>Melitam</placeName><note type="critic" xml:id="note.11"
-                        >Malta.</note> incerto tamen rumore. Ex <persName>Siculis</persName>
-                    litteris nobis nuntiatum est <persName>Gallum</persName><note type="critic"
-                        xml:id="note.12">King Francis I.</note> misisse ad Turcas Rineonem<note
-                        type="critic" xml:id="note.13">Antonio Rincon (†1541) was an envoy of King
-                        Francis I to Szapolyai, later to Sultan Suleiman I and he was sent to
-                        Constantinople between 1530 and 1541 several times, see <hi rend="smallcap"
-                            >Setton</hi> 1984, passim; and <hi rend="smallcap">Kasza</hi> 2015,
-                        91–92 and 156.</note> Hispanum. Item Turcae oratorem redeuntem ex Gallia
-                    naufragium fecisse in sirtibus minoribus captum et postea redemptum ad caesarem
-                    suum profectum. Audivimus <persName>Gritteum</persName><note type="critic"
-                        xml:id="note.14">Lodovico Gritti.</note><placeName>Albam
-                        Graecam</placeName><note type="critic" xml:id="note.15">Belgrade.</note>
-                    pervenisse pro componendis inter <persName>regem</persName><note type="critic"
-                        xml:id="note.16">King Ferdinand I.</note> nostrum et
-                        <persName>Ioannem</persName><note type="critic" xml:id="note.17">King John
+                    meliusculus esset factus.<note xml:id="note.9">Indeed, he died soon, on 25
+                        September.</note><persName>Aenobarbus</persName><note xml:id="note.10"
+                        >Hayreddin Barbarossa Pasha.</note> cum classe Turcica
+                        <placeName>Zaznithum</placeName> versus navigabat oppugnaturus
+                        <placeName>Melitam</placeName><note xml:id="note.11">Malta.</note> incerto
+                    tamen rumore. Ex <persName>Siculis</persName> litteris nobis nuntiatum est
+                        <persName>Gallum</persName><note xml:id="note.12">King Francis I.</note>
+                    misisse ad Turcas Rineonem<note xml:id="note.13">Antonio Rincon (†1541) was an
+                        envoy of King Francis I to Szapolyai, later to Sultan Suleiman I and he was
+                        sent to Constantinople between 1530 and 1541 several times, see <hi
+                            rend="smallcap">Setton</hi> 1984, passim; and <hi rend="smallcap"
+                            >Kasza</hi> 2015, 91–92 and 156.</note> Hispanum. Item Turcae oratorem
+                    redeuntem ex Gallia naufragium fecisse in sirtibus minoribus captum et postea
+                    redemptum ad caesarem suum profectum. Audivimus
+                        <persName>Gritteum</persName><note xml:id="note.14">Lodovico
+                        Gritti.</note><placeName>Albam Graecam</placeName><note xml:id="note.15"
+                        >Belgrade.</note> pervenisse pro componendis inter
+                        <persName>regem</persName><note xml:id="note.16">King Ferdinand I.</note>
+                    nostrum et <persName>Ioannem</persName><note xml:id="note.17">King John
                         I.</note> rebus. Utinam ex sententia nostra, quod reliquum est, succedat.
                     Ego de Anglicis rebus certior fieri cupio. <persName>Rimoldus</persName><note
-                        type="critic" xml:id="note.18">We do not know him more closely.</note>
-                    operam suam tibi praestabit, quo me possis rariora et constantissima docere.
-                    Salutabis meo nomine clarissimam <persName>Virginem Lucretiam</persName>.<note
-                        type="critic" xml:id="note.19">Lucretia Caballis (vom Ross).</note> Valere
-                    cupio Olaum meum et serenissimae dominae, dominae reginae, dominae nostrae
-                    clementissimae pedes deosculor. Vale, Amicorum Optime, et
-                        <persName>Bannisio</persName><note type="critic" xml:id="note.20">Jakob
-                        Radich de Bannisis the Younger.</note> me commenda, cui et in primis tibi
-                    globum meum curae esse cupio. Si <persName>Rotterodamus</persName> noster in
-                    patriam rediit, fac, ex te intelligam. </p>
+                        xml:id="note.18">We do not know him more closely.</note> operam suam tibi
+                    praestabit, quo me possis rariora et constantissima docere. Salutabis meo nomine
+                    clarissimam <persName>Virginem Lucretiam</persName>.<note xml:id="note.19"
+                        >Lucretia Caballis (vom Ross).</note> Valere cupio Olaum meum et
+                    serenissimae dominae, dominae reginae, dominae nostrae clementissimae pedes
+                    deosculor. Vale, Amicorum Optime, et <persName>Bannisio</persName><note
+                        xml:id="note.20">Jakob Radich de Bannisis the Younger.</note> me commenda,
+                    cui et in primis tibi globum meum curae esse cupio. Si
+                        <persName>Rotterodamus</persName> noster in patriam rediit, fac, ex te
+                    intelligam. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> pridie Idus Sextilis 1534.</p>
             </div>
         </body>

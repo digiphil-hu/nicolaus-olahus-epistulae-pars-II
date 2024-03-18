@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -248,9 +246,8 @@
                     interdixisse, ne quid <gap extent="unknown" reason="illegible" unit="word"
                         />ruis<gap extent="unknown" reason="illegible" unit="word"/> amplius <gap
                         extent="1" reason="illegible" unit="word"/> sed tamen ex hordeo coqueret.
-                    Propter quod <persName>Ioannes doctor</persName><note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note> non mediocriter et
-                    turbatus nequaquam <choice>
+                    Propter quod <persName>Ioannes doctor</persName><note xml:id="note.1">We do not
+                        know him more closely.</note> non mediocriter et turbatus nequaquam <choice>
                         <orig><gap extent="unknown" reason="illegible" unit="word"/>ne</orig>
                         <supplied><corr>ordi</corr>ne</supplied>
                     </choice> vitae augeretur postquam liberius coquendi triticeae <gap extent="1"

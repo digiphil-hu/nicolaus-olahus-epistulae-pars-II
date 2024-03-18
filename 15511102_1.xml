@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>[Miklós Oláh]<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,11 +234,11 @@
                     beneficiis maximas eidem habere et referre gratias debet, ego certe unus is sum,
                     qui quam maximas debere me confiteor. Cum enim ultro me subinde aliis atque
                     aliis non solum commodis uberrime locupletat et ornat sacerdotiis,<note
-                        type="critic" xml:id="note.1">On 10 October, 1551, Verancsics received the
-                            <hi rend="italic">officium lectoratus</hi> of Esztergom after already
-                        having been Canon of Eger, thanks to Oláh, see Ep. 745. and Ep. 750., and
-                            <hi rend="smallcap">Ludiková</hi> 2002,
-                            93.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15501023_1</ref>
+                        xml:id="note.1">On 10 October, 1551, Verancsics received the <hi
+                            rend="italic">officium lectoratus</hi> of Esztergom after already having
+                        been Canon of Eger, thanks to Oláh, see Ep. 745. and Ep. 750., and <hi
+                            rend="smallcap">Ludiková</hi> 2002,
+                        93.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15501023_1</ref>
                     sed etiam existimationem meam, a qua iamdudum excideram, reparare ac denuo nomen
                     etiam meum in priorem tum lucem, tum fortunam revocare mirifica pietate et
                     bonitate conatur. Incivilis plane et inhumanus essem, si istam voluntatem et
@@ -271,12 +269,11 @@
                     </choice> Vestram Reverendissimam Dominationem delegi mihi regem, delegi
                     caesarem, eaque sola ambitione utar, ut Vestrae Reverendissimae Dominationi
                     placeam soli, in ea sola conquiescam, et verum patrem atque avunculum meum
-                        <persName>Statilium</persName><note type="critic" xml:id="note.2">János
-                        Statileo.</note> intuear. Illud addo, quod contra Vestram Reverendissimam
-                    Dominationem nulla me unquam efferat, quantumvis altior contigerit fortuna, nec
-                    ab ea removebit aliena largitio, offerens haec eadem de me suis quoque omnibus
-                    in omnes occasiones, et in his, quae Vestra Reverendissima Dominatio voluerit,
-                    ita me Deus adiuvet.</p>
+                        <persName>Statilium</persName><note xml:id="note.2">János Statileo.</note>
+                    intuear. Illud addo, quod contra Vestram Reverendissimam Dominationem nulla me
+                    unquam efferat, quantumvis altior contigerit fortuna, nec ab ea removebit aliena
+                    largitio, offerens haec eadem de me suis quoque omnibus in omnes occasiones, et
+                    in his, quae Vestra Reverendissima Dominatio voluerit, ita me Deus adiuvet.</p>
                 <p xml:id="p.4"><placeName>Viennae</placeName> 2. Novembris 1551.</p>
                 <p xml:id="p.5">Eiusdem Vestrae Illustrissimae et Reverendissimae sincerrima
                     obsequentia</p>

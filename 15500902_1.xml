@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -264,24 +262,23 @@
                 <pb/>
                 <p xml:id="p.1">Antonius Wrancius Nicolao Olaho episcopo Agriensi salutem!</p>
                 <p xml:id="p.2">[1.] Quod iam a duobus ferme mensibus nihil scripserim,<note
-                        type="critic" xml:id="note.1">We know his previous letter of 2 July, 1550,
-                        see Ep. 742.<ref>olahus.tei.15500702_1</ref></note> veniam dabis. Acceptis
-                        <milestone unit="pb"/>enim a <persName>vicario</persName><note type="critic"
+                        xml:id="note.1">We know his previous letter of 2 July, 1550, see Ep.
+                            742.<ref>olahus.tei.15500702_1</ref></note> veniam dabis. Acceptis
+                        <milestone unit="pb"/>enim a <persName>vicario</persName><note
                         xml:id="note.2">We do not know him more closely.</note> tuo litteris, quibus
                     de installatione duntaxat mea et de cura quartarum vinearum molarumque mearum
                     commissa adolescenti meo rescribebat, cui minime volueram, ut inhabili tanto
                     oneri: de spe pecuniae, quam itineri Augustano deputaveram, ne litteram quidem.
                     Sic inita voluntate conferendi me <placeName>Agriam</placeName><note
-                        type="critic" xml:id="note.3">Verancsics received the canonry of Eger in
-                        1550.</note> profectus sum, ut par erat, ad
-                        <persName>Nadasdinum</persName><note type="critic" xml:id="note.4">Tamás
-                        Nádasdy.</note> consilii gratia. Qui dum eundum esse consulit iubetque
-                    opperiri saginam equorum meorum, qui ad id tempus in pratis apud eum fuerant,
-                    detinuit me <del corresp="author">ad</del> sextilem totum, pancratice tractando
-                    in Sarvarinis hortis.<note type="critic" xml:id="note.5">Tamás Nádasdy’s castle
-                        was located in Sárvár.</note> Redeunti inde febris tertiana occurrit in
-                    itinere meque <placeName>Viennam</placeName> usque deduxit, ubi datis curationi
-                    XXII diebus restitutus sum pristinae valetudini. Nunc iam hoc triduo
+                        xml:id="note.3">Verancsics received the canonry of Eger in 1550.</note>
+                    profectus sum, ut par erat, ad <persName>Nadasdinum</persName><note
+                        xml:id="note.4">Tamás Nádasdy.</note> consilii gratia. Qui dum eundum esse
+                    consulit iubetque opperiri saginam equorum meorum, qui ad id tempus in pratis
+                    apud eum fuerant, detinuit me <del corresp="author">ad</del> sextilem totum,
+                    pancratice tractando in Sarvarinis hortis.<note xml:id="note.5">Tamás Nádasdy’s
+                        castle was located in Sárvár.</note> Redeunti inde febris tertiana occurrit
+                    in itinere meque <placeName>Viennam</placeName> usque deduxit, ubi datis
+                    curationi XXII diebus restitutus sum pristinae valetudini. Nunc iam hoc triduo
                         <placeName>Agriam</placeName> cogito, ut ipsemet prospiciam rebus meis.</p>
                 <p xml:id="p.3">[2.] Nec est, ut <milestone unit="pb"/>ingenue dicam, quod de amico
                     querar. Quis enim adeo vel pius vel sanctus est, qui pecunia his temporibus
@@ -316,54 +313,52 @@
                     </choice> eruperat. Mature tamen occursum est, iamque, ut accepi,
                     consurrexit.</p>
                 <p xml:id="p.4">[3.] De rebus novis referam audita. In Transsylvania dicunt
-                        <persName>Heremitam</persName><note type="critic" xml:id="note.6">George
-                        Martinuzzi. He was a Pauline monk from the 1510s, see <hi rend="smallcap"
-                            >Oborni</hi> 2017, 40.</note> et <persName>Petrovium</persName><note
-                        type="critic" xml:id="note.7">Péter Petrovics or Petar Petrović (ca.
-                        1486–1557) was <hi rend="italic">ispán</hi> of Temes county from 1534,
-                        Commander of Timișoara, and loyal to King John I. He supported the
-                        Reformation in the Kingdom of Hungary. See <hi rend="smallcap">Varga</hi>
-                        2020a; and <hi rend="smallcap">Varga</hi> 2020b. According to the last will
-                        of King John I, Martinuzzi and Petrovics were the guardians of the future
-                        King John Sigismund, see <hi rend="smallcap">Oborni</hi> 2017,
-                        68.</note><milestone unit="pb"/> mutuo incensis animis in castra cum
-                    expeditis copiis descendisse. Huic favere Turcas et Valacchos ambos iussu
-                        <persName>Solymani</persName>; illi adhaerere Transsylvanos, Intratibiscanam
-                    nobilitatem, et quotidie <placeName>Varadini</placeName> ac
-                        <placeName>Debrecenii</placeName> delectus fieri. Proximo conventu missi
-                    erant ex Turcia in alterutrum ciausi, eoque controversiarum ventum est, ut
-                        <persName>Heremitanus</persName><note type="critic" xml:id="note.8">Georg
-                        Martinuzzi.</note> palam declamitarit <persName>Petrovianum</persName>
-                    mentitum esse ciausum, nihilque de eius legatione vel caesari vel passis
-                    constare. Hic contra verum se et caesarianum esse ciausum affirmare, nihil
-                    praeterea iactare in adversarium iniuriarum, et subinde dicere, caesarianum sese
-                    esse nuntium, a quocumque ille venisset nihil sibi curae esse, et
-                        <persName>Solymanum</persName> ita esse potentem, ita regnorum abundantem,
-                    ut uno duntaxat nuntio non uteretur, multos quotidie ad diversas gentes
-                    obligare. Sic mihi visi sunt illi duo Parides Transsylvaniae <milestone
-                        unit="pb"/><persName>Amphytrionem</persName><note type="critic"
-                        xml:id="note.9">The protagonist in <hi rend="italic">Amphytrion</hi> by
-                        Plautus.</note> Plautinum egisse de mentito <persName>Sosia</persName>.<note
-                        type="critic" xml:id="note.10">The cunning and lying slave in <hi
-                            rend="italic">Amphytrion</hi>.</note> Sed o nostrorum caecitatem et
-                    stupiditatem plus quam bubalinam, ne de avaritia quorundam gravius commemorem,
-                    qui patriae libertatem parvo aeri subdiderint, seque <quote xml:id="quote.1">in
-                        bubalorum morem anulo naribus indito</quote><note type="quote"
-                        xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi> 1079. II,I,19.
-                        Naribus trahere. “Metaphora mutuo sumpta a bubalis animantibus, qui anulo in
-                        summam narem inserto circumducuntur, non aliter quam equi freno.”</note> huc
-                    illuc rapi patiuntur. De Transsylvanis miseris loquor, qui et vident et palpant
-                    pestes suas, et scientes, quod his evertentur, ferunt eas, nec volunt rebus suis
+                        <persName>Heremitam</persName><note xml:id="note.6">George Martinuzzi. He
+                        was a Pauline monk from the 1510s, see <hi rend="smallcap">Oborni</hi> 2017,
+                        40.</note> et <persName>Petrovium</persName><note xml:id="note.7">Péter
+                        Petrovics or Petar Petrović (ca. 1486–1557) was <hi rend="italic">ispán</hi>
+                        of Temes county from 1534, Commander of Timișoara, and loyal to King John I.
+                        He supported the Reformation in the Kingdom of Hungary. See <hi
+                            rend="smallcap">Varga</hi> 2020a; and <hi rend="smallcap">Varga</hi>
+                        2020b. According to the last will of King John I, Martinuzzi and Petrovics
+                        were the guardians of the future King John Sigismund, see <hi
+                            rend="smallcap">Oborni</hi> 2017, 68.</note><milestone unit="pb"/> mutuo
+                    incensis animis in castra cum expeditis copiis descendisse. Huic favere Turcas
+                    et Valacchos ambos iussu <persName>Solymani</persName>; illi adhaerere
+                    Transsylvanos, Intratibiscanam nobilitatem, et quotidie
+                        <placeName>Varadini</placeName> ac <placeName>Debrecenii</placeName>
+                    delectus fieri. Proximo conventu missi erant ex Turcia in alterutrum ciausi,
+                    eoque controversiarum ventum est, ut <persName>Heremitanus</persName><note
+                        xml:id="note.8">Georg Martinuzzi.</note> palam declamitarit
+                        <persName>Petrovianum</persName> mentitum esse ciausum, nihilque de eius
+                    legatione vel caesari vel passis constare. Hic contra verum se et caesarianum
+                    esse ciausum affirmare, nihil praeterea iactare in adversarium iniuriarum, et
+                    subinde dicere, caesarianum sese esse nuntium, a quocumque ille venisset nihil
+                    sibi curae esse, et <persName>Solymanum</persName> ita esse potentem, ita
+                    regnorum abundantem, ut uno duntaxat nuntio non uteretur, multos quotidie ad
+                    diversas gentes obligare. Sic mihi visi sunt illi duo Parides Transsylvaniae
+                        <milestone unit="pb"/><persName>Amphytrionem</persName><note xml:id="note.9"
+                        >The protagonist in <hi rend="italic">Amphytrion</hi> by Plautus.</note>
+                    Plautinum egisse de mentito <persName>Sosia</persName>.<note xml:id="note.10"
+                        >The cunning and lying slave in <hi rend="italic">Amphytrion</hi>.</note>
+                    Sed o nostrorum caecitatem et stupiditatem plus quam bubalinam, ne de avaritia
+                    quorundam gravius commemorem, qui patriae libertatem parvo aeri subdiderint,
+                    seque <quote xml:id="quote.1">in bubalorum morem anulo naribus
+                        indito</quote><note type="quote" xml:id="note.quote.1">Cf. Erasm. <hi
+                            rend="italic">Adag.</hi> 1079. II,I,19. Naribus trahere. “Metaphora
+                        mutuo sumpta a bubalis animantibus, qui anulo in summam narem inserto
+                        circumducuntur, non aliter quam equi freno.”</note> huc illuc rapi
+                    patiuntur. De Transsylvanis miseris loquor, qui et vident et palpant pestes
+                    suas, et scientes, quod his evertentur, ferunt eas, nec volunt rebus suis
                     consulere, recentibusque et domesticis uti exemplis, quorum referam unum. </p>
-                <p xml:id="p.5">[4.] Proximis annis <persName>Mailadus</persName><note type="critic"
+                <p xml:id="p.5">[4.] Proximis annis <persName>Mailadus</persName><note
                         xml:id="note.11">István Majláth.</note> noster, homo et vita et libertate
                     non indignus, hoc prope modo contendebat cum <persName>Balthasare
-                        Bornemisza</persName><note type="critic" xml:id="note.12">Boldizsár
-                        Bornemissza of Ártánháza († ca.1549) had possessions in Szilágy county, see
-                            <hi rend="smallcap">Petri</hi> 1903, 197–200.</note> in eadem
-                    Transsylvania. Sed ille dudum iam in lucem et optimatum ordinem relatus virtute
-                    duce, hic <persName>Ioannis</persName><note type="critic" xml:id="note.13">King
-                        John I.</note><choice>
+                        Bornemisza</persName><note xml:id="note.12">Boldizsár Bornemissza of
+                        Ártánháza († ca.1549) had possessions in Szilágy county, see <hi
+                            rend="smallcap">Petri</hi> 1903, 197–200.</note> in eadem Transsylvania.
+                    Sed ille dudum iam in lucem et optimatum ordinem relatus virtute duce, hic
+                        <persName>Ioannis</persName><note xml:id="note.13">King John I.</note><choice>
                         <orig>regni</orig>
                         <supplied>regis</supplied>
                     </choice> licentia rapinisque paulo supra gregarium militem potitus nominibus,
@@ -373,80 +368,78 @@
                     Transsylvaniam cum imperio sub capitanei titulo, mox ambo eo animos ambitionis
                     erexerunt, ut alter principatum provinciae usurpare, alter voivodatum appetere
                     non dubitarit. Verum <persName>Mailadus</persName> exemplo divi
-                        <persName>Iulii</persName>,<note type="critic" xml:id="note.14">Julius
-                        Caesar.</note> qui legiones dimittere aemulorum coniuratione non audebat,
-                    iustiore causa monebatur. Aut enim sic superanda erat vetus
-                        <persName>Heremitae</persName> hostilitas, provinciaque regi Christiano
-                    conservanda, aut evitanda indignitas, ne homini obscuro et omni pietate atque
-                    humanitate carenti casu concedere cogeretur, cum iam et rerum omnium a
-                        <persName>Ioannis</persName> morte potiri anhelabat.
+                        <persName>Iulii</persName>,<note xml:id="note.14">Julius Caesar.</note> qui
+                    legiones dimittere aemulorum coniuratione non audebat, iustiore causa monebatur.
+                    Aut enim sic superanda erat vetus <persName>Heremitae</persName> hostilitas,
+                    provinciaque regi Christiano conservanda, aut evitanda indignitas, ne homini
+                    obscuro et omni pietate atque humanitate carenti casu concedere cogeretur, cum
+                    iam et rerum omnium a <persName>Ioannis</persName> morte potiri anhelabat.
                         <persName>Balthasar</persName> sub ministri imagine et in temporaria
                     praefectura constitutus, rapta occasione ex periculo
-                        <placeName>Budae</placeName>,<note type="critic" xml:id="note.15">Buda fell
-                        in 1541. The castle was besieged and the Turks eventually occupied it by a
-                        trick. See Verancsics’ account on the fall of Buda, <hi rend="smallcap"
-                            >Kasza</hi> 2021, 353–355.</note> quae obsidione <del corresp="author"
-                        >partim</del><add corresp="author" type="corr">primum</add> Germanica,<note
-                        type="critic" xml:id="note.16">The Commander-in-chief of the imperial army
-                        was Wilhelm von Roggendorf.</note> deinde perfìdia Turcica excepta erat,
-                    speravit etiam sese posse esse aliquid. Sic inito spiritu perpetuum vaivodatum
-                        <milestone unit="pb"/>consequendi intendit omnes vires, ut clandestinis
-                    praxibus tum fortunam, tum auspicia <persName>Heremitae</persName> in
-                    Transsylvania occuparet. Tanta rei moles neutri sine Turcae patrocinio poterat
-                    succedere. Ad utrumque itaque a passis caesaris nomine missi sunt ciausi
-                    utriusque voluntati graphice accomodati, actaque per Transsylvanos vel me
-                    praesente hic illic crebra comitia, mutuoque inter sese adversantia, distracta
-                    in diversum nobilitas, populique, quocumque contendentibus libebat, in
-                    effascinatorum modum circumducti. Quid demum actum! Delusus est
-                        <persName>Bornemisza</persName> calliditate <persName>Heremitae</persName>,
-                    et a spe voivodatus pecunia abductus. <persName>Mailadus</persName> Turcae et
-                    Moldavi perfìdia in captivitatem tractus. Sed an eadem tragoedia nunc quoque
-                    agatur, quae tunc, vides. Utinam non eandem finem sortiatur! </p>
+                        <placeName>Budae</placeName>,<note xml:id="note.15">Buda fell in 1541. The
+                        castle was besieged and the Turks eventually occupied it by a trick. See
+                        Verancsics’ account on the fall of Buda, <hi rend="smallcap">Kasza</hi>
+                        2021, 353–355.</note> quae obsidione <del corresp="author">partim</del><add
+                        corresp="author" type="corr">primum</add> Germanica,<note xml:id="note.16"
+                        >The Commander-in-chief of the imperial army was Wilhelm von
+                        Roggendorf.</note> deinde perfìdia Turcica excepta erat, speravit etiam sese
+                    posse esse aliquid. Sic inito spiritu perpetuum vaivodatum <milestone unit="pb"
+                    />consequendi intendit omnes vires, ut clandestinis praxibus tum fortunam, tum
+                    auspicia <persName>Heremitae</persName> in Transsylvania occuparet. Tanta rei
+                    moles neutri sine Turcae patrocinio poterat succedere. Ad utrumque itaque a
+                    passis caesaris nomine missi sunt ciausi utriusque voluntati graphice
+                    accomodati, actaque per Transsylvanos vel me praesente hic illic crebra comitia,
+                    mutuoque inter sese adversantia, distracta in diversum nobilitas, populique,
+                    quocumque contendentibus libebat, in effascinatorum modum circumducti. Quid
+                    demum actum! Delusus est <persName>Bornemisza</persName> calliditate
+                        <persName>Heremitae</persName>, et a spe voivodatus pecunia abductus.
+                        <persName>Mailadus</persName> Turcae et Moldavi perfìdia in captivitatem
+                    tractus. Sed an eadem tragoedia nunc quoque agatur, quae tunc, vides. Utinam non
+                    eandem finem sortiatur! </p>
                 <p xml:id="p.6">[5.] De vicinis nostris aliae sunt rationes. Mire ludunt in
-                        <placeName>Zolnoccho</placeName><note type="critic" xml:id="note.17"
-                        >Szolnok. Before the siege of 1552, there was only a plank castle here,
-                        which was fortified during 1550–1551, see <hi rend="smallcap">M.
-                            Román–Pókász</hi> 2010, 70–72; <hi rend="smallcap">Kertész–Korpás</hi>
-                        2013.</note> erigendo. Modo <milestone unit="pb"/>intendunt sui metum, modo
-                    remittunt. Nec aliud puto, faciunt, quam ut nos distineant ab his providendis,
-                    quibus eis et resistere et officere possemus. Atsi cui compertum est, quantum
-                    eis credi debeat, ego ne minimum quidem dicerem, etenim nec suam Turcae fìdem
-                    habent, nec alienae quicquam tribuunt, et qui se ab eis amicitia, foederibus
-                    atque pecunia tutos fore existimant, <quote xml:id="quote.2">oleum et operam
-                        perdunt.</quote><note type="quote" xml:id="note.quote.2">Proverb. meaning
-                        ‘to lose both time and trouble’, and Plaut. <hi rend="italic">Poen.</hi>
-                        332.</note> Ingratum est, parum est, vile est, et contemnitur, quicquid
-                    porrexeris, nisi et rapinas et captivitates in tuo fieri patieris. Amicitiam si
-                    secum colis, timeri se certo, non amari ait, et sic fallere foederatum, ne fidei
-                    quidem iacturam se facere arbitratur. Verbosius de his ad te quam fortasse
-                    decuisset. Nequeo tamen non dilatari quasi dolore incensus, cum in pericula
-                    Transsylvaniae incido. Igitur te magnopere peto, ut ignoscas mihi, tibique
-                        <milestone unit="pb"/>ac similibus tui de his scribendum esse censeas, non
-                    eis, qui ad nulla mortalium commoda nati sunt, nec publicorum cura tanguntur. </p>
-                <p xml:id="p.7">[6.] De domo tua,<note type="critic" xml:id="note.18">Oláh bought
-                        the Vienna palace of Pál Várday, the former Archbishop of Esztergom, see Ep.
+                        <placeName>Zolnoccho</placeName><note xml:id="note.17">Szolnok. Before the
+                        siege of 1552, there was only a plank castle here, which was fortified
+                        during 1550–1551, see <hi rend="smallcap">M. Román–Pókász</hi> 2010, 70–72;
+                            <hi rend="smallcap">Kertész–Korpás</hi> 2013.</note> erigendo. Modo
+                        <milestone unit="pb"/>intendunt sui metum, modo remittunt. Nec aliud puto,
+                    faciunt, quam ut nos distineant ab his providendis, quibus eis et resistere et
+                    officere possemus. Atsi cui compertum est, quantum eis credi debeat, ego ne
+                    minimum quidem dicerem, etenim nec suam Turcae fìdem habent, nec alienae
+                    quicquam tribuunt, et qui se ab eis amicitia, foederibus atque pecunia tutos
+                    fore existimant, <quote xml:id="quote.2">oleum et operam perdunt.</quote><note
+                        type="quote" xml:id="note.quote.2">Proverb. meaning ‘to lose both time and
+                        trouble’, and Plaut. <hi rend="italic">Poen.</hi> 332.</note> Ingratum est,
+                    parum est, vile est, et contemnitur, quicquid porrexeris, nisi et rapinas et
+                    captivitates in tuo fieri patieris. Amicitiam si secum colis, timeri se certo,
+                    non amari ait, et sic fallere foederatum, ne fidei quidem iacturam se facere
+                    arbitratur. Verbosius de his ad te quam fortasse decuisset. Nequeo tamen non
+                    dilatari quasi dolore incensus, cum in pericula Transsylvaniae incido. Igitur te
+                    magnopere peto, ut ignoscas mihi, tibique <milestone unit="pb"/>ac similibus tui
+                    de his scribendum esse censeas, non eis, qui ad nulla mortalium commoda nati
+                    sunt, nec publicorum cura tanguntur. </p>
+                <p xml:id="p.7">[6.] De domo tua,<note xml:id="note.18">Oláh bought the Vienna
+                        palace of Pál Várday, the former Archbishop of Esztergom, see Ep.
                             736.<ref>olahus.tei.15500323_1</ref></note> quo in statu sint nova eius
                     aedificia, apparatus, cultus, pictura, ornamenta, quoniam adhuc ipse lectum
                     urgeo, scribere nihil possum, ut quae non viderim. Hortatus tamen sum
-                        <persName>Georgium Bonam</persName><note type="critic" xml:id="note.19"
-                        >Georg Bona was Oláh’s brother-in-law.</note> et
-                        <persName>Oppolitanum</persName><note type="critic" xml:id="note.20">Johann
-                        Serifaber of Opole (1530–ca.1553) published a collection of encomions
-                        dedicated to King Ferdinand I in 1550, in which he celebrated the elite of
-                        the Hungarian nobility and prelates, including Oláh, Tamás Nádasdy, and
-                        Ferenc Révay, see <hi rend="smallcap">Kiss</hi> 2018, 209, and 211; and <hi
-                            rend="smallcap">Truhlář</hi>–<hi rend="smallcap">Martínek</hi> 1982,
-                        47–50.</note> tuos, ut eo fungantur officio, quo pro ceteris omnibus tibi
-                    hoc tempore maxime gratificari possunt, quod aliud hinc nihil nunc magis scire
-                    desideras. Non praeteribo etiam de petitione sacerdotii Strigoniensis. Te etiam
-                    atque etiam rogo, mi Praesul, ne velis gravate id a me <del corresp="author"
-                        >accipere</del>, nescio, insatiabilitatisne, an ambitionis, an quiddam
-                    tertium dicam, accipere, quoniam certe et parvo potui semper esse <milestone
-                        unit="pb"/>contentus, et praesens fortuna mea finem iam fecit meis
-                    cupiditatibus. Tantum autem abest, ut illud tertium in me suspectum esse possit,
-                    ut monarchatu etiam quopiam maximo divelli abs te nunquam velim, immo insuper
-                    ita tibi inhaerere atque inniti perpetuo decrevi, ut me habeas semper pedisequum
-                    obsequentissimum. Quicquid autem visus sum ambisse
+                        <persName>Georgium Bonam</persName><note xml:id="note.19">Georg Bona was
+                        Oláh’s brother-in-law.</note> et <persName>Oppolitanum</persName><note
+                        xml:id="note.20">Johann Serifaber of Opole (1530–ca.1553) published a
+                        collection of encomions dedicated to King Ferdinand I in 1550, in which he
+                        celebrated the elite of the Hungarian nobility and prelates, including Oláh,
+                        Tamás Nádasdy, and Ferenc Révay, see <hi rend="smallcap">Kiss</hi> 2018,
+                        209, and 211; and <hi rend="smallcap">Truhlář</hi>–<hi rend="smallcap"
+                            >Martínek</hi> 1982, 47–50.</note> tuos, ut eo fungantur officio, quo
+                    pro ceteris omnibus tibi hoc tempore maxime gratificari possunt, quod aliud hinc
+                    nihil nunc magis scire desideras. Non praeteribo etiam de petitione sacerdotii
+                    Strigoniensis. Te etiam atque etiam rogo, mi Praesul, ne velis gravate id a me
+                        <del corresp="author">accipere</del>, nescio, insatiabilitatisne, an
+                    ambitionis, an quiddam tertium dicam, accipere, quoniam certe et parvo potui
+                    semper esse <milestone unit="pb"/>contentus, et praesens fortuna mea finem iam
+                    fecit meis cupiditatibus. Tantum autem abest, ut illud tertium in me suspectum
+                    esse possit, ut monarchatu etiam quopiam maximo divelli abs te nunquam velim,
+                    immo insuper ita tibi inhaerere atque inniti perpetuo decrevi, ut me habeas
+                    semper pedisequum obsequentissimum. Quicquid autem visus sum ambisse
                         <placeName>Strigonii</placeName>, alliciebar propinqui commodi facultate,
                     quo tibi expeditius inservire potuissem, nec emisissem alioqui e manu Agriensem
                     meam fortunam primigeniam, eoque etiam haberem carissimam, donantis persona

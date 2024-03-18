@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,24 +239,23 @@
                 <pb/>
                 <p xml:id="p.1">Camillus Gilinus <add corresp="Olahus" type="insert">secretarius
                         Francisci Sforciae ducis Mediolani</add> Nicolao Olao salutem. </p>
-                <p xml:id="p.2">[1.] Rediit <persName>Candianus</persName><note type="critic"
-                        xml:id="note.1">Ambrogio Candiano.</note> noster a
-                        <persName>regina</persName> et vobis omnibus adeo bene habitus, ut non solum
-                    amicorum, sed uxoris et patriae penitus sit oblitus. Hunc enim adeo prolixe
-                    accepistis, tanta humanitate hominem regina comprehendit, ut praeter istius
-                    animi magnitudinem, munificentiam et singularem prudentiam, quae in aliis
-                    principibus nostrae aetatis maxime desiderantur, nihil aliud loquatur. Quo fiet,
-                    ut nullo negotio ad nos posse redire putem, uxore tamen non reluctante, cui
-                    valde emancipatum esse intelligo. <persName>Dux</persName><note type="critic"
-                        xml:id="note.2">Francesco II Sforza.</note> et hortabitur ambos et coget, si
-                    licebit, ne reginae voluntati adversentur, quam pro numine suspicit et
-                    veneratur. Laetor hunc in reginae curatione comitem fortunam habuisse, faxint
-                    di, ut melior et valentior indies evadat, hoc mihi praesertim nihil gratius
-                    atque iucundius esse poterit. </p>
+                <p xml:id="p.2">[1.] Rediit <persName>Candianus</persName><note xml:id="note.1"
+                        >Ambrogio Candiano.</note> noster a <persName>regina</persName> et vobis
+                    omnibus adeo bene habitus, ut non solum amicorum, sed uxoris et patriae penitus
+                    sit oblitus. Hunc enim adeo prolixe accepistis, tanta humanitate hominem regina
+                    comprehendit, ut praeter istius animi magnitudinem, munificentiam et singularem
+                    prudentiam, quae in aliis principibus nostrae aetatis maxime desiderantur, nihil
+                    aliud loquatur. Quo fiet, ut nullo negotio ad nos posse redire putem, uxore
+                    tamen non reluctante, cui valde emancipatum esse intelligo.
+                        <persName>Dux</persName><note xml:id="note.2">Francesco II Sforza.</note> et
+                    hortabitur ambos et coget, si licebit, ne reginae voluntati adversentur, quam
+                    pro numine suspicit et veneratur. Laetor hunc in reginae curatione comitem
+                    fortunam habuisse, faxint di, ut melior et valentior indies evadat, hoc mihi
+                    praesertim nihil gratius atque iucundius esse poterit. </p>
                 <p xml:id="p.3">[2.] Reculas meas tibi cordi esse audio. Globus quamprimum absolutus
-                    erit, fac, <persName>Iacobo Fagnano</persName><note type="critic"
-                        xml:id="note.3">Giacomo Fagnano was a merchant from Milan, we only know him
-                        from this correspondence.</note> negotiatori Mediolanensi
+                    erit, fac, <persName>Iacobo Fagnano</persName><note xml:id="note.3">Giacomo
+                        Fagnano was a merchant from Milan, we only know him from this
+                        correspondence.</note> negotiatori Mediolanensi
                         <placeName>Antverpiam</placeName> deferatur, is
                         <persName>Candiano</persName> pollicitus est,se curaturum, ut ad me
                     incolumis perveniat. </p>
@@ -268,27 +265,25 @@
                     in futurum obsequentiores erunt, bene illis erit, sin aliter, Deo nostro
                     Hispaniensi nec consilium, nec <quote xml:id="quote.1">belli nervus</quote><note
                         type="quote" xml:id="note.quote.1">Cic. <hi rend="italic">Philipp</hi>.
-                        V,I,5.</note><note type="critic" xml:id="note.4">I.e. ‘money’.</note>
-                    deerit. <persName>Pontifex</persName> adhuc in lecto cubat ex podagra et
-                    stomacho laborans. Turca, ut <choice>
+                        V,I,5.</note><note xml:id="note.4">I.e. ‘money’.</note> deerit.
+                        <persName>Pontifex</persName> adhuc in lecto cubat ex podagra et stomacho
+                    laborans. Turca, ut <choice>
                         <orig>Imbramo basso</orig>
                         <supplied><persName>Imbramo bassa</persName></supplied>
-                    </choice><note type="critic" xml:id="note.5">Ibrahim Pargalı Pasha.</note>
-                    suppetias ferat, <placeName>Constantinopoli</placeName> castra movit tertio
-                    Iduum Iunii cum quadraginta millibus equitum et legionibus duabus. Duriores
-                    quippe apud Dalmatas rumores de eo pervenerant, scilicet Imbraimum a
-                        <persName>rege</persName> Persarum cum maiori parte copiarum esse
-                    profligatum et exercitus reliquias in quibusdam montium angustiis redactas. Haec
-                    si vera sunt, Hungariae ad vestram ditionem brevi adiungentur, reliqua ex
-                    insertis litterarum exemplis accipies. </p>
+                    </choice><note xml:id="note.5">Ibrahim Pargalı Pasha.</note> suppetias ferat,
+                        <placeName>Constantinopoli</placeName> castra movit tertio Iduum Iunii cum
+                    quadraginta millibus equitum et legionibus duabus. Duriores quippe apud Dalmatas
+                    rumores de eo pervenerant, scilicet Imbraimum a <persName>rege</persName>
+                    Persarum cum maiori parte copiarum esse profligatum et exercitus reliquias in
+                    quibusdam montium angustiis redactas. Haec si vera sunt, Hungariae ad vestram
+                    ditionem brevi adiungentur, reliqua ex insertis litterarum exemplis accipies. </p>
                 <p xml:id="p.5">Serenissimae dominae reginae, dominae nostrae clementissimae, ut
                     debemus, omnia bona optamus, cuius salus et mihi et bonis omnibus non minus cara
                     est, quam ipsius ducis vita. Dominae <persName>Lucretiae Virgini</persName><note
-                        type="critic" xml:id="note.6">Lucretia Caballis (vom Ross).</note>
-                    electissimae meis verbis plurimam salutem dices, item amicis omnibus. Principes
-                    mei recte valent et animi causa rusticantur, <milestone unit="pb"/>cum ad regem
-                    proficiscar, te statim admonebo. Interim cura, ut valeas et me, ut facis, mutuo
-                    ama. </p>
+                        xml:id="note.6">Lucretia Caballis (vom Ross).</note> electissimae meis
+                    verbis plurimam salutem dices, item amicis omnibus. Principes mei recte valent
+                    et animi causa rusticantur, <milestone unit="pb"/>cum ad regem proficiscar, te
+                    statim admonebo. Interim cura, ut valeas et me, ut facis, mutuo ama. </p>
                 <p xml:id="p.6"><placeName>Mediolani</placeName> pridie Kalendarum Sextilis
                     1534.</p>
             </div>

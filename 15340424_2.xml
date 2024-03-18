@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,8 +243,8 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad archiepiscopum Lundensem oratorem caesaris. </p>
                 <p xml:id="p.2">[1.] Si tardius rescripseram, quam res postulabat, id ei rei tribue,
-                    quod postremis tuis litteris<note type="critic" xml:id="note.1">We do not know
-                        this letter.</note> scripseras te hora datarum litterarum ad duces Bavariae
+                    quod postremis tuis litteris<note xml:id="note.1">We do not know this
+                        letter.</note> scripseras te hora datarum litterarum ad duces Bavariae
                         <milestone unit="pb"/>profecturum. Nescivi igitur, quo meas litteras
                     dirigerem, has quoque fere in dubium emisi. Oratores, qui
                         <persName>caesaris</persName> nomine <placeName>Hamburgum</placeName>
@@ -256,20 +254,20 @@
                     hinc solet certior fieri. In tuo negotio (quod cum summo animi dolore in reditu
                     oratorum audivi et nunc quoque non sine maestitia scribere possum) nihil agi
                     potuit. Nam quemadmodum decretum erat, <persName>Dani oratores</persName><note
-                        type="critic" xml:id="note.2">See Ep. 449. Cap. 2.: George of Austria as
-                        Bishop of Brixen, Maximiliaan van Zevenbergen, and Erhard
+                        xml:id="note.2">See Ep. 449. Cap. 2.: George of Austria as Bishop of Brixen,
+                        Maximiliaan van Zevenbergen, and Erhard
                             Müller.<ref>olahus.tei.15340208_1</ref></note> cum pleno totius regni
                     mandato in <placeName>Hamburgo</placeName> vocati comparere debebant, sed
-                    intrusus ille <persName>archiepiscopus Lundensis</persName><note type="critic"
-                        xml:id="note.3">Johan Weze.</note> respondit oratoribus caesaris per
-                    litteras, non esse possibile tam brevi tempore se posse convocare regnum (hoc
-                    enim officium convocandi regni ad ecclesiam tuam pertinere dicitur) et de
-                    missione oratorum tractare, nam tarde fuisset hinc per litteras admonitus,
-                    excusavitque se et omnes alios regnicolas, quantum potuit. Ita nemo istic Danus
-                    comparuit. Si comparuissent aliqui, in rebus tuis tractatum esset per
-                    commissarios, quantum fuisset possibile. Nunc cum ita res contigerit,
-                    necessitati tribuenda est neglectio ista, non aut oratoribus caesaris aut mihi.
-                    Qui testor fidem boni viri eam <choice>
+                    intrusus ille <persName>archiepiscopus Lundensis</persName><note xml:id="note.3"
+                        >Johan Weze.</note> respondit oratoribus caesaris per litteras, non esse
+                    possibile tam brevi tempore se posse convocare regnum (hoc enim officium
+                    convocandi regni ad ecclesiam tuam pertinere dicitur) et de missione oratorum
+                    tractare, nam tarde fuisset hinc per litteras admonitus, excusavitque se et
+                    omnes alios regnicolas, quantum potuit. Ita nemo istic Danus comparuit. Si
+                    comparuissent aliqui, in rebus tuis tractatum esset per commissarios, quantum
+                    fuisset possibile. Nunc cum ita res contigerit, necessitati tribuenda est
+                    neglectio ista, non aut oratoribus caesaris aut mihi. Qui testor fidem boni viri
+                    eam <choice>
                         <orig>curavi</orig>
                         <supplied>curam</supplied>
                     </choice> in his tuis rebus sollicitandis, et apud reginam et apud alios ubi
@@ -280,35 +278,35 @@
                 <p xml:id="p.3">[2.] Nam tua omnis res pendet in electione regis Dani, qui si
                     futurus est ad votum caesaris, non desperandum est, sin contra votum, certe res
                     ita erit difficilior. Nunc autem electio regis stat in statu incerto. Alii
-                    favent minori <persName>filio</persName><note type="critic" xml:id="note.4">King
-                        Christian II of Denmark.</note> ducis <persName>Friderici</persName>,<note
-                        type="critic" xml:id="note.5">King Frederick I of Denmark.</note> alii
-                        <persName>regi Angliae</persName>,<note type="critic" xml:id="note.6">King
-                        Henry VIII.</note> qui pecuniis omnes oppugnat. Non desunt etiam alii, qui
-                    regnum illud ambiant, hinc, quantum est possibile, curabitur, ne talis eligatur,
-                    qui sit adversus caesari. Alioqui negotium his provinciis maritimis imperatoris
-                    daretur. Quicquid igitur ad eam rem avertendam pertinet, regina curabit. Quod si
-                    successerit ex animi nostri sententia, facilior erit rerum tuarum tractatio. Ego
-                    quantum in me erit, nec spe praemii ulla, neque alias ullas ob rationes, quam
-                    quod tibi inservire <milestone unit="pb"/>ex animo cupiam, quandocumque tempus
-                    se praestiterit, non patiar, ut meum in te officium sis desideraturus. Tuum
-                    igitur erit iubere, meum iussa capessere. <persName>Ioannem
-                        Stanshardum</persName><note type="critic" xml:id="note.7">We do not know him
-                        more closely, see Ep. 375. Note 9.<ref>olahus.tei.15330605_4</ref></note>
-                    admonui, ut meliores ad te daret litteras, dicit se plures dedisse. Ego quotquot
-                    per me dedit, omnes misi ad te cum meis. Quas, quia meae fuerunt redditae, credo
-                    non periisse. Nunc quoque ipsius mitto unas, cum aliis his annexas. </p>
-                <p xml:id="p.4">[3.] De adventu <persName>Griti</persName><note type="critic"
-                        xml:id="note.8">Lodovico Gritti.</note> nihil adhuc certi audimus.
-                    Testudineo gressu procedit. Vereor, ne haec mora aliquid pariat gravius. De
-                        <persName>Vespasiani a Zara</persName> responso, quid a
-                        <persName>Griti</persName> retulerit, nihil scripsisti. Ex eo sciri potest,
-                    quando ille venturus sit. <persName>Imbrahimi</persName>, ut dicitur, aut
-                    interitus aut captivitas non parum obesse potest regiis rebus. Vellem eum salvum
-                    esse infra finem rerum Hungaricarum, et dum res regis firmari posset.
-                        <persName>Cornelius</persName><note type="critic" xml:id="note.9">Cornelis
-                        de Schepper.</note> non incidet fortasse in <persName>Gritum</persName>,
-                    etiam si ille iam in via est, et continget eum ad Turcarum imperatorem recta
+                    favent minori <persName>filio</persName><note xml:id="note.4">King Christian II
+                        of Denmark.</note> ducis <persName>Friderici</persName>,<note
+                        xml:id="note.5">King Frederick I of Denmark.</note> alii <persName>regi
+                        Angliae</persName>,<note xml:id="note.6">King Henry VIII.</note> qui
+                    pecuniis omnes oppugnat. Non desunt etiam alii, qui regnum illud ambiant, hinc,
+                    quantum est possibile, curabitur, ne talis eligatur, qui sit adversus caesari.
+                    Alioqui negotium his provinciis maritimis imperatoris daretur. Quicquid igitur
+                    ad eam rem avertendam pertinet, regina curabit. Quod si successerit ex animi
+                    nostri sententia, facilior erit rerum tuarum tractatio. Ego quantum in me erit,
+                    nec spe praemii ulla, neque alias ullas ob rationes, quam quod tibi inservire
+                        <milestone unit="pb"/>ex animo cupiam, quandocumque tempus se praestiterit,
+                    non patiar, ut meum in te officium sis desideraturus. Tuum igitur erit iubere,
+                    meum iussa capessere. <persName>Ioannem Stanshardum</persName><note
+                        xml:id="note.7">We do not know him more closely, see Ep. 375. Note
+                            9.<ref>olahus.tei.15330605_4</ref></note> admonui, ut meliores ad te
+                    daret litteras, dicit se plures dedisse. Ego quotquot per me dedit, omnes misi
+                    ad te cum meis. Quas, quia meae fuerunt redditae, credo non periisse. Nunc
+                    quoque ipsius mitto unas, cum aliis his annexas. </p>
+                <p xml:id="p.4">[3.] De adventu <persName>Griti</persName><note xml:id="note.8"
+                        >Lodovico Gritti.</note> nihil adhuc certi audimus. Testudineo gressu
+                    procedit. Vereor, ne haec mora aliquid pariat gravius. De <persName>Vespasiani a
+                        Zara</persName> responso, quid a <persName>Griti</persName> retulerit, nihil
+                    scripsisti. Ex eo sciri potest, quando ille venturus sit.
+                        <persName>Imbrahimi</persName>, ut dicitur, aut interitus aut captivitas non
+                    parum obesse potest regiis rebus. Vellem eum salvum esse infra finem rerum
+                    Hungaricarum, et dum res regis firmari posset.
+                        <persName>Cornelius</persName><note xml:id="note.9">Cornelis de
+                        Schepper.</note> non incidet fortasse in <persName>Gritum</persName>, etiam
+                    si ille iam in via est, et continget eum ad Turcarum imperatorem recta
                     proficisci. Quod si fiet, licet et rebus regiis non esset admodum utile, tamen
                     et meis non minimum obesset, quia miseram ad eum de rebus meis informationem,
                     hac igitur consideratione ductus mitto ad te etiam signaturam hanc, ut absente
@@ -317,9 +315,9 @@
                     vicissim devinctum. Si quid est vel erit certi de <persName>Griti</persName> et
                     de rebus aliis Hungaricis, rogo, fac me certiorem. <persName>Angliae
                         regis</persName> matrimonium stat adhuc in priore statu. Et sententias et
-                    excommunicationem <persName>pontificis</persName><note type="critic"
-                        xml:id="note.10">Pope Clement VII.</note> parum curare videtur, in pessimum
-                    aliorum exemplum. Vale. </p>
+                    excommunicationem <persName>pontificis</persName><note xml:id="note.10">Pope
+                        Clement VII.</note> parum curare videtur, in pessimum aliorum exemplum.
+                    Vale. </p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 24. Aprilis 1534.</p>
             </div>
         </body>

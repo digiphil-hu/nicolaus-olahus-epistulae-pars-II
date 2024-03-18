@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,10 +235,10 @@
                     etc. rex semper augustus etc. Reverendissime, Devote, Fidelis nobis Dilecte!</p>
                 <p xml:id="p.2">Necessitas expostulat, ut te quamprimum huc ad nos conferas, prout
                     abs te beninge petimus, quatenus te, lectis his litteris nostris, in viam des et
-                    cum in civitatem nostram <placeName>Pruck</placeName><note type="critic"
-                        xml:id="note.1">Bruck an der Mur.</note> sex milliaria ab hinc distantem
-                    veneris, ibi cum familia tua parumper sistas nobisque adventum tuum significes.
-                    In quo nostram clementem et omnimodam exsecuturus es voluntatem.</p>
+                    cum in civitatem nostram <placeName>Pruck</placeName><note xml:id="note.1">Bruck
+                        an der Mur.</note> sex milliaria ab hinc distantem veneris, ibi cum familia
+                    tua parumper sistas nobisque adventum tuum significes. In quo nostram clementem
+                    et omnimodam exsecuturus es voluntatem.</p>
                 <p xml:id="p.3">Datum in civitate nostra <placeName>Gratz</placeName> decimo die
                     Decembris anno Domini millesimo quingentesimo quinquagesimo secundo, regnorum
                     nostrorum Romani vigesimo secundo, aliorum vero vigesimo sexto. </p>

@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Sebestyén Szerémi</persName>
                 </correspAction>
             </correspDesc>
@@ -243,41 +241,40 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Egrege Domine<note type="critic" xml:id="note.1">Sebestyén Szerémi
-                        began his career as the secretary of Ambrus Sárkány of Ákosháza, then he
-                        became the secretary of Elek Thurzó. He became secretary of the Hungarian
-                        Chamber in 1547. Between 1547 and 1554, he was a Councillor of the Hungarian
-                        Chamber, see <hi rend="smallcap">Gecsényi</hi> 2008a, 480–481.</note> et
-                    Amice nobis Honorande, salutem et nostri commendationem!</p>
+                <p xml:id="p.1">Egrege Domine<note xml:id="note.1">Sebestyén Szerémi began his
+                        career as the secretary of Ambrus Sárkány of Ákosháza, then he became the
+                        secretary of Elek Thurzó. He became secretary of the Hungarian Chamber in
+                        1547. Between 1547 and 1554, he was a Councillor of the Hungarian Chamber,
+                        see <hi rend="smallcap">Gecsényi</hi> 2008a, 480–481.</note> et Amice nobis
+                    Honorande, salutem et nostri commendationem!</p>
                 <p xml:id="p.2">[1.] Binas litteras Dominationis Vestrae Egregiae eodem tempore
                     recepimus, in quarum alteris bona quondam <persName>Georgii
-                        Thwrzonis</persName>,<note type="critic" xml:id="note.2">György
-                        Thurzó.</note> alteris bona olim <persName>Georgii Horwath</persName>,<note
-                        type="critic" xml:id="note.3">György Horváth.</note> omnino in comitatum
-                    Trinciniensium existentia eadem a <persName>regia maiestate</persName>, domino
-                    nostro clementissimo sibi impetrare petit. Sane pro veteri nostra necessitudine,
-                    quantum potuimus, sedulo utraque bona Dominationis Vestrae Egregiae ordinari
-                    studuimus, in eoque diligentes fuimus, nec ullis nostris laboribus pepercimus,
-                    verum sicut eadem quoque in suis litteris <del corresp="Olahus"
-                        >ominatur</del><add corresp="Olahus" type="corr">ominabatur</add> ac sibi
-                    timeri significavit, quominus voticompotes esse potuimus, illud restitit, quod
-                    regia maiestas responderit se intellegere velle, quae et quanta, cuiusque
-                    emolumenti ipsa bona Thwrzonis sint. Illis cognitis id postea facturam, quod
-                    faciendum videbitur.</p>
+                        Thwrzonis</persName>,<note xml:id="note.2">György Thurzó.</note> alteris
+                    bona olim <persName>Georgii Horwath</persName>,<note xml:id="note.3">György
+                        Horváth.</note> omnino in comitatum Trinciniensium existentia eadem a
+                        <persName>regia maiestate</persName>, domino nostro clementissimo sibi
+                    impetrare petit. Sane pro veteri nostra necessitudine, quantum potuimus, sedulo
+                    utraque bona Dominationis Vestrae Egregiae ordinari studuimus, in eoque
+                    diligentes fuimus, nec ullis nostris laboribus pepercimus, verum sicut eadem
+                    quoque in suis litteris <del corresp="Olahus">ominatur</del><add
+                        corresp="Olahus" type="corr">ominabatur</add> ac sibi timeri significavit,
+                    quominus voticompotes esse potuimus, illud restitit, quod regia maiestas
+                    responderit se intellegere velle, quae et quanta, cuiusque emolumenti ipsa bona
+                    Thwrzonis sint. Illis cognitis id postea facturam, quod faciendum videbitur.</p>
                 <p xml:id="p.3">[2.] In aliis bonis impedire ista. Nam forte eodem tempore, cum apud
                     regiam maiestatem pro illis laboravimus, praeter opinionem adfuere nobiles cum
                     litteris acquisitionis seu originalibus ipsorum bonorum, ad quorum uxores iure
                     illarum litterarum attinere cernebantur, qui litteras quoque domini
-                        <persName>Nitriensis</persName><note type="critic" xml:id="note.4">Ferenc
-                        Thurzó.</note> credentionales habebant, quibus perlectis cognovit regia
-                    maiestas ipsa bona Georgii Horwat ad uxores illorum spectare ex eo, quod istarum
-                    dominarum maiores praedicta bona utrique sexui acquisivissent, et hanc ob causam
-                    maiestas regia noluit illas his bonis ex misericordia quadam sua privare. Haec
-                    sunt, quae Dominationi Vestrae significare voluimus. Nostra opera et diligentia
-                    in promotionem rebus Dominationis Vestrae certe non defuit, sed praemissae
-                    causae obtinere, quin voticompotes vel in una, vel in altera re <milestone
-                        unit="pb"/>esse potuimus. Ubi de bonis olim Thwrzonis sua maiestas edocta
-                    fuerit, commoditate rei admittere iterum in illis impetrandis ea, qua poterimus,
+                        <persName>Nitriensis</persName><note xml:id="note.4">Ferenc Thurzó.</note>
+                    credentionales habebant, quibus perlectis cognovit regia maiestas ipsa bona
+                    Georgii Horwat ad uxores illorum spectare ex eo, quod istarum dominarum maiores
+                    praedicta bona utrique sexui acquisivissent, et hanc ob causam maiestas regia
+                    noluit illas his bonis ex misericordia quadam sua privare. Haec sunt, quae
+                    Dominationi Vestrae significare voluimus. Nostra opera et diligentia in
+                    promotionem rebus Dominationis Vestrae certe non defuit, sed praemissae causae
+                    obtinere, quin voticompotes vel in una, vel in altera re <milestone unit="pb"
+                    />esse potuimus. Ubi de bonis olim Thwrzonis sua maiestas edocta fuerit,
+                    commoditate rei admittere iterum in illis impetrandis ea, qua poterimus,
                     diligentia laborabimus, ac <choice>
                         <orig>se</orig>
                         <supplied>si</supplied>

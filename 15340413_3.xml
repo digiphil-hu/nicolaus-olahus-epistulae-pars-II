@@ -218,11 +218,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -257,7 +255,7 @@
                 <pb/>
                 <p xml:id="p.1">Alexius Turzo comes etc. Nicolao Olao. </p>
                 <p xml:id="p.2">[1.] Reverende Domine, Amice Honorande, salutem! Litteras vestras de
-                    quarto mensis praeteriti datas<note type="critic" xml:id="note.1">Ep.
+                    quarto mensis praeteriti datas<note xml:id="note.1">Ep.
                             462.<ref>olahus.tei.15340304_1</ref></note> accepimus, quibus in primis
                     deprecari <milestone unit="pb"/>videmini, nescio, quam animi a vobis nostri
                     alienationem, quam non aliunde colligitis, quam quod tanto tempore nihil ad vos
@@ -271,11 +269,11 @@
                     periculosiores medicorum omnium sententia nunquam sensimus, integram fere
                     hiemem, autumno iunctam occupavisse. Haec causa nos non solum, ut erga amicos
                     pigriores solito essemus, sed etiam, ne domestica negotia curaremus,
-                        prohibuit.<note type="critic" xml:id="note.2">Obscure sentence, it is likely
-                        that either something went wrong during the copying or Thurzó had not fully
-                        recovered by the time of writing.</note> Proinde, si quis Dominationis
-                    Vestrae animum inanis metus de mutatione benevolentiae nostrae occupavit,
-                    explodendus est. Manet enim et solida <choice>
+                        prohibuit.<note xml:id="note.2">Obscure sentence, it is likely that either
+                        something went wrong during the copying or Thurzó had not fully recovered by
+                        the time of writing.</note> Proinde, si quis Dominationis Vestrae animum
+                    inanis metus de mutatione benevolentiae nostrae occupavit, explodendus est.
+                    Manet enim et solida <choice>
                         <orig>est</orig>
                         <supplied>et</supplied>
                     </choice> vetus illa nostri in vos animi benevolentia et favor, nec evelli
@@ -285,20 +283,19 @@
                     Dominationis Vestrae timorem illum vanum animo eiiciat. </p>
                 <p xml:id="p.3">[2.] Quamquam enim vires voluntati non responderint, egimus tamen,
                     dum poteramus, apud dominum <persName>Valentinum Therek</persName><note
-                        type="critic" xml:id="note.3">Bálint Török.</note> nec mediocri conatu, ut
-                    Dominationis Vestrae bona, quae usurpavit, pro se dimitteret. <quote
-                        xml:id="quote.1">Sed o mores, o tempora!</quote><note type="quote"
-                        xml:id="note.quote.1">Cic. <hi rend="italic">In Cat.</hi> I,2.</note> Non
-                    dubitamus et vobis constare huius hominum generis ingenium, quod et alioqui
-                    suapte natura praefractum, temporis huius conditio efferavit, ut neque iussa
-                    regia, neque amicorum intercessiones aut respectus ab instituto illos revocare
-                    possint. Nihil nos apud dominum <persName>Valentinum</persName> efficere
-                    potuimus. Non enim illum intercessionis nostrae contemptum tolerare, aut subinde
-                    frustra repetere voluimus. Erat tenuis quaedam indiciorum spes, sed et ea in
-                    fumum abiit. Nunc <persName>maiestas regia</persName> (ut credimus ad festa
-                        Pentecostes<note type="critic" xml:id="note.4">24 May.</note>) habitura est
-                    de stabiliendo aut transigendo potius regni statu cum
-                        <persName>Grithi</persName><note type="critic" xml:id="note.5">Lodovico
+                        xml:id="note.3">Bálint Török.</note> nec mediocri conatu, ut Dominationis
+                    Vestrae bona, quae usurpavit, pro se dimitteret. <quote xml:id="quote.1">Sed o
+                        mores, o tempora!</quote><note type="quote" xml:id="note.quote.1">Cic. <hi
+                            rend="italic">In Cat.</hi> I,2.</note> Non dubitamus et vobis constare
+                    huius hominum generis ingenium, quod et alioqui suapte natura praefractum,
+                    temporis huius conditio efferavit, ut neque iussa regia, neque amicorum
+                    intercessiones aut respectus ab instituto illos revocare possint. Nihil nos apud
+                    dominum <persName>Valentinum</persName> efficere potuimus. Non enim illum
+                    intercessionis nostrae contemptum tolerare, aut subinde frustra repetere
+                    voluimus. Erat tenuis quaedam indiciorum spes, sed et ea in fumum abiit. Nunc
+                        <persName>maiestas regia</persName> (ut credimus ad festa Pentecostes<note
+                        xml:id="note.4">24 May.</note>) habitura est de stabiliendo aut transigendo
+                    potius regni statu cum <persName>Grithi</persName><note xml:id="note.5">Lodovico
                         Gritti.</note> tractatus. Inde omnis ordo, omnis gubernandi regni modus
                     pendet, qualiscumque futurus sit. Spes quidem magna reginalem maiestatem tenet,
                     quo et nos bene sperare vult. Nisi tractatibus istis pro regni commodo absolutis
@@ -319,13 +316,12 @@
                     si odiis contendere pergent, nihilominus erunt nobis grata, quae ex vestris
                     litteris acceperimus. Nunc principibus nostris nescimus, an melior unquam
                     arriserit occasio confinia nostra recuperandi. Vacua sunt enim omnia translatis
-                    in Persam <persName>Soffi</persName><note type="critic" xml:id="note.6">Tahmasp
-                        I, Shah of Iran.</note> ad <persName>Ibraymum</persName><note type="critic"
-                        xml:id="note.7">Ibrahim Pargalı Pasha.</note> praesidiis, quibus munita
-                    fuerant. Modo Deus id his inspiraret. Sed nescimus, quo fato nostro fiat, ut tot
-                    ac tantae occasiones sine fructu dilabantur semper. Dominatio Vestra, ut
-                    praemisimus, commendet servitia nostra maiestati reginali, et ipsa quoque valeat
-                    felix. </p>
+                    in Persam <persName>Soffi</persName><note xml:id="note.6">Tahmasp I, Shah of
+                        Iran.</note> ad <persName>Ibraymum</persName><note xml:id="note.7">Ibrahim
+                        Pargalı Pasha.</note> praesidiis, quibus munita fuerant. Modo Deus id his
+                    inspiraret. Sed nescimus, quo fato nostro fiat, ut tot ac tantae occasiones sine
+                    fructu dilabantur semper. Dominatio Vestra, ut praemisimus, commendet servitia
+                    nostra maiestati reginali, et ipsa quoque valeat felix. </p>
                 <p xml:id="p.5">Ex <placeName>Sempthe</placeName> XIII. die Aprilis 1534.</p>
             </div>
         </body>

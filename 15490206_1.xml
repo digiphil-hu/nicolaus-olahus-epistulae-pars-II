@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Bratislava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -231,9 +229,9 @@
                 <p xml:id="p.1">Prudentes et Circumspecti Domini, Amici nobis Honorandi,
                     salutem!</p>
                 <p xml:id="p.2">Supplicavit nobis <persName>Ioannes Zabo</persName>,<note
-                        type="critic" xml:id="note.1">János Szabó.</note> concivis vester, quo
-                    causam ipsius, quae ratione suae domus in eundem mota esset, nostra
-                    commendatione apud vos promoveremus. Nos moti super <choice>
+                        xml:id="note.1">János Szabó.</note> concivis vester, quo causam ipsius, quae
+                    ratione suae domus in eundem mota esset, nostra commendatione apud vos
+                    promoveremus. Nos moti super <choice>
                         <orig>dictum Ioannem</orig>
                         <supplied>dicti Ioanni</supplied>
                     </choice> misericordia, tum rationem servitiorum habentes, quae nobis annis

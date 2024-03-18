@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -242,17 +240,17 @@
                 <pb/>
                 <p xml:id="p.1">Reverendissime in Christo Pater, Fidelis Sincere nobis Dilecte!</p>
                 <p xml:id="p.2">[1.] Intelleximus ex litteris tuis decima huius mensis die ad nos
-                        datis,<note type="critic" xml:id="note.1">We do not know this letter.</note>
-                    quibus causis et rationibus permoti fueritis <del corresp="scriba">tot dampnum
-                        consultaretur de dandis in singulos comitatus litteris</del> eam sequi et
-                    amplecti opinionem, ut litterae, <del corresp="scriba">quae</del><add
-                        corresp="scriba" type="corr">quas</add> in negotio subsidii in proximo
-                    conventu oblati in singulos comitatus scribi oportere visum est, nomine nostro
-                    conficerentur, et cum huius consilii in opinionis ratio nobis quoque <del
-                        corresp="scriba">probatae</del><add corresp="scriba" type="corr"
-                        >clementer</add> probaretur, litteras ipsas ad nos transmissas manu nostra
-                    subscripsimus ibique illas sigillo nostro Hungarico sigillandas et ad comitatus
-                    transmittendas cum praesentibus remittimus. </p>
+                        datis,<note xml:id="note.1">We do not know this letter.</note> quibus causis
+                    et rationibus permoti fueritis <del corresp="scriba">tot dampnum consultaretur
+                        de dandis in singulos comitatus litteris</del> eam sequi et amplecti
+                    opinionem, ut litterae, <del corresp="scriba">quae</del><add corresp="scriba"
+                        type="corr">quas</add> in negotio subsidii in proximo conventu oblati in
+                    singulos comitatus scribi oportere visum est, nomine nostro conficerentur, et
+                    cum huius consilii in opinionis ratio nobis quoque <del corresp="scriba"
+                        >probatae</del><add corresp="scriba" type="corr">clementer</add> probaretur,
+                    litteras ipsas ad nos transmissas manu nostra subscripsimus ibique illas sigillo
+                    nostro Hungarico sigillandas et ad comitatus transmittendas cum praesentibus
+                    remittimus. </p>
                 <p xml:id="p.3">[2.] Quantum <del corresp="scriba">ad</del> autem ad mandata illa
                     publica attinet, quibus regni statibus atque ordinibus praeciperetur, ut nobis
                     absentibus serenissimum principem dominum <persName>Maximilianum</persName>
@@ -295,8 +293,8 @@
                     serenissimo filio nostro regi <persName>Maximiliano</persName> commisisse, ut et
                         <persName>oratorem</persName> serenissimi <persName>regis
                         Poloniae</persName> et magnificum <persName>Mathiam Loboczky</persName><note
-                        type="critic" xml:id="note.2">Mathias Loboczki was a Counsellor of King
-                        Ferdinand I, and Lord of Tarkő, see <hi rend="smallcap">Wagner</hi> 1774,
+                        xml:id="note.2">Mathias Loboczki was a Counsellor of King Ferdinand I, and
+                        Lord of Tarkő, see <hi rend="smallcap">Wagner</hi> 1774,
                         passim.</note><milestone unit="pb"/><del corresp="scriba">a</del> in ipsorum
                     relatibus audire et <del corresp="scriba">nobis ea quae exposuerint</del><add
                         corresp="scriba" type="corr">nostro nomine</add> velit. Haec itaque sunt,

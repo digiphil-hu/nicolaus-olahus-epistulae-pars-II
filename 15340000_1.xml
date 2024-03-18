@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,16 +229,16 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem.</p>
-                <p xml:id="p.2"><persName>Dux mea illustrissima</persName><note type="critic"
-                        xml:id="note.1">Christina of Denmark, Duchess of Milan.</note>
-                        rusticatur.<note type="critic" xml:id="note.2">“Hunting-parties were held
-                        for Christina’s amusement both in Vigevano and in Count Massimiliano’s woods
-                        in Cussago.” <hi rend="smallcap">Cartwright</hi> 1913, 99.</note> Quare si
-                    serenissima <persName>regina</persName> et excellentissima domina
-                        <persName>Dorothea</persName><note type="critic" xml:id="note.3">Dorothea of
-                        Denmark and Norway (1520–1580), Electress Palatine was Christina of
-                        Denmark’s sister.</note> litteras ab ea non habebunt, in causa est, quod
-                    tabellarius valde festinabat. Vale et te salvum cupio.</p>
+                <p xml:id="p.2"><persName>Dux mea illustrissima</persName><note xml:id="note.1"
+                        >Christina of Denmark, Duchess of Milan.</note> rusticatur.<note
+                        xml:id="note.2">“Hunting-parties were held for Christina’s amusement both in
+                        Vigevano and in Count Massimiliano’s woods in Cussago.” <hi rend="smallcap"
+                            >Cartwright</hi> 1913, 99.</note> Quare si serenissima
+                        <persName>regina</persName> et excellentissima domina
+                        <persName>Dorothea</persName><note xml:id="note.3">Dorothea of Denmark and
+                        Norway (1520–1580), Electress Palatine was Christina of Denmark’s
+                        sister.</note> litteras ab ea non habebunt, in causa est, quod tabellarius
+                    valde festinabat. Vale et te salvum cupio.</p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> 1534.</p>
             </div>
         </body>

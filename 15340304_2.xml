@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Szalaházy<idno type="ITIdata">Q258359</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,17 +241,17 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Thomam episcopum Agriensem cancellarium Hungariae. </p>
                 <p xml:id="p.2">[1.] Magna me laetitia tuae litterae affecerunt, quas ultima
-                    Novembris datas<note type="critic" xml:id="note.1">Ep.
-                            429.<ref>olahus.tei.15331130_1</ref></note> XXV. Februarii praeteriti
+                    Novembris datas<note xml:id="note.1">Ep.
+                        429.<ref>olahus.tei.15331130_1</ref></note> XXV. Februarii praeteriti
                     accepi. In tuo erga me favore et benevolentia nunquam dubitavi, nam de eis,
                     quibus ego quoque sincero animo inservire cupio, nullo unquam tempore haesitare
                     soleo, ex meo enim illorum in me animum metior. Gratias itaque tibi habeo
                     immortales de opera et cura, quod in rebus meis apud <persName>Valentinum
-                        Theuurek</persName><note type="critic" xml:id="note.2">Bálint Török.</note>
-                    praestiteris. Miror, cur in me tantum sit concitatus. Arbitratur me fortasse
-                    esse hostem patriae. Quid ab eo commerui? Quid feci? Nonne et ego pro mea
-                    conditione <persName>regi</persName> servivi et regio suo? Nonne et damna maxima
-                    et multas rerum et expensarum mearum iacturas in parte regis, quam ipse fovet,
+                        Theuurek</persName><note xml:id="note.2">Bálint Török.</note> praestiteris.
+                    Miror, cur in me tantum sit concitatus. Arbitratur me fortasse esse hostem
+                    patriae. Quid ab eo commerui? Quid feci? Nonne et ego pro mea conditione
+                        <persName>regi</persName> servivi et regio suo? Nonne et damna maxima et
+                    multas rerum et expensarum mearum iacturas in parte regis, quam ipse fovet,
                     perpessus sum ab initio, et nunc quoque patior, num vana servitia ac labores,
                     quatenus mea fuit utilitas, subivi? Quid me pessumdare molitur? Cur cibum e
                     faucibus eripit? Deus illi ignoscat. Mea res cum aliorum rebus non usque adeo
@@ -268,25 +266,24 @@
                         xml:id="note.quote.1">Cf. Erasm. <hi rend="italic">Adag.</hi> 387. I,IV,87.
                         Surdo canis. Surdo fabulam narras.</note> si quid in necessitate mea ex meis
                     mecum communicaret, tollerabilius esset. Quem in hac parte videtur imitari et
-                        <persName>Hyeronimus</persName><note type="critic" xml:id="note.3"> Jeromos
-                        Horváth of Vásonkő or Jeromos Kruzich of Klis.</note> tuus, qui nihil
-                    penitus de me cogitare dicitur, sed spero in rebus omnibus meliora. </p>
-                <p xml:id="p.3">[2.] <persName>Angliae regem</persName><note type="critic"
-                        xml:id="note.4">King Henry VIII.</note> ab inoboedientia
-                        <persName>pontificis</persName><note type="critic" xml:id="note.5">Pope
-                        Clement VII.</note> defecisse, puto te intellexisse. Adeo non oboedit
-                    ecclesiae Romanae, ut nihil sit tam turpe, quod non in papam evomat libellis
-                        famosis,<note type="critic" xml:id="note.6">See Ep. 462. Cap.
+                        <persName>Hyeronimus</persName><note xml:id="note.3"> Jeromos Horváth of
+                        Vásonkő or Jeromos Kruzich of Klis.</note> tuus, qui nihil penitus de me
+                    cogitare dicitur, sed spero in rebus omnibus meliora. </p>
+                <p xml:id="p.3">[2.] <persName>Angliae regem</persName><note xml:id="note.4">King
+                        Henry VIII.</note> ab inoboedientia <persName>pontificis</persName><note
+                        xml:id="note.5">Pope Clement VII.</note> defecisse, puto te intellexisse.
+                    Adeo non oboedit ecclesiae Romanae, ut nihil sit tam turpe, quod non in papam
+                    evomat libellis famosis,<note xml:id="note.6">See Ep. 462. Cap.
                             1.<ref>olahus.tei.15340304_1</ref></note> qui in
                         <placeName>Anglia</placeName> passim imprimuntur. In hac caesaris dicione
                     omnes spirituales reddituum suorum annuorum medietatem ex pontificis indultu
                     nunc solvunt caesari, nomine expeditionis Turcicae, quae lentissime his omnibus
                     annis processit. Credo, in posterum quoque ita procedet, maxime cum profectus
-                    sit <persName>Cornelius</persName><note type="critic" xml:id="note.7">Cornelis
-                        de Schepper.</note> iam secundo <placeName>Constantinopolim</placeName>,
-                    utinam <persName>Grithi</persName><note type="critic" xml:id="note.8">Lodovico
-                        Gritti.</note> aut iam attulerit aut afferat aliquid boni. Multa sunt, quae
-                    me contrarium credere cogant, quae litteris non possent committi. Vale. </p>
+                    sit <persName>Cornelius</persName><note xml:id="note.7">Cornelis de
+                        Schepper.</note> iam secundo <placeName>Constantinopolim</placeName>, utinam
+                        <persName>Grithi</persName><note xml:id="note.8">Lodovico Gritti.</note> aut
+                    iam attulerit aut afferat aliquid boni. Multa sunt, quae me contrarium credere
+                    cogant, quae litteris non possent committi. Vale. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> quarta Martii 1534.</p>
             </div>
         </body>

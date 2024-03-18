@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -252,25 +251,23 @@
                     praestantes, continua uti familiaritate. Eius certe ego ab initio fui vel
                     naturae vel conditionis, ut nulla me res magis delectaverit, quam bonorum
                     virorum notitia, familiaritas iucundaque consuetudo. </p>
-                <p xml:id="p.3">Hoc vero uno nunc <persName>Dilfio</persName>,<note type="critic"
-                        xml:id="note.1">Francis Dilft.</note> de quo ad me honorifice proximis
-                        litteris<note type="critic" xml:id="note.2">See Ep.
-                            436.<ref>olahus.tei.15340102_1</ref></note> scripsisti, in aliorum
-                    meorum numerum addito quid non delectationis mihi auctum est? Cognovi in eo
-                    quatenus id duabus brevibus collocutionibus, nam et ipsius et meae occupationes
-                    plures nobis hactenus denegarunt, fieri licuit humanitatem, eruditionem et
-                    singulare ingenium eumque et eruditissimum et exacti iudicii esse hominem ac
-                    excellenti facundia praeditum. Gratias igitur tibi ago immortales, mi Gocleni,
-                    qui me hoc amico <del corresp="Olahus">beasti</del><add corresp="Olahus"
-                        type="corr">beaveris</add>. Curabo, quantum in me erit, ut neque ipsum meae
-                    notitiae, neque me ipsius familiaritatis poeniteat. Ita fac et deinceps, si me
-                    amas, ut me eiusmodi amicis et ornes et cumules. Nihil mihi hac re facies
-                    gratius. </p>
+                <p xml:id="p.3">Hoc vero uno nunc <persName>Dilfio</persName>,<note xml:id="note.1"
+                        >Francis Dilft.</note> de quo ad me honorifice proximis litteris<note
+                        xml:id="note.2">See Ep. 436.<ref>olahus.tei.15340102_1</ref></note>
+                    scripsisti, in aliorum meorum numerum addito quid non delectationis mihi auctum
+                    est? Cognovi in eo quatenus id duabus brevibus collocutionibus, nam et ipsius et
+                    meae occupationes plures nobis hactenus denegarunt, fieri licuit humanitatem,
+                    eruditionem et singulare ingenium eumque et eruditissimum et exacti iudicii esse
+                    hominem ac excellenti facundia praeditum. Gratias igitur tibi ago immortales, mi
+                    Gocleni, qui me hoc amico <del corresp="Olahus">beasti</del><add
+                        corresp="Olahus" type="corr">beaveris</add>. Curabo, quantum in me erit, ut
+                    neque ipsum meae notitiae, neque me ipsius familiaritatis poeniteat. Ita fac et
+                    deinceps, si me amas, ut me eiusmodi amicis et ornes et cumules. Nihil mihi hac
+                    re facies gratius. </p>
                 <p xml:id="p.4">Heri redditae sunt mihi litterae <persName>Cornelii</persName><note
-                        type="critic" xml:id="note.3">Cornelis de Schepper.</note> nostri, cum
-                    quibus accepi et has ad te datas, eas per hunc fidum tabellionem ad te misi.
-                    Nihil aliud ab eo habeo, quam quod recte valeat et cito revertatur. Vale et me,
-                    ut soles, ama. </p>
+                        xml:id="note.3">Cornelis de Schepper.</note> nostri, cum quibus accepi et
+                    has ad te datas, eas per hunc fidum tabellionem ad te misi. Nihil aliud ab eo
+                    habeo, quam quod recte valeat et cito revertatur. Vale et me, ut soles, ama. </p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 15. Ianuarii 1534.</p>
             </div>
         </body>

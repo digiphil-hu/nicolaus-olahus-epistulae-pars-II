@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis De Schrijver <idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,25 +241,25 @@
                 <pb/>
                 <p xml:id="p.1">Multo clarissimo domino Nicolao Olao Pannonio Transilvano
                     theasaurario Albensi Cornelius Scribonius Grapheus. </p>
-                <p xml:id="p.2">Lepidissima tua legi carmina,<note type="critic" xml:id="note.1">See
-                            <hi rend="smallcap">Ipolyi</hi> 1875, 589.</note> Humanissime Olae,
-                    atque iterum terque quaterque relegi, neque quidquam (tenui quidem meo isto
-                    iudicio) in eisdem deprehendi, quod nostra, quam a me exigis, censura egeat. Ad
-                    ea tua lepidissima, quali quali <add corresp="Olahus" type="insert">meo</add>
-                    carmine respondeo;<note type="critic" xml:id="note.2"><hi rend="smallcap"
-                            >Ipolyi</hi> 1875, 590–592.</note> graviora aliquando scribere non deest
-                    animus et quidem ardentissimus, sed egestas et curae, egestatis filiae, id non
-                    sinunt. Quandoquidem est mihi munus quoddam publicum, quod vix mihi sufficit
-                    quotannis sexaginta Florenorum Carolinorum et id quidem permolestum. Qui igitur
+                <p xml:id="p.2">Lepidissima tua legi carmina,<note xml:id="note.1">See <hi
+                            rend="smallcap">Ipolyi</hi> 1875, 589.</note> Humanissime Olae, atque
+                    iterum terque quaterque relegi, neque quidquam (tenui quidem meo isto iudicio)
+                    in eisdem deprehendi, quod nostra, quam a me exigis, censura egeat. Ad ea tua
+                    lepidissima, quali quali <add corresp="Olahus" type="insert">meo</add> carmine
+                        respondeo;<note xml:id="note.2"><hi rend="smallcap">Ipolyi</hi> 1875,
+                        590–592.</note> graviora aliquando scribere non deest animus et quidem
+                    ardentissimus, sed egestas et curae, egestatis filiae, id non sinunt.
+                    Quandoquidem est mihi munus quoddam publicum, quod vix mihi sufficit quotannis
+                    sexaginta Florenorum Carolinorum et id quidem permolestum. Qui igitur
                     gravioribus Musis incumbere possem non video, nisi alicunde felicior mihi
                     aspiret Favonius. Vale, Clarissime Olae. </p>
                 <p xml:id="p.3">Datae <placeName>Antverpiae</placeName> XVIII. Octobris anno a
                     Christo nato 1536. </p>
                 <p xml:id="p.4"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Accipio
-                    usque libens…]<?oxy_custom_end?><note type="critic" xml:id="note.3"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 590–592. In Romanian: <hi
-                            rend="smallcap">Albu–Capoianu</hi> 1974, 161–163; <hi rend="smallcap"
+                    usque libens…]<?oxy_custom_end?><note xml:id="note.3"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 590–592. In Romanian: <hi rend="smallcap"
+                            >Albu–Capoianu</hi> 1974, 161–163; <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022, 1412–1417.</note></p>
             </div>
         </body>

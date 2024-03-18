@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>István Dobó<idno type="ITIdata">Q252235</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,44 +237,43 @@
                 <pb/>
                 <p xml:id="p.1">Reverendissime Domine, Domine mihi semper Observandissime et
                     Gratiosissime, servitiorum meorum debitam semper et perpetuam exhibitionem!</p>
-                <p xml:id="p.2">[1.] Nuper cum <persName>bassa Budensi</persName><note type="critic"
+                <p xml:id="p.2">[1.] Nuper cum <persName>bassa Budensi</persName><note
                         xml:id="note.1">Hadim Ali Pasha.</note> Danubium
-                        <placeName>Vesprimium</placeName><note type="critic" xml:id="note.2"
-                        >Veszprém.</note> versus a <placeName>Pestino</placeName> traicerat, quo
-                    fato a castello <placeName>Hathwan</placeName><note type="critic"
-                        xml:id="note.3">Hatvan.</note> et oppido
-                        <placeName>Gyengyes</placeName><note type="critic" xml:id="note.4"
-                        >Gyöngyös.</note> reversi nostri fuerint, Dominationem Vestram
-                    Reverendissimam certificaveram,<note type="critic" xml:id="note.5">See Ep.
+                        <placeName>Vesprimium</placeName><note xml:id="note.2">Veszprém.</note>
+                    versus a <placeName>Pestino</placeName> traicerat, quo fato a castello
+                        <placeName>Hathwan</placeName><note xml:id="note.3">Hatvan.</note> et oppido
+                        <placeName>Gyengyes</placeName><note xml:id="note.4">Gyöngyös.</note>
+                    reversi nostri fuerint, Dominationem Vestram Reverendissimam
+                        certificaveram,<note xml:id="note.5">See Ep.
                             814.<ref>olahus.tei.15520529_1</ref></note> Turcusque ille tunc captus,
-                    quae de venturo <persName>Ahmath bassa</persName><note type="critic"
-                        xml:id="note.6">Kara Ahmed Pasha.</note> retulerat, Dominationi Vestrae
-                    Reverendissimae perscripseram. Nunc igitur per servitores <persName>maiestatis
-                        regiae</persName> et Dominationis Vestrae Reverendissimae ex eodem fato, tam
-                    maiestati regiae, quam Dominationi Vestrae Reverendissimae singulos Turcos cum
-                    singulis equis Turcalibus misimus, per quos Dominatio Vestra Reverendissima
-                    palam de omnibus certior fieri poterit, quae tam Turca iterum post praedictum
-                    fatum per stratagemata exercentes capti, quam etiam vulgus necnon peculiares mei
-                    homines, qui hodie <placeName>Buda</placeName> reversi sunt, de eisdem
-                    praedictis bassis referant. Est inter istos noviter captos Turcos, qui dicit iam
-                    mensem unum esse completum, ex quo ipse de castris <persName>Ahmath
-                        bassae</persName> esset <placeName>Budam</placeName> reversus, dicit eum
-                    bassam penes <placeName>Nandoralbam</placeName><note type="critic"
-                        xml:id="note.7">Belgrade.</note> exercitum colligere, et iam plus
-                    quadraginta tunc millibus collectos fuisse, cum ipse de castris illius
-                    discessisse. Hic refert eosdem bassas mutuum hunc habere intellectum, ut
-                    quamprimum <persName>bassa Budensis</persName> certior redderetur, quod
-                        <persName>Ahmath bassa</persName><placeName>Danubium</placeName><choice>
+                    quae de venturo <persName>Ahmath bassa</persName><note xml:id="note.6">Kara
+                        Ahmed Pasha.</note> retulerat, Dominationi Vestrae Reverendissimae
+                    perscripseram. Nunc igitur per servitores <persName>maiestatis regiae</persName>
+                    et Dominationis Vestrae Reverendissimae ex eodem fato, tam maiestati regiae,
+                    quam Dominationi Vestrae Reverendissimae singulos Turcos cum singulis equis
+                    Turcalibus misimus, per quos Dominatio Vestra Reverendissima palam de omnibus
+                    certior fieri poterit, quae tam Turca iterum post praedictum fatum per
+                    stratagemata exercentes capti, quam etiam vulgus necnon peculiares mei homines,
+                    qui hodie <placeName>Buda</placeName> reversi sunt, de eisdem praedictis bassis
+                    referant. Est inter istos noviter captos Turcos, qui dicit iam mensem unum esse
+                    completum, ex quo ipse de castris <persName>Ahmath bassae</persName> esset
+                        <placeName>Budam</placeName> reversus, dicit eum bassam penes
+                        <placeName>Nandoralbam</placeName><note xml:id="note.7">Belgrade.</note>
+                    exercitum colligere, et iam plus quadraginta tunc millibus collectos fuisse, cum
+                    ipse de castris illius discessisse. Hic refert eosdem bassas mutuum hunc habere
+                    intellectum, ut quamprimum <persName>bassa Budensis</persName> certior
+                    redderetur, quod <persName>Ahmath
+                        bassa</persName><placeName>Danubium</placeName><choice>
                         <orig>traieceret</orig>
                         <supplied>traiecerat</supplied>
                     </choice>, illico <persName>Budensis</persName> arcem hanc Dominationis Vestrae
                     Reverendissimae obsessurus foret praestolandum <persName>Ahmatum</persName> sub
-                    fortalicium <placeName>Zolnok</placeName><note type="critic" xml:id="note.8"
-                        >Szolnok.</note> adventurum. Homo meus peculiaris refert, per quem mihi per
-                    fidum amicum idem est nuntiatum, ut ubi <persName>bassa
+                    fortalicium <placeName>Zolnok</placeName><note xml:id="note.8">Szolnok.</note>
+                    adventurum. Homo meus peculiaris refert, per quem mihi per fidum amicum idem est
+                    nuntiatum, ut ubi <persName>bassa
                         Budensis</persName><placeName>Vesprimio</placeName> reverteretur, illico
                     castra movendi haberet animum ad obsidendam <placeName>Agriam</placeName>.<note
-                        type="critic" xml:id="note.9">Eger.</note></p>
+                        xml:id="note.9">Eger.</note></p>
                 <p xml:id="p.3">[2.] Haec pro certo mihi narratur, verum sintne certa vel incerta,
                     penitus ignoro. Nihilominus tamen haec per celerem postam antequam de pluribus
                     Dominatio Vestra Reverendissima certior reddatur transmittendum paucis duxi fore
@@ -287,15 +284,15 @@
                     nos quoque et commodis regni istius Hungariae inservire valeamus. In his
                     partibus maiestas regia nullas habet gentes praeter eas, quas perpaucas
                     Dominatio Vestra Reverendissima hic <placeName>Agriae</placeName> residentes
-                    optime novit. Dominum collegam meum,<note type="critic" xml:id="note.10">His
-                        colleague became István Mecskey. Since Dobó could not leave Eger, he sent
-                        Mecskey to the partial assembly to Szikszó in July, see <hi rend="smallcap"
-                            >Csiffáry</hi> 2005, 114.</note> quisquis fuerit, Dominatio Vestra
-                    Reverendissima dignetur absque dilatione demittere. Ego interea quoad possum,
-                    pro mea humanitate in omnibus deficere nolo, sed modificationibus Deo volente
-                    inservire curabo, de praemissis vero, ut Dominatio Vestra Reverendissima brevi
-                    et sine mora consulere dignetur, Dominationem Vestram Reverendissimam valde, ut
-                    possum, oro. Quam in reliquis felicissime valere desidero.</p>
+                    optime novit. Dominum collegam meum,<note xml:id="note.10">His colleague became
+                        István Mecskey. Since Dobó could not leave Eger, he sent Mecskey to the
+                        partial assembly to Szikszó in July, see <hi rend="smallcap">Csiffáry</hi>
+                        2005, 114.</note> quisquis fuerit, Dominatio Vestra Reverendissima dignetur
+                    absque dilatione demittere. Ego interea quoad possum, pro mea humanitate in
+                    omnibus deficere nolo, sed modificationibus Deo volente inservire curabo, de
+                    praemissis vero, ut Dominatio Vestra Reverendissima brevi et sine mora consulere
+                    dignetur, Dominationem Vestram Reverendissimam valde, ut possum, oro. Quam in
+                    reliquis felicissime valere desidero.</p>
                 <p xml:id="p.5">Datum in <placeName>arce Agriensi</placeName> 7. Iunii anno Domini
                     1552.</p>
                 <p xml:id="p.6">Eiusdem Dominationis Vestrae Reverendissimae deditissimus

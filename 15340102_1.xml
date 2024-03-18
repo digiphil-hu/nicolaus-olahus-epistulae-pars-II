@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Conrad Wackers<idno type="ITIdata">Q470231</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -254,10 +253,10 @@
                     dotes, incredibilem modestiam et erga omnes eruditione eminentes animum
                     benevolentissimum depraedicarem. </p>
                 <p xml:id="p.3">[2.] Huiusmodi facem animo domini <persName>Dilfi</persName><note
-                        type="critic" xml:id="note.1">Probably Francis Dilft or Frans van der Dilf
-                        (†1550). For more on his life, see <hi rend="smallcap">Allen</hi> 1926,
-                        256–257; and <hi rend="smallcap">Bierlaire</hi> 1985. According to Wacker’s
-                        later letter, the recommended person was a Franciscan monk, see Ep.
+                        xml:id="note.1">Probably Francis Dilft or Frans van der Dilf (†1550). For
+                        more on his life, see <hi rend="smallcap">Allen</hi> 1926, 256–257; and <hi
+                            rend="smallcap">Bierlaire</hi> 1985. According to Wacker’s later letter,
+                        the recommended person was a Franciscan monk, see Ep.
                             475.<ref>olahus.tei.15340328_1</ref></note> subieci, ut nisi se
                     quocumque modo in ius necessitudinis tuae insinuet, vitam sibi omnino iniucundam
                     sit putaturus. Proinde apud me egit omni genere contentionis obtestationisque,

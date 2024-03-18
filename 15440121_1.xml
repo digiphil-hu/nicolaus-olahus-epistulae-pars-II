@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,33 +234,32 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Salutem plurimam et mei commendationem, Magnifice Domine et Amice
-                        Honorandissime!<note type="critic" xml:id="note.1">Kristóf Batthyány (†1571)
-                        was Royal Grand-cup-bearer from 1534 until his death, see <hi
-                            rend="smallcap">Fallenbüchl</hi> 1988, 91.</note></p>
-                <p xml:id="p.2">Ex litteris<note type="critic" xml:id="note.2">We do not know this
-                        letter.</note> Dominationis Vestrae Magnificae mihi redditis intellexi,
-                    quibus in rebus meam desideret operam. Si quae res et occasio occurrerit, in qua
-                    Dominatio Vestra <persName>suae maiestati</persName><note type="critic"
-                        xml:id="note.3">King Ferdinand I.</note> servire possit, sive in legatione
-                    obeunda, sive in aliis negotiis curandis, ego ero apud maiestatem suam regiam,
-                    dominum nostrum clementissimum sollicitator Dominationis Vestrae Magnificae.
-                    Maiestas sua hanc eiusdem oblationem serviendi clementer et audivit et accepit.
-                    Nunc sua maiestas Dominationem Vestram ad conventum Sclavonium
-                        <placeName>Zagrabis</placeName> celebrandum designavit. Quam rogo, velit ibi
-                    bonis meis amicis et promotor esse in decimis meis restituendis, sicuti maiestas
-                    sua mandavit. <choice>
+                        Honorandissime!<note xml:id="note.1">Kristóf Batthyány (†1571) was Royal
+                        Grand-cup-bearer from 1534 until his death, see <hi rend="smallcap"
+                            >Fallenbüchl</hi> 1988, 91.</note></p>
+                <p xml:id="p.2">Ex litteris<note xml:id="note.2">We do not know this letter.</note>
+                    Dominationis Vestrae Magnificae mihi redditis intellexi, quibus in rebus meam
+                    desideret operam. Si quae res et occasio occurrerit, in qua Dominatio Vestra
+                        <persName>suae maiestati</persName><note xml:id="note.3">King Ferdinand
+                        I.</note> servire possit, sive in legatione obeunda, sive in aliis negotiis
+                    curandis, ego ero apud maiestatem suam regiam, dominum nostrum clementissimum
+                    sollicitator Dominationis Vestrae Magnificae. Maiestas sua hanc eiusdem
+                    oblationem serviendi clementer et audivit et accepit. Nunc sua maiestas
+                    Dominationem Vestram ad conventum Sclavonium <placeName>Zagrabis</placeName>
+                    celebrandum designavit. Quam rogo, velit ibi bonis meis amicis et promotor esse
+                    in decimis meis restituendis, sicuti maiestas sua mandavit. <choice>
                         <orig>De litteris</orig>
                         <supplied>Ad litteras</supplied>
-                    </choice> ad <persName>Albertum praepositum</persName><note type="critic"
-                        xml:id="note.4">Albert Peregi.</note> pro restitutione salarii dandas nondum
-                    sua maiestas respondit, ego tamen suam maiestatem sollicitabo. De bonis
-                        <persName>Gywlai</persName><note type="critic" xml:id="note.5">István Gyulai
-                        was <hi rend="italic">viceispán</hi> of Varasd county and a retainer <hi
+                    </choice> ad <persName>Albertum praepositum</persName><note xml:id="note.4"
+                        >Albert Peregi.</note> pro restitutione salarii dandas nondum sua maiestas
+                    respondit, ego tamen suam maiestatem sollicitabo. De bonis
+                        <persName>Gywlai</persName><note xml:id="note.5">István Gyulai was <hi
+                            rend="italic">viceispán</hi> of Varasd county and a retainer <hi
                             rend="italic">(familiaris)</hi> of the Batthyány family. See <hi
                             rend="smallcap">Terbe</hi> 2010, 60, and 66.</note><del corresp="Olahus"
                         >petendis</del> Dominationi Vestrae Magnificae dandis respondit sua
-                    maiestas, quod interea, dum vivit adhuc filius illius unus,<note type="critic"
-                        xml:id="note.6">János Gyulai (†1567), Ferenc Batthyány became his
+                    maiestas, quod interea, dum vivit adhuc filius illius unus,<note xml:id="note.6"
+                        >János Gyulai (†1567), Ferenc Batthyány became his
                         guardian.</note><milestone unit="pb"/> non potest cuipiam conferre bona
                     illius legitime. Advertar igitur Dominationem Vestram de illius vivi adhuc filii
                     vel morte, vel vita, et quamprimum eius exitum significet, maiestatem suam

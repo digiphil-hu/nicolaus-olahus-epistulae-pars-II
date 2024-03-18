@@ -220,7 +220,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
@@ -250,30 +249,29 @@
                 <pb/>
                 <p xml:id="p.1">Unnser freundtlich grueß zuvorann, lieben freundt! </p>
                 <p xml:id="p.2">Demnach wir, auch der herr <persName>haubtman</persName><note
-                        type="critic" xml:id="note.1">Probably Máté Gynn who was Captain of Zvolen
-                        between 1541–1543.</note> euch verganngnen tag aufferlegt die 66 denarii
-                    newen anschnit herauff <placeName>Alltensol</placeName> zu verordnen, darauff
-                    wellen wir euch nit verhallten, wie vor wenig tagen ein bevelh vonn der
-                    unngerischen landtschafft, herrn unnd edlleuten ann alle stuel dis lanndts,
-                    desselben neuen anschnits halben khumen, darinen sy in ro. khu. mt.<note
-                        type="critic" xml:id="note.2">I.e. römische königliche Majestät.</note>
-                    etc., unnsers allergnedigsten herrn namenn bevelhen, daz man von ydem hauß, so
-                    vormalß in dem verganngnen anschnit ain gulden <del corresp="author">gelt</del>
-                        geben,<note type="critic" xml:id="note.3">On this tax and the decisions of
-                        the diet in Banská Bystrica see <hi rend="smallcap">Fraknói</hi> 1875,
-                        312.</note> yetzt widerumb vonn stundann 75 denarii zallt nemen solln, damit
-                    das khriegsvolckh weitter unnderhalten mug werden. Ist derhalben ir khu. mt.
-                    etc., unnser allergnedigsten frawen namen unnser bevelh, dieweil ir die 66
-                    denarii, wie obgemelt, vonn yedem hauß noch nit erlegt habt, das ir annstat
-                    derselbenn 66 denarii die vorgemellten 75 denarii vonn yedem hauß, wie
-                    obgedacht, unverzogenlich einpringen unnd herauff
+                        xml:id="note.1">Probably Máté Gynn who was Captain of Zvolen between
+                        1541–1543.</note> euch verganngnen tag aufferlegt die 66 denarii newen
+                    anschnit herauff <placeName>Alltensol</placeName> zu verordnen, darauff wellen
+                    wir euch nit verhallten, wie vor wenig tagen ein bevelh vonn der unngerischen
+                    landtschafft, herrn unnd edlleuten ann alle stuel dis lanndts, desselben neuen
+                    anschnits halben khumen, darinen sy in ro. khu. mt.<note xml:id="note.2">I.e.
+                        römische königliche Majestät.</note> etc., unnsers allergnedigsten herrn
+                    namenn bevelhen, daz man von ydem hauß, so vormalß in dem verganngnen anschnit
+                    ain gulden <del corresp="author">gelt</del> geben,<note xml:id="note.3">On this
+                        tax and the decisions of the diet in Banská Bystrica see <hi rend="smallcap"
+                            >Fraknói</hi> 1875, 312.</note> yetzt widerumb vonn stundann 75 denarii
+                    zallt nemen solln, damit das khriegsvolckh weitter unnderhalten mug werden. Ist
+                    derhalben ir khu. mt. etc., unnser allergnedigsten frawen namen unnser bevelh,
+                    dieweil ir die 66 denarii, wie obgemelt, vonn yedem hauß noch nit erlegt habt,
+                    das ir annstat derselbenn 66 denarii die vorgemellten 75 denarii vonn yedem
+                    hauß, wie obgedacht, unverzogenlich einpringen unnd herauff
                         <placeName>Alltensol</placeName> verordnen wollt, damit solch gelt sambt
                     anndern zu weitter unnderhalltung des khriegsfolckh gebraucht mug werden. Haben
                     wir euch freundtlicher maynung, euch haben darnach zu richten nit wellen
                     verhallten. </p>
-                <p xml:id="p.3">Datum <placeName>Alltennsol</placeName><note type="critic"
-                        xml:id="note.4">Later handwriting below it: Alltennsol.</note> den 24.
-                    September anno etc. im 42<hi rend="super">ten</hi>. </p>
+                <p xml:id="p.3">Datum <placeName>Alltennsol</placeName><note xml:id="note.4">Later
+                        handwriting below it: Alltennsol.</note> den 24. September anno etc. im
+                        42<hi rend="super">ten</hi>. </p>
                 <p xml:id="p.4">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Nicolaus Olahus custos Albensis
@@ -289,9 +287,9 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.6">Denn ersamenn unnd weysenn herrnn, n.,<note type="critic"
-                        xml:id="note.5">I.e. Name.</note> richter unnd rat der stat Kherppenn,
-                    unsern guetten freunden zw hanndenn. </p>
+                <p xml:id="p.6">Denn ersamenn unnd weysenn herrnn, n.,<note xml:id="note.5">I.e.
+                        Name.</note> richter unnd rat der stat Kherppenn, unsern guetten freunden zw
+                    hanndenn. </p>
             </div>
         </body>
     </text>

@@ -5,9 +5,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="num">617</title>
-                <title key="body" n="617" type="main">Miklós Oláh, Bartholomäus Haller von
-                    Hallerstain and János Dubraviczky to Banská Bystrica Town Council (Kremnica, 22
-                    February 1541)</title>
+                <title key="body" n="617" type="main">Miklós Oláh, Bartholomäus Haller and János
+                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 22 February 1541)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -215,14 +214,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                     <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Bystrica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -231,8 +228,8 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Miklós Oláh, Bartholomäus Haller von Hallerstain and János
-                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 22 February 1541)</head>
+                <head type="title">Miklós Oláh, Bartholomäus Haller and János Dubraviczky to Banská
+                    Bystrica Town Council (Kremnica, 22 February 1541)</head>
                 <floatingText type="regesta">
                     <body>
                         <p xml:id="reg.p.1">They have heard from the Brezno Town Council that
@@ -247,10 +244,10 @@
                 <pb/>
                 <p xml:id="p.1">Namhafft, ersam unnd weiss lieb hern und freundt, unnser freuntlich
                     diennst sein euch zuvor!</p>
-                <p xml:id="p.2">Unns haben die vom <placeName>Briess</placeName><note type="critic"
+                <p xml:id="p.2">Unns haben die vom <placeName>Briess</placeName><note
                         xml:id="note.1">Brezno.</note> clagweiss angepracht, wie das an
-                        <persName>Stentzel Wasserbrot</persName>,<note type="critic" xml:id="note.2"
-                        >Stanislaus Wasserbrot was a commercial agent in Banská Bystrica, see <hi
+                        <persName>Stentzel Wasserbrot</persName>,<note xml:id="note.2">Stanislaus
+                        Wasserbrot was a commercial agent in Banská Bystrica, see <hi
                             rend="smallcap">Lacko</hi> 2019, 387; <hi rend="smallcap">Probszt</hi>
                         1958, 160–161.</note> euer mitwoner, ob vierhundert gulden auff arbait unnd
                     anders seines pergwercks halben hinterstellig schuldig sey, der sie auff
@@ -258,12 +255,11 @@
                     uns gepetten, euch zu schreiben unnd bevelhen, ine one verzug gegen ime
                         <persName>Wasserbrot</persName> zu verhellffen, dieweil dan ir begern an im
                     selbst pillich ist. Von wegen unnser <persName>gnedigsten frauen</persName><note
-                        type="critic" xml:id="note.3">Queen Mary.</note> unnser bevellich fur unns
-                    selbst freuntlich pittendt, ir wolt genanten vom Brieß auff ir ansuchen, soviel
-                    sie recht haben, gegen ime <persName>Wasserbrot</persName> unverzogenlich
-                    verhellffen, daran geschicht ir khu. mt.<note type="critic" xml:id="note.4">I.e.
-                        königliche Majestät.</note> wil und mainung und von rechts wegen
-                    pillich.</p>
+                        xml:id="note.3">Queen Mary.</note> unnser bevellich fur unns selbst
+                    freuntlich pittendt, ir wolt genanten vom Brieß auff ir ansuchen, soviel sie
+                    recht haben, gegen ime <persName>Wasserbrot</persName> unverzogenlich
+                    verhellffen, daran geschicht ir khu. mt.<note xml:id="note.4">I.e. königliche
+                        Majestät.</note> wil und mainung und von rechts wegen pillich.</p>
                 <p xml:id="p.3">Datum <placeName>Cremnitz</placeName> den XXII. tag Februarii anno
                     Domini XXXXI<hi rend="super">o</hi>.</p>
                 <p xml:id="p.4">

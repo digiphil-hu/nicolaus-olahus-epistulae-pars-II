@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -265,12 +263,11 @@
                         <orig>castrensum</orig>
                         <supplied>castrensem</supplied>
                     </choice>, non Agriensem episcopum. Speranda tamen sunt cuncta meliora, si
-                        <placeName>Zolnocchum</placeName><note type="critic" xml:id="note.1"
-                        >Szolnok.</note> tuebimur et expeditionis huius exitus votis respondebit.
-                    Ipse me hic tamdiu continebo, quamdiu tibi aliud de rebus meis videbitur
-                    statuendum. Tametsi libentius eo loci esse vellem, quo tu esses, ut potius tibi,
-                    quam otio meo inservirem. Igitur tuum erit praecipere, meum iussa capessere.
-                    Vale. </p>
+                        <placeName>Zolnocchum</placeName><note xml:id="note.1">Szolnok.</note>
+                    tuebimur et expeditionis huius exitus votis respondebit. Ipse me hic tamdiu
+                    continebo, quamdiu tibi aliud de rebus meis videbitur statuendum. Tametsi
+                    libentius eo loci esse vellem, quo tu esses, ut potius tibi, quam otio meo
+                    inservirem. Igitur tuum erit praecipere, meum iussa capessere. Vale. </p>
                 <p xml:id="p.3">XXVIII. Septembris 1550. <placeName>Agriae</placeName>.</p>
             </div>
         </body>

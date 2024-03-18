@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -249,15 +248,15 @@
                 <p xml:id="p.2">[1.] Quantumvis annisus sum, ut per <placeName>Flandriam</placeName>
                     redirem in <placeName>Austriam</placeName>, impetrare tamen id a caesare non
                     potui, verente ne non tam facile a carissima <persName>coniuge</persName><note
-                        type="critic" xml:id="note.1">Anna Isabella (Elizabeth) Donche.</note>
-                    divellerer. Iussit itaque, per <placeName>Burgundiam</placeName> iter ut
-                    facerem, quod et feci venique incolumis <placeName>Dolam</placeName> oppidum
-                    primarium huius provinciae. Inde recta in <placeName>Germaniam</placeName>
-                    iturus et futurus, ut spero, <placeName>Viennae</placeName> ante Kalendas
-                    Februarias. Id quod et ad reginalem maiestatem et ad te scriptum esse volui.
-                    Quae res suas et ea, quae me scire et pro se facere volet, eo poterit per primum
-                    cursorem transmittere. Ego nihil neque diligentiae, neque industriae sum
-                    obmissurus in rebus omnibus ad bonum finem perducendis. </p>
+                        xml:id="note.1">Anna Isabella (Elizabeth) Donche.</note> divellerer. Iussit
+                    itaque, per <placeName>Burgundiam</placeName> iter ut facerem, quod et feci
+                    venique incolumis <placeName>Dolam</placeName> oppidum primarium huius
+                    provinciae. Inde recta in <placeName>Germaniam</placeName> iturus et futurus, ut
+                    spero, <placeName>Viennae</placeName> ante Kalendas Februarias. Id quod et ad
+                    reginalem maiestatem et ad te scriptum esse volui. Quae res suas et ea, quae me
+                    scire et pro se facere volet, eo poterit per primum cursorem transmittere. Ego
+                    nihil neque diligentiae, neque industriae sum obmissurus in rebus omnibus ad
+                    bonum finem perducendis. </p>
                 <p xml:id="p.3">[2.] De rebus illis maximis, de quibus confabulati sumus, et ad quas
                     et tu et ego tam magno animo eramus, nihil fiet hoc anno, immo contrarium erit,
                     quod sperabamus, scis, quid velim. Plumbei sunt quorum interest. Caesar
@@ -274,14 +273,13 @@
                     temporis. Tantum dic reginali maiestati me locum illum consiliarii ambivisse,
                     non minus, ut rebus maiestatis suae aliquando inservirem, quam ob aliud aliquid.
                     Commenda me plurimum <persName>dominae comiti de Salm</persName>,<note
-                        type="critic" xml:id="note.2">Elisabeth, Countess of
-                        Salm.</note><persName>dominae de Baillieul</persName>,<note type="critic"
-                        xml:id="note.3">Madame Bailleul.</note><persName>dominae
-                        Lucretiae</persName><note type="critic" xml:id="note.4">Lucretia Caballis
-                        (vom Ross).</note> et <persName>dominae de Honastre</persName>.<note
-                        type="critic" xml:id="note.5">Madame de Souvastre.</note> Et scribe, an has
-                    acceperis, nec ne et quando, et quid actum sit in negotio hoc meo. Et bene vale,
-                    Amice ex amino Amate!</p>
+                        xml:id="note.2">Elisabeth, Countess of Salm.</note><persName>dominae de
+                        Baillieul</persName>,<note xml:id="note.3">Madame
+                        Bailleul.</note><persName>dominae Lucretiae</persName><note xml:id="note.4"
+                        >Lucretia Caballis (vom Ross).</note> et <persName>dominae de
+                        Honastre</persName>.<note xml:id="note.5">Madame de Souvastre.</note> Et
+                    scribe, an has acceperis, nec ne et quando, et quid actum sit in negotio hoc
+                    meo. Et bene vale, Amice ex amino Amate!</p>
                 <p xml:id="p.4">Ex <placeName>Dola Sequanorum</placeName> ad flumen
                         <placeName>Alduasdubim</placeName> 17. Ianuarii 1534.</p>
             </div>

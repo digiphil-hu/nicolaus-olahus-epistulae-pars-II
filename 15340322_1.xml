@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,15 +244,15 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad archiepiscopum Lundensem oratorem caesaris. </p>
-                <p xml:id="p.2">[1.] Binas litteras<note type="critic" xml:id="note.1">We do not
-                        know these letters.</note> tuas nudiustertius accepi: alteras, quae XV.
-                    Ianuarii praeteriti, alteras, quae secunda huius mensis datae erant. Utraeque
-                    fuerunt mihi gratissimae, primum, quod intellexi certam
-                        <persName>Cornelii</persName><note type="critic" xml:id="note.2">Cornelis de
+                <p xml:id="p.2">[1.] Binas litteras<note xml:id="note.1">We do not know these
+                        letters.</note> tuas nudiustertius accepi: alteras, quae XV. Ianuarii
+                    praeteriti, alteras, quae secunda huius mensis datae erant. Utraeque fuerunt
+                    mihi gratissimae, primum, quod intellexi certam
+                        <persName>Cornelii</persName><note xml:id="note.2">Cornelis de
                         Schepper.</note> ad <placeName>Constantinopolim</placeName> profectionem,
                     quam antea veluti sub nube intellexeram, deinde quod te memoriam mei habere
-                    cognovi. Nam nullas tuas a septima Februarii<note type="critic" xml:id="note.3"
-                        >According to Ep. 449., Oláh received Weze’s letter on 6
+                    cognovi. Nam nullas tuas a septima Februarii<note xml:id="note.3">According to
+                        Ep. 449., Oláh received Weze’s letter on 6
                             February.<ref>olahus.tei.15340208_1</ref></note> acceperam. Summatim
                     igitur ad eas litteris respondebo. </p>
                 <p xml:id="p.3"><persName>Cornelii</persName> profectionem et reversionem felicem et
@@ -264,52 +262,49 @@
                     />vires illius frangendi, et non dico <placeName>Hungariam</placeName> saltem,
                     sed Europam recuperandi, quam nunc divinitus data fuerit, sed heu quo fata res
                     mortalium trahunt. </p>
-                <p xml:id="p.4">Litteras ad <persName>uxorem</persName><note type="critic"
-                        xml:id="note.4">Anna Isabella (Elizabeth)
-                        Donche.</note><persName>Cornelii</persName> misi per <persName>decanum
-                        Brugensem</persName>,<note type="critic" xml:id="note.5">Mark
+                <p xml:id="p.4">Litteras ad <persName>uxorem</persName><note xml:id="note.4">Anna
+                        Isabella (Elizabeth) Donche.</note><persName>Cornelii</persName> misi per
+                        <persName>decanum Brugensem</persName>,<note xml:id="note.5">Mark
                         Lauwerijns.</note> qui heri casu ad me huc venerat, et reversus est hodie
                     servitor etiam <persName>Cornelii</persName>; hoc die applicuit huc incolumis
                     cum equis, cras vadit <placeName>Brugas</placeName>.
-                        <persName>Fetialis</persName><note type="critic" xml:id="note.6">We do not
-                        know him more closely.</note> Danorum quidam, ut antea scripseram,<note
-                        type="critic" xml:id="note.7">See Ep.
-                        456.<ref>olahus.tei.15340217_2</ref></note> venerat huc per postham cum
-                    litteris solis, cum illo nihil firmum in rebus tuis agi potuit. Nam nihil aliud
-                    fuit, quam cursor cum litteris credentiis. Iam ante illius huc adventum res tua
-                    demandata erat et verbis et scriptis in instructione commissariis, qui
+                        <persName>Fetialis</persName><note xml:id="note.6">We do not know him more
+                        closely.</note> Danorum quidam, ut antea scripseram,<note xml:id="note.7"
+                        >See Ep. 456.<ref>olahus.tei.15340217_2</ref></note> venerat huc per postham
+                    cum litteris solis, cum illo nihil firmum in rebus tuis agi potuit. Nam nihil
+                    aliud fuit, quam cursor cum litteris credentiis. Iam ante illius huc adventum
+                    res tua demandata erat et verbis et scriptis in instructione commissariis, qui
                         <placeName>Hamburgam</placeName> profecti sunt, ut illius curam haberent
-                        sollicitam.<note type="critic" xml:id="note.8">See Ep.
+                        sollicitam.<note xml:id="note.8">See Ep.
                             449.<ref>olahus.tei.15340208_1</ref></note> Cum quibus quid egerim,
                     etiam ipse perscripsi aliis meis. Curabo, ut <persName>reginae</persName>
                     litterae hinc ad eos mittantur, sed arbitror iam id frustra futurum. Nam
-                    exspectamus eorum reditum ad festum Paschae<note type="critic" xml:id="note.9">5
-                        April.</note> vel circiter. </p>
+                    exspectamus eorum reditum ad festum Paschae<note xml:id="note.9">5 April.</note>
+                    vel circiter. </p>
                 <p xml:id="p.5">[2.] De Hungarorum et illius, quem nominas, ad regem<note
-                        type="critic" xml:id="note.10">King Ferdinand I.</note> nostrum adventu
-                    laetor, sed nisi rex aliter stabilierit sua negotia, non multum fundamenti in ea
-                    re pono. Nam fundamento alio non strato quam facile illi veniunt, tam facile
-                    abeunt. Et modica contingente occasione nova rursus tragoedia, novum bellum
-                    orietur, quod quam difficile nostri sustineant, iam a septennio<note
-                        type="critic" xml:id="note.11">Since the battle of Mohács (in 1526).</note>
-                    fere experti sumus. De te nihil dubito, quin quando tempus erit, rem meam
-                    diligenter perficias; quae quanto melius perficientur, tanto ego ero tibi
-                    obligatior. A Turca hoste nihil patior, sed a Turca amico
-                        <persName>Valentino</persName>,<note type="critic" xml:id="note.12">Bálint
+                        xml:id="note.10">King Ferdinand I.</note> nostrum adventu laetor, sed nisi
+                    rex aliter stabilierit sua negotia, non multum fundamenti in ea re pono. Nam
+                    fundamento alio non strato quam facile illi veniunt, tam facile abeunt. Et
+                    modica contingente occasione nova rursus tragoedia, novum bellum orietur, quod
+                    quam difficile nostri sustineant, iam a septennio<note xml:id="note.11">Since
+                        the battle of Mohács (in 1526).</note> fere experti sumus. De te nihil
+                    dubito, quin quando tempus erit, rem meam diligenter perficias; quae quanto
+                    melius perficientur, tanto ego ero tibi obligatior. A Turca hoste nihil patior,
+                    sed a Turca amico <persName>Valentino</persName>,<note xml:id="note.12">Bálint
                         Török.</note> qui mihi hoste Turca est acerbior. Ex adventu
-                        <persName>Griti</persName>,<note type="critic" xml:id="note.13">Lodovico
-                        Gritti.</note> quis sit finis rerum Hungariae secuturus, videbimus, verum
-                    timeo, ne diutius remoretur, quam speramus. Ab initio ego et scripsi et dixi
-                    commercium Turcicum esse formidolosum, nubeculisque simillimum, huc et illuc
-                    vento agitatis, dum hostis eos urget ex <placeName>Persia</placeName>, libenter
-                    quaerunt in Europa pacem, dum illinc nihil timent, non aliud dies et noctes
-                    somniant, quam Hungariam totam et aliam Christianitatem; eorum animus, fides et
-                    promissio pendet ex rerum progressu. Tuum quod dicis esse somnium, mihi non
-                    somnium, sed vaticinium videtur. Nam si etiam victi fuerint, aut saltem attriti,
-                    quid multum de nobis iam extenuatis curant caesare quiescente, et ut res
-                    demonstrat, nihil magis, quam <milestone unit="pb"/>quietem amante. Cogemur nos
-                    facere quod illi volunt, nolimus, velimus. Nam ubi sunt claustra regni, quae
-                    illis vel minimum saltem resistere possent, si erimus eorum votis contrarii, a
+                        <persName>Griti</persName>,<note xml:id="note.13">Lodovico Gritti.</note>
+                    quis sit finis rerum Hungariae secuturus, videbimus, verum timeo, ne diutius
+                    remoretur, quam speramus. Ab initio ego et scripsi et dixi commercium Turcicum
+                    esse formidolosum, nubeculisque simillimum, huc et illuc vento agitatis, dum
+                    hostis eos urget ex <placeName>Persia</placeName>, libenter quaerunt in Europa
+                    pacem, dum illinc nihil timent, non aliud dies et noctes somniant, quam
+                    Hungariam totam et aliam Christianitatem; eorum animus, fides et promissio
+                    pendet ex rerum progressu. Tuum quod dicis esse somnium, mihi non somnium, sed
+                    vaticinium videtur. Nam si etiam victi fuerint, aut saltem attriti, quid multum
+                    de nobis iam extenuatis curant caesare quiescente, et ut res demonstrat, nihil
+                    magis, quam <milestone unit="pb"/>quietem amante. Cogemur nos facere quod illi
+                    volunt, nolimus, velimus. Nam ubi sunt claustra regni, quae illis vel minimum
+                    saltem resistere possent, si erimus eorum votis contrarii, a
                         <placeName>Taurino</placeName> usque <placeName>Strigonium</placeName>, immo
                     usque <placeName>Viennam</placeName> planitiem habent. Tria millia Turcarum,
                     etiam si totam Hungariam nos sine arcibus illis amissis finitimis haberemus, dum
@@ -337,27 +332,26 @@
                         <placeName>Siesnek</placeName> huc venit. Optime <persName>maiestas
                         regia</persName> fecit, quod eum huc visitatum miserit. Nam
                         <persName>caesar</persName> miserat ante quadragesimam <persName>dominum a
-                        Lassaw</persName><note type="critic" xml:id="note.14">Probably John de
-                        Lassaw.</note> visum reginam, qui in die ultima Saturnaliorum hinc reversus
-                    est ad caesarem. <persName>Christierna</persName><note type="critic"
-                        xml:id="note.15">Christina of Denmark.</note> princeps sponsa
-                        <persName>Mediolani ducis</persName>, ut scripsi,<note type="critic"
-                        xml:id="note.16">See Ep. 464.<ref>olahus.tei.15340304_3</ref></note> antea
-                    discessit hinc undecima<note type="critic" xml:id="note.17">In Ep. 464. Oláh
-                        wrote that Christina would leave on 10
-                            April.<ref>olahus.tei.15340304_3</ref></note> huius mensis. Res Anglicae
-                    indies fiunt contra <persName>pontificem</persName><note type="critic"
+                        Lassaw</persName><note xml:id="note.14">Probably John de Lassaw.</note>
+                    visum reginam, qui in die ultima Saturnaliorum hinc reversus est ad caesarem.
+                        <persName>Christierna</persName><note xml:id="note.15">Christina of
+                        Denmark.</note> princeps sponsa <persName>Mediolani ducis</persName>, ut
+                        scripsi,<note xml:id="note.16">See Ep.
+                        464.<ref>olahus.tei.15340304_3</ref></note> antea discessit hinc
+                        undecima<note xml:id="note.17">In Ep. 464. Oláh wrote that Christina would
+                        leave on 10 April.<ref>olahus.tei.15340304_3</ref></note> huius mensis. Res
+                    Anglicae indies fiunt contra <persName>pontificem</persName><note
                         xml:id="note.18">Pope Clement VII.</note> deteriores, vereor, ne superent
                         <persName>Lutherum</persName>. Nam res iam, si verum est quod praedicatur,
                     devenisse dicitur ad demolitionem locorum sacrarum.
-                        <persName>Vespasianus</persName><note type="critic" xml:id="note.19"
-                        >Vespasian of Zara.</note> quid retulerit, fac me certiorem. Non mihi valde
-                    placet, quod sine <persName>Griti</persName> redierit, de quo quid speretur,
-                    cura, ut sciam. Mitto litteras <persName>Stanshardi</persName><note
-                        type="critic" xml:id="note.20">We do not know him more closely, see Ep. 375.
-                        Note 9.<ref>olahus.tei.15330605_4</ref></note> et
-                        <persName>decani</persName><note type="critic" xml:id="note.21">Mark
-                        Lauwerijns.</note> ad <persName>Cornelium</persName>. Vale. </p>
+                        <persName>Vespasianus</persName><note xml:id="note.19">Vespasian of
+                        Zara.</note> quid retulerit, fac me certiorem. Non mihi valde placet, quod
+                    sine <persName>Griti</persName> redierit, de quo quid speretur, cura, ut sciam.
+                    Mitto litteras <persName>Stanshardi</persName><note xml:id="note.20">We do not
+                        know him more closely, see Ep. 375. Note
+                        9.<ref>olahus.tei.15330605_4</ref></note> et
+                        <persName>decani</persName><note xml:id="note.21">Mark Lauwerijns.</note> ad
+                        <persName>Cornelium</persName>. Vale. </p>
                 <p xml:id="p.8"><placeName>Bruxellae</placeName> 22. Martii 1534.</p>
             </div>
         </body>

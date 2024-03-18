@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Révay<idno type="ITIdata">Q53802</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,22 +231,20 @@
                 <pb/>
                 <p xml:id="p.1">Salutem et obsequiorum meorum commendationem, Magnifice Domine mihi
                     Observandissime!</p>
-                <p xml:id="p.2">In negotio domini <persName>Pekry</persName><note type="critic"
-                        xml:id="note.1">Lajos Pekry.</note> quid sua maiestas deliberaverit,
-                    Dominatio Vestra ex suae maiestatis litteris cognoscet. In negotio
-                        <placeName>Holycz</placeName> et aliorum bonorum ad maiestatem regiam
-                    devolutorum ea ipsa hora, qua has expedivi, accepi litteras Dominationis
-                    Vestrae, de quibus nondum maiestati suae loqui potui. Loquar tamen cumprimum
-                    enim erit et opportunitas, ac quicquid responsi habuero, faciam Dominationem
-                    Vestram certiorem. </p>
+                <p xml:id="p.2">In negotio domini <persName>Pekry</persName><note xml:id="note.1"
+                        >Lajos Pekry.</note> quid sua maiestas deliberaverit, Dominatio Vestra ex
+                    suae maiestatis litteris cognoscet. In negotio <placeName>Holycz</placeName> et
+                    aliorum bonorum ad maiestatem regiam devolutorum ea ipsa hora, qua has expedivi,
+                    accepi litteras Dominationis Vestrae, de quibus nondum maiestati suae loqui
+                    potui. Loquar tamen cumprimum enim erit et opportunitas, ac quicquid responsi
+                    habuero, faciam Dominationem Vestram certiorem. </p>
                 <p xml:id="p.3">In dieta Thirnaviensi concludant Dominationis Vestrae omnia ex animi
                         <del corresp="Olahus">rei se</del> regii sententia et quae erunt omnibus
                     nobis utilia atque commoda. Quod frater <persName>praepositi de
                         Capornak</persName> pecunias 40 Florenorum iamdiu debitas ad manus
                     Dominationis Vestrae dederit, bene fecit. Det eas Dominatio Vestra manibus
-                        <persName>Wolffgangi Cremer</persName><note type="critic" xml:id="note.2"
-                        >Wolfgang Kremer.</note> sine mora, ipse illas hic mihi curabit
-                    reddendas.</p>
+                        <persName>Wolffgangi Cremer</persName><note xml:id="note.2">Wolfgang
+                        Kremer.</note> sine mora, ipse illas hic mihi curabit reddendas.</p>
                 <p xml:id="p.4">De conclusione huius dietae nihil adhuc certi scribere possum.
                     Dominatio Vestra feliciter valeat.</p>
                 <p xml:id="p.5">Ex <placeName>Augusta Vindelicorum</placeName> 26. Novembris

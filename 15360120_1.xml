@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>a friend</persName>
                 </correspAction>
             </correspDesc>
@@ -238,8 +236,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Verissimum illud est profecto, quod veteri dici solet proverbio,
                         <quote xml:id="quote.1">fumum domesticum igne esse alieno <del
                             corresp="Olahus">meliorem</del><add corresp="Olahus" type="corr"

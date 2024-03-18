@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,18 +231,17 @@
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Di boni! Quantum fortunae et <persName>caesaris</persName> Dei
                     nostri integritati debemus, qui postquam in Aphricam traiecit, nullo ferme suo
-                    milite desiderato et stagni fauces et Dunetum<note type="critic" xml:id="note.1"
-                        >Instead of Tunetum, i.e. Tunis.</note> ipsum intra paucos dies expugnavit.
-                    Nos certe id est, rem Mediolanensem ita firmavit, ut otiose nunc <quote
-                        xml:id="quote.1">in utramque <pb/> aurem dormiamus.</quote><note
-                        type="quote" xml:id="note.quote.1">Proverb., cf. Erasm. <hi rend="italic"
-                            >Adag</hi>. 719. I, VIII, 19. In utramvis dormire aurem. and Esop. <hi
-                            rend="italic">Fab</hi>. 47. De vulpe, cane et gallo.</note> Quid
-                    quaeris, et res Hungarica in eadem navi, quam primum erit? Fac igitur, bono
-                    animo sis, et meliora in horas sperabis. Maiestatem reginalem bene valere
-                    optamus, et te, quem principes mei salutant, <persName>Scepero</persName><note
-                        type="critic" xml:id="note.2">Cornelis de Schepper.</note> item ceteris
-                    amicis meis me commenda. </p>
+                    milite desiderato et stagni fauces et Dunetum<note xml:id="note.1">Instead of
+                        Tunetum, i.e. Tunis.</note> ipsum intra paucos dies expugnavit. Nos certe id
+                    est, rem Mediolanensem ita firmavit, ut otiose nunc <quote xml:id="quote.1">in
+                        utramque <pb/> aurem dormiamus.</quote><note type="quote"
+                        xml:id="note.quote.1">Proverb., cf. Erasm. <hi rend="italic">Adag</hi>. 719.
+                        I, VIII, 19. In utramvis dormire aurem. and Esop. <hi rend="italic"
+                        >Fab</hi>. 47. De vulpe, cane et gallo.</note> Quid quaeris, et res
+                    Hungarica in eadem navi, quam primum erit? Fac igitur, bono animo sis, et
+                    meliora in horas sperabis. Maiestatem reginalem bene valere optamus, et te, quem
+                    principes mei salutant, <persName>Scepero</persName><note xml:id="note.2"
+                        >Cornelis de Schepper.</note> item ceteris amicis meis me commenda. </p>
                 <p xml:id="p.3">Ex <placeName>Mediolano</placeName> X. Augusti MDXXXV.</p>
             </div>
         </body>

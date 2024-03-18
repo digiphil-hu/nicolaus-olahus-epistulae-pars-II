@@ -104,9 +104,9 @@
                     <p><hi rend="italic">Other contemporary handwriting:</hi> Dy hern commisarii <choice>
                             <orig>erfo<gap extent="1" reason="damage" unit="word"/>dern</orig>
                             <supplied>erfo<corr>r</corr>dern</supplied>
-                        </choice> Pausium auff di Cremnitz des gefangenen Martin Hybolen<note
-                            type="critic">Martin Zybolen was a retainer <hi rend="italic"
-                                >(familiaris)</hi> of Pál Várday, see Ep. 15410217_1.</note> halben. </p>
+                        </choice> Pausium auff di Cremnitz des gefangenen Martin Hybolen<note>Martin
+                            Zybolen was a retainer <hi rend="italic">(familiaris)</hi> of Pál
+                            Várday, see Ep. 15410217_1.</note> halben. </p>
                     <p>Gebrocht von der Cremnitz, adi den 22. Februarii 1541.</p>
                 </note>
             </notesStmt>
@@ -218,14 +218,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                     <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -246,14 +244,14 @@
                 <pb/>
                 <p xml:id="p.1">Namhafft, ersam unnd waiß lieb hern unnd freundt!</p>
                 <p xml:id="p.2">Es sein ettlich sachen fur uns kumen, darzu wir euers
-                    statschreibers, <persName>Anthonii Pausius</persName>,<note type="critic"
-                        xml:id="note.1">In 1538, Anton Paus was preceptor in Banská Bystrica and
-                        taught Ferenc Révay’s sons. From 1540, he became Town notary <hi
-                            rend="italic">(Stadtschreiber)</hi> of Banská Štiavnica, and he was in
-                        the service of the Thurzós and the Fuggers. See <hi rend="smallcap"
-                            >Frankl</hi> 1873, 7–8; <hi rend="smallcap">Lichnerová–Špániová</hi>
-                        2019; and <hi rend="smallcap">Kalus</hi> 1999, 290.</note> notturfftig wern.
-                    Derhalben unnser beger, ir wölt denselben auffs erst zu unns auff die
+                    statschreibers, <persName>Anthonii Pausius</persName>,<note xml:id="note.1">In
+                        1538, Anton Paus was preceptor in Banská Bystrica and taught Ferenc Révay’s
+                        sons. From 1540, he became Town notary <hi rend="italic"
+                            >(Stadtschreiber)</hi> of Banská Štiavnica, and he was in the service of
+                        the Thurzós and the Fuggers. See <hi rend="smallcap">Frankl</hi> 1873, 7–8;
+                            <hi rend="smallcap">Lichnerová–Špániová</hi> 2019; and <hi
+                            rend="smallcap">Kalus</hi> 1999, 290.</note> notturfftig wern. Derhalben
+                    unnser beger, ir wölt denselben auffs erst zu unns auff die
                         <placeName>Cremnitz</placeName> verschaffen. Das wöl wir unns zu bescheen
                     verlassen, unnd thun, was euch lieb ist.</p>
                 <p xml:id="p.3">Datum <placeName>Cremnitz</placeName> den XX. tag Februarii anno

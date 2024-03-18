@@ -215,11 +215,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -252,32 +250,31 @@
                 <p xml:id="p.1">Salutem plurimam et servitiorum meorum commendationem, Magnifice
                     Domine, mihi Observandissime! </p>
                 <p xml:id="p.2">[1.] Gratulatio Dominationis Vestrae Magnificae, quam litterae<note
-                        type="critic" xml:id="note.1">We do not know this letter.</note> ipsius de
-                    meo reditu<note type="critic" xml:id="note.2">Oláh returned from the Low
-                        Countries in 1539. This is his first known letter after his return
-                        home.</note> et, ut scribit, felici statu declarant, tam mihi grata fuit,
-                    quam <del corresp="editor">quod</del> gratissima. Vicissim calamus et litterae
-                    explicare vix possunt, quam gratuler ego quoque de Dominationis Vestrae
-                    Magnificae et felici et tranquillo statu, de quo sermonibus hic et iam antea
-                    litteris amicorum in externis provinciis factus fueram certior. Conservet Deus
-                    Dominationem Vestram Magnificam et dominam <persName>coniugem</persName><note
-                        type="critic" xml:id="note.3">Orsolya Kanizsai.</note> suam carissimam in
-                    omni et animae et corporis felicitate quamdiutissime. Quod scribit se eundem
-                    esse meum fratrem et amicum, qui prius fuerat, et deinceps quoque talem futurum,
-                    de hoc sincero et amantissimo Dominationis Vestrae Magnificae in me animo habeo
-                    eidem gratias cumulatas, et ubi meae erit facultatis, etiam re ipsa referam.
-                    Nihil dubito, quin eum in me Dominatio Vestra Magnifica, dum vivimus, praestet
-                    semper animum, quem scribit. Nam neque ego causam ullam ab adulescentia nostra
-                    praestiti, cur aliud de ea existimarem, neque puto Dominationem Vestram
-                    Magnificam ex eorum esse numero, qui crescente facultate et opibus mores suos
-                    mutare consuevere et divitias praeferre verae amicitiae. Quod qui faciunt, quam
-                    fluxis haereant rebus, non scripta tantum maiorum, sed etiam ipsa sanae mentis
-                    ratio commonstrat. De me vicissim Dominatio Vestra Magnifica certo sibi
-                    persuadeat, nulla in re Olahi sui animum non modo in Dominationem Vestram
-                    Magnificam iam beneficio Dei in ea, quam virtute consecuta est conditione
-                    constitutam, sed etiam in pauperes veteres nostros amicos immutatum esse
-                    mutatumque unquam iri, sed ubi fieri possit me cupere, Dominationi Vestrae
-                    Magnificae libenter inservire. </p>
+                        xml:id="note.1">We do not know this letter.</note> ipsius de meo reditu<note
+                        xml:id="note.2">Oláh returned from the Low Countries in 1539. This is his
+                        first known letter after his return home.</note> et, ut scribit, felici
+                    statu declarant, tam mihi grata fuit, quam <del corresp="editor">quod</del>
+                    gratissima. Vicissim calamus et litterae explicare vix possunt, quam gratuler
+                    ego quoque de Dominationis Vestrae Magnificae et felici et tranquillo statu, de
+                    quo sermonibus hic et iam antea litteris amicorum in externis provinciis factus
+                    fueram certior. Conservet Deus Dominationem Vestram Magnificam et dominam
+                        <persName>coniugem</persName><note xml:id="note.3">Orsolya Kanizsai.</note>
+                    suam carissimam in omni et animae et corporis felicitate quamdiutissime. Quod
+                    scribit se eundem esse meum fratrem et amicum, qui prius fuerat, et deinceps
+                    quoque talem futurum, de hoc sincero et amantissimo Dominationis Vestrae
+                    Magnificae in me animo habeo eidem gratias cumulatas, et ubi meae erit
+                    facultatis, etiam re ipsa referam. Nihil dubito, quin eum in me Dominatio Vestra
+                    Magnifica, dum vivimus, praestet semper animum, quem scribit. Nam neque ego
+                    causam ullam ab adulescentia nostra praestiti, cur aliud de ea existimarem,
+                    neque puto Dominationem Vestram Magnificam ex eorum esse numero, qui crescente
+                    facultate et opibus mores suos mutare consuevere et divitias praeferre verae
+                    amicitiae. Quod qui faciunt, quam fluxis haereant rebus, non scripta tantum
+                    maiorum, sed etiam ipsa sanae mentis ratio commonstrat. De me vicissim Dominatio
+                    Vestra Magnifica certo sibi persuadeat, nulla in re Olahi sui animum non modo in
+                    Dominationem Vestram Magnificam iam beneficio Dei in ea, quam virtute consecuta
+                    est conditione constitutam, sed etiam in pauperes veteres nostros amicos
+                    immutatum esse mutatumque unquam iri, sed ubi fieri possit me cupere,
+                    Dominationi Vestrae Magnificae libenter inservire. </p>
                 <p xml:id="p.3">[2.] Verum, ut ad reditum meum, unde digressus eram, revertar: redii
                     quidem </p>
                 <pb/>
@@ -299,18 +296,17 @@
                     emittant. Haec <del corresp="Olahus">ne</del> delectare quempiam possunt? Credo
                     Deum nobis iratum merito nos his incommodis rebus punire. </p>
                 <p xml:id="p.5">[3.] Non parvo ducebar desiderio dominum Stephanum nostrum
-                        <persName>Brodericum</persName><note type="critic" xml:id="note.4">István
+                        <persName>Brodericum</persName><note xml:id="note.4">István
                         Brodarics.</note> videndi propter veterem nostram notitiam fraternam et
-                    aetatem ipsius provectam.<note type="critic" xml:id="note.5">Brodarics died at
-                        approximately the age of 60.</note> Hanc quoque Deus facultatem mihi
-                    praeripuit, nam septima huius mensis fato ille concessisse dicitur. Scripserat.
-                    Hanc quoque Deus facultatem mihi praeripuit, nam septima huius mensis fato ille
-                    concessisse dicitur. Scripserat<note type="critic" xml:id="note.6">We do not
-                        know this letter.</note> superioribus hebdomadis se me velle invisere. Nam
-                    ego propter serenissimae <persName>reginae</persName> meae negotia hinc hactenus
-                    abesse non potui, sed significaverat se venire vel ad
-                        <placeName>Saag</placeName>, vel etiam ad civitates montanas, si quando eo
-                    proficiscerer. Ego vero responderam me <choice>
+                    aetatem ipsius provectam.<note xml:id="note.5">Brodarics died at approximately
+                        the age of 60.</note> Hanc quoque Deus facultatem mihi praeripuit, nam
+                    septima huius mensis fato ille concessisse dicitur. Scripserat. Hanc quoque Deus
+                    facultatem mihi praeripuit, nam septima huius mensis fato ille concessisse
+                    dicitur. Scripserat<note xml:id="note.6">We do not know this letter.</note>
+                    superioribus hebdomadis se me velle invisere. Nam ego propter serenissimae
+                        <persName>reginae</persName> meae negotia hinc hactenus abesse non potui,
+                    sed significaverat se venire vel ad <placeName>Saag</placeName>, vel etiam ad
+                    civitates montanas, si quando eo proficiscerer. Ego vero responderam me <choice>
                         <orig>domui</orig>
                         <supplied>domi</supplied>
                     </choice> suae eum invisurum pauco post tempore <del corresp="Olahus"
@@ -326,21 +322,21 @@
                         <orig>su<gap extent="1" reason="damage" unit="word"/></orig>
                         <supplied>su<corr>a</corr></supplied>
                     </choice> potentia aliter res nostras vertat. </p>
-                <p xml:id="p.7">[4.] Dominae <persName>Lucretiae</persName><note type="critic"
-                        xml:id="note.7">Lucretia Caballis (vom Ross).</note> hoc triduo
-                        litteras<note type="critic" xml:id="note.8">We do not know this
-                        letter.</note> ipsas mittendas curabo. Si scriptae sunt de marito aliquo
-                    illi curando, scire cuperem.<note type="critic" xml:id="note.9">Lucretia
-                        Caballis was Oláh’s secret love, their extramarital child was the little
-                        Lucretia who occurs in Oláh’s letters as well as in his last will as the
-                        daughter of Tamás Oláh. While Oláh returned to Hungary, Lucretia Caballis
-                        married Count of Nogarola (Leonhard Noguerol), see <hi rend="smallcap"
-                            >Fazekas</hi> 2002, 228; <hi rend="smallcap">Kerkhoff</hi> 2008, 60–61,
-                            <hi rend="smallcap">Heiss</hi> 1971, 422, and ÖStA HKA Ungarische
-                        Gedenkbücher Bd. 383. 209v–210r.</note> Nam mea quoque refert id scire, qui,
-                    ut iocum seriis addam, uxorem circumspiciam etc. Me et servitia mea Dominationi
-                    Vestrae commendo. Et cum domina mihi observandissima, domina
-                        <persName>coniuge</persName><del corresp="Olahus">sana</del> carissima</p>
+                <p xml:id="p.7">[4.] Dominae <persName>Lucretiae</persName><note xml:id="note.7"
+                        >Lucretia Caballis (vom Ross).</note> hoc triduo litteras<note
+                        xml:id="note.8">We do not know this letter.</note> ipsas mittendas curabo.
+                    Si scriptae sunt de marito aliquo illi curando, scire cuperem.<note
+                        xml:id="note.9">Lucretia Caballis was Oláh’s secret love, their extramarital
+                        child was the little Lucretia who occurs in Oláh’s letters as well as in his
+                        last will as the daughter of Tamás Oláh. While Oláh returned to Hungary,
+                        Lucretia Caballis married Count of Nogarola (Leonhard Noguerol), see <hi
+                            rend="smallcap">Fazekas</hi> 2002, 228; <hi rend="smallcap"
+                            >Kerkhoff</hi> 2008, 60–61, <hi rend="smallcap">Heiss</hi> 1971, 422,
+                        and ÖStA HKA Ungarische Gedenkbücher Bd. 383. 209v–210r.</note> Nam mea
+                    quoque refert id scire, qui, ut iocum seriis addam, uxorem circumspiciam etc. Me
+                    et servitia mea Dominationi Vestrae commendo. Et cum domina mihi
+                    observandissima, domina <persName>coniuge</persName><del corresp="Olahus"
+                        >sana</del> carissima</p>
                 <quote xml:id="quote.1">
                     <lg xml:id="lg.1">
                         <l xml:id="l.1">Vivite felices, quibus est fortuna peracta</l>
@@ -357,8 +353,8 @@
                 </p>
                 <p xml:id="p.11"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Epitaphium
-                    domini Vaciensis]<?oxy_custom_end?><note type="critic" xml:id="note.10">On the
-                        letter edition, as well as the edition of the poem, see <hi rend="smallcap"
+                    domini Vaciensis]<?oxy_custom_end?><note xml:id="note.10">On the letter edition,
+                        as well as the edition of the poem, see <hi rend="smallcap"
                             >Fógel–Juhász</hi> 1934, 27; <hi rend="smallcap">Neagu</hi> 2003,
                         333.</note></p>
                 <pb/>

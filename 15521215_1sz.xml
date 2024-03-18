@@ -197,11 +197,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -227,24 +225,23 @@
                             Romanorum Hungariae, Bohemiae etc. rex.</lem>
                         <rdg wit="#II" xml:id="rdg.1">Ferdinandus.</rdg>
                     </app> Reverendissime in Christo Pater, Devote Fidelis nobis Dilecte!</p>
-                <p xml:id="p.2">Accepimus litteras<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">Accepimus litteras<note xml:id="note.1">Ep.
                             835.<ref>olahus.tei.15521212_1</ref></note> Devotionis Tuae e
                         <placeName>Glocknicz</placeName> XII. praesentis mensis ad nos datas, in
                     quibus petit a nobis certior fieri an recta ad nos proficisci, vel an magis
                     adhuc se vento perflandare alicubi exponere debeat, quam in horto Viennensi et
                     itinere perflata fuerit. Nos itaque non dubitamus, quin Devotio Tua iam
-                    litteras, quas ad eandem nudiustertius dedimus,<note type="critic"
-                        xml:id="note.2">Ep. 836.<ref>olahus.tei.15521213_1</ref></note> acceperit,
-                    in eis eidem clementer commisimus, quod si absque valetudinis suae incommodo
-                    fieri posset, se statim in viam daret, et ad nos proficisceretur. Ita tamen
-                    quando in oppidum nostrum <placeName>Pruckam</placeName><note type="critic"
-                        xml:id="note.3">Bruck an der Mur.</note> venerit, quod istic subsisteret,
-                    donec per litteras de adventu suo admoniti ordinem et modum, quo ad nos venire
-                    debebit, ei rescriberemus, vel nuntiaremus. Quare eandem nunc hortamur et
-                    clementer requirimus, ut ad mentem ac voluntatem nostram, quam ex eisdem
-                    litteris nostris intelligere potuit, profectionem seu adventum ad nos suum
-                    prosequatur. In eo namque factura est Devotio Tua benegratam voluntatem
-                    nostram.</p>
+                    litteras, quas ad eandem nudiustertius dedimus,<note xml:id="note.2">Ep.
+                            836.<ref>olahus.tei.15521213_1</ref></note> acceperit, in eis eidem
+                    clementer commisimus, quod si absque valetudinis suae incommodo fieri posset, se
+                    statim in viam daret, et ad nos proficisceretur. Ita tamen quando in oppidum
+                    nostrum <placeName>Pruckam</placeName><note xml:id="note.3">Bruck an der
+                        Mur.</note> venerit, quod istic subsisteret, donec per litteras de adventu
+                    suo admoniti ordinem et modum, quo ad nos venire debebit, ei rescriberemus, vel
+                    nuntiaremus. Quare eandem nunc hortamur et clementer requirimus, ut ad mentem ac
+                    voluntatem nostram, quam ex eisdem litteris nostris intelligere potuit,
+                    profectionem seu adventum ad nos suum prosequatur. In eo namque factura est
+                    Devotio Tua benegratam voluntatem nostram.</p>
                 <p xml:id="p.3">Datum <app xml:id="app.2">
                         <lem wit="#CE #I" xml:id="lem.2">in oppido nostro
                                 <placeName>Grätz</placeName> die XV. mensis Decembris anno Domini

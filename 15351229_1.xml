@@ -186,7 +186,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -233,33 +232,32 @@
                 <p xml:id="p.2">[1.] <choice>
                         <orig>Mittimns</orig>
                         <supplied>Mittimus</supplied>
-                    </choice> tibi, Eruditissime Vir, declamationem<note type="critic"
-                        xml:id="note.1"><hi rend="italic">Declamatio de bello Turcis
-                        ferendo.</hi></note> nostram, nuper in quodlibeticis quaestionibus habitam,
-                    quam pro tua censura vel edemus, vel supprimemus. Hactenus enim multae multorum
-                    amicorum adhortationis id egerunt, ut incoeperim addubitare, essetne res praelo
-                    committenda, an non esset? Ceterum, ut hoc vel illud eligam, non aliunde futurum
-                    est, quam ex tua sententia, quo autem tibi acrioris censurae necessitatem
-                    adderem, nulli alii, quam tibi hanc declamationem dedicandam statui, atque id
-                    multis mihi rationibus faciundum videtur. Primum, quod <milestone unit="pb"/>ut
-                    es utriusque linguae eruditissimus, et in quolibet genere dicendi multae
-                    experientiae, facile nostra vitia et senties et castigabis. Deinde ut
-                    historiarum es peritissimus multisque in rebus versatus, quae ad Turcica et
-                    Christiana bella attinent, statim deprehendes, sicubi nobis a veritate historiae
-                    aberratum fuerit. Elegimus te igitur non in patronum solum, sed et in censorem,
-                    ut primum detersis maculis pura oratio exeat, deinde ut nominis tui amplitudine
-                    protegatur. </p>
+                    </choice> tibi, Eruditissime Vir, declamationem<note xml:id="note.1"><hi
+                            rend="italic">Declamatio de bello Turcis ferendo.</hi></note> nostram,
+                    nuper in quodlibeticis quaestionibus habitam, quam pro tua censura vel edemus,
+                    vel supprimemus. Hactenus enim multae multorum amicorum adhortationis id
+                    egerunt, ut incoeperim addubitare, essetne res praelo committenda, an non esset?
+                    Ceterum, ut hoc vel illud eligam, non aliunde futurum est, quam ex tua
+                    sententia, quo autem tibi acrioris censurae necessitatem adderem, nulli alii,
+                    quam tibi hanc declamationem dedicandam statui, atque id multis mihi rationibus
+                    faciundum videtur. Primum, quod <milestone unit="pb"/>ut es utriusque linguae
+                    eruditissimus, et in quolibet genere dicendi multae experientiae, facile nostra
+                    vitia et senties et castigabis. Deinde ut historiarum es peritissimus multisque
+                    in rebus versatus, quae ad Turcica et Christiana bella attinent, statim
+                    deprehendes, sicubi nobis a veritate historiae aberratum fuerit. Elegimus te
+                    igitur non in patronum solum, sed et in censorem, ut primum detersis maculis
+                    pura oratio exeat, deinde ut nominis tui amplitudine protegatur. </p>
                 <p xml:id="p.3">[2.] Cur autem hoc genus argumenti inter tot quaestiones
                     quodlibeticas potissimum arriserit, causam dicam. Maximo mihi semper dolori fuit
                     Hungaricam gentem, quae hactenus Turcis felicissime obstitit, ubi et victoria
                     Turcarum, quae alias nationes celerrimo cursu pervasit, non ad decennium, sed
                     ultra saeculum haesit, iam desiisse esse propugnaculum Christianae fidei.<note
-                        type="critic" xml:id="note.2">On this topos, see <hi rend="smallcap"
-                            >Srodecki</hi> 2015.</note> Optavi igitur miris desideriis aliunde
-                    repensari, quod inde nobis damni factum esset, ac Christianae ditionis pomeria
-                    latius proferri. Quod quia caesar felicissime coepit et felicissima coepta
-                    persecuturus <milestone unit="pb"/>videtur, non potui mihi temperare, quin vota
-                    mea in litteras effunderem, et declamatione ostenderem, quam sancta sint in <choice>
+                        xml:id="note.2">On this topos, see <hi rend="smallcap">Srodecki</hi>
+                        2015.</note> Optavi igitur miris desideriis aliunde repensari, quod inde
+                    nobis damni factum esset, ac Christianae ditionis pomeria latius proferri. Quod
+                    quia caesar felicissime coepit et felicissima coepta persecuturus <milestone
+                        unit="pb"/>videtur, non potui mihi temperare, quin vota mea in litteras
+                    effunderem, et declamatione ostenderem, quam sancta sint in <choice>
                         <orig>hosteis</orig>
                         <supplied>hostes</supplied>
                     </choice> fidei bella, et quanta opportunitas eo invitaret, neque me indecenter

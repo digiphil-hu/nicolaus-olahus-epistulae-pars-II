@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Albert Peregi<idno type="ITIdata">Q470221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,19 +239,19 @@
                 <p xml:id="p.1">Ad Albertum praepositum Quinqueecclesiensem. </p>
                 <p xml:id="p.2">Nunquam cogitassem, et ne in animum quidem meum venire unquam
                     potuisset te tam tui fieri posse dissimilem. Multae tuae ad me frequentes
-                    venerunt litterae,<note type="critic" xml:id="note.1">We do not know these
-                        letters.</note> quibus semper te eum esse declarasti, et me ita de te
-                    persuasum esse voluisti, qui in nulla unquam fortunae varietate meae amicitiae
-                    multis in rebus fidelissime <add corresp="Olahus" type="insert">erga te</add>
-                    publicae oblivisceris, nunquamque committeres, ut te in me ingratum etiam in re
-                    quapiam minima esse cognoscerem. Vide, quam <del corresp="Olahus">nec</del> et
-                    tua haec mihi litteris saepe facta promissio et mea de te concepta spes me
-                    fefellerit, posteaquam statu eo, quem nunc habes, auctus es adeo <del
-                        corresp="Olahus">te</del> in rebus omnibus, quae ad colendam sanctam inter
-                    nos amicitiam pertinent, frigidiorem solito te ostendis, ut non modo te gratum
-                    in me virum praestes, sed ne ad litteras quidem meas frequentes, quod etiam
-                    hostes vitare maxime solent, respondere cogites. Sis tu tui ipsius iudex, cogita
-                    tu te, an hoc tuum factum officiis verae conveniat amicitiae. </p>
+                    venerunt litterae,<note xml:id="note.1">We do not know these letters.</note>
+                    quibus semper te eum esse declarasti, et me ita de te persuasum esse voluisti,
+                    qui in nulla unquam fortunae varietate meae amicitiae multis in rebus
+                    fidelissime <add corresp="Olahus" type="insert">erga te</add> publicae
+                    oblivisceris, nunquamque committeres, ut te in me ingratum etiam in re quapiam
+                    minima esse cognoscerem. Vide, quam <del corresp="Olahus">nec</del> et tua haec
+                    mihi litteris saepe facta promissio et mea de te concepta spes me fefellerit,
+                    posteaquam statu eo, quem nunc habes, auctus es adeo <del corresp="Olahus"
+                        >te</del> in rebus omnibus, quae ad colendam sanctam inter nos amicitiam
+                    pertinent, frigidiorem solito te ostendis, ut non modo te gratum in me virum
+                    praestes, sed ne ad litteras quidem meas frequentes, quod etiam hostes vitare
+                    maxime solent, respondere cogites. Sis tu tui ipsius iudex, cogita tu te, an hoc
+                    tuum factum officiis verae conveniat amicitiae. </p>
                 <pb/>
                 <p xml:id="p.3">Nunc mihi maxime esset opus tua opera, nunc mihi si quando unquam
                     alias inservire posses, cum res Hungaricae <del corresp="Olahus">nunc</del>

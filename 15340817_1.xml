@@ -4,9 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="num">733</title>
-                <title key="body" n="733" type="main">Christoph Linck to Miklós Oláh (Vienna, 9
-                    [July?] 1549)</title>
+                <title type="num">502</title>
+                <title key="body" n="502" type="main">Miklós Oláh to János Szalay (Ghent, 17 August
+                    1534)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -66,10 +66,10 @@
                             International<ref type="url"
                             >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
                 </availability>
-                <idno type="PID">olahus.tei.15490709_1</idno>
-                <idno type="ITIdata">Q473377</idno>
+                <idno type="PID">olahus.tei.15340811_1</idno>
+                <idno type="ITIdata">Q473163</idno>
                 <ref
-                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15490709_1.xml"
+                    target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15340811_1.xml"
                     >The TEI XML transcript of the letter in the DigiPhil GitHub repository.</ref>
             </publicationStmt>
             <seriesStmt>
@@ -94,14 +94,9 @@
             </seriesStmt>
             <notesStmt>
                 <note type="critIntro">
-                    <p><hi rend="italic">Notes:</hi> Autograph letter with signature and seal. The
-                        dating is problematic, but because the outer side says that he received it
-                        in Prague, based on Oláh’s itinerary, the letter was written between
-                        February and December. </p>
+                    <p><hi rend="italic">Notes:</hi> Copy with Oláh’s emendations. </p>
                 </note>
-                <note type="outer_side">
-                    <p><hi rend="bold">On the outer side:</hi> Prag. </p>
-                </note>
+                <note type="publication"><hi rend="smallcap">Ipolyi</hi> 1875, 520.</note>
             </notesStmt>
             <sourceDesc>
                 <msDesc>
@@ -109,7 +104,7 @@
                         <country>Hungary</country>
                         <settlement>Budapest</settlement>
                         <institution>MNL OL</institution>
-                        <repository>P 184 – I. – 1. – No. 26.</repository>
+                        <repository>P 108 Rep. 71. Fasc. 23.</repository>
                         <idno/>
                         <msName/>
                     </msIdentifier>
@@ -119,7 +114,7 @@
                             <objectDesc>
                                 <supportDesc>
                                     <extent>
-                                        <measure type="quantity" unit="pagination"/>
+                                        <measure type="quantity" unit="pagination">552.</measure>
                                         <dimensions unit="mm">
                                             <height/>
                                             <width/>
@@ -206,15 +201,15 @@
                 </keywords>
             </textClass>
             <creation>
-                <date when="1549-07-09">9 [July?] 1549</date>
-                <placeName>Vienna<idno type="ITIdata">Q99</idno></placeName>
+                <date when="1534-08-17">17 August 1534</date>
+                <placeName>Ghent <idno type="ITIdata">Q11613</idno></placeName>
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Christoph Linck</persName>
+                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
+                    <persName>János Szalay</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -222,46 +217,44 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Christoph Linck to Miklós Oláh (Vienna, 9 [July?] 1549)</head>
+                <head type="title">Miklós Oláh to János Szalay (Ghent, 11 August 1534)</head>
                 <floatingText type="regesta">
                     <body>
-                        <p xml:id="reg.p.1">Linck has received the money from Oláh, and his masters
-                            have to pay interest to Oláh. However, he will be the one to pay the
-                            interest rather than his masters, which should be set at three percent
-                            for six months. He will send him a statement and a debenture bond about
-                            it, and he will also draw up a debenture bond for Sophie Etisperin. He
-                            will send news about himself within a fortnight.</p>
+                        <p xml:id="reg.p.1">Nothing has happened in the last three years about which
+                            he could have written to Szalay. He sends his apologies if he is
+                            mistaken, in any case his attitude to Szalay has not changed: he hopes
+                            that both Szalay, István Majláth, and the rest of their friends are
+                            well. He is sending his regards to the man who has returned home to Buda
+                            from Rome, and he warns Szalay to be careful with the Turks, he should
+                            mind his head.</p>
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Hochwirdiger furst, gnediger herr! </p>
-                <p xml:id="p.2">Demnach ich gelt hab von wegen eur furstlichen gnaden empfangen, das
-                    ligt hiebei meiner herrn gellt, so seind meine herrn eurn f. g.<note
-                        xml:id="note.1">I.e. fürstlichen Gnade.</note> ain interesse auch schuldig.
-                    Wem e. g.<note xml:id="note.2">I.e. eure Gnade.</note> dasselb gelt wirt
-                    verordnen, so will ich es im erlegen, dann meine herrn wollen kain zins darvon
-                    geben. Will mir aber e. g. solch gelt, waz es sein wirt, lassen auf ain halb jar
-                    umb 3 f. aufs hundert zinsung, so will ich e. g. ain auszug und schultbrief
-                    schicken, gleichwol wurd ich den schultbrief stellen auf fraw <persName>Sophia
-                        Etisperin</persName>.<note xml:id="note.3">We do not know her more
-                        closely.</note> Mein <persName>schweger</persName>, dann ich prauch meiner
-                    herrn halb mein namen nitt geen. Las mich e. g. in 14 tag <gap extent="1"
-                        reason="illegible" unit="word"/> ain antwort wissen, mich hab darnach zu
-                    richten. </p>
-                <p xml:id="p.3">Datum <placeName>Wienn</placeName> 9. <gap extent="1"
-                        reason="illegible" unit="word"/> anno 49<hi rend="super">ten</hi>.</p>
-                <p xml:id="p.4">E. f. g.<note xml:id="note.4">I.e. Eure fürstliche Gnade.</note>
-                    williger </p>
-                <p xml:id="p.5">
-                    <seg type="signature">Cristoff Linckh.</seg>
-                </p>
-                <pb/>
-            </div>
-            <div style="handwritten" type="verso" xml:id="d.2">
-                <head>On the outer side:</head>
-                <p xml:id="p.6">Dem hochwirdigenn herrn und fursten, herrn Nicolaus Ollahus,
-                    bischoven zw Erlach, cannzler der cronn Hungern etc., meinem gnedigen fursten
-                    und herrnn! </p>
+                <p xml:id="p.1">Nicolai Olai ad Ioannem Zalay comitem Posoniensem. </p>
+                <p xml:id="p.2">Annis his tribus nihil fuit, de quo hic ad te scribere
+                        potuissem.<note xml:id="note.1">The last time Oláh wrote a letter to Szalay
+                        that we know of was on 10 December, 1530. See Ep.
+                            128.<ref>/o:olahus.tei.15301210_2</ref></note> Si quid in hoc erravi,
+                    ignosce. Nam etiam tacens eo in te animo fui, quo antea semper. Cuperem et te et
+                    alios amicos nostros bene valere, et maxime <persName>Maylathum</persName>.<note
+                        xml:id="note.2">István Majláth.</note><del corresp="Olahus"
+                        >hominem</del><add corresp="Olahus" type="corr">Hominem</add><note
+                        xml:id="note.3">Probably István Brodarics. He worked in Rome as a diplomat
+                        between 1522 and 1525, then he returned home and settled down in Buda. His
+                        homecoming was connected to his appointment to Royal Chancellor, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 52–70.</note> illum nostrum, qui cum
+                    monacho olim ex <placeName>Urbe</placeName><placeName>Budam</placeName> venerat,
+                    saluta meo nomine et roga dicque ei, ut caveat sibi ab <choice>
+                        <orig>albocupuciatis</orig>
+                        <supplied>albocapuciatis</supplied>
+                    </choice>.<note xml:id="note.4">I.e. Turks, see <hi rend="smallcap">Kasza</hi>
+                        2012, 478. In October 1534, Brodarics traveled to Oradea to continue the
+                        peace talks between King Ferdinand I and King John I, see <hi
+                            rend="smallcap">Kasza</hi> 2015, 96–103; and <hi rend="smallcap"
+                            >Kasza</hi> 2012, 431–432.</note> Nihil carius sibi esse ducat capite
+                    suo, quod mihi quoque nisi carum esset, haec non subirem. De aliis meis scribam
+                    postea, cum tempus dabitur. Vale et me habe commendatum. </p>
+                <p xml:id="p.3"><placeName>Gandavi</placeName> 17. Augusti 1534.</p>
             </div>
         </body>
     </text>

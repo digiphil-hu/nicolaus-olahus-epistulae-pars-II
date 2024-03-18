@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,15 +245,14 @@
                 <p xml:id="p.2">[1.] Ornatissime et Humanissime Patrone! <choice>
                         <orig>Ipsi</orig>
                         <supplied>Ipsis</supplied>
-                    </choice> ferme Kalendis Iulii <persName>iuvenem</persName><note type="critic"
-                        xml:id="note.1">Rutger Pathius.</note> hinc quendam cum litteris meis<note
-                        type="critic" xml:id="note.2">Ep.
-                        587.<ref>olahus.tei.15370630_1</ref></note> ad te emandavi, habebat idem
-                    litteras ad dominum <persName>Franciscum a Burgundia</persName>,<note
-                        type="critic" xml:id="note.3">François de Bourgogne.</note> emiseram autem
-                    ad hoc ad dominum <persName>Ruttgerum</persName><note type="critic"
-                        xml:id="note.4">Rutger Ressen.</note> (nam tu illius nomine petieras), ut
-                    cum eo assidue Latine loqueretur. </p>
+                    </choice> ferme Kalendis Iulii <persName>iuvenem</persName><note xml:id="note.1"
+                        >Rutger Pathius.</note> hinc quendam cum litteris meis<note xml:id="note.2"
+                        >Ep. 587.<ref>olahus.tei.15370630_1</ref></note> ad te emandavi, habebat
+                    idem litteras ad dominum <persName>Franciscum a Burgundia</persName>,<note
+                        xml:id="note.3">François de Bourgogne.</note> emiseram autem ad hoc ad
+                    dominum <persName>Ruttgerum</persName><note xml:id="note.4">Rutger
+                        Ressen.</note> (nam tu illius nomine petieras), ut cum eo assidue Latine
+                    loqueretur. </p>
                 <pb/>
                 <p xml:id="p.3">Is nusquam apparet, nec post illius abitum quicquam de ipso
                     audivimus: si est apud dominum <persName>Rutgerum</persName>, castigabis illum
@@ -268,28 +265,26 @@
                     significes. Libere apud te ago, sed me docuit tua humanitas, ut fastigium
                     dignitatis tuae non respicerem, si quod hic est de bello, velim mihi significes. </p>
                 <p xml:id="p.4">[2.] Scripsi, quod de tuo <hi rend="italic">Athilo</hi> sentirem
-                    idque in eis litteris,<note type="critic" xml:id="note.5">Ep.
+                    idque in eis litteris,<note xml:id="note.5">Ep.
                             587.<ref>olahus.tei.15370630_1</ref></note> quas hic
-                        <persName>iuvenis</persName><note type="critic" xml:id="note.6">Rutger
-                        Pathius.</note> ad te pertulit (ut spero), quae si cum iuvene perierint,
-                    denuo scribam, sed vero iudicio et ex ipsa animi sententia, ut etiam tunc feci
-                    semperque facturus sum. Tu, mi Patrone, rectissime valeas, et id agas, quod
-                    Musae, quibus pro tanta eruditione plurimum debes, a te summo iure postularint,
-                    hoc est, ut in ipsarum studiis mira, ut soles, felicitate verseres, procul a
-                    barbaris castris et sanguinariis et impiis; id mihi eo visum, quia timebam, ne
-                    vis animi et spiritus ille Hungaricus te ad aliena bella protruderet, magisque
-                    timerem, nisi te aula et regina detinerent, id si unquam futurum est, quod
-                    obominor, tum te Hungaria in armis videat ad patriae recuperationem. Habemus
-                    Hungariam, modo liber<note type="critic" xml:id="note.7">Sc. <hi rend="italic"
-                            >Hungaria</hi>.</note> in publicum exeat, in perpetuum ab oblivionis
-                    iniuria vindicatam. Si quid unquam Mars ex studiis tuis post hac occupabit,
-                    sperabimus tuo vel consilio, vel armis futurum, ut aliquo modo <milestone
-                        unit="pb"/>Christianitatis damnum resarcias. Campus ille tui
-                        <persName>Huniadis</persName><note type="critic" xml:id="note.8">John
-                        Hunyadi or his son, King Mathias I. On their relatives, see <hi
-                            rend="smallcap">Nagy</hi> 2010; <hi rend="smallcap">Nagy</hi> 2021; and
-                            <hi rend="smallcap"
-                        >Szilágyi–Nagy</hi><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        <persName>iuvenis</persName><note xml:id="note.6">Rutger Pathius.</note> ad
+                    te pertulit (ut spero), quae si cum iuvene perierint, denuo scribam, sed vero
+                    iudicio et ex ipsa animi sententia, ut etiam tunc feci semperque facturus sum.
+                    Tu, mi Patrone, rectissime valeas, et id agas, quod Musae, quibus pro tanta
+                    eruditione plurimum debes, a te summo iure postularint, hoc est, ut in ipsarum
+                    studiis mira, ut soles, felicitate verseres, procul a barbaris castris et
+                    sanguinariis et impiis; id mihi eo visum, quia timebam, ne vis animi et spiritus
+                    ille Hungaricus te ad aliena bella protruderet, magisque timerem, nisi te aula
+                    et regina detinerent, id si unquam futurum est, quod obominor, tum te Hungaria
+                    in armis videat ad patriae recuperationem. Habemus Hungariam, modo liber<note
+                        xml:id="note.7">Sc. <hi rend="italic">Hungaria</hi>.</note> in publicum
+                    exeat, in perpetuum ab oblivionis iniuria vindicatam. Si quid unquam Mars ex
+                    studiis tuis post hac occupabit, sperabimus tuo vel consilio, vel armis futurum,
+                    ut aliquo modo <milestone unit="pb"/>Christianitatis damnum resarcias. Campus
+                    ille tui <persName>Huniadis</persName><note xml:id="note.8">John Hunyadi or his
+                        son, King Mathias I. On their relatives, see <hi rend="smallcap">Nagy</hi>
+                        2010; <hi rend="smallcap">Nagy</hi> 2021; and <hi rend="smallcap"
+                            >Szilágyi–Nagy</hi><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
                         2022<?oxy_custom_end?>.</note><choice>
                         <orig>vittoriis</orig>
                         <supplied>victoriis</supplied>

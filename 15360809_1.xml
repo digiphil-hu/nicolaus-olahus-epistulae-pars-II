@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Daniel Mauch<idno type="ITIdata">Q470236</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -232,20 +230,20 @@
                 <p xml:id="p.1">Idem Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Reverende et Magnifice Domine, Domine et Patrone Honorande. Res apud
                     nos novae et rarae et nullae sunt, nisi ista sola vera nova, quod
-                    reverendissimus <persName>dominus</persName><note type="critic" xml:id="note.1"
-                        >Lorenzo Campeggio.</note> meus redibit <placeName>Bruxellam</placeName>.
-                    Ego autem eo, quo abfui tempore, mihi non defui. Nam praesidio et auspicio
-                    reverendissimi domini mei <placeName>Papiae</placeName>,<note type="critic"
-                        xml:id="note.2">Pavia.</note> ubi <persName>Alciatus</persName><note
-                        type="critic" xml:id="note.3">Andrea Alciati (1492–1550) was an interpreter
-                        of Roman law. He studied in Milan and Pavia, where he also taught until
-                        1537, when war broke out between Emperor Charles V and King Francis I, see
-                            <hi rend="smallcap">Callahan</hi> 1985.</note> ille publice profitetur
-                    iuris utriusque doctor, cum summa felicitate factus sum, omnia enim prospere et
-                    facillime successerunt. Dominus <persName>Alciatus</persName> eruditissimam de
-                    me orationem habuit et magnam familiaritatem mecum contraxit, et multi alii viri
-                    praestantissimi et eruditissimi, quorum nomina et humanitatem Reverendissimae
-                    Dominationi Vestrae praesens indicabo; cui me humillime commendo. </p>
+                    reverendissimus <persName>dominus</persName><note xml:id="note.1">Lorenzo
+                        Campeggio.</note> meus redibit <placeName>Bruxellam</placeName>. Ego autem
+                    eo, quo abfui tempore, mihi non defui. Nam praesidio et auspicio reverendissimi
+                    domini mei <placeName>Papiae</placeName>,<note xml:id="note.2">Pavia.</note> ubi
+                        <persName>Alciatus</persName><note xml:id="note.3">Andrea Alciati
+                        (1492–1550) was an interpreter of Roman law. He studied in Milan and Pavia,
+                        where he also taught until 1537, when war broke out between Emperor Charles
+                        V and King Francis I, see <hi rend="smallcap">Callahan</hi> 1985.</note>
+                    ille publice profitetur iuris utriusque doctor, cum summa felicitate factus sum,
+                    omnia enim prospere et facillime successerunt. Dominus
+                        <persName>Alciatus</persName> eruditissimam de me orationem habuit et magnam
+                    familiaritatem mecum contraxit, et multi alii viri praestantissimi et
+                    eruditissimi, quorum nomina et humanitatem Reverendissimae Dominationi Vestrae
+                    praesens indicabo; cui me humillime commendo. </p>
                 <p xml:id="p.3">Ex <placeName>Brixina</placeName> VIIII. Augusti MDXXXVI.</p>
             </div>
         </body>

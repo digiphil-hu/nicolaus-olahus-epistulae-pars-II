@@ -205,12 +205,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ulrich von Eytzing</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johann Spölin</persName>
                 </correspAction>
             </correspDesc>
@@ -245,24 +243,23 @@
                     44 jars gestellt auf sibendenn Septembris berurts jars zuekhomenn, darinnen ir
                     in namenn unnd von wegenn der durchleuchtigisten, großmechtigisten fursstin unnd
                     frawenn <del corresp="editor">frawenn</del><persName>Maria</persName><note
-                        type="critic" xml:id="note.1">Queen Mary.</note> etc. khünigin, unser
-                    allergnedigistenn frawenn etlicher puncten, so demselben eurm missive
-                    eingeleibt, euch bericht zu uberschickhen unnd zukhomen zu lassenn begerent.
-                    Daruf ir unns zu vernemenn, das weillundt <persName>kaiser
-                        Maximilian</persName><note type="critic" xml:id="note.2">Emperor Maximilian
-                        I.</note> hochloblicher gedechtnus unnd <persName>kunig
-                        Ladislaws</persName><note type="critic" xml:id="note.3">King Vladislaus
-                        II.</note> ainen contract unnd vertrag<note type="critic" xml:id="note.4">On
-                        the contract in 1515, see <hi rend="smallcap">Dybaś–Tringli</hi>
-                        2019.</note> die heirat unnd vermahlung zwischenn dem haus Osterreich unnd
-                    der cron Hungern, auch ander vill hochwichtig vertragsarticl belangenndt
-                    gegenainander aufgericht und beschlossenn, <del corresp="author"
-                        >welchei</del><add corresp="author" type="corr">welchen</add> weillanndt
-                        <persName>khunig Ludwig</persName>,<note type="critic" xml:id="note.5">King
-                        Louis II.</note> ermelltes Ladislaws eeleiplicher sün unnd nach seinem, des
-                    Ladislaws, abganng <del corresp="author">regierder</del><add corresp="author"
-                        type="corr">regierender</add> herr und kunig, in der cron zu
-                        <placeName>Weisenpurg</placeName><note type="critic" xml:id="note.6"
+                        xml:id="note.1">Queen Mary.</note> etc. khünigin, unser allergnedigistenn
+                    frawenn etlicher puncten, so demselben eurm missive eingeleibt, euch bericht zu
+                    uberschickhen unnd zukhomen zu lassenn begerent. Daruf ir unns zu vernemenn, das
+                    weillundt <persName>kaiser Maximilian</persName><note xml:id="note.2">Emperor
+                        Maximilian I.</note> hochloblicher gedechtnus unnd <persName>kunig
+                        Ladislaws</persName><note xml:id="note.3">King Vladislaus II.</note> ainen
+                    contract unnd vertrag<note xml:id="note.4">On the contract in 1515, see <hi
+                            rend="smallcap">Dybaś–Tringli</hi> 2019.</note> die heirat unnd
+                    vermahlung zwischenn dem haus Osterreich unnd der cron Hungern, auch ander vill
+                    hochwichtig vertragsarticl belangenndt gegenainander aufgericht und
+                    beschlossenn, <del corresp="author">welchei</del><add corresp="author"
+                        type="corr">welchen</add> weillanndt <persName>khunig
+                        Ludwig</persName>,<note xml:id="note.5">King Louis II.</note> ermelltes
+                    Ladislaws eeleiplicher sün unnd nach seinem, des Ladislaws, abganng <del
+                        corresp="author">regierder</del><add corresp="author" type="corr"
+                        >regierender</add> herr und kunig, in der cron zu
+                        <placeName>Weisenpurg</placeName><note xml:id="note.6"
                         >Székesfehérvár.</note> mit wissen und willenn der ganzen cron Hungern
                     confirmirt unnd bestat, volgennds unnser allergnedigister herr, jetz romischer
                     unnd regierender kunig etc., in antrettung des reich Hungern obberurten contract
@@ -285,7 +282,7 @@
                 <p xml:id="p.3">Datum <placeName>Wien</placeName> den aidlifften Septembris anno
                     etc. im XLIIII<hi rend="super">ten</hi>. </p>
                 <p xml:id="p.4">
-                    <seg type="signature">Nicolaus Olahus episcopus Zagabaviensis<note type="critic"
+                    <seg type="signature">Nicolaus Olahus episcopus Zagabaviensis<note
                             xml:id="note.7">I.e. Zagrabiensis.</note> etc. manu propria</seg>
                 </p>
                 <p xml:id="p.5">
@@ -294,7 +291,7 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>Probably on the outer side:</head>
-                <p xml:id="p.6">Dem edlenn unnd hochgelerten hern Johann Spolin,<note type="critic"
+                <p xml:id="p.6">Dem edlenn unnd hochgelerten hern Johann Spolin,<note
                         xml:id="note.8">Johann Spölin.</note> beider rechtenn doctor, kunigin Maria
                     etc. unnser gnedigistenn frawen rath, unserm sondernn gueten frundt. </p>
             </div>

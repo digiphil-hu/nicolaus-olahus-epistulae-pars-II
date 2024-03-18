@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Trnava Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -233,29 +231,28 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici Honorandi, salutem!</p>
-                <p xml:id="p.2">Accepimus litteras vestras,<note type="critic" xml:id="note.1">We do
-                        not know this letter.</note> quibus scripsistis nobis circumspectum
-                        <persName>Antonium de Bosis</persName><note type="critic" xml:id="note.2"
-                        >Anthonius de Bossis or Bozis was a merchant in Güssing, see <hi
-                            rend="smallcap">Prickler</hi> 1978; and <hi rend="smallcap"
-                            >Prickler</hi> 1972.</note> mandatum regiae maiestatis, domini nostri
-                    clementissimi contra dominam<note type="critic" xml:id="note.3">Her name was
+                <p xml:id="p.2">Accepimus litteras vestras,<note xml:id="note.1">We do not know this
+                        letter.</note> quibus scripsistis nobis circumspectum <persName>Antonium de
+                        Bosis</persName><note xml:id="note.2">Anthonius de Bossis or Bozis was a
+                        merchant in Güssing, see <hi rend="smallcap">Prickler</hi> 1978; and <hi
+                            rend="smallcap">Prickler</hi> 1972.</note> mandatum regiae maiestatis,
+                    domini nostri clementissimi contra dominam<note xml:id="note.3">Her name was
                         Ilona Arbanáz, and she was a Greek goldsmith’s daughter, according to Kálmán
                         Révész. For more on Bebek’s wedding, see <hi rend="smallcap">Csepregi</hi>
                         2011.</note> relictam quondam <persName>Emerici Bebek</persName>,<note
-                        type="critic" xml:id="note.4">Imre III Bebek.</note> nunc consortem concivis
-                    vestri, providi <persName>Ambrosii Gobel</persName><note type="critic"
-                        xml:id="note.5">We do not know him more closely.</note> pro parte debiti ad
-                    vos pertulisse, vosque commissionem suae maiestatis exsequi volentes
-                    comperissetis dominam ipsam habere suae maiestatis gratiam, ne quis creditorum
-                    ipsam iure convenire, vel cum liberis suis prius quam ad legitimam et adultam
-                    aetatem pervenirent, litigare posset, et propterea consuluistis nos, quid inter
-                    haec vobis esset faciendum. Nostrum consilium est vobis priorem gratiam suae
-                    maiestatis praefatae dominae datam esse observandam usque ad praefinitum illi
-                    tempus, quod ubi completum fuerit, licebit vobis mandatum quoque suae maiestatis
-                    ipsi <persName>Antonio Bosis</persName> datum exsequi. Haec paucis ad litteras
-                    vestras respondimus, ex quibus intellegeretis, quid in hoc negotio vos facere
-                    oporteat. Et bene valete.</p>
+                        xml:id="note.4">Imre III Bebek.</note> nunc consortem concivis vestri,
+                    providi <persName>Ambrosii Gobel</persName><note xml:id="note.5">We do not know
+                        him more closely.</note> pro parte debiti ad vos pertulisse, vosque
+                    commissionem suae maiestatis exsequi volentes comperissetis dominam ipsam habere
+                    suae maiestatis gratiam, ne quis creditorum ipsam iure convenire, vel cum
+                    liberis suis prius quam ad legitimam et adultam aetatem pervenirent, litigare
+                    posset, et propterea consuluistis nos, quid inter haec vobis esset faciendum.
+                    Nostrum consilium est vobis priorem gratiam suae maiestatis praefatae dominae
+                    datam esse observandam usque ad praefinitum illi tempus, quod ubi completum
+                    fuerit, licebit vobis mandatum quoque suae maiestatis ipsi <persName>Antonio
+                        Bosis</persName> datum exsequi. Haec paucis ad litteras vestras respondimus,
+                    ex quibus intellegeretis, quid in hoc negotio vos facere oporteat. Et bene
+                    valete.</p>
                 <p xml:id="p.3">Datum <placeName>Viennae</placeName> decima septima Ianuarii
                     1546.</p>
                 <p xml:id="p.4">

@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,29 +243,27 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine, Patrone Observandissime,
                     servitiorum meorum commendationem!</p>
                 <p xml:id="p.2">[1.] Tametsi non dubitem omnia Dominationi Vestrae Magnificae per
-                    dominos Fucaros<note type="critic" xml:id="note.1">Fuggers.</note> et alios suos
-                    amicos significari, quaecumque vel in Germania vel aliis externis provinciis
-                    agantur, volui tamen eidem ego quoque significare, quae amici mei mecum
-                    communicant, quae Dominatio Vestra Magnifica ex scriptis praesentibus annexis
-                    intelliget. Hinc nihil est aliud, quod scribam, praeter furnariorum et
-                    carbonariorum strepitum et <choice>
+                    dominos Fucaros<note xml:id="note.1">Fuggers.</note> et alios suos amicos
+                    significari, quaecumque vel in Germania vel aliis externis provinciis agantur,
+                    volui tamen eidem ego quoque significare, quae amici mei mecum communicant, quae
+                    Dominatio Vestra Magnifica ex scriptis praesentibus annexis intelliget. Hinc
+                    nihil est aliud, quod scribam, praeter furnariorum et carbonariorum strepitum et <choice>
                         <orig>sordaciem</orig>
                         <supplied>sordiciem</supplied>
                     </choice>. </p>
                 <p xml:id="p.3">Novit optime Dominatio Vestra Magnifica episcopatum
-                    Transsylvaniensem vacare,<note type="critic" xml:id="note.2">The bishopric of
-                        Transylvania had been vacant since 1540 or 1542. Neither Gerendi’s (†1540),
-                        not Statileo’s (†1542) appointment was confirmed by the Pope.</note> sed
-                    quid vacare dicam, cum regina Ioannis regis <persName>vidua</persName><note
-                        type="critic" xml:id="note.3">Queen Isabella Jagiellon.</note> eum <del
-                        corresp="Olahus">possideret</del><add corresp="Olahus" type="corr"
-                        >possideat</add>. Id quoquo non ignorat, quo modo <persName>maiestas
-                        regia</persName>, dominus meus clementissimus de mei promotione spem <add
-                        corresp="Olahus" type="insert">saepius</add> dederit non modo medio
-                        <persName>serenissimae reginae</persName>, dominae meae clementissimae, sed
-                    etiam per Dominationem Vestram Magnificam et litteris suis, ut opinor, ternis,
-                    quibus non tantum certificat, verum etiam promittit in verbo suo regio de primo
-                    episcopatu vacaturo mihi conferendo.</p>
+                    Transsylvaniensem vacare,<note xml:id="note.2">The bishopric of Transylvania had
+                        been vacant since 1540 or 1542. Neither Gerendi’s (†1540), not Statileo’s
+                        (†1542) appointment was confirmed by the Pope.</note> sed quid vacare dicam,
+                    cum regina Ioannis regis <persName>vidua</persName><note xml:id="note.3">Queen
+                        Isabella Jagiellon.</note> eum <del corresp="Olahus">possideret</del><add
+                        corresp="Olahus" type="corr">possideat</add>. Id quoquo non ignorat, quo
+                    modo <persName>maiestas regia</persName>, dominus meus clementissimus de mei
+                    promotione spem <add corresp="Olahus" type="insert">saepius</add> dederit non
+                    modo medio <persName>serenissimae reginae</persName>, dominae meae
+                    clementissimae, sed etiam per Dominationem Vestram Magnificam et litteris suis,
+                    ut opinor, ternis, quibus non tantum certificat, verum etiam promittit in verbo
+                    suo regio de primo episcopatu vacaturo mihi conferendo.</p>
                 <p xml:id="p.4">Amici mei, qui mihi benevolunt, et verbis et litteris crebris me
                     sollicitant, ne mihi deessem. Ego etsi sciam, quam difficulter polleant
                     principes nostri, quorum animum longa <add corresp="Olahus" type="insert"
@@ -278,7 +274,7 @@
                     stimulantibus aut mihi omnino deesse videar, rogo Dominationem Vestram
                     Magnificam, ut si putaverit spem aliquam hac in re esse, dignetur apud
                         <milestone unit="pb"/>maiestatem regiam vel per litteras, vel medio domini
-                        <persName>Ioanis Hoffman</persName><note type="critic" xml:id="note.4">Hans
+                        <persName>Ioanis Hoffman</persName><note xml:id="note.4">Hans
                         Hofmann.</note><add corresp="Olahus" type="insert">vel alterius amici
                         sui</add> partes suas, ut maiestas sua de praedicto beneficio mihi
                     provideat. Non cupio aliud a Dominatione Vestra Magnifica in mei promotionem
@@ -287,28 +283,27 @@
                     Quod si fiet, arbitrabor et meis rebus satis augmenti accessisse, et mihi vicem
                     repensam. </p>
                 <p xml:id="p.5">[2.] Non ignoro <persName>Fratrem Georgium</persName><note
-                        type="critic" xml:id="note.5">George Martinuzzi or Juraj Utješenović
-                        (1482/1484?–1551) was loyal to King John I. He was a Pauline monk from 1512
-                        and had a brilliant career: he was Treasurer and later Bishop of Oradea, the
-                        he became Count of Bihar county in 1534, Governor in 1541, and finally
-                        Cardinal and Archbishop of Esztergom in 1551. For more on him, see <hi
-                            rend="smallcap">Oborni</hi> 2017.</note> huc tendere, ut episcopatum
-                    praefato vendat, quod alioqui gratis <del corresp="Olahus">facere</del> dare
-                    deberet, si quae est in eo pietatis religio, et ipsum
-                        <persName>Seredi</persName><note type="critic" xml:id="note.6">Gáspár
-                        Serédi.</note> esse hac in re intermissum, <persName>Urbanumque
-                        Bathyani</persName>,<note type="critic" xml:id="note.7">Orbán
-                        Batthyány.</note> si recte rem intelligo, competitorem esse. Attamen credo
-                    iam longa rerum et hominum novorum experientia maiestatem regiam satis edoctam
-                    esse, quid facere debeat et quam non fuerit hactenus, nec suae maiestati, nec
-                    regno suo tutum et commodum, novos homines fidelibus perpetuis praeponere. Qua
-                    ex re futurum esse arbitror, ut sua maiestas cautius sit deinceps in promovendis
-                    hominibus novis actura. Dignetur igitur Dominatio Vestra Magnifica pro meis
-                    servitiis in mei favorem apud maiestatem suam rem experiri, quae si aliter non
-                    successerit, velit addere illam artem, qua sapienter usa olim fuerat, dum
-                    oppugnatorem haberet <persName>Thomam</persName><note type="critic"
-                        xml:id="note.8">Tamás Szalaházy.</note> quondam episcopum in episcopatu
-                    Nitriensi etc. Non deerunt fortasse amici, qui etiam me nolente subvenient. </p>
+                        xml:id="note.5">George Martinuzzi or Juraj Utješenović (1482/1484?–1551) was
+                        loyal to King John I. He was a Pauline monk from 1512 and had a brilliant
+                        career: he was Treasurer and later Bishop of Oradea, the he became Count of
+                        Bihar county in 1534, Governor in 1541, and finally Cardinal and Archbishop
+                        of Esztergom in 1551. For more on him, see <hi rend="smallcap">Oborni</hi>
+                        2017.</note> huc tendere, ut episcopatum praefato vendat, quod alioqui
+                    gratis <del corresp="Olahus">facere</del> dare deberet, si quae est in eo
+                    pietatis religio, et ipsum <persName>Seredi</persName><note xml:id="note.6"
+                        >Gáspár Serédi.</note> esse hac in re intermissum, <persName>Urbanumque
+                        Bathyani</persName>,<note xml:id="note.7">Orbán Batthyány.</note> si recte
+                    rem intelligo, competitorem esse. Attamen credo iam longa rerum et hominum
+                    novorum experientia maiestatem regiam satis edoctam esse, quid facere debeat et
+                    quam non fuerit hactenus, nec suae maiestati, nec regno suo tutum et commodum,
+                    novos homines fidelibus perpetuis praeponere. Qua ex re futurum esse arbitror,
+                    ut sua maiestas cautius sit deinceps in promovendis hominibus novis actura.
+                    Dignetur igitur Dominatio Vestra Magnifica pro meis servitiis in mei favorem
+                    apud maiestatem suam rem experiri, quae si aliter non successerit, velit addere
+                    illam artem, qua sapienter usa olim fuerat, dum oppugnatorem haberet
+                        <persName>Thomam</persName><note xml:id="note.8">Tamás Szalaházy.</note>
+                    quondam episcopum in episcopatu Nitriensi etc. Non deerunt fortasse amici, qui
+                    etiam me nolente subvenient. </p>
                 <p xml:id="p.6">Quod si nullam spem nunc fore, vel iactam iam alam esse Dominatio
                     Vestra Magnifica putaverit, dignetur mihi significare, rogo, ne inscius rei
                     delirare, et frustra lapidem Sisyphi volvere videar. Quod mecum aliquando

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Bystrica Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -241,12 +239,12 @@
                 <p xml:id="p.1">Generosi et Magnifici Domini et Amici nobis Observandi, salutem et
                     obsequiorum nostrorum commendationem!</p>
                 <p xml:id="p.2">[1.] Redditae sunt nobis litterae Dominationum Vestrarum,<note
-                        type="critic" xml:id="note.1">We do not know this letter.</note> quibus
-                    causam civium civitatis Novosoliensis<note type="critic" xml:id="note.2">Banská
-                        Bystrica.</note> apud <persName>regiam maiestatem</persName>, dominum
-                    nostrum clementissimum, quominus tricesimae regiae in ea civitate exigerentur,
-                    promovendam nobis commendarunt. Nos quidem eam curam tam ipsius civitatis
-                    Novozoliensis, quam etiam aliarum montanarum libenter apud suam <choice>
+                        xml:id="note.1">We do not know this letter.</note> quibus causam civium
+                    civitatis Novosoliensis<note xml:id="note.2">Banská Bystrica.</note> apud
+                        <persName>regiam maiestatem</persName>, dominum nostrum clementissimum,
+                    quominus tricesimae regiae in ea civitate exigerentur, promovendam nobis
+                    commendarunt. Nos quidem eam curam tam ipsius civitatis Novozoliensis, quam
+                    etiam aliarum montanarum libenter apud suam <choice>
                         <orig>maiestatis</orig>
                         <supplied>maiestatem</supplied>
                     </choice> tractandam, ut alias semper, ita etiam nunc suscepimus, veremur tamen
@@ -262,20 +260,19 @@
                     hoc suae serenitati respondit, locum tamen exactionis tricesimarum non mutavit,
                     nec arbitramur esse mutaturam.</p>
                 <p xml:id="p.4">Et autem Dominationes Vestrae allegant articulos super tricesimis in
-                    proximo conventu Posoniensi<note type="critic" xml:id="note.3">For the <hi
-                            rend="italic">articuli</hi> mentioned here, see <hi rend="smallcap"
-                            >Fraknói</hi> 1876, 33–34.</note> editos, articuli illi nihil faciunt
-                    pro civibus ipsis Novizoliensibus, immo videntur contra eos esse. Nam regia
-                    maiestas tricesimas, quas <persName>Podmanitzky</persName><note type="critic"
-                        xml:id="note.4">Probably Ráfael Podmaniczky (†1558), who was <hi
-                            rend="italic">ispán</hi> of Trencsén county. More on him, see <hi
-                            rend="smallcap">Lukinich</hi> 1941, 5–88. In 1545, there was
-                        disagreement between the Podmaniczky and Kosztka families regarding the
-                        thirtieth in Žilina, see <hi rend="smallcap">Lukinich</hi> 1941, LXXXIV; and
-                            <hi rend="smallcap">Fraknói</hi> 1876, 59.</note> et alii quidam nunc
-                    tenent, nondum liberavit; quas si liberaverit et camerae suae Hungaricae
-                    applicaverit, faciet, quod aequum et iustum erit <del corresp="scriba"
-                        >proximis</del>.</p>
+                    proximo conventu Posoniensi<note xml:id="note.3">For the <hi rend="italic"
+                            >articuli</hi> mentioned here, see <hi rend="smallcap">Fraknói</hi>
+                        1876, 33–34.</note> editos, articuli illi nihil faciunt pro civibus ipsis
+                    Novizoliensibus, immo videntur contra eos esse. Nam regia maiestas tricesimas,
+                    quas <persName>Podmanitzky</persName><note xml:id="note.4">Probably Ráfael
+                        Podmaniczky (†1558), who was <hi rend="italic">ispán</hi> of Trencsén
+                        county. More on him, see <hi rend="smallcap">Lukinich</hi> 1941, 5–88. In
+                        1545, there was disagreement between the Podmaniczky and Kosztka families
+                        regarding the thirtieth in Žilina, see <hi rend="smallcap">Lukinich</hi>
+                        1941, LXXXIV; and <hi rend="smallcap">Fraknói</hi> 1876, 59.</note> et alii
+                    quidam nunc tenent, nondum liberavit; quas si liberaverit et camerae suae
+                    Hungaricae applicaverit, faciet, quod aequum et iustum erit <del
+                        corresp="scriba">proximis</del>.</p>
                 <p xml:id="p.5">Proximis diebus misimus ad Dominationes Vestras litteras regiae
                     maiestatis, quas ad eas pervenisse non dubitamus. Dominationes Vestrae curent ea
                     omnia, quae in illis expressae sunt, observare et observari facere, quas bene

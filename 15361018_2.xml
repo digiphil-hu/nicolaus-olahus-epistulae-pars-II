@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,8 +246,8 @@
                 <pb/>
                 <p xml:id="p.1">Petrus Nannius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">[1.] Nescio an debeam excusare, quod tam diu libros tuos<note
-                        type="critic" xml:id="note.1">It is not clear which work this is. It could
-                        be <hi rend="italic">Hungaria</hi>, which according to Oláh’s comment, was
+                        xml:id="note.1">It is not clear which work this is. It could be <hi
+                            rend="italic">Hungaria</hi>, which according to Oláh’s comment, was
                         completed on 16 May, 1536, see <hi rend="smallcap">Eperjessy–Juhász</hi>
                         1938, V. But <hi rend="italic">Hungaria</hi> does not contain either
                         excerpts of Erasmus or Greek sentences (see below). It was probably a
@@ -264,13 +262,13 @@
                         <persName>Erasmo</persName> translata sunt, recte enim proverbio dicitur
                         <quote xml:id="quote.1">δὶς καὶ τρὶς τὰ καλὰ.</quote><note type="quote"
                         xml:id="note.quote.1">Erasm. <hi rend="italic">Adag.</hi> 149. I,II,49. Bis
-                        ac ter, quod pulchrum est.</note><note type="critic" xml:id="note.2">‘what
-                        is beautiful is beautiful second and third time around’.</note> Certe in
-                    usum studiosorum valde fuerit, unius rei plures esse interpretationes, ita enim
-                    facilius verum intellectum percipiunt, praesertim si tales sint interpretes, qui
-                    bona fide Graeca reddunt, quod de te et Erasmo sanctissimo iuramento non
-                    reformidem asseverare. Legi <del corresp="Olahus">et</del><add corresp="Olahus"
-                        type="corr">ac</add> relegi, non minori <choice>
+                        ac ter, quod pulchrum est.</note><note xml:id="note.2">‘what is beautiful is
+                        beautiful second and third time around’.</note> Certe in usum studiosorum
+                    valde fuerit, unius rei plures esse interpretationes, ita enim facilius verum
+                    intellectum percipiunt, praesertim si tales sint interpretes, qui bona fide
+                    Graeca reddunt, quod de te et Erasmo sanctissimo iuramento non reformidem
+                    asseverare. Legi <del corresp="Olahus">et</del><add corresp="Olahus" type="corr"
+                        >ac</add> relegi, non minori <choice>
                         <orig>diligentiam</orig>
                         <supplied>diligentia</supplied>
                     </choice>, quam voluptate tua ista scripta. Ad singulas sententias et Graeca
@@ -297,18 +295,18 @@
                     iam praelo committenda. Nunc autem, cur partus tuos tam diu </p>
                 <pb/>
                 <p xml:id="p.5">retinuerim a suo parente, causam dicam: <del corresp="Olahus"
-                        >non</del> diu illi apud <persName>Goclenium</persName><note type="critic"
-                        xml:id="note.3">Conrad Wackers.</note> haeserunt, antequam in meas manus
-                    pervenirent. Non ita diu apud me fuerant, cum subito in patriam revocatus sum
-                    gravi aegrotatione matris meae, ibi aliquot hebdomadas consumpsi, dum redeo
-                    tantopere morbum oculorum, quo iam antea laborare coeperam, exagitavi, ut in
-                    grave periculum caecitatis devenirem, a quo malo nondum revalui, nam, ut vides,
-                    amanuensi opera ad te scribo, quod mihi tristissimum est. In rebus autem tuis
-                    alienis oculis uti nolui, vel quia illis diffidebam, vel quia mihi non
-                    satisfaciebant, aegre autem oculi mei tantam usuram lucis concessere, quantam in
-                    libellis tuis absumpsi. Nunc periculum caecitatis abest, usus autem oculorum tam
-                    tener, ut lectionem, nisi brevissimam, non sustineant. Vale, Doctissime ac
-                    Humanissime Olahe, et ut alii scholas, ita tu aulam <choice>
+                        >non</del> diu illi apud <persName>Goclenium</persName><note xml:id="note.3"
+                        >Conrad Wackers.</note> haeserunt, antequam in meas manus pervenirent. Non
+                    ita diu apud me fuerant, cum subito in patriam revocatus sum gravi aegrotatione
+                    matris meae, ibi aliquot hebdomadas consumpsi, dum redeo tantopere morbum
+                    oculorum, quo iam antea laborare coeperam, exagitavi, ut in grave periculum
+                    caecitatis devenirem, a quo malo nondum revalui, nam, ut vides, amanuensi opera
+                    ad te scribo, quod mihi tristissimum est. In rebus autem tuis alienis oculis uti
+                    nolui, vel quia illis diffidebam, vel quia mihi non satisfaciebant, aegre autem
+                    oculi mei tantam usuram lucis concessere, quantam in libellis tuis absumpsi.
+                    Nunc periculum caecitatis abest, usus autem oculorum tam tener, ut lectionem,
+                    nisi brevissimam, non sustineant. Vale, Doctissime ac Humanissime Olahe, et ut
+                    alii scholas, ita tu aulam <choice>
                         <orig>erudissimis</orig>
                         <supplied>eruditissimis</supplied>
                     </choice> litteris exorna. </p>

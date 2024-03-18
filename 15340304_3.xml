@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,23 +229,22 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Ioannem archiepiscopum Lundensem oratorem caesaris. </p>
                 <p xml:id="p.2">Brevior nunc sum, quia non est aliquid, de quo scribam. Omnem seriem
-                    rerum tuarum iampridem ex meis litteris<note type="critic" xml:id="note.1">See
-                        Ep. 449. and Ep.
+                    rerum tuarum iampridem ex meis litteris<note xml:id="note.1">See Ep. 449. and
+                        Ep.
                         455.<ref>olahus.tei.15340208_1</ref></note><ref>/o:olahus.tei.15340217_1</ref>
                     accepisti. Constitutum hic est, ut princeps
-                        <persName>Christierna</persName><note type="critic" xml:id="note.2"
-                        >Christina of Denmark married Francesco II Sforza, Duke of Milan on 23
-                        September, 1533.</note> decimo huius mensis die hinc se moveat
-                        <placeName>Mediolanum</placeName>. <persName>Dominus a Prato</persName><note
-                        type="critic" xml:id="note.3">Jacobus a Flandria.</note> eam conducet,
-                    habebit honorificam familiam et bonum apparatum. Mitto cum praesentibus litteras
-                        <persName>Stanshardi</persName>.<note type="critic" xml:id="note.4">We do
-                        not know him more closely, see Ep. 375. Note
+                        <persName>Christierna</persName><note xml:id="note.2">Christina of Denmark
+                        married Francesco II Sforza, Duke of Milan on 23 September, 1533.</note>
+                    decimo huius mensis die hinc se moveat <placeName>Mediolanum</placeName>.
+                        <persName>Dominus a Prato</persName><note xml:id="note.3">Jacobus a
+                        Flandria.</note> eam conducet, habebit honorificam familiam et bonum
+                    apparatum. Mitto cum praesentibus litteras <persName>Stanshardi</persName>.<note
+                        xml:id="note.4">We do not know him more closely, see Ep. 375. Note
                             10.<ref>olahus.tei.15330605_4</ref></note> Arbitror
-                        <persName>Cornelium</persName><note type="critic" xml:id="note.5">Cornelis
-                        de Schepper.</note> in curia non esse, propterea ad eum non scribo. Exspecto
-                    litteras tuas de <persName>Grito</persName><note type="critic" xml:id="note.6"
-                        >Lodovico Gritti.</note> aliisque rebus. Vale feliciter. </p>
+                        <persName>Cornelium</persName><note xml:id="note.5">Cornelis de
+                        Schepper.</note> in curia non esse, propterea ad eum non scribo. Exspecto
+                    litteras tuas de <persName>Grito</persName><note xml:id="note.6">Lodovico
+                        Gritti.</note> aliisque rebus. Vale feliciter. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 4. Martii 1534.</p>
             </div>
         </body>

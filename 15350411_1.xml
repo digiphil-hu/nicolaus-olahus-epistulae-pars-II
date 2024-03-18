@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,39 +237,37 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem dicit. </p>
-                <p xml:id="p.2"><persName>Marchio Vasti</persName><note type="critic"
-                        xml:id="note.1">Alfonso d’Avalos, IV Marquis of Pescara and II Marquis of
-                        Vasto (1502–1546), was an Italian condottiero serving Emperor Charles V. For
-                        more on his life, see <hi rend="smallcap">De Caro</hi> 1962.</note> cum
-                    classe oneraria et XXV triremibus in regnum <placeName>Neapolitanum</placeName>
-                    transmisit, secum habet militem Germanum et Italum. <persName>Princeps
-                        Auria</persName><note type="critic" xml:id="note.2">Andrea Doria.</note>
-                    hodie navigaturus erat cum XVII triremibus ad caesarem, ille ut commeatum et
-                    quod reliquum est Italici militis, secum comportet,
-                        <placeName>Sardiniam</placeName> versus, iste ut caesaris imperium
-                    exsequatur. Sunt, qui putent caesarem omnino cum hac classe in Aphricam
+                <p xml:id="p.2"><persName>Marchio Vasti</persName><note xml:id="note.1">Alfonso
+                        d’Avalos, IV Marquis of Pescara and II Marquis of Vasto (1502–1546), was an
+                        Italian condottiero serving Emperor Charles V. For more on his life, see <hi
+                            rend="smallcap">De Caro</hi> 1962.</note> cum classe oneraria et XXV
+                    triremibus in regnum <placeName>Neapolitanum</placeName> transmisit, secum habet
+                    militem Germanum et Italum. <persName>Princeps Auria</persName><note
+                        xml:id="note.2">Andrea Doria.</note> hodie navigaturus erat cum XVII
+                    triremibus ad caesarem, ille ut commeatum et quod reliquum est Italici militis,
+                    secum comportet, <placeName>Sardiniam</placeName> versus, iste ut caesaris
+                    imperium exsequatur. Sunt, qui putent caesarem omnino cum hac classe in Aphricam
                     transfretaturum, nos certe, quid ipse facturus sit, non intelligimus. Ex
                         <placeName>Urbe</placeName> audivimus <persName>pontificem</persName><note
-                        type="critic" xml:id="note.3">Pope Paul III.</note> cognita Turcarum regis
-                    exercitus profligatione, meliora de Deo nostro <persName>caesare</persName> et
-                    loqui et statuere, tanquam in illo edentulo sene et loquaci aliquid sit, quod ab
-                    eo pendeat. Coegit nuperrime cardinalium senatum, apud quem orationem dicunt
+                        xml:id="note.3">Pope Paul III.</note> cognita Turcarum regis exercitus
+                    profligatione, meliora de Deo nostro <persName>caesare</persName> et loqui et
+                    statuere, tanquam in illo edentulo sene et loquaci aliquid sit, quod ab eo
+                    pendeat. Coegit nuperrime cardinalium senatum, apud quem orationem dicunt
                     habuisse satis luculentam de expeditione Turcica, pollicitusque est, si ita e
                     republica esse iudicatum erit se iturum adversus Turcam, multaque puerilia
                     addidit, quae ne tibi stomachum faciant, omitto. Res Anglicas item
-                        <placeName>Monasterii</placeName><note type="critic" xml:id="note.4"
-                        >Münster.</note> a te <persName>princeps</persName><note type="critic"
-                        xml:id="note.5">Francesco II Sforza.</note> meus exspectat, qui te salutat
-                        <milestone unit="pb"/>et nostrum <persName>Sceperum</persName>.<note
-                        type="critic" xml:id="note.6">Cornelis de Schepper.</note> Gladius tuus
-                        vectorem<note type="critic" xml:id="note.7">See Ep.
+                        <placeName>Monasterii</placeName><note xml:id="note.4">Münster.</note> a te
+                        <persName>princeps</persName><note xml:id="note.5">Francesco II
+                        Sforza.</note> meus exspectat, qui te salutat <milestone unit="pb"/>et
+                    nostrum <persName>Sceperum</persName>.<note xml:id="note.6">Cornelis de
+                        Schepper.</note> Gladius tuus vectorem<note xml:id="note.7">See Ep.
                             528.<ref>olahus.tei.15350209_1</ref></note> exspectat, qui eum ex
                     commodo et sine ipsius mora in tuam potestatem comportet bonus certe est et
                     affabre factus. Vale, Amicorum Optime, et me ama. </p>
                 <p xml:id="p.3">Ex <choice>
                         <orig>via</orig>
                         <supplied>vico</supplied>
-                    </choice><note type="critic" xml:id="note.8">Corrected after dating Ep.
+                    </choice><note xml:id="note.8">Corrected after dating Ep.
                             535.<ref>olahus.tei.15350421_1</ref></note> Iovis XI. Aprilis
                     MDXXXV.</p>
             </div>

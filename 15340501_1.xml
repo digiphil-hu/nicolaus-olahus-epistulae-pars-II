@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Sebestyén Pemfflinger<idno type="ITIdata">Q470426</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,14 +243,13 @@
                         >Pemfflinger</del><add corresp="Olahus" type="corr">Pemfflingerum</add>
                     comitem Borsodiensem. </p>
                 <p xml:id="p.2">[1.] His diebus praeteritis redditae fuerunt mihi litterae tuae in
-                        <placeName>Valkenstain</placeName><note type="critic" xml:id="note.1"
-                        >Wolkenstein.</note> datae,<note type="critic" xml:id="note.2">We do not
-                        know this letter.</note> ex quibus intellexi te sanum et incolumem ex
-                        <placeName>Dyosgieuur</placeName><note type="critic" xml:id="note.3"
-                        >Diósgyőr.</note> e multis calamitatibus et damnis ad carissimam
-                        <persName>coniugem</persName><note type="critic" xml:id="note.4">Elisabeth
-                        von Puchheim.</note> tuam venisse. Habeo gratias Deo, qui te sanum
-                    reduxerit. Nihil est gratius, quam intellexisse te bene valere. Ex Dei gratia
+                        <placeName>Valkenstain</placeName><note xml:id="note.1">Wolkenstein.</note>
+                        datae,<note xml:id="note.2">We do not know this letter.</note> ex quibus
+                    intellexi te sanum et incolumem ex <placeName>Dyosgieuur</placeName><note
+                        xml:id="note.3">Diósgyőr.</note> e multis calamitatibus et damnis ad
+                    carissimam <persName>coniugem</persName><note xml:id="note.4">Elisabeth von
+                        Puchheim.</note> tuam venisse. Habeo gratias Deo, qui te sanum reduxerit.
+                    Nihil est gratius, quam intellexisse te bene valere. Ex Dei gratia
                         <persName>regina</persName> nostra serenissima iam melius valet, sed fere ab
                     uno mense diebus interpositis illa infirmitate Posoniensi et Altenburgensi sua
                     pristina, <choice>
@@ -274,8 +271,8 @@
                         <placeName>Myskoltz</placeName> poterit, vel rogo te ex victualibus arcis
                         <placeName>Dyosgeuur</placeName> usque ad novum frumentum et vinum, ex
                     quibus id, quod eis nunc datur, postea excipe. Si monasterium per sacrilegum
-                    illum <persName>Bebek</persName><note type="critic" xml:id="note.5">Ferenc
-                        Bebek. On its antecedents, see Ep. 274; Ep. 372; and Ep.
+                    illum <persName>Bebek</persName><note xml:id="note.5">Ferenc Bebek. On its
+                        antecedents, see Ep. 274; Ep. 372; and Ep.
                             462.<ref>olahus.tei.15320920_2</ref></note><ref>/o:olahus.tei.15330605_1</ref><ref>/o:olahus.tei.15340304_1</ref>
                     adeo destructum est, ut habitare istic non possint, habet in Myskolcz abbatia
                     domum. In qua vel etiam in domo plebani monachi habitare possunt, quo usque

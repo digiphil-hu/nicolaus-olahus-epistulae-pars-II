@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,60 +245,58 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">[1.] Mitto tibi, Optime Patrone, carmina
-                        <persName>Conradi</persName><note type="critic" xml:id="note.1">Conrad
-                        Wackers.</note> nostri, in quibus plerosque libros
-                        <persName>Erasmi</persName> elegantissime complexus est. Si quid praeterea
-                        <del corresp="Olahus">meam</del><add corresp="Olahus" type="corr">me</add>
-                    curare velis, scis tua merita eam tibi in me facultatem dare, ut me pro tuo
-                    mancipio summo iure uti posses. Agerem tibi gratias pro recenti ista tua ac
-                    nudiustertiana humanitate, si aut tu sustineres, aut ego pares invenire <del
-                        corresp="Olahus">posses</del><add corresp="Olahus" type="corr">possem</add>.
-                    Nunc gratitudo nostra intra pectus nostrum latere cogitur, quia aequalia verba
-                    reperire non potest. Dedimus quaestori chirographum<note type="critic"
-                        xml:id="note.2">See Ep. 596. Cap. 3.<ref>olahus.tei.15371120_1</ref></note>
-                    in viginti Carolinos,<note type="critic" xml:id="note.3">Carolusgulden minted by
-                        Charles V, was a coin minted in gold and silver.</note> non recepimus autem,
-                    nisi quatuordecim, nam <persName>Ioannes Henckhellus</persName><note
-                        type="critic" xml:id="note.4">Johann Henckel the Younger.</note> iam olim
-                    sex Carolinos inde praecerpserat. Creditoribus ferme omnibus satisfecimus, nisi
-                    quod ipse adhuc fatetur aes alienum trium Carolinorum superesse, id tibi,
-                    Domine, propterea indico, ut si res illius imposterum arctiores esse coeperint,
-                    intelligas illum apud me nihil decoxisse, omnibus enim modis cupio tuae de me
-                    exspectationi satisfacere. </p>
+                        <persName>Conradi</persName><note xml:id="note.1">Conrad Wackers.</note>
+                    nostri, in quibus plerosque libros <persName>Erasmi</persName> elegantissime
+                    complexus est. Si quid praeterea <del corresp="Olahus">meam</del><add
+                        corresp="Olahus" type="corr">me</add> curare velis, scis tua merita eam tibi
+                    in me facultatem dare, ut me pro tuo mancipio summo iure uti posses. Agerem tibi
+                    gratias pro recenti ista tua ac nudiustertiana humanitate, si aut tu sustineres,
+                    aut ego pares invenire <del corresp="Olahus">posses</del><add corresp="Olahus"
+                        type="corr">possem</add>. Nunc gratitudo nostra intra pectus nostrum latere
+                    cogitur, quia aequalia verba reperire non potest. Dedimus quaestori
+                        chirographum<note xml:id="note.2">See Ep. 596. Cap.
+                            3.<ref>olahus.tei.15371120_1</ref></note> in viginti Carolinos,<note
+                        xml:id="note.3">Carolusgulden minted by Charles V, was a coin minted in gold
+                        and silver.</note> non recepimus autem, nisi quatuordecim, nam
+                        <persName>Ioannes Henckhellus</persName><note xml:id="note.4">Johann Henckel
+                        the Younger.</note> iam olim sex Carolinos inde praecerpserat. Creditoribus
+                    ferme omnibus satisfecimus, nisi quod ipse adhuc fatetur aes alienum trium
+                    Carolinorum superesse, id tibi, Domine, propterea indico, ut si res illius
+                    imposterum arctiores esse coeperint, intelligas illum apud me nihil decoxisse,
+                    omnibus enim modis cupio tuae de me exspectationi satisfacere. </p>
                 <p xml:id="p.3">[2.] Cum Conrado <milestone unit="pb"/>tuo iussu salutem plurimam
                     attulissem cum tuis scriptis, multa mentio fuit inter nos de tuo <hi
                         rend="italic">Athila</hi>; multis modis iterum <del corresp="Olahus"
                         >laudavis</del><add corresp="Olahus" type="corr">laudavit</add>, qua ex re
                     incredibilem voluptatem sensi. Iussitque me tibi hoc renuntiari, si velles
                     imprimi, se curaturum, ut sua opera vel ex prelo
-                        <persName>Rutgeri</persName><note type="critic" xml:id="note.5">Rutger
-                        Ressen.</note> vel <persName>Servacii</persName><note type="critic"
-                        xml:id="note.6">Servaas van Sassen or Servatius Sassenius was a printer in
-                        Leuven. He printed a few of Nanninck’s works for example <hi rend="italic"
-                            >Declamatio Quodlibetica</hi> in 1549.</note> emendatissime <del
-                        corresp="Olahus">egreti</del><add corresp="Olahus" type="insert"
-                        >exiret</add>, seque valde cupere eam editionem maturari, fatebaturque se
-                    perlecto tuo <hi rend="italic">Athila</hi> melius Hungariae situm intelligere,
-                    quam unquam antea, etiam si eam variis tabellis depictam vidisset. Carmen<note
-                        type="critic" xml:id="note.7">Probably Oláh’s <hi rend="italic">In mortem
-                            Matthaei fratris elegia</hi>, see <hi rend="smallcap">Tournoy</hi> 2006,
-                        138.</note> tuum miris modis placuit, miror vim ingenii, quae plane, ut
-                    aiunt, Horatius <quote xml:id="quote.1">rerum <choice>
+                        <persName>Rutgeri</persName><note xml:id="note.5">Rutger Ressen.</note> vel
+                        <persName>Servacii</persName><note xml:id="note.6">Servaas van Sassen or
+                        Servatius Sassenius was a printer in Leuven. He printed a few of Nanninck’s
+                        works for example <hi rend="italic">Declamatio Quodlibetica</hi> in
+                        1549.</note> emendatissime <del corresp="Olahus">egreti</del><add
+                        corresp="Olahus" type="insert">exiret</add>, seque valde cupere eam
+                    editionem maturari, fatebaturque se perlecto tuo <hi rend="italic">Athila</hi>
+                    melius Hungariae situm intelligere, quam unquam antea, etiam si eam variis
+                    tabellis depictam vidisset. Carmen<note xml:id="note.7">Probably Oláh’s <hi
+                            rend="italic">In mortem Matthaei fratris elegia</hi>, see <hi
+                            rend="smallcap">Tournoy</hi> 2006, 138.</note> tuum miris modis placuit,
+                    miror vim ingenii, quae plane, ut aiunt, Horatius <quote xml:id="quote.1">rerum <choice>
                             <orig>immersibilis</orig>
                             <supplied>immersabilis</supplied>
                         </choice> undis</quote><note type="quote" xml:id="note.quote.1">Hor. <hi
-                            rend="italic">Epist.</hi> I,II,22.</note><note type="critic"
-                        xml:id="note.8">The form <hi rend="italic">immersibilis</hi> was used in the
-                        Early Modern Period, see <hi rend="smallcap">Ramminger</hi> 2008.</note>
-                    inter maximos luctus et curas vivacissime sese exerit, et ut <del
-                        corresp="editor">ut</del><quote xml:id="quote.2">olor in morte dulcius
-                        canit,</quote><note type="quote" xml:id="note.quote.2">Cf. Hieron. <hi
-                            rend="italic">Epist.</hi> LX,1 and Hieron. <hi rend="italic">Epist.</hi>
-                        LII, 3, and Ovid., <hi rend="italic">Met.</hi> XIV,430: “carmina iam moriens
-                        canit exequialia cycnus”; Sen., <hi rend="italic">Phaed.</hi> 302: “dulcior
-                        vocem moriente cygno.”</note> ita tibi in acerbissimo funere dulcissima et
-                    elegantissima carmina contexuntur, nos paucissima annotavimus magis, ne
-                    adulatores videremur, quam quod censura ulla opus esset. </p>
+                            rend="italic">Epist.</hi> I,II,22.</note><note xml:id="note.8">The form
+                            <hi rend="italic">immersibilis</hi> was used in the Early Modern Period,
+                        see <hi rend="smallcap">Ramminger</hi> 2008.</note> inter maximos luctus et
+                    curas vivacissime sese exerit, et ut <del corresp="editor">ut</del><quote
+                        xml:id="quote.2">olor in morte dulcius canit,</quote><note type="quote"
+                        xml:id="note.quote.2">Cf. Hieron. <hi rend="italic">Epist.</hi> LX,1 and
+                        Hieron. <hi rend="italic">Epist.</hi> LII, 3, and Ovid., <hi rend="italic"
+                            >Met.</hi> XIV,430: “carmina iam moriens canit exequialia cycnus”; Sen.,
+                            <hi rend="italic">Phaed.</hi> 302: “dulcior vocem moriente
+                        cygno.”</note> ita tibi in acerbissimo funere dulcissima et elegantissima
+                    carmina contexuntur, nos paucissima annotavimus magis, ne adulatores videremur,
+                    quam quod censura ulla opus esset. </p>
                 <p xml:id="p.4"><placeName>Lovanii</placeName> prima Aprilis 1538. </p>
             </div>
         </body>

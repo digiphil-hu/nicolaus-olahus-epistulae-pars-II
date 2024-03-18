@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,45 +242,43 @@
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Contranitentibus ventis decem et octo diebus fui in mari Hadriaco.
                     Tandem perveni <placeName>Rhagusium</placeName>, ubi, quod ad
-                        <persName>Griti</persName><note type="critic" xml:id="note.1">Lodovico
-                        Gritti.</note> attinet, intellexi illum adhuc esse
-                        <placeName>Constantinopoli</placeName>, exspectareque adventum
-                        <persName>Barbarossae</persName>,<note type="critic" xml:id="note.2"
+                        <persName>Griti</persName><note xml:id="note.1">Lodovico Gritti.</note>
+                    attinet, intellexi illum adhuc esse <placeName>Constantinopoli</placeName>,
+                    exspectareque adventum <persName>Barbarossae</persName>,<note xml:id="note.2"
                         >Hayreddin Barbarossa Pasha.</note> qui concessit in
                         <placeName>Syriam</placeName> ad <persName>Imbrahimum
-                        bassam</persName>.<note type="critic" xml:id="note.3">Ibrahim Pargalı
-                        Pasha.</note> Idne sit verum, an aliter se habeat res, non satis scio.
-                    Breviter tamen sum resciturus omnia. Hunc <persName>Imbrahimum</persName> aiunt
-                    a <persName>Sophy</persName> profligatum esse. Quomodo tamen aut qualiter non
+                        bassam</persName>.<note xml:id="note.3">Ibrahim Pargalı Pasha.</note> Idne
+                    sit verum, an aliter se habeat res, non satis scio. Breviter tamen sum
+                    resciturus omnia. Hunc <persName>Imbrahimum</persName> aiunt a
+                        <persName>Sophy</persName> profligatum esse. Quomodo tamen aut qualiter non
                     satis scitur, ubi primum venissem <placeName>Rhagusium</placeName>, statim
                     expedivi cursorem ad Sansachum Hertzogonniae et ad <persName>caesarem</persName>
                     Turcarum et ad <persName>Aloisium Gryti</persName>, scripsique ad tres illos in
                     rebus mihi commissis, spero brevi habiturum responsum. Tunc verius et copiosius
                     scribam de omnibus. Nam nunc urget me abitus huius
-                        <persName>Hergantini</persName>,<note type="critic" xml:id="note.4">We do
-                        not know him more closely.</note> qui nactus properas ad redeundum
-                    tempestates, me cogit esse brevem. Commendo tibi res meas, quae istic sunt; ego
-                    vicissim vestrarum rerum curam sum habiturus, de quo mimine convenit dubitare.
-                    Omnes Sansachi praeter Samandriae, Bossinae Hertzogoninae, quorum trium vires
-                    sunt triginta millia equitum solum, concessere in Asiam: quae res arguit illic
-                    non bene succedere negotia. Dicitur et <persName>Myhalibegouytz</persName><note
-                        type="critic" xml:id="note.5">Mihaloğlu Mehmed Bey. In 1517 he was
-                        sanjak-bey of Bosnia, in 1520 sanjak-bey of Herzegovina, and he also
-                        participated in the battle of Mohács. He then became sanjak-bey of Nikopol,
-                        see <hi rend="smallcap">Babinger</hi> 1993; <hi rend="smallcap">Başar</hi>
-                        2005, 25; <hi rend="smallcap">Sabev</hi> 2013, 232.</note> obsessurus arcem
-                        <placeName>Clyssam</placeName><note type="critic" xml:id="note.6"
-                        >Klis.</note> ob damna illata a <persName>Petro Crusitz</persName>.<note
-                        type="critic" xml:id="note.7">Péter Krusics.</note> Quid desuper futurum
-                    sit, nescio. Fertur etiam magnus caesar Turcarum in persona propria abiturus in
-                    Asiam. Brevi sciemus veritatem rei. Commenda servitia mea sacrae reginali
-                    maiestati aliisque dominis meis, reverendissimo praesuli
-                        <persName>Panormitano</persName>,<note type="critic" xml:id="note.8">Jean II
-                        Carondelet.</note><persName>duci de Arschot</persName>,<note type="critic"
+                        <persName>Hergantini</persName>,<note xml:id="note.4">We do not know him
+                        more closely.</note> qui nactus properas ad redeundum tempestates, me cogit
+                    esse brevem. Commendo tibi res meas, quae istic sunt; ego vicissim vestrarum
+                    rerum curam sum habiturus, de quo mimine convenit dubitare. Omnes Sansachi
+                    praeter Samandriae, Bossinae Hertzogoninae, quorum trium vires sunt triginta
+                    millia equitum solum, concessere in Asiam: quae res arguit illic non bene
+                    succedere negotia. Dicitur et <persName>Myhalibegouytz</persName><note
+                        xml:id="note.5">Mihaloğlu Mehmed Bey. In 1517 he was sanjak-bey of Bosnia,
+                        in 1520 sanjak-bey of Herzegovina, and he also participated in the battle of
+                        Mohács. He then became sanjak-bey of Nikopol, see <hi rend="smallcap"
+                            >Babinger</hi> 1993; <hi rend="smallcap">Başar</hi> 2005, 25; <hi
+                            rend="smallcap">Sabev</hi> 2013, 232.</note> obsessurus arcem
+                        <placeName>Clyssam</placeName><note xml:id="note.6">Klis.</note> ob damna
+                    illata a <persName>Petro Crusitz</persName>.<note xml:id="note.7">Péter
+                        Krusics.</note> Quid desuper futurum sit, nescio. Fertur etiam magnus caesar
+                    Turcarum in persona propria abiturus in Asiam. Brevi sciemus veritatem rei.
+                    Commenda servitia mea sacrae reginali maiestati aliisque dominis meis,
+                    reverendissimo praesuli <persName>Panormitano</persName>,<note xml:id="note.8"
+                        >Jean II Carondelet.</note><persName>duci de Arschot</persName>,<note
                         xml:id="note.9">Philippe II de Croÿ.</note> dominis <persName>de
-                        Sanctpy</persName><note type="critic" xml:id="note.10">Antoine de
-                        Croÿ.</note> et <persName>Molenbais</persName> ceterisque, quos una cum
-                    Dominatione Tua Christus servet incolumis. </p>
+                        Sanctpy</persName><note xml:id="note.10">Antoine de Croÿ.</note> et
+                        <persName>Molenbais</persName> ceterisque, quos una cum Dominatione Tua
+                    Christus servet incolumis. </p>
                 <p xml:id="p.3"><placeName>Rhagusii</placeName> ultimo Martii 1534.</p>
             </div>
         </body>

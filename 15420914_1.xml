@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -243,33 +241,32 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Unnser freundtlich grueß zuvor, liebenn herrnn unnd freundt! </p>
-                <p xml:id="p.2">Demnach unnß <persName>Wolff Nadler</persName><note type="critic"
-                        xml:id="note.1">Wolff Nadler was a <hi rend="italic">Waldbürger</hi>
-                        (citizen of a mining town) in Banská Štiavnica, see <hi rend="smallcap"
+                <p xml:id="p.2">Demnach unnß <persName>Wolff Nadler</persName><note xml:id="note.1"
+                        >Wolff Nadler was a <hi rend="italic">Waldbürger</hi> (citizen of a mining
+                        town) in Banská Štiavnica, see <hi rend="smallcap"
                             >Meier–Piirainen–Wegera</hi> 2009, 600.</note> anzaigt unnd furbracht
-                    hat, wie <persName>Martin Clee</persName><note type="critic" xml:id="note.2"
-                        >Martin Klee.</note> unnd er im monnat Jully negst verganngen<note
-                        type="critic" xml:id="note.3">July 1542.</note> zu
-                        <placeName>Wienn</placeName> vor khu. mt., unnser <persName>allergnedigisten
-                        frawen</persName> rätten unnd comissarien, unnsern herrn unnd freunden ir
-                    beschwerdt, so sy gegenainanndern gehabt, furbracht haben. Darauff dann
-                    gemellter <persName>Clee</persName> ain schrifftlicher abschidt ervolgt unnd,
-                    sovil die new schatzunng betrifft, ain stillstanndt biß auf gemellter herrn
-                    comissari ankhunfft (der wir dann tëglich gewarttig sein) aufferlegt wordenn,
-                    damit dieselbenn in irer khu. mt. namen die sachen weitter erledigen, unnd waß
-                    billich darinnen hanndlen mugen. Aber unangesehen des allen, so vernemen wir,
-                    daz sich der <persName>Clee</persName> oder sein dienner unnderstätt unnd
-                    vermaint, weitter dann die erst schatzung zu greiffen. Ist derhalben in namen
-                    hochgedachter khu. mt.,<note type="critic" xml:id="note.4">I.e. königlichen
-                        Majestät.</note> unnser <persName>allergnedigsten frawenn</persName>,
-                    nochmalß unnser bevelh (wie dann zuvor auch beschehen), daz ir dem gemeltenn
-                        <persName>Clee</persName> nit weitter allain, sovil die erst rechtlich
-                    schatzung vermag, gestatten, auch khainß wegs ir ku. mt. camer zu nachtail
-                    eingriff thunn laßen, sonnder di sachen also biß auf gemellter herrn comissari
-                    ankhunfft beruehen laßen wolt. Wa aber annders ervolgte khundt, ir ermessen, daz
-                    sich ir khu. mt. alß euer richter oberkeitt pilliche ursach gegen euch zu
-                    beschweren und zu ersuechen haben, wurden. Haben wir euch freundtlicher maynung
-                    nit wellen verhallten, euch habenn darnach zu richten, damit waß euch
+                    hat, wie <persName>Martin Clee</persName><note xml:id="note.2">Martin
+                        Klee.</note> unnd er im monnat Jully negst verganngen<note xml:id="note.3"
+                        >July 1542.</note> zu <placeName>Wienn</placeName> vor khu. mt., unnser
+                        <persName>allergnedigisten frawen</persName> rätten unnd comissarien,
+                    unnsern herrn unnd freunden ir beschwerdt, so sy gegenainanndern gehabt,
+                    furbracht haben. Darauff dann gemellter <persName>Clee</persName> ain
+                    schrifftlicher abschidt ervolgt unnd, sovil die new schatzunng betrifft, ain
+                    stillstanndt biß auf gemellter herrn comissari ankhunfft (der wir dann tëglich
+                    gewarttig sein) aufferlegt wordenn, damit dieselbenn in irer khu. mt. namen die
+                    sachen weitter erledigen, unnd waß billich darinnen hanndlen mugen. Aber
+                    unangesehen des allen, so vernemen wir, daz sich der <persName>Clee</persName>
+                    oder sein dienner unnderstätt unnd vermaint, weitter dann die erst schatzung zu
+                    greiffen. Ist derhalben in namen hochgedachter khu. mt.,<note xml:id="note.4"
+                        >I.e. königlichen Majestät.</note> unnser <persName>allergnedigsten
+                        frawenn</persName>, nochmalß unnser bevelh (wie dann zuvor auch beschehen),
+                    daz ir dem gemeltenn <persName>Clee</persName> nit weitter allain, sovil die
+                    erst rechtlich schatzung vermag, gestatten, auch khainß wegs ir ku. mt. camer zu
+                    nachtail eingriff thunn laßen, sonnder di sachen also biß auf gemellter herrn
+                    comissari ankhunfft beruehen laßen wolt. Wa aber annders ervolgte khundt, ir
+                    ermessen, daz sich ir khu. mt. alß euer richter oberkeitt pilliche ursach gegen
+                    euch zu beschweren und zu ersuechen haben, wurden. Haben wir euch freundtlicher
+                    maynung nit wellen verhallten, euch habenn darnach zu richten, damit waß euch
                     freundtlich lieb ist und Got bevolhen. </p>
                 <p xml:id="p.3">Datum <placeName>Altensol</placeName> den 14. September anno etc.
                         1542<hi rend="super">ten</hi>.</p>
@@ -283,9 +280,9 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.5">Denn ersamenn unnd weisen herrnn, n.,<note type="critic"
-                        xml:id="note.5">I.e. Name.</note> richter unnd rat der stat Schembnitz,
-                    unnsern gutten freunnden.</p>
+                <p xml:id="p.5">Denn ersamenn unnd weisen herrnn, n.,<note xml:id="note.5">I.e.
+                        Name.</note> richter unnd rat der stat Schembnitz, unnsern gutten
+                    freunnden.</p>
             </div>
         </body>
     </text>

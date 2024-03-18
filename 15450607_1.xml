@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,7 +233,7 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Magnifice Domine, Amice Honorandissime, salutem!</p>
-                <p xml:id="p.2">Crebro Magnifica Dominatio Vestra nobis scribit,<note type="critic"
+                <p xml:id="p.2">Crebro Magnifica Dominatio Vestra nobis scribit,<note
                         xml:id="note.1">We do not know these letters.</note> ut negotia sua apud
                         <persName>regiam maiestatem</persName>, dominum nostrum clementissimum
                     promoveamus. In quo propter propensam erga Magnificae Dominationis Vestrae
@@ -243,23 +241,22 @@
                     haud gravate operam nostram commodamus. Verum a multis pares, vel omnino nulli
                     laborum nostrorum fructus ad nos redeunt propter subitam accepti beneficii
                     oblivionem. Exemptionem etiam bonorum castri Magnificae Dominationis Vestrae
-                        <placeName>Gereben</placeName><note type="critic" xml:id="note.2">The castle
-                        of Greben was located next to today’s Madžarevo. The castle had belonged to
-                        the Batthyánys since 1491.</note> dudum confeceramus, sed hactenus nemo
-                    erat, qui eam sollicitasset, nec quisquam fidus tabellarius oblatus fuit, per
-                    quem tuto ad Magnificam Dominationem Vestram mittere potuissemus. Nacti tandem
-                    hominem notum et fidelem, egregium <persName>Matthiam Gyaky</persName><note
-                        type="critic" xml:id="note.3">Máté Gyaky was a noble magistrate <hi
-                            rend="italic">(iudex nobilium)</hi> in Vas county, see <hi
-                            rend="smallcap">Baán</hi> 1940, 213.</note> curam perferendarum ad
-                    Magnificam Dominationem Vestram litterarum illi credidimus. Deinceps quoque in
-                    rebus necessariis patrocinium nostrum Magnificae Dominationi Vestrae non
-                    negabimus, sed ut notarii nostri in expediendis Magnificae Dominationis Vestrae
-                    negotiis sollicitiores et promptiores reddantur spe praemiorum, mittat eadem pro
-                    litteris Florenorum duodecim atque decimas etiam tam praeteriti, quam praesentis
-                    annorum nobis et ecclesiae nostrae debitas Magnificae Dominationis Vestrae
-                    manibus administratoris bonorum episcopatus nostri administrari faciat. Quam
-                    bene valere optamus. </p>
+                        <placeName>Gereben</placeName><note xml:id="note.2">The castle of Greben was
+                        located next to today’s Madžarevo. The castle had belonged to the Batthyánys
+                        since 1491.</note> dudum confeceramus, sed hactenus nemo erat, qui eam
+                    sollicitasset, nec quisquam fidus tabellarius oblatus fuit, per quem tuto ad
+                    Magnificam Dominationem Vestram mittere potuissemus. Nacti tandem hominem notum
+                    et fidelem, egregium <persName>Matthiam Gyaky</persName><note xml:id="note.3"
+                        >Máté Gyaky was a noble magistrate <hi rend="italic">(iudex nobilium)</hi>
+                        in Vas county, see <hi rend="smallcap">Baán</hi> 1940, 213.</note> curam
+                    perferendarum ad Magnificam Dominationem Vestram litterarum illi credidimus.
+                    Deinceps quoque in rebus necessariis patrocinium nostrum Magnificae Dominationi
+                    Vestrae non negabimus, sed ut notarii nostri in expediendis Magnificae
+                    Dominationis Vestrae negotiis sollicitiores et promptiores reddantur spe
+                    praemiorum, mittat eadem pro litteris Florenorum duodecim atque decimas etiam
+                    tam praeteriti, quam praesentis annorum nobis et ecclesiae nostrae debitas
+                    Magnificae Dominationis Vestrae manibus administratoris bonorum episcopatus
+                    nostri administrari faciat. Quam bene valere optamus. </p>
                 <p xml:id="p.3">Datum <placeName>Vormatiae</placeName> septima mensis Iunii
                     MDXLV.</p>
                 <p xml:id="p.4">

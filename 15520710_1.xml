@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,31 +242,30 @@
                     humillimam commendationem!</p>
                 <p xml:id="p.2">[1.] Cognoscet Vestra Sacra Maiestas ex litteris serenissimi regis
                         <persName>Maximiliani</persName>, domini mei clementissimi, quid dominus
-                        <persName>Losonczy</persName><note type="critic" xml:id="note.1">István
-                        Losonczy.</note> huc proxime nuntiarit,<note type="critic" xml:id="note.2"
-                        >See Losonczy’s letter to King Maximilian II on 29 June, 1552: ÖStA HHStA,
-                        UA AA Fasc. 64. Konv. B. fol. 176–177.</note> quid vicissim serenitas sua ei
-                    rescripserit, non dubito, quin Maiestas Vestra ad negotia ea sit curam
-                    adhibitura. Ceterum acceptis proximis litteris Maiestatis Vestrae super
-                    expeditione litterarum regalium ad status et ordines regni, quibus de die et
-                    loco ad conveniendum armati admonentur, confecta litterarum formula, quae
-                    serenissimo regi <persName>Maximiliano</persName> et his dominis consiliariis,
-                    qui hic sunt, probata est, litterae conscribi coeptae sunt perficienturque, ut
-                    spero ad summum in crastinum diem. Nam propter subscriptionem manus Vestrae
-                    Maiestatis selectos quosdam tantummodo scribas meos adhiberi oportuit, ut
-                    apposite scriptura in membranis cedat. Qua autem forma litterae expeditae sint,
-                    Sacra Maiestas Vestra ex earum exemplo praesentibus incluso cognoscere
-                    dignabitur. Admonuit autem me et serenissimus rex
-                        <persName>Maximilianus</persName>, dominus meus clementissimus et ipsae
-                    quoque litterae Vestrae Maiestatis de numero membranarum ad me missarum, qua in
-                    re nihil erat, quod Maiestatem Vestram ista sollicitudo urgeret, aut eadem
-                    quicquam dubitaret. Nam si etiam plures mittere dignata fuisset membranas, non
-                    fieret error, ceteris in rebus, quae occurrunt, scio Maiestatem Vestram in dies
-                    hinc fieri certiorem. Hoc tamen et ego nolui praetermittere, <del
-                        corresp="Olahus">quod</del> omnes status et ordines regni, tum propter
-                    absentiam Vestrae Maiestatis, tum <del corresp="Olahus">propter</del><add
-                        corresp="Olahus" type="corr">quod in</add> serenissimi regis
-                        <persName>Maximiliani</persName> in Hungariam <del corresp="Olahus"
+                        <persName>Losonczy</persName><note xml:id="note.1">István Losonczy.</note>
+                    huc proxime nuntiarit,<note xml:id="note.2">See Losonczy’s letter to King
+                        Maximilian II on 29 June, 1552: ÖStA HHStA, UA AA Fasc. 64. Konv. B. fol.
+                        176–177.</note> quid vicissim serenitas sua ei rescripserit, non dubito,
+                    quin Maiestas Vestra ad negotia ea sit curam adhibitura. Ceterum acceptis
+                    proximis litteris Maiestatis Vestrae super expeditione litterarum regalium ad
+                    status et ordines regni, quibus de die et loco ad conveniendum armati
+                    admonentur, confecta litterarum formula, quae serenissimo regi
+                        <persName>Maximiliano</persName> et his dominis consiliariis, qui hic sunt,
+                    probata est, litterae conscribi coeptae sunt perficienturque, ut spero ad summum
+                    in crastinum diem. Nam propter subscriptionem manus Vestrae Maiestatis selectos
+                    quosdam tantummodo scribas meos adhiberi oportuit, ut apposite scriptura in
+                    membranis cedat. Qua autem forma litterae expeditae sint, Sacra Maiestas Vestra
+                    ex earum exemplo praesentibus incluso cognoscere dignabitur. Admonuit autem me
+                    et serenissimus rex <persName>Maximilianus</persName>, dominus meus
+                    clementissimus et ipsae quoque litterae Vestrae Maiestatis de numero membranarum
+                    ad me missarum, qua in re nihil erat, quod Maiestatem Vestram ista sollicitudo
+                    urgeret, aut eadem quicquam dubitaret. Nam si etiam plures mittere dignata
+                    fuisset membranas, non fieret error, ceteris in rebus, quae occurrunt, scio
+                    Maiestatem Vestram in dies hinc fieri certiorem. Hoc tamen et ego nolui
+                    praetermittere, <del corresp="Olahus">quod</del> omnes status et ordines regni,
+                    tum propter absentiam Vestrae Maiestatis, tum <del corresp="Olahus"
+                        >propter</del><add corresp="Olahus" type="corr">quod in</add> serenissimi
+                    regis <persName>Maximiliani</persName> in Hungariam <del corresp="Olahus"
                         >profecturum</del><add corresp="Olahus" type="corr">profectione</add>
                     dubitant, in hunc diem male contentos fuisse, ac prope in desperationem
                     incidisse, haec tamen omnia Maiestati Vestrae satis curae esse non dubito.
@@ -279,24 +276,23 @@
                 <p xml:id="p.4">[2.] <add corresp="Olahus" type="insert">Dum iam has obsignare
                         vellem, capituli ecclesiae Waradiensis nuntius huc ad me venit, per quem
                         multa detestanda et enormia de Lutheranis mihi nuntiarunt, miserunt tamen et
-                        has litteras,<note type="critic" xml:id="note.3">Ep.
+                        has litteras,<note xml:id="note.3">Ep.
                                 822.<ref>/o:olahus.tei.15520625_1</ref></note> quas in specie ad
                         Sacratissimam Maiestatem Vestram misi. Supervenit etiam
-                            <persName>praepositus Orodienisis</persName>,<note type="critic"
-                            xml:id="note.4">György Draskovics.</note> qui tum
-                            <placeName>Waradini</placeName>, tum in aliis partium inferiorum locis
-                        versatus multa mihi narravit, quo cum nonnulla, quae verbis dixit, in
-                        scripta redigi iussi. Ea quoque Sacratissimae Maiestati Vestrae misi, ut
-                        intelligere dignaretur, quibus in periculis religio Christiana etiam in
-                        Hungaria versetur, non modo in Waradiensi diocesi, cuius
-                            <persName>Warkocz</persName><note type="critic" xml:id="note.5">Tamás
-                            Varkocs.</note> Lutheranus nunc propositus est, sed etiam in aliis. Nam
-                        et ex Transsylvania et ex aliis episcopatuum aliorum locis quotidie non
-                        absimilia et adferuntur et dicuntur. His ita existentibus vereor, ne Deus
-                        magis quam nunc irascatur nobis, et auxilium gratiamque suam abstrahat a
-                        nobis. Haec Sacratissimae Maiestati Vestrae ex mea primum in Deum pietate,
-                        tandem in Sacratissimam Maiestatem Vestram fide atque officio paucis <add
-                            corresp="Olahus" type="insert">volui</add> significare, dignetur
+                            <persName>praepositus Orodienisis</persName>,<note xml:id="note.4"
+                            >György Draskovics.</note> qui tum <placeName>Waradini</placeName>, tum
+                        in aliis partium inferiorum locis versatus multa mihi narravit, quo cum
+                        nonnulla, quae verbis dixit, in scripta redigi iussi. Ea quoque
+                        Sacratissimae Maiestati Vestrae misi, ut intelligere dignaretur, quibus in
+                        periculis religio Christiana etiam in Hungaria versetur, non modo in
+                        Waradiensi diocesi, cuius <persName>Warkocz</persName><note xml:id="note.5"
+                            >Tamás Varkocs.</note> Lutheranus nunc propositus est, sed etiam in
+                        aliis. Nam et ex Transsylvania et ex aliis episcopatuum aliorum locis
+                        quotidie non absimilia et adferuntur et dicuntur. His ita existentibus
+                        vereor, ne Deus magis quam nunc irascatur nobis, et auxilium gratiamque suam
+                        abstrahat a nobis. Haec Sacratissimae Maiestati Vestrae ex mea primum in
+                        Deum pietate, tandem in Sacratissimam Maiestatem Vestram fide atque officio
+                        paucis <add corresp="Olahus" type="insert">volui</add> significare, dignetur
                         providere gratiose, ne tam blasphema in Deum committi possint. Nam alioquin
                         brevi futurum arbitror, nisi provideatur in tempore, quod Catholica religio
                         in Hungaria inter plebem et rara erit et contemptui omnium exposita.
@@ -313,9 +309,8 @@
                 <pb/>
                 <p xml:id="p.7">[Enormia facta et dicta haereticorum in diocesi Varadiensi ecclesiae
                     manentium. Narratio Georgii Drascowits praepositi Orodiensis 10. Iulii Viennae
-                    facta 1552.]<note type="critic" xml:id="note.6">See <hi rend="smallcap"
-                            >Bunyitay</hi> 1887, 398–399; and <hi rend="smallcap">Bunyitay</hi>
-                        1883, 386–388.</note></p>
+                    facta 1552.]<note xml:id="note.6">See <hi rend="smallcap">Bunyitay</hi> 1887,
+                        398–399; and <hi rend="smallcap">Bunyitay</hi> 1883, 386–388.</note></p>
                 <pb/>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

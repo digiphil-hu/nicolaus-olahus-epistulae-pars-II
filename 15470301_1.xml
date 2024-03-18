@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>City Judge of Trnava</persName>
                 </correspAction>
             </correspDesc>
@@ -228,18 +226,17 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Prudens et Circumspecte Domine et Amice nobis Honorandissime,<note
-                        type="critic" xml:id="note.1">János Budai (1546/1547) and Wolfgang Maar or
-                        Farkas Boltmár were City Judges of Trnava (1547/1548), see <hi
-                            rend="smallcap">Bakonyi</hi> 2017, 63, 67–68, and 70.</note>
-                    salutem!</p>
+                        xml:id="note.1">János Budai (1546/1547) and Wolfgang Maar or Farkas Boltmár
+                        were City Judges of Trnava (1547/1548), see <hi rend="smallcap">Bakonyi</hi>
+                        2017, 63, 67–68, and 70.</note> salutem!</p>
                 <p xml:id="p.2">Nuntiavimus nonnulla vobis per hunc egregium dominum
-                        <persName>Franciscum de Felpecz</persName><note type="critic"
-                        xml:id="note.2">Ferenc Felpéczy was a royal officer. In 1562, he was <hi
-                            rend="italic">viceispán</hi> of Komárom county, see <hi rend="smallcap"
-                            >Fazekas</hi> 2021, 131.</note> praesentium ostensorem, in certis et
-                    arduis nostris negotiis. Rogamus igitur vos, velitis verbis ipsius Felpeczy
-                    fidem adhibere et ea atque medio ipsius vos rogavimus omnino facere. Quod in
-                    maioribus vobis rependere volumus. Bene et feliciter valete.</p>
+                        <persName>Franciscum de Felpecz</persName><note xml:id="note.2">Ferenc
+                        Felpéczy was a royal officer. In 1562, he was <hi rend="italic"
+                            >viceispán</hi> of Komárom county, see <hi rend="smallcap">Fazekas</hi>
+                        2021, 131.</note> praesentium ostensorem, in certis et arduis nostris
+                    negotiis. Rogamus igitur vos, velitis verbis ipsius Felpeczy fidem adhibere et
+                    ea atque medio ipsius vos rogavimus omnino facere. Quod in maioribus vobis
+                    rependere volumus. Bene et feliciter valete.</p>
                 <p xml:id="p.3">Datum in civitate <placeName>Pyrnae</placeName> prima Martii anno
                     Domini 1547.</p>
                 <p xml:id="p.4">

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,9 +232,8 @@
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     et Frater Observandissime! </p>
                 <p xml:id="p.2">Iamdudum fuit mihi animus, ut primitias meas
-                        <placeName>Agriae</placeName><note type="critic" xml:id="note.1"
-                        >Eger.</note> vel si ibi propter negotia regia fieri non posset, hic
-                    peragerem. Verum <choice>
+                        <placeName>Agriae</placeName><note xml:id="note.1">Eger.</note> vel si ibi
+                    propter negotia regia fieri non posset, hic peragerem. Verum <choice>
                         <orig>c<gap extent="unknown" reason="damage" unit="word"/>m</orig>
                         <supplied>c<corr>u</corr>m</supplied>
                     </choice> nec <placeName>Agriae</placeName>, neque hic hactenus id fuerit <gap

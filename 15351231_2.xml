@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,17 +236,17 @@
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Non est, quod mihi gratias agas, Domine Olae Observande, quasi per
                     me aliquid honoris tibi accederet. Agnoscunt omnes, qui te vel leviter noverunt,
-                    sic te esse ἔντιμον,<note type="critic" xml:id="note.1">‘honoured’.</note> ut
-                    per me et mei similes nihil omnino honoris tibi accedere possit. Videtur mihi
-                    non fore absurdum, si tua epistola, qua paucis multum verae laudis
+                    sic te esse ἔντιμον,<note xml:id="note.1">‘honoured’.</note> ut per me et mei
+                    similes nihil omnino honoris tibi accedere possit. Videtur mihi non fore
+                    absurdum, si tua epistola, qua paucis multum verae laudis
                         <persName>Nannii</persName> nostri complecteris, una imprimatur cum ipsius
                         <hi rend="italic">Declamatione</hi>, hoc ordine, ut primo loco prior
-                        <persName>Nannii</persName> epistola<note type="critic" xml:id="note.2">Ep.
+                        <persName>Nannii</persName> epistola<note xml:id="note.2">Ep.
                             554.<ref>olahus.tei.15351229_1</ref></note> ad te scripta ponatur,
-                    secundo tua,<note type="critic" xml:id="note.3">Ep.
-                            555.<ref>olahus.tei.15351230_1</ref></note> et tertio altera Nannii
-                        epistola,<note type="critic" xml:id="note.4">Ep.
-                            556.<ref>olahus.tei.15351231_1</ref></note> qua tibi gratias agit pro
+                    secundo tua,<note xml:id="note.3">Ep.
+                        555.<ref>olahus.tei.15351230_1</ref></note> et tertio altera Nannii
+                        epistola,<note xml:id="note.4">Ep.
+                        556.<ref>olahus.tei.15351231_1</ref></note> qua tibi gratias agit pro
                     egregia tua censura. Mittimus igitur tibi Nannii epistolam una cum <choice>
                         <orig>latorem</orig>
                         <supplied>latore</supplied>

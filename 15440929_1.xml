@@ -215,12 +215,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <orgName>Chapter of Zagreb</orgName>
                                 </correspAction>
                         </correspDesc>
@@ -255,35 +253,35 @@
                                 <p xml:id="p.1">Reverendi ac Honorabiles in Christo Fratres Dilecti,
                                         salutem!</p>
                                 <p xml:id="p.2">[1.] Accepta de manu
-                                                <persName>Feyerthoy</persName>,<note type="critic"
-                                                xml:id="note.1">János Fejérthóy was Canon of Zagreb
-                                                and Simon Erdődy’s secretary. He later became Oláh’s
-                                                secretary in Vienna, see <hi rend="smallcap"
-                                                  >Zvara</hi> 2013, 50–51; <hi rend="smallcap"
-                                                  >Fazekas</hi> 2019, 25; and <hi rend="smallcap"
-                                                  >Fazekas</hi> 2021, 355–356.</note> fratris vestri
-                                        supplicatione vestra, nostra in conspectum regiae
-                                        maiestatis, domini clementissimi pro vobis intercessio non
-                                        fuit inefficax, id quod ex litteris suae maiestatis ad vos
-                                        datis clarius cognoscetis. De cetero quoque in rebus vestris
-                                        nostra opera non erit defutura, tantum agite, ut membra per
-                                        omnia capiti suo consentiant et cohaereant. Quod ad
-                                        praestandum de bonis episcopatus nostri exstruendo <choice>
+                                                <persName>Feyerthoy</persName>,<note xml:id="note.1"
+                                                >János Fejérthóy was Canon of Zagreb and Simon
+                                                Erdődy’s secretary. He later became Oláh’s secretary
+                                                in Vienna, see <hi rend="smallcap">Zvara</hi> 2013,
+                                                50–51; <hi rend="smallcap">Fazekas</hi> 2019, 25;
+                                                and <hi rend="smallcap">Fazekas</hi> 2021,
+                                                355–356.</note> fratris vestri supplicatione vestra,
+                                        nostra in conspectum regiae maiestatis, domini clementissimi
+                                        pro vobis intercessio non fuit inefficax, id quod ex
+                                        litteris suae maiestatis ad vos datis clarius cognoscetis.
+                                        De cetero quoque in rebus vestris nostra opera non erit
+                                        defutura, tantum agite, ut membra per omnia capiti suo
+                                        consentiant et cohaereant. Quod ad praestandum de bonis
+                                        episcopatus nostri exstruendo <choice>
                                                 <orig>fortalitio</orig>
                                                 <supplied>fortellitio</supplied>
-                                        </choice><placeName>Zyzek</placeName><note type="critic"
-                                                xml:id="note.2">Sisak.</note> subsidium attinet,
-                                        ipsi nostis, quanta nobis incumbat finitimorum castrorum
-                                        episcopatus necessitas. Commisimus, ut si quid exigi
-                                        poterit, erogatur ad eorum conservationem et praesentem
-                                        necessitatem evitandam, quicquid a nobis praestari poterit,
-                                        id reliquo tempore non negabitur et ne ceteri nobiles et
-                                        regnicolae nostro exemplo subsidium promissum negare
-                                        possint, fingite a nobis vos iam accepisse, ne hac occasione
-                                        arrepta causentur se negaturi, nec a nobis quidem negabitur
-                                        olim, quicquid praestabile erit. Huiusmodi autem subsidium,
-                                        etiam si poterius offeretur, nullo tamen non tempore erit
-                                        gratum et necessarium.</p>
+                                        </choice><placeName>Zyzek</placeName><note xml:id="note.2"
+                                                >Sisak.</note> subsidium attinet, ipsi nostis,
+                                        quanta nobis incumbat finitimorum castrorum episcopatus
+                                        necessitas. Commisimus, ut si quid exigi poterit, erogatur
+                                        ad eorum conservationem et praesentem necessitatem
+                                        evitandam, quicquid a nobis praestari poterit, id reliquo
+                                        tempore non negabitur et ne ceteri nobiles et regnicolae
+                                        nostro exemplo subsidium promissum negare possint, fingite a
+                                        nobis vos iam accepisse, ne hac occasione arrepta causentur
+                                        se negaturi, nec a nobis quidem negabitur olim, quicquid
+                                        praestabile erit. Huiusmodi autem subsidium, etiam si
+                                        poterius offeretur, nullo tamen non tempore erit gratum et
+                                        necessarium.</p>
                                 <p xml:id="p.3">[2.] De octingentis Florenis, pro quibus reddentibus
                                         regiae maiestati supplicastis, sua maiestas non meminit,
                                         nisi produxeritis efficax aliquod testimonium aut litteras
@@ -299,9 +297,9 @@
                                 <p xml:id="p.4">Datum Viennae vigesima <choice>
                                                 <orig>secunda</orig>
                                                 <supplied>nona</supplied>
-                                        </choice><note type="critic" xml:id="note.3">Emended
-                                                according to <hi rend="smallcap">Šišić</hi> 1915,
-                                                327.</note> Septembris anno 1544.</p>
+                                        </choice><note xml:id="note.3">Emended according to <hi
+                                                  rend="smallcap">Šišić</hi> 1915, 327.</note>
+                                        Septembris anno 1544.</p>
                                 <p xml:id="p.5">
                                         <add corresp="Olahus" type="insert">Hoc pro praesenti
                                                 necessitate apud suam maiestatem effecimus, ut

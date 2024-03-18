@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,26 +241,25 @@
                         rend="italic">Hungariam</hi> tuam videre liceat, sed hactenus fortuna nobis
                     id genus voluptatis invidit. Ego vero tibi meas nugas obtrudo, nisi potius
                     dicendum sit nec meas esse. Quippe <milestone unit="pb"/>qui alienis opibus
-                    abusus sum et Claudiani<note type="critic" xml:id="note.1">Claudius Claudianus
-                        (370–404), Roman poet.</note> labores in rem meam verterim, centonem
-                    consarcinavi, sed non his legibus, quibus olim veteres et quibus
-                        <persName>Ausonius</persName> in suo Virgilio centone<note type="critic"
-                        xml:id="note.2"><hi rend="italic">Cento nuptialis.</hi></note> sit usus. Ita
-                    tamen placuit viro doctissimo ac communi amico domino <persName>Petro
-                        Nannio</persName>,<note type="critic" xml:id="note.3">Pieter
-                        Nanninck.</note> ut me vehementer urgeat ad edendum. Mitto tibi opusculum
-                    ipsum cum illius epistolio, ut Dominatio Tua iudicet, quid mihi faciendum sit.
-                        <del corresp="Olahus">Promitto</del><add corresp="Olahus" type="corr"
-                        >Permitto</add> tibi liberam statuendi facultatem, ut si edendum videatur,
-                    recta via mittatur ad <persName>Nannium</persName>, sin minus, tum quod ille
-                    dicebat <quote xml:id="quote.1">de Apiace<note type="critic" xml:id="note.4"
-                            >I.e. Aiace.</note> caesar noster: <del corresp="Olahus"
-                            >concumbet</del><add corresp="Olahus" type="corr">incumbet</add> in
-                        spongeam.</quote><note type="quote" xml:id="note.quote.1">Suet. <hi
-                            rend="italic">De vitis caesarum,</hi> Div. Aug. 85: “respondit, Aiacem
-                        suum in spongeam incubuisse”.</note> Vale, Vir Ornatissime et Cranneveldium
-                    tuum, quod <del corresp="Olahus">facit</del><add corresp="Olahus" type="corr"
-                        >facis</add>, ama. </p>
+                    abusus sum et Claudiani<note xml:id="note.1">Claudius Claudianus (370–404),
+                        Roman poet.</note> labores in rem meam verterim, centonem consarcinavi, sed
+                    non his legibus, quibus olim veteres et quibus <persName>Ausonius</persName> in
+                    suo Virgilio centone<note xml:id="note.2"><hi rend="italic">Cento
+                            nuptialis.</hi></note> sit usus. Ita tamen placuit viro doctissimo ac
+                    communi amico domino <persName>Petro Nannio</persName>,<note xml:id="note.3"
+                        >Pieter Nanninck.</note> ut me vehementer urgeat ad edendum. Mitto tibi
+                    opusculum ipsum cum illius epistolio, ut Dominatio Tua iudicet, quid mihi
+                    faciendum sit. <del corresp="Olahus">Promitto</del><add corresp="Olahus"
+                        type="corr">Permitto</add> tibi liberam statuendi facultatem, ut si edendum
+                    videatur, recta via mittatur ad <persName>Nannium</persName>, sin minus, tum
+                    quod ille dicebat <quote xml:id="quote.1">de Apiace<note xml:id="note.4">I.e.
+                            Aiace.</note> caesar noster: <del corresp="Olahus">concumbet</del><add
+                            corresp="Olahus" type="corr">incumbet</add> in spongeam.</quote><note
+                        type="quote" xml:id="note.quote.1">Suet. <hi rend="italic">De vitis
+                            caesarum,</hi> Div. Aug. 85: “respondit, Aiacem suum in spongeam
+                        incubuisse”.</note> Vale, Vir Ornatissime et Cranneveldium tuum, quod <del
+                        corresp="Olahus">facit</del><add corresp="Olahus" type="corr">facis</add>,
+                    ama. </p>
                 <p xml:id="p.3"><placeName>Mechliniae</placeName> quarto Kalendas Maias anno
                     1537.</p>
             </div>

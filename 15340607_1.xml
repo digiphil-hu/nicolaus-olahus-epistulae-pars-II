@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Guilhelmus van den Steene</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -249,27 +247,26 @@
                     illum pudorem, quem Graeci <choice>
                         <orig>δησοπίαν</orig>
                         <supplied>δυσωπίαν</supplied>
-                    </choice><note type="critic" xml:id="note.1">‘coyness, exaggerated modesty’.
-                        Plutarch wrote an essay on δυσωπία (<hi rend="italic">vitiosus pudor</hi> in
-                        Latin), Gilhelmus van den Steene is probably referring to this.</note>
-                    vocant, potius reddidit familiarem, sed in hunc ausum me impulit illustris ille
-                    ac illibatus tui animi candor, tua non vulgaris et eruditio et prudentia, quam
-                    non vulgus litteratorum modo, sed universi litterarum antistites admirantur et
-                    adorant, denique tuus singularis tum in litteras, tum in litterarum cultores
-                    favor ac propensio, quae me tandem in eum erexit animum, ut non trepidem ego
-                    tametsi rurestris ac prorsus serpens humi adrepere ad Tuam Clementiam, non
-                    quidem mihi usque adeo <milestone unit="pb"/>amplum est ad te scribendi
-                    argumentum, neque etiam si mihi id suppeteret, adeo foret ex honore meo meipsum
-                    ingerere citra iussionem colloquio tanti viri. Sed veniam, obsecro, dabis, si
-                    hac in parte quippiam incivilitatis a me commissum fuerit, imputans id potius
-                    tuo candori incorrupto, qui plerosque alliciat, immo ut verius dicam, trahat ad
-                    tui accessum, quemadmodum nonnunquam in nostris conventiculis relatum est a
-                        <persName>Conrado Goclenio</persName>,<note type="critic" xml:id="note.2"
-                        >Conrad Wackers.</note> a domino <persName>decano sancti
-                        Donatiani</persName><note type="critic" xml:id="note.3">Mark
+                    </choice><note xml:id="note.1">‘coyness, exaggerated modesty’. Plutarch wrote an
+                        essay on δυσωπία (<hi rend="italic">vitiosus pudor</hi> in Latin), Gilhelmus
+                        van den Steene is probably referring to this.</note> vocant, potius reddidit
+                    familiarem, sed in hunc ausum me impulit illustris ille ac illibatus tui animi
+                    candor, tua non vulgaris et eruditio et prudentia, quam non vulgus litteratorum
+                    modo, sed universi litterarum antistites admirantur et adorant, denique tuus
+                    singularis tum in litteras, tum in litterarum cultores favor ac propensio, quae
+                    me tandem in eum erexit animum, ut non trepidem ego tametsi rurestris ac prorsus
+                    serpens humi adrepere ad Tuam Clementiam, non quidem mihi usque adeo <milestone
+                        unit="pb"/>amplum est ad te scribendi argumentum, neque etiam si mihi id
+                    suppeteret, adeo foret ex honore meo meipsum ingerere citra iussionem colloquio
+                    tanti viri. Sed veniam, obsecro, dabis, si hac in parte quippiam incivilitatis a
+                    me commissum fuerit, imputans id potius tuo candori incorrupto, qui plerosque
+                    alliciat, immo ut verius dicam, trahat ad tui accessum, quemadmodum nonnunquam
+                    in nostris conventiculis relatum est a <persName>Conrado
+                        Goclenio</persName>,<note xml:id="note.2">Conrad Wackers.</note> a domino
+                        <persName>decano sancti Donatiani</persName><note xml:id="note.3">Mark
                         Lauwerijns.</note> viro sane non inter mininos habendo, a domino
-                        <persName>Scepperio</persName>,<note type="critic" xml:id="note.4">Cornelis
-                        de Schepper.</note> quo aliquando usus sum <placeName>Lovanii</placeName>
+                        <persName>Scepperio</persName>,<note xml:id="note.4">Cornelis de
+                        Schepper.</note> quo aliquando usus sum <placeName>Lovanii</placeName>
                     familiariter, et aliis viris et splendore natalium conspicuis et omnis
                     eruditionis maecenatibus. Itaque factum est, ut quamvis his viris nullo prorsus
                     modo veniam conferendus tua tamen benevolentia et facilitate tractus, qua et
@@ -278,13 +275,13 @@
                     Tuae compellassem, nisi id vetuisset pudor ingenitus. </p>
                 <p xml:id="p.3">[2.] Est nihilominus, quod Tuae Dominationi hoc temporis articulo
                     velim significatum. Edidi paucis ab hinc diebus libellulum quendam <hi
-                        rend="italic">De non timenda morte</hi>,<note type="critic" xml:id="note.5"
-                        >Van den Steene’s book was published by Rutger Ressen on 27 September, 1533,
+                        rend="italic">De non timenda morte</hi>,<note xml:id="note.5">Van den
+                        Steene’s book was published by Rutger Ressen on 27 September, 1533,
                         according to the explicit.</note> de cuius praeparatione edito meo libello
-                    et ipsum <persName>Erasmum</persName> protulisse in lucem<note type="critic"
-                        xml:id="note.6">Erasmus’ <hi rend="italic">De preparatione ad mortem</hi>
-                        was published in January 1534, see Ep. 445. Cap.
-                            1.<ref>olahus.tei.15340123_1</ref></note> non ignoras. <choice>
+                    et ipsum <persName>Erasmum</persName> protulisse in lucem<note xml:id="note.6"
+                        >Erasmus’ <hi rend="italic">De preparatione ad mortem</hi> was published in
+                        January 1534, see Ep. 445. Cap. 1.<ref>olahus.tei.15340123_1</ref></note>
+                    non ignoras. <choice>
                         <orig>Ellum</orig>
                         <supplied>Illum</supplied>
                     </choice> loco munusculi tametsi exigui ac indigni tua dignitate mitto iterum

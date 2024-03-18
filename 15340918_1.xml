@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Guilhelmus van den Steene</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,9 +238,9 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Guilhelmus Lapidanus monachus Nicolao Olao salutem.<note
-                        type="critic" xml:id="note.1">On this letter, see <hi rend="smallcap"
-                            >Verbeke</hi> 2005.</note></p>
-                <p xml:id="p.2">[1.] Tuus illibatus animi candor in tuis litteris<note type="critic"
+                        xml:id="note.1">On this letter, see <hi rend="smallcap">Verbeke</hi>
+                        2005.</note></p>
+                <p xml:id="p.2">[1.] Tuus illibatus animi candor in tuis litteris<note
                         xml:id="note.2">We do not know this letter.</note> abunde relucens
                     Reverendissimae Dominationi effecit, ut meas ad te litteras posthac audentius
                     sim emissurus, praesertim cum praeclarum semper existimarim et in primis
@@ -251,12 +249,12 @@
                     portione felicitatis ducerem, atque inde (uti non dubito) ingens <choice>
                         <orig>Αγαθῶν</orig>
                         <supplied>ἀγαθῶν</supplied>
-                    </choice> σωρὸς<note type="critic" xml:id="note.3">‘the masses of the
-                        good’.</note> mihi accresceret. Non equidem magnopere facio immensas opes
-                    supra popularem facultatem, quas non ambire docuit me mea tenuitas, modo alicubi
-                    mihi prospectum esset praesidio bonorum virorum de honesta aliqua conditione,
-                    ubi daretur libere citra amusorum molestias vivere in studio litterario, quo
-                    nihil <milestone unit="pb"/>mihi magis in votis. </p>
+                    </choice> σωρὸς<note xml:id="note.3">‘the masses of the good’.</note> mihi
+                    accresceret. Non equidem magnopere facio immensas opes supra popularem
+                    facultatem, quas non ambire docuit me mea tenuitas, modo alicubi mihi prospectum
+                    esset praesidio bonorum virorum de honesta aliqua conditione, ubi daretur libere
+                    citra amusorum molestias vivere in studio litterario, quo nihil <milestone
+                        unit="pb"/>mihi magis in votis. </p>
                 <p xml:id="p.3">Haec autem non existimes, Vir Doctissime, horsum spectare, tanquam
                     mei instituti, nempe monastici (cui me consecravi perpetuo, cuius iugum fero ita
                     lubens, ut quam lubentissime) me poeniteret, verum displicet mihi imperitia
@@ -264,9 +262,9 @@
                     monachismum professi, nihil sincere religionis operibus exprimunt. Habito nunc
                     demum cum venia domini mei primatis <placeName>Lovanii</placeName> in
                     contubernio doctissimorum virorum, quorum non est istic infecundus proventus,
-                    sed postquam inde fiet mei revocatio<note type="critic" xml:id="note.4">From
-                        Leuven to Sint-Winoksbergen (Bergues-St. Winoc).</note> iussu superioris,
-                    cui obtemperandum est mihi in omnibus, di boni, quam inaequalis erit mihi haec
+                    sed postquam inde fiet mei revocatio<note xml:id="note.4">From Leuven to
+                        Sint-Winoksbergen (Bergues-St. Winoc).</note> iussu superioris, cui
+                    obtemperandum est mihi in omnibus, di boni, quam inaequalis erit mihi haec
                     commutatio! Non enim Erasmos, Budaeos, Goclenios, Rescios tum invenire dabitur.
                     Itaque, mi Domine Observandissime, in tuum sinum ingenue effundo animi mei curas
                     fretus nimirum tua iam e litteris perspecta humanitate, precor, summe tuam
@@ -288,11 +286,11 @@
                     Veniam itaque propediem ob id, quia persuasum habeo nihil mea hac audacia te
                     offensum iri; tum de omnibus latius colloquemur. </p>
                 <p xml:id="p.5">Dominum Ioannem, ni fallor, cognomine
-                        <persName>Henckel</persName><note type="critic" xml:id="note.5">Johann
-                        Henckel the Younger.</note> suavissimae indolis ac optimae spei adolescentem
-                    iam in meam disciplinam recepi, spero me in erudiendo eo non lusurum operam, tam
-                    dextri est ingenii, tam ad litteras accommodi. Bene valeat Tua Dominatio, cui me
-                    velim semper commendatum. Raptim scriptum. </p>
+                        <persName>Henckel</persName><note xml:id="note.5">Johann Henckel the
+                        Younger.</note> suavissimae indolis ac optimae spei adolescentem iam in meam
+                    disciplinam recepi, spero me in erudiendo eo non lusurum operam, tam dextri est
+                    ingenii, tam ad litteras accommodi. Bene valeat Tua Dominatio, cui me velim
+                    semper commendatum. Raptim scriptum. </p>
                 <p xml:id="p.6"><placeName>Lovanii</placeName> XVIII. Septembris <del
                         corresp="Olahus">1533</del><add corresp="Olahus" type="corr">1534</add>.</p>
             </div>

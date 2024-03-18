@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -250,16 +248,15 @@
                 <p xml:id="p.1"><del corresp="Olahus">P.</del><add corresp="Olahus" type="corr"
                         >Petrus</add> Nannius <add corresp="Olahus" type="insert">Alcmarianus</add>
                     Nicolao Olao salutem plurimam. </p>
-                <p xml:id="p.2">[1.] Litteras<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">[1.] Litteras<note xml:id="note.1">Ep.
                             595.<ref>olahus.tei.15371116_1</ref></note> ad te miseram, Humanissime
                     et Eruditissime Patrone, quibus me tibi excusarem, sed ut video, illae ad te non
                     venerunt. Repetam igitur τὰ <choice>
                         <orig>κεφάλια</orig>
                         <supplied>κεφάλαια</supplied>
-                    </choice>.<note type="critic" xml:id="note.2">‘the most important
-                        points’.</note> Non scripseram per <persName>Ioannem
-                        Hennckl</persName>,<note type="critic" xml:id="note.3">Johann Henckel the
-                        Younger.</note> ille intra προθεσμίαν<note type="critic" xml:id="note.4"
+                    </choice>.<note xml:id="note.2">‘the most important points’.</note> Non
+                    scripseram per <persName>Ioannem Hennckl</persName>,<note xml:id="note.3">Johann
+                        Henckel the Younger.</note> ille intra προθεσμίαν<note xml:id="note.4"
                         >‘(within) the deadline’.</note> statuti temporis ad te accurrebat. Iusseras
                     enim illum post triduum aut quatriduum sequi <milestone unit="pb"/>cum ergo ad
                     condictum diem accurrisset, putabam te ex observatione temporis satis
@@ -282,7 +279,7 @@
                     potero, satisfaciam, donec supervenerint reliquae a patruo pecuniae. Nec
                     quicquam omittam vel sedulitatis vel officii, quod pertineat ad eum vel alendum,
                     vel erudiendum. Confidoque illum post hac frugalissime victurum cum non
-                    poenitendo in litteris profectu. <persName>Ulrico</persName><note type="critic"
+                    poenitendo in litteris profectu. <persName>Ulrico</persName><note
                         xml:id="note.5">Probably Ulrich Zasius.</note> de <choice>
                         <orig>Pandecti</orig>
                         <supplied>Pandectis</supplied>
@@ -292,18 +289,18 @@
                         <hi rend="italic">Atthilae</hi> copiam faceres, quod ut facias, cum proximo
                     nuntio te etiam atque etiam rogo; miro eius rei desiderio teneor, nec solus,
                     multi enim mecum idem ardentissime desiderant. <persName>Rutgerus
-                        Rescius</persName><note type="critic" xml:id="note.6">Rutger Ressen.</note>
-                    prelum suum offert, et quicquid <milestone unit="pb"/>potest, quo editio
-                    maturetur. Qui hoc cum <persName>Cranneveldio</persName><note type="critic"
-                        xml:id="note.7">Frans van Cranevelt.</note> negaverit, satis intelligo,
-                    quanti tua scripta faciat, et quid de quaestu speret. Si quid potes habere otii,
-                    velim, perlegas orationem <persName>Demosthenis</persName><hi rend="italic"
-                        >Adversus Leptinem</hi>.<note type="critic" xml:id="note.8">In 1542,
-                        Nanninck dedicated his translation to Oláh, see <hi rend="italic"
-                            >Demosthenis De immunitate adversus Leptinem</hi>, Paris, 1542, a ii r-a
-                        iii ν. and <hi rend="smallcap">Polet</hi> 1936, 277–278.</note> Cupio enim
-                    illam a me versam et tuis manibus castigari, et tuis auspiciis in lucem prodi.
-                    Gratias tibi ago, quod mihi <choice>
+                        Rescius</persName><note xml:id="note.6">Rutger Ressen.</note> prelum suum
+                    offert, et quicquid <milestone unit="pb"/>potest, quo editio maturetur. Qui hoc
+                    cum <persName>Cranneveldio</persName><note xml:id="note.7">Frans van
+                        Cranevelt.</note> negaverit, satis intelligo, quanti tua scripta faciat, et
+                    quid de quaestu speret. Si quid potes habere otii, velim, perlegas orationem
+                        <persName>Demosthenis</persName><hi rend="italic">Adversus
+                        Leptinem</hi>.<note xml:id="note.8">In 1542, Nanninck dedicated his
+                        translation to Oláh, see <hi rend="italic">Demosthenis De immunitate
+                            adversus Leptinem</hi>, Paris, 1542, a ii r-a iii ν. and <hi
+                            rend="smallcap">Polet</hi> 1936, 277–278.</note> Cupio enim illam a me
+                    versam et tuis manibus castigari, et tuis auspiciis in lucem prodi. Gratias tibi
+                    ago, quod mihi <choice>
                         <orig>chirographium</orig>
                         <supplied>chirographum</supplied>
                     </choice> quaestoris regii miseris, in quo mira est temporum commoditas, cum in

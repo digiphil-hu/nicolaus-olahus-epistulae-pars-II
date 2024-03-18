@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>a friend</persName>
                 </correspAction>
             </correspDesc>
@@ -237,8 +235,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad amicum.<note type="critic" xml:id="note.1">We do not know him
-                        more closely.</note></p>
+                <p xml:id="p.1">Ad amicum.<note xml:id="note.1">We do not know him more
+                        closely.</note></p>
                 <p xml:id="p.2">Quantis minis, calamitatibus et periculis miserum et exhaustum iam
                     penitus viribus regnum nostrum Hungariae per hos annos superiores, partim ab
                     interna nostrorum factione, partim a Turcis sanguinariis Christinae reipublicae
@@ -269,10 +267,10 @@
                     loco, ut omnia penitius cognoscere possis, si quid de his intellexeris, fac, ut
                     sciam, remediumque adscribe, quo usus negotia ipsa nostra feliciores habere
                     possint et progressus et exitus. De <persName>Ioanne</persName><note
-                        type="critic" xml:id="note.2">We do not know him more closely.</note> nihil
-                    est, quod ad te scribam. Ex litteris ipsius propriis omnem rerum suarum
-                    conditionem intelliges. Si quid me praeterea facere voles, fac, ut animum tuum
-                    intelligam. Vale. </p>
+                        xml:id="note.2">We do not know him more closely.</note> nihil est, quod ad
+                    te scribam. Ex litteris ipsius propriis omnem rerum suarum conditionem
+                    intelliges. Si quid me praeterea facere voles, fac, ut animum tuum intelligam.
+                    Vale. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> 20. Maii 1538.</p>
             </div>
         </body>

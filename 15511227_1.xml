@@ -208,7 +208,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -235,13 +234,12 @@
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici nobis Dilecti, salutem et
                     nostram commendationem!</p>
                 <p xml:id="p.2">Scripsimus ad egregium <persName>Simonem</persName><note
-                        type="critic" xml:id="note.1">We do not know him more closely.</note>
-                    inhabitatorem ipsius civitatis, quibus rebus excipiendum dominis et nostris
-                    amicis nobis opus esset. Rogamus itaque Dominationes Vestras, quod si qua in re
-                    vestra opera indigebit, ei omni auxilio sitis, et quicquid vobis nostro nomine
-                    dixerit, non secus atque nobis fidem adhibere velitis nobisque in hac re
-                    studiose complacere, vicissim nos eisdem omni amicitia ac benevolentia refundere
-                    studebimus. Valete.</p>
+                        xml:id="note.1">We do not know him more closely.</note> inhabitatorem ipsius
+                    civitatis, quibus rebus excipiendum dominis et nostris amicis nobis opus esset.
+                    Rogamus itaque Dominationes Vestras, quod si qua in re vestra opera indigebit,
+                    ei omni auxilio sitis, et quicquid vobis nostro nomine dixerit, non secus atque
+                    nobis fidem adhibere velitis nobisque in hac re studiose complacere, vicissim
+                    nos eisdem omni amicitia ac benevolentia refundere studebimus. Valete.</p>
                 <p xml:id="p.3"><placeName>Pragae</placeName> 27. die mensis Decembris 1551.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

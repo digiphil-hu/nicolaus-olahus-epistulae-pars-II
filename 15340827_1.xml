@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,32 +235,31 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem. </p>
-                <p xml:id="p.2"><persName>Candianus</persName><note type="critic" xml:id="note.1"
-                        >Ambrogio Candiano.</note> noster tandem in
-                        <persName>principis</persName><note type="critic" xml:id="note.2">Francesco
-                        II Sforza.</note> nostri sententiam uxorem traxit, quam secum propediem ad
-                    vos in Belgas ducet.<note type="critic" xml:id="note.3">On the antecedents and
-                        this plan, see Ep. 490. Cap. 1.<ref>olahus.tei.15340531_1</ref></note>
-                    Utinam reginae nostrae valetudo indies firmior fiat, ne medicorum ope amplius
-                    indigeat. Classis Turcica spelunca fundos et pleraque alia oppidula in litore
-                    maris Adriatici, tum regni Neapolitani depopulata est, nunc, quo cursum
-                    direxerit, ignoratur. Classis caesaris paratur, opportuneque eam invadet, si in
-                    Aphricam traiciet, superiorque omnino erit. Ego ad <persName>regem</persName>
-                    nostrum Romanum<note type="critic" xml:id="note.4">I.e. Romanorum.</note>
-                    quatriduo post proficiscar, cum illic ero, dabo operam, ut a me multa
-                    intelligas. Tabellarius, qui has tibi deferet, pollicetur se ex novo quodam
-                    collegio istic facto litteras vestras nostrasque ultro in quindecim diebus
-                        <milestone unit="pb"/>delaturum, te obtestor, ut me quamprimum moneas,
-                    quantum fidei isti praestare possimus. Ego si in tuarum litterarum adventu
-                    absens fuero, constitui, ut <persName>princeps</persName> ipse tuas aperiat, qui
-                    et te diligit et amat. <persName>Reginam</persName> nostram di ad vota
-                    felicitent, cui <del corresp="Olahus">ex te</del> commodari valde cupio, et
-                    pedes deosculor. Virginem clarissimam <persName>Lucretiam</persName><note
-                        type="critic" xml:id="note.5">Lucretia Caballis (vom Ross).</note> meo
-                    nomine salvere iubebis. <persName>Bannisium</persName><note type="critic"
-                        xml:id="note.6">Jakob Radich de Bannisis the Younger.</note> meum item tuum
-                    salutabis meis verbis, simulque dabitis operam, ut globus meus conficiatur.
-                    Vale, Amicorum Optime, et me, ut facis, ama. </p>
+                <p xml:id="p.2"><persName>Candianus</persName><note xml:id="note.1">Ambrogio
+                        Candiano.</note> noster tandem in <persName>principis</persName><note
+                        xml:id="note.2">Francesco II Sforza.</note> nostri sententiam uxorem traxit,
+                    quam secum propediem ad vos in Belgas ducet.<note xml:id="note.3">On the
+                        antecedents and this plan, see Ep. 490. Cap.
+                            1.<ref>olahus.tei.15340531_1</ref></note> Utinam reginae nostrae
+                    valetudo indies firmior fiat, ne medicorum ope amplius indigeat. Classis Turcica
+                    spelunca fundos et pleraque alia oppidula in litore maris Adriatici, tum regni
+                    Neapolitani depopulata est, nunc, quo cursum direxerit, ignoratur. Classis
+                    caesaris paratur, opportuneque eam invadet, si in Aphricam traiciet, superiorque
+                    omnino erit. Ego ad <persName>regem</persName> nostrum Romanum<note
+                        xml:id="note.4">I.e. Romanorum.</note> quatriduo post proficiscar, cum illic
+                    ero, dabo operam, ut a me multa intelligas. Tabellarius, qui has tibi deferet,
+                    pollicetur se ex novo quodam collegio istic facto litteras vestras nostrasque
+                    ultro in quindecim diebus <milestone unit="pb"/>delaturum, te obtestor, ut me
+                    quamprimum moneas, quantum fidei isti praestare possimus. Ego si in tuarum
+                    litterarum adventu absens fuero, constitui, ut <persName>princeps</persName>
+                    ipse tuas aperiat, qui et te diligit et amat. <persName>Reginam</persName>
+                    nostram di ad vota felicitent, cui <del corresp="Olahus">ex te</del> commodari
+                    valde cupio, et pedes deosculor. Virginem clarissimam
+                        <persName>Lucretiam</persName><note xml:id="note.5">Lucretia Caballis (vom
+                        Ross).</note> meo nomine salvere iubebis.
+                        <persName>Bannisium</persName><note xml:id="note.6">Jakob Radich de Bannisis
+                        the Younger.</note> meum item tuum salutabis meis verbis, simulque dabitis
+                    operam, ut globus meus conficiatur. Vale, Amicorum Optime, et me, ut facis, ama. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> VI. Kalendas Septembris 1534.</p>
             </div>
         </body>

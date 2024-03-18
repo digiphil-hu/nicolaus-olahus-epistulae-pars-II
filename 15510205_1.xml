@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,13 +233,13 @@
                 <pb/>
                 <p xml:id="p.1">Spectabilis et Magnifice Domine, et Frater Observandissime,
                     servitiorum meoum commendationem! </p>
-                <p xml:id="p.2">Audio dominum <persName>Maylath</persName><note type="critic"
-                        xml:id="note.1">István Majláth. He had a seizure in November, see Ep. 759.,
-                        and he died in Constantinople, probably at the end of
-                            1550.<ref>olahus.tei.15510117_1</ref></note> nostrum ad requiem
-                    perpetuam ivisse, non sine lacrimis id certe accepi. Sed cum simus omnes
-                    mortales, nos quoque idem manet finis. De <placeName>Posonio</placeName> locutus
-                    sum <persName>regiae maiestati</persName>, respondit se gratiose rem daturam de
+                <p xml:id="p.2">Audio dominum <persName>Maylath</persName><note xml:id="note.1"
+                        >István Majláth. He had a seizure in November, see Ep. 759., and he died in
+                        Constantinople, probably at the end of
+                        1550.<ref>olahus.tei.15510117_1</ref></note> nostrum ad requiem perpetuam
+                    ivisse, non sine lacrimis id certe accepi. Sed cum simus omnes mortales, nos
+                    quoque idem manet finis. De <placeName>Posonio</placeName> locutus sum
+                        <persName>regiae maiestati</persName>, respondit se gratiose rem daturam de
                     nostra supplicatione, dum revertetur. Addidit quoque se non potuisse aliter
                     facere propter viduam, quin usque ad reditum relinqueret arcem in manu filii.
                     Ego nihil unquam praetermisi, neque praetermittam, quod ad libertatem et regiae
@@ -257,9 +255,8 @@
                     nisi aliquod arduissimum negotium me trahat cum sua maiestate regia. Turcam
                     nescio quo animo sit erga nos, Deus omnia vertat in bonum finem. Hic hic biduo
                     exspectamus a statibus responsum de subsidio nobis ferendo. Dominatio Vestra
-                    valeat cum domina <persName>coniuge</persName><note type="critic"
-                        xml:id="note.2">Orsolya Kanizsai.</note> sua carissima feliciter, domina mea
-                    observandissima.</p>
+                    valeat cum domina <persName>coniuge</persName><note xml:id="note.2">Orsolya
+                        Kanizsai.</note> sua carissima feliciter, domina mea observandissima.</p>
                 <p xml:id="p.4">Ex <placeName>Augusta</placeName> 5. Februarii 1551.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Servitor et frater Agriensis etc. propria manu</seg>

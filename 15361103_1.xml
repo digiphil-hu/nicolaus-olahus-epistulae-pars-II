@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -242,23 +240,22 @@
                 <p xml:id="p.1"><add corresp="Olahus" type="insert">Franciscus</add> Craneveldius
                     Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Vir Clarissime! Cum nuper <placeName>Lovanii</placeName> fuisset
-                        <persName>uxor</persName><note type="critic" xml:id="note.1">Cranevelt’s
-                        first wife was Elisabeth (†1545), see <hi rend="smallcap">Leijenhorst</hi>
-                        1985, 354.</note> ac veluti postliminio domum rediisset, incidit, ut fit
-                    inter confabulandum mentio tuae praestantiae. Tum illa: “heus” inquit “memini me
-                    anno superiore, cum quaedam ciborum condimenta ex Hungarico more<note
-                        type="critic" xml:id="note.2">Probably garlicky.</note> discere averem, ne
-                    pollicitatione caseorum obligatum, nondum fidem meam liberasse, proinde
-                    constitui quamprimum eo me nexu solvere ac mittere, qui perferat munus
-                    levidense.” Mittit autem non veteres et duratos, sed molliusculos,<note
-                        type="critic" xml:id="note.3">“quite weak, quite soft, quite pleasant”, see
-                            <hi rend="smallcap">Hoven</hi> 2006, 343.</note><del corresp="Olahus"
-                        >qui</del><add corresp="Olahus" type="corr">quia</add> si medicorum
-                    praeceptis auscultamus: caseus tanto sanior, quanto lacti vicinior et duriores
-                    illi in ventriculo difficile concoquuntur. Si <persName>Iacobus</persName><note
-                        type="critic" xml:id="note.4">Jakob Jespersen.</note> noster recte valet,
-                    gaudeo, scio enim totum in litteris esse. Si quid erit, in quo praestantiae tuae
-                    gratum facere licebit, habebis Cranneveldium tuum <choice>
+                        <persName>uxor</persName><note xml:id="note.1">Cranevelt’s first wife was
+                        Elisabeth (†1545), see <hi rend="smallcap">Leijenhorst</hi> 1985,
+                        354.</note> ac veluti postliminio domum rediisset, incidit, ut fit inter
+                    confabulandum mentio tuae praestantiae. Tum illa: “heus” inquit “memini me anno
+                    superiore, cum quaedam ciborum condimenta ex Hungarico more<note xml:id="note.2"
+                        >Probably garlicky.</note> discere averem, ne pollicitatione caseorum
+                    obligatum, nondum fidem meam liberasse, proinde constitui quamprimum eo me nexu
+                    solvere ac mittere, qui perferat munus levidense.” Mittit autem non veteres et
+                    duratos, sed molliusculos,<note xml:id="note.3">“quite weak, quite soft, quite
+                        pleasant”, see <hi rend="smallcap">Hoven</hi> 2006, 343.</note><del
+                        corresp="Olahus">qui</del><add corresp="Olahus" type="corr">quia</add> si
+                    medicorum praeceptis auscultamus: caseus tanto sanior, quanto lacti vicinior et
+                    duriores illi in ventriculo difficile concoquuntur. Si
+                        <persName>Iacobus</persName><note xml:id="note.4">Jakob Jespersen.</note>
+                    noster recte valet, gaudeo, scio enim totum in litteris esse. Si quid erit, in
+                    quo praestantiae tuae gratum facere licebit, habebis Cranneveldium tuum <choice>
                         <orig>expidissimum</orig>
                         <supplied>expeditissimum</supplied>
                     </choice> atque promptissimum. Vale, Vir Ornatissime. </p>

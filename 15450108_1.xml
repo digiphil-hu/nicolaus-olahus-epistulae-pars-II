@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Hieronymus Adorno<idno type="ITIdata">Q470283</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,39 +235,38 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Salutem et mei commendationem, Reverende Domine uti Frater
-                        Honorandissime!<note type="critic" xml:id="note.1">Hieronymus Adorno (†1545)
-                        was Provost of Eger and legat of King Ferdinand I to
-                    Constantinople.</note></p>
-                <p xml:id="p.2">Accepi in campo tuas litterulas,<note type="critic" xml:id="note.2"
-                        >We do not know this letter.</note> quibus scribis de instructione tua,
-                    quibus scribis de instructione tua<note type="critic" xml:id="note.3">I.e. <hi
-                            rend="italic">Instructio pro Odoardo et Adurno</hi>, edited by Ferdinand
-                        I on 28 December, 1544. Adorno was sent to Constantinople to arrange a peace
-                        agreement with the Turks for one year, but he died in March, on the way to
-                        Edirne, see <hi rend="smallcap">Laczlavik</hi> 2014, 97.</note> et litteris
-                    credentiis tibi ad praesentem legationem necessariis. Ego omnia haec iamdudum
-                    expedire potuissem. Non soleo enim negligens esse etiam in minoribus rebus,
-                    nedum in his arduis et maximi momenti, sed secundo statim die, postquam
-                        <persName>maiestas regia</persName>, dominus meus clementissimus de tua
-                    profectione et legatione deliberavit, iuxta deliberationem suae maiestatis
-                    instructionem ipsam in consilio nostro securo perlegi. Suaque maiestas iussit,
-                    ut eam cum litteris necessariis <persName>Adamo nostro Carolo</persName><note
-                        type="critic" xml:id="note.4">Adam Karl was the Latin Secretary of the
-                        Imperial Court Chancellery between 1536 and 1545, see <hi rend="smallcap"
-                            >Fazekas</hi> 2021, 31. See Oláh’s poem to him: <hi rend="smallcap"
-                            >Hegedüs</hi> 1906, 406; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 26;
-                            <hi rend="smallcap">Neagu</hi> 2003, 328.</note> expediendam darem. Nam
-                    ipse sciret, cum alias quoque iussu maiestatis suae tales expeditiones
-                    tractasset <del corresp="Olahus">et non ignoraret</del> quomodo ad Turcam et
-                    bassas nomine suae maiestatis scribendum esset. Ego illico secundum mandatum
-                    maiestatis suae regiae instructionem ipsam manu mea notariam ipsi
-                        <persName>Adamo</persName> misi. De qua etiam postea interrogavi eum, et
-                    dixit se eam habere. <del corresp="Olahus">Hoc pacto</del><add corresp="Olahus"
-                        type="corr">Haec</add> etiam tibi dixi me fecisse. Praeterea scis me te
-                    admonuisse, ut ea, quae tibi ad hanc expeditionem necessaria essent, in
-                    articulos conscriberes et ad quos scribendum esset, signares, eaque dares
-                        <persName>Adamo</persName>. Propterea nescio, <milestone unit="pb"/>unde
-                    fit, quod expeditus non sis. <persName>Adamum</persName> ego propterea haesisse
+                        Honorandissime!<note xml:id="note.1">Hieronymus Adorno (†1545) was Provost
+                        of Eger and legat of King Ferdinand I to Constantinople.</note></p>
+                <p xml:id="p.2">Accepi in campo tuas litterulas,<note xml:id="note.2">We do not know
+                        this letter.</note> quibus scribis de instructione tua, quibus scribis de
+                    instructione tua<note xml:id="note.3">I.e. <hi rend="italic">Instructio pro
+                            Odoardo et Adurno</hi>, edited by Ferdinand I on 28 December, 1544.
+                        Adorno was sent to Constantinople to arrange a peace agreement with the
+                        Turks for one year, but he died in March, on the way to Edirne, see <hi
+                            rend="smallcap">Laczlavik</hi> 2014, 97.</note> et litteris credentiis
+                    tibi ad praesentem legationem necessariis. Ego omnia haec iamdudum expedire
+                    potuissem. Non soleo enim negligens esse etiam in minoribus rebus, nedum in his
+                    arduis et maximi momenti, sed secundo statim die, postquam <persName>maiestas
+                        regia</persName>, dominus meus clementissimus de tua profectione et
+                    legatione deliberavit, iuxta deliberationem suae maiestatis instructionem ipsam
+                    in consilio nostro securo perlegi. Suaque maiestas iussit, ut eam cum litteris
+                    necessariis <persName>Adamo nostro Carolo</persName><note xml:id="note.4">Adam
+                        Karl was the Latin Secretary of the Imperial Court Chancellery between 1536
+                        and 1545, see <hi rend="smallcap">Fazekas</hi> 2021, 31. See Oláh’s poem to
+                        him: <hi rend="smallcap">Hegedüs</hi> 1906, 406; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 26; <hi rend="smallcap">Neagu</hi> 2003,
+                        328.</note> expediendam darem. Nam ipse sciret, cum alias quoque iussu
+                    maiestatis suae tales expeditiones tractasset <del corresp="Olahus">et non
+                        ignoraret</del> quomodo ad Turcam et bassas nomine suae maiestatis
+                    scribendum esset. Ego illico secundum mandatum maiestatis suae regiae
+                    instructionem ipsam manu mea notariam ipsi <persName>Adamo</persName> misi. De
+                    qua etiam postea interrogavi eum, et dixit se eam habere. <del corresp="Olahus"
+                        >Hoc pacto</del><add corresp="Olahus" type="corr">Haec</add> etiam tibi dixi
+                    me fecisse. Praeterea scis me te admonuisse, ut ea, quae tibi ad hanc
+                    expeditionem necessaria essent, in articulos conscriberes et ad quos scribendum
+                    esset, signares, eaque dares <persName>Adamo</persName>. Propterea nescio,
+                        <milestone unit="pb"/>unde fit, quod expeditus non sis.
+                        <persName>Adamum</persName> ego propterea haesisse
                         <placeName>Wiennae</placeName> putavi, quod litteras a maiestate regia
                     exspectaret et te expediret. <add corresp="Olahus" type="insert">Dixit enim mihi
                         se exspectare aliquas expeditiones a maiestate regia, quas ego tuas fecisse
@@ -280,34 +277,34 @@
                     est, expediat statim littaras credentiae tam ad Turcam, quam ad alios, quos vis,
                     et dies ut noctes mittat per postam ad maiestatem regiam unacum instructione, si
                     eam quoque nondum expedivit signandas. Ex <placeName>Praga</placeName>
-                        reversus<note type="critic" xml:id="note.5">In Korneuburg, Oláh was on way
-                        to Prague. According to Oláh’s correspondence, he was in Prague on 10
-                        February, 1545, and he had to travel to Worms at the end of March at the
-                        latest. He was in Worms on 15 April, 1545.</note> ad te vel dominum
-                        <persName>de Fels</persName><note type="critic" xml:id="note.6">Leonhard von
-                        Vels.</note> remitti sine mora poterent. Tu interim eas istic exspectare
-                    possis, ego properabo quantum <del corresp="Olahus">ad</del> possum ad
-                    maiestatem regiam et loquar suae maiestati, sed si etiam eo venero, nescio
-                    quomodo concluseras cum maiestate regia, vel domino de Fels de titulo tuo, sine
-                    quo litterae expediri non possent. Optabas enim nominari consiliarius et orator.
-                    Fac itaque in omnem eventum me dies et noctes per postam certiorem, quid
-                    concluseris de titulo. Praevenire me posta poterit, <milestone unit="pb"/>si
-                    illum <add corresp="Olahus" type="insert">hodie</add> expediveris. Sed age prius
-                    cum <persName>Adamo</persName>, si nondum <placeName>Wienna</placeName>
+                        reversus<note xml:id="note.5">In Korneuburg, Oláh was on way to Prague.
+                        According to Oláh’s correspondence, he was in Prague on 10 February, 1545,
+                        and he had to travel to Worms at the end of March at the latest. He was in
+                        Worms on 15 April, 1545.</note> ad te vel dominum <persName>de
+                        Fels</persName><note xml:id="note.6">Leonhard von Vels.</note> remitti sine
+                    mora poterent. Tu interim eas istic exspectare possis, ego properabo quantum
+                        <del corresp="Olahus">ad</del> possum ad maiestatem regiam et loquar suae
+                    maiestati, sed si etiam eo venero, nescio quomodo concluseras cum maiestate
+                    regia, vel domino de Fels de titulo tuo, sine quo litterae expediri non possent.
+                    Optabas enim nominari consiliarius et orator. Fac itaque in omnem eventum me
+                    dies et noctes per postam certiorem, quid concluseris de titulo. Praevenire me
+                    posta poterit, <milestone unit="pb"/>si illum <add corresp="Olahus"
+                        type="insert">hodie</add> expediveris. Sed age prius cum
+                        <persName>Adamo</persName>, si nondum <placeName>Wienna</placeName>
                     movit.</p>
                 <p xml:id="p.3">Culpa autem nescio in quem rem <del corresp="Olahus">quidem</del><choice>
                         <orig><gap extent="unknown" reason="illegible" unit="word"/>ire</orig>
                         <supplied><corr>ven</corr>ire</supplied>
-                    </choice><note type="critic" xml:id="note.7">Uncertain reading.</note>potest? In
-                    me certe nulla. Nam <del corresp="Olahus">ego</del> postquam
-                        <persName>Adamus</persName> haberi firmationem per me ei datam, quod etiam
-                    tibi significari debebas cum eo agere et ipse debebat te expedire. Ad quos autem
-                    litterae dari debuerint credentiae. Etiam ex ipsa instructione ipse videre
-                    potuerit. Et tu eum admonere debebas. Dixi enim tibi maiestatem regiam iussisse,
-                    ut ipse expediret <del corresp="Olahus">litteras</del> instructionem et litteras
-                    huius legationis haberi. Vale feliciter et sollicita <persName>Adamum</persName>
-                    vel scribe sine mora, ut prius <placeName>Pragae</placeName> ne quis defectus
-                    committat. Iterum vale. </p>
+                    </choice><note xml:id="note.7">Uncertain reading.</note>potest? In me certe
+                    nulla. Nam <del corresp="Olahus">ego</del> postquam <persName>Adamus</persName>
+                    haberi firmationem per me ei datam, quod etiam tibi significari debebas cum eo
+                    agere et ipse debebat te expedire. Ad quos autem litterae dari debuerint
+                    credentiae. Etiam ex ipsa instructione ipse videre potuerit. Et tu eum admonere
+                    debebas. Dixi enim tibi maiestatem regiam iussisse, ut ipse expediret <del
+                        corresp="Olahus">litteras</del> instructionem et litteras huius legationis
+                    haberi. Vale feliciter et sollicita <persName>Adamum</persName> vel scribe sine
+                    mora, ut prius <placeName>Pragae</placeName> ne quis defectus committat. Iterum
+                    vale. </p>
                 <p xml:id="p.4">Ex campo frigido prope <placeName>Corneamburg</placeName> 8.
                     Ianuarii 1545.</p>
                 <p xml:id="p.5">

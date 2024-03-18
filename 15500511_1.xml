@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,20 +235,20 @@
                 <p xml:id="p.2">Nescimus, ubi locorum nunc Dominatio Vestra sit, propterea has
                     quoque litteras nostras ventis et fortunae commisimus. <persName>Maiestas
                         regia</persName>, dominus noster clementissimus, ut intelligimus, hic non
-                    diu tardabit, ante festa quidem Penthecostes<note type="critic" xml:id="note.1"
-                        >25 May.</note> non discedet, sed post <add corresp="Olahus" type="insert"
-                        >statim</add> simul atque per caesaream et Catholicam maiestatem vocabitur,
-                    cuius litteras exspectat, conferet se ad suam maiestatem
-                        <placeName>Augustam</placeName> ad comitia imperialia, quae vigesima quarta
-                    Iunii mensis proxime venturi celebrabitur. Haec voluimus Dominationi Vestrae
-                    tempestive significare, ut si quid apud suam maiestatem agendum esset, posset
-                    rebus suis, ante quam discedat, provideri. Quam bene valere optamus.</p>
+                    diu tardabit, ante festa quidem Penthecostes<note xml:id="note.1">25 May.</note>
+                    non discedet, sed post <add corresp="Olahus" type="insert">statim</add> simul
+                    atque per caesaream et Catholicam maiestatem vocabitur, cuius litteras
+                    exspectat, conferet se ad suam maiestatem <placeName>Augustam</placeName> ad
+                    comitia imperialia, quae vigesima quarta Iunii mensis proxime venturi
+                    celebrabitur. Haec voluimus Dominationi Vestrae tempestive significare, ut si
+                    quid apud suam maiestatem agendum esset, posset rebus suis, ante quam discedat,
+                    provideri. Quam bene valere optamus.</p>
                 <p xml:id="p.3">Datum <placeName>Viennae</placeName> undecima mensis Maii 1550.</p>
                 <p xml:id="p.4">
                     <add corresp="Olahus" type="insert">Anseres, pullos et capones omnes Nadasdinos
                         hic devoro, ex his tamen partem quoque Dominationi Vestrae reservabo. Coram
                         plura Deo volente. Cupio servitia mea dominae meae observandissimae,
-                            <persName>coniugi</persName><note type="critic" xml:id="note.2">Orsolya
+                            <persName>coniugi</persName><note xml:id="note.2">Orsolya
                             Kanizsai.</note> Dominationis Vestrae carissimae, dominae et sorori
                         magnificae unice iterum atque iterum commendari, eamque felicissime
                         valere.</add>

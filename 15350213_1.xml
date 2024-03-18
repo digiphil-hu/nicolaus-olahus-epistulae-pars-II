@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>[Anonymous]</persName>
                 </correspAction>
             </correspDesc>
@@ -233,17 +231,17 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad. </p>
                 <p xml:id="p.2">Non possum non mirari hominum nostrorum perfidiam et latrocinium,
-                    qui plus quam <persName>Prothei</persName><note type="critic" xml:id="note.1">In
-                        Greek mythology, Proteus is a god of the sea who constantly changes his
-                        shape and form and foretells the future.</note> in nullis rebus discrimen
-                    bonorum ac malorum habent. Omnia quaecumve contingunt aut contingere possunt
-                    inter homines, et prospera et adversa, immutant. Nec unquam ullius boni rationem
-                    habent, sed omnia, quaecumque volunt, in suam utilitatem trahunt, plus sui, quam
-                    aliorum amantes. Neque ulla inter eos est vera amicitia, non fides, non caritas,
-                    nec ullus boni respectus. Omnia in perniciem aliorum et moliuntur et
-                    machinantur. Nec ullam rem unquam praetermittunt, in qua quidem arbitrantur
-                    aliquid inesse commodi, quam non ad usum ac utilitatem suam trahant, adeo sui
-                    sunt potius, quam aliorum amantes.</p>
+                    qui plus quam <persName>Prothei</persName><note xml:id="note.1">In Greek
+                        mythology, Proteus is a god of the sea who constantly changes his shape and
+                        form and foretells the future.</note> in nullis rebus discrimen bonorum ac
+                    malorum habent. Omnia quaecumve contingunt aut contingere possunt inter homines,
+                    et prospera et adversa, immutant. Nec unquam ullius boni rationem habent, sed
+                    omnia, quaecumque volunt, in suam utilitatem trahunt, plus sui, quam aliorum
+                    amantes. Neque ulla inter eos est vera amicitia, non fides, non caritas, nec
+                    ullus boni respectus. Omnia in perniciem aliorum et moliuntur et machinantur.
+                    Nec ullam rem unquam praetermittunt, in qua quidem arbitrantur aliquid inesse
+                    commodi, quam non ad usum ac utilitatem suam trahant, adeo sui sunt potius, quam
+                    aliorum amantes.</p>
                 <p xml:id="p.3">Non igitur possum sortem ac conditionem nostram non lamentari, qui
                     in haec tempora periculosa devenimus, quibus nihil videtur esse boni et nullius
                     veritatis amor. Has cur apud te, Amicorum Optime, faciam querelas, noli mirari,

@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Honor Grenville<idno type="ITIdata">Q470284</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,29 +229,29 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Illustris <persName>Domina</persName>,<note type="critic"
-                        xml:id="note.1">Honor Grenville, Viscountess Lisle (ca. 1493–1566) was one
-                        of the ladies who accompanied Anne Boleyn when she travelled to Calais in
-                        1532. She first married Sir John Basset, after whose death she married
-                        Arthur Plantagenet. See <hi rend="smallcap">Brodie</hi> 1896.</note> Domina
-                    Observandissima, servitiorum meorum commendationem. </p>
+                <p xml:id="p.1">Illustris <persName>Domina</persName>,<note xml:id="note.1">Honor
+                        Grenville, Viscountess Lisle (ca. 1493–1566) was one of the ladies who
+                        accompanied Anne Boleyn when she travelled to Calais in 1532. She first
+                        married Sir John Basset, after whose death she married Arthur Plantagenet.
+                        See <hi rend="smallcap">Brodie</hi> 1896.</note> Domina Observandissima,
+                    servitiorum meorum commendationem. </p>
                 <p xml:id="p.2">[1.] De humanitate, benevolentia et vultu benigno, quo illustris
-                    dominus meus, dominus <persName>maritus</persName><note type="critic"
-                        xml:id="note.2">Arthur Plantagenet, first Viscount Lisle (before 1472–1542)
-                        was a natural son of King Edward IV, and an uncle of King Henry VIII. He was
-                        Lord Deputy of Calais between 1533 and 1540. For more, see <hi
-                            rend="smallcap">Brodie</hi>, 1896, 399–401; and <hi rend="smallcap"
-                            >Grummitt</hi> 2004, 521–524.</note> Dominae Vestrae Illustris me nuper
-                    in prandio accipere dignatum fuit, habeo eidem gratias cumulatas. Quod, si
-                    quando dabitur occasio, mihique mandaverit, omnibus meis obsequiis tam ab
-                    illustri domino marito Dominae Vestrae, quam ab eadem promereri curabo.
-                    Mandaverat praeterea mihi Domina Vestra Illustris, ut serenissimae maiestati
-                    reginali Hungariae et Bohemiae etc. ac gubernatrici locumque tenenti sacrae
-                    caesareae maiestatis in Gallia Belgica etc., dominae meae clementissimae
-                    obsequia commendarem. Id ego mox, cum ad suam maiestatem reversus sum, feci
-                    diligenter. Maiestas sua, ut erga omnes, quos in se scit esse propensos, utitur
-                    omni benevolentia, ita Dominae Vestrae Illustris commendationem grato animo
-                    audivit, et suam benevolentiam ac clementiam vicissim obtulit. </p>
+                    dominus meus, dominus <persName>maritus</persName><note xml:id="note.2">Arthur
+                        Plantagenet, first Viscount Lisle (before 1472–1542) was a natural son of
+                        King Edward IV, and an uncle of King Henry VIII. He was Lord Deputy of
+                        Calais between 1533 and 1540. For more, see <hi rend="smallcap">Brodie</hi>,
+                        1896, 399–401; and <hi rend="smallcap">Grummitt</hi> 2004, 521–524.</note>
+                    Dominae Vestrae Illustris me nuper in prandio accipere dignatum fuit, habeo
+                    eidem gratias cumulatas. Quod, si quando dabitur occasio, mihique mandaverit,
+                    omnibus meis obsequiis tam ab illustri domino marito Dominae Vestrae, quam ab
+                    eadem promereri curabo. Mandaverat praeterea mihi Domina Vestra Illustris, ut
+                    serenissimae maiestati reginali Hungariae et Bohemiae etc. ac gubernatrici
+                    locumque tenenti sacrae caesareae maiestatis in Gallia Belgica etc., dominae
+                    meae clementissimae obsequia commendarem. Id ego mox, cum ad suam maiestatem
+                    reversus sum, feci diligenter. Maiestas sua, ut erga omnes, quos in se scit esse
+                    propensos, utitur omni benevolentia, ita Dominae Vestrae Illustris
+                    commendationem grato animo audivit, et suam benevolentiam ac clementiam vicissim
+                    obtulit. </p>
                 <p xml:id="p.3">Haec igitur volui Dominae Vestrae Illustri litteris significare, ne
                     me mandati sui immemorem esse putaret. Quae si etiam alias aliquid mihi
                     mandaverit, pro meo honore et posse libenter sum exsecuturus. Illustrem Dominam
@@ -276,9 +274,8 @@
                 <head>On the outer side:</head>
                 <p xml:id="p.7">Illustri dominae nobili coniugi carissimae illustris domini
                         <persName>Lyl</persName> debitis gubernatoris et supremi praefecti oppidi
-                        <placeName>Cales</placeName><note type="critic" xml:id="note.3"
-                        >Calais.</note> serenissimi Angliae regis consiliarii etc. dominae mihi
-                    observandissimae. </p>
+                        <placeName>Cales</placeName><note xml:id="note.3">Calais.</note> serenissimi
+                    Angliae regis consiliarii etc. dominae mihi observandissimae. </p>
             </div>
         </body>
     </text>

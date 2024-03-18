@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,29 +235,29 @@
                 <pb/>
                 <p xml:id="p.1">Franciscus Cranneveldius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Vir Ornatissime! Litteras tuas eruditissimas VIII. Novembris ad me
-                        datas,<note type="critic" xml:id="note.1">We do not know this letter.</note>
-                    cum seposuissem hodie inter cartaceam suppelectilem, repperi ac meam
-                    negligentiam accusavi, quod tamdiu nihil respondissem. Delectatus sum carmine
-                    tuo Graeco,<note type="critic" xml:id="note.2">Oláh’s Greek epitaph on Erasmus
-                        was published by Ressen in 1537: <hi rend="italic">D. Erasmi Roterodami
-                            epitaphia, per clarissimos aliquot viros conscripta</hi>, Lovanii, apud
-                        R. Rescium, 1537. The pages are not numbered, see <hi rend="smallcap"
-                            >Neagu</hi> 2003, 350.</note> quo defunctum omnium saeculorum memoria
-                    dignissimum decorasti, quod profecto tale est, ut ne Athenae quidem ipsae
-                    emittere possent tersius eruditiusque. Et quia iubes, ut meos quoque colores
-                    adhibeam (tametsi verear, ne plus umbrarum, quam lucis afferam), non potui tamen
-                    celare, quae paulo sonantius reddi possint, salvo Dominationi Tuae iudicio. In
-                    primo carmine scriberem Σήματι τῷ κεῖται τὸ νεκρόν<note type="critic"
-                        xml:id="note.3">‘on the grave where his body rests’.</note> addicto scilicet
-                    articulo, ut pedum variatio addat paululum iucunditatis. In postremo ubi habes:
-                    πνεύματα οὐράνια,<note type="critic" xml:id="note.4">‘heavenly spirits’.</note>
-                    ego potius dicerem: πνεύματ’ ἐπουράνια.<note type="critic" xml:id="note.5">Oláh
-                        corrected his poem, following Cranevelt’s advice. The 1537 edition contains
-                        the text as Cranevelt suggested, see <hi rend="smallcap">Neagu</hi> 2003,
-                        350.</note> Vide, quam <del corresp="Olahus">sit</del><add corresp="Olahus"
-                        type="corr">sim</add> morosus iudex, sed ipse te culpes, qui talem <del
-                        corresp="Olahus">adhuisti</del><add corresp="Olahus" type="corr"
-                        >adhibuisti</add> non artificem, sed Momum. Vale, Vir <choice>
+                        datas,<note xml:id="note.1">We do not know this letter.</note> cum
+                    seposuissem hodie inter cartaceam suppelectilem, repperi ac meam negligentiam
+                    accusavi, quod tamdiu nihil respondissem. Delectatus sum carmine tuo
+                        Graeco,<note xml:id="note.2">Oláh’s Greek epitaph on Erasmus was published
+                        by Ressen in 1537: <hi rend="italic">D. Erasmi Roterodami epitaphia, per
+                            clarissimos aliquot viros conscripta</hi>, Lovanii, apud R. Rescium,
+                        1537. The pages are not numbered, see <hi rend="smallcap">Neagu</hi> 2003,
+                        350.</note> quo defunctum omnium saeculorum memoria dignissimum decorasti,
+                    quod profecto tale est, ut ne Athenae quidem ipsae emittere possent tersius
+                    eruditiusque. Et quia iubes, ut meos quoque colores adhibeam (tametsi verear, ne
+                    plus umbrarum, quam lucis afferam), non potui tamen celare, quae paulo sonantius
+                    reddi possint, salvo Dominationi Tuae iudicio. In primo carmine scriberem Σήματι
+                    τῷ κεῖται τὸ νεκρόν<note xml:id="note.3">‘on the grave where his body
+                        rests’.</note> addicto scilicet articulo, ut pedum variatio addat paululum
+                    iucunditatis. In postremo ubi habes: πνεύματα οὐράνια,<note xml:id="note.4"
+                        >‘heavenly spirits’.</note> ego potius dicerem: πνεύματ’ ἐπουράνια.<note
+                        xml:id="note.5">Oláh corrected his poem, following Cranevelt’s advice. The
+                        1537 edition contains the text as Cranevelt suggested, see <hi
+                            rend="smallcap">Neagu</hi> 2003, 350.</note> Vide, quam <del
+                        corresp="Olahus">sit</del><add corresp="Olahus" type="corr">sim</add>
+                    morosus iudex, sed ipse te culpes, qui talem <del corresp="Olahus"
+                        >adhuisti</del><add corresp="Olahus" type="corr">adhibuisti</add> non
+                    artificem, sed Momum. Vale, Vir <choice>
                         <orig>Erudissime</orig>
                         <supplied>Eruditissime</supplied>
                     </choice>, et Cranneveldium, quantus est, tuum esse iudica. </p>
@@ -267,11 +265,11 @@
                 <p xml:id="p.4">Sic vertimus Graecum epitaphium:</p>
                 <p xml:id="p.5"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Conditur
-                    hoc tumulo…]<?oxy_custom_end?><note type="critic" xml:id="note.6">See <hi
-                            rend="smallcap">Ipolyi</hi> 1875, 595. Frans van Cranevelt translated
-                        Oláh’s Greek poem. For the original poem, see <hi rend="smallcap">Neagu</hi>
-                        2003, 350. In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi>
-                        2022, 1250–1251.</note></p>
+                    hoc tumulo…]<?oxy_custom_end?><note xml:id="note.6">See <hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 595. Frans van Cranevelt translated Oláh’s Greek
+                        poem. For the original poem, see <hi rend="smallcap">Neagu</hi> 2003, 350.
+                        In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1250–1251.</note></p>
             </div>
         </body>
     </text>

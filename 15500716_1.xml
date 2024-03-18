@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Gábor Perényi<idno type="ITIdata">Q250372</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,18 +233,18 @@
                 <pb/>
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Amice nobis Honorandissime,
                     salutem et nostri commendationem! </p>
-                <p xml:id="p.2">Quae nova ex parte <persName>fratris</persName><note type="critic"
-                        xml:id="note.1">Ferenc Perényi was captured and kept hostage from 1532, see
-                            <hi rend="smallcap">Kasza</hi> 2021, 60.</note> Dominationis Vestrae
+                <p xml:id="p.2">Quae nova ex parte <persName>fratris</persName><note xml:id="note.1"
+                        >Ferenc Perényi was captured and kept hostage from 1532, see <hi
+                            rend="smallcap">Kasza</hi> 2021, 60.</note> Dominationis Vestrae
                     Magnificae ex <placeName>Constantinopoli</placeName> ab oratore maiestatis
                     regiae habeamus, eorum litteras in specie praesentibus inclusas ad eandem <add
                         corresp="Olahus" type="insert">pro</add> tuendis rebus suis mittimus.</p>
                 <p xml:id="p.3">Nos, si per voluntatem <persName>maiestatis regiae</persName>
                     licuisset, hoc tempore libentius <placeName>Agriae</placeName><note
-                        type="critic" xml:id="note.2">Eger.</note> essemus, quam hic, ubi caritas
-                    omnium rerum magna est, verum ea nostra voluntas adempta nobis est, domestica
-                    igitur nostra negotia Dominationi Vestrae Magnificae commendamus rogamusque, ut
-                    paratam vicinitatem nobiscum habeat. Nobilibus iuvenibus aula principum quantae
+                        xml:id="note.2">Eger.</note> essemus, quam hic, ubi caritas omnium rerum
+                    magna est, verum ea nostra voluntas adempta nobis est, domestica igitur nostra
+                    negotia Dominationi Vestrae Magnificae commendamus rogamusque, ut paratam
+                    vicinitatem nobiscum habeat. Nobilibus iuvenibus aula principum quantae
                     utilitati sit, res ipsa loquitur, in ea enim ad bonos mores retinendos,
                     cognitionemque plurimarum rerum, utilia ab ingenuis imbibuntur, domi educati,
                     cum nihil, nisi domestica videant, audiant, experianturque, ultra haec sapere

@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -249,10 +247,10 @@
                 <pb/>
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Amice nobis Observandissime,
                     salutem et servitiorum nostrorum commendationem!</p>
-                <p xml:id="p.2">[1.] Hodie litteras<note type="critic" xml:id="note.1">We do not
-                        know this letter.</note> Magnificae Dominationis Vestrae recepimus plenas
-                    doloris, quominus <placeName>Viennae</placeName> die nostri discessus<note
-                        type="critic" xml:id="note.2">On 13 June, according to letter Ep.
+                <p xml:id="p.2">[1.] Hodie litteras<note xml:id="note.1">We do not know this
+                        letter.</note> Magnificae Dominationis Vestrae recepimus plenas doloris,
+                    quominus <placeName>Viennae</placeName> die nostri discessus<note
+                        xml:id="note.2">On 13 June, according to letter Ep.
                             740.<ref>olahus.tei.15500614_1</ref></note><choice>
                         <orig><gap extent="1" reason="damage" unit="word"/>s</orig>
                         <supplied><corr>no</corr>s</supplied>
@@ -261,28 +259,27 @@
                     enim <placeName>Vienna</placeName> discessimus, ut ex gratia omnipotentis iterum
                     nos mutuum videamus. Quod ut fiat, faxit idem, atque interim Dominationem
                     Vestram Magnificam simulcum generosa ac magnifica domina
-                        <persName>coniuge</persName><note type="critic" xml:id="note.3">Orsolya
-                        Kanizsai.</note> sua, domina nobis observandissima, longe felicissimam
-                    valere optamus.</p>
+                        <persName>coniuge</persName><note xml:id="note.3">Orsolya Kanizsai.</note>
+                    sua, domina nobis observandissima, longe felicissimam valere optamus.</p>
                 <p xml:id="p.3">Quod ad negotium orphanorum <persName>Czobor</persName><note
-                        type="critic" xml:id="note.4">Márton I Czobor’s (1457–1505) children were
-                        János, Anna, and Farkas, see <hi rend="smallcap">Nagy</hi> 1858, 206.</note>
-                    attinet, <persName>maiestas regia</persName> post multos tractatus ita in
-                    postremo consilio conclusit, quod postquam <persName>Bakyth</persName><note
-                        type="critic" xml:id="note.5">Péter Bakics married Anna Czobor, see <hi
-                            rend="smallcap">Nagy</hi> 1858, 206.</note> propriam suam pecuniam dare
-                    debet <persName>Reway</persName><note type="critic" xml:id="note.6">Mihály
-                        Révay.</note> in redemptionem <placeName>Holycz</placeName>, non potest
-                    parte pecuniarum suarum privari arcis <placeName>Holycz</placeName> dimidia
-                    parte apud ipsos <persName>Czobor</persName> permanente, sed visum fuit suae
-                    maiestati ex consilio, quod sicuti ipse <persName>Bakyth</persName> sic obtulit,
-                    duo millia et quingentos Florenos ipse pueris ipsis relaxet et quindecim millia
-                    Florenorum in duobus aut tribus terminis prout <milestone unit="pb"/>mutuo
-                    concordari poterunt, pueri ipsi <persName>Czobor</persName> ei persolvant, et
-                    ita in dominio dimidiae partis <placeName>Holycz</placeName> permaneant.<note
-                        type="critic" xml:id="note.7">A few years later, Mihály Révay married the
-                        daughter of Péter Bakics, Anna Bakics, see <hi rend="smallcap">Pálffy</hi>
-                        2009a, 13–14.</note> De usu <choice>
+                        xml:id="note.4">Márton I Czobor’s (1457–1505) children were János, Anna, and
+                        Farkas, see <hi rend="smallcap">Nagy</hi> 1858, 206.</note> attinet,
+                        <persName>maiestas regia</persName> post multos tractatus ita in postremo
+                    consilio conclusit, quod postquam <persName>Bakyth</persName><note
+                        xml:id="note.5">Péter Bakics married Anna Czobor, see <hi rend="smallcap"
+                            >Nagy</hi> 1858, 206.</note> propriam suam pecuniam dare debet
+                        <persName>Reway</persName><note xml:id="note.6">Mihály Révay.</note> in
+                    redemptionem <placeName>Holycz</placeName>, non potest parte pecuniarum suarum
+                    privari arcis <placeName>Holycz</placeName> dimidia parte apud ipsos
+                        <persName>Czobor</persName> permanente, sed visum fuit suae maiestati ex
+                    consilio, quod sicuti ipse <persName>Bakyth</persName> sic obtulit, duo millia
+                    et quingentos Florenos ipse pueris ipsis relaxet et quindecim millia Florenorum
+                    in duobus aut tribus terminis prout <milestone unit="pb"/>mutuo concordari
+                    poterunt, pueri ipsi <persName>Czobor</persName> ei persolvant, et ita in
+                    dominio dimidiae partis <placeName>Holycz</placeName> permaneant.<note
+                        xml:id="note.7">A few years later, Mihály Révay married the daughter of
+                        Péter Bakics, Anna Bakics, see <hi rend="smallcap">Pálffy</hi> 2009a,
+                        13–14.</note> De usu <choice>
                         <orig>fructu</orig>
                         <supplied>fructuum</supplied>
                     </choice> autem et perceptione proventuum dicti <persName>Czobor</persName>
@@ -295,17 +292,17 @@
                     </choice> in aliquo convictus fuerit, orphanis <persName>Czobor</persName>
                     satisfacere tenebitur.</p>
                 <p xml:id="p.4">[2.] Litteras in negotio domini <persName>Czabi</persName><note
-                        type="critic" xml:id="note.8">Farkas Csaby († after 1551) and his family had
-                        possessions in Zala county, and he was Tamás Nádasdy’s retainer <hi
-                            rend="italic">(familiaris)</hi>, see <hi rend="smallcap"
-                            >Hegedűs–Papp</hi> 1991, 292.</note> tales misimus, quales Dominatio
-                    Vestra Magnifica a nobis optavit, quodsi alias optaverit, faciat certiores et
-                    quascumque voluerit, mittemus. Dominationi Vestrae Magnificae nos, sororem,
-                    consanguineos ac domum nostram Viennensem et Agriensem unice commendamus.<note
-                        type="critic" xml:id="note.9">On his household in Vienna, see Ep. 740.; and
-                            <hi rend="smallcap">Fazekas</hi> 2005; and <hi rend="smallcap"
-                            >Fazekas</hi> 2017.<ref>olahus.tei.15500614_1</ref></note> Quam in
-                    reliquo optamus felicissime valere.</p>
+                        xml:id="note.8">Farkas Csaby († after 1551) and his family had possessions
+                        in Zala county, and he was Tamás Nádasdy’s retainer <hi rend="italic"
+                            >(familiaris)</hi>, see <hi rend="smallcap">Hegedűs–Papp</hi> 1991,
+                        292.</note> tales misimus, quales Dominatio Vestra Magnifica a nobis
+                    optavit, quodsi alias optaverit, faciat certiores et quascumque voluerit,
+                    mittemus. Dominationi Vestrae Magnificae nos, sororem, consanguineos ac domum
+                    nostram Viennensem et Agriensem unice commendamus.<note xml:id="note.9">On his
+                        household in Vienna, see Ep. 740.; and <hi rend="smallcap">Fazekas</hi>
+                        2005; and <hi rend="smallcap">Fazekas</hi>
+                            2017.<ref>olahus.tei.15500614_1</ref></note> Quam in reliquo optamus
+                    felicissime valere.</p>
                 <p xml:id="p.5">Ex civitate <del corresp="Olahus">Amaso</del><add corresp="Olahus"
                         type="corr">Lyncz</add><del corresp="Olahus">19</del><add corresp="Olahus"
                         type="corr">20.</add> Iunii 1550.</p>

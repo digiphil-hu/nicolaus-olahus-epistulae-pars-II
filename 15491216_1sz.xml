@@ -190,11 +190,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Royal Lieutenancy Council in Bratislava</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -220,21 +218,20 @@
                 <p xml:id="p.2">Reverendissime etc.!</p>
                 <p xml:id="p.3">Scribimus ad <persName>regiam maiestatem</persName>, dominum nostrum
                     clementissimum in commendationem filiorum quondam egregii <persName>Michaelis
-                        Bydy</persName>,<note type="critic" xml:id="note.1">Mihály I Büdy (†1546)
-                        was loyal to Queen Mary and King Ferdinand I, so he became <hi rend="italic"
-                            >ispán</hi> of Bereg county in 1545 and Castellan of Mukachevo from
-                        1543.</note> praefecti arcis <placeName>Munkach</placeName>, Reverendissima
-                    Dominatio Vestra cognoscet. Mittimus etiam ad suam maiestatem supplicem libellum
-                    nobis eorundem orphanorum nomine<note type="critic" xml:id="note.2">Mihály
-                        Büdy’s orphans were Mihály II, Klára, and Farkas. In 1547, Mihály II became
-                            <hi rend="italic">ispán</hi> of Bereg county. He later married Oláh’s
-                        niece, Anna Oláh. See <hi rend="smallcap">Nagy</hi> 1858, 280–281.</note>
-                    porrectum, ex quo pariter intelliget Reverendissima Dominatio Vestra, quid illi
-                    petant a sua maiestate. Nobis causa ipsa multis rationibus favore visa est bene
-                    digna ac proinde Reverendissima Dominatio Vestra, ut solet, favere ipsis
-                    supplicantibus velit, ut impetrent, quod petunt et nostra commendatio pondus
-                    habuisse videatur. Optamus Reverendissimam Dominationem Vestram feliciter valere
-                    etc. </p>
+                        Bydy</persName>,<note xml:id="note.1">Mihály I Büdy (†1546) was loyal to
+                        Queen Mary and King Ferdinand I, so he became <hi rend="italic">ispán</hi>
+                        of Bereg county in 1545 and Castellan of Mukachevo from 1543.</note>
+                    praefecti arcis <placeName>Munkach</placeName>, Reverendissima Dominatio Vestra
+                    cognoscet. Mittimus etiam ad suam maiestatem supplicem libellum nobis eorundem
+                    orphanorum nomine<note xml:id="note.2">Mihály Büdy’s orphans were Mihály II,
+                        Klára, and Farkas. In 1547, Mihály II became <hi rend="italic">ispán</hi> of
+                        Bereg county. He later married Oláh’s niece, Anna Oláh. See <hi
+                            rend="smallcap">Nagy</hi> 1858, 280–281.</note> porrectum, ex quo
+                    pariter intelliget Reverendissima Dominatio Vestra, quid illi petant a sua
+                    maiestate. Nobis causa ipsa multis rationibus favore visa est bene digna ac
+                    proinde Reverendissima Dominatio Vestra, ut solet, favere ipsis supplicantibus
+                    velit, ut impetrent, quod petunt et nostra commendatio pondus habuisse videatur.
+                    Optamus Reverendissimam Dominationem Vestram feliciter valere etc. </p>
                 <p xml:id="p.4"><placeName>Posonii</placeName> die 16. Decembris 1549. </p>
             </div>
         </body>

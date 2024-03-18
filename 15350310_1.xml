@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Szalaházy<idno type="ITIdata">Q258359</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -241,19 +239,18 @@
                 <p xml:id="p.2">Nova hic non multa sunt, de quibus ad te scribere possem. Quae tamen
                     sunt, nolui <del corresp="Olahus">ceticere</del><add corresp="Olahus"
                         type="corr">reticere</add>, usus meo in te officio serviendi. <persName>Rex
-                        Galliae</persName><note type="critic" xml:id="note.1">King Francis I.</note>
-                    non desistit clanculariis insidiis principum nostrorum authoritatem ac imperium,
-                    si quid posset, impetere. Cum <persName>rege Angliae</persName>,<note
-                        type="critic" xml:id="note.2">King Henry VIII.</note> ut antea semper, ita
-                    et nunc coniunctus est, qui et ipse nihil magis cogitat, quam Austriacae
-                    principum nostrorum domus debilitationem. Id tamen superi neutris admittent, sed
-                    omnino brevi futurum arbitror, ut malo fine uterque terminetur, <milestone
-                        unit="pb"/>ac suam tam diuturni temporis malitiam pernicie sua diluat,
-                        <quote xml:id="quote.1">lunamque in suum malum e caelo deducat,</quote><note
-                        type="quote" xml:id="note.quote.1">Proverb, cf. Erasm. <hi rend="italic"
-                            >Adag</hi>. 2102. III, II, 2. In tuum ipsius malum lunam deduces.</note>
-                    ut est in proverbio. Nam hinc quoque non imparati sunt, si quid aperte notum
-                    fuerit. </p>
+                        Galliae</persName><note xml:id="note.1">King Francis I.</note> non desistit
+                    clanculariis insidiis principum nostrorum authoritatem ac imperium, si quid
+                    posset, impetere. Cum <persName>rege Angliae</persName>,<note xml:id="note.2"
+                        >King Henry VIII.</note> ut antea semper, ita et nunc coniunctus est, qui et
+                    ipse nihil magis cogitat, quam Austriacae principum nostrorum domus
+                    debilitationem. Id tamen superi neutris admittent, sed omnino brevi futurum
+                    arbitror, ut malo fine uterque terminetur, <milestone unit="pb"/>ac suam tam
+                    diuturni temporis malitiam pernicie sua diluat, <quote xml:id="quote.1">lunamque
+                        in suum malum e caelo deducat,</quote><note type="quote"
+                        xml:id="note.quote.1">Proverb, cf. Erasm. <hi rend="italic">Adag</hi>. 2102.
+                        III, II, 2. In tuum ipsius malum lunam deduces.</note> ut est in proverbio.
+                    Nam hinc quoque non imparati sunt, si quid aperte notum fuerit. </p>
                 <p xml:id="p.3">Classis caesaris ad finem huius mensis velificationi se committet,
                     triginta millibus militum instruenda ultra remiges. Non parvi haec est res
                     momenti, vix nostro et superiore aevo talis parata fuit classis, cuius ventum
@@ -264,21 +261,20 @@
                     memoria tui e mente ipsius excideret, sed dum tempus fuit et occasio, feci et
                     facio semper, quod facere debeo. Lutherani, Anabaptistae et hic et in Gallia
                     Celtica passim sine misericordia puniuntur, sed <persName>Hydrae</persName><note
-                        type="critic" xml:id="note.3">The Lernaean Hydra was a monster and one of
-                        Hercules’ twelwe labours. It had many heads, and if someone tried to cut
-                        them off, two more heads would grow out.</note> sunt, uno capite abscisso
-                    renascuntur plures; doctrina magis exstingui possent. </p>
+                        xml:id="note.3">The Lernaean Hydra was a monster and one of Hercules’ twelwe
+                        labours. It had many heads, and if someone tried to cut them off, two more
+                        heads would grow out.</note> sunt, uno capite abscisso renascuntur plures;
+                    doctrina magis exstingui possent. </p>
                 <p xml:id="p.4">De rebus Hungariae et <persName>Ioannis</persName><note
-                        type="critic" xml:id="note.4">King John I.</note> tractatibus nihil huc
-                    certi scribitur. <persName>Regina</persName> cupida esset ea intelligere, quae
-                    certa istic aguntur, verum pendere omnia arbitror ex rebus caesaris. In meis
-                    rebus et promotione omnis mea spes est in te et semper fuit posita, ubi sim et,
-                    in quo nunc statu Hungarico, nec solus scio. Et tamen spem in te habeo
-                    constantem, ut aliquando mei sis memor. Memor autem fieri potes, si tua
-                    authoritate mea indigne et praeter promissionem regis occupata bona aliquando
-                    remitti curaveris, atque etiam, si apud maiestatem regiam me, meumque statum
-                    promoveris, ne tot promissiones, quae factae mihi fuerunt, semper negligantur.
-                    Vale. </p>
+                        xml:id="note.4">King John I.</note> tractatibus nihil huc certi scribitur.
+                        <persName>Regina</persName> cupida esset ea intelligere, quae certa istic
+                    aguntur, verum pendere omnia arbitror ex rebus caesaris. In meis rebus et
+                    promotione omnis mea spes est in te et semper fuit posita, ubi sim et, in quo
+                    nunc statu Hungarico, nec solus scio. Et tamen spem in te habeo constantem, ut
+                    aliquando mei sis memor. Memor autem fieri potes, si tua authoritate mea indigne
+                    et praeter promissionem regis occupata bona aliquando remitti curaveris, atque
+                    etiam, si apud maiestatem regiam me, meumque statum promoveris, ne tot
+                    promissiones, quae factae mihi fuerunt, semper negligantur. Vale. </p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 10. Martii 1535.</p>
             </div>
         </body>

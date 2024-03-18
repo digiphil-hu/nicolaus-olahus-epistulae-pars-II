@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,43 +242,41 @@
                 <p xml:id="p.2">[1.] Mandavit mihi hoc triduo serenissimus rex
                         <persName>Maximilianus</persName>, dominus meus clementissimus, ut sibi ea,
                     quae mihi constarent de ordinatione cum domino <persName>Bathory</persName><note
-                        type="critic" xml:id="note.1">András (Bonaventura) Báthori.</note> super
-                    vaivodatu Transsilvaniensi facta, explicarem. Quae cum serenitati suae
-                    enarrassem, iussit eadem mihi, ut ad Maiestatem Vestram Sacram perscriberem.
-                    Mitto igitur cum praesentibus exemplum ordinationis cum eodem domino
-                        <persName>Bathory</persName> factae. Extra quam ordinationem petebat idem
-                    adhuc centum equites ad personam suam, ultra scilicet ducentos eos, qui in
-                    ordinationem continentur, atque insuper ducentos alios equites pro fratre suo
-                        <persName>Nicolao Bathory</persName>.<note type="critic" xml:id="note.2"
-                        >Miklós Báthori.</note> De quibus cuiusmodi responsum ei datum fuerit a
-                    Vestra Maiestate, mihi non constat, affirmat ipse quidem dominus
-                        <persName>Bathory</persName>, per dominos <persName>Nadasdy</persName><note
-                        type="critic" xml:id="note.3">Tamás Nádasdy.</note> ac <persName>episcopum
-                        Nittriensem</persName><note type="critic" xml:id="note.4">Ferenc
+                        xml:id="note.1">András (Bonaventura) Báthori.</note> super vaivodatu
+                    Transsilvaniensi facta, explicarem. Quae cum serenitati suae enarrassem, iussit
+                    eadem mihi, ut ad Maiestatem Vestram Sacram perscriberem. Mitto igitur cum
+                    praesentibus exemplum ordinationis cum eodem domino <persName>Bathory</persName>
+                    factae. Extra quam ordinationem petebat idem adhuc centum equites ad personam
+                    suam, ultra scilicet ducentos eos, qui in ordinationem continentur, atque
+                    insuper ducentos alios equites pro fratre suo <persName>Nicolao
+                        Bathory</persName>.<note xml:id="note.2">Miklós Báthori.</note> De quibus
+                    cuiusmodi responsum ei datum fuerit a Vestra Maiestate, mihi non constat,
+                    affirmat ipse quidem dominus <persName>Bathory</persName>, per dominos
+                        <persName>Nadasdy</persName><note xml:id="note.3">Tamás Nádasdy.</note> ac
+                        <persName>episcopum Nittriensem</persName><note xml:id="note.4">Ferenc
                         Thurzó.</note> sibi super his quoque optatum a Vestra Maiestate datum fuisse
                     responsum, nam per eos <add corresp="scriba" type="insert">dominos</add>
                     tractatur cum ipso habiti fuerant nomine Vestrae Maiestatis. </p>
                 <p xml:id="p.3">Concessit praeterea Maiestas Vestra ipsi domino
                         <persName>Bathory</persName> curiam de <placeName>Thasnad</placeName><note
-                        type="critic" xml:id="note.5">Tășnad.</note> cum omnibus proventibus ad unum
-                    annum, donec videlicet arx <placeName>Zomzedwar</placeName><note type="critic"
-                        xml:id="note.6">Szomszédvár, today: Susedgrad.</note> reliquaque bona illa
-                    sibi et fratribus per Maiestatem Vestram liberentur.</p>
+                        xml:id="note.5">Tășnad.</note> cum omnibus proventibus ad unum annum, donec
+                    videlicet arx <placeName>Zomzedwar</placeName><note xml:id="note.6">Szomszédvár,
+                        today: Susedgrad.</note> reliquaque bona illa sibi et fratribus per
+                    Maiestatem Vestram liberentur.</p>
                 <p xml:id="p.4">De scutellis autem argenteis quondam <persName>Fratris
-                        Georgii</persName><note type="critic" xml:id="note.7">George
-                        Martinuzzi.</note> per Maiestatem Vestram eidem domino
-                        <persName>Bathory</persName> datis, mihi nihil antea est auditum. Alia, quae
-                    de his <milestone unit="pb"/>ad Maiestatem Vestram scriberem, non habui. </p>
+                        Georgii</persName><note xml:id="note.7">George Martinuzzi.</note> per
+                    Maiestatem Vestram eidem domino <persName>Bathory</persName> datis, mihi nihil
+                    antea est auditum. Alia, quae de his <milestone unit="pb"/>ad Maiestatem Vestram
+                    scriberem, non habui. </p>
                 <p xml:id="p.5">[2.] De statu rerum Hungaricarum nihil ad Maiestatem Vestram scribo,
                     neque enim dubito, quin serenissimus rex <persName>Maximilianus</persName> de
                     his omnibus copiose ad eam scribat. Video certe et circa
-                        <placeName>Wesprimium</placeName><note type="critic" xml:id="note.8"
-                        >Veszprém.</note> et alibi omnia fere loca finitima firmioribus egere
-                    praesidiis ac tum hac tum aliis de causis felicem Sacrae Maiestatis Vestrae
-                    reditum non mediocriter esse necessarium; confido autem eandem et ista satis
-                    intelligere, et cum primum potuerit ad fideles suos in haec loca reversuram.
-                    Dominus Deus servet Sacram Maiestatem Vestram felicem et incolumem quam
-                    diutissime. </p>
+                        <placeName>Wesprimium</placeName><note xml:id="note.8">Veszprém.</note> et
+                    alibi omnia fere loca finitima firmioribus egere praesidiis ac tum hac tum aliis
+                    de causis felicem Sacrae Maiestatis Vestrae reditum non mediocriter esse
+                    necessarium; confido autem eandem et ista satis intelligere, et cum primum
+                    potuerit ad fideles suos in haec loca reversuram. Dominus Deus servet Sacram
+                    Maiestatem Vestram felicem et incolumem quam diutissime. </p>
                 <p xml:id="p.6"><placeName>Viennae</placeName> die vigesimo tertio mensis Iunii anno
                     Domini millesimo quingentesimo quinquagesimo secundo.</p>
                 <p xml:id="p.7">

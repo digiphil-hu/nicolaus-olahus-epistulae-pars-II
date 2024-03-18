@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,64 +235,61 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
-                <p xml:id="p.2">Unas tuas litteras VII. Martii datas<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> proxime accepi, quibus me
-                    mones de omni statu rerum nostrarum, quod mirum in modum et
-                        <persName>principi</persName><note type="critic" xml:id="note.2">Francesco
-                        II Sforza.</note> meo et mihi gratum fuit. <persName>Reginae</persName><note
-                        type="critic" xml:id="note.3">Queen Mary of Hungary.</note> valetudinem
-                    indies fieri meliorem laetamur, utinam per aliquot saltem dies <choice>
+                <p xml:id="p.2">Unas tuas litteras VII. Martii datas<note xml:id="note.1">We do not
+                        know this letter.</note> proxime accepi, quibus me mones de omni statu rerum
+                    nostrarum, quod mirum in modum et <persName>principi</persName><note
+                        xml:id="note.2">Francesco II Sforza.</note> meo et mihi gratum fuit.
+                        <persName>Reginae</persName><note xml:id="note.3">Queen Mary of
+                        Hungary.</note> valetudinem indies fieri meliorem laetamur, utinam per
+                    aliquot saltem dies <choice>
                         <orig>medicis</orig>
                         <supplied>medici</supplied>
                     </choice> dicto audiens esset, non enim vererer, quod pristinas vires brevi
-                    recuperatura esset. In <persName>Candiano</persName><note type="critic"
-                        xml:id="note.4">Ambrogio Candiano.</note> fidem aut diligentiam non
-                    desiderabitis, vir certe probus est, et in re medica experientissimus. Germani
-                    pedites inter portum Delphini<note type="critic" xml:id="note.5">Portofino.
-                        “Pliny; a port on the coast of Liguria. Now Porto Fino, and fifteen miles to
-                        the east, of Genoa”, see <hi rend="smallcap">MacBean</hi> 1773.</note> et
-                        Lunae<note type="critic" xml:id="note.6">Lunae portus: “Strabo; a very
-                        extensive port, or more truly a bay of Liguria, between Portus Veneris and
-                        Portus Ericis, twenty miles compass”, see <hi rend="smallcap">MacBean</hi>
-                        1773.</note> conscendere, quatriduo post <persName>Andreas Auria</persName>
-                    cum XV triremibus suis transmittet in Hispaniam caesaris iussu. Is nunc primum
-                        <placeName>Barchinonae</placeName><note type="critic" xml:id="note.7"
-                        >Barcelona.</note> agit, classis eius cum
-                        <placeName>Luctatii</placeName><note type="critic" xml:id="note.8">Probably
-                        Lucca, but it is not clear.</note> classe omnino conferenda est et numero
-                    navium et militum et remigum experientia, cuius adventus in Aphricam summe a
-                        <persName>Tuneti regulo</persName><note type="critic" xml:id="note.9">Abu
-                        Abdallah Muhammad V al-Hasa.</note> et illius clitellis exspectatur. Quare
-                    fac, bono animo sis. Nec <persName>Aenobarbi</persName><note type="critic"
-                        xml:id="note.10">Hayreddin Barbarossa Pasha.</note> vires pertimescendae
-                    sunt, dabit enim poenas sceleratissimus reipublicae Christianae hostis illatorum
-                    nobis damnorum. Eum pro certo habemus et a pecunia et militibus flagitiose
-                    imparatum esse, et si <persName>Gallo</persName> suasere classem nostram
-                    opperietur, quos risus brevi edet? Credo te iam intellexisse caesaris Turcarum
-                    copias a Persa labefactatas fuisse, bellicis tormentis omnibus amissis, et
-                    pecunia intercepta, quae tunc ei expeditissima erat, haec cum nobis quotidie per
-                    certissimos homines confirmantur, nos monent veriora esse veris, et Deum nostrum
-                    caesarem omnino totius orbis imperio brevi potiturum.
-                        <persName>Pontifex</persName><note type="critic" xml:id="note.11">Pope Paul
-                        III.</note> edentulus in Gallionis partes propensior est, sed tamen hiscere
-                    non audebit, Veneta respublica non deseret caesarem. <persName>Dux
-                        Ferrariae</persName><note type="critic" xml:id="note.12">Ercole II d’Este
-                        (1508–1559) was Duke of Ferrara from 1534.</note> foedus Italicum irrisit,
-                    quando cum reliquis Italiae proceribus consentire noluit, spero deos illi fore
-                    iratos. Helvetii nuper inter se dissidere coeperunt. Credo ob
-                        <placeName>Genevae</placeName> defectionem<note type="critic"
-                        xml:id="note.13">I.e. Calvinism.</note> a <persName>duce
-                        Allobrogensi</persName><note type="critic" xml:id="note.14">Charles III of
-                        Savoy (1486–1553), Duke of Savoy. The Allobroges were a Gallic people living
-                        below the river Rhine and the Alps during the Roman period.</note> utrinque
-                    tamen ab armis abstinetur. <persName>Sceperum</persName><note type="critic"
-                        xml:id="note.15">Cornelis de Schepper.</note> nostrum meo nomine salutabis,
-                    item reliquos omnes amicos meos et praesertim lectissimam <persName>Virginem
-                        Lucretiam Caballam</persName>,<note type="critic" xml:id="note.16">Lucretia
-                        Caballis (vom Ross).</note> et Gilini tui memor semper esto. Vale. </p>
-                <p xml:id="p.3">Ex vico Iovis<note type="critic" xml:id="note.17">Vicus Iovis
-                        Fagutalis was a street on the Esquiline Hill in Rome.</note> VI. Nonas
-                    Aprilis MDXXXV.</p>
+                    recuperatura esset. In <persName>Candiano</persName><note xml:id="note.4"
+                        >Ambrogio Candiano.</note> fidem aut diligentiam non desiderabitis, vir
+                    certe probus est, et in re medica experientissimus. Germani pedites inter portum
+                        Delphini<note xml:id="note.5">Portofino. “Pliny; a port on the coast of
+                        Liguria. Now Porto Fino, and fifteen miles to the east, of Genoa”, see <hi
+                            rend="smallcap">MacBean</hi> 1773.</note> et Lunae<note xml:id="note.6"
+                        >Lunae portus: “Strabo; a very extensive port, or more truly a bay of
+                        Liguria, between Portus Veneris and Portus Ericis, twenty miles compass”,
+                        see <hi rend="smallcap">MacBean</hi> 1773.</note> conscendere, quatriduo
+                    post <persName>Andreas Auria</persName> cum XV triremibus suis transmittet in
+                    Hispaniam caesaris iussu. Is nunc primum <placeName>Barchinonae</placeName><note
+                        xml:id="note.7">Barcelona.</note> agit, classis eius cum
+                        <placeName>Luctatii</placeName><note xml:id="note.8">Probably Lucca, but it
+                        is not clear.</note> classe omnino conferenda est et numero navium et
+                    militum et remigum experientia, cuius adventus in Aphricam summe a
+                        <persName>Tuneti regulo</persName><note xml:id="note.9">Abu Abdallah
+                        Muhammad V al-Hasa.</note> et illius clitellis exspectatur. Quare fac, bono
+                    animo sis. Nec <persName>Aenobarbi</persName><note xml:id="note.10">Hayreddin
+                        Barbarossa Pasha.</note> vires pertimescendae sunt, dabit enim poenas
+                    sceleratissimus reipublicae Christianae hostis illatorum nobis damnorum. Eum pro
+                    certo habemus et a pecunia et militibus flagitiose imparatum esse, et si
+                        <persName>Gallo</persName> suasere classem nostram opperietur, quos risus
+                    brevi edet? Credo te iam intellexisse caesaris Turcarum copias a Persa
+                    labefactatas fuisse, bellicis tormentis omnibus amissis, et pecunia intercepta,
+                    quae tunc ei expeditissima erat, haec cum nobis quotidie per certissimos homines
+                    confirmantur, nos monent veriora esse veris, et Deum nostrum caesarem omnino
+                    totius orbis imperio brevi potiturum. <persName>Pontifex</persName><note
+                        xml:id="note.11">Pope Paul III.</note> edentulus in Gallionis partes
+                    propensior est, sed tamen hiscere non audebit, Veneta respublica non deseret
+                    caesarem. <persName>Dux Ferrariae</persName><note xml:id="note.12">Ercole II
+                        d’Este (1508–1559) was Duke of Ferrara from 1534.</note> foedus Italicum
+                    irrisit, quando cum reliquis Italiae proceribus consentire noluit, spero deos
+                    illi fore iratos. Helvetii nuper inter se dissidere coeperunt. Credo ob
+                        <placeName>Genevae</placeName> defectionem<note xml:id="note.13">I.e.
+                        Calvinism.</note> a <persName>duce Allobrogensi</persName><note
+                        xml:id="note.14">Charles III of Savoy (1486–1553), Duke of Savoy. The
+                        Allobroges were a Gallic people living below the river Rhine and the Alps
+                        during the Roman period.</note> utrinque tamen ab armis abstinetur.
+                        <persName>Sceperum</persName><note xml:id="note.15">Cornelis de
+                        Schepper.</note> nostrum meo nomine salutabis, item reliquos omnes amicos
+                    meos et praesertim lectissimam <persName>Virginem Lucretiam
+                        Caballam</persName>,<note xml:id="note.16">Lucretia Caballis (vom
+                        Ross).</note> et Gilini tui memor semper esto. Vale. </p>
+                <p xml:id="p.3">Ex vico Iovis<note xml:id="note.17">Vicus Iovis Fagutalis was a
+                        street on the Esquiline Hill in Rome.</note> VI. Nonas Aprilis MDXXXV.</p>
             </div>
         </body>
     </text>

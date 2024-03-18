@@ -199,11 +199,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -228,10 +226,10 @@
                         <rdg wit="#II #III" xml:id="rdg.1">caesaris Caroli a consiliis</rdg>
                     </app> Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Mitto tibi, Vir Eruditissime quale, quale epitaphium viri
-                    incomparabilis <persName>Erasmi Roterodami</persName>,<note type="critic"
-                        xml:id="note.1">Erasmus died on 12 July, 1536.</note> quod inter Belgicas
-                    Eumenides nobis expressit amor viri, quamquam sentio Musas inter arma veluti
-                    puellas verecundas iampridem conticescere, sed hoc ipsum tua <app xml:id="app.2">
+                    incomparabilis <persName>Erasmi Roterodami</persName>,<note xml:id="note.1"
+                        >Erasmus died on 12 July, 1536.</note> quod inter Belgicas Eumenides nobis
+                    expressit amor viri, quamquam sentio Musas inter arma veluti puellas verecundas
+                    iampridem conticescere, sed hoc ipsum tua <app xml:id="app.2">
                         <lem wit="#CE #I #III" xml:id="lem.2">linea</lem>
                         <rdg wit="#II" xml:id="rdg.2"><del corresp="Olahus">lana</del><add
                                 corresp="Olahus" type="corr">linea</add></rdg>
@@ -248,20 +246,19 @@
                         <lem wit="#CE #I #III" xml:id="lem.5">Dammi</lem>
                         <rdg wit="#II" xml:id="rdg.5"><del corresp="Olahus">damni</del><add
                                 corresp="Olahus" type="corr">Dammi</add></rdg>
-                    </app><note type="critic" xml:id="note.2">Damme.</note> ac regis captivitate,
-                    multi facile credunt. Utinam respublica Christiana hisce bellis quam minima
-                    Christiani sanguinis iactura defungatur. Recte vale, Domine Colendissime. </p>
-                <p xml:id="p.3">Ex nostro musaeo<note type="critic" xml:id="note.3">It is probably
-                        in Ghent, see Ep. 241.<ref>olahus.tei.15320722_1</ref></note> X. mensis
-                    Septembris 1536. </p>
+                    </app><note xml:id="note.2">Damme.</note> ac regis captivitate, multi facile
+                    credunt. Utinam respublica Christiana hisce bellis quam minima Christiani
+                    sanguinis iactura defungatur. Recte vale, Domine Colendissime. </p>
+                <p xml:id="p.3">Ex nostro musaeo<note xml:id="note.3">It is probably in Ghent, see
+                        Ep. 241.<ref>olahus.tei.15320722_1</ref></note> X. mensis Septembris 1536. </p>
                 <p xml:id="p.4"
                     ><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>[Epitaphium
-                    Erasmi Roterodami]<?oxy_custom_end?><note type="critic" xml:id="note.4"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 581, in Romanian: <hi rend="smallcap"
+                    Erasmi Roterodami]<?oxy_custom_end?><note xml:id="note.4"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 581, in Romanian: <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022,
                     1230–1231.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
-                <p xml:id="p.5">[Aliud]<?oxy_custom_end?><note type="critic" xml:id="note.5"><hi
-                            rend="smallcap">Ipolyi</hi> 1875, 581, in Romanian: <hi rend="smallcap"
+                <p xml:id="p.5">[Aliud]<?oxy_custom_end?><note xml:id="note.5"><hi rend="smallcap"
+                            >Ipolyi</hi> 1875, 581, in Romanian: <hi rend="smallcap"
                             >Capoianu–Costa–Nicolae</hi> 2022, 1230–1233.</note></p>
             </div>
         </body>

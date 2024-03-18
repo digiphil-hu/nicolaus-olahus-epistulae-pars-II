@@ -205,12 +205,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Godschalk Ericksen<idno type="ITIdata">Q470934</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -245,14 +243,13 @@
                     wir dieselben neben unser <persName>gnedigisten frauen</persName>, geschafften
                     anfurdern, hoffen auch, ob Got will in wenig tagen wider hereinzukhomen.
                     Mitlerweil beleiben der herr <persName>schatzmaister</persName><note
-                        type="critic" xml:id="note.1">The Treasurer of Bratislava was Blasius Gross,
-                        see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 430.</note> und
-                    her <persName>Puchspaum</persName><note type="critic" xml:id="note.2">Buchsbaum
-                        was an agent of the Fuggers, see <hi rend="smallcap"
-                            >Meier–Piirainen–Wegera</hi> 2009, 266.</note> hie innen, di haben
-                    verrer sachen mit euch zu handlen, wie ir von inen vernemen werden. Das wolten
-                    wir euch, dess ain wissen emphacht, also anzaigen unnd nit verhalten. Damit sei
-                    die gnad Gottes mit uns allen. Amen. </p>
+                        xml:id="note.1">The Treasurer of Bratislava was Blasius Gross, see <hi
+                            rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 430.</note> und her
+                        <persName>Puchspaum</persName><note xml:id="note.2">Buchsbaum was an agent
+                        of the Fuggers, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009,
+                        266.</note> hie innen, di haben verrer sachen mit euch zu handlen, wie ir
+                    von inen vernemen werden. Das wolten wir euch, dess ain wissen emphacht, also
+                    anzaigen unnd nit verhalten. Damit sei die gnad Gottes mit uns allen. Amen. </p>
                 <p xml:id="p.3">Geben <placeName>Cremnitz</placeName> den 22. tag Januarii anno etc.
                     im 43<hi rend="super">ten</hi>. </p>
                 <p xml:id="p.4">
@@ -266,8 +263,8 @@
                 <pb/>
                 <head>On the outer side:</head>
                 <p xml:id="p.6">Den ersamen und weisen, unsern sondern gueten freundten, n.,<note
-                        type="critic" xml:id="note.3">I.e. Name.</note> richter unnd rate der
-                    künigclichen perkhstat Schembnitz. </p>
+                        xml:id="note.3">I.e. Name.</note> richter unnd rate der künigclichen
+                    perkhstat Schembnitz. </p>
             </div>
         </body>
     </text>

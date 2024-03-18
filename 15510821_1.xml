@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
             </correspDesc>
@@ -231,17 +229,17 @@
                 <p xml:id="p.1">Reverende Venerabilis et Egregii Domini et Fratres
                     Observandissimi!</p>
                 <p xml:id="p.2">Is magister <persName>Gaspar</persName> praepositus Landicensis<note
-                        type="critic" xml:id="note.1">Gáspár Zula was a scribe at the Hungarian
-                        Chancellery between 1548 and 1552, see <hi rend="smallcap">Fazekas</hi>
-                        2021, 503. He received the Provostry of Lendak in 1548, thanks to
-                        Oláh.</note> nonnulla meo nomine Dominationibus Vestris est relaturus. Rogo
-                    igitur easdem, velint verbis ipsius fidem praestare et considerare, praesentis
-                    temporis periculo magistros bombardarum fossionesque cum aliis instrumentibus
-                        <placeName>Agriam</placeName><note type="critic" xml:id="note.2"
-                        >Eger.</note> sine more expedire, ne quis <del corresp="Olahus">istic</del>
-                    defectus contra opinionem <persName>maiestatis regiae</persName>, domini nostri
-                    clementissimi et nostrum omnium istic contingat. Dominationes Vestras feliciter
-                    valere opto, cui me commendo.</p>
+                        xml:id="note.1">Gáspár Zula was a scribe at the Hungarian Chancellery
+                        between 1548 and 1552, see <hi rend="smallcap">Fazekas</hi> 2021, 503. He
+                        received the Provostry of Lendak in 1548, thanks to Oláh.</note> nonnulla
+                    meo nomine Dominationibus Vestris est relaturus. Rogo igitur easdem, velint
+                    verbis ipsius fidem praestare et considerare, praesentis temporis periculo
+                    magistros bombardarum fossionesque cum aliis instrumentibus
+                        <placeName>Agriam</placeName><note xml:id="note.2">Eger.</note> sine more
+                    expedire, ne quis <del corresp="Olahus">istic</del> defectus contra opinionem
+                        <persName>maiestatis regiae</persName>, domini nostri clementissimi et
+                    nostrum omnium istic contingat. Dominationes Vestras feliciter valere opto, cui
+                    me commendo.</p>
                 <p xml:id="p.3">Ex <placeName>Wienna</placeName> 21. Augusti anno 1551.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Vester Agriensis etc. manu propria</seg>

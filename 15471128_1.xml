@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,41 +236,40 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Domine nobis Observandissime,
                     salutem et servitiorum nostrorum commendationem! </p>
                 <p xml:id="p.2">Dixit nobis dominus <persName>Ioannes Pethew</persName><note
-                        type="critic" xml:id="note.1">János Pethő of Gerse.</note><persName>priorem
-                        de Leweld</persName><note type="critic" xml:id="note.2">Probably Prior
-                        Péter, who was a Prior between 1527 and 1551, see <hi rend="smallcap"
-                            >Vida</hi> 2015, 97–100.</note> tenere nobis equum unum, non quidem
-                    gradarium, sed qui passus bonos habet, praeterea satis etiam pulchrum.<note
-                        type="critic" xml:id="note.3">The Prior of the Carthusian monastery in
-                        Lövöld did not have to pay the tithe, but he had to produce 200 horsemen
-                        after 1498. In 1547, they had 25 horsemen, see <hi rend="smallcap">Vida</hi>
-                        2015, especially 98–99.</note> Quare rogamus Spectabilem Magnificam
-                    Dominationem Vestram, ne gravetur illum videre, et si cognoverit eum dignum
-                    esse, quem serenissimae principi dominae <persName>Mariae reginae</persName>
-                    etc. donare possimus, per eos dominos oratores, qui huc venturi sunt, mittere
-                    velit ad nos sine dilatione servitiorum nostrorum intuitu. Dicunt Bartholomeum
-                    quoque <persName>Horwathynowyth</persName><note type="critic" xml:id="note.4"
-                        >Bertalan Horváth or Horvátinovics was Commandant of the Archbishop of
-                        Esztergom, Pál Várday in 1532, later Captain of Balassagyarmat and Hussar
-                        Captain in the service of Niklas von Salm, see <hi rend="smallcap"
-                            >Laczlavik</hi> 2012, 74 and 151.</note> habere gradarium unum, velit
-                    Spectabilis Magnifica Dominatio Vestra illum quoque videre, et si dignum esse
-                    aestimaverit eidem serenissimae reginae, sub certo pretio accipiat ab eo et
-                    mittat huc illum quoque ad nos simul cum alio. Tametsi nos de facie
+                        xml:id="note.1">János Pethő of Gerse.</note><persName>priorem de
+                        Leweld</persName><note xml:id="note.2">Probably Prior Péter, who was a Prior
+                        between 1527 and 1551, see <hi rend="smallcap">Vida</hi> 2015,
+                        97–100.</note> tenere nobis equum unum, non quidem gradarium, sed qui passus
+                    bonos habet, praeterea satis etiam pulchrum.<note xml:id="note.3">The Prior of
+                        the Carthusian monastery in Lövöld did not have to pay the tithe, but he had
+                        to produce 200 horsemen after 1498. In 1547, they had 25 horsemen, see <hi
+                            rend="smallcap">Vida</hi> 2015, especially 98–99.</note> Quare rogamus
+                    Spectabilem Magnificam Dominationem Vestram, ne gravetur illum videre, et si
+                    cognoverit eum dignum esse, quem serenissimae principi dominae <persName>Mariae
+                        reginae</persName> etc. donare possimus, per eos dominos oratores, qui huc
+                    venturi sunt, mittere velit ad nos sine dilatione servitiorum nostrorum intuitu.
+                    Dicunt Bartholomeum quoque <persName>Horwathynowyth</persName><note
+                        xml:id="note.4">Bertalan Horváth or Horvátinovics was Commandant of the
+                        Archbishop of Esztergom, Pál Várday in 1532, later Captain of Balassagyarmat
+                        and Hussar Captain in the service of Niklas von Salm, see <hi
+                            rend="smallcap">Laczlavik</hi> 2012, 74 and 151.</note> habere gradarium
+                    unum, velit Spectabilis Magnifica Dominatio Vestra illum quoque videre, et si
+                    dignum esse aestimaverit eidem serenissimae reginae, sub certo pretio accipiat
+                    ab eo et mittat huc illum quoque ad nos simul cum alio. Tametsi nos de facie
                         <persName>Bartholomeum Horwathynowyth</persName> non novimus, nihilominus
                     simulatque divino beneficio hinc <placeName>Viennam</placeName> revertemur,
                     pretium illius ei persolvemus. Habemus deinde equum unum apud dominum
-                        <persName>Gregorium Sybryk</persName>,<note type="critic" xml:id="note.5"
-                        >Gergely Sibrik.</note> Spectabilis Magnifica Dominatio Vestra videat et
-                    illum, et ex omnibus eligat duos, qui ceteris meliores et pulchriores videbuntur
-                    reginaeque conventiores, eosque mittat huc ad nos. Quod si ex his duos bonos
-                    eligere non posset, faciat quaerere apud <persName>Bartholomeum
-                        Horwath</persName> et alios, ita ut duos bonos simul ad nos mittere possit.
-                    Et si duo boni mitti non possent, agere saltem velit Spectabilis Magnifica
-                    Dominatio Vestra modis omnibus, ut vel unus bonus ad nos mittatur, quem
-                    praefatae dominae reginae donare valeamus; erubescimus enim, quod nihil ei dare
-                    possumus. Hos labores, quos Dominatio Vestra nunc pro nobis facere dignabitur,
-                    in maioribus eidem reservire volumus. Optamus eandem valere felicissime.</p>
+                        <persName>Gregorium Sybryk</persName>,<note xml:id="note.5">Gergely
+                        Sibrik.</note> Spectabilis Magnifica Dominatio Vestra videat et illum, et ex
+                    omnibus eligat duos, qui ceteris meliores et pulchriores videbuntur reginaeque
+                    conventiores, eosque mittat huc ad nos. Quod si ex his duos bonos eligere non
+                    posset, faciat quaerere apud <persName>Bartholomeum Horwath</persName> et alios,
+                    ita ut duos bonos simul ad nos mittere possit. Et si duo boni mitti non possent,
+                    agere saltem velit Spectabilis Magnifica Dominatio Vestra modis omnibus, ut vel
+                    unus bonus ad nos mittatur, quem praefatae dominae reginae donare valeamus;
+                    erubescimus enim, quod nihil ei dare possumus. Hos labores, quos Dominatio
+                    Vestra nunc pro nobis facere dignabitur, in maioribus eidem reservire volumus.
+                    Optamus eandem valere felicissime.</p>
                 <p xml:id="p.3">Datum <placeName>Augustae Vindelicorum</placeName> vigesimo octavo
                     Novembris anno 1547.</p>
                 <p xml:id="p.4">

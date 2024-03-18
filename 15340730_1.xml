@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -258,23 +256,23 @@
                     valetudine, ut parum essem ad scribendum idoneus. Laboravi enim vehementi morbo,
                     quem contraxi ex motione curruum vestratium. Nam ex
                         <placeName>Belgrado</placeName><placeName>Budam</placeName> in quinque
-                    diebus perveni per chotzas<note type="critic" xml:id="note.1">In Hungarian <hi
-                            rend="italic">kocsi</hi>, meaning ‘carriage’.</note> una cum
-                        <persName>Hyeronimo Lasky</persName>, qui me liberavit ex manibus Turcarum
-                    Belgradensium, qui adverso Danubio me cum tota classe mittere voluerant. Fui
+                    diebus perveni per chotzas<note xml:id="note.1">In Hungarian <hi rend="italic"
+                            >kocsi</hi>, meaning ‘carriage’.</note> una cum <persName>Hyeronimo
+                        Lasky</persName>, qui me liberavit ex manibus Turcarum Belgradensium, qui
+                    adverso Danubio me cum tota classe mittere voluerant. Fui
                         <placeName>Budae</placeName> apud <persName>Ioannem
-                        vaivodam</persName>,<note type="critic" xml:id="note.2">King John I. The
-                        Habsburg loyalists never call him king. According to Paolo Giovio, King
-                        Ferdinand I first called Szapolyai king at the Treaty of Oradea, see <hi
-                            rend="smallcap">Kasza</hi> 2021, 47.</note> cum quo habita verba non
-                    possum nunc scribere, praesens ea dicam, ut autem intelligat Dominatio Vestra,
-                    quo in statu res regni Hungariae sint, paucis accipiat. </p>
-                <p xml:id="p.3"><persName>Gritum</persName><note type="critic" xml:id="note.3"
-                        >Lodovico Gritti.</note> venire cum bis mille equitibus et peditibus suis ad
-                    pacandum, ut ait, regnum Hungariae. Multa nobis promittit et mecum secretissime
-                    locutus est <placeName>Constantinopoli</placeName>. Quid praestiturus sit, non
-                    satis scio, tempus declarabit. Hungari varia agitant consilia et videntur non
-                    velle dividi, et iam fere omnes ad <persName>Ferdinandum regem</persName> parant
+                        vaivodam</persName>,<note xml:id="note.2">King John I. The Habsburg
+                        loyalists never call him king. According to Paolo Giovio, King Ferdinand I
+                        first called Szapolyai king at the Treaty of Oradea, see <hi rend="smallcap"
+                            >Kasza</hi> 2021, 47.</note> cum quo habita verba non possum nunc
+                    scribere, praesens ea dicam, ut autem intelligat Dominatio Vestra, quo in statu
+                    res regni Hungariae sint, paucis accipiat. </p>
+                <p xml:id="p.3"><persName>Gritum</persName><note xml:id="note.3">Lodovico
+                        Gritti.</note> venire cum bis mille equitibus et peditibus suis ad pacandum,
+                    ut ait, regnum Hungariae. Multa nobis promittit et mecum secretissime locutus
+                    est <placeName>Constantinopoli</placeName>. Quid praestiturus sit, non satis
+                    scio, tempus declarabit. Hungari varia agitant consilia et videntur non velle
+                    dividi, et iam fere omnes ad <persName>Ferdinandum regem</persName> parant
                     deficere. Quod si fecerint, non est, quod de salute regni desperem.
                         <persName>Griti</persName> omnibus et vaivodae etiam terrori est. Exhausit
                         <persName>Ioannem</persName> pecuniis, proventus Transsylvaniae in ipsius
@@ -300,79 +298,73 @@
                     Turcarum bis ore proprio reconfirmavit dotem serenissimae
                         <persName>reginae</persName>, iussitque <persName>Grito</persName>, ut eam
                     restitueret. Superest solum, ut id exsequatur. Cum
-                        <persName>Nadasdun</persName><note type="critic" xml:id="note.4">Tamás
-                        Nádasdy.</note> male illi convenit: is habet
-                        <placeName>Maromarusium</placeName>, videndum, an cedere velit sponte, an vi
-                    potius cogendus est. Totum regnum est in motu, vaivodani volunt castigare
-                        <persName>Beybeck</persName>,<note type="critic" xml:id="note.5">Ferenc
-                        Bebek.</note><persName>Ferdinandus rex</persName> non videtur ipsum esse
-                    dimissurus. Quid secuturum sit, ipse coniecturare poteris. Mitto ad reginalem
-                    maiestatem litteras ab <persName>Aloisio Griti</persName>, quas rex Romanorum
-                    ignoranter tamen aperuit. Credo, quod se referat ad me. Nam multa pollicitus est
-                    et credo pro virili etiam praestiturum esse, sed sors istius regni non patitur
-                    praesentem statum rerum. Iterum dico me magnam et bonam spem concepisse fore, ne
-                    a Turcis amplius mendicemus. Ad quod ego pro mea virili annisus sum et adhuc
-                    adnitar postpositis privatis respectibus. Omnes vires Turcarum ex Europa
-                    abductae sunt, cuius rei ego sum oculatus testis. Danda est opera, ne redeant,
-                    et spero <choice>
+                        <persName>Nadasdun</persName><note xml:id="note.4">Tamás Nádasdy.</note>
+                    male illi convenit: is habet <placeName>Maromarusium</placeName>, videndum, an
+                    cedere velit sponte, an vi potius cogendus est. Totum regnum est in motu,
+                    vaivodani volunt castigare <persName>Beybeck</persName>,<note xml:id="note.5"
+                        >Ferenc Bebek.</note><persName>Ferdinandus rex</persName> non videtur ipsum
+                    esse dimissurus. Quid secuturum sit, ipse coniecturare poteris. Mitto ad
+                    reginalem maiestatem litteras ab <persName>Aloisio Griti</persName>, quas rex
+                    Romanorum ignoranter tamen aperuit. Credo, quod se referat ad me. Nam multa
+                    pollicitus est et credo pro virili etiam praestiturum esse, sed sors istius
+                    regni non patitur praesentem statum rerum. Iterum dico me magnam et bonam spem
+                    concepisse fore, ne a Turcis amplius mendicemus. Ad quod ego pro mea virili
+                    annisus sum et adhuc adnitar postpositis privatis respectibus. Omnes vires
+                    Turcarum ex Europa abductae sunt, cuius rei ego sum oculatus testis. Danda est
+                    opera, ne redeant, et spero <choice>
                         <orig>datam</orig>
                         <supplied>datum</supplied>
                     </choice> iri. Pluram coram. </p>
                 <p xml:id="p.6">Commenda me omnibus dominis et amicis, qui istic sunt et dominabus
                     illustribus, <milestone unit="pb"/><persName>comiti de Salm</persName>,<note
-                        type="critic" xml:id="note.6">Elisabeth, Countess of Salm.</note> dominae
-                        <persName>de Baillieul</persName>,<note type="critic" xml:id="note.7">Madame
-                        Bailleul.</note> dominae <persName>Lucretiae</persName><note type="critic"
-                        xml:id="note.8">Lucretia Caballis (vom Ross).</note> et si quae aliae ibi
-                    sunt. Litteras ad <persName>uxorem</persName><note type="critic" xml:id="note.9"
-                        >Anna Isabella (Elizabeth) Donche.</note> his annexas per fidelem nuntium
-                    transmittat. </p>
-                <p xml:id="p.7">[3.] Vires <persName>Sophy</persName><note type="critic"
-                        xml:id="note.10">Tahmasp I, Shah of Iran.</note> sunt quinquaginta millia
-                    optimorum equitum. In quibus triginta millia sunt cataphractorum, ianitsarios,
-                        harchabusarios<note type="critic" xml:id="note.11">Probably a hapax
-                        legomenon. According to <hi rend="smallcap">Hoven</hi> 2006, 241:
-                        ‘arquebusier’, which was the most common form of cavalry.</note> habet
-                    quattuor millia, trecentas bombardas, vulgus ait ad aliquot centena millia.
-                    Exercitus <persName>Imbrahimi</persName><note type="critic" xml:id="note.12"
-                        >Ibrahim Pargalı Pasha.</note> bassae habet ad trecenta millia hominum.
-                    Caesaris autem Turcarum exercitus ex cismarinis est supra ducentum mille.
-                    Transmarinorum ex <placeName>Dyarbey</placeName>,<note type="critic"
-                        xml:id="note.13">Djerba.</note><placeName>Carahemith</placeName>,<note
-                        type="critic" xml:id="note.14"
+                        xml:id="note.6">Elisabeth, Countess of Salm.</note> dominae <persName>de
+                        Baillieul</persName>,<note xml:id="note.7">Madame Bailleul.</note> dominae
+                        <persName>Lucretiae</persName><note xml:id="note.8">Lucretia Caballis (vom
+                        Ross).</note> et si quae aliae ibi sunt. Litteras ad
+                        <persName>uxorem</persName><note xml:id="note.9">Anna Isabella (Elizabeth)
+                        Donche.</note> his annexas per fidelem nuntium transmittat. </p>
+                <p xml:id="p.7">[3.] Vires <persName>Sophy</persName><note xml:id="note.10">Tahmasp
+                        I, Shah of Iran.</note> sunt quinquaginta millia optimorum equitum. In
+                    quibus triginta millia sunt cataphractorum, ianitsarios, harchabusarios<note
+                        xml:id="note.11">Probably a hapax legomenon. According to <hi
+                            rend="smallcap">Hoven</hi> 2006, 241: ‘arquebusier’, which was the most
+                        common form of cavalry.</note> habet quattuor millia, trecentas bombardas,
+                    vulgus ait ad aliquot centena millia. Exercitus
+                        <persName>Imbrahimi</persName><note xml:id="note.12">Ibrahim Pargalı
+                        Pasha.</note> bassae habet ad trecenta millia hominum. Caesaris autem
+                    Turcarum exercitus ex cismarinis est supra ducentum mille. Transmarinorum ex
+                        <placeName>Dyarbey</placeName>,<note xml:id="note.13"
+                        >Djerba.</note><placeName>Carahemith</placeName>,<note xml:id="note.14"
                         >Diyarbakır.</note><placeName>Egypto</placeName>,
                         <placeName>Damasco</placeName>, <placeName>Syria</placeName>,
                         <placeName>Mesopotamia</placeName>, <placeName>Halepo</placeName>,<note
-                        type="critic" xml:id="note.15"
-                        >Aleppo.</note><placeName>Caramania</placeName><note type="critic"
+                        xml:id="note.15">Aleppo.</note><placeName>Caramania</placeName><note
                         xml:id="note.16">Karaman.</note> et aliis supra quatercentum mille. Decies
                     centena millia virorum, si convenerit <persName>caesar</persName> cum
                         <persName>Imbrahimo</persName>, excedet numerus exercitus. Haec nostrates
                     ridebunt, sed minus scribo, quam est. Et plures erant, commeatus autem habent
                     abundantissime, totum enim hunc annum impendit <persName>Imbrahimus</persName>
                     in coacervando commeatu. Intentio Othomanorum est capere et munire
-                        <placeName>Bagdath</placeName><note type="critic" xml:id="note.17"
-                        >Baghdad.</note> ad flumen <placeName>Tigrim</placeName> et occupare
-                        <placeName>Thaurisum</placeName><note type="critic" xml:id="note.18">Crimea
-                        ot the Tauric Peninsula.</note> Armeniae, et ad sinum Persicum sibi viam
-                    facere. Inde deturbare Portugalenses, qui litora illa occupant. Nondum pugnatum
-                    est, nisi per occasionem levibus praeliis. Hac hieme experietur
+                        <placeName>Bagdath</placeName><note xml:id="note.17">Baghdad.</note> ad
+                    flumen <placeName>Tigrim</placeName> et occupare
+                        <placeName>Thaurisum</placeName><note xml:id="note.18">Crimea ot the Tauric
+                        Peninsula.</note> Armeniae, et ad sinum Persicum sibi viam facere. Inde
+                    deturbare Portugalenses, qui litora illa occupant. Nondum pugnatum est, nisi per
+                    occasionem levibus praeliis. Hac hieme experietur
                         <persName>Imbrahimus</persName> fortunam, si modo velit, nam semel
                     detrectavit pugnam. Caesar Turcarum hiemabit apud
-                        <placeName>Carras</placeName>,<note type="critic" xml:id="note.19"
-                        >Harrán.</note> qui olim fuit limes Persici et Romani imperii, nunc est
-                    Othomanorum. Tartari, qui habitant <placeName>Sogdianam</placeName><note
-                        type="critic" xml:id="note.20">Sogdiana, an ancient country in Central Asia,
-                        located between Amu Darya and the Syr Darya, see <hi rend="smallcap"
-                            >Huxley</hi> 1985.</note> ad flumen
-                        <placeName>Saxarten</placeName>,<note type="critic" xml:id="note.21">Tanais
-                        river, today: Don river.</note> quod labitur in Caspium mare, unde ortus
-                    fuit Temerlenus sive <persName>Tamburlanes</persName>,<note type="critic"
-                        xml:id="note.22">The myghty Emperor of the Tartars, see Herberstein’s work:
-                            <hi rend="smallcap">Major</hi> 1852, 237.</note> facessunt negotium ipsi
-                        <persName>Sophy</persName>. Quae res adducit Othomannos in spem certam
-                    victoriae, sed tamen pugnandum est illis cum multis incommoditatibus. Haec
-                    breviter. Et iterum vale.</p>
+                        <placeName>Carras</placeName>,<note xml:id="note.19">Harrán.</note> qui olim
+                    fuit limes Persici et Romani imperii, nunc est Othomanorum. Tartari, qui
+                    habitant <placeName>Sogdianam</placeName><note xml:id="note.20">Sogdiana, an
+                        ancient country in Central Asia, located between Amu Darya and the Syr
+                        Darya, see <hi rend="smallcap">Huxley</hi> 1985.</note> ad flumen
+                        <placeName>Saxarten</placeName>,<note xml:id="note.21">Tanais river, today:
+                        Don river.</note> quod labitur in Caspium mare, unde ortus fuit Temerlenus
+                    sive <persName>Tamburlanes</persName>,<note xml:id="note.22">The myghty Emperor
+                        of the Tartars, see Herberstein’s work: <hi rend="smallcap">Major</hi> 1852,
+                        237.</note> facessunt negotium ipsi <persName>Sophy</persName>. Quae res
+                    adducit Othomannos in spem certam victoriae, sed tamen pugnandum est illis cum
+                    multis incommoditatibus. Haec breviter. Et iterum vale.</p>
                 <p xml:id="p.8">Ex <placeName>Praga</placeName> XXX. Iulii anno Domini 1534.</p>
             </div>
         </body>

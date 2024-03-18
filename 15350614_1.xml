@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,21 +229,21 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem.</p>
-                <p xml:id="p.2">Quae a Turcis, <persName>Aenobarbo</persName><note type="critic"
-                        xml:id="note.1">Hayreddin Barbarossa Pasha.</note> et caesaris classe
-                    habemus, de <persName>Lucretia Virgine</persName><note type="critic"
-                        xml:id="note.2">Lucretia Caballis (vom Ross).</note> electissima intelliges,
-                    nos id audivimus <placeName>Syriam</placeName>, <placeName>Aegiptum</placeName>
-                    et <placeName>Graeciam</placeName> fere omnem tremere. Quod si verum est,
+                <p xml:id="p.2">Quae a Turcis, <persName>Aenobarbo</persName><note xml:id="note.1"
+                        >Hayreddin Barbarossa Pasha.</note> et caesaris classe habemus, de
+                        <persName>Lucretia Virgine</persName><note xml:id="note.2">Lucretia Caballis
+                        (vom Ross).</note> electissima intelliges, nos id audivimus
+                        <placeName>Syriam</placeName>, <placeName>Aegiptum</placeName> et
+                        <placeName>Graeciam</placeName> fere omnem tremere. Quod si verum est,
                     debellato <persName>Aenobarbo</persName> et capto
-                        <placeName>Tuneto</placeName><note type="critic" xml:id="note.3"
+                        <placeName>Tuneto</placeName><note xml:id="note.3"
                         >Tunis.</note><persName>caesar</persName> vires suas in eas partes
                     convertet, et omnia in suam potestatem brevi redacturus est, quod postea
                     succedit, curabo, ut scias. Tu vero interea valebis et
-                        <persName>Sceperum</persName><note type="critic" xml:id="note.4">Cornelis de
+                        <persName>Sceperum</persName><note xml:id="note.4">Cornelis de
                         Schepper.</note> nostrum et eius <persName>coniugem</persName><note
-                        type="critic" xml:id="note.5">Anna Isabella (Elizabeth) Donche.</note> meo
-                    nomine salutabis. Iterum vale, Amicorum Optime. </p>
+                        xml:id="note.5">Anna Isabella (Elizabeth) Donche.</note> meo nomine
+                    salutabis. Iterum vale, Amicorum Optime. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> XIIII. Iunii MDXXXV.</p>
             </div>
         </body>

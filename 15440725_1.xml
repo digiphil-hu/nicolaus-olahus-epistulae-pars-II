@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Leonhard von Vels</persName>
                 </correspAction>
             </correspDesc>
@@ -240,18 +238,17 @@
                 <p xml:id="p.1">Generose et Magnifice Domine Observandisime, salutem et obsequiorum
                     commendationem!</p>
                 <p xml:id="p.2">Lamentatur is circumspectus <persName>Quirinus
-                        Schlaher</persName><note type="critic" xml:id="note.1">Quirin Schlacher or
-                        Schlachter was a <hi rend="italic">Waldbürger</hi> in Banská Štiavnica and
-                        later became Mayor of the city. In 1544, he launched a foundation for
-                        Lutherans students in Wrocław, see <hi rend="smallcap"
-                            >Meier–Piirainen–Wegera</hi> 2009, 598; <hi rend="smallcap"
-                            >Scheible</hi> 1996, 276; and <hi rend="smallcap">Probszt</hi> 1958,
-                        139.</note> civis Scemniciensis, qualiter superioribus temporibus quendam
-                    adolescentem annorum nactum sedecim, privignum suum negotiorum suorum quorundam
-                    causa <placeName>Wratislaviam</placeName> proficiscentem servitores domini
-                        <persName>Ioannis Dobowczky</persName><note type="critic" xml:id="note.2"
-                        >Probably Johannes Dubowsky. We only know him from a document from the year
-                        1535 (Archiv of Banksá Bystrica), see <hi rend="smallcap"
+                        Schlaher</persName><note xml:id="note.1">Quirin Schlacher or Schlachter was
+                        a <hi rend="italic">Waldbürger</hi> in Banská Štiavnica and later became
+                        Mayor of the city. In 1544, he launched a foundation for Lutherans students
+                        in Wrocław, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 598;
+                            <hi rend="smallcap">Scheible</hi> 1996, 276; and <hi rend="smallcap"
+                            >Probszt</hi> 1958, 139.</note> civis Scemniciensis, qualiter
+                    superioribus temporibus quendam adolescentem annorum nactum sedecim, privignum
+                    suum negotiorum suorum quorundam causa <placeName>Wratislaviam</placeName>
+                    proficiscentem servitores domini <persName>Ioannis Dobowczky</persName><note
+                        xml:id="note.2">Probably Johannes Dubowsky. We only know him from a document
+                        from the year 1535 (Archiv of Banksá Bystrica), see <hi rend="smallcap"
                             >Meier–Piirainen–Wegera</hi> 2009, 231.</note> ob suspicionem quandam
                     eductionis argenti, cum ne minimum quidem argenti granum apud eundem repertum
                     fuisset, in via publica sociis ipsius interemptis cepissent et in hunc usque
@@ -280,13 +277,12 @@
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
                 <p xml:id="p.5">Generoso et magnifico domino Leonardo libero baroni a Fels,<note
-                        type="critic" xml:id="note.3">Leonhard von Vels, nephew of Bernhard von
-                        Cles, made a successful military career. He participated in the siege of
-                        Vienna in 1529 and became a successor of Wilhelm von Roggendorf as Grand
-                        Master of the Court <hi rend="italic">(Oberhofmeister)</hi>, see <hi
-                            rend="smallcap">Kasza</hi> 2021, 29.</note> supremo magistro curiae ac
-                    capitaneo exercitus regiae maiestatis in Hungaria generali etc. domino
-                    observandisimo.</p>
+                        xml:id="note.3">Leonhard von Vels, nephew of Bernhard von Cles, made a
+                        successful military career. He participated in the siege of Vienna in 1529
+                        and became a successor of Wilhelm von Roggendorf as Grand Master of the
+                        Court <hi rend="italic">(Oberhofmeister)</hi>, see <hi rend="smallcap"
+                            >Kasza</hi> 2021, 29.</note> supremo magistro curiae ac capitaneo
+                    exercitus regiae maiestatis in Hungaria generali etc. domino observandisimo.</p>
             </div>
         </body>
     </text>

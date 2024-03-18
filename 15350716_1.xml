@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Újlaki<idno type="ITIdata">Q91046</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,21 +246,21 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Franciscum Wilaki Iauriensem electum. </p>
-                <p xml:id="p.2">[1.] <persName>Ulricus Eizingerus</persName><note type="critic"
-                        xml:id="note.1">Ulrich von Eytzing.</note> tuas mihi nudiustertius reddidit
-                        litteras,<note type="critic" xml:id="note.2">We do not know this
-                        letter.</note> ex quibus tuum illum erga me veterem amorem ac benevolentiam
-                    singularem firmam adhuc et constantem esse cognovi; quae non hoc solum nomine,
-                    quod per se magnum est, sed etiam quod de rebus Hungaricis, quo illae nunc sint
-                    in statu, me certiorem <del corresp="Olahus">fecit</del><add corresp="Olahus"
-                        type="corr">fecerunt</add>, mihi fuerunt gratissimae <del corresp="Olahus"
-                        >ac</del> praecipuoque me affecerunt gaudio. Raro enim iam a veteribus meis
-                    amicis, etiam a me aliquot meis litteris <del corresp="Olahus"
-                        >provocatas</del><add corresp="Olahus" type="corr">provocatis</add> accipio
-                    litteras, <milestone unit="pb"/>adeo absentis amici sunt obliti, et <del
-                        corresp="Olahus">tam</del><add corresp="Olahus" type="corr">iam</add>
-                    molestum eis est aliis respondere. Alienorum consolor frequentius litteris,
-                    quibus cum non tanta mihi fuit amoris et consuetudinis necessitudo. </p>
+                <p xml:id="p.2">[1.] <persName>Ulricus Eizingerus</persName><note xml:id="note.1"
+                        >Ulrich von Eytzing.</note> tuas mihi nudiustertius reddidit litteras,<note
+                        xml:id="note.2">We do not know this letter.</note> ex quibus tuum illum erga
+                    me veterem amorem ac benevolentiam singularem firmam adhuc et constantem esse
+                    cognovi; quae non hoc solum nomine, quod per se magnum est, sed etiam quod de
+                    rebus Hungaricis, quo illae nunc sint in statu, me certiorem <del
+                        corresp="Olahus">fecit</del><add corresp="Olahus" type="corr"
+                    >fecerunt</add>, mihi fuerunt gratissimae <del corresp="Olahus">ac</del>
+                    praecipuoque me affecerunt gaudio. Raro enim iam a veteribus meis amicis, etiam
+                    a me aliquot meis litteris <del corresp="Olahus">provocatas</del><add
+                        corresp="Olahus" type="corr">provocatis</add> accipio litteras, <milestone
+                        unit="pb"/>adeo absentis amici sunt obliti, et <del corresp="Olahus"
+                        >tam</del><add corresp="Olahus" type="corr">iam</add> molestum eis est aliis
+                    respondere. Alienorum consolor frequentius litteris, quibus cum non tanta mihi
+                    fuit amoris et consuetudinis necessitudo. </p>
                 <p xml:id="p.3">Quod a longo tempore ego nihil scripserim, non oblivione certe mei
                     in te officii aut benevolentiae, quae perpetuo, dum spiravero, manebit, factum
                     est, sed quod argumentum scribendi defuerit. Externas inter has nationes agenti,
@@ -293,14 +291,14 @@
                     diebus commissarii nihil concluserint. Arbitror eos magis studere temporis
                     protractioni, et ut bona quaeque occasio nobis data praetereat, quam ut aliquid
                     finire velint, verum fortasse in hunc diem <persName>Brodericus</persName><note
-                        type="critic" xml:id="note.3">István Brodarics.</note> et
-                        <persName>Verleczy</persName><note type="critic" xml:id="note.4">István
-                        Werbőczy.</note> redierunt, aliquidque iam finiverunt. Quod si factum est,
-                    rogo, <add corresp="Olahus" type="insert">fac</add>, ut scribis, <del
-                        corresp="Olahus">fac</del> me certiorem ante alios. Nulla res me maiore
-                    gaudio afficiet, quam si pacem bonam firmamque factam esse audiero. Non propter
-                        <milestone unit="pb"/>me, qui iam utramque fortunam, quaecumque venerit,
-                    aequo animo ferre consuevi, sed ob patriae amorem et quietem publicam. </p>
+                        xml:id="note.3">István Brodarics.</note> et
+                        <persName>Verleczy</persName><note xml:id="note.4">István Werbőczy.</note>
+                    redierunt, aliquidque iam finiverunt. Quod si factum est, rogo, <add
+                        corresp="Olahus" type="insert">fac</add>, ut scribis, <del corresp="Olahus"
+                        >fac</del> me certiorem ante alios. Nulla res me maiore gaudio afficiet,
+                    quam si pacem bonam firmamque factam esse audiero. Non propter <milestone
+                        unit="pb"/>me, qui iam utramque fortunam, quaecumque venerit, aequo animo
+                    ferre consuevi, sed ob patriae amorem et quietem publicam. </p>
                 <p xml:id="p.5">[3.] Quod me facta pace dies et noctes te domum exspectaturum
                     scribis, declaras in hoc tuum in me sincerum animum amore fraterno plenum,
                     devincisque me iam antea tibi satis devinctum ad omnia tua obsequia obeunda. Non
@@ -311,30 +309,28 @@
                         type="quote" xml:id="note.quote.1">Cf. Ps21, 19; Mt27, 35: “et super vestem
                         meam miserunt sortem”; J19, 24: “et in vestem meam miserunt sortem”.</note>
                     Custodiam quadrifariam partiti sunt <persName>Valentinus
-                        Theuurek</persName>,<note type="critic" xml:id="note.5">Bálint
-                        Török.</note><persName>Bakyth</persName>,<note type="critic" xml:id="note.6"
-                        >Pál Bakics or Pavle Bakić.</note><persName>Andreas Chnom</persName>,<note
-                        type="critic" xml:id="note.7">András Choron.</note><persName>Hyeronimus
-                        Wasony</persName>;<note type="critic" xml:id="note.8">Jeromos Horváth of
-                        Vásonkő.</note> abbatiam de Thapolcza <persName>Bebek</persName><note
-                        type="critic" xml:id="note.9">Ferenc Bebek.</note><del corresp="Olahus"
-                        >occupari</del><add corresp="Olahus" type="corr">occupat</add>.
-                    Archidiaconatus Comariensis dominus reverendissimus
-                        <persName>Strigoniensis</persName><note type="critic" xml:id="note.10">Pál
-                        Várday.</note> est officialis, post quem <del corresp="Olahus">Marcius</del><choice>
+                        Theuurek</persName>,<note xml:id="note.5">Bálint
+                        Török.</note><persName>Bakyth</persName>,<note xml:id="note.6">Pál Bakics or
+                        Pavle Bakić.</note><persName>Andreas Chnom</persName>,<note xml:id="note.7"
+                        >András Choron.</note><persName>Hyeronimus Wasony</persName>;<note
+                        xml:id="note.8">Jeromos Horváth of Vásonkő.</note> abbatiam de Thapolcza
+                        <persName>Bebek</persName><note xml:id="note.9">Ferenc Bebek.</note><del
+                        corresp="Olahus">occupari</del><add corresp="Olahus" type="corr"
+                        >occupat</add>. Archidiaconatus Comariensis dominus reverendissimus
+                        <persName>Strigoniensis</persName><note xml:id="note.10">Pál Várday.</note>
+                    est officialis, post quem <del corresp="Olahus">Marcius</del><choice>
                         <orig>Marcis</orig>
                         <supplied>Marcus</supplied>
-                    </choice><note type="critic" xml:id="note.11">We do not know him more
-                        closely.</note> noster. Omnibus praedae <add corresp="Olahus" type="insert"
-                        >sum</add> expositus, etiam eis, de quibus ob servitia mea essem
-                    benemeritus, hi, qui me defendere fuerant polliciti, refrixerunt, vel quod non
-                        <del corresp="Olahus">possent</del><add corresp="Olahus" type="corr"
-                        >possunt</add>, vel quod aliena non curant. Deum igitur ipsum invoco, cuius
-                    fiat voluntas et illud Homericum<note type="critic" xml:id="note.12">Oláh was
-                        reading the <hi rend="italic">Iliad</hi> around this time. He finished
-                        reading it on 31 December, 1535, see <hi rend="smallcap">Csontosi</hi> 1883,
-                        66: “finivi Bruxelle vltima Decembris Anno 1535”.</note> insidet mihi
-                    cordi:</p>
+                    </choice><note xml:id="note.11">We do not know him more closely.</note> noster.
+                    Omnibus praedae <add corresp="Olahus" type="insert">sum</add> expositus, etiam
+                    eis, de quibus ob servitia mea essem benemeritus, hi, qui me defendere fuerant
+                    polliciti, refrixerunt, vel quod non <del corresp="Olahus">possent</del><add
+                        corresp="Olahus" type="corr">possunt</add>, vel quod aliena non curant. Deum
+                    igitur ipsum invoco, cuius fiat voluntas et illud Homericum<note
+                        xml:id="note.12">Oláh was reading the <hi rend="italic">Iliad</hi> around
+                        this time. He finished reading it on 31 December, 1535, see <hi
+                            rend="smallcap">Csontosi</hi> 1883, 66: “finivi Bruxelle vltima
+                        Decembris Anno 1535”.</note> insidet mihi cordi:</p>
                 <quote xml:id="quote.2">
                     <lg xml:id="lg.1">
                         <l xml:id="l.1"><choice>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title type="num">800</title>
-                                                  <title key="body" n="800" type="main">Miklós Oláh
-                                                  to Bratislava Town Council (Prague, 8 January
+          <teiHeader>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title type="num">800</title>
+                                        <title key="body" n="800" type="main">Miklós Oláh to
+                                                  Bratislava Town Council (Prague, 8 January
                                                   1552)</title>
-                                                  </titleStmt>
-                                                  <editionStmt>
-                                                  <edition>Digital critical edition</edition>
-                                                  <respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition>Digital critical edition</edition>
+                                        <respStmt>
                                                   <resp>editor</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -20,8 +20,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>editor in chief</resp>
                                                   <persName>
                                                   <surname>Palkó</surname>
@@ -29,8 +29,8 @@
                                                   <idno type="ITIdata">Q245084</idno>
                                                   <idno type="ORCID">0000-0002-4394-8577</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>arranged for publication</resp>
                                                   <persName>
                                                   <surname>Szilágyi</surname>
@@ -39,8 +39,8 @@
                                                   <idno type="ITIdata">Q469914</idno>
                                                   <idno type="ORCID">0000-0001-9504-5188</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>TEI-specification</resp>
                                                   <persName>
                                                   <surname>Fellegi</surname>
@@ -48,40 +48,39 @@
                                                   <idno type="ITIdata">Q349971</idno>
                                                   <idno type="ORCID">0000-0001-9199-1759</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <respStmt>
+                                        </respStmt>
+                                        <respStmt>
                                                   <resp>creator</resp>
                                                   <orgName>DigiPhil <ref type="url"
                                                   >http://digiphil.hu</ref></orgName>
-                                                  </respStmt>
-                                                  </editionStmt>
-                                                  <publicationStmt>
-                                                  <publisher>
+                                        </respStmt>
+                              </editionStmt>
+                              <publicationStmt>
+                                        <publisher>
                                                   <orgName>HUN-REN Bölcsészettudományi
                                                   Kutatóközpont, Irodalomtudományi Intézet <idno
                                                   type="ITIdata">Q2256</idno></orgName>
                                                   <ref type="url">https://iti.abtk.hu</ref>
-                                                  </publisher>
-                                                  <pubPlace>Budapest<idno type="ITIdata"
-                                                  >Q93</idno></pubPlace>
-                                                  <date when="2024">2024</date>
-                                                  <availability>
+                                        </publisher>
+                                        <pubPlace>Budapest<idno type="ITIdata">Q93</idno></pubPlace>
+                                        <date when="2024">2024</date>
+                                        <availability>
                                                   <p>CC BY-NC-ND 4.0 DEED:
                                                   Attribution-NonCommercial-NoDerivs 4.0
                                                   International<ref type="url"
                                                   >https://creativecommons.org/licenses/by-nc-nd/4.0/</ref></p>
-                                                  </availability>
-                                                  <idno type="PID">olahus.tei.15520108_2</idno>
-                                                  <idno type="ITIdata">Q473458</idno>
-                                                  <ref
+                                        </availability>
+                                        <idno type="PID">olahus.tei.15520108_2</idno>
+                                        <idno type="ITIdata">Q473458</idno>
+                                        <ref
                                                   target="https://github.com/digiphil-hu/nicolaus-olahus-epistulae-pars-II/blob/main/15520108_2.xml"
                                                   >The TEI XML transcript of the letter in the
                                                   DigiPhil GitHub repository.</ref>
-                                                  </publicationStmt>
-                                                  <seriesStmt>
-                                                  <title level="s">Bibliotheca Scriptorum Medii
-                                                  Recentisque Aevorum: Series nova</title>
-                                                  <respStmt>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <title level="s">Bibliotheca Scriptorum Medii Recentisque
+                                                  Aevorum: Series nova</title>
+                                        <respStmt>
                                                   <resp>series editor</resp>
                                                   <persName>
                                                   <surname>Békés</surname>
@@ -93,19 +92,19 @@
                                                   <forename>László</forename>
                                                   <idno type="ITIdata">Q49630</idno>
                                                   </persName>
-                                                  </respStmt>
-                                                  <biblScope unit="volume">XIX/II.</biblScope>
-                                                  <idno type="ISSN">0133-6711</idno>
-                                                  <idno type="ITIdata">Q469925</idno>
-                                                  </seriesStmt>
-                                                  <notesStmt>
-                                                  <note type="critIntro">
+                                        </respStmt>
+                                        <biblScope unit="volume">XIX/II.</biblScope>
+                                        <idno type="ISSN">0133-6711</idno>
+                                        <idno type="ITIdata">Q469925</idno>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note type="critIntro">
                                                   <p><hi rend="italic">Notes:</hi> Original letter
                                                   with signature and seal. </p>
-                                                  </note>
-                                                  </notesStmt>
-                                                  <sourceDesc>
-                                                  <msDesc>
+                                        </note>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <msDesc>
                                                   <msIdentifier>
                                                   <country>Slovakia</country>
                                                   <settlement>Bratislava</settlement>
@@ -134,8 +133,8 @@
                                                   </objectDesc>
                                                   </physDesc>
                                                   </msPart>
-                                                  </msDesc>
-                                                  <bibl>
+                                        </msDesc>
+                                        <bibl>
                                                   <title level="m">Nicolaus Olahus: Epistulae. Pars
                                                   II. 1534–1553</title>
                                                   <idno type="ISBN">978-615-6255-40-2</idno>
@@ -200,57 +199,52 @@
                                                   <idno type="DOI"
                                                   >https://doi.org/10.5281/zenodo.8011468</idno><idno
                                                   type="ITIdata">Q469915</idno>
-                                                  </bibl>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <profileDesc>
-                                                  <langUsage>
-                                                  <language ident="la">latin</language>
-                                                  </langUsage>
-                                                  <textClass>
-                                                  <keywords corresp="Letter" scheme="GETTY_AAT">
+                                        </bibl>
+                              </sourceDesc>
+                    </fileDesc>
+                    <profileDesc>
+                              <langUsage>
+                                        <language ident="la">latin</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords corresp="Letter" scheme="GETTY_AAT">
                                                   <term>Letter<idno type="GETTY_AAT"
                                                   >GETTY_AAT:300026879</idno></term>
-                                                  </keywords>
-                                                  </textClass>
-                                                  <creation>
-                                                  <date when="1552-01-08">8 January 1552</date>
-                                                  <placeName>Prague<idno type="ITIdata"
+                                        </keywords>
+                              </textClass>
+                              <creation>
+                                        <date when="1552-01-08">8 January 1552</date>
+                                        <placeName>Prague<idno type="ITIdata"
                                                   >Q22802</idno></placeName>
-                                                  </creation>
-                                                  <correspDesc>
-                                                  <correspAction type="sent">
-                                                  <date/>
+                              </creation>
+                              <correspDesc>
+                                        <correspAction type="sent">
                                                   <persName>Miklós Oláh<idno type="ITIdata"
                                                   >Q244878</idno></persName>
-                                                  </correspAction>
-                                                  <correspAction type="recieved">
-                                                  <date/>
+                                        </correspAction>
+                                        <correspAction type="recieved">
                                                   <orgName>Bratislava Town Council</orgName>
-                                                  </correspAction>
-                                                  </correspDesc>
-                                        </profileDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div style="handwritten" type="letter"
-                                                  xml:id="d.1">
-                                                  <head type="title">Miklós Oláh to Bratislava Town
-                                                  Council (Prague, 8 January 1552)</head>
-                                                  <floatingText type="regesta">
+                                        </correspAction>
+                              </correspDesc>
+                    </profileDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <div style="handwritten" type="letter" xml:id="d.1">
+                                        <head type="title">Miklós Oláh to Bratislava Town Council
+                                                  (Prague, 8 January 1552)</head>
+                                        <floatingText type="regesta">
                                                   <body>
                                                   <p xml:id="reg.p.1">Oláh has written about some of
                                                   the cases brought by Simon, citizen of Bratislava,
                                                   which could be to their advantage, so he asks them
                                                   not to deny Simon help if he needs it.</p>
                                                   </body>
-                                                  </floatingText>
-                                                  <pb/>
-                                                  <p xml:id="p.1">Prudentes et Circumspecti Amici
-                                                  nobis Honorandi, salutem et nostri
-                                                  commendationem!</p>
-                                                  <p xml:id="p.2">Scripsimus<note type="critic"
-                                                  xml:id="note.1">See Ep.
+                                        </floatingText>
+                                        <pb/>
+                                        <p xml:id="p.1">Prudentes et Circumspecti Amici nobis
+                                                  Honorandi, salutem et nostri commendationem!</p>
+                                        <p xml:id="p.2">Scripsimus<note xml:id="note.1">See Ep.
                                                   797.<ref>olahus.tei.15511227_1</ref></note> de
                                                   rebus nonnullis egregio Simoni litterato concivi
                                                   vestro pro nostro usu expediendis. Quare
@@ -260,12 +254,11 @@
                                                   Dominationibus Vestris in simili ac etiam multo
                                                   maiori omni amicitia et benevolentia cumulate
                                                   recompensare studebimus.</p>
-                                                  <p xml:id="p.3">Dominationes Vestras feliciter
-                                                  valere optamus.</p>
-                                                  <p xml:id="p.4">Datum
-                                                  <placeName>Pragae</placeName> 8. Ianuarii
-                                                  1552.</p>
-                                                  <p xml:id="p.5">
+                                        <p xml:id="p.3">Dominationes Vestras feliciter valere
+                                                  optamus.</p>
+                                        <p xml:id="p.4">Datum <placeName>Pragae</placeName> 8.
+                                                  Ianuarii 1552.</p>
+                                        <p xml:id="p.5">
                                                   <seg type="signature">
                                                   <add corresp="Olahus" type="insert">Vester Ag<choice>
                                                   <orig><gap extent="1" reason="damage" unit="word"
@@ -277,15 +270,15 @@
                                                   <supplied>a</supplied>
                                                   </choice>nu propria.</add>
                                                   </seg>
-                                                  </p>
-                                                  <pb/>
-                                                  </div>
-                                                  <div style="handwritten" type="verso" xml:id="d.2">
-                                                  <head>On the outer side:</head>
-                                                  <p xml:id="p.6"> Prudentibus et circumspectis
-                                                  iudici et magistro civium civitatis Posoniensis
-                                                  etc. dominis et amicis dilectis.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+                                        </p>
+                                        <pb/>
+                              </div>
+                              <div style="handwritten" type="verso" xml:id="d.2">
+                                        <head>On the outer side:</head>
+                                        <p xml:id="p.6"> Prudentibus et circumspectis iudici et
+                                                  magistro civium civitatis Posoniensis etc. dominis
+                                                  et amicis dilectis.</p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

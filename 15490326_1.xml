@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,7 +242,7 @@
                 <p xml:id="p.1">Ad dominum cancellarium.</p>
                 <p xml:id="p.2">Reverendissime Domine, Domine Observandissime, salutem et
                     servitiorum nostrorum commendationem!</p>
-                <p xml:id="p.3">[1.] Hortatur<note type="critic" xml:id="note.1">See Ep.
+                <p xml:id="p.3">[1.] Hortatur<note xml:id="note.1">See Ep.
                             714.<ref>olahus.tei.15490317_1</ref></note> nos Reverendissima Dominatio
                     Vestra, ut solutionem gentium <placeName>Agriae</placeName> existentium curemus.
                     Sciat nos, quaecumque viribus nostris convenientia sunt, ex animo <del
@@ -252,48 +250,46 @@
                         corresp="author" type="corr">facturos</add> causa Reverendissimae
                     Dominationis Vestrae, cui inservire parati simus, verum omnis <add
                         corresp="author" type="insert">cura</add> solutionis militum sive equituum
-                    sive peditum, domino magistro<note type="critic" xml:id="note.2">Probably Hans
-                        Holtzer, Court Paymaster or Mangus Scheitz, Army Paymaster, see <hi
-                            rend="smallcap">Kenyeres</hi> 2005, 256; and <hi rend="smallcap"
-                            >Kenyeres</hi> 2007.</note> solutionis regiae maiestatis incumbit, cum
-                    quo proximis diebus contulimus, significavitque se Agriensium curam habiturum,
-                    quo etiam profectus est, nec deest illi, ut intelligimus, pecunia, et nos
-                    quicquid usquam ex contributione colligi potest, commisimus manibus illius
-                    assignari.</p>
+                    sive peditum, domino magistro<note xml:id="note.2">Probably Hans Holtzer, Court
+                        Paymaster or Mangus Scheitz, Army Paymaster, see <hi rend="smallcap"
+                            >Kenyeres</hi> 2005, 256; and <hi rend="smallcap">Kenyeres</hi>
+                        2007.</note> solutionis regiae maiestatis incumbit, cum quo proximis diebus
+                    contulimus, significavitque se Agriensium curam habiturum, quo etiam profectus
+                    est, nec deest illi, ut intelligimus, pecunia, et nos quicquid usquam ex
+                    contributione colligi potest, commisimus manibus illius assignari.</p>
                 <p xml:id="p.4">Ceterum, quod pro certeo possumus scribere, hucusque deliberatio
                     maiestatis regiae super solutione salariorum ad nos perlata non est, nec interim
                     cuiquam respondere licet exspectamus omnibus horis, ut iam tandem dirigat huc
                     sua maiestas eam ipsam deliberationem descriptam.</p>
                 <p xml:id="p.5">[2.] <del corresp="author">Iussit</del> Praeterea <del
                         corresp="author">quod</del> iussit <persName>maiestas regia</persName>
-                    tractari cum <persName>Ioanne Ostrosith</persName>,<note type="critic"
-                        xml:id="note.3">János Ostrosith or Ostrošić was Provisor of Jajce in 1526.
-                        In 1549, he became Provisor of the castle of Trenčín and <hi rend="italic"
-                            >ispán</hi> of Trencsén county. See <hi rend="smallcap">C.
+                    tractari cum <persName>Ioanne Ostrosith</persName>,<note xml:id="note.3">János
+                        Ostrosith or Ostrošić was Provisor of Jajce in 1526. In 1549, he became
+                        Provisor of the castle of Trenčín and <hi rend="italic">ispán</hi> of
+                        Trencsén county. See <hi rend="smallcap">C.
                             Tóth–Horváth–Neumann–Pálosfalvi</hi> 2017, I, 143; and <hi
                             rend="smallcap">Kenyeres</hi> 1997, 110–114. To the case, see MNL OL, E
                         21, 1549.03.24.a and 1549.03.27.</note> ut <del corresp="author">per
                         nos</del> expeditus capessat officium comitatus Trinchinensis ei
                     administratoris proventuum illius arcis. Accepit quidem ille binas litteras
                     maiestatis regiae ostenditque eas reverendissimo domino locumtenenti<note
-                        type="critic" xml:id="note.4">Pál Várday.</note> et consiliariis, et iudicat
-                    illis se nihil effecturum, dicit enim promissum sibi esse comitatus honorem
-                    durante bene placito <add corresp="author" type="insert">regio</add> verum
-                        <milestone unit="pb"/>illis verbis functionem vice nostri honoris comitatus
-                    eiusdem. Item praefatum Ioannem vice et in persona nostra regia, loco comitis
-                    vestri etc. Arbitratur eo tendere, ut ipse sit futurus vicecomes.<note
-                        type="critic" xml:id="note.5">On how Trencsén county functioned, see <hi
-                            rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi</hi> 2017, II,
-                        282–287.</note> Addit commissionem directam esse ad vicecomitem <del
-                        corresp="author">et iudices</del> (quem nullum esse nunc dicit) et iudices
-                    ac universitatem nobilium, quos credit non refragaturos, verum ceteri comitatus
-                    vestri <del corresp="author">magnifici et ecclesistici alii</del><add
-                        corresp="author" type="corr">reverendissimi, reverendi, magnifici etc.</add>
-                    non essent litteras curaturi, quando non essent ad eos directae. Supplicat
-                    igitur pro reformatione litterarum, et nos rogamus, iubeat ita describi
-                    litteras, ne cui difficultati daretur occasio, sed necesse est, ut ex
-                    cancellaria Germanica expediatur mandatum ad dominum <persName>Christoferum
-                        Gertsharher</persName><note type="critic" xml:id="note.6">Christoph
+                        xml:id="note.4">Pál Várday.</note> et consiliariis, et iudicat illis se
+                    nihil effecturum, dicit enim promissum sibi esse comitatus honorem durante bene
+                    placito <add corresp="author" type="insert">regio</add> verum <milestone
+                        unit="pb"/>illis verbis functionem vice nostri honoris comitatus eiusdem.
+                    Item praefatum Ioannem vice et in persona nostra regia, loco comitis vestri etc.
+                    Arbitratur eo tendere, ut ipse sit futurus vicecomes.<note xml:id="note.5">On
+                        how Trencsén county functioned, see <hi rend="smallcap">C.
+                            Tóth–Horváth–Neumann–Pálosfalvi</hi> 2017, II, 282–287.</note> Addit
+                    commissionem directam esse ad vicecomitem <del corresp="author">et iudices</del>
+                    (quem nullum esse nunc dicit) et iudices ac universitatem nobilium, quos credit
+                    non refragaturos, verum ceteri comitatus vestri <del corresp="author">magnifici
+                        et ecclesistici alii</del><add corresp="author" type="corr">reverendissimi,
+                        reverendi, magnifici etc.</add> non essent litteras curaturi, quando non
+                    essent ad eos directae. Supplicat igitur pro reformatione litterarum, et nos
+                    rogamus, iubeat ita describi litteras, ne cui difficultati daretur occasio, sed
+                    necesse est, ut ex cancellaria Germanica expediatur mandatum ad dominum
+                        <persName>Christoferum Gertsharher</persName><note xml:id="note.6">Christoph
                         Görtschacher was Captain of the castle of Trenčín, see <hi rend="smallcap"
                             >Kenyeres</hi> 1997, 103.</note> praefectum arcis, ut admittat hunc
                         <persName>Ostrosith</persName> ad bonorum administrationem <del
@@ -307,8 +303,8 @@
                         >aulicae</add> Camerae, ut iubeat expediri litteras ad Ghertsharher.
                     Dominationem Vestram Reverendissimam Deus servet feliciter.</p>
                 <p xml:id="p.6"><placeName>Posonii</placeName> die 26. Martii 1549.</p>
-                <p xml:id="p.7">Sacrae.<note type="critic" xml:id="note.7">I.e. sacrae regiae
-                        maiestatis consiliarii.</note>.</p>
+                <p xml:id="p.7">Sacrae.<note xml:id="note.7">I.e. sacrae regiae maiestatis
+                        consiliarii.</note>.</p>
                 <pb/>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

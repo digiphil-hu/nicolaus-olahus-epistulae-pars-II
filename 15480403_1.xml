@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Bratislava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -238,16 +236,16 @@
                     certorum negotiorum vestrorum, rogaveratisque nos per easdem litteras vestras,
                     ut in eisdem articulis apud <persName>regiam maiestatem</persName>, dominum
                     nostrum clementissimum intercederemus, relationemque vobis bonam
-                        impetraremus.<note type="critic" xml:id="note.1">See Ep.
+                        impetraremus.<note xml:id="note.1">See Ep.
                             682.<ref>olahus.tei.15480225_2</ref></note> Sciatis nos pro nostra in
                     vos benevolentia et studio in eisdem negotiis vestris apud suam maiestatem
-                    intercessisse et litteras suae maiestatis ratione<note type="critic"
-                        xml:id="note.2">Uncertain reading.</note> negotii, quod cum domino
-                        <persName>Gaspare Seredy</persName> commune habetis, ad eundem dominum
-                    Seredy datas praesentibus annexas ad vos misisse. De reliquis autem rebus et
-                    negotiis vestris, quid sua maiestas responderit, Dominationibus Vestris per
-                    egregium dominum <persName>Michaelem Merey</persName><note type="critic"
-                        xml:id="note.3">Mihály Mérey.</note> brevi significabimus. </p>
+                    intercessisse et litteras suae maiestatis ratione<note xml:id="note.2">Uncertain
+                        reading.</note> negotii, quod cum domino <persName>Gaspare Seredy</persName>
+                    commune habetis, ad eundem dominum Seredy datas praesentibus annexas ad vos
+                    misisse. De reliquis autem rebus et negotiis vestris, quid sua maiestas
+                    responderit, Dominationibus Vestris per egregium dominum <persName>Michaelem
+                        Merey</persName><note xml:id="note.3">Mihály Mérey.</note> brevi
+                    significabimus. </p>
                 <p xml:id="p.3">Dominationes Vestras feliciter valere optamus.</p>
                 <p xml:id="p.4">Datum <placeName>Augustae Vindelicorum</placeName> tertia Aprilis
                     1548.</p>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -240,16 +238,16 @@
                 <p xml:id="p.2">Consiliarii <persName>reginalis maiestatis</persName> hic
                         <placeName>Viennae</placeName> constituti conquesti sunt apud nos, quod ad
                     instantiam adversae partis in causa inter magnificum dominum
-                        <persName>Wolffgangum Haller</persName><note type="critic" xml:id="note.1"
-                        >Wolfgang Haller.</note> etc., et matrem ac assertos haeredes quondam domini
-                        <persName>Petri Hilleprant</persName><note type="critic" xml:id="note.2"
-                        >Peter Hilleprandt was a Deputy Count of the Chamber <hi rend="italic"
-                            >(Unterkammergraf)</hi> in Banská Štiavnica during the 1530s, see <hi
-                            rend="smallcap">Meier–Piiarinen–Wegera</hi> 2009, 13.</note> vertente
-                    nimis inordinato processu, citatione, legitimis et debitis terminis, ac
-                    dilationibus ad deliberandum, et respondendum non distincta, nec legitimae
-                    praesentata nimis celeriter festinare velletis, ex quo non mediocre damnum in
-                    dominum <persName>Haller</persName> ac praecipue <persName>reginalem
+                        <persName>Wolffgangum Haller</persName><note xml:id="note.1">Wolfgang
+                        Haller.</note> etc., et matrem ac assertos haeredes quondam domini
+                        <persName>Petri Hilleprant</persName><note xml:id="note.2">Peter Hilleprandt
+                        was a Deputy Count of the Chamber <hi rend="italic">(Unterkammergraf)</hi>
+                        in Banská Štiavnica during the 1530s, see <hi rend="smallcap"
+                            >Meier–Piiarinen–Wegera</hi> 2009, 13.</note> vertente nimis inordinato
+                    processu, citatione, legitimis et debitis terminis, ac dilationibus ad
+                    deliberandum, et respondendum non distincta, nec legitimae praesentata nimis
+                    celeriter festinare velletis, ex quo non mediocre damnum in dominum
+                        <persName>Haller</persName> ac praecipue <persName>reginalem
                         maiestatem</persName> redundare posset, de quo etiam legitime querelae ad
                         <persName>regiam maiestatem</persName> pervenire possent. Ita quod in non
                     levem suspicionem trahi possetis, quae cuilibet iudici maxime cavenda est,

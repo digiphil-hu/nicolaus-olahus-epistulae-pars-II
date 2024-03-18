@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,39 +244,36 @@
                     lectionem accingerer, volui me tibi per litteras purgare, ne suspiceres mea
                     negligentia factum, ut tam sero tibi responderim. Abfui diebus aliquot
                         <placeName>Mechlinia</placeName>, ut interessem
-                        <persName>filii</persName><note type="critic" xml:id="note.1">We do not know
-                        his name. Cranevelt and his wife, Elisabeth van Baussele had at least eleven
-                        children, see <hi rend="smallcap">Leijenhorst</hi> 1985, 354.</note>
-                    repetitioni atque licentiae, ut vocant, quam ille <placeName>Lovanii</placeName>
-                    suscepit XXVI-a Septembris. Ea de causa factum credo, ut serius mihi litterae
-                    tuae redderentur. Eas accepi hoc ipso die divi Iheronimi<note type="critic"
-                        xml:id="note.2">22 September.</note> a <del corresp="Olahus"
-                        >prandia</del><add corresp="Olahus" type="corr">prandio</add> ac lectis
-                    epitaphiis, tuum illud Graecum bis Latinitate donavi; quam feliciter, ipse
-                    iudicabis, cui promittitur, ut vel deligas, id quod praestantius videbitur, vel
-                    utrumque censoria virgula condemnes. </p>
+                        <persName>filii</persName><note xml:id="note.1">We do not know his name.
+                        Cranevelt and his wife, Elisabeth van Baussele had at least eleven children,
+                        see <hi rend="smallcap">Leijenhorst</hi> 1985, 354.</note> repetitioni atque
+                    licentiae, ut vocant, quam ille <placeName>Lovanii</placeName> suscepit XXVI-a
+                    Septembris. Ea de causa factum credo, ut serius mihi litterae tuae redderentur.
+                    Eas accepi hoc ipso die divi Iheronimi<note xml:id="note.2">22 September.</note>
+                    a <del corresp="Olahus">prandia</del><add corresp="Olahus" type="corr"
+                        >prandio</add> ac lectis epitaphiis, tuum illud Graecum bis Latinitate
+                    donavi; quam feliciter, ipse iudicabis, cui promittitur, ut vel deligas, id quod
+                    praestantius videbitur, vel utrumque censoria virgula condemnes. </p>
                 <pb/>
-                <p xml:id="p.3"><persName>Nannium</persName><note type="critic" xml:id="note.3"
-                        >Pieter Nanninck.</note> nostrum aiunt ex oculis laborare,<note
-                        type="critic" xml:id="note.4">See Ep.
-                        590.<ref>olahus.tei.15370928_1</ref></note> vereor, ne sese nimis obruat
+                <p xml:id="p.3"><persName>Nannium</persName><note xml:id="note.3">Pieter
+                        Nanninck.</note> nostrum aiunt ex oculis laborare,<note xml:id="note.4">See
+                        Ep. 590.<ref>olahus.tei.15370928_1</ref></note> vereor, ne sese nimis obruat
                     lucubrationibus; <del corresp="Olahus">haec</del><add corresp="Olahus"
                         type="corr">hic</add> ophthalmia laborat et Cicero ad amicos de sua queritur
-                        lippitudine.<note type="critic" xml:id="note.5">Cf. Cic. <hi rend="italic"
-                            >Ad Att.</hi> VIII,XII,1.</note> Percurram <del corresp="Olahus"
-                        >quanto</del><add corresp="Olahus" type="corr">quanta</add> potero
-                    celeritate <hi rend="italic">Hungariam</hi> et remittam. Interea tibi mitto
-                        epitaphium<note type="critic" xml:id="note.6">We do not know which epitaph
-                        he sent.</note> illud versum bis non tam feliciter, quam vellem. Cum
-                    redierit dominus <persName>Cornelius Scepperus</persName>,<note type="critic"
-                        xml:id="note.7">Cornelis de Schepper.</note> spero nos boni aliquid
-                    audituros. Quod si res ad bellum rursum spectare videbitur, atque ita sederit
-                    animis principum, vereor, ne tempus sit epitaphium pacis conscribendi. Sed haec
-                    sita sunt <quote xml:id="quote.1">ἐπὶ γούνασι θεῶν.</quote><note type="quote"
-                        xml:id="note.quote.1">Cf. Hom. <hi rend="italic">Il.</hi> XX,435: θεῶν ἐν
-                        γούνασι κεῖται <hi rend="italic">Od.</hi> I,267.</note><note type="critic"
-                        xml:id="note.8">‘it lies on the knees of the gods’.</note> Vale, Vir
-                    Eximie.</p>
+                        lippitudine.<note xml:id="note.5">Cf. Cic. <hi rend="italic">Ad Att.</hi>
+                        VIII,XII,1.</note> Percurram <del corresp="Olahus">quanto</del><add
+                        corresp="Olahus" type="corr">quanta</add> potero celeritate <hi
+                        rend="italic">Hungariam</hi> et remittam. Interea tibi mitto epitaphium<note
+                        xml:id="note.6">We do not know which epitaph he sent.</note> illud versum
+                    bis non tam feliciter, quam vellem. Cum redierit dominus <persName>Cornelius
+                        Scepperus</persName>,<note xml:id="note.7">Cornelis de Schepper.</note>
+                    spero nos boni aliquid audituros. Quod si res ad bellum rursum spectare
+                    videbitur, atque ita sederit animis principum, vereor, ne tempus sit epitaphium
+                    pacis conscribendi. Sed haec sita sunt <quote xml:id="quote.1">ἐπὶ γούνασι
+                        θεῶν.</quote><note type="quote" xml:id="note.quote.1">Cf. Hom. <hi
+                            rend="italic">Il.</hi> XX,435: θεῶν ἐν γούνασι κεῖται <hi rend="italic"
+                            >Od.</hi> I,267.</note><note xml:id="note.8">‘it lies on the knees of
+                        the gods’.</note> Vale, Vir Eximie.</p>
                 <p xml:id="p.4">Ex nostro Musaeo ipso die divi Ieronimii 1537.</p>
             </div>
         </body>

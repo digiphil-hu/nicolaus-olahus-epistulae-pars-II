@@ -221,7 +221,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -255,68 +254,65 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Sceperum responsio. </p>
                 <p xml:id="p.2">[1.] Ex tuis litteris XXVII. Decembris ex
-                        <placeName>Montisono</placeName><note type="critic" xml:id="note.1"
-                        >Monzón.</note> datis<note type="critic" xml:id="note.2">See Ep.
-                            434.<ref>olahus.tei.15331227_1</ref></note> mihi vero redditis XII.
-                    huius mensis perplexus eram. Nihil enim certi scripseras<note type="critic"
-                        xml:id="note.3">On 22 January, Oláh had not yet received Schepper’s letter
-                        of 17 January.</note> de reversionis tuae via, an te huc exspectarem, aut
-                    litteras tuas ad te profectum ad <persName>regem</persName> per
-                        <placeName>Burgundiam</placeName> mitterem. <del corresp="Olahus"
-                        >Exspectatis</del><add corresp="Olahus" type="corr">Exspectato</add> igitur
-                    te huc frustra in hunc diem desini esse perplexus maxime, cum ad
-                        <persName>Haller</persName><note type="critic" xml:id="note.4">Wolfgang
-                        Haller.</note> scripseras verbis apertioribus, quam ad me, ut diceret
-                    reginae, ut si quid vellet, id ad curiam regiam ad te mitteret. Si igitur sanus
-                    eo applicueris, gratissimum est mihi. Reginam admonui, ut in omnem eventum
-                    litteras, ut vocant credentiae, in personam tui ad
-                        <persName>Gryti</persName><note type="critic" xml:id="note.5">Lodovico
-                        Gritti.</note> daret, ut si quid in maiestatis suae rebus et nostris, qui a
-                    maiestate sua pendemus, agendum esse tibi videretur, illis munitus firmius agere
-                    posses. Litteras ipsas accipies cum praesentibus. In titulo putabis fortasse
-                    erratum esse; id non nobis, sed tibi imputato, qui pollicitus sit te huc
-                    reversurum, ut non rediisti nobisque informationem <choice>
+                        <placeName>Montisono</placeName><note xml:id="note.1">Monzón.</note>
+                        datis<note xml:id="note.2">See Ep.
+                        434.<ref>olahus.tei.15331227_1</ref></note> mihi vero redditis XII. huius
+                    mensis perplexus eram. Nihil enim certi scripseras<note xml:id="note.3">On 22
+                        January, Oláh had not yet received Schepper’s letter of 17 January.</note>
+                    de reversionis tuae via, an te huc exspectarem, aut litteras tuas ad te
+                    profectum ad <persName>regem</persName> per <placeName>Burgundiam</placeName>
+                    mitterem. <del corresp="Olahus">Exspectatis</del><add corresp="Olahus"
+                        type="corr">Exspectato</add> igitur te huc frustra in hunc diem desini esse
+                    perplexus maxime, cum ad <persName>Haller</persName><note xml:id="note.4"
+                        >Wolfgang Haller.</note> scripseras verbis apertioribus, quam ad me, ut
+                    diceret reginae, ut si quid vellet, id ad curiam regiam ad te mitteret. Si
+                    igitur sanus eo applicueris, gratissimum est mihi. Reginam admonui, ut in omnem
+                    eventum litteras, ut vocant credentiae, in personam tui ad
+                        <persName>Gryti</persName><note xml:id="note.5">Lodovico Gritti.</note>
+                    daret, ut si quid in maiestatis suae rebus et nostris, qui a maiestate sua
+                    pendemus, agendum esse tibi videretur, illis munitus firmius agere posses.
+                    Litteras ipsas accipies cum praesentibus. In titulo putabis fortasse erratum
+                    esse; id non nobis, sed tibi imputato, qui pollicitus sit te huc reversurum, ut
+                    non rediisti nobisque informationem <choice>
                         <orig>nobis</orig>
                         <supplied>non</supplied>
                     </choice> dederis. Attamen si mutanda est ex tua sententia, <del
                         corresp="Olahus">dictioe</del><add corresp="Olahus" type="corr"
                         >dictione</add> gubernatori <add corresp="Olahus" type="insert">rasa</add>
                     poteris curare, ut apponatur post rasuram subtilem protectori.
-                        <persName>Maius</persName><note type="critic" xml:id="note.6">Johannes Maius
-                        of Sélestat.</note> secretarius regis id praestare poterit, manum enim habet
+                        <persName>Maius</persName><note xml:id="note.6">Johannes Maius of
+                        Sélestat.</note> secretarius regis id praestare poterit, manum enim habet
                     similem, haec tuae erit prudentiae et dexteritatis. Id quoque non mireris, quod
                     titulus muneris tui in litteris reginae mutatus est, nam Protheus<note
-                        type="critic" xml:id="note.7">In Greek mythology, Proteus was a god of the
-                        sea, who always changed his shape.</note> esse videris. </p>
+                        xml:id="note.7">In Greek mythology, Proteus was a god of the sea, who always
+                        changed his shape.</note> esse videris. </p>
                 <p xml:id="p.3">[2.] In rebus meis per deos et, si qui cariores tibi sint, te oro,
                     habe tandem curam diligentem, cum <del corresp="Olahus">serenissimo
                         nostro</del><add corresp="Olahus" type="corr">serenissimo rege et cum
-                        domino</add><persName>Lundensi</persName><note type="critic" xml:id="note.8"
-                        >Johan Weze.</note> una efficias, ut mea rehabeam, scis, quin in rebus
-                    reginae et meis <placeName>Constantinopoli</placeName> concluseris. <add
-                        corresp="scriba" type="insert">Ex</add> signatura,<note type="critic"
-                        xml:id="note.9">‘signature’, ‘signed application’, see <hi rend="smallcap"
-                            >Lakatos</hi> 2018, 17.</note> quam cum praesentibus ad te misi, omnia
-                    mea aperte intelliges. Quae si tibi usque ad taedium longa replicatio videbitur,
-                    id tribue meae sollicitudini, quam in rebus meis, ut haec tua et domini
-                        <persName>Lundensis</persName> nostri opera perficiantur, habui et habeo,
-                    habebis etiam litteras reginae ad regem et dominum
-                        <persName>Tridentinum</persName><note type="critic" xml:id="note.10"
-                        >Bernhard von Cles.</note> datas in rerum mearum commendationem, si apud eos
-                    agendum erit negotium, si vero apud <persName>Grythi</persName> post reginae
-                    negotia meum quoque adiungere poteris. Haec omnia <del corresp="Olahus">in
-                        rebus</del><add corresp="Olahus" type="corr">tu melius</add> exsequi scies,
-                    quam ego te aut rogare aut de his plura scribere sciam. Hoc tamen unum velim,
-                    existimes me nihil unquam a te ex animo magis rogasse, quam ut meam hanc causam
-                    ex animi nostri sententia conficias. Qui non habebis ingratum amicum et fratrem,
-                    sed et ista quae nunc et quae in futurum unquam habiturus sum, tecum ut cum
-                    amico fido communicaturum. Vale et cura rogo, ne spes mea, quam in te habeo, me
-                    fallat. Litteras tuorum ad te misi, qui bene valent.
-                        <persName>Comitissa</persName>,<note type="critic" xml:id="note.11"
-                        >Elisabeth, Countess of Salm.</note><persName>Lucretia</persName><note
-                        type="critic" xml:id="note.12">Lucretia Caballis (vom Ross).</note> et
-                        <persName>Baillieul</persName><note type="critic" xml:id="note.13">Madame
-                        Bailleul.</note> te resalutant.</p>
+                        domino</add><persName>Lundensi</persName><note xml:id="note.8">Johan
+                        Weze.</note> una efficias, ut mea rehabeam, scis, quin in rebus reginae et
+                    meis <placeName>Constantinopoli</placeName> concluseris. <add corresp="scriba"
+                        type="insert">Ex</add> signatura,<note xml:id="note.9">‘signature’, ‘signed
+                        application’, see <hi rend="smallcap">Lakatos</hi> 2018, 17.</note> quam cum
+                    praesentibus ad te misi, omnia mea aperte intelliges. Quae si tibi usque ad
+                    taedium longa replicatio videbitur, id tribue meae sollicitudini, quam in rebus
+                    meis, ut haec tua et domini <persName>Lundensis</persName> nostri opera
+                    perficiantur, habui et habeo, habebis etiam litteras reginae ad regem et dominum
+                        <persName>Tridentinum</persName><note xml:id="note.10">Bernhard von
+                        Cles.</note> datas in rerum mearum commendationem, si apud eos agendum erit
+                    negotium, si vero apud <persName>Grythi</persName> post reginae negotia meum
+                    quoque adiungere poteris. Haec omnia <del corresp="Olahus">in rebus</del><add
+                        corresp="Olahus" type="corr">tu melius</add> exsequi scies, quam ego te aut
+                    rogare aut de his plura scribere sciam. Hoc tamen unum velim, existimes me nihil
+                    unquam a te ex animo magis rogasse, quam ut meam hanc causam ex animi nostri
+                    sententia conficias. Qui non habebis ingratum amicum et fratrem, sed et ista
+                    quae nunc et quae in futurum unquam habiturus sum, tecum ut cum amico fido
+                    communicaturum. Vale et cura rogo, ne spes mea, quam in te habeo, me fallat.
+                    Litteras tuorum ad te misi, qui bene valent.
+                        <persName>Comitissa</persName>,<note xml:id="note.11">Elisabeth, Countess of
+                        Salm.</note><persName>Lucretia</persName><note xml:id="note.12">Lucretia
+                        Caballis (vom Ross).</note> et <persName>Baillieul</persName><note
+                        xml:id="note.13">Madame Bailleul.</note> te resalutant.</p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> XXII. Ianuarii 1534.</p>
             </div>
         </body>

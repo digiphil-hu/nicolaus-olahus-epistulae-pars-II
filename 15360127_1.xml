@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,13 +232,12 @@
                     nempe chartaceum et nequaquam cum tuo conferendum. Verum quid faciam, cum alios
                     fructus non producat fundus meus. Consulat igitur boni Dominatio Tua <hi
                         rend="italic">Institutiones</hi> has Graecas iuris civilis,<note
-                        type="critic" xml:id="note.1"><hi rend="italic">Institutiones iuris
-                            civilis</hi> of Theophilus, printed by Ressen. See <hi rend="smallcap"
-                            >De Vocht</hi> 1954, 125–126.</note> quas tibi ac
-                        <persName>Iacobo</persName><note type="critic" xml:id="note.2">Jakob
-                        Jespersen.</note> tuo mittimus, accepturus maiora chartacea dona, cum ea
-                    officina nostra protulerit. Bene vale, Domine Consiliarie in primis Observande.
-                    Raptim.</p>
+                        xml:id="note.1"><hi rend="italic">Institutiones iuris civilis</hi> of
+                        Theophilus, printed by Ressen. See <hi rend="smallcap">De Vocht</hi> 1954,
+                        125–126.</note> quas tibi ac <persName>Iacobo</persName><note
+                        xml:id="note.2">Jakob Jespersen.</note> tuo mittimus, accepturus maiora
+                    chartacea dona, cum ea officina nostra protulerit. Bene vale, Domine Consiliarie
+                    in primis Observande. Raptim.</p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> XXVII. Ianuarii 1536.</p>
             </div>
         </body>

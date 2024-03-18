@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -261,15 +260,15 @@
                 <p xml:id="p.1">Nicolaus Olaus Cornelio Scepero suo salutem. </p>
                 <p xml:id="p.2">[1.] Si sanus es, gaudeo. Quemadmodum proxime scripseram,
                         <persName>regina</persName> laetatur, te factum esse consiliarium a
-                        privatis.<note type="critic" xml:id="note.1">See Ep. 448. Cap.
+                        privatis.<note xml:id="note.1">See Ep. 448. Cap.
                             1.<ref>olahus.tei.15340201_1</ref></note> Ego mallem factus esses a
                     financiis: plus enim ibi finanzare posses. Res tua in hoc est statu.
-                        <persName>Haller</persName><note type="critic" xml:id="note.2">Wolfgang
-                        Haller.</note> admonuerat <persName>reginam</persName>, ut ad eum scripseras
-                    de hoc <persName>caesaris</persName> in te collato beneficio, admonuerat et
-                        <persName>thesaurarium</persName><note type="critic" xml:id="note.3"
-                        >Wolfgang Haller.</note> et alios, quorum interest. Illi prius faciles in ea
-                    re postea videbantur subdifficilliores allegantes, nescio quam
+                        <persName>Haller</persName><note xml:id="note.2">Wolfgang Haller.</note>
+                    admonuerat <persName>reginam</persName>, ut ad eum scripseras de hoc
+                        <persName>caesaris</persName> in te collato beneficio, admonuerat et
+                        <persName>thesaurarium</persName><note xml:id="note.3">Wolfgang
+                        Haller.</note> et alios, quorum interest. Illi prius faciles in ea re postea
+                    videbantur subdifficilliores allegantes, nescio quam
                         <persName>caesaris</persName> constitutionem, ne consiliariorum numerus in
                     posterum augeretur. <persName>Reginam</persName> ego heri allocutus sum,
                     intellige, quid dixerim. “<persName>Cornelius Sceperus</persName>, bonus
@@ -285,7 +284,7 @@
                     consiliariorum, respondit id non obstaturum. Nam prius sex numero tales fuerint
                     consiliarii. Quo nunc essent pauciores, curare igitur se tuam promotionem. Nunc
                     in eo statu est negotium, itaque finivimus, ut cum
-                        <persName>Panormitanus</persName><note type="critic" xml:id="note.4">Jean II
+                        <persName>Panormitanus</persName><note xml:id="note.4">Jean II
                         Carondelet.</note><persName>reginam</persName> accesserit, scis enim eum
                     tardius tum ob senectutem suam, tum ob <persName>reginae</persName> valetudinem
                     accedere, sive ego tunc ibi sim, sive <persName>Haller</persName>, admoneamus
@@ -294,13 +293,13 @@
                         <persName>Haller</persName> vel ego te certiorem de rebus, quid factum
                     fuerit, faciemus. </p>
                 <p xml:id="p.3">[2.] In <persName>reginae</persName> negotio cum
-                        <persName>Gryti</persName><note type="critic" xml:id="note.5">Lodovico
-                        Gritti.</note> tractando nihil esse videtur, de quo non fuerit antea
-                    provisum, habes litteras credentiae, quarum vigore ea agas, quae in rem
-                    maiestatis suae fore videbuntur. Si informationem habere volueris, consiliarii
-                        <persName>reginae</persName> istic existentes te informabunt. Si litterae
-                    ipsae credentiae ad <persName>Gryti</persName> in titulo (nescivimus enim, quali
-                    utatur) casu reformari <choice>
+                        <persName>Gryti</persName><note xml:id="note.5">Lodovico Gritti.</note>
+                    tractando nihil esse videtur, de quo non fuerit antea provisum, habes litteras
+                    credentiae, quarum vigore ea agas, quae in rem maiestatis suae fore videbuntur.
+                    Si informationem habere volueris, consiliarii <persName>reginae</persName> istic
+                    existentes te informabunt. Si litterae ipsae credentiae ad
+                        <persName>Gryti</persName> in titulo (nescivimus enim, quali utatur) casu
+                    reformari <choice>
                         <orig>delebitur</orig>
                         <supplied>debebitur</supplied>
                     </choice>, scribe huc, si emendari istic caute non poterunt; ego mox per postham
@@ -313,10 +312,10 @@
                     quibus aliis prioribus ad taedium fortasse usque ad te scripsi. </p>
                 <p xml:id="p.4">[3.] Scribunt ad me amici mei ex Hungaria <persName>regem</persName>
                     permisisse ad breve tempus et mea et aliorum bona in manibus <persName>Valentini
-                        Theureck</persName>,<note type="critic" xml:id="note.6">Bálint Török.</note>
-                    postquam illius immensae cupiditati a <persName>rege</persName> non poterat
-                    responderi. Si ibi fuissem, vel si habuissem diligentem quempiam sollicitatorem,
-                    dum cum <persName>Valentino</persName> tractatum est, non puto,
+                        Theureck</persName>,<note xml:id="note.6">Bálint Török.</note> postquam
+                    illius immensae cupiditati a <persName>rege</persName> non poterat responderi.
+                    Si ibi fuissem, vel si habuissem diligentem quempiam sollicitatorem, dum cum
+                        <persName>Valentino</persName> tractatum est, non puto,
                         <persName>rex</persName> mea apud illum reliquisset contra suas mihi datas
                     litteras, et alioqui quoque si esset, qui tractaret <milestone unit="pb"/>cum
                         <persName>Valentino</persName>, credo eum non durum in me futurum. Cura,
@@ -324,38 +323,35 @@
                     extrahantur tua opera, cura et diligentia; nihil mihi gratius facere poteris, mi
                     Domine et Frater. Quo pacto <persName>rex</persName> in manibus
                         <persName>Valentini Theurek</persName> ad tempus mea bona relinquerit,
-                    poteris interrogare a domino <persName>Gerendi</persName>,<note type="critic"
-                        xml:id="note.7">Miklós Gerendi.</note> episcopo Transsilvaniensi ab ineunte
-                    nostra aetate<note type="critic" xml:id="note.8">Cf. Ep. 313. Cap. 2.: “Nicolaus
-                        Gerendy, meus singularis ab ineunte aetate nostra
-                            amicus…”<ref>olahus.tei.15330114_1</ref></note> ut ego illi fui ita et
-                    ipse mihi coniunctissimo; apertius ipse practicas <persName>Valentini</persName>
+                    poteris interrogare a domino <persName>Gerendi</persName>,<note xml:id="note.7"
+                        >Miklós Gerendi.</note> episcopo Transsilvaniensi ab ineunte nostra
+                        aetate<note xml:id="note.8">Cf. Ep. 313. Cap. 2.: “Nicolaus Gerendy, meus
+                        singularis ab ineunte aetate nostra
+                        amicus…”<ref>olahus.tei.15330114_1</ref></note> ut ego illi fui ita et ipse
+                    mihi coniunctissimo; apertius ipse practicas <persName>Valentini</persName>
                     intelligit. </p>
-                <p xml:id="p.5">[4.] De rebus Danicis scripsi<note type="critic" xml:id="note.9">See
-                        Ep. 440.<ref>olahus.tei.15340115_1</ref></note> ad dominum
-                        <persName>Lundensem</persName>,<note type="critic" xml:id="note.10">Johan
-                        Weze.</note> a quo eas accipies. De rebus illis magnis, de quibus fueramus
-                    hic iucundissime locuti, rogo, scribe diffusius. Ne quid verearis! Nominibus
-                    parcito et utere etiam, si libet, notis apud dominum
-                        <persName>Lundensem</persName> habitis, aut aliis verborum
-                        traductionibus,<note type="critic" xml:id="note.11">Probably, a type of
+                <p xml:id="p.5">[4.] De rebus Danicis scripsi<note xml:id="note.9">See Ep.
+                            440.<ref>olahus.tei.15340115_1</ref></note> ad dominum
+                        <persName>Lundensem</persName>,<note xml:id="note.10">Johan Weze.</note> a
+                    quo eas accipies. De rebus illis magnis, de quibus fueramus hic iucundissime
+                    locuti, rogo, scribe diffusius. Ne quid verearis! Nominibus parcito et utere
+                    etiam, si libet, notis apud dominum <persName>Lundensem</persName> habitis, aut
+                    aliis verborum traductionibus,<note xml:id="note.11">Probably, a type of
                         cypher.</note> arbitror me ea intellecturum. Nugas has consiliariorum
                         <persName>Angliae regis</persName> legito, vide, quid moliantur. Fama est
                     hic, nescio, an vera, <persName>Melanchtonem</persName> esse in
                         <placeName>Anglia</placeName>, et <persName>Lanthgravium
-                        Hessiae</persName><note type="critic" xml:id="note.12">Philipp I, Landgrave
-                        of Hesse.</note> profectum ad <persName>Gallum</persName>.<note
-                        type="critic" xml:id="note.13">King Francis I.</note> Vale et me servitiaque
-                    mea humillime commenda in gratiam regiae maiestatis, facito hoc idem et apud
-                    dominum <persName>Tridentinum</persName>.<note type="critic" xml:id="note.14"
-                        >Bernard von Cles.</note><persName>Comitissa de Salm</persName>,<note
-                        type="critic" xml:id="note.15">Elisabeth, Countess of
-                        Salm.</note><persName>Balliewl</persName>,<note type="critic"
+                        Hessiae</persName><note xml:id="note.12">Philipp I, Landgrave of
+                        Hesse.</note> profectum ad <persName>Gallum</persName>.<note
+                        xml:id="note.13">King Francis I.</note> Vale et me servitiaque mea humillime
+                    commenda in gratiam regiae maiestatis, facito hoc idem et apud dominum
+                        <persName>Tridentinum</persName>.<note xml:id="note.14">Bernard von
+                        Cles.</note><persName>Comitissa de Salm</persName>,<note xml:id="note.15"
+                        >Elisabeth, Countess of Salm.</note><persName>Balliewl</persName>,<note
                         xml:id="note.16">Madame Bailleul.</note><persName>Lucretia</persName>,<note
-                        type="critic" xml:id="note.17"> Lucretia Caballis (vom
-                        Ross).</note><persName>Swaterna</persName><note type="critic"
-                        xml:id="note.18">Madame de Souvastre.</note> te resalutant, vale iterumque
-                    vale. </p>
+                        xml:id="note.17"> Lucretia Caballis (vom
+                        Ross).</note><persName>Swaterna</persName><note xml:id="note.18">Madame de
+                        Souvastre.</note> te resalutant, vale iterumque vale. </p>
                 <p xml:id="p.6"><placeName>Bruxellae</placeName> VIII. Februarii 1534.</p>
             </div>
         </body>

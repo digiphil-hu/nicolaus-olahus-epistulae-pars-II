@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Damján Neszmélyi</persName>
                 </correspAction>
             </correspDesc>
@@ -239,12 +237,12 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad Daminanum de Nezmel<note type="critic" xml:id="note.1">Damján
-                        Neszmélyi was Vice-prefect of Diósgyőr between 1532 and 1534, see <hi
-                            rend="smallcap">Bessenyei</hi> 1998, 84.</note><del corresp="Olahus"
+                <p xml:id="p.1">Ad Daminanum de Nezmel<note xml:id="note.1">Damján Neszmélyi was
+                        Vice-prefect of Diósgyőr between 1532 and 1534, see <hi rend="smallcap"
+                            >Bessenyei</hi> 1998, 84.</note><del corresp="Olahus"
                         >vicecapitaneum</del><add corresp="Olahus" type="corr">vicepraefectum
-                        arcis</add><placeName>Dyosgyewr</placeName>.<note type="critic"
-                        xml:id="note.2">Diósgyőr.</note></p>
+                        arcis</add><placeName>Dyosgyewr</placeName>.<note xml:id="note.2"
+                        >Diósgyőr.</note></p>
                 <p xml:id="p.2">Ita saepe fit, ut dum amici absunt, eorum non recordemur, quod video
                     in me esse verificatum. Nam nescio, an ex oblivione, vel ex multis tuis
                     occupationibus mei es omnino oblitus, nihilque ad me scribis. Optarem, ut non
@@ -253,13 +251,13 @@
                     opera expediendum, sed etiam alio tempore. Ut ex tuis litteris veluti veteris
                     mei amici intelligerem rerum mearum statum, plebanatum istum de
                         <placeName>Myskolcz</placeName> ex petitione <persName>Sebastiani
-                        Pemflinger</persName><note type="critic" xml:id="note.3">Sebestyén
-                        Pemfflinger.</note> amici mei reliqueram bono illi viro, qui <del
-                        corresp="Olahus">nostris</del><add corresp="Olahus" type="corr">nunc</add>
-                    in eo <del corresp="Olahus">esset</del> est, ut esset vicarius meus et servitiis
-                    divinis primum, deinde meis istic rebus provideret. Abbatiam etiam de
-                        <placeName>Thapolcza</placeName> reliqui<note type="critic" xml:id="note.4"
-                        >See Ep. 437.<ref>olahus.tei.15340111_1</ref></note> sub protectione eiusdem
+                        Pemflinger</persName><note xml:id="note.3">Sebestyén Pemfflinger.</note>
+                    amici mei reliqueram bono illi viro, qui <del corresp="Olahus">nostris</del><add
+                        corresp="Olahus" type="corr">nunc</add> in eo <del corresp="Olahus"
+                        >esset</del> est, ut esset vicarius meus et servitiis divinis primum, deinde
+                    meis istic rebus provideret. Abbatiam etiam de <placeName>Thapolcza</placeName>
+                        reliqui<note xml:id="note.4">See Ep.
+                        437.<ref>olahus.tei.15340111_1</ref></note> sub protectione eiusdem
                         <persName>Sebastiani</persName>, ut ad proventuum illius administrationem
                     nomine meo aliquem honestum virum ordinaret. Nescio, quid in <del
                         corresp="Olahus">utriusque</del><add corresp="Olahus" type="corr"

@@ -209,7 +209,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -239,8 +238,8 @@
                 <pb/>
                 <p xml:id="p.1">Ad Sebastianum Pemflynger. </p>
                 <p xml:id="p.2">[1.] Cupio te cum domina tua <persName>coniuge</persName><note
-                        type="critic" xml:id="note.1">Elisabeth, daughter of Hans von Puchheim and
-                        Barbara Strein von Schwarzenau. Pemfflinger married her before 1526, see <hi
+                        xml:id="note.1">Elisabeth, daughter of Hans von Puchheim and Barbara Strein
+                        von Schwarzenau. Pemfflinger married her before 1526, see <hi
                             rend="smallcap">Kubinyi</hi> 2009, 753.</note> et feliciter valere!
                         <persName>Regina</persName> post diuturnam aegrotationem iam Deo volente
                     melius valet. </p>
@@ -248,33 +247,33 @@
                 <p xml:id="p.3">Multi confluunt medicii ad eius curam, una tamen vetula mulier non
                     parum inter catervam medicorum illi profuit. Speramus ipsam in dies melius
                     habituram. Nos omnes unacum aliis omnibus amicis vestris bene valemus.
-                        <persName>Wolffgangus a Pwhem</persName><note type="critic" xml:id="note.2"
-                        >Wolfgang von Puchheim was Commissioner of the Mining District and <hi
-                            rend="italic">ispán</hi> of Zvolen county, see <hi rend="smallcap"
-                            >Szántó</hi> 1977, 47.</note><choice>
+                        <persName>Wolffgangus a Pwhem</persName><note xml:id="note.2">Wolfgang von
+                        Puchheim was Commissioner of the Mining District and <hi rend="italic"
+                            >ispán</hi> of Zvolen county, see <hi rend="smallcap">Szántó</hi> 1977,
+                        47.</note><choice>
                         <orig>consanguinius</orig>
                         <supplied>consanguineus</supplied>
-                    </choice> vester<note type="critic" xml:id="note.3">Wolfgang von Puchheim was
-                        Pemfflinger’s brother-in-law.</note> pro curandis suis rebus profectus ad
+                    </choice> vester<note xml:id="note.3">Wolfgang von Puchheim was Pemfflinger’s
+                        brother-in-law.</note> pro curandis suis rebus profectus ad
                         <placeName>Austriam</placeName> est in fine Novembris praeteriti; litteras
-                    ad vos plures<note type="critic" xml:id="note.4">We do not know these
-                        letters.</note> huic dedi, ad quas nullum habui responsum. </p>
+                    ad vos plures<note xml:id="note.4">We do not know these letters.</note> huic
+                    dedi, ad quas nullum habui responsum. </p>
                 <p xml:id="p.4">[2.] Non parvum angor et sollicitor, quod nesciam, quo modo res meas
                     abbatiae istic ordinaveritis, et quem procuraveritis meo nomine, ad proventus
                     illius curandos, quo pacto etiam illa <persName>viceplebanus de
-                        Myskolcz</persName>,<note type="critic" xml:id="note.5">We do not know him
-                        more closely. See Ep. 372. Note 5.<ref>olahus.tei.15330605_1</ref></note>
-                    quem in provisorem meum istic locatis, meas res istic gerat, ab eo enim nullas
-                    unquam litteras accepi. Quare rogo te plurimum, ut tam de abbatiae meae<note
-                        type="critic" xml:id="note.6">The Abbey of (Miskolc)tapolca.</note> rebus ac
-                    proventibus, quam quo pacto istic servitia divina constituta a te sint, fac me
-                    certiorem. Et committas <persName>viceplebano de Myskolcz</persName>, ut et ipse
-                    de rebus plebaniae ad me scribat. </p>
+                        Myskolcz</persName>,<note xml:id="note.5">We do not know him more closely.
+                        See Ep. 372. Note 5.<ref>olahus.tei.15330605_1</ref></note> quem in
+                    provisorem meum istic locatis, meas res istic gerat, ab eo enim nullas unquam
+                    litteras accepi. Quare rogo te plurimum, ut tam de abbatiae meae<note
+                        xml:id="note.6">The Abbey of (Miskolc)tapolca.</note> rebus ac proventibus,
+                    quam quo pacto istic servitia divina constituta a te sint, fac me certiorem. Et
+                    committas <persName>viceplebano de Myskolcz</persName>, ut et ipse de rebus
+                    plebaniae ad me scribat. </p>
                 <p xml:id="p.5">[3.] De rebus regis et nostris communibus Hungaricis spem bonam
-                    habeo. <persName>Gritti</persName><note type="critic" xml:id="note.7">Lodovico
-                        Gritti.</note> exibit hoc mense ex <placeName>Turcia</placeName>, rem ipsam
-                    componet, sed quid timeam, paucis perscribere non possum. Nova hic nulla sunt.
-                    Quando aliqua erunt, non pigebit me ea tibi significare. Vale. </p>
+                    habeo. <persName>Gritti</persName><note xml:id="note.7">Lodovico Gritti.</note>
+                    exibit hoc mense ex <placeName>Turcia</placeName>, rem ipsam componet, sed quid
+                    timeam, paucis perscribere non possum. Nova hic nulla sunt. Quando aliqua erunt,
+                    non pigebit me ea tibi significare. Vale. </p>
                 <p xml:id="p.6"><placeName>Bruxellae</placeName> 11. Ianuarii anno 1534.</p>
             </div>
         </body>

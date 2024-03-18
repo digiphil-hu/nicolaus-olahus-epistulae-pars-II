@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,31 +243,30 @@
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo <add corresp="Olahus"
                         type="insert">salutem</add>. </p>
                 <p xml:id="p.2">Mitto ad Magnificentiam Vestram orationem seu epistolam cuius
-                        <persName>illius Mediolanensis</persName>,<note type="critic"
-                        xml:id="note.1">Camillo Ghilino, see <hi rend="smallcap">De Vocht</hi> 1961,
-                        245.</note> ut illam legat, et postea ostendat <persName>reginali
-                        maiestati</persName>, ad quam de eadem epistola scribo. Vult illam occultam
-                    esse, neque refert magnopere, ut edatur, nisi quod arbitror instinctu et
-                    admonitionibus domini <persName>Antonii de Layna</persName><note type="critic"
-                        xml:id="note.2">Antonio de Leyva.</note> marchionis Modoeciae<note
-                        type="critic" xml:id="note.3">He was Marquis of Pescara and
+                        <persName>illius Mediolanensis</persName>,<note xml:id="note.1">Camillo
+                        Ghilino, see <hi rend="smallcap">De Vocht</hi> 1961, 245.</note> ut illam
+                    legat, et postea ostendat <persName>reginali maiestati</persName>, ad quam de
+                    eadem epistola scribo. Vult illam occultam esse, neque refert magnopere, ut
+                    edatur, nisi quod arbitror instinctu et admonitionibus domini <persName>Antonii
+                        de Layna</persName><note xml:id="note.2">Antonio de Leyva.</note> marchionis
+                        Modoeciae<note xml:id="note.3">He was Marquis of Pescara and
                         Commander-in-chief of the imperial army in the Duchy of Milan from 1525.
                         After Francesco II Sforza’s death (2 November, 1535), Emperor Charles V
                         appointed him Governor of Milan.</note> ipsum inductum, ut scriberet. In
                     summa nullus liber tam malus quin prosit, vide tamen, ne, cum regina eum
                     legerit, perdatur. Iudicium siquidem ea de re meum ad ipsum sum authorem
                     transcripturus. Et quia dominus <persName>Ulricus Eytzinger</persName><note
-                        type="critic" xml:id="note.4">Ulrich von Eytzing (1499–1561), a courtier of
-                        Queen Mary. According to De Vocht, it “seems to be merely a wrong spelling”,
-                        and he was Ulric Ehinger, an international financial agent but he is wrong.
-                        See <hi rend="smallcap">De Vocht</hi> 1961, 245.</note> advenit, et
-                    reverendissimus <persName>Lundensis</persName><note type="critic"
-                        xml:id="note.5">Johan Weze.</note> ad me scripsit se quasdam vestes meas in
-                    illius archam locasse huc ferendas una cum ipsius supellectile, quaeret ab eo
+                        xml:id="note.4">Ulrich von Eytzing (1499–1561), a courtier of Queen Mary.
+                        According to De Vocht, it “seems to be merely a wrong spelling”, and he was
+                        Ulric Ehinger, an international financial agent but he is wrong. See <hi
+                            rend="smallcap">De Vocht</hi> 1961, 245.</note> advenit, et
+                    reverendissimus <persName>Lundensis</persName><note xml:id="note.5">Johan
+                        Weze.</note> ad me scripsit se quasdam vestes meas in illius archam locasse
+                    huc ferendas una cum ipsius supellectile, quaeret ab eo
                     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?>Magnificentia
                     Vestra, an de illis eisdem vestibus aliquid sciat, et me eidam commendabit.
-                    Novis sponsis<note type="critic" xml:id="note.6">Probably Christina of Denmark
-                        and Francesco II Sforza.</note> precor felicitatem. Bene vale. </p>
+                    Novis sponsis<note xml:id="note.6">Probably Christina of Denmark and Francesco
+                        II Sforza.</note> precor felicitatem. Bene vale. </p>
                 <p xml:id="p.3"><placeName>Bruxellae</placeName> IIII. Iulii XV<hi rend="super"
                         >c</hi>XXXV.</p>
             </div>

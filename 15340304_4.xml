@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Sebestyén Pemfflinger<idno type="ITIdata">Q470426</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,57 +243,55 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Sebastianum Pemphlinger comitem Borsodiensem. </p>
                 <p xml:id="p.2">[1.] Accepi his diebus litteras tuas, quae undecima Decembris erant
-                    ex <placeName>Dyosgewr</placeName> scriptae.<note type="critic" xml:id="note.1"
-                        >We do not know this letter.</note> Gaudeo et te et
-                        <persName>coniugem</persName><note type="critic" xml:id="note.2">Elisabeth
-                        von Puchheim.</note> tuam cum liberis bene valere. Nihil mihi fuit gratius,
-                    quam hoc audivisse, laetor etiam tuos liberos nunc rursus una filia nata auctos.
-                    Conservet illos Deus ad multos annos feliciter! Scribis in tuis litteris te
-                    multoties huc scripsisse, sed hinc neque <persName>reginae</persName> litteras,
-                    neque meas habuisse. Profecto a multis temporibus nullae litterae a te huc
-                    venerunt, praeterquam unae<note type="critic" xml:id="note.3">We do not know
-                        this letter, but we know Oláh’s answer to it, see Ep.
-                            372.<ref>olahus.tei.15330605_1</ref></note> in mense Aprili, cuius iam
-                    annus erit. Miratus sum et ego, cur non scriberes, sed iam intelligo hinc
+                    ex <placeName>Dyosgewr</placeName> scriptae.<note xml:id="note.1">We do not know
+                        this letter.</note> Gaudeo et te et <persName>coniugem</persName><note
+                        xml:id="note.2">Elisabeth von Puchheim.</note> tuam cum liberis bene valere.
+                    Nihil mihi fuit gratius, quam hoc audivisse, laetor etiam tuos liberos nunc
+                    rursus una filia nata auctos. Conservet illos Deus ad multos annos feliciter!
+                    Scribis in tuis litteris te multoties huc scripsisse, sed hinc neque
+                        <persName>reginae</persName> litteras, neque meas habuisse. Profecto a
+                    multis temporibus nullae litterae a te huc venerunt, praeterquam unae<note
+                        xml:id="note.3">We do not know this letter, but we know Oláh’s answer to it,
+                        see Ep. 372.<ref>olahus.tei.15330605_1</ref></note> in mense Aprili, cuius
+                    iam annus erit. Miratus sum et ego, cur non scriberes, sed iam intelligo hinc
                     contigisse, quod litterae tuae huc et meae quoque ad te non mittantur.
                         <persName>Regina</persName> quoque ad te saepius scripsit, et pariter ego in
                     rebus meis multoties, ac litteras ad manus consiliariorum reginae misimus, sed,
                     ut video, non fuerunt ad te missae. </p>
                 <p xml:id="p.3">[2.] Ex litteris tuis, quae datae erant in mense Aprili anni
-                    praeteriti, intellexeram te abbatiam meam<note type="critic" xml:id="note.4"
-                        >Abbey of (Miskolc)tapolca.</note> ad manus tuas recepisse, et in hunc diem
-                    revera nihil aliud existimavi. Nunc intelligo ex litteris tuis his ultimis, quod
-                    maledictus ille <persName>Bebeck</persName><note type="critic" xml:id="note.5"
-                        >Ferenc Bebek.</note> eam possidet,<note type="critic" xml:id="note.6">On
-                        what came before, see Ep. 274. and Ep.
+                    praeteriti, intellexeram te abbatiam meam<note xml:id="note.4">Abbey of
+                        (Miskolc)tapolca.</note> ad manus tuas recepisse, et in hunc diem revera
+                    nihil aliud existimavi. Nunc intelligo ex litteris tuis his ultimis, quod
+                    maledictus ille <persName>Bebeck</persName><note xml:id="note.5">Ferenc
+                        Bebek.</note> eam possidet,<note xml:id="note.6">On what came before, see
+                        Ep. 274. and Ep.
                         372.<ref>olahus.tei.15320920_1</ref></note><ref>/o:olahus.tei.15330605_1</ref>
                     et nunc tu eam es cum equitibus levis armaturae
-                        <persName>Caczianer</persName><note type="critic" xml:id="note.7">Hans
-                        Katzianer.</note> ab illo reoccupaturus. Rogo te, mi Frater, ut habeas
-                    illius curam, quam poteris maiorem, ne desoletur magis, quam est desolata. Et
-                    quemadmodum pluribus meis litteris antea scripsi,<note type="critic"
-                        xml:id="note.8">Ep. 372.<ref>olahus.tei.15330605_1.</ref></note> constituas
-                    in ipsa abbatia nomine meo unum provisorem probum, quem in ea defende, et qui
-                    sit tam ecclesiae, quam mihi utilis. Credo, quod non diu hanc calamitatem
-                    Hungariae habebimus, sed Deus miserebitur nostri, brevique pax fiet. Alioqui si
-                    ea non fieret, sicuti tu scribis per praedones et nebulones tota Hungaria pessum
-                    iret. </p>
+                        <persName>Caczianer</persName><note xml:id="note.7">Hans Katzianer.</note>
+                    ab illo reoccupaturus. Rogo te, mi Frater, ut habeas illius curam, quam poteris
+                    maiorem, ne desoletur magis, quam est desolata. Et quemadmodum pluribus meis
+                    litteris antea scripsi,<note xml:id="note.8">Ep.
+                            372.<ref>olahus.tei.15330605_1.</ref></note> constituas in ipsa abbatia
+                    nomine meo unum provisorem probum, quem in ea defende, et qui sit tam ecclesiae,
+                    quam mihi utilis. Credo, quod non diu hanc calamitatem Hungariae habebimus, sed
+                    Deus miserebitur nostri, brevique pax fiet. Alioqui si ea non fieret, sicuti tu
+                    scribis per praedones et nebulones tota Hungaria pessum iret. </p>
                 <pb/>
                 <p xml:id="p.4"><persName>Viceparochus meus de Myskolcz</persName><note
-                        type="critic" xml:id="note.9">We do not know him more closely, see Ep. 372.
-                        Note 5.<ref>olahus.tei.15330605_1.</ref></note> nihil ad me unquam scipsit,
+                        xml:id="note.9">We do not know him more closely, see Ep. 372. Note
+                            5.<ref>olahus.tei.15330605_1.</ref></note> nihil ad me unquam scipsit,
                     vellem, ut aliquando scriberet, ut rem meam intelligerem. </p>
                 <p xml:id="p.5">[3.] <persName>Regina</persName> iam melius valet, sed saepius solet
                     in eundem morbum reincidere. Cui saepius de te, quandocumque est occasio,
                     loquor, tuaque servitia commendo; quae, ut antea, ita etiam nunc est tibi
                     clemens domina. Virgines omnes te tuamque carissimam uxorem resalutant. Si vis
                     litteras frequentiores huc mittere, quae ad manus nostras perveniant, cura medio
-                        <persName>Stephani Pemfflinger</persName><note type="critic"
-                        xml:id="note.10">István Pemfflinger.</note> fratris tuis illas mitti; nam
-                    consiliarii reginae multa habent negotia, inter quae contingit, ut litterarum
-                    tuarum et aliorum obliviscantur. Vale et scribe frequenter. Propediem ego plura
-                    scribam. Saluta dominam carissimam <persName>coniugem</persName> tuam meo nomine
-                    et servitia mea illi commenda. </p>
+                        <persName>Stephani Pemfflinger</persName><note xml:id="note.10">István
+                        Pemfflinger.</note> fratris tuis illas mitti; nam consiliarii reginae multa
+                    habent negotia, inter quae contingit, ut litterarum tuarum et aliorum
+                    obliviscantur. Vale et scribe frequenter. Propediem ego plura scribam. Saluta
+                    dominam carissimam <persName>coniugem</persName> tuam meo nomine et servitia mea
+                    illi commenda. </p>
                 <p xml:id="p.6"><placeName>Bruxellae</placeName> 4. Martii 1534.</p>
             </div>
         </body>

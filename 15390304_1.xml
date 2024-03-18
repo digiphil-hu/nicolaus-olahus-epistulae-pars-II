@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName> Jacobus Tuberus</persName>
                 </correspAction>
             </correspDesc>
@@ -238,16 +236,16 @@
                     afflictae allevationem aliquam adferre possem. Verum ea sum et ipse animi
                     molestia ex praesentium temporum iniquitate totus circumvallatus, ut ego ipse
                     potius consolatione aliorum <del corresp="Olahus">egerem</del><add
-                        corresp="Olahus" type="corr">egeam</add>,<note type="critic" xml:id="note.1"
-                        >On mourning his brother, see Ep.
-                        608.<ref>olahus.tei.15390209_1</ref></note> quam aliquam aliis adhibere <del
-                        corresp="Olahus">possem</del><add corresp="Olahus" type="corr">possim</add>.
-                    Si igitur hoc tempore eo, quod tibi debeo, officio minus satisfacere valeo,
-                    rogo, id tribuas temporum malignitati, non meo in te animo alienato. Hoc unum
-                    tamen tibi significandum censui te non parvam tristitiae et maeroris tui levandi
-                    consolationem tibi afferre, si putaveris, nihil rerum humanarum stabile esse
-                    posse, sed variis calamitatibus omnem mortalium vitam subiectam. Vale. </p>
-                <p xml:id="p.3"><placeName>Bruxellae</placeName> 4. Martii 1539.<note type="critic"
+                        corresp="Olahus" type="corr">egeam</add>,<note xml:id="note.1">On mourning
+                        his brother, see Ep. 608.<ref>olahus.tei.15390209_1</ref></note> quam
+                    aliquam aliis adhibere <del corresp="Olahus">possem</del><add corresp="Olahus"
+                        type="corr">possim</add>. Si igitur hoc tempore eo, quod tibi debeo, officio
+                    minus satisfacere valeo, rogo, id tribuas temporum malignitati, non meo in te
+                    animo alienato. Hoc unum tamen tibi significandum censui te non parvam
+                    tristitiae et maeroris tui levandi consolationem tibi afferre, si putaveris,
+                    nihil rerum humanarum stabile esse posse, sed variis calamitatibus omnem
+                    mortalium vitam subiectam. Vale. </p>
+                <p xml:id="p.3"><placeName>Bruxellae</placeName> 4. Martii 1539.<note
                         xml:id="note.2">Ipolyi read the year of the date 1532 instead of 1539. Oláh
                         sent another letter to Tuberus in 1532, see Ep.
                             227.<ref>olahus.tei.15320520_1</ref></note></p>

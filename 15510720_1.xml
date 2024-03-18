@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,38 +233,38 @@
                 <p xml:id="p.1">Salutem plurimam et servitiorum meorum commendationem, Spectabilis
                     et Magnifice Domine et Frater Observandissime! </p>
                 <p xml:id="p.2">[1.] Ex litteris Dominationis Vestrae Magnificae tertia huius
-                        datis<note type="critic" xml:id="note.1">We do not know this letter.</note>
-                    intellexi negotia istic adhuc protrahi; spero omnia feliciter successura. Hinc a
+                        datis<note xml:id="note.1">We do not know this letter.</note> intellexi
+                    negotia istic adhuc protrahi; spero omnia feliciter successura. Hinc a
                         <persName>maiestate regia</persName>, domino nostro clementissimo nihil
                     praetermissum est hactenus, neque praetermittetur, quod negotia illa remorari
                     posset, si istinc bona fide agantur. Si <persName>Nicolaus
-                        Bathori</persName><note type="critic" xml:id="note.2">Miklós Báthori of
-                        Ecsed (ca.1520–1584) was the son of András Báthori (†1534) and brother of
-                        András (Bonaventura) Báthori, who was always loyal to the Habsburgs. Miklós
-                        was loyal to King John Sigismund I at first, then in 1561 he changed sides.
-                        From 1568 until his death, he was Judge Royal <hi rend="italic">(iudex
+                        Bathori</persName><note xml:id="note.2">Miklós Báthori of Ecsed
+                        (ca.1520–1584) was the son of András Báthori (†1534) and brother of András
+                        (Bonaventura) Báthori, who was always loyal to the Habsburgs. Miklós was
+                        loyal to King John Sigismund I at first, then in 1561 he changed sides. From
+                        1568 until his death, he was Judge Royal <hi rend="italic">(iudex
                             curiae)</hi>, and <hi rend="italic">ispán</hi> of Szabolcs and Szatmár
                         counties. See <hi rend="smallcap">Baráth</hi> 2008, especially 35.</note>
                     eruet vos a malis, mittemus et alium, qui ei sit adiumento. Verum omnia
                     intelligent Dominationes Vestrae ex litteris regiis nunc ad dominum
-                        <persName>capitaneum generalem</persName><note type="critic" xml:id="note.3"
-                        >András (Bonaventura) Báthori.</note> datis. Exspecto itaque iam in dies
-                    singulos a Dominationibus Vestris finem bonum omnium negotiorum. </p>
+                        <persName>capitaneum generalem</persName><note xml:id="note.3">András
+                        (Bonaventura) Báthori.</note> datis. Exspecto itaque iam in dies singulos a
+                    Dominationibus Vestris finem bonum omnium negotiorum. </p>
                 <p xml:id="p.3">[2.] Litteras Dominationis Vestrae Magnificae misi ad dominam meam
-                    observandissimam, dominam <persName>coniugem</persName><note type="critic"
-                        xml:id="note.4">Orsolya Kanizsai.</note> suam carissimam, quae feliciter
-                    valet. Post discessum Dominationis Vestrae Magnificae parum abfuit, quin per
-                    illum amicum nostrum cum suis cohaerentibus indicaret in interitum, quod Deus a
-                    me inmerito capiti illius, si meretur, inmittat. Dominatio Vestra expiscetur, an <choice>
+                    observandissimam, dominam <persName>coniugem</persName><note xml:id="note.4"
+                        >Orsolya Kanizsai.</note> suam carissimam, quae feliciter valet. Post
+                    discessum Dominationis Vestrae Magnificae parum abfuit, quin per illum amicum
+                    nostrum cum suis cohaerentibus indicaret in interitum, quod Deus a me inmerito
+                    capiti illius, si meretur, inmittat. Dominatio Vestra expiscetur, an <choice>
                         <orig>albus</orig>
                         <supplied>album</supplied>
                     </choice> cupiat et ambiat vinum de <placeName>Farnad</placeName>.<note
-                        type="critic" xml:id="note.5">Farná was known for its wine, see <hi
-                            rend="smallcap">Vályi</hi> 1796, 638.</note> Ego illi auxilio esse
-                    possem, qua de re, si quid intellexerat, faciat me, rogo, Dominatio Vestra
-                    certiorem. Nova, quae habui, intelliget Dominatio Vestra Magnifica a
-                        <persName>domino generali</persName>. Eandem feliciter valere opto, cui
-                    servitia mea commendo.</p>
+                        xml:id="note.5">Farná was known for its wine, see <hi rend="smallcap"
+                            >Vályi</hi> 1796, 638.</note> Ego illi auxilio esse possem, qua de re,
+                    si quid intellexerat, faciat me, rogo, Dominatio Vestra certiorem. Nova, quae
+                    habui, intelliget Dominatio Vestra Magnifica a <persName>domino
+                        generali</persName>. Eandem feliciter valere opto, cui servitia mea
+                    commendo.</p>
                 <p xml:id="p.4">Ex <placeName>Wienna</placeName> 20. Iulii anno 1551.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>

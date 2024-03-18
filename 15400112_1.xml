@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>János Zomor</persName>
                 </correspAction>
             </correspDesc>
@@ -236,29 +234,27 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Salutem plurimam et mei commendationem, Egregie Domine et Amice
-                        Honorandissime!<note type="critic" xml:id="note.1">János Zomor or Szomori
-                        (†1570) was Royal attorney general (<hi rend="italic">director
-                        causarum</hi>) between 1542 and 1562, and he became <hi rend="italic"
-                            >personalis</hi> between 1562 and 1570, see <hi rend="smallcap"
-                            >Fazekas</hi> 2021, 159; <hi rend="smallcap">Fallenbüchl</hi> 1988,
-                        143.</note></p>
+                        Honorandissime!<note xml:id="note.1">János Zomor or Szomori (†1570) was
+                        Royal attorney general (<hi rend="italic">director causarum</hi>) between
+                        1542 and 1562, and he became <hi rend="italic">personalis</hi> between 1562
+                        and 1570, see <hi rend="smallcap">Fazekas</hi> 2021, 159; <hi
+                            rend="smallcap">Fallenbüchl</hi> 1988, 143.</note></p>
                 <p xml:id="p.2">Cives Cremnicenses et aliarum civitatum montanarum serenissimae
                     dominae <persName>reginae</persName> meae habebunt, ut ego arbitror, in proximis
                     iudiciis quibusdam causis suis invigilare easque prosequi. Arbitror Dominationem
                     Vestram memoria tenere, me <placeName>Posonii</placeName> cum domino nostro
-                        <persName>Ioanne Zalay</persName><note type="critic" xml:id="note.2">János
-                        Szalay.</note> comite Posoniensi etc. fuisse hac in re locutum et
-                    Dominationem etiam Vestram rogasse, ut quatenus cum honore suo fore id posset,
-                    vellet et maiestatis reginalis et subditorum ipsius, si quae emergerent, negotia
-                    suscipere eorumque curam habere. Tam <persName>dominus noster comes
-                        Posoniensis</persName>, quam Dominatio Vestra fuerunt ad meam hanc
-                    petitionem tunc benevoli. Rogo igitur eandem, ut si aut Cremnisienses, aut alii
-                    cives et subditi maiestatis reginalis Dominationem Vestram requisiverint, velit
-                    eorum patrocinium suscipere, qui non erunt ei ingrati. Dum autem ego ad
-                        <persName>maiestatem reginalem</persName> salvus, ut in Dei spero clementia,
-                    pervenero, sicuti <persName>domino comiti</persName> fueram locutus, faciam suae
-                    maiestati de vobis mentionem. Dominatio Vestra valeat feliciter, quae commendet
-                    servitia mea domino comiti. </p>
+                        <persName>Ioanne Zalay</persName><note xml:id="note.2">János Szalay.</note>
+                    comite Posoniensi etc. fuisse hac in re locutum et Dominationem etiam Vestram
+                    rogasse, ut quatenus cum honore suo fore id posset, vellet et maiestatis
+                    reginalis et subditorum ipsius, si quae emergerent, negotia suscipere eorumque
+                    curam habere. Tam <persName>dominus noster comes Posoniensis</persName>, quam
+                    Dominatio Vestra fuerunt ad meam hanc petitionem tunc benevoli. Rogo igitur
+                    eandem, ut si aut Cremnisienses, aut alii cives et subditi maiestatis reginalis
+                    Dominationem Vestram requisiverint, velit eorum patrocinium suscipere, qui non
+                    erunt ei ingrati. Dum autem ego ad <persName>maiestatem reginalem</persName>
+                    salvus, ut in Dei spero clementia, pervenero, sicuti <persName>domino
+                        comiti</persName> fueram locutus, faciam suae maiestati de vobis mentionem.
+                    Dominatio Vestra valeat feliciter, quae commendet servitia mea domino comiti. </p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 12. Ianuarii anno 1540. </p>
                 <p xml:id="p.4">
                     <seg type="signature">Vester Nicolaus Olahus custos Albensis secretarius et

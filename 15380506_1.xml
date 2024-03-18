@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,10 +236,10 @@
                 <p xml:id="p.1">Idem Nannius Domino Nicolao <del corresp="Olahus">Olacho</del><add
                         corresp="Olahus" type="corr">Olaho</add> etc. </p>
                 <p xml:id="p.2">Salutem plurimam. Qui tibi meas litteras praefert,
-                        <persName>Damianus a Goes</persName>,<note type="critic" xml:id="note.1"
-                        >Damião de Góis, see <hi rend="smallcap">Polet</hi> 1936, 264 and 273; and
-                            <hi rend="smallcap">Feist Hirsch</hi> 1967.</note> est eques Lusitanus
-                    non minus claritudine generis, quam humanitate morum et litteris et litteratorum
+                        <persName>Damianus a Goes</persName>,<note xml:id="note.1">Damião de Góis,
+                        see <hi rend="smallcap">Polet</hi> 1936, 264 and 273; and <hi
+                            rend="smallcap">Feist Hirsch</hi> 1967.</note> est eques Lusitanus non
+                    minus claritudine generis, quam humanitate morum et litteris et litteratorum
                     moribus insignis. Si patientur tuae occupationes, velim, illum in colloquium
                     admittes, senties illum morum sinceritate, candore, fide, humanitate, modestia
                     tibi simillimum. Saepius de te mecum loquitur, tuae consuetudinis cupidissimus

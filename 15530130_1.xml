@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Philipp Breiner</persName>
                 </correspAction>
             </correspDesc>
@@ -228,22 +226,21 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Magnifice Domine!<note type="critic" xml:id="note.1">Philipp Breiner
-                        was Prefect of the Court, Lord of Stübing, Fladnitz, and Rabenstein, and he
-                        was probably a merchant and actor in Austria, see <hi rend="smallcap">H.
-                            Németh</hi> 2007, 396; and Weitra, PfA Urkunden (1358–1590) 1553 08
-                        17.</note></p>
+                <p xml:id="p.1">Magnifice Domine!<note xml:id="note.1">Philipp Breiner was Prefect
+                        of the Court, Lord of Stübing, Fladnitz, and Rabenstein, and he was probably
+                        a merchant and actor in Austria, see <hi rend="smallcap">H. Németh</hi>
+                        2007, 396; and Weitra, PfA Urkunden (1358–1590) 1553 08 17.</note></p>
                 <p xml:id="p.2">Rogavit me magnificus dominus <persName>Ladislaus
-                        Banffy</persName>,<note type="critic" xml:id="note.2">László Bánffy of
-                        Alsólindva (†1584) was <hi rend="italic">ispán</hi> of Zala county, between
-                        1556–1573, he was Royal Master of the Doorkeepers, and between 1574–1584, he
-                        was Royal Master of the Horse, see <hi rend="smallcap">Szász</hi> 2021,
-                        20–21; and <hi rend="smallcap">Fallenbüchl</hi> 1988, 80.</note> ut in
-                    commendationem negotii sui apud Dominationem Vestram preces quoque meas adderem.
-                    Quod cum rogatus dominationis suae ob amicitiam nostram communem negare non
-                    potui, rogo Dominationem Vestram Magnificam, velit negotia ipsius habere
-                    commendata apud sacratissimam <persName>maiestatem regiam</persName>, dominum
-                    nostrum clementissimum, ut iam tandem domum reverti possit. Tametsi autem sciam
+                        Banffy</persName>,<note xml:id="note.2">László Bánffy of Alsólindva (†1584)
+                        was <hi rend="italic">ispán</hi> of Zala county, between 1556–1573, he was
+                        Royal Master of the Doorkeepers, and between 1574–1584, he was Royal Master
+                        of the Horse, see <hi rend="smallcap">Szász</hi> 2021, 20–21; and <hi
+                            rend="smallcap">Fallenbüchl</hi> 1988, 80.</note> ut in commendationem
+                    negotii sui apud Dominationem Vestram preces quoque meas adderem. Quod cum
+                    rogatus dominationis suae ob amicitiam nostram communem negare non potui, rogo
+                    Dominationem Vestram Magnificam, velit negotia ipsius habere commendata apud
+                    sacratissimam <persName>maiestatem regiam</persName>, dominum nostrum
+                    clementissimum, ut iam tandem domum reverti possit. Tametsi autem sciam
                     Dominationem Vestram huic bono domino eiusque iustae causae sponte sua favere.
                     Tamen et ego rogatus has meas ad Dominationem Vestram dandas existimavi.</p>
                 <p xml:id="p.3">

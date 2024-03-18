@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Jodocus Hoetfilter<idno type="ITIdata">Q470330</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,31 +232,30 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Nicolai Olai ad Iodocum Hothfelther<note type="critic"
-                        xml:id="note.1">Jodocus Hoetfilter or Jodokus Hodfilter (1500–1551) was
-                        Provost of Lübeck from 1533 and became Bishop of Lübeck in 1548. He
-                        graduated from Cologne and became Secretary of Lorenzo Campeggio during his
-                        journey through Germany. For more on his life, see <hi rend="smallcap"
-                            >Illigens</hi> 1896, 9–10; <hi rend="smallcap">Kötter</hi> 1993,
-                        334.</note> dominum dominum praepositum Lubicensem et ad gradus
-                    Moguntinenses, secretarium cardinalis Campegii.<note type="critic"
-                        xml:id="note.2">Lorenzo Campeggio.</note></p>
+                <p xml:id="p.1">Nicolai Olai ad Iodocum Hothfelther<note xml:id="note.1">Jodocus
+                        Hoetfilter or Jodokus Hodfilter (1500–1551) was Provost of Lübeck from 1533
+                        and became Bishop of Lübeck in 1548. He graduated from Cologne and became
+                        Secretary of Lorenzo Campeggio during his journey through Germany. For more
+                        on his life, see <hi rend="smallcap">Illigens</hi> 1896, 9–10; <hi
+                            rend="smallcap">Kötter</hi> 1993, 334.</note> dominum dominum
+                    praepositum Lubicensem et ad gradus Moguntinenses, secretarium cardinalis
+                        Campegii.<note xml:id="note.2">Lorenzo Campeggio.</note></p>
                 <pb/>
-                <p xml:id="p.2"><persName>Iohannes Stanshardus</persName><note type="critic"
-                        xml:id="note.3">We do not know him more closely, see Ep. 375. Note 9.</note>
-                    utriusque nostrum amicus ostendit mihi litteras tuas ad eum datas,<note
-                        type="critic" xml:id="note.4">We do not know this letter.</note> in quibus
+                <p xml:id="p.2"><persName>Iohannes Stanshardus</persName><note xml:id="note.3">We do
+                        not know him more closely, see Ep. 375. Note 9.</note> utriusque nostrum
+                    amicus ostendit mihi litteras tuas ad eum datas,<note xml:id="note.4">We do not
+                        know this letter.</note> in quibus scripsisti te meam rem curae habere et
+                    cupere mihi gratificari. Habeo tibi gratias cumulatas, qui nullo a me officio
+                    amicitiae provocatus, tam humane operam tuam mihi pollicearis. Ea semper est
+                    verae humanitatis laus, ut etiam eorum, quos licet non norimus, tamen nosse
+                    velimus, nobis cordi sint negotia. Si quid vicissim esset, in quo animi mei erga
+                    te grati argumentum declarare possem, nihil hoc facerem libentius., in quibus
                     scripsisti te meam rem curae habere et cupere mihi gratificari. Habeo tibi
                     gratias cumulatas, qui nullo a me officio amicitiae provocatus, tam humane
                     operam tuam mihi pollicearis. Ea semper est verae humanitatis laus, ut etiam
                     eorum, quos licet non norimus, tamen nosse velimus, nobis cordi sint negotia. Si
                     quid vicissim esset, in quo animi mei erga te grati argumentum declarare possem,
-                    nihil hoc facerem libentius., in quibus scripsisti te meam rem curae habere et
-                    cupere mihi gratificari. Habeo tibi gratias cumulatas, qui nullo a me officio
-                    amicitiae provocatus, tam humane operam tuam mihi pollicearis. Ea semper est
-                    verae humanitatis laus, ut etiam eorum, quos licet non norimus, tamen nosse
-                    velimus, nobis cordi sint negotia. Si quid vicissim esset, in quo animi mei erga
-                    te grati argumentum declarare possem, nihil hoc facerem libentius.</p>
+                    nihil hoc facerem libentius.</p>
                 <p xml:id="p.3">In rebus meis etsi nunc profligatis et in hostium manus devolutis,
                     tamen ut spes mihi est, si tota Hungaria non peribit, aliquando <del
                         corresp="Olahus">rediturus</del><add corresp="Olahus" type="corr"

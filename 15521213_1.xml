@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -260,46 +258,46 @@
                         corresp="scriba">quod</del> sese <del corresp="scriba">citra ullam
                         moram</del> in viam det atque huc ad nos veniat, ita tamen quando in oppidum
                     nostrum <del corresp="scriba">Bruck</del><add corresp="scriba" type="corr"
-                            ><placeName>Pruck</placeName></add>,<note type="critic" xml:id="note.1"
-                        >Bruck an der Mur.</note> quod sex miliaribus hinc abest, appulerit, <add
-                        corresp="scriba" type="insert">paucis</add> aliquot istic diebus moram
-                    trahat. Donec de adventu suo <del corresp="scriba">a Devotione Tua</del>
-                    certiores reddamur, prout nos illico <add corresp="scriba" type="insert">etiam
-                        Devotio Tua de eo</add> certiorem reddere debebit, <del corresp="scriba">ut
-                        ita</del> postea <del corresp="scriba">sic</del><add corresp="scriba"
-                        type="corr">vero</add> a nobis admonita <del corresp="scriba"><gap
-                            extent="1" reason="illegible" unit="word"/></del><add corresp="scriba"
+                            ><placeName>Pruck</placeName></add>,<note xml:id="note.1">Bruck an der
+                        Mur.</note> quod sex miliaribus hinc abest, appulerit, <add corresp="scriba"
+                        type="insert">paucis</add> aliquot istic diebus moram trahat. Donec de
+                    adventu suo <del corresp="scriba">a Devotione Tua</del> certiores reddamur,
+                    prout nos illico <add corresp="scriba" type="insert">etiam Devotio Tua de
+                        eo</add> certiorem reddere debebit, <del corresp="scriba">ut ita</del>
+                    postea <del corresp="scriba">sic</del><add corresp="scriba" type="corr"
+                        >vero</add> a nobis admonita <del corresp="scriba"><gap extent="1"
+                            reason="illegible" unit="word"/></del><add corresp="scriba"
                         type="insert">iuxta ordinationem a nobis dandam</add> minori qua poterit
                     familia et comitiva propter praesentium temporum periculum ad aulam nostram
                     regiam <del corresp="scriba">accomodare queat sicut et alii offocales et
                         ministri facere poterant</del><add corresp="scriba" type="corr"
-                        >accomodat</add>.<note type="critic" xml:id="note.2">See Ep.
+                        >accomodat</add>.<note xml:id="note.2">See Ep.
                             833.<ref>olahus.tei.15521206_1</ref></note></p>
                 <p xml:id="p.3">[2.] Deinde Devotio <del corresp="scriba">Vestra</del> Tua non
-                    ignorat <persName>Eustachium a Veledy</persName><note type="critic"
-                        xml:id="note.3">Lestár Feledi.</note> in regiam <milestone unit="pb"/>aulam
-                    nostram evocatum fuisse hac de causa, ut ei <persName>capitaneum
-                        Cassoviensem</persName><note type="critic" xml:id="note.4">Until 1552,
-                        György Serédy was Captain of Košice, Feledi became his successor.</note><del
-                        corresp="scriba">conferat</del><add corresp="scriba" type="corr"
-                        >conferamus</add>. Posteaquam autem nobis (quatenus <del corresp="scriba"
-                        >nobis</del> nos cognitum habemus) nullum plane responsum ab ipso <del
-                        corresp="scriba">nobis</del> relatum est, <add corresp="scriba"
-                        type="insert">nostrum autem plurimi intersit, ut praefatae civitati nostrae
-                        Cassoviensi de capitaneo tempestive provideatur</add> de<gap extent="1"
-                        reason="illegible" unit="word"/> Devotioni Tuae benigniter committimus, si
-                    responsum aliquod ab ipso accepisset, quod nos de eo evestigio informet, sin
-                    autem nihil dum ab ipso accepisset, <del corresp="scriba">quod</del><add
-                        corresp="scriba" type="corr">volumus quidem, Tua Devotio</add> eo illico per
-                    proprium nuntium rescribat et exemplum priorum litterarum nostrarum transmittat,
-                    denuo firmissime iste <del corresp="scriba">mandat</del><add corresp="scriba"
-                        type="corr">mandando</add>, quae citra omnem moram aut largi<gap extent="1"
-                        reason="illegible" unit="word"/> nem sese in aulam nostram regiam conferat,
-                    prout summa rei necessitas postulat. Non possumus enim <del corresp="scriba">
-                        diutius concedere</del><add corresp="scriba" type="corr">ferre</add>, quod
-                        <placeName>Cassovia</placeName><note type="critic" xml:id="note.5"
-                        >Košice.</note> diutius quam parsi<gap extent="1" reason="illegible"
-                        unit="word"/> capitaneo careat. In eis Devotio Tua factura <choice>
+                    ignorat <persName>Eustachium a Veledy</persName><note xml:id="note.3">Lestár
+                        Feledi.</note> in regiam <milestone unit="pb"/>aulam nostram evocatum fuisse
+                    hac de causa, ut ei <persName>capitaneum Cassoviensem</persName><note
+                        xml:id="note.4">Until 1552, György Serédy was Captain of Košice, Feledi
+                        became his successor.</note><del corresp="scriba">conferat</del><add
+                        corresp="scriba" type="corr">conferamus</add>. Posteaquam autem nobis
+                    (quatenus <del corresp="scriba">nobis</del> nos cognitum habemus) nullum plane
+                    responsum ab ipso <del corresp="scriba">nobis</del> relatum est, <add
+                        corresp="scriba" type="insert">nostrum autem plurimi intersit, ut praefatae
+                        civitati nostrae Cassoviensi de capitaneo tempestive provideatur</add>
+                        de<gap extent="1" reason="illegible" unit="word"/> Devotioni Tuae benigniter
+                    committimus, si responsum aliquod ab ipso accepisset, quod nos de eo evestigio
+                    informet, sin autem nihil dum ab ipso accepisset, <del corresp="scriba"
+                        >quod</del><add corresp="scriba" type="corr">volumus quidem, Tua
+                        Devotio</add> eo illico per proprium nuntium rescribat et exemplum priorum
+                    litterarum nostrarum transmittat, denuo firmissime iste <del corresp="scriba"
+                        >mandat</del><add corresp="scriba" type="corr">mandando</add>, quae citra
+                    omnem moram aut largi<gap extent="1" reason="illegible" unit="word"/> nem sese
+                    in aulam nostram regiam conferat, prout summa rei necessitas postulat. Non
+                    possumus enim <del corresp="scriba"> diutius concedere</del><add
+                        corresp="scriba" type="corr">ferre</add>, quod
+                        <placeName>Cassovia</placeName><note xml:id="note.5">Košice.</note> diutius
+                    quam parsi<gap extent="1" reason="illegible" unit="word"/> capitaneo careat. In
+                    eis Devotio Tua factura <choice>
                         <orig><gap extent="1" reason="illegible" unit="word"/></orig>
                         <supplied><corr>sit</corr></supplied>
                     </choice> nobis rem maxime gratam clementia nostra regia erga ipsum

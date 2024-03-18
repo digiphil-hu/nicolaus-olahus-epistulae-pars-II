@@ -199,11 +199,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -226,14 +224,14 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Franciscus Craneveldius Nicolao Olao salutem.</p>
-                <p xml:id="p.2">Accepi litteras<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">Accepi litteras<note xml:id="note.1">Ep.
                             572.<ref>olahus.tei.15360916_1</ref></note> Dominationis Vestrae, Vir
                     Ornatissime, cum epitaphiis eruditissimis, quae pro nostro in <persName>amicum
-                        defunctum</persName><note type="critic" xml:id="note.2">Erasmus of
-                        Rotterdam.</note> amore singulari legi profecto lubentissime. Deinde, quae
-                    de prosperitate <persName>caesaris</persName> erant adscripta et anxietate
-                    Turcarum, mirum in modum placuerunt. Utinam inter principes ac monarchas
-                    Christianos solida pax <app xml:id="app.1">
+                        defunctum</persName><note xml:id="note.2">Erasmus of Rotterdam.</note> amore
+                    singulari legi profecto lubentissime. Deinde, quae de prosperitate
+                        <persName>caesaris</persName> erant adscripta et anxietate Turcarum, mirum
+                    in modum placuerunt. Utinam inter principes ac monarchas Christianos solida pax
+                        <app xml:id="app.1">
                         <lem wit="#CE #I" xml:id="lem.1"><del corresp="Olahus">constitui</del><add
                                 corresp="Olahus" type="corr">constituta esse</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.1">constituta esse</rdg>

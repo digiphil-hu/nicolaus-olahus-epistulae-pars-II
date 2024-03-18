@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,9 +242,9 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Camillus Gilinus Nicolao Olao secretario Mariae salutem. </p>
-                <p xml:id="p.2">[1.] Ex litteris tuis, quam<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">[1.] Ex litteris tuis, quam<note xml:id="note.1">Ep.
                             479.<ref>olahus.tei.15340413_2</ref></note> mihi Idibus Aprilis dedisti,
-                        <persName>Candianum</persName><note type="critic" xml:id="note.2">Ambrogio
+                        <persName>Candianum</persName><note xml:id="note.2">Ambrogio
                         Candiano.</note> ducis mei medicum tandem istuc pervenisse intellexi, quod
                     certe mihi gratissimum fuit. Di faciant, ut eius curatura
                         <persName>reginae</persName> nostrae valetudo melior indies fiat! Praeter
@@ -256,39 +254,38 @@
                     attinet, operam dabis, ne ex occasu <persName>Monbelli</persName> et ipse
                     naufragium faciat, apud quem pro 4 argenteis vasculis aureos LX deposui. Quare,
                     ne simul pereant una cum <persName>Camiliano</persName> et
-                        <persName>Bannisio</persName>,<note type="critic" xml:id="note.3">Probably
-                        Jakob Radich de Bannisis the Younger, nephew of the former Imperial
-                        Secretary and Canon of Trento, see <hi rend="smallcap">Von Hefner</hi> 1857,
-                        96.</note> curabis, ex procuratione quadam vobis omnibus ius tradidi, quo
-                    sine negotio omnia mea recuperare possetis. De globo non est, quod ad te
-                    scribam, nosti hominum <del corresp="Olahus?">impudetiam</del><add
-                        corresp="Olahus?" type="corr">impudentiam</add>, et quam perfidiose cum
-                    alienis semper transigant, si cum praeter conventum <del corresp="Olahus"
-                        >impedes</del><add corresp="Olahus" type="corr">inpendes</add>, ab
-                    haeredibus <persName>Monbelli</persName> ex illa pecunia accipies, quam pro <choice>
+                        <persName>Bannisio</persName>,<note xml:id="note.3">Probably Jakob Radich de
+                        Bannisis the Younger, nephew of the former Imperial Secretary and Canon of
+                        Trento, see <hi rend="smallcap">Von Hefner</hi> 1857, 96.</note> curabis, ex
+                    procuratione quadam vobis omnibus ius tradidi, quo sine negotio omnia mea
+                    recuperare possetis. De globo non est, quod ad te scribam, nosti hominum <del
+                        corresp="Olahus?">impudetiam</del><add corresp="Olahus?" type="corr"
+                        >impudentiam</add>, et quam perfidiose cum alienis semper transigant, si cum
+                    praeter conventum <del corresp="Olahus">impedes</del><add corresp="Olahus"
+                        type="corr">inpendes</add>, ab haeredibus <persName>Monbelli</persName> ex
+                    illa pecunia accipies, quam pro <choice>
                         <orig>arabone</orig>
                         <supplied>arrhabone</supplied>
-                    </choice><note type="critic" xml:id="note.4">arrhabo -onis m ‘deposit’.</note>
-                    vasorum causa reliqui. <persName>Ducem</persName><note type="critic"
-                        xml:id="note.5">Francesco II Sforza.</note> nomine tuo salutavi, agit tibi
-                    gratias, et si qua in re bonam operam tibi navare poterit, cognosces hominem
-                    amicitia tua dignissimum et tui amantissimum. </p>
+                    </choice><note xml:id="note.4">arrhabo -onis m ‘deposit’.</note> vasorum causa
+                    reliqui. <persName>Ducem</persName><note xml:id="note.5">Francesco II
+                        Sforza.</note> nomine tuo salutavi, agit tibi gratias, et si qua in re bonam
+                    operam tibi navare poterit, cognosces hominem amicitia tua dignissimum et tui
+                    amantissimum. </p>
                 <p xml:id="p.3">[2.] Res Itala nunc mire quiescit, nec Gallum veremur, a Germanis
                     valde suspensi sumus, aiunt enim <persName>Lantgravium</persName><note
-                        type="critic" xml:id="note.6">Philipp I, Landgrave of Hesse.</note>
-                    Lutheranam <milestone unit="pb"/>faecem in Romanorum <persName>regem</persName>
-                    sollicitaturum et Virtenbergensi Ducatui imminere, quae vobis, si vera sunt,
-                    iamdiu cognita esse deberent. <persName>Caesar</persName> a
-                        <persName>duce</persName> meo, item <persName>Antonio a
-                        Leyva</persName><note type="critic" xml:id="note.7">Antonio de Leyva
+                        xml:id="note.6">Philipp I, Landgrave of Hesse.</note> Lutheranam <milestone
+                        unit="pb"/>faecem in Romanorum <persName>regem</persName> sollicitaturum et
+                    Virtenbergensi Ducatui imminere, quae vobis, si vera sunt, iamdiu cognita esse
+                    deberent. <persName>Caesar</persName> a <persName>duce</persName> meo, item
+                        <persName>Antonio a Leyva</persName><note xml:id="note.7">Antonio de Leyva
                         (1480–1536) was Duke of Terranova and Prince of Ascoli. He was
                         Commander-in-chief of the imperial army in the Duchy of Milan, and after the
                         death of Francesco II Sforza, he became Governor of Milan under Emperor
-                        Charles V.</note> et <persName>Prato</persName>,<note type="critic"
-                        xml:id="note.8">Jacobus a Flandria.</note> per dispositos equos monitus est,
-                    ut fratri subveniat, pecuniam et quam expeditissimam curet, hoc si praestiterit,
-                    brevi scies. Praesidium, quod <placeName>Coronii</placeName> nomine caesaris
-                    erat, in <placeName>Siciliam</placeName> traiecit, urbemque in Turcae potestate
+                        Charles V.</note> et <persName>Prato</persName>,<note xml:id="note.8"
+                        >Jacobus a Flandria.</note> per dispositos equos monitus est, ut fratri
+                    subveniat, pecuniam et quam expeditissimam curet, hoc si praestiterit, brevi
+                    scies. Praesidium, quod <placeName>Coronii</placeName> nomine caesaris erat, in
+                        <placeName>Siciliam</placeName> traiecit, urbemque in Turcae potestate
                     reliquit. Mirantur omnia caesaris servitia a Romanorum <persName>rege</persName>
                     nihil intelligere; quid cum Turca ipso de Pannoniis transactum sit, tu, si quid
                     habes, fac, ut intelligam. Serenissimae reginae dominae, dominae nostrae

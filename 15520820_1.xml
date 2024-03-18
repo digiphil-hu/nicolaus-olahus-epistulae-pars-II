@@ -213,12 +213,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>György Seged</persName>
                                 </correspAction>
                         </correspDesc>
@@ -238,20 +236,18 @@
                                         </body>
                                 </floatingText>
                                 <pb/>
-                                <p xml:id="p.1">Egregie Domine<note type="critic" xml:id="note.1"
-                                                >György Seged of Gunyafalva was a nobleman with
-                                                possessions in Sopron county, as well as Provisor of
-                                                Szigetvár castle, see <hi rend="smallcap"
-                                                  >Koppány</hi> 2014, 228.</note> et Amice nobis
-                                        Honorande, salutem! </p>
+                                <p xml:id="p.1">Egregie Domine<note xml:id="note.1">György Seged of
+                                                Gunyafalva was a nobleman with possessions in Sopron
+                                                county, as well as Provisor of Szigetvár castle, see
+                                                  <hi rend="smallcap">Koppány</hi> 2014, 228.</note>
+                                        et Amice nobis Honorande, salutem! </p>
                                 <p xml:id="p.2">Habemus vobiscum tum de his negotiis, de quibus
                                         nobis scripseratis, tum etiam aliis rebus in vestrum
                                         commodum spectandum tractare, proinde rogamus vos, ut
                                         acceptis praesentibus sine ulla mora in kochy<note
-                                                type="critic" xml:id="note.2">Hungarian word <hi
-                                                  rend="italic">kocsi</hi> meaning
-                                                ‘carriage’.</note> huc ad nos venire velitis, secus
-                                        ne feceritis.</p>
+                                                xml:id="note.2">Hungarian word <hi rend="italic"
+                                                  >kocsi</hi> meaning ‘carriage’.</note> huc ad nos
+                                        venire velitis, secus ne feceritis.</p>
                                 <p xml:id="p.3">Datum <placeName>Viennae</placeName> vigesima mensis
                                         Augusti 1552.</p>
                                 <p xml:id="p.4">

@@ -224,7 +224,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>István Brodarics<idno type="ITIdata">Q142886</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -256,7 +255,7 @@
                 <p xml:id="p.1">Stephanus Brodericus Nicolao Olao suo. </p>
                 <p xml:id="p.2">[1.] Clarissime Vir, Domine et Frater Honorande, salutem et
                     commendationem. </p>
-                <p xml:id="p.3">Ad litteras tuas,<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.3">Ad litteras tuas,<note xml:id="note.1">Ep.
                             563.<ref>olahus.tei.15360330_1</ref></note> quae mihi gratissimae
                     fuerunt, cogor paucis respondere, cum non satis validus ob longam, quam ex
                     multis laboribus contraxi, aegritudinem ac renum incommoda, tum in procinctu
@@ -277,22 +276,22 @@
                     humillima in gratiam eius reginalis maiestatis per omnes occasiones commendabis. </p>
                 <p xml:id="p.6">[3.] Hic apud <persName>caesarem</persName> est conclusum, ut pro
                     finali rerum Hungaricarum conclusione reverendissimus dominus
-                        <persName>Londensis</persName>,<note type="critic" xml:id="note.2">Johan
-                        Weze was a legate concerning Hungarian affairs, commissioned by Emperor
-                        Charles V.</note> bonus amicus tuus et magnus rerum tuarum fautor ad
-                    serenissimum regem meum proficiscatur, cum reverendissimo domino Agriensi
-                        <persName>Frangepano</persName>,<note type="critic" xml:id="note.3">“Ferenc
-                        Frangepán was a fellow legate of Brodarics during their trip in Italy in
-                        1536.” <hi rend="smallcap">Kasza</hi> 2012, 481.</note> cui et ipsi tu satis
-                    es commendatus. Ego apud <persName>caesarem</persName> remaneo usque ad rerum
+                        <persName>Londensis</persName>,<note xml:id="note.2">Johan Weze was a legate
+                        concerning Hungarian affairs, commissioned by Emperor Charles V.</note>
+                    bonus amicus tuus et magnus rerum tuarum fautor ad serenissimum regem meum
+                    proficiscatur, cum reverendissimo domino Agriensi
+                        <persName>Frangepano</persName>,<note xml:id="note.3">“Ferenc Frangepán was
+                        a fellow legate of Brodarics during their trip in Italy in 1536.” <hi
+                            rend="smallcap">Kasza</hi> 2012, 481.</note> cui et ipsi tu satis es
+                    commendatus. Ego apud <persName>caesarem</persName> remaneo usque ad rerum
                     conclusionem, quae in eo statu sunt, ut de bono fine non possimus dubitare.
-                    Missurus est brevi et <persName>pontifex</persName><note type="critic"
-                        xml:id="note.4">Pope Paul III.</note> unum ex reverendissimis cardinalibus
-                    huius rei gratia in Hungariam. Nova inter caesarem et Gallum vos scitis melius.
-                    Pro libellis iucundissimis ago gratias amplissimas, et me totum Vestrae
-                    Dominationi commendo, quae rogo, ut me commendare dignetur domino
-                        <persName>Cornelio Sceppero</persName>.<note type="critic" xml:id="note.5"
-                        >Cornelis de Schepper.</note> Vestra Dominatio felix valeat nostri memor. </p>
+                    Missurus est brevi et <persName>pontifex</persName><note xml:id="note.4">Pope
+                        Paul III.</note> unum ex reverendissimis cardinalibus huius rei gratia in
+                    Hungariam. Nova inter caesarem et Gallum vos scitis melius. Pro libellis
+                    iucundissimis ago gratias amplissimas, et me totum Vestrae Dominationi commendo,
+                    quae rogo, ut me commendare dignetur domino <persName>Cornelio
+                        Sceppero</persName>.<note xml:id="note.5">Cornelis de Schepper.</note>
+                    Vestra Dominatio felix valeat nostri memor. </p>
                 <p xml:id="p.7"><placeName>Romae</placeName> XXII. Aprilis anno 1536.</p>
             </div>
         </body>

@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Antal Verancsics<idno type="ITIdata">Q60885</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,12 +238,12 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Antonius Wrancius Nicolao Olaho salutem!</p>
-                <p xml:id="p.2">[1.] Litteras tuas XXIII. Octobris datas,<note type="critic"
-                        xml:id="note.1">Ep. 750.<ref>olahus.tei.15501023_1</ref></note> VIII.
-                    Novembris accepi, quae quidem me magna laetitia et voluptate affecerunt, idque
-                    non tam, ut nuntiae accessionis novi et opulenti beneficii,<note type="critic"
-                        xml:id="note.2">On the <hi rend="italic">officium lectoratus</hi> of
-                        Esztergom, see Ep. 742. and Ep.
+                <p xml:id="p.2">[1.] Litteras tuas XXIII. Octobris datas,<note xml:id="note.1">Ep.
+                            750.<ref>olahus.tei.15501023_1</ref></note> VIII. Novembris accepi, quae
+                    quidem me magna laetitia et voluptate affecerunt, idque non tam, ut nuntiae
+                    accessionis novi et opulenti beneficii,<note xml:id="note.2">On the <hi
+                            rend="italic">officium lectoratus</hi> of Esztergom, see Ep. 742. and
+                        Ep.
                         750.<ref>olahus.tei.15500902_1</ref></note><ref>/o:olahus.tei.15501023_1</ref>
                     quam quod meis te obsequiis uti iam velle video; quamquam et dona et beneficia
                     tua, quibus me prius etiam quam pene cognoveris, et ornare et locupletare
@@ -261,19 +259,19 @@
                     auspicia, is demum ipse quoque esse incepissem, qui dudum esse debebam, nec
                     imposterum ordini meo et Spiritui Sancto refragarer, qui me ab initio mystem
                     divinorum esse voluerint: tamen postquam et ex litteris tuis, et ex
-                        <persName>Matthaeo</persName><note type="critic" xml:id="note.3">Máté
-                        Szerdahelyi.</note> tuo cognovi, quae me id temporis velles in tuis rebus
-                    non exilibus, distuli <milestone unit="pb"/>meam hanc cogitationem, et ad
-                    iniunctam a te provinciam appuli animum et omnem industriam. </p>
+                        <persName>Matthaeo</persName><note xml:id="note.3">Máté Szerdahelyi.</note>
+                    tuo cognovi, quae me id temporis velles in tuis rebus non exilibus, distuli
+                        <milestone unit="pb"/>meam hanc cogitationem, et ad iniunctam a te
+                    provinciam appuli animum et omnem industriam. </p>
                 <p xml:id="p.3">[2.] De beneficiis tuis illud dixerim, ut mihi illic studeas
                     benefacere, ubi tecum semper esse possim, esto, quod
                         <placeName>Strigonii</placeName> simus. (Quis enim hoc non optet tibi?) Quia
                     hic certe multum etiam imposterum laborabitur, <del corresp="author"
                         >si</del><add corresp="author" type="corr">sive</add> id de Turcis, sive de
                     praesidiis nostris rapacissimis velimus intelligere. Nova, quae ex Transsylvania
-                    habemus, triduo post scribam copiose,<note type="critic" xml:id="note.4">In
-                        fact, he wrote the next letter five days later, see Ep.
-                            752.<ref>olahus.tei.15501115_1</ref></note> nam multa uno tempore sunt
+                    habemus, triduo post scribam copiose,<note xml:id="note.4">In fact, he wrote the
+                        next letter five days later, see Ep.
+                        752.<ref>olahus.tei.15501115_1</ref></note> nam multa uno tempore sunt
                     allata. His autem maturandum fuit, ut quam primum de voluntate mea in tuis rebus
                     tibi constaret. Vale. </p>
                 <p xml:id="p.4">X. Novembris 1550. <placeName>Agriae</placeName>. </p>

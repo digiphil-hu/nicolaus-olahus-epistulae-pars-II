@@ -216,12 +216,10 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -247,27 +245,25 @@
                 <p xml:id="p.1">Unnser freundtlich grueß unnd alles guets zuvor, sonnder lieb herrn
                     unnd freundt! </p>
                 <p xml:id="p.2">Unnß hat herr <persName>Jhann Dabrawitzki</persName><note
-                        type="critic" xml:id="note.1">János Dubraviczky.</note> seligen verlaßne
-                        <persName>wittib</persName><note type="critic" xml:id="note.2">Helena
-                        Kóváry.</note> angelanngt unnd zue versteen geben, wie auf ir freundtlich
-                    anlanngenn zwischen irer unnd <persName>Geörgen Schaffer</persName>,<note
-                        type="critic" xml:id="note.3">Georg Schaffer.</note> burger im
-                        <placeName>Newennsoll</placeName>, ain rechtstag yedem tail alda vor euch zu
-                    erschinen auf negst khomenden dinnstag<note type="critic" xml:id="note.4">11
-                        July, according to the previous letter, Ep.
+                        xml:id="note.1">János Dubraviczky.</note> seligen verlaßne
+                        <persName>wittib</persName><note xml:id="note.2">Helena Kóváry.</note>
+                    angelanngt unnd zue versteen geben, wie auf ir freundtlich anlanngenn zwischen
+                    irer unnd <persName>Geörgen Schaffer</persName>,<note xml:id="note.3">Georg
+                        Schaffer.</note> burger im <placeName>Newennsoll</placeName>, ain rechtstag
+                    yedem tail alda vor euch zu erschinen auf negst khomenden dinnstag<note
+                        xml:id="note.4">11 July, according to the previous letter, Ep.
                             628.<ref>olahus.tei.15420706_1</ref></note> amgestellt unnd benennt
-                    worden, dieweil euch dann bewisst, daz die ro. kho. mt.<note type="critic"
-                        xml:id="note.5">I.e. römische königliche Majestät.</note> etc. ernnstlich
-                    bevolhenn unnd auferlegt hat, das ain yeder sein geburenden tail kriegsvolckh am
-                    sexten tag vor Jacobi<note type="critic" xml:id="note.6">20 July.</note> zu
-                        <placeName>Grann</placeName><note type="critic" xml:id="note.7"
-                        >Esztergom.</note> berait unnd verttig habenn mueß. Derhalben gemelte
-                        <persName>fraw Dobrawitzkin</persName> diser zeit auch dermaßen mit sölichem
-                    beladen, das ir auf abgemelten tag vor euch zu erschinen nit muglich sein soll,
-                    unnd unns derhalben gebetten, euch zuschreiben, und bitten, das ir auf ditz mal
-                    gemelten tag also aufziehen und furan zeit verlenngern wolt, welches wir dann
-                    angesehen der nöttwendigen ursach halben also zu thun bitten. Damit waß euch
-                    lieb ist.</p>
+                    worden, dieweil euch dann bewisst, daz die ro. kho. mt.<note xml:id="note.5"
+                        >I.e. römische königliche Majestät.</note> etc. ernnstlich bevolhenn unnd
+                    auferlegt hat, das ain yeder sein geburenden tail kriegsvolckh am sexten tag vor
+                        Jacobi<note xml:id="note.6">20 July.</note> zu
+                        <placeName>Grann</placeName><note xml:id="note.7">Esztergom.</note> berait
+                    unnd verttig habenn mueß. Derhalben gemelte <persName>fraw
+                        Dobrawitzkin</persName> diser zeit auch dermaßen mit sölichem beladen, das
+                    ir auf abgemelten tag vor euch zu erschinen nit muglich sein soll, unnd unns
+                    derhalben gebetten, euch zuschreiben, und bitten, das ir auf ditz mal gemelten
+                    tag also aufziehen und furan zeit verlenngern wolt, welches wir dann angesehen
+                    der nöttwendigen ursach halben also zu thun bitten. Damit waß euch lieb ist.</p>
                 <p xml:id="p.3">Datum <placeName>Crembnitz</placeName> denn 16. Julii anno etc. im
                         42<hi rend="super">ten</hi>. </p>
                 <p xml:id="p.4">
@@ -292,9 +288,9 @@
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>On the outer side:</head>
-                <p xml:id="p.7">Denn ersamen unnd weisen herrn, n.,<note type="critic"
-                        xml:id="note.8">I.e. Name.</note> richer und rat der stat Newensol, unnsern
-                    sonnder guetten freunden zu hannden. </p>
+                <p xml:id="p.7">Denn ersamen unnd weisen herrn, n.,<note xml:id="note.8">I.e.
+                        Name.</note> richer und rat der stat Newensol, unnsern sonnder guetten
+                    freunden zu hannden. </p>
             </div>
         </body>
     </text>

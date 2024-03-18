@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>[Mihály Révay]<idno type="ITIdata">Q470216</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,10 +234,10 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad reverendissimum dominum Nicolaum Olahum.<note type="critic"
-                        xml:id="note.1">This letter can be found in the booklet containing Mihály
-                        Révay’s letters, it is probably an authorial draft or copy. Dating based on
-                            <hi rend="smallcap">Fraknói</hi> 1873, 46. Mihály Révay (ca. 1530–1583),
+                <p xml:id="p.1">Ad reverendissimum dominum Nicolaum Olahum.<note xml:id="note.1"
+                        >This letter can be found in the booklet containing Mihály Révay’s letters,
+                        it is probably an authorial draft or copy. Dating based on <hi
+                            rend="smallcap">Fraknói</hi> 1873, 46. Mihály Révay (ca. 1530–1583),
                         Ferenc Révay’s eldest son, who studied at the University of Padua. After his
                         father’s death (1553), he became <hi rend="italic">ispán</hi> of Turóc
                         county, from 1569 Royal Counselor <hi rend="italic">(consiliarius
@@ -247,10 +245,10 @@
                         supported him after his father’s death, see <hi rend="smallcap">Frankl</hi>
                         1873; and <hi rend="smallcap">Pálffy</hi> 2009a, 10–12.</note></p>
                 <p xml:id="p.2">Intellexi ex <persName>Andrea Paluczki</persName>,<note
-                        type="critic" xml:id="note.2">András Paludsky or Palugyay was Imre
-                        Paludsky’s brother, see their father’s last will in 1546: MNL OL P 852. 1.
-                        No. 3. Imre was Royal Notary and Scribe from 1551 and 1554, reporting to
-                        Oláh, see <hi rend="smallcap">Fazekas</hi> 2019, 31; and <hi rend="smallcap"
+                        xml:id="note.2">András Paludsky or Palugyay was Imre Paludsky’s brother, see
+                        their father’s last will in 1546: MNL OL P 852. 1. No. 3. Imre was Royal
+                        Notary and Scribe from 1551 and 1554, reporting to Oláh, see <hi
+                            rend="smallcap">Fazekas</hi> 2019, 31; and <hi rend="smallcap"
                             >Majláth</hi> 1891, 33.</note> Domine et Patrone summa observantia
                     Colende, te prospera frui valetudine. Gratulatus sum profecto adeo hoc <del
                         corresp="author">nunctio</del><add corresp="author" type="corr"

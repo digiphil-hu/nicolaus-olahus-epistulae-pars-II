@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>[Miklós Oláh]<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>András (Bonaventura) Báthori<idno type="ITIdata"
                         >Q239388</idno></persName>
                 </correspAction>
@@ -244,40 +242,39 @@
                 <pb/>
                 <p xml:id="p.1">Magnifice Domine et Amice Observandissime, salutem et servitiorum
                     nostrorum commendationem!</p>
-                <p xml:id="p.2">Ea, quae Magnificentia Vestra nobis et scripsit<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> et a domino
-                        <persName>Francisco Balog</persName><note type="critic" xml:id="note.2"
-                        >Ferenc Balog was Provisor of Šintava, see <hi rend="smallcap">Bakonyi</hi>
-                        2017, 198–199.</note> provisore suo <placeName>Syntaniensi</placeName><note
-                        type="critic" xml:id="note.3">Šintava.</note> nuntiavit, intelleximus, nos
-                    in omnibus Magnificentiae Vestrae negotiis, quemadmodum idem dominus
-                        <persName>Franciscus</persName> nobis testis est, diligenter apud
-                        <persName>maiestatem regiam</persName> laboravimus, de cetero quoque in
-                    quibuscumque rebus Magnificentiae Vestrae inservire poterimus, libenter et ex
-                    animo inservire volumus. </p>
+                <p xml:id="p.2">Ea, quae Magnificentia Vestra nobis et scripsit<note xml:id="note.1"
+                        >We do not know this letter.</note> et a domino <persName>Francisco
+                        Balog</persName><note xml:id="note.2">Ferenc Balog was Provisor of Šintava,
+                        see <hi rend="smallcap">Bakonyi</hi> 2017, 198–199.</note> provisore suo
+                        <placeName>Syntaniensi</placeName><note xml:id="note.3">Šintava.</note>
+                    nuntiavit, intelleximus, nos in omnibus Magnificentiae Vestrae negotiis,
+                    quemadmodum idem dominus <persName>Franciscus</persName> nobis testis est,
+                    diligenter apud <persName>maiestatem regiam</persName> laboravimus, de cetero
+                    quoque in quibuscumque rebus Magnificentiae Vestrae inservire poterimus,
+                    libenter et ex animo inservire volumus. </p>
                 <p xml:id="p.3">Litteras autem eiusdem maiestati regiae unacum nonullis aliis
                     litteris datas ac deperditas iussit sua maiestas in cancellaria Germanica
                     diligenter requiri, quae hactenus repertae quidem non sunt, adhibebitur tamen a
                     nobis diligens sollicitatio, ut eas Magnificentia Vestra repertas rehabeat. </p>
                 <p xml:id="p.4">In negotio vero arcis <placeName>Dewen</placeName>,<note
-                        type="critic" xml:id="note.4">Devín.</note> quod ratione nonnullarum
-                    terrarum cum <persName>Harrag</persName><note type="critic" xml:id="note.5"
-                        >Leonhard Harrach von Rohrau und Pirckenstein (1514–1590) was a Privy
-                        Councilor and legate of Emperor Charles V during the negotiation in Diószeg
-                        (today: Tuta), see <hi rend="smallcap">Oborni</hi> 2017, 210.</note>
-                    magistro curiae serenissimi principis domini Caroli archiducis Austriae etc.
-                    Magnificentia Vestra habet, respondit sua maiestas brevi ad faciem terrae
-                    contentiosae unum ex dominis Germanis et alterum dominum <persName>Michaelem de
-                        Mere</persName><note type="critic" xml:id="note.6">Mihály Mérey.</note>
-                    missurum, ut si fieri poterit, illud per concordiam transigatur, id, quod si non
-                    successerit, iuris processu in Hungaria revidebitur de negotio vero, quod
-                    Magnificentia Vestra cum altero quodam domino Germano habet super fenili<note
-                        type="critic" xml:id="note.7"><hi rend="italic">fenile</hi>, i.e. ‘locus,
-                        ubi fenum ponunt’, see <hi rend="smallcap">DuCange</hi> 1883; and <hi
-                            rend="smallcap">Szovák</hi> 1983–2017.</note><add corresp="Olahus"
-                        type="insert">circa Dewen</add>. Eam sua maiestas quam prius fecerat,
-                    reddidit relatorum, prout haec omnia idem <persName>Franciscus Balog</persName>,
-                    cui <gap extent="1" reason="damage" unit="word"/><choice>
+                        xml:id="note.4">Devín.</note> quod ratione nonnullarum terrarum cum
+                        <persName>Harrag</persName><note xml:id="note.5">Leonhard Harrach von Rohrau
+                        und Pirckenstein (1514–1590) was a Privy Councilor and legate of Emperor
+                        Charles V during the negotiation in Diószeg (today: Tuta), see <hi
+                            rend="smallcap">Oborni</hi> 2017, 210.</note> magistro curiae
+                    serenissimi principis domini Caroli archiducis Austriae etc. Magnificentia
+                    Vestra habet, respondit sua maiestas brevi ad faciem terrae contentiosae unum ex
+                    dominis Germanis et alterum dominum <persName>Michaelem de Mere</persName><note
+                        xml:id="note.6">Mihály Mérey.</note> missurum, ut si fieri poterit, illud
+                    per concordiam transigatur, id, quod si non successerit, iuris processu in
+                    Hungaria revidebitur de negotio vero, quod Magnificentia Vestra cum altero
+                    quodam domino Germano habet super fenili<note xml:id="note.7"><hi rend="italic"
+                            >fenile</hi>, i.e. ‘locus, ubi fenum ponunt’, see <hi rend="smallcap"
+                            >DuCange</hi> 1883; and <hi rend="smallcap">Szovák</hi>
+                        1983–2017.</note><add corresp="Olahus" type="insert">circa Dewen</add>. Eam
+                    sua maiestas quam prius fecerat, reddidit relatorum, prout haec omnia idem
+                        <persName>Franciscus Balog</persName>, cui <gap extent="1" reason="damage"
+                        unit="word"/><choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied><corr>prius</corr></supplied>
                     </choice> negotium intimavimus, Magnificentiae Vestrae fusius referet, nos

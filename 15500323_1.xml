@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,17 +234,16 @@
                 <pb/>
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     ac Frater Observandissime!</p>
-                <p xml:id="p.2">[1.] Brevibus respondeo ad litteras<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> Dominationis Vestrae
-                    Magnificae. De domino et fratre nostro <persName>Maylath</persName><note
-                        type="critic" xml:id="note.2">István Majláth.</note> sit bono animo, sanus
-                    erat, non fulmine tactus, non circumcisus, nec servitio Turcico aut Gallo datus.
-                    De liberatione illius aliquid intellexeram, de qua coram plura.<note
-                        type="critic" xml:id="note.3">In fact, István Majláth was not rescued, he
-                        died in prison at the end of 1550.</note> Res Deo volente melius succedet,
-                    bono igitur sis animo.</p>
-                <p xml:id="p.3"><persName>Nuntius</persName><note type="critic" xml:id="note.4">We
-                        do not know him more closely.</note> Turcicus non repetitum <choice>
+                <p xml:id="p.2">[1.] Brevibus respondeo ad litteras<note xml:id="note.1">We do not
+                        know this letter.</note> Dominationis Vestrae Magnificae. De domino et
+                    fratre nostro <persName>Maylath</persName><note xml:id="note.2">István
+                        Majláth.</note> sit bono animo, sanus erat, non fulmine tactus, non
+                    circumcisus, nec servitio Turcico aut Gallo datus. De liberatione illius aliquid
+                    intellexeram, de qua coram plura.<note xml:id="note.3">In fact, István Majláth
+                        was not rescued, he died in prison at the end of 1550.</note> Res Deo
+                    volente melius succedet, bono igitur sis animo.</p>
+                <p xml:id="p.3"><persName>Nuntius</persName><note xml:id="note.4">We do not know him
+                        more closely.</note> Turcicus non repetitum <choice>
                         <orig>castr<gap extent="1" reason="damage" unit="char"/></orig>
                         <supplied>castr<corr>a</corr></supplied>
                     </choice> aliqua venerat, sed nuntiatum victorias domini sui. De qua tanta
@@ -258,27 +255,26 @@
                     conceperam. Valedicam in posterum, si Deo ita visum fuerit, magistri civium et
                     aliorum insolentiae neque eorum, qui nihil pensi bonorum et fidelium virorum
                     habent operam in hac parte <milestone unit="pb"/>desiderare, ut ut res cadet,
-                    videbo. Hospitium quondam <persName>Strigoniensis</persName><note type="critic"
+                    videbo. Hospitium quondam <persName>Strigoniensis</persName><note
                         xml:id="note.5">Pál Várday.</note> hic <placeName>Viennae</placeName>
-                        emi<note type="critic" xml:id="note.6">Palais Esterházy (Wallnerstraße 4) in
-                        Vienna today, see <hi rend="smallcap">Fazekas</hi> 2005, 344 and 354; and
-                            <hi rend="smallcap">Fazekas</hi> 2017, 221.</note> nudiustertius, quod
-                    felix faustumque sit, tribus millibus in monetis Hungarorum Florenorum et
-                    quadraginta magna licet pecunia. Tamen maioris facio quietem et corporis et
-                    animi magno emptam, quam inquietem nihili constantem. Arbitror me iam simul
-                    cohabitare posse <del corresp="Olahus">cum</del><del corresp="Olahus"
-                        >sorore</del><add corresp="Olahus" type="corr"
-                        ><persName>sorori</persName></add>,<note type="critic" xml:id="note.7"
-                        >Orsolya Oláh.</note> nepotibus et neptibus, nepotibus et neptibus,<note
-                        type="critic" xml:id="note.8">Oláh’s sisters, Orsolya and Ilona, and their
+                        emi<note xml:id="note.6">Palais Esterházy (Wallnerstraße 4) in Vienna today,
+                        see <hi rend="smallcap">Fazekas</hi> 2005, 344 and 354; and <hi
+                            rend="smallcap">Fazekas</hi> 2017, 221.</note> nudiustertius, quod felix
+                    faustumque sit, tribus millibus in monetis Hungarorum Florenorum et quadraginta
+                    magna licet pecunia. Tamen maioris facio quietem et corporis et animi magno
+                    emptam, quam inquietem nihili constantem. Arbitror me iam simul cohabitare posse
+                        <del corresp="Olahus">cum</del><del corresp="Olahus">sorore</del><add
+                        corresp="Olahus" type="corr"><persName>sorori</persName></add>,<note
+                        xml:id="note.7">Orsolya Oláh.</note> nepotibus et neptibus, nepotibus et
+                        neptibus,<note xml:id="note.8">Oláh’s sisters, Orsolya and Ilona, and their
                         families lived here, and they inherited it after Oláh’s death according to
                         his will, see <hi rend="smallcap">Merényi</hi> 1896, 139–140.</note> si Dei
                     id promiserit clementia. <del corresp="Olahus">Ampullam</del><add
                         corresp="Olahus" type="corr">Ampullati</add> uti tituli et magistratus
                     valeant. Deus Dominationem Vestram Magnificam unacum domina mea observandissima
                     domina <del corresp="Olahus">mea</del><persName>coniuge</persName><note
-                        type="critic" xml:id="note.9">Orsolya Kanizsai.</note> sua carissima felicem
-                    et incolumem conservet ad multos annos.</p>
+                        xml:id="note.9">Orsolya Kanizsai.</note> sua carissima felicem et incolumem
+                    conservet ad multos annos.</p>
                 <p xml:id="p.5">Ex <placeName>Vienna</placeName> 23. Martii 1550.</p>
                 <p xml:id="p.6">
                     <seg type="signature">Frater et servitor Agriensis etc.</seg>
@@ -286,9 +282,9 @@
                 <p xml:id="p.7">Persae dicuntur ditionem Turcicam post eius reditum invadere
                     cepisse. Alia nunc nulla nova. <persName>Imperator</persName> noster
                         <placeName>Bruxellis</placeName> bene valet,
-                        <persName>pontifex</persName><note type="critic" xml:id="note.10">Pope
-                        Julius III.</note> liberalis est in omnes et bonis caesaris ac regis amicis,
-                    contra Galli opinionem. Alia curam.</p>
+                        <persName>pontifex</persName><note xml:id="note.10">Pope Julius III.</note>
+                    liberalis est in omnes et bonis caesaris ac regis amicis, contra Galli
+                    opinionem. Alia curam.</p>
                 <pb/>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

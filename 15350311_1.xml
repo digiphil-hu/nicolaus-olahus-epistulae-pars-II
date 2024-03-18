@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,30 +234,29 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Quae XXI. item XXII. praeteriti exarasti, pridie accepi.<note
-                        type="critic" xml:id="note.1">We do not know these
-                        letters.</note><persName>Princeps</persName><note type="critic"
-                        xml:id="note.2">Francesco II Sforza.</note> meus tibi gratias agit, quod tam
-                    diligenter operam tuam in scriptione praestes et te rogat, ut in ea assidue
-                    verseris. Audivimus Antverpienses laborare pestilentia Anabaptistica; si verum
-                    est, fac, ut sciam. Dux <persName>Fridericus</persName><note type="critic"
-                        xml:id="note.3">Frederick II, Elector Palatine of the Rhine.</note> uxorem
-                    ducet illustrissimam <persName>Dorotheam</persName>,<note type="critic"
-                        xml:id="note.4">Dorothea of Denmark married Frederick II, Elector Palatine
-                        of the Rhine in Brussels on 18 May, 1535.</note> hoc enim ex litteris
-                    caesaris ad principem meum iamdiu audivimus. Caesar transmittet in Italia,
-                    classis paratur. <persName>Princeps Auria</persName><note type="critic"
-                        xml:id="note.5">Andrea Doria.</note> cum XV triremibus brevi profecturus est
-                        <placeName>Baradino</placeName>, nam caesare ita iubente.
+                        xml:id="note.1">We do not know these
+                        letters.</note><persName>Princeps</persName><note xml:id="note.2">Francesco
+                        II Sforza.</note> meus tibi gratias agit, quod tam diligenter operam tuam in
+                    scriptione praestes et te rogat, ut in ea assidue verseris. Audivimus
+                    Antverpienses laborare pestilentia Anabaptistica; si verum est, fac, ut sciam.
+                    Dux <persName>Fridericus</persName><note xml:id="note.3">Frederick II, Elector
+                        Palatine of the Rhine.</note> uxorem ducet illustrissimam
+                        <persName>Dorotheam</persName>,<note xml:id="note.4">Dorothea of Denmark
+                        married Frederick II, Elector Palatine of the Rhine in Brussels on 18 May,
+                        1535.</note> hoc enim ex litteris caesaris ad principem meum iamdiu
+                    audivimus. Caesar transmittet in Italia, classis paratur. <persName>Princeps
+                        Auria</persName><note xml:id="note.5">Andrea Doria.</note> cum XV triremibus
+                    brevi profecturus est <placeName>Baradino</placeName>, nam caesare ita iubente.
                         <persName>Pontifex</persName> in Gallicas partes inclinat, sed parum de eo
                     timendum est, non enim hiscere audebit. Quae de
-                        <persName>Aenobarbo</persName><note type="critic" xml:id="note.6">Hayreddin
-                        Barbarossa Pasha.</note> nuper intelleximus, item urbana nova et Hispanica,
+                        <persName>Aenobarbo</persName><note xml:id="note.6">Hayreddin Barbarossa
+                        Pasha.</note> nuper intelleximus, item urbana nova et Hispanica,
                         <persName>dux</persName> serenissimae reginae uberrime scribit. Ensem
-                        Italicum<note type="critic" xml:id="note.7">See Ep.
-                            528.<ref>olahus.tei.15350209_1</ref></note> habebis brevi affabre
-                    factum. Haec scripsi temporibus exclusus, tu veniam mihi dabis, si longiori
-                    epistola non utar. Vale et <persName>Scepperum</persName><note type="critic"
-                        xml:id="note.8">Cornelis de Schepper.</note> saluta meo nomine. </p>
+                        Italicum<note xml:id="note.7">See Ep.
+                        528.<ref>olahus.tei.15350209_1</ref></note> habebis brevi affabre factum.
+                    Haec scripsi temporibus exclusus, tu veniam mihi dabis, si longiori epistola non
+                    utar. Vale et <persName>Scepperum</persName><note xml:id="note.8">Cornelis de
+                        Schepper.</note> saluta meo nomine. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> XI. Martii anno MDXXXV.</p>
             </div>
         </body>

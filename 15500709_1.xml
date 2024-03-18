@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Royal Lieutenancy Council in Bratislava</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,8 +245,8 @@
                 <p xml:id="p.2">Reverendissime Domine etc.! </p>
                 <p xml:id="p.3">[1.] Cum ad nos ex multis locis constanti rumore indies afferatur de
                     conatibus Thurcarum ad obsidionem arcis <placeName>Agriensis</placeName><note
-                        type="critic" xml:id="note.1">Eger.</note> vel saltem devastationem
-                    circumvicinae regionis, idque propter <del corresp="author">indutias</del><add
+                        xml:id="note.1">Eger.</note> vel saltem devastationem circumvicinae
+                    regionis, idque propter <del corresp="author">indutias</del><add
                         corresp="author" type="corr">iniurias</add> damnaque quae sese in dies ab
                     officialibus eius arcis perpeti Thurcae vociferantur, etsi nos quidem arbitramur
                     falsas esse magna ex parte Thurcarum querimonias adversus praedictos officiales
@@ -260,8 +258,8 @@
                     Dominatio Vestra considerata periculi <del corresp="author">magni</del>
                     magnitudine id consulet suae maiestati, quod ad tuendam tum arcem Agriensem, tum
                     regionem circumquaque maxime pertinere intellexerit. Servet etc.<note
-                        type="critic" xml:id="note.2">I.e. Servet Deus optimus maximus
-                        Reverendissimam Dominationem Vestram incolumem.</note></p>
+                        xml:id="note.2">I.e. Servet Deus optimus maximus Reverendissimam
+                        Dominationem Vestram incolumem.</note></p>
                 <p xml:id="p.4"><placeName>Posonii</placeName> die 9. Julii 1550. </p>
                 <p xml:id="p.5">[2.] Reverendissima Dominatio Vestra pro certo habeat, non tam a
                     Thurcis, quam a Christianis et his fidedignis plerisque viris quotidie

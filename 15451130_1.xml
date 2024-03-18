@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Bystrica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -237,26 +235,25 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti Amici nobis Honorandi, salutem!</p>
-                <p xml:id="p.2">Ex sermonibus <persName>notarii</persName><note type="critic"
-                        xml:id="note.1">We do not know him more closely.</note> vestri, qui paucis
-                    ante diebus ad vos reversus est, non dubitamus vos intellexisse et voluntatem
-                        <persName>maiestatis regiae</persName>, domini nostri clementissimi et
-                    tricesimatorum desideria. Quantum nos potuimus, dedimus diligentissimam operam
-                    tum coram maiestate regia, quam etiam ante consiliarios suae maiestatis, ut
-                    tricesimatores in civitate <placeName>Novi Soliense</placeName><note
-                        type="critic" xml:id="note.2">Banská Bystrica.</note> ne locarentur. Id
-                    tamen obtinere non potuimus eam ob rem, quia maiestati regiae maximo damno esse
-                    videbatur, tamen intercessione nostra tantum effecimus, ut <persName>maiestas
-                        regia </persName>commiserit serio, ne vobis aliquo gravimine esse debeant.
-                    Instructiones, quas maiestas sua dignata est dare, ibi constitutis
-                    tricesimatoribus praesentibus una vobis misimus. Quare vos hortamur, ut vosmet
-                    ad voluntatem maiestatis regiae, domini nostri clementissimi <del
-                        corresp="Olahus">accomodate</del><add corresp="Olahus" type="corr"
-                        >accommodare</add> debeatis, nos autem in omnibus vestris negotiis tum in
-                    his, quam etiam in aliis praecipue autem in defensione libertatis vestrae
-                    patrocinari non desimus. Haec voluimus vobis perscribere, ut intelligeretis
-                    voluntatem maiestatis regiae vosque ad eius voluntatem accomodare sciretis.
-                    Valete.</p>
+                <p xml:id="p.2">Ex sermonibus <persName>notarii</persName><note xml:id="note.1">We
+                        do not know him more closely.</note> vestri, qui paucis ante diebus ad vos
+                    reversus est, non dubitamus vos intellexisse et voluntatem <persName>maiestatis
+                        regiae</persName>, domini nostri clementissimi et tricesimatorum desideria.
+                    Quantum nos potuimus, dedimus diligentissimam operam tum coram maiestate regia,
+                    quam etiam ante consiliarios suae maiestatis, ut tricesimatores in civitate
+                        <placeName>Novi Soliense</placeName><note xml:id="note.2">Banská
+                        Bystrica.</note> ne locarentur. Id tamen obtinere non potuimus eam ob rem,
+                    quia maiestati regiae maximo damno esse videbatur, tamen intercessione nostra
+                    tantum effecimus, ut <persName>maiestas regia </persName>commiserit serio, ne
+                    vobis aliquo gravimine esse debeant. Instructiones, quas maiestas sua dignata
+                    est dare, ibi constitutis tricesimatoribus praesentibus una vobis misimus. Quare
+                    vos hortamur, ut vosmet ad voluntatem maiestatis regiae, domini nostri
+                    clementissimi <del corresp="Olahus">accomodate</del><add corresp="Olahus"
+                        type="corr">accommodare</add> debeatis, nos autem in omnibus vestris
+                    negotiis tum in his, quam etiam in aliis praecipue autem in defensione
+                    libertatis vestrae patrocinari non desimus. Haec voluimus vobis perscribere, ut
+                    intelligeretis voluntatem maiestatis regiae vosque ad eius voluntatem accomodare
+                    sciretis. Valete.</p>
                 <p xml:id="p.3">Datum <placeName>Viennae</placeName> in festo divi Andreae Apostoli
                     anno Domini 1545.</p>
                 <p xml:id="p.4">

@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -269,11 +267,11 @@
                     pertinebunt ad negotia regni et qui unanimi ac concordi cum aliis commissariis
                     consilio ea maxime curet, quae ad bonum et commodum ambarum Maiestatum Vestrarum
                     et regni Hungariae pertinebunt. Quia autem egregius <persName>Georgius
-                        Vernerus</persName>,<note type="critic" xml:id="note.1">Georg Werner
-                        (ca.1490–1556) was a Notary, and later a Judge in Prešov in the 1530s. From
-                        1534, he was <hi rend="italic">camerae magister</hi>, and he became Royal
-                        Councillor in 1536. From 1552, he participated in the reorganization of the
-                        Transylvanian financial system, see <hi rend="smallcap">Póka</hi> 2011; <hi
+                        Vernerus</persName>,<note xml:id="note.1">Georg Werner (ca.1490–1556) was a
+                        Notary, and later a Judge in Prešov in the 1530s. From 1534, he was <hi
+                            rend="italic">camerae magister</hi>, and he became Royal Councillor in
+                        1536. From 1552, he participated in the reorganization of the Transylvanian
+                        financial system, see <hi rend="smallcap">Póka</hi> 2011; <hi
                             rend="smallcap">Rensing</hi> 1933; <hi rend="smallcap">Csepregi</hi>
                         2006.</note> Maiestatis Vestrae consiliarius tum propter linguae scientiam,
                     tum quia etiam antea in rebus montanis, veluti commissarius eo missus versatus
@@ -283,15 +281,13 @@
                 <p xml:id="p.4">[2.] Cum res Hungarica in eum pacis statum iam devenerit, quem
                     Maiestas Vestra Serenissima novit, et serenissima regina mea bonis suis, nempe
                     cameris salium Maromarusiensium ac castris <placeName>Hwzth</placeName>,<note
-                        type="critic" xml:id="note.2"
-                        >Khust.</note><placeName>Mwnkach</placeName>,<note type="critic"
+                        xml:id="note.2">Khust.</note><placeName>Mwnkach</placeName>,<note
                         xml:id="note.3">Mukachevo.</note><placeName>Diosgyewr</placeName>,<note
-                        type="critic" xml:id="note.4">Diósgyőr, part of Miskolc
-                        today.</note><placeName>Czepel insula</placeName>,<note type="critic"
-                        xml:id="note.5">Csepel island, belongs to district XXI of Budapest
-                        today.</note> ac oppidis <placeName>Veteri Buda</placeName><note
-                        type="critic" xml:id="note.6">Óbuda, district III of Budapest today.</note>
-                    ac <placeName>Kelenfewlde</placeName>,<note type="critic" xml:id="note.7"
+                        xml:id="note.4">Diósgyőr, part of Miskolc today.</note><placeName>Czepel
+                        insula</placeName>,<note xml:id="note.5">Csepel island, belongs to district
+                        XXI of Budapest today.</note> ac oppidis <placeName>Veteri
+                        Buda</placeName><note xml:id="note.6">Óbuda, district III of Budapest
+                        today.</note> ac <placeName>Kelenfewlde</placeName>,<note xml:id="note.7"
                         >Kelenföld, part of district XI of Budapest today.</note> necnon aliis bonis
                     a multis annis violenter privata fuerit, earumque omnibus proventibus frustrata,
                     dignetur Maiestas <milestone unit="pb"/>Vestra Sacra pro eo amore ac
@@ -319,10 +315,10 @@
                     Florenorum Rhenensium, qui super ipsa tricesima Posoniensi assignati erant,
                     eandem tricesimam in recompensam etiam urburarum Bistriciensium serenissimam
                     reginam meam optimo iure concernentium, et in valore annuo tricesimae ipsae
-                    circiter aequalium, quas Maiestas Vestra Sacra Fucaris<note type="critic"
-                        xml:id="note.8">Fuggeris.</note> inscripsit, usque ad eliberationem et
-                    remissionem earum in manibus <milestone unit="pb"/>serenissimae dominae meae
-                    reliquerit, quemadmodum id ex responso Maiestatis Vestrae Sacrae chirographo suo
+                    circiter aequalium, quas Maiestas Vestra Sacra Fucaris<note xml:id="note.8"
+                        >Fuggeris.</note> inscripsit, usque ad eliberationem et remissionem earum in
+                    manibus <milestone unit="pb"/>serenissimae dominae meae reliquerit, quemadmodum
+                    id ex responso Maiestatis Vestrae Sacrae chirographo suo
                         <placeName>Pragae</placeName> XI. Februarii anno 1534 signato plane constat,
                     Maiestas Vestra Sacra consideratis fraterne praemissis iuribus serenissimae
                     reginae in rebus ipsius tricesimae Posoniensis nihil innovare velit, sed eam
@@ -331,33 +327,33 @@
                     mea a Maiestate Vestra Sacra habet, persolvetur, vel alia via acceptabili a
                     Maiestate Vestra Sacra de his sua serenitas assecurabitur in manibus eiusdem
                     relinquere.</p>
-                <p xml:id="p.6">[4.] Arx <placeName>Owar</placeName><note type="critic"
-                        xml:id="note.9">Óvár, part of Mosonmagyaróvár today.</note> licet sit nunc
-                    in manibus serenissimae reginae meae, proprietas tamen illius spectat ad Vestram
-                    Sacram Maiestatem et liberos eiusdem, qui in dominium illius arcis succedent.
-                    Haec quia est in finibus Hungariae et Austriae, non parum adferre poterit
-                    utrisque provinciis pro temporis conditione aut quietis, aut <del
-                        corresp="Olahus">periculi</del> perturbationis veluti fores et tutela
-                    utriusque provinciae. Cuius rei causa arx ipsa non parum eget fortificatione,
-                    maxime in propugnaculis et aggeribus. Ad quae paranda licet serenissima regina
-                    mea introitus et redditus omnes arcis eiusdem (demptis his provisionibus et
-                    impensis, quae fuerunt ad quotidianam conservationem arcis necessariae)
-                    expenderit, et praeter ea ex suis etiam propriis ultra 4°000 Florenorum
-                    Renensium addiderit, tamen haec omnia parum fecisse videntur ad tantum opus
-                    perficiendum, maxime cum aggeres ipsi propugnaculorum propter fundamentum non
-                    satis firmum, quotidie corruant et fossam repleant, aditumque faciliorem (quod
-                    Deus avertat) hostibus, si qui adessent, parent. Quare serenissima regina rogat
-                    Sacram Maiestatem Vestram uti dominum et fratrem suum carissimum, velit subsidia
-                    illa, quae aut nunc aut deinceps, secundum <milestone unit="pb"/>oblationem
-                    regnicolarum ex pertinentiis ipsius arcis <placeName>Owar</placeName> Maiestati
-                    Vestrae solvi debebunt, ad munitionem et reparationem propugnaculorum aggerumque
-                    ac aliorum locorum ipsius arcis non validorum deputare et super hoc litteras
-                    dare, ut partim ex aliis subsidiis Maiestatis Vestrae pro tempore exhibendis,
-                    partim ex hoc subsidio possit pro parte aliqua munitioni arcis eiusdem pro
-                    temporis conditione et necessitate semper provideri. Quicquid serenissima regina
-                    mea pro parte sua ad huiusmodi munitionem secundum facultatem ac vires suas
-                    impendere poterit, faciet id libentissimae, et neque rebus suis, neque viribus
-                    parcet, quatenus hae suppetent.</p>
+                <p xml:id="p.6">[4.] Arx <placeName>Owar</placeName><note xml:id="note.9">Óvár, part
+                        of Mosonmagyaróvár today.</note> licet sit nunc in manibus serenissimae
+                    reginae meae, proprietas tamen illius spectat ad Vestram Sacram Maiestatem et
+                    liberos eiusdem, qui in dominium illius arcis succedent. Haec quia est in
+                    finibus Hungariae et Austriae, non parum adferre poterit utrisque provinciis pro
+                    temporis conditione aut quietis, aut <del corresp="Olahus">periculi</del>
+                    perturbationis veluti fores et tutela utriusque provinciae. Cuius rei causa arx
+                    ipsa non parum eget fortificatione, maxime in propugnaculis et aggeribus. Ad
+                    quae paranda licet serenissima regina mea introitus et redditus omnes arcis
+                    eiusdem (demptis his provisionibus et impensis, quae fuerunt ad quotidianam
+                    conservationem arcis necessariae) expenderit, et praeter ea ex suis etiam
+                    propriis ultra 4°000 Florenorum Renensium addiderit, tamen haec omnia parum
+                    fecisse videntur ad tantum opus perficiendum, maxime cum aggeres ipsi
+                    propugnaculorum propter fundamentum non satis firmum, quotidie corruant et
+                    fossam repleant, aditumque faciliorem (quod Deus avertat) hostibus, si qui
+                    adessent, parent. Quare serenissima regina rogat Sacram Maiestatem Vestram uti
+                    dominum et fratrem suum carissimum, velit subsidia illa, quae aut nunc aut
+                    deinceps, secundum <milestone unit="pb"/>oblationem regnicolarum ex pertinentiis
+                    ipsius arcis <placeName>Owar</placeName> Maiestati Vestrae solvi debebunt, ad
+                    munitionem et reparationem propugnaculorum aggerumque ac aliorum locorum ipsius
+                    arcis non validorum deputare et super hoc litteras dare, ut partim ex aliis
+                    subsidiis Maiestatis Vestrae pro tempore exhibendis, partim ex hoc subsidio
+                    possit pro parte aliqua munitioni arcis eiusdem pro temporis conditione et
+                    necessitate semper provideri. Quicquid serenissima regina mea pro parte sua ad
+                    huiusmodi munitionem secundum facultatem ac vires suas impendere poterit, faciet
+                    id libentissimae, et neque rebus suis, neque viribus parcet, quatenus hae
+                    suppetent.</p>
                 <p xml:id="p.7">Hoc idem serenissima domina mea fieri a Maiestate Vestra Sacra
                     petit, etiam in bonis aliarum arcium suarum, quarum omnium successio ad
                     Maiestatem Vestram et eiusdem liberos devolvetur. Qumquidem subsidiorum
@@ -369,14 +365,14 @@
                     salutem.</p>
                 <p xml:id="p.8">[5.] Quia serenissima regina mea intellexit Maiestatem Vestram ad
                     instantiam Fucarorum certos commissarios montanarum rerum peritos propediem
-                    missuram ad perlustrandas fodinas Bistricienses,<note type="critic"
-                        xml:id="note.10">Banská Bystrica.</note> rogat serenissima regina Maiestatem
-                    Vestram, velit his, qui eo profecturi sunt, commissariis committere, ut dum per
-                    consiliarios et commissarios reginalis maiestatis requisiti fuerint, debeant
-                    montanas reginales unacum aliis commissariis perlustrare, ac bonum <milestone
-                        unit="pb"/>modum et ordinem ostendere consulereque, quo modo montanae ipsae
-                    maiestatis reginalis dominae meae clementissimae commodius, et cum minori
-                    impensa ad Maiestatem Vestram ac totius regni commodum coli possint.</p>
+                    missuram ad perlustrandas fodinas Bistricienses,<note xml:id="note.10">Banská
+                        Bystrica.</note> rogat serenissima regina Maiestatem Vestram, velit his, qui
+                    eo profecturi sunt, commissariis committere, ut dum per consiliarios et
+                    commissarios reginalis maiestatis requisiti fuerint, debeant montanas reginales
+                    unacum aliis commissariis perlustrare, ac bonum <milestone unit="pb"/>modum et
+                    ordinem ostendere consulereque, quo modo montanae ipsae maiestatis reginalis
+                    dominae meae clementissimae commodius, et cum minori impensa ad Maiestatem
+                    Vestram ac totius regni commodum coli possint.</p>
                 <p xml:id="p.9">Saepius Maiestas Vestra Serenissima ad dominam meam clementissimam
                     pro remissione decimarum Soproniensium litteras suas dedit, scire velit Maiestas
                     Vestra, quod iam olim decimas easdem ipsi serenissimae reginae meae pro sex
@@ -384,15 +380,15 @@
                     summa alteri inscripsit. Rogat igitur serenissima domina mea Maiestatem Vestram,
                     velit inscriptionem hanc, quam eidem serenissimae reginae fecit, in vigore suo
                     et eandem penes ius suum relinquere.</p>
-                <p xml:id="p.10">[6.] <persName>Sigismundus Stetner</persName><note type="critic"
-                        xml:id="note.11">Zsigmond Stettner was Collector of the thirtieth in Óvár,
-                        see <hi rend="smallcap">Takáts</hi> 1898, 424.</note> modernus <choice>
+                <p xml:id="p.10">[6.] <persName>Sigismundus Stetner</persName><note xml:id="note.11"
+                        >Zsigmond Stettner was Collector of the thirtieth in Óvár, see <hi
+                            rend="smallcap">Takáts</hi> 1898, 424.</note> modernus <choice>
                         <orig>trigesimator</orig>
                         <supplied>tricesimator</supplied>
                     </choice> Sacrae Maiestatis Vestrae in <placeName>Altemburgo</placeName><note
-                        type="critic" xml:id="note.12">The German name of Óvár.</note> multas
-                    (sicuti serenissima domina mea saepius de hoc informata fuit) exactiones
-                    indebitas et insolitas ac serenissimae reginae intollerabiles in <choice>
+                        xml:id="note.12">The German name of Óvár.</note> multas (sicuti serenissima
+                    domina mea saepius de hoc informata fuit) exactiones indebitas et insolitas ac
+                    serenissimae reginae intollerabiles in <choice>
                         <orig>trigesima</orig>
                         <supplied>tricesima</supplied>
                     </choice> illa facere consuevit, ita ut serenissima regina parte sua iusta, quae

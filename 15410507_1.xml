@@ -5,8 +5,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="num">620</title>
-                <title key="body" n="620" type="main">Miklós Oláh and Bartholomäus Haller von
-                    Hallerstain to Kremnica Town Council (Zvolen, 7 May 1541)</title>
+                <title key="body" n="620" type="main">Miklós Oláh and Bartholomäus Haller to
+                    Kremnica Town Council (Zvolen, 7 May 1541)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -211,13 +211,11 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Kremnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -226,8 +224,8 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Miklós Oláh and Bartholomäus Haller von Hallerstain to Kremnica
-                    Town Council (Zvolen, 7 May 1541)</head>
+                <head type="title">Miklós Oláh and Bartholomäus Haller to Kremnica Town Council
+                    (Zvolen, 7 May 1541)</head>
                 <floatingText type="regesta">
                     <body>
                         <p xml:id="reg.p.1">Miklós Oláh and Bartholomäus Haller inform the Kremnica
@@ -255,16 +253,15 @@
                 <p xml:id="p.2">Ir habt guet wissen, das wir herrn <persName>Johan
                         Dobrawytzky</persName> den 26. tag Aprilis nechst verschinen mit credentzen
                     unnd bephelch an den <persName>ertzbischoffen von Gran</persName><note
-                        type="critic" xml:id="note.1">Pál Várday.</note> der urbar unnd an rö. khü.
-                        mt.<note type="critic" xml:id="note.2">I.e. römische königliche
-                        Majestät.</note> öbristen in das velltleger unnser gnedigisten reverenzen
-                    unnd euers kriegsvolcks halben wider anhaims zu lassenn abgefertiget haben. Auff
-                    solliches ist unns vechten spat schreiben von ime, hern
-                        <persName>Dobrawytzky</persName>, kumen, das er alspaldt krankch worden unnd
-                    zum Sass zu pet lig, aber er hab nicht destminder zu dem ertzbischoffen unnd dem
-                    herrn <persName>von Rogendorff</persName>,<note type="critic" xml:id="note.3"
-                        >Wilhelm von Roggendorf.</note> geschicht ine sein schachayt unnd
-                    verhinderung, auch unnser begernn antzaigen lassen, darauff wart er teglich
+                        xml:id="note.1">Pál Várday.</note> der urbar unnd an rö. khü. mt.<note
+                        xml:id="note.2">I.e. römische königliche Majestät.</note> öbristen in das
+                    velltleger unnser gnedigisten reverenzen unnd euers kriegsvolcks halben wider
+                    anhaims zu lassenn abgefertiget haben. Auff solliches ist unns vechten spat
+                    schreiben von ime, hern <persName>Dobrawytzky</persName>, kumen, das er alspaldt
+                    krankch worden unnd zum Sass zu pet lig, aber er hab nicht destminder zu dem
+                    ertzbischoffen unnd dem herrn <persName>von Rogendorff</persName>,<note
+                        xml:id="note.3">Wilhelm von Roggendorf.</note> geschicht ine sein schachayt
+                    unnd verhinderung, auch unnser begernn antzaigen lassen, darauff wart er teglich
                     antwurt. Dieweil aber die spanschafften all ir volckh noch ein monnat zu halten <choice>
                         <orig>zugesa<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>zugesa<corr>gt</corr></supplied>
@@ -276,9 +273,9 @@
                     freundtlicher mainung auch antzaigen wellen, ob ir euer gelt mit dem unnsern
                     genanten herrn <persName>Dobrawytzky</persName> oder fur euch selbst schicken
                     wolt, euch unnd die anndern stet darnach zu richten haben, man soll sich auff
-                    26. Aprill gewislich fur <placeName>Offen</placeName><note type="critic"
-                        xml:id="note.4">Buda.</note> gelegert haben. Was uns weytter zu wissen wirt,
-                    soll euch unverhalten bleiben, sunst was euch lieb ist, sein wir zu thun gewilt. </p>
+                    26. Aprill gewislich fur <placeName>Offen</placeName><note xml:id="note.4"
+                        >Buda.</note> gelegert haben. Was uns weytter zu wissen wirt, soll euch
+                    unverhalten bleiben, sunst was euch lieb ist, sein wir zu thun gewilt. </p>
                 <p xml:id="p.3">Datum auff dem schloss <placeName>Altensol</placeName> den 7. tag
                     des monats May anno Domini 1541. </p>
                 <p xml:id="p.4">

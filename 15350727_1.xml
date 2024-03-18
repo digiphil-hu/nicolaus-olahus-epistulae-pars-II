@@ -217,7 +217,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis De Schrijver<idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -253,19 +252,18 @@
                     afficiunt, negotia. Quare, quod possum, facio, inviso te per epistolam. Mitto
                         <quote xml:id="quote.1">tibi dono hunc lepidissimum sane
                         libellum</quote><note type="quote" xml:id="note.quote.1">Cat. I,1.</note> de
-                        <hi rend="italic">Topographia veteris Romae</hi>,<note type="critic"
-                        xml:id="note.1"><hi rend="italic">Topographiae antiquae Romae</hi> Ioanne
-                        Bartholomaeo Marliano Patricio Mediolanensi autore, apud Seb. Gryphium,
-                        Lugduni, 1534.</note> de quo inter nos <placeName>Bruxellae</placeName> fuit
-                    sermo, ut si eam urbem orbis olim dominam praesens non videris, nunc absens
-                    velut ob oculos positam contuearis, missurus et alia brevi tuae humanitati forte
-                    haud iniucunda. Interea vero me tuo candori reliquisque amicis, praesertim
-                    vetusto illi amico domino <persName>Cornelio Scepero</persName> commendatum
-                    velim, id vel omnium maxime abs te ambitiosius forte petens, ut tuum Graphaea
-                    ubi et occasio tulerit, et citra tuam molestiam fieri queat, in thesaurarii
-                        <persName>Halleri</persName><note type="critic" xml:id="note.2">Wolfgang
-                        Haller von Hallerstein.</note> gratiam insinuare velis. Vale meum
-                    praesidium. </p>
+                        <hi rend="italic">Topographia veteris Romae</hi>,<note xml:id="note.1"><hi
+                            rend="italic">Topographiae antiquae Romae</hi> Ioanne Bartholomaeo
+                        Marliano Patricio Mediolanensi autore, apud Seb. Gryphium, Lugduni,
+                        1534.</note> de quo inter nos <placeName>Bruxellae</placeName> fuit sermo,
+                    ut si eam urbem orbis olim dominam praesens non videris, nunc absens velut ob
+                    oculos positam contuearis, missurus et alia brevi tuae humanitati forte haud
+                    iniucunda. Interea vero me tuo candori reliquisque amicis, praesertim vetusto
+                    illi amico domino <persName>Cornelio Scepero</persName> commendatum velim, id
+                    vel omnium maxime abs te ambitiosius forte petens, ut tuum Graphaea ubi et
+                    occasio tulerit, et citra tuam molestiam fieri queat, in thesaurarii
+                        <persName>Halleri</persName><note xml:id="note.2">Wolfgang Haller von
+                        Hallerstein.</note> gratiam insinuare velis. Vale meum praesidium. </p>
                 <p xml:id="p.3"><placeName>Antverpiae</placeName> VI. Kalendas Augusti MDXXXV.</p>
             </div>
         </body>

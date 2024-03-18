@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
@@ -239,25 +237,24 @@
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime in Christo Pater ac Venerabilis,
                     Devoti Fideles nobis Dilecti!</p>
-                <p xml:id="p.2">Accepimus litteras<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">Accepimus litteras<note xml:id="note.1">Ep.
                             688.<ref>olahus.tei.15480915_1</ref></note> fidelitatum ac devotionum
                     Vestras, quibus nobis significarunt de interceptione ac retentione
                         <persName>Sigismundi</persName> et <persName>Ladislai
-                        Forgach</persName>,<note type="critic" xml:id="note.2">Zsigmond Forgách and
-                        László Forgách.</note> iamque propterea commisimus nobili fideli nobis
-                    dilecto <persName>Wolfgango libero baroni in Puecham</persName>,<note
-                        type="critic" xml:id="note.3">Wolfgang von Puchheim.</note> ut ipsos absque
-                    ulla mora cum omni ipsorum comitatu liberos dimittat, prout Devotiones Vestrae a
-                    nobis pro sua prudentia humiliter petierunt, <add corresp="scriba" type="insert"
-                            ><del corresp="scriba">et sicuti</del> ipseque a
-                            <persName>Puecham</persName> se omnium absque mora facturum
-                        recepit</add>. Volentes autem nos insistere deliberationi <del
-                        corresp="scriba">huic</del> nostrae <del corresp="scriba"
-                    >devotionibus</del>, Fidelitati Vestrae clementer mandamus ac hortamur, quod si
-                    citatio quam fieri iusseramus <add corresp="scriba" type="insert">ad praefatos
-                            <persName>Forgach</persName> fratres</add> nondum fuerit emanata, ut eam
-                    primo quoque tempore expediant, ac exsecutioni demandari curent, ita ut dicti
-                        <persName>Sigismundus</persName> et <persName>Ladislaus</persName> fratres
+                        Forgach</persName>,<note xml:id="note.2">Zsigmond Forgách and László
+                        Forgách.</note> iamque propterea commisimus nobili fideli nobis dilecto
+                        <persName>Wolfgango libero baroni in Puecham</persName>,<note
+                        xml:id="note.3">Wolfgang von Puchheim.</note> ut ipsos absque ulla mora cum
+                    omni ipsorum comitatu liberos dimittat, prout Devotiones Vestrae a nobis pro sua
+                    prudentia humiliter petierunt, <add corresp="scriba" type="insert"><del
+                            corresp="scriba">et sicuti</del> ipseque a <persName>Puecham</persName>
+                        se omnium absque mora facturum recepit</add>. Volentes autem nos insistere
+                    deliberationi <del corresp="scriba">huic</del> nostrae <del corresp="scriba"
+                        >devotionibus</del>, Fidelitati Vestrae clementer mandamus ac hortamur, quod
+                    si citatio quam fieri iusseramus <add corresp="scriba" type="insert">ad
+                        praefatos <persName>Forgach</persName> fratres</add> nondum fuerit emanata,
+                    ut eam primo quoque tempore expediant, ac exsecutioni demandari curent, ita ut
+                    dicti <persName>Sigismundus</persName> et <persName>Ladislaus</persName> fratres
                     ad terminum a nobis praefixum compareant negotium illud nobis <del
                         corresp="scriba">personaliter</del> declaraturi. Quod fidelitati Vestrae
                     gratiose respondere voluimus, facient autem in eis clementem voluntatem

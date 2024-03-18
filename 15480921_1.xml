@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Mihály Mérey<idno type="ITIdata">Q38164</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,33 +233,32 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Egregie Domine et Amice nobis Honorande,<note type="critic"
-                        xml:id="note.1">Mihály Mérey (†1572) was a jurist, Royal Councilor, and
-                        Chief Justice <hi rend="italic">(personalis praesentiae regiae in iudiciis
+                <p xml:id="p.1">Egregie Domine et Amice nobis Honorande,<note xml:id="note.1">Mihály
+                        Mérey (†1572) was a jurist, Royal Councilor, and Chief Justice <hi
+                            rend="italic">(personalis praesentiae regiae in iudiciis
                             locumtenens)</hi> between 1544 and 1562. He was Deputy Palatine <hi
                             rend="italic">(vicepalatinus)</hi> from 1563 until his death.</note>
                     salutem et nostri commendationem!</p>
                 <p xml:id="p.2">Negotium, de quo nobis Dominatio Vestra scripsit, ex litteris
                     eiusdem abunde cognovimus. Dominus <persName>Balassa</persName><note
-                        type="critic" xml:id="note.2">Menyhárt Balassa.</note> iam hic est, et
-                    dominus <persName>Petrus Palffy</persName><note type="critic" xml:id="note.3"
-                        >Péter Pálffy (†1568) was a member of the noble Hungarian Pálffy family. On
-                        the conflict between him and Balassa regarding the castle of Čabraď, see <hi
-                            rend="smallcap">Virovecz</hi> 2015, especially 36–39.</note> quoque
-                    adventurus est, qui ubi advenerit, <persName>regia maiestas</persName>, dominus
-                    noster clementissimus negotii ipsius curam est habitura. Tamen Dominatio quoque
-                    Vestra ad eius transactionem adhuc commode advenire poterit. </p>
+                        xml:id="note.2">Menyhárt Balassa.</note> iam hic est, et dominus
+                        <persName>Petrus Palffy</persName><note xml:id="note.3">Péter Pálffy (†1568)
+                        was a member of the noble Hungarian Pálffy family. On the conflict between
+                        him and Balassa regarding the castle of Čabraď, see <hi rend="smallcap"
+                            >Virovecz</hi> 2015, especially 36–39.</note> quoque adventurus est, qui
+                    ubi advenerit, <persName>regia maiestas</persName>, dominus noster
+                    clementissimus negotii ipsius curam est habitura. Tamen Dominatio quoque Vestra
+                    ad eius transactionem adhuc commode advenire poterit. </p>
                 <p xml:id="p.3">Quod autem Dominatio Vestra in negotio <persName>dominorum
-                        Forgachiorum</persName><note type="critic" xml:id="note.4">Zsigmond and
-                        László Forgách, see Ep. 688.<ref>olahus.tei.15480915_1</ref></note> scribit,
-                    sciat Dominatio Vestra, quantum in nobis est, nos curaturos, quo libertas
-                    patriae nostrae et nostra observetur. Propterea si <persName>regia
-                        maiestas</persName> eos ad se venire iusserit, et litteras suae maiestatis
-                    viderint, statim ad suam maiestatem venire festinent, et sua maiestas tam
-                    negotiorum eorundem, quam <persName>domini de Pwcham</persName><note
-                        type="critic" xml:id="note.5">Wolfgang von Puchheim.</note> curam est
-                    habitura, et bono modo transactura, et compositura, scripserat autem hoc eodem
-                    in negotio nobis dominus <persName>Reway</persName><note type="critic"
+                        Forgachiorum</persName><note xml:id="note.4">Zsigmond and László Forgách,
+                        see Ep. 688.<ref>olahus.tei.15480915_1</ref></note> scribit, sciat Dominatio
+                    Vestra, quantum in nobis est, nos curaturos, quo libertas patriae nostrae et
+                    nostra observetur. Propterea si <persName>regia maiestas</persName> eos ad se
+                    venire iusserit, et litteras suae maiestatis viderint, statim ad suam maiestatem
+                    venire festinent, et sua maiestas tam negotiorum eorundem, quam <persName>domini
+                        de Pwcham</persName><note xml:id="note.5">Wolfgang von Puchheim.</note>
+                    curam est habitura, et bono modo transactura, et compositura, scripserat autem
+                    hoc eodem in negotio nobis dominus <persName>Reway</persName><note
                         xml:id="note.6">Ferenc Révay.</note> quoque. Cum tamen arbitremur suam
                     dominationem istinc domum iam profectam esse, non existimavimus opus esse
                     quicquam hac de re eidem scribere, si quid tamen eidem necessum fuerit,

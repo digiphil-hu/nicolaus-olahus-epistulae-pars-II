@@ -222,7 +222,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -248,23 +247,21 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo salutem. </p>
-                <p xml:id="p.2">Accepi litteras Dominationis Vestrae de data<note type="critic"
-                        xml:id="note.1">Ep. 443.<ref>olahus.tei.15340122_1</ref></note> XXII.
-                    Ianuarii, quae mihi fuerunt gratissimae. Accepi et memoriale, quod diligenter
-                    exsequar. <persName>Grythi</persName><note type="critic" xml:id="note.2"
-                        >Lodovico Gritti.</note> nondum venit, deque eo nihil auditur, nisi quod
-                    deduxit <persName>Imbrahimum bassam</persName><note type="critic"
-                        xml:id="note.3">Ibrahim Pargalı Pasha.</note> in
+                <p xml:id="p.2">Accepi litteras Dominationis Vestrae de data<note xml:id="note.1"
+                        >Ep. 443.<ref>olahus.tei.15340122_1</ref></note> XXII. Ianuarii, quae mihi
+                    fuerunt gratissimae. Accepi et memoriale, quod diligenter exsequar.
+                        <persName>Grythi</persName><note xml:id="note.2">Lodovico Gritti.</note>
+                    nondum venit, deque eo nihil auditur, nisi quod deduxit <persName>Imbrahimum
+                        bassam</persName><note xml:id="note.3">Ibrahim Pargalı Pasha.</note> in
                         <placeName>Anatoliam</placeName> rediturus postea huc. Iam expedimus
                     cursorem hunc citissime ad <persName>caesarem</persName>. Ego forte ibo obviam
                         <persName>Grythi</persName>, ubicumque sit, sed haec sint Dominationis
                     Vestrae secreta, nisi reginali maiestati dicenda. Brevitas temporis facit me
                     nunc in scribendo brevem. Cum thesaurario <persName>Haller</persName><note
-                        type="critic" xml:id="note.4">Wolfgang Haller.</note> Dominatio Vestra
-                    transigat, ut mandatum consiliariatus mei cito ad
-                        <persName>uxorem</persName><note type="critic" xml:id="note.5">Anna Isabella
-                        (Elizabeth) Donche.</note> mittat. Et scribat responsum ad litteras prius
-                    scriptas, scribam brevi plura. </p>
+                        xml:id="note.4">Wolfgang Haller.</note> Dominatio Vestra transigat, ut
+                    mandatum consiliariatus mei cito ad <persName>uxorem</persName><note
+                        xml:id="note.5">Anna Isabella (Elizabeth) Donche.</note> mittat. Et scribat
+                    responsum ad litteras prius scriptas, scribam brevi plura. </p>
                 <p xml:id="p.3">Ex <placeName>Praga</placeName> VIII. Februarii 1534.</p>
             </div>
         </body>

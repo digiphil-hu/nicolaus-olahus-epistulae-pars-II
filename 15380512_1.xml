@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -253,39 +251,39 @@
                 </p>
                 <p xml:id="p.2">[1.] En rursus alteram epistolam, cum enim solvendo sim, hoc est:
                     absolverim meam tibi in <persName>Demosthene</persName> promissam translationem,
-                    abiit pudor, vel potius δυσωπία,<note type="critic" xml:id="note.1"
-                        >‘coyness’.</note> successit audacia. Novi enim, <choice>
+                    abiit pudor, vel potius δυσωπία,<note xml:id="note.1">‘coyness’.</note>
+                    successit audacia. Novi enim, <choice>
                         <orig>quam</orig>
                         <supplied>quem</supplied>
                     </choice> habeo patronum non solum litteratum, sed et clementem et indulgentem.
                     Spero, postquam accesserit titulus tui amplissimi nominis, librum omnino non
                     plausibilem, sed etiam aliqua aeternitate diuturnam fore. Solus
                         <persName>Melanchton</persName> cum uno et altero aliquid in Demosthene
-                        tentavit,<note type="critic" xml:id="note.2"><hi rend="italic">Contra
-                            Aristogitonem Demosthenis Orationes duae doctissimae, à Philippo
-                            Melanchthone iam primum latinitate donatae</hi>, Haganoae, 1527.</note>
-                    verum adeo plerisque non satisfacit, ut nuper quidam sciolus eadem denuo
-                    verterit, sed infinitis partibus infra dignitatem eius, quem aemulabatur, vel
-                    potius corrigere studebat. Melanchtonis interpretatio liberior est, saepe enim
-                    paraphrasten sapit. Nos religiosiores sumus, servata enim sententia etiam
-                    commatum, colon et periodon cum numeris ipsis ferme speciem servavimus. Utinam
-                    adesses et tuam acutisssimam prudentiam consulerem, antequam exiret in publicum. </p>
+                        tentavit,<note xml:id="note.2"><hi rend="italic">Contra Aristogitonem
+                            Demosthenis Orationes duae doctissimae, à Philippo Melanchthone iam
+                            primum latinitate donatae</hi>, Haganoae, 1527.</note> verum adeo
+                    plerisque non satisfacit, ut nuper quidam sciolus eadem denuo verterit, sed
+                    infinitis partibus infra dignitatem eius, quem aemulabatur, vel potius corrigere
+                    studebat. Melanchtonis interpretatio liberior est, saepe enim paraphrasten
+                    sapit. Nos religiosiores sumus, servata enim sententia etiam commatum, colon et
+                    periodon cum numeris ipsis ferme speciem servavimus. Utinam adesses et tuam
+                    acutisssimam prudentiam consulerem, antequam exiret in publicum. </p>
                 <p xml:id="p.3">[2.] Audio <persName>caesarem</persName> huc venturum cum
-                        <persName>fratre</persName>;<note type="critic" xml:id="note.3">King
-                        Ferdinand I.</note> quaeso te per omnia sacra Musarum, habeamus te tunc
-                    praesentem, vel per hunc vel <persName>Damianum</persName><note type="critic"
-                        xml:id="note.4">Damião de Góis.</note> mihi rescribe, quid in prologo
-                    mutatum velis. Quia magnus habeor apud meum <milestone unit="pb"/>Holaum<note
-                        type="critic" xml:id="note.5">I.e. Olahum.</note> maximum, multi mihi
-                    invident, multi quoque multa a me petunt, quod per te sperant confici posse. </p>
-                <p xml:id="p.4">Multos reieci, <persName>hunc</persName>,<note type="critic"
-                        xml:id="note.6">We do not know the name of the Prior at Tehenburch.</note>
-                    qui has meas litteras ad te defert, reiicere non potui, nec debui; est enim vir
-                    non minus probus, quam litteratus et summa mecum amicitia coniunctus causam apud
-                    caesarem hanc debet. Est coenobium quoddam in <placeName>Tehenburch</placeName>,
-                    comes eius loci, homo, qui nonnisi septem aut octo pagos habet in tota ditione,
-                    hanc legem monachis iniunxit, ne quempiam deinceps reciperent, ne priorem suum
-                    mutarent ac observatum est <choice>
+                        <persName>fratre</persName>;<note xml:id="note.3">King Ferdinand I.</note>
+                    quaeso te per omnia sacra Musarum, habeamus te tunc praesentem, vel per hunc vel
+                        <persName>Damianum</persName><note xml:id="note.4">Damião de Góis.</note>
+                    mihi rescribe, quid in prologo mutatum velis. Quia magnus habeor apud meum
+                        <milestone unit="pb"/>Holaum<note xml:id="note.5">I.e. Olahum.</note>
+                    maximum, multi mihi invident, multi quoque multa a me petunt, quod per te
+                    sperant confici posse. </p>
+                <p xml:id="p.4">Multos reieci, <persName>hunc</persName>,<note xml:id="note.6">We do
+                        not know the name of the Prior at Tehenburch.</note> qui has meas litteras
+                    ad te defert, reiicere non potui, nec debui; est enim vir non minus probus, quam
+                    litteratus et summa mecum amicitia coniunctus causam apud caesarem hanc debet.
+                    Est coenobium quoddam in <placeName>Tehenburch</placeName>, comes eius loci,
+                    homo, qui nonnisi septem aut octo pagos habet in tota ditione, hanc legem
+                    monachis iniunxit, ne quempiam deinceps reciperent, ne priorem suum mutarent ac
+                    observatum est <choice>
                         <orig>utrinque</orig>
                         <supplied>utrumque</supplied>
                     </choice> ad amussim. Postea hic prior eligitur a toto ordine in generalem, ac
@@ -302,10 +300,9 @@
                 <p xml:id="p.5"><placeName>Lovani</placeName> quarto Idus Maias. </p>
                 <p xml:id="p.6">[3.] Litteris scriptis rediit <persName>Damianus a Goes</persName>,
                     qui te <placeName>Antverpiae</placeName> non invenit, quare et litteras<note
-                        type="critic" xml:id="note.7">Ep.
-                        601.<ref>olahus.tei.15380506_1</ref></note> per illum ad te missas, eas per
-                    eundem monachum virum doctum et probum, de quo supra memini, ad te remitto.
-                    Iterum vale, Optime et Eruditissime Patrone. </p>
+                        xml:id="note.7">Ep. 601.<ref>olahus.tei.15380506_1</ref></note> per illum ad
+                    te missas, eas per eundem monachum virum doctum et probum, de quo supra memini,
+                    ad te remitto. Iterum vale, Optime et Eruditissime Patrone. </p>
             </div>
         </body>
     </text>

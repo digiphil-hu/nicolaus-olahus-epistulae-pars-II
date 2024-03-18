@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Ferenc Révay<idno type="ITIdata">Q53802</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -253,18 +251,17 @@
                         <orig>Reverendissima</orig>
                         <supplied>Magnifica</supplied>
                     </choice><placeName>Viennae</placeName> et quod medio domini reverendissimi
-                        <persName>Strigoniensis</persName><note type="critic" xml:id="note.1">Pál
+                        <persName>Strigoniensis</persName><note xml:id="note.1">Pál
                         Várday.</note><del corresp="Olahus">relaxaverit</del><add corresp="Olahus"
                         type="corr">benevole</add> relaxaverit dimidium crediti, quod autem domini
                     camerarii nunc faciant difficultatem: de satisfacienda illa dimedietate
-                        nescire<note type="critic" xml:id="note.2">Uncertain reading.</note>
-                        causam.<note type="critic" xml:id="note.3">Probably from the proverb:
-                        ‘timendi causa est nescire’.</note> Nam etiam <placeName>Viennae</placeName>
-                    fuerat facta mentio absentiae Dominationis Vestrae Magnificae propter
-                    infirmitatem suam, quae excusare solet cuivis absentiam. Quare cum nunc si nec
-                    in procinctu continuis, nec multum contingere nos tardaturos
-                        <placeName>Pragae</placeName>, sed recta ituros
-                        <placeName>Wiennam</placeName>, tunc maiestas sua curabit, quod Dominatio
+                        nescire<note xml:id="note.2">Uncertain reading.</note> causam.<note
+                        xml:id="note.3">Probably from the proverb: ‘timendi causa est
+                        nescire’.</note> Nam etiam <placeName>Viennae</placeName> fuerat facta
+                    mentio absentiae Dominationis Vestrae Magnificae propter infirmitatem suam, quae
+                    excusare solet cuivis absentiam. Quare cum nunc si nec in procinctu continuis,
+                    nec multum contingere nos tardaturos <placeName>Pragae</placeName>, sed recta
+                    ituros <placeName>Wiennam</placeName>, tunc maiestas sua curabit, quod Dominatio
                     Vestra Magnifica damnum non sit passura. Ego vero quicquid in negotiis
                     quibuslibet Dominationi Vestrae Magnificae et sollicitandis et promovendis
                     facere potui, feci certe ex animo, quod et in posterum <milestone unit="pb"/>sum
@@ -281,19 +278,19 @@
                     longinquis itineribus ex meis expenderim, Deus scit et ego, faciam tamen
                     quicquid et quoad possum, commodi et servitiorum reipublicae causa. Felicem
                     Dominationem Vestram Magnificam prae me iudico, quae ex Dei clementia nacta sit
-                    dominam coniugem<note type="critic" xml:id="note.4">Anna Paksy was Révay’s
-                        second wife from 1542 after his first wife, Borbála Gyulay died around 1540.
-                        See <hi rend="smallcap">Frankl</hi> 1873, 7; and <hi rend="smallcap"
-                            >Pálffy</hi> 2009a, 10.</note> honestissimam, formosam et locupletem,
-                    tum sinu, tum nummis eam foventem; hac quae maior felicitas terrena esse potest?
-                    Eam tamen regia maiestas, dominus noster serenissimus abhorret, infelicitatemque
-                    esse putat, <del corresp="Olahus">non</del> tamen uti existimo non utramque, sed
+                    dominam coniugem<note xml:id="note.4">Anna Paksy was Révay’s second wife from
+                        1542 after his first wife, Borbála Gyulay died around 1540. See <hi
+                            rend="smallcap">Frankl</hi> 1873, 7; and <hi rend="smallcap">Pálffy</hi>
+                        2009a, 10.</note> honestissimam, formosam et locupletem, tum sinu, tum
+                    nummis eam foventem; hac quae maior felicitas terrena esse potest? Eam tamen
+                    regia maiestas, dominus noster serenissimus abhorret, infelicitatemque esse
+                    putat, <del corresp="Olahus">non</del> tamen uti existimo non utramque, sed
                     alterutram. De his alias plura.</p>
                 <p xml:id="p.4">[3.] Litteras <persName>Simonthornensis</persName><note
-                        type="critic" xml:id="note.5">Probably Simontornyai. We do not know him more
+                        xml:id="note.5">Probably Simontornyai. We do not know him more
                         closely.</note> et responsum domini <persName>Bathori</persName>,<note
-                        type="critic" xml:id="note.6">András (Bonaventura) Báthori.</note> quae
-                    Dominatio Vestra Magnifica ad me misit, perlegi maiestati regiae. </p>
+                        xml:id="note.6">András (Bonaventura) Báthori.</note> quae Dominatio Vestra
+                    Magnifica ad me misit, perlegi maiestati regiae. </p>
                 <pb/>
                 <p xml:id="p.5">De Turca putat vanum illum esse rumorem. De domino
                         <persName>Bathori</persName> exspectat ea servitia facultatis, quae verbis

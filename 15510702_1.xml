@@ -208,7 +208,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -243,56 +242,55 @@
                 <p xml:id="p.1">Servitiorum meorum commendationem, Spectabilis et Magnifice Domine
                     et Frater Observandissime! </p>
                 <p xml:id="p.2">[1.] Carissima domina <persName>coniunx</persName><note
-                        type="critic" xml:id="note.1">Orsolya Kanizsai.</note> Dominationis Vestrae
-                    bene valet. Nudiustertius per <persName>Sarcanum</persName><note type="critic"
-                        xml:id="note.2">Antal Sárkány of Ákosháza (†1562) was Tamás Nádasdy’s
-                        retainer <hi rend="italic">(familiaris)</hi> and his <hi rend="italic"
-                            >agens</hi> in Vienna, as well as Seneschal of Sárvár, see <hi
-                            rend="smallcap">Koppány</hi> 2013; and Sárkány’s letter to Nádasdy: <hi
-                            rend="smallcap">Komáromy</hi> 1910.</note> nostrum misit ad me duos
-                    pepones optimi coloris, quos mox ad <persName>maiestatem regiam</persName> misi,
-                    quae hoc anno alios non viderat. Hodie laudabat eos optimos esse. Unius partem
-                    heri degustaverat, hodie aliam partem absumpsit, sed enim adhuc servatur.<note
-                        type="critic" xml:id="note.3">On 10 July, 1551, Sárkány wrote to Nádasdy
-                        from Vienna in a similar manner: Orsolya is in good health, and she sent
-                        another 300 melons, which he distributed among the lords, see <hi
-                            rend="smallcap">Komáromy</hi> 1910, 400–402.</note></p>
+                        xml:id="note.1">Orsolya Kanizsai.</note> Dominationis Vestrae bene valet.
+                    Nudiustertius per <persName>Sarcanum</persName><note xml:id="note.2">Antal
+                        Sárkány of Ákosháza (†1562) was Tamás Nádasdy’s retainer <hi rend="italic"
+                            >(familiaris)</hi> and his <hi rend="italic">agens</hi> in Vienna, as
+                        well as Seneschal of Sárvár, see <hi rend="smallcap">Koppány</hi> 2013; and
+                        Sárkány’s letter to Nádasdy: <hi rend="smallcap">Komáromy</hi> 1910.</note>
+                    nostrum misit ad me duos pepones optimi coloris, quos mox ad
+                        <persName>maiestatem regiam</persName> misi, quae hoc anno alios non
+                    viderat. Hodie laudabat eos optimos esse. Unius partem heri degustaverat, hodie
+                    aliam partem absumpsit, sed enim adhuc servatur.<note xml:id="note.3">On 10
+                        July, 1551, Sárkány wrote to Nádasdy from Vienna in a similar manner:
+                        Orsolya is in good health, and she sent another 300 melons, which he
+                        distributed among the lords, see <hi rend="smallcap">Komáromy</hi> 1910,
+                        400–402.</note></p>
                 <p xml:id="p.3">[2.] Nova haec sunt. Maiestas caesarea optime valet,
                         <placeName>Augustae</placeName>que laetos agit dies Italicum bellum illinc
                     prospectans, quod speratur pace interposita brevi confectum iri.
-                        <persName>Princeps Hispaniarum</persName><note type="critic" xml:id="note.4"
-                        >Prince Philip, later Philip II, King of Spain.</note> hodie
+                        <persName>Princeps Hispaniarum</persName><note xml:id="note.4">Prince
+                        Philip, later Philip II, King of Spain.</note> hodie
                         <placeName>Genuam</placeName> applicare debebat. Serenissima
-                        <persName>regina</persName><note type="critic" xml:id="note.5">Archduchess
-                        Maria of Austria, later Holy Roman Empress.</note> Boemiae filia imperatoris
-                    in procinctu est iam itineris in Italiam traiciendi, exspectat
+                        <persName>regina</persName><note xml:id="note.5">Archduchess Maria of
+                        Austria, later Holy Roman Empress.</note> Boemiae filia imperatoris in
+                    procinctu est iam itineris in Italiam traiciendi, exspectat
                         <persName>Maximilianum</persName> regem maritum, qui his diebus erit
                         <placeName>Genuae</placeName>. Duo milliones auri nunc nunc allati sunt
-                    imperatori ex India in Hispaniam illinc per cambium<note type="critic"
-                        xml:id="note.6">Money changer, cambist.</note> forte
-                        <placeName>Augustam</placeName>. Magdeburgenses extremam obsessi acrius quam
-                    antea patiuntur inediam adeo, ut per minuta frusta laridi et alia victualium
-                        <del corresp="Olahus">generat</del> genera vinumque modicum distribuantur
-                    quotidie lancigeris,<note type="critic" xml:id="note.7"><hi rend="italic"
-                            >lancigeri</hi>, <hi rend="italic">Landsknechts</hi>, meaning
-                        ‘infantrymen of peasant origin’.</note> qui in praesidio sunt urbis. Qui
-                    quam sint patientes huiusmodi frugalitatis, Dominatio Vestra novit, speratur
+                    imperatori ex India in Hispaniam illinc per cambium<note xml:id="note.6">Money
+                        changer, cambist.</note> forte <placeName>Augustam</placeName>.
+                    Magdeburgenses extremam obsessi acrius quam antea patiuntur inediam adeo, ut per
+                    minuta frusta laridi et alia victualium <del corresp="Olahus">generat</del>
+                    genera vinumque modicum distribuantur quotidie lancigeris,<note xml:id="note.7"
+                            ><hi rend="italic">lancigeri</hi>, <hi rend="italic">Landsknechts</hi>,
+                        meaning ‘infantrymen of peasant origin’.</note> qui in praesidio sunt urbis.
+                    Qui quam sint patientes huiusmodi frugalitatis, Dominatio Vestra novit, speratur
                     indies deditio. In <choice>
                         <orig>ea</orig>
                         <supplied>eo</supplied>
                     </choice> enim tractatu <milestone unit="pb"/>et vehementer supplicatur apud
                     imperatorem. Turca animo et corpore laborat. Persae instant et alii eius vicini,
-                    sed haec Dominatio Vestra me melius ibi cognoscit. Praedicta<note type="critic"
+                    sed haec Dominatio Vestra me melius ibi cognoscit. Praedicta<note
                         xml:id="note.8">Nádasdy’s wife, Orsolya Kanizsai.</note> tamen communicare
-                    poterit dominis <persName>Varadiensi</persName><note type="critic"
-                        xml:id="note.9">George Martinuzzi.</note> et <persName>capitaneo
-                        generali</persName>,<note type="critic" xml:id="note.10">András
-                        (Bonaventura) Báthori.</note> quibus mea servitia commendet. Cupimus omnia
-                    illinc a vobis felicia audire. Deliberatio et informatio spectabilis maiestatis
-                    regiae iampridem, ut arbitror, ad Dominationem Vestram pervenit. Quae feliciter
-                    valeat., quibus mea servitia commendet. Cupimus omnia illinc a vobis felicia
-                    audire. Deliberatio et informatio spectabilis maiestatis regiae iampridem, ut
-                    arbitror, ad Dominationem Vestram pervenit. Quae feliciter valeat.</p>
+                    poterit dominis <persName>Varadiensi</persName><note xml:id="note.9">George
+                        Martinuzzi.</note> et <persName>capitaneo generali</persName>,<note
+                        xml:id="note.10">András (Bonaventura) Báthori.</note> quibus mea servitia
+                    commendet. Cupimus omnia illinc a vobis felicia audire. Deliberatio et
+                    informatio spectabilis maiestatis regiae iampridem, ut arbitror, ad Dominationem
+                    Vestram pervenit. Quae feliciter valeat., quibus mea servitia commendet. Cupimus
+                    omnia illinc a vobis felicia audire. Deliberatio et informatio spectabilis
+                    maiestatis regiae iampridem, ut arbitror, ad Dominationem Vestram pervenit. Quae
+                    feliciter valeat.</p>
                 <p xml:id="p.4">Ex <placeName>Wienna</placeName> secunda Iulii anno 1551.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>

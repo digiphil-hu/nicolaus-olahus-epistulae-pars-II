@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -256,9 +254,8 @@
                                 corresp="Olahus" type="corr">est</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.4">est</rdg>
                     </app> iudicium, non inconcinna responderem. Ne tamen solus viderer in tanti
-                        <persName>amici</persName><note type="critic" xml:id="note.1">Erasmus of
-                        Rotterdam.</note> mei morte, mihi ob amicitiam nostram mutuam <app
-                        xml:id="app.5">
+                        <persName>amici</persName><note xml:id="note.1">Erasmus of Rotterdam.</note>
+                    mei morte, mihi ob amicitiam nostram mutuam <app xml:id="app.5">
                         <lem wit="#CE #I" xml:id="lem.5"><del corresp="Olahus">maxima</del><add
                                 corresp="Olahus" type="corr">maxime</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.5">maxime</rdg>
@@ -271,13 +268,12 @@
                     </app> scripsi, quos ad te mitto. Tuum erit eorum ineptias tollere et polire,
                     tandemque ad me remittere litura abunde ornatos. </p>
                 <p xml:id="p.3">[2.] <persName>Caesar</persName><placeName>Arelato</placeName><note
-                        type="critic" xml:id="note.2">Arles.</note> potitus est interfectis, uti
-                    dicunt, omnibus eius praesidionariis<note type="critic" xml:id="note.3">‘which
-                        serves as a guard’, <hi rend="smallcap">Hoven</hi> 2006, 430.</note>
-                    militibus et civibus. Exsules Florentini, conscriptis in Italia pecunia Gallica
-                    militibus, aggressi nuper fuere <placeName>Genuam</placeName> duabus ex
-                    partibus, sed repulsi magna eorum caede. Spes est caesaris exercitum, qui ad
-                    Italiam in <app xml:id="app.7">
+                        xml:id="note.2">Arles.</note> potitus est interfectis, uti dicunt, omnibus
+                    eius praesidionariis<note xml:id="note.3">‘which serves as a guard’, <hi
+                            rend="smallcap">Hoven</hi> 2006, 430.</note> militibus et civibus.
+                    Exsules Florentini, conscriptis in Italia pecunia Gallica militibus, aggressi
+                    nuper fuere <placeName>Genuam</placeName> duabus ex partibus, sed repulsi magna
+                    eorum caede. Spes est caesaris exercitum, qui ad Italiam in <app xml:id="app.7">
                         <lem wit="#CE #I" xml:id="lem.7"><del corresp="Olahus">parte
                                 servanda</del><add corresp="Olahus" type="corr">pace
                             servandam</add></lem>
@@ -287,16 +283,15 @@
                                 corresp="Olahus" type="corr">Peronaeque</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.8"><del corresp="Olahus">Perona</del><add
                                 corresp="Olahus" type="corr">Peronae</add></rdg>
-                    </app><note type="critic" xml:id="note.4">Péronne.</note> obsidio soluta
-                        est.<note type="critic" xml:id="note.5">The siege ended on 11 September,
-                        1536.</note> Et non spero aliquid nobis magnae laudis ex hac nostra
-                    expeditione venturum, militibus iam, ut audio, domum redire cupientibus. <app
-                        xml:id="app.9">
+                    </app><note xml:id="note.4">Péronne.</note> obsidio soluta est.<note
+                        xml:id="note.5">The siege ended on 11 September, 1536.</note> Et non spero
+                    aliquid nobis magnae laudis ex hac nostra expeditione venturum, militibus iam,
+                    ut audio, domum redire cupientibus. <app xml:id="app.9">
                         <lem wit="#CE #I" xml:id="lem.9"><del corresp="Olahus">Dani</del><add
                                 corresp="Olahus" type="corr">Dammum</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.9">Dammum</rdg>
-                    </app><note type="critic" xml:id="note.6">Damme.</note> oppidum iampridem se
-                        <app xml:id="app.10">
+                    </app><note xml:id="note.6">Damme.</note> oppidum iampridem se <app
+                        xml:id="app.10">
                         <lem wit="#CE #I" xml:id="lem.10"><del corresp="Olahus">dedit</del><add
                                 corresp="Olahus" type="corr">dedidit</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.10">dedidit</rdg>
@@ -309,21 +304,21 @@
                         <lem wit="#CE #I" xml:id="lem.12">Benuir</lem>
                         <rdg wit="#II #III" xml:id="rdg.12"><del corresp="Olahus"> Benuir</del><add
                                 corresp="Olahus" type="corr">Byren</add></rdg>
-                    </app><note type="critic" xml:id="note.7">We do not know him more
-                        closely.</note> et <app xml:id="app.13">
+                    </app><note xml:id="note.7">We do not know him more closely.</note> et <app
+                        xml:id="app.13">
                         <lem wit="#CE #I" xml:id="lem.13"><del corresp="Olahus">Brodarod</del><add
                                 corresp="Olahus" type="corr">Brodaroc</add></lem>
                         <rdg wit="#II #III" xml:id="rdg.13"><del corresp="Olahus">Brodarod</del><add
                                 corresp="Olahus" type="corr">Bredarod</add></rdg>
-                    </app>.<note type="critic" xml:id="note.8">We do not know him more
-                        closely.</note> Commissarii dati Cornelius <app xml:id="app.14">
+                    </app>.<note xml:id="note.8">We do not know him more closely.</note> Commissarii
+                    dati Cornelius <app xml:id="app.14">
                         <lem wit="#CE #I" xml:id="lem.14"><del corresp="Olahus"
                             >Scepperus</del></lem>
                         <rdg wit="#II #III" xml:id="rdg.14"><add corresp="Olahus" type="insert"
                                 >Scepperus</add></rdg>
-                    </app> et <persName>Gothschalcus</persName><note type="critic" xml:id="note.9"
-                        >Jean Godschalck.</note> nostri, qui nudiustertius in Zelandiam hinc
-                    solverunt. Persae dicuntur <app xml:id="app.15">
+                    </app> et <persName>Gothschalcus</persName><note xml:id="note.9">Jean
+                        Godschalck.</note> nostri, qui nudiustertius in Zelandiam hinc solverunt.
+                    Persae dicuntur <app xml:id="app.15">
                         <lem wit="#CE #I" xml:id="lem.15"><del corresp="Olahus">Turcae</del><add
                                 corresp="Olahus" type="corr">Turcis</add> nunc</lem>
                         <rdg wit="#II #III" xml:id="rdg.15">nunc Thurcis</rdg>
@@ -336,26 +331,25 @@
                     </app> in recuperanda Hungaria Ferdinando regi nostro adessent. Alia nunc nulla
                     habeo. Bene vale. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 16. Septembris 1536. </p>
-                <p xml:id="p.5">[Elegia ad sepulchrum Erasmi Roterodami]<note type="critic"
-                        xml:id="note.10"><hi rend="smallcap">Hegedüs</hi> 1906, 424–426; <hi
-                            rend="smallcap">Fógel–Juhász</hi> 1934, 34–36; <hi rend="smallcap"
-                            >Neagu</hi> 2003, 346–348. In Romanian: <hi rend="smallcap"
-                            >Capoianu–Costa–Nicolae</hi> 2022, 1234–1241.</note></p>
-                <p xml:id="p.6"> [Epitaphium eiusdem per eundem]<note type="critic" xml:id="note.11"
-                            ><hi rend="smallcap">Hegedüs</hi> 1906, 426; <hi rend="smallcap"
+                <p xml:id="p.5">[Elegia ad sepulchrum Erasmi Roterodami]<note xml:id="note.10"><hi
+                            rend="smallcap">Hegedüs</hi> 1906, 424–426; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 34–36; <hi rend="smallcap">Neagu</hi> 2003,
+                        346–348. In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                        1234–1241.</note></p>
+                <p xml:id="p.6"> [Epitaphium eiusdem per eundem]<note xml:id="note.11"><hi
+                            rend="smallcap">Hegedüs</hi> 1906, 426; <hi rend="smallcap"
                             >Fógel–Juhász</hi> 1934, 36; <hi rend="smallcap">Neagu</hi> 2003, 349.
                         In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
                         1240–1243.</note></p>
-                <p xml:id="p.7">[Aliud eiusdem]<note type="critic" xml:id="note.12"><hi
-                            rend="smallcap">Hegedüs</hi> 1906, 427; <hi rend="smallcap"
-                            >Fógel–Juhász</hi> 1934, 36–37; <hi rend="smallcap">Neagu</hi> 2003,
-                        349. In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
-                        1242–1243.</note></p>
-                <p xml:id="p.8"> [Aliud eiusdem]<note type="critic" xml:id="note.13"><hi
-                            rend="smallcap">Hegedüs</hi> 1906, 427; <hi rend="smallcap"
-                            >Fógel–Juhász</hi> 1934, 37; <hi rend="smallcap">Neagu</hi> 2003, 350.
-                        In Romanian: <hi rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
-                        1242–1243.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+                <p xml:id="p.7">[Aliud eiusdem]<note xml:id="note.12"><hi rend="smallcap"
+                            >Hegedüs</hi> 1906, 427; <hi rend="smallcap">Fógel–Juhász</hi> 1934,
+                        36–37; <hi rend="smallcap">Neagu</hi> 2003, 349. In Romanian: <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022, 1242–1243.</note></p>
+                <p xml:id="p.8"> [Aliud eiusdem]<note xml:id="note.13"><hi rend="smallcap"
+                            >Hegedüs</hi> 1906, 427; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 37;
+                            <hi rend="smallcap">Neagu</hi> 2003, 350. In Romanian: <hi
+                            rend="smallcap">Capoianu–Costa–Nicolae</hi> 2022,
+                    1242–1243.</note><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
             </div>
         </body>
     </text>

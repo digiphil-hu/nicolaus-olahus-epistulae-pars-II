@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Johann Hanoque</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,9 +232,9 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Reverendissimo domino Nicolao Olaho Ioannes Hanoque<note
-                        type="critic" xml:id="note.1">Heinrich Hanoque or Johann Hanoque (Hanika)
-                        was Queen Mary’s Carver in Innsbruck and Buda, having already served Mary in
-                        the Low Countries, see <hi rend="smallcap">Réthelyi</hi> 2010, 85; <hi
+                        xml:id="note.1">Heinrich Hanoque or Johann Hanoque (Hanika) was Queen Mary’s
+                        Carver in Innsbruck and Buda, having already served Mary in the Low
+                        Countries, see <hi rend="smallcap">Réthelyi</hi> 2010, 85; <hi
                             rend="smallcap">Heiss</hi> 1971, 425.</note> salutem plurimam dicit. </p>
                 <p xml:id="p.2">Cum diu multumque haesitassem, an litterarum aliquid ad Magnitudinem
                     Tuam, principum et reipublicae negotiis occupatam nullius pretii homuncio
@@ -251,13 +249,13 @@
                     Eruditissime, ut id clientulo tuo Hannoco tandem aliquando praestare non <del
                         corresp="Olahus">digneris</del><add corresp="Olahus" type="corr"
                         >dedigneris</add>, simulque etiam, ut illustratam tuis studiis
-                        Hungariam,<note type="critic" xml:id="note.2">Hungaria: both the country and
-                        Oláh’s work.</note> cum opportunum tibi visum fuerit, plenius videre
-                    possimus. Interim tuae dignitati laeta faustaque omnia precabimur, nos tuae
-                    magnitudini humillime commendantes. </p>
-                <p xml:id="p.3">Ex divi Bertini monasterio<note type="critic" xml:id="note.3"
-                        >Probably the Abbey of St. Bertin, a Benedictine monastic abbey in
-                        Saint-Omer, France.</note> Idibus Octobris 1537.</p>
+                        Hungariam,<note xml:id="note.2">Hungaria: both the country and Oláh’s
+                        work.</note> cum opportunum tibi visum fuerit, plenius videre possimus.
+                    Interim tuae dignitati laeta faustaque omnia precabimur, nos tuae magnitudini
+                    humillime commendantes. </p>
+                <p xml:id="p.3">Ex divi Bertini monasterio<note xml:id="note.3">Probably the Abbey
+                        of St. Bertin, a Benedictine monastic abbey in Saint-Omer, France.</note>
+                    Idibus Octobris 1537.</p>
             </div>
         </body>
     </text>

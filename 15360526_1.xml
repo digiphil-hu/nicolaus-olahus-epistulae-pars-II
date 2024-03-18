@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Daniel Mauch<idno type="ITIdata">Q470236</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,12 +229,11 @@
                         type="corr">Mauchius</add> Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Reverende et Magnifice Domine, Patrone mihi Colendissime. Nisi
                     festinaret auriga et serius mihi Reverendissimae Dominationis Vestrae
-                        litterae<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> redditae essent, multis verbis gratias agerem, quod tantum
-                    meo nomine facere dignata est, sed quia perendie
-                        <placeName>Bruxellae</placeName> futurus sum, Magnificentiae Vestrae
-                    praesens gratias agam, et interim semperque habebo. Bene valeat Reverendissima
-                    Dominatio Vestra, cui me humillime commendo. </p>
+                        litterae<note xml:id="note.1">We do not know this letter.</note> redditae
+                    essent, multis verbis gratias agerem, quod tantum meo nomine facere dignata est,
+                    sed quia perendie <placeName>Bruxellae</placeName> futurus sum, Magnificentiae
+                    Vestrae praesens gratias agam, et interim semperque habebo. Bene valeat
+                    Reverendissima Dominatio Vestra, cui me humillime commendo. </p>
                 <p xml:id="p.3">Ex <placeName>Lovanio</placeName> XXVI. Maii 1536.</p>
             </div>
         </body>

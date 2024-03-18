@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -242,15 +240,15 @@
                 <pb/>
                 <p xml:id="p.1">Franciscus Cranneveldius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">[1.] Pudet me, Vir Ornatissime, quod tam diu nihil responderim tuis
-                    litteris, neque remiserim carissimam doctissimamque feturam,<note type="critic"
+                    litteris, neque remiserim carissimam doctissimamque feturam,<note
                         xml:id="note.1">I.e. Oláh’s historical works: <hi rend="italic"
                             >Hungaria</hi> or <hi rend="italic">Athila</hi>.</note> sed cum tam
                     longe abesset Dominatio Tua, non audebam cuivis homini rem remittere. Nunc fidum
                     nactus tabellarium remitto cum meis lituris opus tuum, sed vereor, nec nimis
-                    libere censuram exercuerim. Halcyonem<note type="critic" xml:id="note.2">Hesiod,
-                        Hyginus and Pausanias wrote about Alcyone.</note> Graece non habeo et cum
-                    apud alios requisivissem, non inveni; proinde boni consulet Dominatio Tua, quae
-                    divinando verius, quam censendo annotavimus. </p>
+                    libere censuram exercuerim. Halcyonem<note xml:id="note.2">Hesiod, Hyginus and
+                        Pausanias wrote about Alcyone.</note> Graece non habeo et cum apud alios
+                    requisivissem, non inveni; proinde boni consulet Dominatio Tua, quae divinando
+                    verius, quam censendo annotavimus. </p>
                 <p xml:id="p.3">Vos iam istic quotidie auditis belli prospera, utinam ea aliquando
                     sint pacis incitamenta, bella enim geruntur, ut ad pacem perveniatur aliquando,
                     sed vereor, ne multorum magno malo ac serius. <quote xml:id="quote.1">Sed haec
@@ -266,10 +264,9 @@
                     meminisse <quote xml:id="quote.2">longas regibus esse manus.</quote><note
                         type="quote" xml:id="note.quote.2">Ovid. <hi rend="italic">Her.</hi>
                         XVII,176. Erasm. <hi rend="italic">Adag.</hi> 103. I,II,3. Longae regum
-                        manus.</note> Olim <persName>pater</persName>,<note type="critic"
-                        xml:id="note.3">Herman van Cranevelt (1442–1518), Secretary of the Dukes of
-                        Guelders. See <hi rend="smallcap">Schulte Herbrüggen</hi> 1997, 27.</note>
-                    vir suo seculo </p>
+                        manus.</note> Olim <persName>pater</persName>,<note xml:id="note.3">Herman
+                        van Cranevelt (1442–1518), Secretary of the Dukes of Guelders. See <hi
+                            rend="smallcap">Schulte Herbrüggen</hi> 1997, 27.</note> vir suo seculo </p>
                 <pb/>
                 <p xml:id="p.5">prudentissimus me admonuit de magnis principibus non facile in
                     peiorem partem loquendum esse. Hic scilicet alterum laudes, alterum suis quoque
@@ -278,22 +275,22 @@
                             rend="italic">Adag.</hi> 605. I,VII,5. Nescis quid serus vesper
                         vehat.</note> Hic quamquam me deterrerent ab editione Claudianorum, tamen
                     tuo hortatu permisi dictaturam ac censuram <persName>Nannio</persName><note
-                        type="critic" xml:id="note.4">Pieter Nanninck.</note> nostro, sed nescio,
-                    quid agant rerum nostri. </p>
+                        xml:id="note.4">Pieter Nanninck.</note> nostro, sed nescio, quid agant rerum
+                    nostri. </p>
                 <p xml:id="p.6">[3.] Nuper unus eorum, qui fuit in comitatu legati, attulit domum
-                    meam me absente libellum<note type="critic" xml:id="note.5">Procopius’ <hi
-                            rend="italic">De aedificiis,</hi> Paris: C. Wechel,
+                    meam me absente libellum<note xml:id="note.5">Procopius’ <hi rend="italic">De
+                            aedificiis,</hi> Paris: C. Wechel,
                         1537.</note><placeName>Parrhisiis</placeName> impressum de aedificiis
                         <persName>Iustiniani</persName>, quem antea triennium utcumque verteram,
                     quem scitissimis characteribus excudit <persName>Wechelius</persName><note
-                        type="critic" xml:id="note.6">Chrétien Wechel of Herentals (†1554) was an
-                        important publisher of his era, see <hi rend="smallcap">Guilleminot</hi>
-                        1987, 434.</note> cum annotationibus et explicationibus <persName>Theodorici
-                        Adamei Zwallemburgi</persName>.<note type="critic" xml:id="note.7">Theodor
-                        Adam Svallenberg, known as Theodoricus Adamaeus (1470–1540), German
-                        philologist and historian, also took part in other editions, see <hi
-                            rend="smallcap">Lazăr</hi> 2016, 72.</note> Is iuvenis eruditissimus
-                    malo fato <placeName>Parrhisiis</placeName> mansit initio huius belli, cui per
+                        xml:id="note.6">Chrétien Wechel of Herentals (†1554) was an important
+                        publisher of his era, see <hi rend="smallcap">Guilleminot</hi> 1987,
+                        434.</note> cum annotationibus et explicationibus <persName>Theodorici
+                        Adamei Zwallemburgi</persName>.<note xml:id="note.7">Theodor Adam
+                        Svallenberg, known as Theodoricus Adamaeus (1470–1540), German philologist
+                        and historian, also took part in other editions, see <hi rend="smallcap"
+                            >Lazăr</hi> 2016, 72.</note> Is iuvenis eruditissimus malo fato
+                        <placeName>Parrhisiis</placeName> mansit initio huius belli, cui per
                     litteras apertas, quas praesentibus inclusi, gratias ago, ut si mitti possint,
                     mittantur, sin minus istic maneant testes meae diligentiae. Vale, Domine
                     Ornatissime. </p>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -242,17 +240,16 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine, Domine mihi Observandissime!
                     Servitiorum meorum commendationem! </p>
                 <p xml:id="p.2">[1.] Quas ad me Spectabilis Magnifica Dominatio Vestra ex thermis
-                        Pesthieniensibus<note type="critic" xml:id="note.1">Pöstyén (today:
-                        Piešťany) had been famous for its medicinal springs since the Middle Ages.
-                        In 1549, Georg Werner also mentioned it in his book <hi rend="italic">About
-                            the Miraculous Waters of the Hungarian Monarchy</hi> (<hi rend="italic"
-                            >De admirandis Hungariae aquis hypomnemation</hi>, Basel, 1551, C
-                        IIIrv.)</note> decima huius mensis dedit litteras, hodie mane sunt mihi
-                    redditae, quibus lectis magno sane sum affectus dolore, quod thermae illae ad
-                    sanitatem generosae et magnificae <persName>dominae</persName><note
-                        type="critic" xml:id="note.2">Orsolya Kanizsai.</note> consortis Spectabilis
-                    Magnificae Dominationis Vestrae nihil contulerint, neque putassem eam ibi tamdiu
-                    perseveraturam. Ego <choice>
+                        Pesthieniensibus<note xml:id="note.1">Pöstyén (today: Piešťany) had been
+                        famous for its medicinal springs since the Middle Ages. In 1549, Georg
+                        Werner also mentioned it in his book <hi rend="italic">About the Miraculous
+                            Waters of the Hungarian Monarchy</hi> (<hi rend="italic">De admirandis
+                            Hungariae aquis hypomnemation</hi>, Basel, 1551, C IIIrv.)</note> decima
+                    huius mensis dedit litteras, hodie mane sunt mihi redditae, quibus lectis magno
+                    sane sum affectus dolore, quod thermae illae ad sanitatem generosae et
+                    magnificae <persName>dominae</persName><note xml:id="note.2">Orsolya
+                        Kanizsai.</note> consortis Spectabilis Magnificae Dominationis Vestrae nihil
+                    contulerint, neque putassem eam ibi tamdiu perseveraturam. Ego <choice>
                         <orig>fa<gap extent="unknown" reason="damage" unit="word"/>le</orig>
                         <supplied>fa<corr>ci</corr>le</supplied>
                     </choice> crediderim Deum omnipotentem longe alia ratione sanitati ipsius
@@ -267,32 +264,31 @@
                 <p xml:id="p.3">[2.] Quod ad res Bohemicas attinet: <persName>regia
                         maiestas</persName> fontes et coniurationis nuperrimae authores sine
                     intermissione castigat, proscripsit nuper <persName>Gasparum
-                        Phlug</persName><note type="critic" xml:id="note.3">Kaspar Pflug von
-                        Rabstein (†1585) was <hi rend="italic">Oberster Feldhauptmann</hi> of the
-                        Lutheran Bohemians from 1547, for more on this revolt and his conviction,
-                        see <hi rend="smallcap">Hoensch</hi> 1997, 194–195.</note> capitaneum,
-                    universa eius bona, arces videlicet, civitatesque et reliqua occupata sunt
-                    regiae maesitati, solus relictis, ut aiunt, <milestone unit="pb"/>consorti suae,
-                    nam liberis caret, circiter sedecim milibus Florenorum, viatico centum millium
+                        Phlug</persName><note xml:id="note.3">Kaspar Pflug von Rabstein (†1585) was
+                            <hi rend="italic">Oberster Feldhauptmann</hi> of the Lutheran Bohemians
+                        from 1547, for more on this revolt and his conviction, see <hi
+                            rend="smallcap">Hoensch</hi> 1997, 194–195.</note> capitaneum, universa
+                    eius bona, arces videlicet, civitatesque et reliqua occupata sunt regiae
+                    maesitati, solus relictis, ut aiunt, <milestone unit="pb"/>consorti suae, nam
+                    liberis caret, circiter sedecim milibus Florenorum, viatico centum millium
                     aureorum, ac rerum aurearum, gemmarumque ad valorem quinquaginta millium
-                    Florenorum, fugit ad <persName>Gallum</persName>,<note type="critic"
-                        xml:id="note.4">King Francis I.</note> quidam dicunt ad
-                        <persName>caesarem</persName>, sed hoc non videtur verisimile. Civitates
-                    omnes, quae consenserant coniurationi, libertate, privilegiis et armis
-                    tormentisque bellicis exuit sua maiestas. Constituit diem conventus festum beati
-                        Bartholomei<note type="critic" xml:id="note.5">24 August.</note> proxime
-                    venturum, ut tunc in eos, qui nocentes deprehensi fuerint, iure animadvertat.
-                    Quid postea sua maiestas actura sit, tempus docebit. Opinio quorundam est suam
-                    maiestatem praefectis his concessuram ad conventum imperialem
-                        <placeName>Augustae</placeName> celebrandam.</p>
+                    Florenorum, fugit ad <persName>Gallum</persName>,<note xml:id="note.4">King
+                        Francis I.</note> quidam dicunt ad <persName>caesarem</persName>, sed hoc
+                    non videtur verisimile. Civitates omnes, quae consenserant coniurationi,
+                    libertate, privilegiis et armis tormentisque bellicis exuit sua maiestas.
+                    Constituit diem conventus festum beati Bartholomei<note xml:id="note.5">24
+                        August.</note> proxime venturum, ut tunc in eos, qui nocentes deprehensi
+                    fuerint, iure animadvertat. Quid postea sua maiestas actura sit, tempus docebit.
+                    Opinio quorundam est suam maiestatem praefectis his concessuram ad conventum
+                    imperialem <placeName>Augustae</placeName> celebrandam.</p>
                 <p xml:id="p.4">[3.] Non dubito Spectabilem Magnificam Dominationem Vestram
-                    intellexisse <persName>Gerardum</persName><note type="critic" xml:id="note.6"
-                        >Gerard Veltwijck (ca. 1500–1555), Imperial Envoy, negotiated with Ottoman
-                        Sultan Suleyman I, see <hi rend="smallcap">Severi</hi> 2001.</note> oratorem
-                    caesaris a Turca spe simulatarum induciarum rediisse. Hinc proxime profectus est
-                    ad <persName>caesarem</persName>. Non video spem liberandae afflictae Hungariae,
-                    solae induciae sufficiunt ad perdendam eam.<note type="critic" xml:id="note.7"
-                        >On the conditions of the truce, see <hi rend="smallcap">Severi</hi> 2001,
+                    intellexisse <persName>Gerardum</persName><note xml:id="note.6">Gerard Veltwijck
+                        (ca. 1500–1555), Imperial Envoy, negotiated with Ottoman Sultan Suleyman I,
+                        see <hi rend="smallcap">Severi</hi> 2001.</note> oratorem caesaris a Turca
+                    spe simulatarum induciarum rediisse. Hinc proxime profectus est ad
+                        <persName>caesarem</persName>. Non video spem liberandae afflictae
+                    Hungariae, solae induciae sufficiunt ad perdendam eam.<note xml:id="note.7">On
+                        the conditions of the truce, see <hi rend="smallcap">Severi</hi> 2001,
                         242–243.</note></p>
                 <p xml:id="p.5">Ego voluntati, vel verius praecepto Spectabilis Magnificae
                     Dominationis Vestrae per omnem dolorem pedum meorum omnemque miseriam et

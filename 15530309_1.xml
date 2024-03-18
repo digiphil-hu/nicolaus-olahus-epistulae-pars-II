@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Trnava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -232,8 +230,8 @@
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici Honorandi, salutem et
                     nostri commendationem!</p>
                 <p xml:id="p.2">Recordamur antequoque ad Dominationes Vestras in favorem doctoris
-                        <persName>Petri Illicini</persName><note type="critic" xml:id="note.1"
-                        >Pietro Illicino.</note> nos litteras<note type="critic" xml:id="note.2">Ep.
+                        <persName>Petri Illicini</persName><note xml:id="note.1">Pietro
+                        Illicino.</note> nos litteras<note xml:id="note.2">Ep.
                             832.<ref>olahus.tei.15521118_1</ref></note> dedisse, ut scilicet nostri
                     causa de prima vacante domo ipsi providere velitis, quo commodiorem residentiam
                     ibi facere posset. Cum autem nunc intelligamus domum quandam per cantoratus

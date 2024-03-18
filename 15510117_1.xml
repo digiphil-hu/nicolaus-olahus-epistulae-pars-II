@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -237,26 +235,25 @@
                     et servitiorum meorum commendationem! </p>
                 <p xml:id="p.2">Non libenter scriberem res eiusmodi, scribo tamen, ut Dominatio
                     Vestra Magnifica intelligat, litterae ex <placeName>Constantinopoli</placeName>
-                    ab <persName>agente regio</persName><note type="critic" xml:id="note.1">Giovanni
-                        Maria Malvezzi.</note> venerunt, datae circa sedecimum diem Novembris,<note
-                        type="critic" xml:id="note.2">We do not know this letter.</note> quae
-                    significant dominum <persName>Maylatum</persName><note type="critic"
-                        xml:id="note.3">István Majláth.</note> nostrum apoplexia tactum, eam tamen
-                    resolutam et in alterum latus corporis descendisse ac paralysium fecisse, et
-                    laborare praeterea podagra. Quae etsi doleam ex animo, eventus tamen et casus
-                    humanos vix quisque vitare potest.</p>
+                    ab <persName>agente regio</persName><note xml:id="note.1">Giovanni Maria
+                        Malvezzi.</note> venerunt, datae circa sedecimum diem Novembris,<note
+                        xml:id="note.2">We do not know this letter.</note> quae significant dominum
+                        <persName>Maylatum</persName><note xml:id="note.3">István Majláth.</note>
+                    nostrum apoplexia tactum, eam tamen resolutam et in alterum latus corporis
+                    descendisse ac paralysium fecisse, et laborare praeterea podagra. Quae etsi
+                    doleam ex animo, eventus tamen et casus humanos vix quisque vitare potest.</p>
                 <p xml:id="p.3">Rex Persarum Turcae instat vehementer, iam dicitur prope
                         <placeName>Babyloniam</placeName> versari, et castrum unum fortissimum
-                    repugnasse, <placeName>Wan</placeName><note type="critic" xml:id="note.4">Van,
-                        city in eastern Turkey.</note> vero adhuc obsidere. </p>
+                    repugnasse, <placeName>Wan</placeName><note xml:id="note.4">Van, city in eastern
+                        Turkey.</note> vero adhuc obsidere. </p>
                 <p xml:id="p.4">Haec Dominationi Vestrae Magnificae volui significare. Credo nos
                     hinc in initio quadragesimae discessimus, fama est <persName>maiestatem
                         regiam</persName> ad invisendas filias ad <placeName>Inspruck</placeName> ad
                     sex aut octo dies profecturam, et illinc recta <placeName>Wiennam</placeName>.
                     Ego si fieri poterit, hinc recto ad vos itinere proficiscar. Dominationem
                     Vestram Magnificam feliciter valere cum domina <persName>coniuge</persName><note
-                        type="critic" xml:id="note.5">Orsolya Kanizsai.</note> sua carissima, domina
-                    mea observandissima cupio, quibus me commendo.</p>
+                        xml:id="note.5">Orsolya Kanizsai.</note> sua carissima, domina mea
+                    observandissima cupio, quibus me commendo.</p>
                 <p xml:id="p.5">Ex <placeName>Augusta</placeName> 17. Ianuarii 1551.</p>
                 <p xml:id="p.6">
                     <seg type="signature">Servitor et frater Agriensis etc. manu propria</seg>

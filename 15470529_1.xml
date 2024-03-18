@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Magdolna Székely of Ormosd<idno type="ITIdata"
                         >Q470378</idno></persName>
                 </correspAction>
@@ -245,48 +243,47 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Generosa et Magnifica Domina,<note type="critic" xml:id="note.1"
-                        >Magdolna Székely of Ormosd (†1556) was the second wife of Elek Thurzó
-                        (1490–1543). She is noted for the love letter addressed to her in 1528,
-                        which is the first preserved Hungarian love letter, see <hi rend="smallcap"
-                            >Szőke</hi> 2014.</note> nobis <del corresp="Olahus">Honoranda</del><add
+                <p xml:id="p.1">Generosa et Magnifica Domina,<note xml:id="note.1">Magdolna Székely
+                        of Ormosd (†1556) was the second wife of Elek Thurzó (1490–1543). She is
+                        noted for the love letter addressed to her in 1528, which is the first
+                        preserved Hungarian love letter, see <hi rend="smallcap">Szőke</hi>
+                        2014.</note> nobis <del corresp="Olahus">Honoranda</del><add
                         corresp="Olahus" type="corr">Honorandissima</add>, salutem et obsequiorum
                     nostrorum commendationem! </p>
-                <p xml:id="p.2">[1.] Accepimus hodie litteras<note type="critic" xml:id="note.2">We
-                        do not know this letter.</note> Dominae Vestrae una cum litteris adiunctis
-                    spectabilis et magnifici domini <persName>Ioannis a Prnstain</persName>,<note
-                        type="critic" xml:id="note.3">Johann III von Pernstein or Jan z Pernštejna
-                        (1487–1548) was Landeshauptmann of Moravia from 1515 to 1519 and 1526 to
-                        1528, and Governor of Moravia from 1530 to 1532. From 1537 to 1548, he was
-                        Count of Kłodzko. In 1544, he married Elek Thurzó’s widow, Magdolna Székely
-                        of Ormosd, see <hi rend="smallcap">Pálffy</hi> 2011, 80–82.</note> domini et
-                    mariti sui carissimi, quibus nos summopere rogant, ut mandatum novum
-                        <persName>maiestatis regiae</persName>, domini nostri clementissimi
-                    expediendum curaremus ad dominum <persName>Strigoniensem</persName>,<note
-                        type="critic" xml:id="note.4">Pál Várday.</note> quo causa castri
-                        <placeName>Baynochz</placeName><note type="critic" xml:id="note.5">Elek
-                        Thurzó received Bojnice Castle in 1527, see <hi rend="smallcap">Pálffy</hi>
-                        2011, 77.</note> et viginti octo millium Florenorum ad reditum maiestatis
-                    regiae differetur. Iam antea Dominae Vestrae Magnificae ac domino marito suo
-                    carissimo perscripsimus, nos in hoc negotio eorum eam, quam potuimus, apud
-                    maiestatem regiam operam <del corresp="Olahus">praestitimus</del><add
-                        corresp="Olahus" type="corr">praestitisse</add>. Ita ut non videatur opus
-                    novum mandatum ad dominum <persName>Strigoniensem</persName><note type="critic"
-                        xml:id="note.6">Pál Várday.</note> dare, nam tria mandata ad eum sunt, in
-                    hac causa differenda data. Primum mandatum misimus ad manus domini mariti sui ac
-                    Dominae Vestrae, secundum mandatum misimus per postham, quo mandabatur, ut tam
-                    ista causa castri Baynocz quam alia generalia iudicia festi beati Georgii<note
-                        type="critic" xml:id="note.7">24. April.</note> in aliud tempus differretur.
-                    Tertium et ultimum mandatum misimus similiter per postham ad dominum
-                        <persName>Strigoniensem</persName>, ante octavum ab hinc (ut arbitramur)
-                    diem, quo <del corresp="Olahus">mandatis</del><add corresp="Olahus" type="corr"
-                        >mando</add> propter certas et rationabiles <del corresp="Olahus">ex</del>
-                    causas animum maietatis suae moventes. Mandatum est eidem domino
-                        <persName>Strigoniensi</persName>, ut non modo generalia iudicia festi beati
-                    Georgii praeteriti, sed etiam brevia iudicia locumtenentiae suae, quae tertio
-                    die huius festi pentecostes incipere volebat, omnino ad alius tempus differat.
-                    Hoc idem autem significavit sua maiestas domino Michaeli quoque
-                        <persName>Merey</persName>,<note type="critic" xml:id="note.8">Mihály Mérey
+                <p xml:id="p.2">[1.] Accepimus hodie litteras<note xml:id="note.2">We do not know
+                        this letter.</note> Dominae Vestrae una cum litteris adiunctis spectabilis
+                    et magnifici domini <persName>Ioannis a Prnstain</persName>,<note
+                        xml:id="note.3">Johann III von Pernstein or Jan z Pernštejna (1487–1548) was
+                        Landeshauptmann of Moravia from 1515 to 1519 and 1526 to 1528, and Governor
+                        of Moravia from 1530 to 1532. From 1537 to 1548, he was Count of Kłodzko. In
+                        1544, he married Elek Thurzó’s widow, Magdolna Székely of Ormosd, see <hi
+                            rend="smallcap">Pálffy</hi> 2011, 80–82.</note> domini et mariti sui
+                    carissimi, quibus nos summopere rogant, ut mandatum novum <persName>maiestatis
+                        regiae</persName>, domini nostri clementissimi expediendum curaremus ad
+                    dominum <persName>Strigoniensem</persName>,<note xml:id="note.4">Pál
+                        Várday.</note> quo causa castri <placeName>Baynochz</placeName><note
+                        xml:id="note.5">Elek Thurzó received Bojnice Castle in 1527, see <hi
+                            rend="smallcap">Pálffy</hi> 2011, 77.</note> et viginti octo millium
+                    Florenorum ad reditum maiestatis regiae differetur. Iam antea Dominae Vestrae
+                    Magnificae ac domino marito suo carissimo perscripsimus, nos in hoc negotio
+                    eorum eam, quam potuimus, apud maiestatem regiam operam <del corresp="Olahus"
+                        >praestitimus</del><add corresp="Olahus" type="corr">praestitisse</add>. Ita
+                    ut non videatur opus novum mandatum ad dominum
+                        <persName>Strigoniensem</persName><note xml:id="note.6">Pál Várday.</note>
+                    dare, nam tria mandata ad eum sunt, in hac causa differenda data. Primum
+                    mandatum misimus ad manus domini mariti sui ac Dominae Vestrae, secundum
+                    mandatum misimus per postham, quo mandabatur, ut tam ista causa castri Baynocz
+                    quam alia generalia iudicia festi beati Georgii<note xml:id="note.7">24.
+                        April.</note> in aliud tempus differretur. Tertium et ultimum mandatum
+                    misimus similiter per postham ad dominum <persName>Strigoniensem</persName>,
+                    ante octavum ab hinc (ut arbitramur) diem, quo <del corresp="Olahus"
+                        >mandatis</del><add corresp="Olahus" type="corr">mando</add> propter certas
+                    et rationabiles <del corresp="Olahus">ex</del> causas animum maietatis suae
+                    moventes. Mandatum est eidem domino <persName>Strigoniensi</persName>, ut non
+                    modo generalia iudicia festi beati Georgii praeteriti, sed etiam brevia iudicia
+                    locumtenentiae suae, quae tertio die huius festi pentecostes incipere volebat,
+                    omnino ad alius tempus differat. Hoc idem autem significavit sua maiestas domino
+                    Michaeli quoque <persName>Merey</persName>,<note xml:id="note.8">Mihály Mérey
                         (†1572) was a Personalis between 1544 and 1562. From 1562 until his death,
                         he was a Deputy Palatine, see <hi rend="smallcap">Fallenbüchl</hi> 1988,
                         132.</note> personali praesentiae suae maiestatis etc. Quare non est
@@ -309,10 +306,9 @@
                         Domina Vestra Magnifica habet, poterit illuc ad suam maiestatem mittere vel
                         venire. Debellatis hostibus religionis et inoboedientibus, captoque duce
                         Saxone <add corresp="Olahus" type="insert"
-                            >alias</add><persName>electore</persName><note type="critic"
-                            xml:id="note.9">Maurice, Elector of
-                            Saxony.</note><placeName>Vittembergam</placeName> quoque civitatem,
-                        domicilium haereticorum occupamus. </add></p>
+                            >alias</add><persName>electore</persName><note xml:id="note.9">Maurice,
+                            Elector of Saxony.</note><placeName>Vittembergam</placeName> quoque
+                        civitatem, domicilium haereticorum occupamus. </add></p>
                 <p xml:id="p.5">
                     <seg type="signature">
                         <add corresp="Olahus" type="insert">Nicolaus Olahus Zagrabiensis

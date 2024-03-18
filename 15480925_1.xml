@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Kremnica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -232,11 +230,11 @@
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti, Domini et Amici Honorandi, salutem et
                     omne bonum! </p>
-                <p xml:id="p.2">Accepimus litteras Dominationum Vestrarum,<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> quibus nos flagitant, ut
-                    opportunitatem temporis ad <persName>regiam maiestatem</persName>, dominum
-                    nostrum clementissimum nuntios vestros mittendi, ne scilicet nimis cito, vel
-                    nimis sero mitterentur, eisdem significaremus. Sciant itaque nos apud eandem
+                <p xml:id="p.2">Accepimus litteras Dominationum Vestrarum,<note xml:id="note.1">We
+                        do not know this letter.</note> quibus nos flagitant, ut opportunitatem
+                    temporis ad <persName>regiam maiestatem</persName>, dominum nostrum
+                    clementissimum nuntios vestros mittendi, ne scilicet nimis cito, vel nimis sero
+                    mitterentur, eisdem significaremus. Sciant itaque nos apud eandem
                         <persName>regiam maiestatem</persName> pro nostra erga easdem propensa
                     benevolentia in eo nostram operam diligentem navasse, ac a sua maiestate hoc
                     accepisse responsum, quod sua maiestas nuntios earundem, quandocumque venerint,

@@ -223,7 +223,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -260,17 +259,17 @@
                     </choice> περὶ <choice>
                         <orig>το</orig>
                         <supplied>τοῦ</supplied>
-                    </choice> ὀλίγῳ οἴνῳ χρῷ.<note type="critic" xml:id="note.1">‘[John]
-                        Chrysostom’s sermon [on the sentence] “Use little wine”.’</note> Misissem
-                    antea, si quempiam fidum ad te profecturum tabellarium consequi potuissem. Cum
-                    sciam te cupere aliquid de <persName>Erasmo</persName> nostro intelligere, scito
-                    eum binas his diebus ad me dedisse litteras,<note type="critic" xml:id="note.2"
-                        >See Ep. 422. and Ep. 445. Oláh also mentions both of these letters in Ep.
-                            471.<ref>olahus.tei.15331107_1</ref></note><ref>/o:olahus.tei.15340123_1</ref><ref>/o:olahus.tei.15340312_1</ref>
+                    </choice> ὀλίγῳ οἴνῳ χρῷ.<note xml:id="note.1">‘[John] Chrysostom’s sermon [on
+                        the sentence] “Use little wine”.’</note> Misissem antea, si quempiam fidum
+                    ad te profecturum tabellarium consequi potuissem. Cum sciam te cupere aliquid de
+                        <persName>Erasmo</persName> nostro intelligere, scito eum binas his diebus
+                    ad me dedisse litteras,<note xml:id="note.2">See Ep. 422. and Ep. 445. Oláh also
+                        mentions both of these letters in Ep.
+                        471.<ref>olahus.tei.15331107_1</ref></note><ref>/o:olahus.tei.15340123_1</ref><ref>/o:olahus.tei.15340312_1</ref>
                     quarum alteris prius datis scribit se animum redeundi minime abiecisse, alteris
-                    posterius hoc<note type="critic" xml:id="note.3">Ep.
-                            445.<ref>olahus.tei.15340123_1</ref></note> est 23. Ianuarii scriptis,
-                    haec verba inserit: “Toties, Olahe mi, me repetit cruciatus ille membrorum, ut
+                    posterius hoc<note xml:id="note.3">Ep.
+                        445.<ref>olahus.tei.15340123_1</ref></note> est 23. Ianuarii scriptis, haec
+                    verba inserit: “Toties, Olahe mi, me repetit cruciatus ille membrorum, ut
                     nesciam, quid sperandum sit de hoc plus quam vitreo corpusculo. A natali Christi
                     gravissime laboravi, ac misere mihi metuo simul atque resolverit se hoc gelu.
                     Itaque condidi testamentum et excuditur liber meus de praeparatione ad mortem.

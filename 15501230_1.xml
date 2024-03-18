@@ -208,11 +208,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,12 +237,11 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Frater Observandissime,
                     servitiorum meorum commendationem! </p>
                 <p xml:id="p.2">Hoc biduo venit huc fama dominum <persName>comitem a
-                        Salm</persName><note type="critic" xml:id="note.1">Niklas von Salm.</note>
-                    post aliquanti temporis aegritudinem <placeName>Agriae</placeName><note
-                        type="critic" xml:id="note.2">Eger.</note> mortuum esse, corpore
-                        exesum.<note type="critic" xml:id="note.3">For a long time, Salm’s time of
-                        death was dated February 1550 in the literature, based on <hi
-                            rend="smallcap">Bergmann</hi> 1844, 228. He was buried on 15 January,
+                        Salm</persName><note xml:id="note.1">Niklas von Salm.</note> post aliquanti
+                    temporis aegritudinem <placeName>Agriae</placeName><note xml:id="note.2"
+                        >Eger.</note> mortuum esse, corpore exesum.<note xml:id="note.3">For a long
+                        time, Salm’s time of death was dated February 1550 in the literature, based
+                        on <hi rend="smallcap">Bergmann</hi> 1844, 228. He was buried on 15 January,
                         see Oppolitanus 1551. Based on this letter, news of his death arrived from
                         eger to Augsburg on 28 December, in other words, he must have died at the
                         beginning of December.</note> Doleo ex animo id hoc tempore contigisse, non
@@ -253,28 +250,26 @@
                         corresp="Olahus" type="insert">occulto Dei iudicio premamur, et ne</add>
                     pedum Sancti Adalberti eum pupugerit, et calice Sancti Ioannis impeditus fuerit.
                         <persName>Nadasdi</persName> non fuit ibi. Cupiebat pauper<note
-                        type="critic" xml:id="note.4">Sc. Niklas von Salm.</note> (ut paulo ante
-                    mortem ad me scripserat)<note type="critic" xml:id="note.5">We do not know this
-                        letter.</note> me ibi cum eo esse, et ego quoque certe id plurimum
-                    voluissem, sed fata restitere. Si eos comites habuisset, quos tempore
-                    occupationis <placeName>Agriae</placeName>, credo, quietori fuisset animo. Sed
-                    quid frustra de morte eius lacrimamur omnes nos, quoque idem manet finis, Deus
-                    animae illius misereatur. Si <placeName>Agriae</placeName> fuissem, extremum
-                    illi funus peregissem, et hoc, quod Christianus Christiano, episcopus mortuis
-                    debet, non praetermitto. </p>
+                        xml:id="note.4">Sc. Niklas von Salm.</note> (ut paulo ante mortem ad me
+                        scripserat)<note xml:id="note.5">We do not know this letter.</note> me ibi
+                    cum eo esse, et ego quoque certe id plurimum voluissem, sed fata restitere. Si
+                    eos comites habuisset, quos tempore occupationis <placeName>Agriae</placeName>,
+                    credo, quietori fuisset animo. Sed quid frustra de morte eius lacrimamur omnes
+                    nos, quoque idem manet finis, Deus animae illius misereatur. Si
+                        <placeName>Agriae</placeName> fuissem, extremum illi funus peregissem, et
+                    hoc, quod Christianus Christiano, episcopus mortuis debet, non praetermitto. </p>
                 <p xml:id="p.3">Nos adhuc hic haeremus. Exspectamus serenissimam
                         <persName>Mariam</persName> reginam <add corresp="Olahus" type="insert">hoc
                         biduo</add>, qua adveniente confectisque rebus credo nos non admodum diu hic
                     moraturos, sed post unum mensem <placeName>Wiennam</placeName> versus
-                        profecturos.<note type="critic" xml:id="note.6">They only leave for Vienna
-                        in March.</note> Imperator, regia maiestas, Maximilianus, Ferdinandus,
-                    princeps Hispaniarum, principes nostri clementissimi ex clementia Dei optime
-                        <milestone unit="pb"/>valent. Ego quoque mediocriter. Exspectabam ad binas
-                    aut ternas litteras meas a Dominatione Vestra responsum, sed hactenus nullum
-                    habui. Deus optimus maximus Dominationem Vestram cum domina
-                        <persName>coniuge</persName><note type="critic" xml:id="note.7">Orsolya
-                        Kanizsai.</note> sua carissima, domina mea observandissima felicem
-                    conservare dignetur.</p>
+                        profecturos.<note xml:id="note.6">They only leave for Vienna in
+                        March.</note> Imperator, regia maiestas, Maximilianus, Ferdinandus, princeps
+                    Hispaniarum, principes nostri clementissimi ex clementia Dei optime <milestone
+                        unit="pb"/>valent. Ego quoque mediocriter. Exspectabam ad binas aut ternas
+                    litteras meas a Dominatione Vestra responsum, sed hactenus nullum habui. Deus
+                    optimus maximus Dominationem Vestram cum domina
+                        <persName>coniuge</persName><note xml:id="note.7">Orsolya Kanizsai.</note>
+                    sua carissima, domina mea observandissima felicem conservare dignetur.</p>
                 <p xml:id="p.4">Ex <placeName>Augusta</placeName> 30. Decembris 1550.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Servitor et frater Agriensis etc. manu propria</seg>

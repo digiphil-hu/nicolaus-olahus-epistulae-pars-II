@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,33 +231,31 @@
                 <pb/>
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori Caroli caesaris. </p>
                 <p xml:id="p.2">Accepi his diebus tuas litteras XX. mensis Aprilis datas,<note
-                        type="critic" xml:id="note.1">Probably on 20 April, 1533. We do not know
-                        this letter.</note> habeo gratias tibi cumulatissimas, quod de omnibus, quas
-                    in hunc diem speravimus, et acta sunt, certiorem me reddideris. Fac hoc et
-                    deinceps. De reditu oratorum<note type="critic" xml:id="note.2">On the legates
-                        see Ep. 449.<ref>olahus.tei.15340208_1</ref></note> ex
-                        <placeName>Hamburga</placeName> et eorum tractatibus feci<note type="critic"
+                        xml:id="note.1">Probably on 20 April, 1533. We do not know this
+                        letter.</note> habeo gratias tibi cumulatissimas, quod de omnibus, quas in
+                    hunc diem speravimus, et acta sunt, certiorem me reddideris. Fac hoc et
+                    deinceps. De reditu oratorum<note xml:id="note.2">On the legates see Ep.
+                            449.<ref>olahus.tei.15340208_1</ref></note> ex
+                        <placeName>Hamburga</placeName> et eorum tractatibus feci<note
                         xml:id="note.3">Ep. 456.<ref>olahus.tei.15340217_2</ref></note> te proximis
                     meis certiorem; hoc unum ex corde doleo, non datum eis esse tempus et
                     occasionem, ut in rebus tuis aliquid aut tractare aut finire possent. Sed hae
                     fortasse ex Dei voluntate reservatae sunt ad tempus magis opportunum. In
                         <placeName>Daniam</placeName> misit <persName>regina</persName> secretarium
                     quendam, ut animos illorum praeparet in electionem <milestone unit="pb"/>regis
-                    pro favore imperatoris. Ad festum sancti Ioannis Baptistae<note type="critic"
-                        xml:id="note.4">24 June.</note> fiet electio. Mittentur hinc ad eum diem et
-                    alii potiores. Utinam ille sit futurus rex, de quo scribis. Nihil esset dubii in
-                    rebus tuis. </p>
+                    pro favore imperatoris. Ad festum sancti Ioannis Baptistae<note xml:id="note.4"
+                        >24 June.</note> fiet electio. Mittentur hinc ad eum diem et alii potiores.
+                    Utinam ille sit futurus rex, de quo scribis. Nihil esset dubii in rebus tuis. </p>
                 <p xml:id="p.3">De rebus Virtenbergensibus cum summo animi mei dolore audivi.
                         <persName>Rex</persName> curare debet, ut victor evadat. Nam si aliter alea
                     fortunae, quod Deus longe avertat, ceciderit, turbabitur aestimatio regis et res
-                    Hungarica. Vereor, ne <persName>Griti</persName><note type="critic"
-                        xml:id="note.5">Lodovico Gritti.</note> tarditas aliquid mali afferat et
-                    timeo, ne rex et nos omnes fallamur. Litteras <persName>Cornelii</persName><note
-                        type="critic" xml:id="note.6">Cornelis de Schepper.</note> misi ad
-                        <persName>uxorem</persName>,<note type="critic" xml:id="note.7">Anna
-                        Isabella (Elizabeth) Donche.</note> nunc remitto illius ad eum. Rogo te, ut
-                    de rebus, ut istic processerint et ut transigentur, et an veniat
-                        <persName>Griti</persName>, facias me certiorem. Vale. </p>
+                    Hungarica. Vereor, ne <persName>Griti</persName><note xml:id="note.5">Lodovico
+                        Gritti.</note> tarditas aliquid mali afferat et timeo, ne rex et nos omnes
+                    fallamur. Litteras <persName>Cornelii</persName><note xml:id="note.6">Cornelis
+                        de Schepper.</note> misi ad <persName>uxorem</persName>,<note
+                        xml:id="note.7">Anna Isabella (Elizabeth) Donche.</note> nunc remitto illius
+                    ad eum. Rogo te, ut de rebus, ut istic processerint et ut transigentur, et an
+                    veniat <persName>Griti</persName>, facias me certiorem. Vale. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> 10. Martii 1534.</p>
             </div>
         </body>

@@ -234,11 +234,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Erasmus of Rotterdam<idno type="ITIdata">Q470238</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -273,15 +271,15 @@
                 <p xml:id="p.1">Nicolai Olai secretarii reginae Mariae ad Erasmum Roterodamum
                     responsio. </p>
                 <p xml:id="p.2">[1.] Binas tuas his diebus accepi litteras, Erasme Doctissime
-                    mihique Carissime. Alteras, quae prius datae<note type="critic" xml:id="note.1"
-                        >Ep. 422.<ref>olahus.tei.15331107_1</ref></note> erant, ab <persName>Viglio
-                        Schuichemio</persName><note type="critic" xml:id="note.2">Wigle Aytta or
-                        Viglius Zuichemus.</note></p>
+                    mihique Carissime. Alteras, quae prius datae<note xml:id="note.1">Ep.
+                            422.<ref>olahus.tei.15331107_1</ref></note> erant, ab <persName>Viglio
+                        Schuichemio</persName><note xml:id="note.2">Wigle Aytta or Viglius
+                        Zuichemus.</note></p>
                 <pb/>
                 <p xml:id="p.3">tardius, alteras <choice>
                         <orig><gap extent="1" reason="damage" unit="word"/></orig>
                         <supplied><corr>quas</corr></supplied>
-                    </choice> posterius scriptas,<note type="critic" xml:id="note.3">Ep.
+                    </choice> posterius scriptas,<note xml:id="note.3">Ep.
                             445.<ref>olahus.tei.15340123_1</ref></note> cum aliis litteris una
                     annexis opera <persName>Erasmi Scheti</persName> prius recepi. Commendas <del
                         corresp="Olahus">precibus</del><add corresp="Olahus" type="corr"
@@ -290,65 +288,61 @@
                     ut ipsius et notitiam et familiaritatem magni aestimem. Cui meam, si qua in re
                     illi usus eveniet, operam et studium liberaliter sum pollicitus, eaque pro mea
                     virili re ipsa praestabo, dum uti his voluerit. </p>
-                <p xml:id="p.4">Scribis<note type="critic" xml:id="note.4">Ep. 422. Cap.
+                <p xml:id="p.4">Scribis<note xml:id="note.4">Ep. 422. Cap.
                             2.<ref>olahus.tei.15331107_1</ref></note> rumorem apud vos esse
-                        <persName>regem Angliae</persName><note type="critic" xml:id="note.5">King
-                        Henry VIII.</note><persName>reginam Catharinam</persName><note type="critic"
-                        xml:id="note.6">Catherine of Aragon.</note> reduxisse, utinam id ita esset.
-                    Verum nihil minus <persName>rex</persName> ipse quam hoc cogitat. <del
-                        corresp="Olahus">Ita</del><add corresp="Olahus" type="corr">Nam</add> ob
-                    amorem <persName>Annae</persName><note type="critic" xml:id="note.7">Anne
-                        Boleyn.</note> suae et quod <persName>pontificis</persName><note
-                        type="critic" xml:id="note.8">Pope Clement VII.</note> excommunicatione
-                    irritatus <del corresp="Olahus">est</del><add corresp="Olahus" type="corr"
-                        >sit</add>, <persName>reginam</persName> ipsam in arcem quandam inclusit cum
-                    quibusdam pauculis ministris. <persName>Pontificis</persName> autem authoritatem
-                    adeo contempsit, ut indies diversi contra illum volent ad nos ex
-                        <placeName>Anglia</placeName> libelli famosi,<note type="critic"
-                        xml:id="note.9">See Ep. 462. Cap. 1.<ref>olahus.tei.15340304_1</ref></note>
-                    iniurosi et contumeliis gravissimis pleni, quibus Christi humilitatem,
-                    castitatem, paupertatem, patientiam et alias virtutes Angli depraedicant. Papae
-                    vero vicarii Christi superbiam, impuritatem, opes, tyrannidem, impatientiam,
-                    aliaque nefanda ob oculos ponunt. Vetuisse praeterea his diebus rex dicitur, ne
-                    in precationibus et supplicationibus ecclesiae, uti hactenus solitum fuit,
-                    preces pro pontifice fierent, monasteria distribuisse suis baronibus, quibus
-                    demolitis uterentur suo arbitrio; edixisse deinde, ne quis pontificem ipsum
-                    recogniscat, aliumque putet, quam solius Romae episcopum, dicuntur etiam tres
-                    aut quattuor illius principes repudiatis eius exemplo suis coniugibus legitimis
-                    alias duxisse in matrimonium. Videntur iam hi, si res ita se habet, et
-                        <persName>Martinum</persName><note type="critic" xml:id="note.10">Martin
-                        Luther.</note> ipsum longe superasse, qui more <del corresp="Olahus"
-                        >Brabantorum</del><add corresp="Olahus" type="corr">barbarorum
-                        gentilium</add> toties mutent uxores, quoties libido nos stimulaverit. Quid
-                    adhuc sequatur, incertum est. Nihil boni ex rebus male inceptis sperare
-                    possumus. </p>
-                <p xml:id="p.5">[2.] Alteris tuis litteris<note type="critic" xml:id="note.11">Ep.
-                        445. Cap. 1.<ref>olahus.tei.15340123_1</ref></note> significas te a natali
-                    Christi male valuisse. Ingrata mihi est tua valetudo. Optarem illius partem, si
-                    partitio fieri posset, aliquam libenter in me suscipere, modo tibi prodesse
-                    tuosque dolores minuere possem. At spero iam te Deo adiuvante optimo maximo cum
-                    hyeme et hoc Martio nunc <del corresp="editor">nunc</del> finiendo, omnes
-                    corporis cruciatus in malam <del corresp="Olahus">eorum</del> crucem
-                    ablegaturum. </p>
+                        <persName>regem Angliae</persName><note xml:id="note.5">King Henry
+                        VIII.</note><persName>reginam Catharinam</persName><note xml:id="note.6"
+                        >Catherine of Aragon.</note> reduxisse, utinam id ita esset. Verum nihil
+                    minus <persName>rex</persName> ipse quam hoc cogitat. <del corresp="Olahus"
+                        >Ita</del><add corresp="Olahus" type="corr">Nam</add> ob amorem
+                        <persName>Annae</persName><note xml:id="note.7">Anne Boleyn.</note> suae et
+                    quod <persName>pontificis</persName><note xml:id="note.8">Pope Clement
+                        VII.</note> excommunicatione irritatus <del corresp="Olahus">est</del><add
+                        corresp="Olahus" type="corr">sit</add>, <persName>reginam</persName> ipsam
+                    in arcem quandam inclusit cum quibusdam pauculis ministris.
+                        <persName>Pontificis</persName> autem authoritatem adeo contempsit, ut
+                    indies diversi contra illum volent ad nos ex <placeName>Anglia</placeName>
+                    libelli famosi,<note xml:id="note.9">See Ep. 462. Cap.
+                            1.<ref>olahus.tei.15340304_1</ref></note> iniurosi et contumeliis
+                    gravissimis pleni, quibus Christi humilitatem, castitatem, paupertatem,
+                    patientiam et alias virtutes Angli depraedicant. Papae vero vicarii Christi
+                    superbiam, impuritatem, opes, tyrannidem, impatientiam, aliaque nefanda ob
+                    oculos ponunt. Vetuisse praeterea his diebus rex dicitur, ne in precationibus et
+                    supplicationibus ecclesiae, uti hactenus solitum fuit, preces pro pontifice
+                    fierent, monasteria distribuisse suis baronibus, quibus demolitis uterentur suo
+                    arbitrio; edixisse deinde, ne quis pontificem ipsum recogniscat, aliumque putet,
+                    quam solius Romae episcopum, dicuntur etiam tres aut quattuor illius principes
+                    repudiatis eius exemplo suis coniugibus legitimis alias duxisse in matrimonium.
+                    Videntur iam hi, si res ita se habet, et <persName>Martinum</persName><note
+                        xml:id="note.10">Martin Luther.</note> ipsum longe superasse, qui more <del
+                        corresp="Olahus">Brabantorum</del><add corresp="Olahus" type="corr"
+                        >barbarorum gentilium</add> toties mutent uxores, quoties libido nos
+                    stimulaverit. Quid adhuc sequatur, incertum est. Nihil boni ex rebus male
+                    inceptis sperare possumus. </p>
+                <p xml:id="p.5">[2.] Alteris tuis litteris<note xml:id="note.11">Ep. 445. Cap.
+                            1.<ref>olahus.tei.15340123_1</ref></note> significas te a natali Christi
+                    male valuisse. Ingrata mihi est tua valetudo. Optarem illius partem, si partitio
+                    fieri posset, aliquam libenter in me suscipere, modo tibi prodesse tuosque
+                    dolores minuere possem. At spero iam te Deo adiuvante optimo maximo cum hyeme et
+                    hoc Martio nunc <del corresp="editor">nunc</del> finiendo, omnes corporis
+                    cruciatus in malam <del corresp="Olahus">eorum</del> crucem ablegaturum. </p>
                 <pb/>
-                <p xml:id="p.6">De <persName>scurra</persName><note type="critic" xml:id="note.12"
-                        >Nikolaus Ferber of Herborn.</note> illo et libello eius
-                        <placeName>Antverpiae</placeName> impresso egi cum regina,
-                        <persName>Panormitano</persName>,<note type="critic" xml:id="note.13">Jean
-                        II Carondelet.</note> cui et litteras tuas reddidi<note type="critic"
+                <p xml:id="p.6">De <persName>scurra</persName><note xml:id="note.12">Nikolaus Ferber
+                        of Herborn.</note> illo et libello eius <placeName>Antverpiae</placeName>
+                    impresso egi cum regina, <persName>Panormitano</persName>,<note xml:id="note.13"
+                        >Jean II Carondelet.</note> cui et litteras tuas reddidi<note
                         xml:id="note.14">See Erasmus’ letter, Ep. 2899. in <hi rend="smallcap"
                             >Allen</hi> 1941, 349–350.</note> et <persName>duce
-                        Arscoti</persName>.<note type="critic" xml:id="note.15">Philippe II de
-                        Croÿ.</note> Curavi, ut regina <persName>marchioni
-                        Antverpiensi</persName><note type="critic" xml:id="note.16">William van den
-                        Werwe held this office between 1531–1550, see <hi rend="smallcap">Allen</hi>
-                        1941, 364.</note> mandaret, quo libellus ille, si iam impressus est, non
-                    vendatur <add corresp="Olahus" type="insert">et <choice>
+                        Arscoti</persName>.<note xml:id="note.15">Philippe II de Croÿ.</note>
+                    Curavi, ut regina <persName>marchioni Antverpiensi</persName><note
+                        xml:id="note.16">William van den Werwe held this office between 1531–1550,
+                        see <hi rend="smallcap">Allen</hi> 1941, 364.</note> mandaret, quo libellus
+                    ille, si iam impressus est, non vendatur <add corresp="Olahus" type="insert">et <choice>
                             <orig>ὁ βιβλιόπολης</orig>
                             <supplied>ὁ βιβλιόπώλης</supplied>
-                        </choice><note type="critic" xml:id="note.17">‘bookseller’.</note>
-                        puniatur</add> propter mandatum caesaris violatum. Quod quale sit,
-                    intelliges ex litteris <persName>Panormitani</persName>; quibus autem verbis
+                        </choice><note xml:id="note.17">‘bookseller’.</note> puniatur</add> propter
+                    mandatum caesaris violatum. Quod quale sit, intelliges ex litteris
+                        <persName>Panormitani</persName>; quibus autem verbis
                         <persName>marchioni</persName> mandatum sit ex litterarum exemplo, quod ad
                     te misi, cognosces. Non igitur talium rabularum, scurrarum et hominum
                     impudentium aut verba aut scripta te moveant! Qui his coaxationibus sibi magis,
@@ -373,9 +367,9 @@
                     opinionem, qui pro eo amore, quo in te sum, ea quae et potui et debui in rebus
                     tuis semper feci animo sincero et in te candidissimo. Quae malo te ex aliorum
                     litteris aut cum tempore sermonibus, quam ex meis intelligere. </p>
-                <p xml:id="p.8"><persName>Levinum</persName><note type="critic" xml:id="note.18"
-                        >Probably Lieven Algoet.</note> mihi commendas. Eius utor opera, dum et
-                    quoties est opus. Curaveram antea, ut in singulos dies octo grossos haberet </p>
+                <p xml:id="p.8"><persName>Levinum</persName><note xml:id="note.18">Probably Lieven
+                        Algoet.</note> mihi commendas. Eius utor opera, dum et quoties est opus.
+                    Curaveram antea, ut in singulos dies octo grossos haberet </p>
                 <pb/>
                 <p xml:id="p.9">ex camera, nunc rursus curavi, ut iuvenes reginae nobiles instituat,
                     ex quo ministerio totidem habet <del corresp="Olahus">grossos</del> diurnos.

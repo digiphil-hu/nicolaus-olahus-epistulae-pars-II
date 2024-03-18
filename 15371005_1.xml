@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,57 +244,55 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Etsi nihil litterarum ad me attulit
-                        <persName>Ludolphus</persName><note type="critic" xml:id="note.1">He was
-                        probably a protégé of Oláh, see <hi rend="smallcap">Polet</hi> 1936,
-                        259.</note> noster, qui huc cum <persName>fratre</persName><note
-                        type="critic" xml:id="note.2">See Ep. 590. Cap.
-                            2.<ref>olahus.tei.15370928_1</ref></note><persName>Rutgeri</persName><note
-                        type="critic" xml:id="note.3">Rutger Pathius.</note> venit, tamen quia mihi
-                        <milestone unit="pb"/>te recte valere nuntiavit, multisque negotiis
-                    impeditum esse, cur minus scriberes, statui mollius mihi ferendum esse
-                    desiderium tuarum litterarum, quod tum lenies, ubi tua negotia permiserint. Nos
-                    cum medicis diu luctati sumus adversus lippitudinem,<note type="critic"
-                        xml:id="note.4">See Ep. 583.<ref>olahus.tei.15370310_1</ref></note> quam
-                    tamen in hoc genere mali rectius ὀφθαλμίαν<note type="critic" xml:id="note.5"
-                        >‘eye disease’.</note> vocavero. Duo summi poetae sua vitia in me
-                    exonerarunt: <persName>Vergilius</persName> capitis dolorem,
-                        <persName>Horatius</persName> lippitudinem, mallem potius virtutes
+                        <persName>Ludolphus</persName><note xml:id="note.1">He was probably a
+                        protégé of Oláh, see <hi rend="smallcap">Polet</hi> 1936, 259.</note>
+                    noster, qui huc cum <persName>fratre</persName><note xml:id="note.2">See Ep.
+                        590. Cap.
+                        2.<ref>olahus.tei.15370928_1</ref></note><persName>Rutgeri</persName><note
+                        xml:id="note.3">Rutger Pathius.</note> venit, tamen quia mihi <milestone
+                        unit="pb"/>te recte valere nuntiavit, multisque negotiis impeditum esse, cur
+                    minus scriberes, statui mollius mihi ferendum esse desiderium tuarum litterarum,
+                    quod tum lenies, ubi tua negotia permiserint. Nos cum medicis diu luctati sumus
+                    adversus lippitudinem,<note xml:id="note.4">See Ep.
+                            583.<ref>olahus.tei.15370310_1</ref></note> quam tamen in hoc genere
+                    mali rectius ὀφθαλμίαν<note xml:id="note.5">‘eye disease’.</note> vocavero. Duo
+                    summi poetae sua vitia in me exonerarunt: <persName>Vergilius</persName> capitis
+                    dolorem, <persName>Horatius</persName> lippitudinem, mallem potius virtutes
                     transtulissent ἀλλὰ τὰ παρόντα <choice>
                         <orig>ἐὐ</orig>
                         <supplied>εὖ</supplied>
-                    </choice> τίθεσθαι δεῖ.<note type="critic" xml:id="note.6">‘but the current
-                        things have to be settled’.</note> Ego
+                    </choice> τίθεσθαι δεῖ.<note xml:id="note.6">‘but the current things have to be
+                        settled’.</note> Ego
                         <persName>fratrem</persName><persName>Rutgeri</persName> tui in
-                        ὁμοτράπεζον<note type="critic" xml:id="note.7">‘convivial fellow’.</note>
-                    accepi, quamquam alendi negotium in <persName>fratrem meum</persName><note
-                        type="critic" xml:id="note.8">We do not know his name, but according to
-                        Nanninck, he later entered the service of Emperor Charles V and settled in
-                        Ghent. Nanninck reports in 1548 that his brother had been the victim of a
-                        night attack at the Imperial Court and killed one of his assailants but he
-                        was released thanks to the intercession of his powerful friends and the
-                        Hague Senate, see <hi rend="smallcap">Polet</hi> 1936, 3.</note> transtuli,
-                    docendi mihi reservavi, ita inter nos cura et lucrum partitur; is, ut est
-                    sollicitus, praesertim in nova familia rogavit ex me, numquid periculi in
-                    posterum foret de solutione; respondi omnia secura esse. Talem esse
-                        <persName>Rutgerum</persName>, et in tanta gratia apud reginam, ut nihil
-                    tale de eo metuendum sit, deinde tui apud eum tanta reverentia, ut etiam si
-                    talis non esset, qualis quam maxime est, te tamen salvo, nunquam illum ausurum
-                    solutionem differre, tantum abesse, ut omitteret, deinde ipsum iuvenem verbis
-                    tuis mihi commendatum, idque me scire ex litteris
-                        <persName>Dani</persName>,<note type="critic" xml:id="note.9">Jakob
-                        Jespersen.</note> si modo ea scripsit ex tuo mandato. Nolim tamen has
-                    fratris mei haesitationes <persName>Rutgero</persName> indices, scio enim eum
-                    stulta sollicitudine moveri, teque mihi ultro indicaturum, si quid in hoc nomine
-                    periculi esset, quod ego nullum omnino arbitror. </p>
+                        ὁμοτράπεζον<note xml:id="note.7">‘convivial fellow’.</note> accepi, quamquam
+                    alendi negotium in <persName>fratrem meum</persName><note xml:id="note.8">We do
+                        not know his name, but according to Nanninck, he later entered the service
+                        of Emperor Charles V and settled in Ghent. Nanninck reports in 1548 that his
+                        brother had been the victim of a night attack at the Imperial Court and
+                        killed one of his assailants but he was released thanks to the intercession
+                        of his powerful friends and the Hague Senate, see <hi rend="smallcap"
+                            >Polet</hi> 1936, 3.</note> transtuli, docendi mihi reservavi, ita inter
+                    nos cura et lucrum partitur; is, ut est sollicitus, praesertim in nova familia
+                    rogavit ex me, numquid periculi in posterum foret de solutione; respondi omnia
+                    secura esse. Talem esse <persName>Rutgerum</persName>, et in tanta gratia apud
+                    reginam, ut nihil tale de eo metuendum sit, deinde tui apud eum tanta
+                    reverentia, ut etiam si talis non esset, qualis quam maxime est, te tamen salvo,
+                    nunquam illum ausurum solutionem differre, tantum abesse, ut omitteret, deinde
+                    ipsum iuvenem verbis tuis mihi commendatum, idque me scire ex litteris
+                        <persName>Dani</persName>,<note xml:id="note.9">Jakob Jespersen.</note> si
+                    modo ea scripsit ex tuo mandato. Nolim tamen has fratris mei haesitationes
+                        <persName>Rutgero</persName> indices, scio enim eum stulta sollicitudine
+                    moveri, teque mihi ultro indicaturum, si quid in hoc nomine periculi esset, quod
+                    ego nullum omnino arbitror. </p>
                 <p xml:id="p.3">Nos maluimus pauca, quam nihil scribere, ne aut opportunitate
                         <milestone unit="pb"/>tabellarii non uterer, aut loquacitate tuas hoc
                     tempore gravissimas occupationes accumularem, deinde luctus, in quo nunc sum,
-                    amisi enim unicam <persName>sororem</persName>,<note type="critic"
-                        xml:id="note.10">Marguerite, wife of Jordan van Foreest, died in September
-                        1537, see <hi rend="smallcap">Polet</hi> 1936, 3.</note> vix mihi permittit
-                    ullum usum litterarum, cuius causa brevi in <placeName>Hollandiam</placeName>
-                    propero. Tu, mi Unice et Doctissime et Humanissime Patrone, diu nobis studiisque
-                    feliciter vivas. </p>
+                    amisi enim unicam <persName>sororem</persName>,<note xml:id="note.10"
+                        >Marguerite, wife of Jordan van Foreest, died in September 1537, see <hi
+                            rend="smallcap">Polet</hi> 1936, 3.</note> vix mihi permittit ullum usum
+                    litterarum, cuius causa brevi in <placeName>Hollandiam</placeName> propero. Tu,
+                    mi Unice et Doctissime et Humanissime Patrone, diu nobis studiisque feliciter
+                    vivas. </p>
                 <p xml:id="p.4">3. Nonas Octobres 1537.</p>
             </div>
         </body>

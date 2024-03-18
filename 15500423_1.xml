@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>[Miklós Oláh]<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -259,9 +257,9 @@
                     quod quantum attinet ad restantias denariorum decem Reverendissimae Dominationis
                     Vestrae debitas et ad eam partem salarii, quae eidem de anno praterito solvenda
                     restat, nos paratos esse, tam de his, quam de alia media parte queri pro
-                    praesenti anno debetur, ad diem Divi Urbani proxime futurum<note type="critic"
-                        xml:id="note.1">25 May.</note> contentam reddere. Sicut nos quid coram
-                    facturos obtulimus, et eidem etiam in scriptis exhibuimus. </p>
+                    praesenti anno debetur, ad diem Divi Urbani proxime futurum<note xml:id="note.1"
+                        >25 May.</note> contentam reddere. Sicut nos quid coram facturos obtulimus,
+                    et eidem etiam in scriptis exhibuimus. </p>
                 <p xml:id="p.3">[2.] Curabimus praeterea <del corresp="author">pro eodem
                         tempore</del> Reverendissimae Dominationi Vestrae persolvi reliquam partem
                     arendae decimarum comitatus Saros, et duorum districtuum comitatus Beregh,
@@ -276,23 +274,22 @@
                     conditione, ut si Reverendissima Dominatio Vestra perfecerit, ut reddantur ea,
                     quae alii perceperunt, nos Reverendissimae Dominationi Vestrae, quod reliquum
                     est usque ad completionem octingentorum Florenorum solvere teneamur. Decimas
-                    vero duorum districtuum <placeName>Wary</placeName><note type="critic"
-                        xml:id="note.2">Vary.</note> et <placeName>Kazzon</placeName><note
-                        type="critic" xml:id="note.3">Koson.</note> in comitatu de Beregh, quae
-                    consueverunt arendari Florenorum septingentis et triginta sex, integre
-                    persolvemus, et tamen etiam lege, ut Reverendissima Dominatio Vestra curet eam
-                    partem, quam dominus <persName>Andreas Bathory</persName> de eisdem decimis
-                    percepit restitui. Ad haec accedunt decimae civitatuum
-                        <placeName>Eperies</placeName>, <placeName>Bartpha</placeName> et
-                        <placeName>Lebyn</placeName>,<note type="critic" xml:id="note.4">Instead of
-                        Zebyn. Today: Sabinov.</note> quorum arenda ad rationem regiae maiestatis
-                    percepta facit Florenorum ducentos et quindecim. Facit itaque summa arendae
-                    dictarum decimarum modo praescripto Florenorum mille quingentos et duos. In quam
-                    rationem cum soluti sint antea Reverendissimae Dominationi Vestrae Floreni
-                    mille, restant Florenorum quingenti et duo, quos <del corresp="author">ut supra
-                        dictum est</del> cum aliis solutionibus <del corresp="author">ad praedictum
-                        diem Divi Urbani</del> Reverendissimae Dominationi Vestrae omnino curabimus
-                    expediri. </p>
+                    vero duorum districtuum <placeName>Wary</placeName><note xml:id="note.2"
+                        >Vary.</note> et <placeName>Kazzon</placeName><note xml:id="note.3"
+                        >Koson.</note> in comitatu de Beregh, quae consueverunt arendari Florenorum
+                    septingentis et triginta sex, integre persolvemus, et tamen etiam lege, ut
+                    Reverendissima Dominatio Vestra curet eam partem, quam dominus <persName>Andreas
+                        Bathory</persName> de eisdem decimis percepit restitui. Ad haec accedunt
+                    decimae civitatuum <placeName>Eperies</placeName>,
+                        <placeName>Bartpha</placeName> et <placeName>Lebyn</placeName>,<note
+                        xml:id="note.4">Instead of Zebyn. Today: Sabinov.</note> quorum arenda ad
+                    rationem regiae maiestatis percepta facit Florenorum ducentos et quindecim.
+                    Facit itaque summa arendae dictarum decimarum modo praescripto Florenorum mille
+                    quingentos et duos. In quam rationem cum soluti sint antea Reverendissimae
+                    Dominationi Vestrae Floreni mille, restant Florenorum quingenti et duo, quos
+                        <del corresp="author">ut supra dictum est</del> cum aliis solutionibus <del
+                        corresp="author">ad praedictum diem Divi Urbani</del> Reverendissimae
+                    Dominationi Vestrae omnino curabimus expediri. </p>
                 <p xml:id="p.4">[3.] Quantum vero pertinet ad eam partem proventuum episcopatus
                     Agriensis, quam sibi Reverendissima Dominatio Vestra a die occupationis arcis
                     Agriensis reddi petit, nos quidem minime gravate in <choice>

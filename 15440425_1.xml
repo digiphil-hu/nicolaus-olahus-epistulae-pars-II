@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,26 +234,26 @@
                 <pb/>
                 <p xml:id="p.1">Salutem et mei commendationem, Magnifice Domine Amice, et Frater
                     Observandissime! </p>
-                <p xml:id="p.2">Litteras<note type="critic" xml:id="note.1">We do not know this
-                        letter.</note> Dominationis Vestrae accepi. Quantum in me erit, experietur
-                    Dominatio Vestra re ipsa meam et commendationem et operam apud
-                        <persName>maiestatem regiam</persName>, dominum nostrum clementissimum eidem
-                    non defuturam, quandocumque occasio se praestiterit.<note type="critic"
-                        xml:id="note.2">See Ep. 642.<ref>olahus.tei.15440121_1</ref></note> De
-                    benevolentia Dominationis Vestrae in decimis meis restituendis inter omnes alios
-                    diligenter praestita habeo eidem gratias maximas, omni obsequio et officio
-                    fraternitatis Dominationis Vestrae eam cumulate rependam. Rogo, curet <del
-                        corresp="Olahus">et</del> apud alios et per se faciat, ut hae ipsae decimae
-                    mihi restituantur, non in meum magis usum, quam arcium ecclesiae et mearum, in
-                    quibus, uti scit Dominatio Vestra, salus non minima regni Sclavoniae pendet.
-                    Litteras ad <persName>Albertum praepositum</persName><note type="critic"
-                        xml:id="note.3">Albert Peregi.</note> expedivi pro restitutione salarii
-                    Dominationis Vestrae, sed <persName>maiestas regia</persName> cupit, ut eadem
-                    inter alios consiliarios <placeName>Posonii</placeName> sit. Litteras ipsas
-                    mitto cum praesentibus ad Dominationem Vestram Magnificam. In aliis etiam rebus,
-                    in quibus existimavero me honori et ornamento Dominationi Vestrae obsequi posse,
-                    meam ab eo operam desiderari non patiar. Nova, quae hic sunt, credo dominum
-                        <persName>Franciscum</persName>,<note type="critic" xml:id="note.4">Ferenc
+                <p xml:id="p.2">Litteras<note xml:id="note.1">We do not know this letter.</note>
+                    Dominationis Vestrae accepi. Quantum in me erit, experietur Dominatio Vestra re
+                    ipsa meam et commendationem et operam apud <persName>maiestatem
+                        regiam</persName>, dominum nostrum clementissimum eidem non defuturam,
+                    quandocumque occasio se praestiterit.<note xml:id="note.2">See Ep.
+                            642.<ref>olahus.tei.15440121_1</ref></note> De benevolentia Dominationis
+                    Vestrae in decimis meis restituendis inter omnes alios diligenter praestita
+                    habeo eidem gratias maximas, omni obsequio et officio fraternitatis Dominationis
+                    Vestrae eam cumulate rependam. Rogo, curet <del corresp="Olahus">et</del> apud
+                    alios et per se faciat, ut hae ipsae decimae mihi restituantur, non in meum
+                    magis usum, quam arcium ecclesiae et mearum, in quibus, uti scit Dominatio
+                    Vestra, salus non minima regni Sclavoniae pendet. Litteras ad <persName>Albertum
+                        praepositum</persName><note xml:id="note.3">Albert Peregi.</note> expedivi
+                    pro restitutione salarii Dominationis Vestrae, sed <persName>maiestas
+                        regia</persName> cupit, ut eadem inter alios consiliarios
+                        <placeName>Posonii</placeName> sit. Litteras ipsas mitto cum praesentibus ad
+                    Dominationem Vestram Magnificam. In aliis etiam rebus, in quibus existimavero me
+                    honori et ornamento Dominationi Vestrae obsequi posse, meam ab eo operam
+                    desiderari non patiar. Nova, quae hic sunt, credo dominum
+                        <persName>Franciscum</persName>,<note xml:id="note.4">Ferenc
                         Batthyány.</note> fratrem suum Dominationi Vestrae perscripturum. In rebus
                     monasteriorum faciat Dominatio Vestra bonum responsum, quae valeat feliciter
                     meque habeat commendatum.</p>

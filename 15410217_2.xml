@@ -5,9 +5,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="num">615</title>
-                <title key="body" n="615" type="main">Miklós Oláh, Bartholomäus Haller von
-                    Hallerstain and János Dubraviczky to Banská Bystrica Town Council (Kremnica, 17
-                    February 1541)</title>
+                <title key="body" n="615" type="main">Miklós Oláh, Bartholomäus Haller and János
+                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 17 February 1541)</title>
             </titleStmt>
             <editionStmt>
                 <edition>Digital critical edition</edition>
@@ -215,14 +214,12 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Bartholomäus Haller von Hallerstein<idno type="ITIdata"
                         >Q470935</idno></persName>
                     <persName>János Dubraviczky</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Bystrica Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -231,8 +228,8 @@
     <text>
         <body>
             <div style="handwritten" type="letter" xml:id="d.1">
-                <head type="title">Miklós Oláh, Bartholomäus Haller von Hallerstain and János
-                    Dubraviczky to Banská Bystrica Town Council (Kremnica, 17 February 1541)</head>
+                <head type="title">Miklós Oláh, Bartholomäus Haller and János Dubraviczky to Banská
+                    Bystrica Town Council (Kremnica, 17 February 1541)</head>
                 <floatingText type="regesta">
                     <body>
                         <p xml:id="reg.p.1">They say at Queen Mary’s order that they should make
@@ -247,12 +244,11 @@
                 <p xml:id="p.1">Namhafft, ersam unnd weiß lieb hern unnd freundt, unnser freundlich
                     diennst sein euch zuvor! </p>
                 <p xml:id="p.2">Unns hat unnser <persName>genedigiste fraw</persName><note
-                        type="critic" xml:id="note.1">Queen Mary.</note> bevolhen, euch zu sagen,
-                    das ir <persName>Jeorg Rockelfinger</persName>,<note type="critic"
-                        xml:id="note.2">Georg Rockelfinger. We only know one document on him, his
-                        father’s last will from 1536, see <hi rend="smallcap"
-                            >Meier–Piirainen–Wegera</hi> 2009, 256.</note> ir mt.<note type="critic"
-                        xml:id="note.3">I.e. ihrer Majestät.</note> kuchenmaister, umb sein
+                        xml:id="note.1">Queen Mary.</note> bevolhen, euch zu sagen, das ir
+                        <persName>Jeorg Rockelfinger</persName>,<note xml:id="note.2">Georg
+                        Rockelfinger. We only know one document on him, his father’s last will from
+                        1536, see <hi rend="smallcap">Meier–Piirainen–Wegera</hi> 2009, 256.</note>
+                    ir mt.<note xml:id="note.3">I.e. ihrer Majestät.</note> kuchenmaister, umb sein
                     angepurrender tail seines erlebten vetterlichen unnd mutterlichen erbs bey euch,
                     in dem <placeName>Neuensol</placeName>, unverzogenliche bezalung verschaffenn
                     solt. Derhalben von wegen höchtsgenanter unnser <persName>genedigisten
@@ -273,15 +269,15 @@
                 <p xml:id="p.5">
                     <seg type="signature">
                         <add corresp="author" type="insert">Bartholmes Haller vom Hallerstain<note
-                                type="critic" xml:id="note.4">Bartholomäus Haller von Hallerstein
-                                (1486–1551) was Secretary to Mary of Hungary.</note> etc.</add>
+                                xml:id="note.4">Bartholomäus Haller von Hallerstein (1486–1551) was
+                                Secretary to Mary of Hungary.</note> etc.</add>
                     </seg>
                 </p>
                 <p xml:id="p.6">
                     <seg type="signature">
                         <add corresp="author" type="insert">Jonnes Dubrawiczki</add>
                     </seg>
-                    <note type="critic" xml:id="note.5">János Dubraviczky.</note>
+                    <note xml:id="note.5">János Dubraviczky.</note>
                 </p>
                 <pb/>
             </div>

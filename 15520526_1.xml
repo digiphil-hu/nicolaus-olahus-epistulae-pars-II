@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,18 +244,17 @@
                     </choice> tamen, si vera sunt, quae dicunt. <choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>ova</orig>
                         <supplied><corr>N</corr>ova</supplied>
-                    </choice> haec sunt. <persName>Dux Mauritius</persName><note type="critic"
-                        xml:id="note.1">Maurice, Elector of Saxony.</note><choice>
+                    </choice> haec sunt. <persName>Dux Mauritius</persName><note xml:id="note.1"
+                        >Maurice, Elector of Saxony.</note><choice>
                         <orig>f<gap extent="unknown" reason="damage" unit="word"/>i</orig>
                         <supplied>f<corr>ide</corr>i</supplied>
                     </choice> et officii sui immemor, <placeName>Clusam</placeName><note
-                        type="critic" xml:id="note.2">Probably Udine.</note> arcem regiae maiestatis
-                    ad ostium Tyrolis versus <placeName>Augustam</placeName><note type="critic"
-                        xml:id="note.3">Augsburg.</note> existentem astu nuper accepit,
-                        <placeName>Ulma</placeName> et <placeName>Argentina</placeName><note
-                        type="critic" xml:id="note.4">Strasbourg.</note> strenue et constanter in
-                    fide caesaris permansit. <persName>Marchio Albertus</persName><note
-                        type="critic" xml:id="note.5">Albert Alcibiades, Margrave of
+                        xml:id="note.2">Probably Udine.</note> arcem regiae maiestatis ad ostium
+                    Tyrolis versus <placeName>Augustam</placeName><note xml:id="note.3"
+                        >Augsburg.</note> existentem astu nuper accepit, <placeName>Ulma</placeName>
+                    et <placeName>Argentina</placeName><note xml:id="note.4">Strasbourg.</note>
+                    strenue et constanter in fide caesaris permansit. <persName>Marchio
+                        Albertus</persName><note xml:id="note.5">Albert Alcibiades, Margrave of
                         Brandenburg-Kulmbach (1522–1557).</note> nebulo ille et omnium bonorum
                     suorum decoctor <choice>
                         <orig>civit<gap extent="unknown" reason="damage" unit="word"/>em</orig>
@@ -271,12 +268,12 @@
                     </choice> suburbii civitatis quoque Newrembergensis <choice>
                         <orig>p<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>p<corr>aene</corr></supplied>
-                    </choice> combussisse. <persName>Rex Galliae</persName><note type="critic"
-                        xml:id="note.6">Francis I of France.</note><choice>
+                    </choice> combussisse. <persName>Rex Galliae</persName><note xml:id="note.6"
+                        >Francis I of France.</note><choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/>gressus</orig>
                         <supplied><corr>in</corr>gressus</supplied>
-                    </choice> fuit <placeName>Spyram</placeName><note type="critic" xml:id="note.7"
-                        >Speier.</note> usque. <choice>
+                    </choice> fuit <placeName>Spyram</placeName><note xml:id="note.7">Speier.</note>
+                    usque. <choice>
                         <orig>Illin<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>Illin<corr>c</corr></supplied>
                     </choice> audita obsidione cuiusdam <choice>
@@ -284,25 +281,23 @@
                         <supplied>civi<corr>tati</corr>s</supplied>
                     </choice> in Lotharingia, quam in manibus suis habet per exercitum Flandricum
                     serenissimae reginae facta et etiam unius vel alterius civitatis occupatione
-                    penes <placeName>Rhenum</placeName><note type="critic" xml:id="note.8">Rhine
-                        river.</note> retrocessisse dicitur, ad liberandam ab obsidione civitatem
-                    illam. <persName>Maiestas caesarea</persName> audita
-                        <placeName>Clusae</placeName> captione, profecta est ad civitatem quandam
-                    cuius nomen nunc non succurrit, <add corresp="Olahus" type="insert">opinor
-                        Prawnek</add>.<note type="critic" xml:id="note.9"
-                    >Bruneck.</note><!--<persName/>-->Tridentini <choice>
+                    penes <placeName>Rhenum</placeName><note xml:id="note.8">Rhine river.</note>
+                    retrocessisse dicitur, ad liberandam ab obsidione civitatem illam.
+                        <persName>Maiestas caesarea</persName> audita <placeName>Clusae</placeName>
+                    captione, profecta est ad civitatem quandam cuius nomen nunc non succurrit, <add
+                        corresp="Olahus" type="insert">opinor Prawnek</add>.<note xml:id="note.9"
+                        >Bruneck.</note><!--<persName/>-->Tridentini <choice>
                         <orig><gap extent="1" reason="damage" unit="word"/>dinalis</orig>
                         <supplied><corr>car</corr>dinalis</supplied>
-                    </choice><note type="critic" xml:id="note.10">Cristoforo Madruzzo (1512–1578)
-                        studied at the University of Padua and Bologna. He first received the
-                        canonry at Trento in 1529. In 1536, he was Canon of Salzburg, in 1537 Canon
-                        of Brixen, and following Bernhard von Cles’s death, he earned the
-                        archiepiscopate of Trento, see <hi rend="smallcap">Becker</hi>,
-                        2006.</note><milestone unit="pb"/> ad <placeName>Brixinam</placeName>,<note
-                        type="critic" xml:id="note.11">Brixen.</note> quattuor millionibus
-                    distantium <del corresp="Olahus">profecta est</del> maiestas regia comitata est
-                    eum aliquamdiu, et hodie, uti credimus, constituetur
-                        <placeName>Patavii</placeName>.<note type="critic" xml:id="note.12"
+                    </choice><note xml:id="note.10">Cristoforo Madruzzo (1512–1578) studied at the
+                        University of Padua and Bologna. He first received the canonry at Trento in
+                        1529. In 1536, he was Canon of Salzburg, in 1537 Canon of Brixen, and
+                        following Bernhard von Cles’s death, he earned the archiepiscopate of
+                        Trento, see <hi rend="smallcap">Becker</hi>, 2006.</note><milestone
+                        unit="pb"/> ad <placeName>Brixinam</placeName>,<note xml:id="note.11"
+                        >Brixen.</note> quattuor millionibus distantium <del corresp="Olahus"
+                        >profecta est</del> maiestas regia comitata est eum aliquamdiu, et hodie,
+                    uti credimus, constituetur <placeName>Patavii</placeName>.<note xml:id="note.12"
                         >Padua.</note> Exspectamus <persName>Mauritium</persName> et alios eo, si
                     venerint ad tractatus faciendos. <del corresp="Olahus">Dux Ioannes</del> Illic
                     sua maiestas mox revertetur. <persName>Dux Ioannes</persName> captivus Saxoniae
@@ -313,7 +308,7 @@
                     <seg type="signature">Frater et servitor Agriensis etc. manu propria</seg>
                 </p>
                 <p xml:id="p.5">Serenissimus <persName>Maximilianus</persName> rex de rebus
-                    nonnullis nuntiavit per dominum <persName>Bathyany</persName><note type="critic"
+                    nonnullis nuntiavit per dominum <persName>Bathyany</persName><note
                         xml:id="note.13">Kristóf Batthyány.</note> Dominationi Vestrae. Ad has
                     exspectamus responsum.</p>
                 <pb/>

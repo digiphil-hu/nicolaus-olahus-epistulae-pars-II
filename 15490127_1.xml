@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -238,16 +236,16 @@
                     Dilecte!</p>
                 <p xml:id="p.2">Quoniam magnopere opus habemus exemplis earum litterarum et
                     scripturarum, quae serenissimae dominae <persName>Isabellae
-                        reginae</persName><note type="critic" xml:id="note.1">Queen Isabella
-                        Jagiellon.</note> Hungariae etc. <persName>Fratris Georgii</persName><note
-                        type="critic" xml:id="note.2">George Martinuzzi.</note> ac nobilium
-                    Transylvaniae nomine <placeName>Posonii</placeName> nobis exhibitae fuerunt,
-                    simul et responsi nostri desuper illis dati, Devotioni Tuae committimus et
-                    mandamus, ut <del corresp="scriba">eorum omnium</del> huiusmodi litterarum et
-                    scripturarum omnium ad hoc negotium pertinentium exempla ad nos quamprimum fieri
-                    possit, <add corresp="scriba" type="insert">et absque omni mora</add>
-                    transmittat, quo illis pro rei exigentia uti queamus, nostram in eo omnimodam
-                    exsecutura voluntatem.</p>
+                        reginae</persName><note xml:id="note.1">Queen Isabella Jagiellon.</note>
+                    Hungariae etc. <persName>Fratris Georgii</persName><note xml:id="note.2">George
+                        Martinuzzi.</note> ac nobilium Transylvaniae nomine
+                        <placeName>Posonii</placeName> nobis exhibitae fuerunt, simul et responsi
+                    nostri desuper illis dati, Devotioni Tuae committimus et mandamus, ut <del
+                        corresp="scriba">eorum omnium</del> huiusmodi litterarum et scripturarum
+                    omnium ad hoc negotium pertinentium exempla ad nos quamprimum fieri possit, <add
+                        corresp="scriba" type="insert">et absque omni mora</add> transmittat, quo
+                    illis pro rei exigentia uti queamus, nostram in eo omnimodam exsecutura
+                    voluntatem.</p>
                 <p xml:id="p.3">Datum <placeName>Pragae</placeName> die 27. Ianuarii 1549.</p>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">

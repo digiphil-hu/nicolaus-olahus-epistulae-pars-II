@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,13 +237,12 @@
                 <p xml:id="p.1">Cornelius Sceperus Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Non opus est me pluribus verbis uti in isto meo repentino recessu.
                     Ego enim abeo hodie rursus ad Turcas quaesiturus <persName>Aloisium
-                        Gryti</persName><note type="critic" xml:id="note.1">Lodovico Gritti.</note>
-                    et eum ad serenissimum <persName>regem</persName> adducturus. Alia praeterea
-                    facturus, quae mihi sunt iniuncta. Id, quod rogo, dignetur Reverendissima
-                    Dominatio Vestra reginali maiestati significare. Cuius litteris
-                        credentialibus<note type="critic" xml:id="note.2">See Ep. 450. Cap.
-                            2.<ref>olahus.tei.15340208_2</ref></note> super
-                        <persName>Grytum</persName> utar suo tempore, neque immemor ero negotiorum
+                        Gryti</persName><note xml:id="note.1">Lodovico Gritti.</note> et eum ad
+                    serenissimum <persName>regem</persName> adducturus. Alia praeterea facturus,
+                    quae mihi sunt iniuncta. Id, quod rogo, dignetur Reverendissima Dominatio Vestra
+                    reginali maiestati significare. Cuius litteris credentialibus<note
+                        xml:id="note.2">See Ep. 450. Cap. 2.<ref>olahus.tei.15340208_2</ref></note>
+                    super <persName>Grytum</persName> utar suo tempore, neque immemor ero negotiorum
                     tuorum, quae mihi non minus sunt cordi, quam mea propria. Habeo enim et porto
                     mecum memoriale de omnibus. In summa hoc tibi persuade me et reginalis
                     maiestatis et Dominationis Vestrae rem ita acturum atque meam propriam. Commendo

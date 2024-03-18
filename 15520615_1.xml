@@ -204,7 +204,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <placeName>Bratislava<idno type="ITIdata">Q468</idno></placeName>
                     <orgName>The Councillors of the Royal Lieutenancy Council in
                         Bratislava</orgName>
@@ -253,39 +252,37 @@
                     Observandissime, salutem et servitiorum nostrorum commendationem!</p>
                 <p xml:id="p.2">[1.] Intellexit iam hactenus Vestra Reverendissima Dominatio, quam
                     irritum factum sit omne illud, quod de recuperando
-                        <placeName>Wesprimio</placeName><note type="critic" xml:id="note.1">Veszprém
-                        fell on 1 June, 1552. Drégely, Szécsény, Hollókő, Buják, Šahy and
-                        Balassagyarmat also fell in July, see <hi rend="smallcap">Pálffy</hi> 1999,
-                        76.</note> tractabatur, fuerunt tempore obsidionis
-                        <placeName>Wesprimii</placeName>, et mox postea, congregata in
-                        <placeName>Papa</placeName> et aliis locis circumvicinis, plus quam decem
-                    millia hominum armatorum adfuerunt, primi quique <persName>regiae
-                        maiestatis</persName>, domini nostri clementissimi capitanei, tam
-                        <persName>Thayffel</persName>,<note type="critic" xml:id="note.2">Erasmus
+                        <placeName>Wesprimio</placeName><note xml:id="note.1">Veszprém fell on 1
+                        June, 1552. Drégely, Szécsény, Hollókő, Buják, Šahy and Balassagyarmat also
+                        fell in July, see <hi rend="smallcap">Pálffy</hi> 1999, 76.</note>
+                    tractabatur, fuerunt tempore obsidionis <placeName>Wesprimii</placeName>, et mox
+                    postea, congregata in <placeName>Papa</placeName> et aliis locis circumvicinis,
+                    plus quam decem millia hominum armatorum adfuerunt, primi quique
+                        <persName>regiae maiestatis</persName>, domini nostri clementissimi
+                    capitanei, tam <persName>Thayffel</persName>,<note xml:id="note.2">Erasmus
                         Teufel (†1552) was an officer of the Habsburgs, and he was a Commander in
                         the 1552 campaign.</note> quam alii ex <placeName>Iaurino</placeName><note
-                        type="critic" xml:id="note.3">Győr.</note> et
-                        <placeName>Komaron</placeName><note type="critic" xml:id="note.4"
-                        >Komárom.</note> profecti. Et tamen omnes illi usque adeo torpuerunt, et
-                    nullam bellicam diligentiam adhibuerunt, ut neque expugnationem et deperditionem
-                        <placeName>Wesprimii</placeName> aliter intellexerint, nisi quarto demum die
-                    ex agricolis quibusdam, qui ex illis partibus fugiebant, poterant nedum
-                    recuperare arcem illam, sed cum hoste quoque manus conserere et victoriam
-                    certissimam reportare. </p>
+                        xml:id="note.3">Győr.</note> et <placeName>Komaron</placeName><note
+                        xml:id="note.4">Komárom.</note> profecti. Et tamen omnes illi usque adeo
+                    torpuerunt, et nullam bellicam diligentiam adhibuerunt, ut neque expugnationem
+                    et deperditionem <placeName>Wesprimii</placeName> aliter intellexerint, nisi
+                    quarto demum die ex agricolis quibusdam, qui ex illis partibus fugiebant,
+                    poterant nedum recuperare arcem illam, sed cum hoste quoque manus conserere et
+                    victoriam certissimam reportare. </p>
                 <p xml:id="p.3">Relatum nobis est per fidedignos, qui postea apud
                         <placeName>Wesprimium</placeName> fuerunt, quod hostis quoque ipse de
                     retentione illius arcis adeo desperaverit, ut omnes maiores bombardas, quae
                     intus fuerant, exportari et in <placeName>Albam Regalem</placeName><note
-                        type="critic" xml:id="note.5">Székesfehérvár.</note> deduci fecerit, nemine
-                    primario homine in illa arce dimisso, sed quibusdam dumtaxat gregariis centum et
+                        xml:id="note.5">Székesfehérvár.</note> deduci fecerit, nemine primario
+                    homine in illa arce dimisso, sed quibusdam dumtaxat gregariis centum et
                     quinquaginta militibus, qui et ipsi paucissimum intus haberent commeatum; hanc
                     unicam habuit retinendi <placeName>Wesprimii</placeName> spem, si posset
                     exercitum illum nostrum congregatum technis et artibus suis aliorsum evocare et
                     ab obsidione avertere, ac propterea citissimo gressu transfretavit Danubium, et
                     excursiones quasdam ac depopulationes circa <placeName>Gyarmath</placeName><note
-                        type="critic" xml:id="note.6">Today: Balassagyarmat.</note> et alibi fieri
-                    fecit, ut nostri vel dispergerentur, prout factum est, vel illum sequerentur, et
-                    interim <placeName>Wesprimium</placeName><milestone unit="pb"/> posset quiete
+                        xml:id="note.6">Today: Balassagyarmat.</note> et alibi fieri fecit, ut
+                    nostri vel dispergerentur, prout factum est, vel illum sequerentur, et interim
+                        <placeName>Wesprimium</placeName><milestone unit="pb"/> posset quiete
                     munire, quod calidissimus hostis optavit. </p>
                 <p xml:id="p.4">[2.] Id magno nostro damno et ingenti nostrorum ducum ignavia
                     assecutus est. Poterant interim nostri, simili arte et
@@ -321,28 +318,28 @@
                     quique illorum nedum truces aspectus, sed ne hastas quidem et frameas
                     perhorrescat. </p>
                 <p xml:id="p.5">[3.] Iam postquam dominus <persName>Bathory</persName><note
-                        type="critic" xml:id="note.7">András (Bonaventura) Báthori.</note> officio
-                    Transsilvanico est intentus, dominus vero <persName>Nadasdy</persName><note
-                        type="critic" xml:id="note.8">Tamás Nádasdy.</note> non satis recte valeat,
-                    neminem habent Hungari, quem ut suum suaeque patriae et linguae ac militiae
-                    ducem sequantur, assueti alioqui prout longe hilarioribus animis, ita et factis
-                    felicioribus sub Hungaro capitaneo militare, sed haec omnia Vestra
-                    Reverendissima Dominatio exactius perpendere et tractare novit. Nobis erat in
-                    animo personaliter quoque pro his tractandis <placeName>Viennam</placeName>
-                    ascendere, sed intelligimus ex regnicolis, qui frequenter huc veniunt, fieri
-                    inter eos multa verba super hoc, quod <persName>regia maiestas</persName>,
-                    dominus noster clementissimus necessario hoc tempore, in longinquis partibus
-                    agat et regnum istud sua praesentia careat, scimusque pro certo, quod longe
-                    plura loquerentur et in desperationem caderent, si neque locumtenens aliquis
-                    suae maiestatis intra limites huius regni reperiretur, nam et in aliis
-                    quibuscumque suae maiestatis etiam parvis provinciis semper adest aliquis, qui
-                    vires suae maiestatis tenet. Immo nobis multo melius videretur, si Vestra
-                    Reverendissima Dominatio pro patriae istius communis salute efficeret apud
-                    serenissimum dominum <persName>regem Bohemiae</persName>,<note type="critic"
-                        xml:id="note.9">Future King Maximilian II.</note> dominum nostrum <milestone
-                        unit="pb"/>gratiosissimum, ut hoc tempore sua maiestas hic in Hungaria
-                    habitaret, suaque praesentia omnes nos totumque regnum et incolas eius animaret.
-                    Habet hic <placeName>Posonii</placeName> sua maiestas gentes optimas, equites,
+                        xml:id="note.7">András (Bonaventura) Báthori.</note> officio Transsilvanico
+                    est intentus, dominus vero <persName>Nadasdy</persName><note xml:id="note.8"
+                        >Tamás Nádasdy.</note> non satis recte valeat, neminem habent Hungari, quem
+                    ut suum suaeque patriae et linguae ac militiae ducem sequantur, assueti alioqui
+                    prout longe hilarioribus animis, ita et factis felicioribus sub Hungaro
+                    capitaneo militare, sed haec omnia Vestra Reverendissima Dominatio exactius
+                    perpendere et tractare novit. Nobis erat in animo personaliter quoque pro his
+                    tractandis <placeName>Viennam</placeName> ascendere, sed intelligimus ex
+                    regnicolis, qui frequenter huc veniunt, fieri inter eos multa verba super hoc,
+                    quod <persName>regia maiestas</persName>, dominus noster clementissimus
+                    necessario hoc tempore, in longinquis partibus agat et regnum istud sua
+                    praesentia careat, scimusque pro certo, quod longe plura loquerentur et in
+                    desperationem caderent, si neque locumtenens aliquis suae maiestatis intra
+                    limites huius regni reperiretur, nam et in aliis quibuscumque suae maiestatis
+                    etiam parvis provinciis semper adest aliquis, qui vires suae maiestatis tenet.
+                    Immo nobis multo melius videretur, si Vestra Reverendissima Dominatio pro
+                    patriae istius communis salute efficeret apud serenissimum dominum
+                        <persName>regem Bohemiae</persName>,<note xml:id="note.9">Future King
+                        Maximilian II.</note> dominum nostrum <milestone unit="pb"/>gratiosissimum,
+                    ut hoc tempore sua maiestas hic in Hungaria habitaret, suaque praesentia omnes
+                    nos totumque regnum et incolas eius animaret. Habet hic
+                        <placeName>Posonii</placeName> sua maiestas gentes optimas, equites,
                     cataphractos, habebit et plures, quibus posset, locis necessariis et toti regno
                     subvenire, habet etiam aerem saluberrimum, quoniam
                         <placeName>Viennae</placeName> audiatur esse aura non satis sana, et non
@@ -352,8 +349,8 @@
                 <p xml:id="p.6"><placeName>Posonii</placeName> die 15. Iunii <choice>
                         <orig>1551</orig>
                         <supplied>1552</supplied>
-                    </choice>.<note type="critic" xml:id="note.10">Corrected according to <hi
-                            rend="smallcap">Pálffy</hi> 1999, 77.</note></p>
+                    </choice>.<note xml:id="note.10">Corrected according to <hi rend="smallcap"
+                            >Pálffy</hi> 1999, 77.</note></p>
                 <p xml:id="p.7">Eiusdem Dominationis Vestrae Reverendissimae servitores</p>
                 <p xml:id="p.8">
                     <seg type="signature">Locumtenens et consiliarius regiae maiestatis Posonii

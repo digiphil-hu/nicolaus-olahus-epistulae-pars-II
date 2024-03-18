@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Elek Thurzó<idno type="ITIdata">Q60739</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -248,70 +246,69 @@
                 <p xml:id="p.1">Alexius Turzo comes locumtenens regis Ferdinandi in Hungaria etc.
                     Olao.</p>
                 <p xml:id="p.2">[1.] Reverende Domine, Amice Honorande, salutem plurimam.
-                        Scribit<note type="critic" xml:id="note.1">Ep.
-                            499.<ref>olahus.tei.15340727_1</ref></note> Dominatio Vestra recreatam
-                    se, quod visis litteris nostris cognoverit non mutatam esse nostram in se
-                    benevolentiam veterem. Nos tamen et nuper scripsimus<note type="critic"
-                        xml:id="note.2">Ep. 480. Cap. 1.<ref>olahus.tei.15340413_3</ref></note> et
-                    modo repetimus temporum malignitatem esse in <milestone unit="pb"/>causa, quod
-                    quotidianis eam experimentis non videt declarari. Nam ut breviter multa
-                    comprehendamus, nihilo fere meliori condicione sumus, quam cum statim post
-                    serenissimi piae memoriae regis <persName>Ludovici</persName><note type="critic"
-                        xml:id="note.3">King Loius II.</note> mortem fueramus, nisi quod non ita
-                    sedulo ultro citroque caedibus incumbitur, raptu tamen et violentia, quibus isti
-                    strenuitatem, ut ita dicamus, sitam putant, omnia fervent. Si non est fervere,
-                    mordicus tenere, quod et ante aliquot annos et quotidie occupata sunt et
-                    usurpantur. Videbamus nihil neque regia, neque nostra authoritate effici posse
-                    in negotio bonorum Dominationis Vestrae. Tamen privatim inter familiaria
-                    colloquia tentavimus hominis animum, cuius responsum nequaquam ab instituto et
-                    eius ordinis professione abhorret, primum et alios hoc agere, ne quid remittant,
-                    deinde si remissum per eum esset, periculum fore, ne deterior e vestigio
-                    occuparet, cum nemo non bonis inhiaret. Addidit, quo niteretur solidius
-                    permissum esse regia annuentia, ut quoad opinor aliqua provisio ex regia
-                    liberalitate fieri posset, omnia, quae haberet, pacifice possideret, nihilominus
-                    si quid desideratae lucis illucescet, vel si qua occasio rebus Dominationis
-                    Vestrae serviens se offeret, non est dubitandum, quin statim rursus hominem
-                    omnibus quibus licebit modis aggrediamur. </p>
+                        Scribit<note xml:id="note.1">Ep. 499.<ref>olahus.tei.15340727_1</ref></note>
+                    Dominatio Vestra recreatam se, quod visis litteris nostris cognoverit non
+                    mutatam esse nostram in se benevolentiam veterem. Nos tamen et nuper
+                        scripsimus<note xml:id="note.2">Ep. 480. Cap.
+                            1.<ref>olahus.tei.15340413_3</ref></note> et modo repetimus temporum
+                    malignitatem esse in <milestone unit="pb"/>causa, quod quotidianis eam
+                    experimentis non videt declarari. Nam ut breviter multa comprehendamus, nihilo
+                    fere meliori condicione sumus, quam cum statim post serenissimi piae memoriae
+                    regis <persName>Ludovici</persName><note xml:id="note.3">King Loius II.</note>
+                    mortem fueramus, nisi quod non ita sedulo ultro citroque caedibus incumbitur,
+                    raptu tamen et violentia, quibus isti strenuitatem, ut ita dicamus, sitam
+                    putant, omnia fervent. Si non est fervere, mordicus tenere, quod et ante aliquot
+                    annos et quotidie occupata sunt et usurpantur. Videbamus nihil neque regia,
+                    neque nostra authoritate effici posse in negotio bonorum Dominationis Vestrae.
+                    Tamen privatim inter familiaria colloquia tentavimus hominis animum, cuius
+                    responsum nequaquam ab instituto et eius ordinis professione abhorret, primum et
+                    alios hoc agere, ne quid remittant, deinde si remissum per eum esset, periculum
+                    fore, ne deterior e vestigio occuparet, cum nemo non bonis inhiaret. Addidit,
+                    quo niteretur solidius permissum esse regia annuentia, ut quoad opinor aliqua
+                    provisio ex regia liberalitate fieri posset, omnia, quae haberet, pacifice
+                    possideret, nihilominus si quid desideratae lucis illucescet, vel si qua occasio
+                    rebus Dominationis Vestrae serviens se offeret, non est dubitandum, quin statim
+                    rursus hominem omnibus quibus licebit modis aggrediamur. </p>
                 <p xml:id="p.3">[2.] Quod novarum, quae in partibus illis sunt, nos reddiderit
                     participes, habemus illi gratiam. Nos hinc nihil praeter incertum fortunae
                     eventum scribere possumus. Quandoquidem de <persName>Cornelii</persName><note
-                        type="critic" xml:id="note.4">Cornelis de Schepper.</note> adventu, de quo
-                    et Dominatio Vestra scribit, nihil aliud haurire potuimus praeterquam, quod
-                    populari fama circumfertur dixisse, scilicet illum Turcarum tyrannum omnia per
-                        <persName>Grittium</persName><note type="critic" xml:id="note.5">Lodovico
-                        Gritti.</note> esse transacturum, sed diu ille exspectatus (quod quidem et
-                    partibus illis iampridem notum esse arbitramur) Transsilvaniam attigit,
+                        xml:id="note.4">Cornelis de Schepper.</note> adventu, de quo et Dominatio
+                    Vestra scribit, nihil aliud haurire potuimus praeterquam, quod populari fama
+                    circumfertur dixisse, scilicet illum Turcarum tyrannum omnia per
+                        <persName>Grittium</persName><note xml:id="note.5">Lodovico Gritti.</note>
+                    esse transacturum, sed diu ille exspectatus (quod quidem et partibus illis
+                    iampridem notum esse arbitramur) Transsilvaniam attigit,
                         <persName>Ioanni</persName> imprimis, et proceribus illius necem
                     machinaturus; et primum evocatum officii nomine in occursum suum
-                        <persName>Emericum Cibak</persName>,<note type="critic" xml:id="note.6">Imre
-                        Czibak.</note><persName>Ioanne Doczy</persName><note type="critic"
-                        xml:id="note.7">János Dóczy (†1534) was Royal Chamberlain from 1515. After
-                        Mohács, he first accompanied King John I, later taking Gritti’s side. He was
-                        executed together with Gritti on 29 September, 1534 in Mediaș.</note> et
-                        <persName>Urbano Batthyany</persName><note type="critic" xml:id="note.8"
-                        >Orbán Batthyány (†1547) studied on the University of Padua, and became
-                        Royal Secretary in 1523. After Mohács, he changed sides many times. First he
-                        was an adherent of King Ferdinand I, then of King John I, followed Lodovico
-                        Gritti until Gritti’s death, and finally was an adherent of Queen Isabelle,
-                        except for a short time when he was appointed Captain of Szeged (1541–1542).
-                        See <hi rend="smallcap">Kasza</hi> 2012, 522.</note> sceleris ducibus,
-                    addita Turcarum manu noctu aggressum trucidavit, ob id tota ea regio
-                    Transsylvania, cum amore viri, tum libertatis in illum concitata convenit. Illum
-                    in oppidum <placeName>Meggies</placeName><note type="critic" xml:id="note.9"
-                        >Mediaș.</note> conclusum obsedit obstinato animo. Intelligimus et modo
-                    premi illum obsidione. Quid futurum sit, evadatne aliqua calliditate deceptis
-                    obsidentibus <milestone unit="pb"/>aut delinitis eorum animis, an istic vitae
-                    finem sortiatur, incertum est. Ita illius opera veteranus hostis in perniciem
-                    nostram abuti instituerat. Quis enim ab exortu tyrannidis illius audivit
-                    provinciam aliquam armis contritam alteri cuipiam tradere, quam sibi reservare
-                    Turcas maluisse. De tranquillitate futura propterea nihil certi divinare licet,
-                    quod alia exspectantur illo huc adveniente, si captivitatem et mortem evadat,
-                    alia item ab illius obitu, quae omnia in incerto posita sunt. Ita cum nondum
-                    ullum tot malorum finem certum videamus, dies et noctes animo excruciamur.
-                    Gauderemus profecto inter cetera, si <persName>maiestas reginalis</persName>,
-                    domina nostra gratiosissima huc aliquando <persName>maiestatem regiam
-                        fratrem</persName>, bona denique et servitores suos nos inviseret. Cui, ut
-                    Dominatio Vestra nostra servitia sedulo commendet, rogamus, et valeat feliciter. </p>
+                        <persName>Emericum Cibak</persName>,<note xml:id="note.6">Imre
+                        Czibak.</note><persName>Ioanne Doczy</persName><note xml:id="note.7">János
+                        Dóczy (†1534) was Royal Chamberlain from 1515. After Mohács, he first
+                        accompanied King John I, later taking Gritti’s side. He was executed
+                        together with Gritti on 29 September, 1534 in Mediaș.</note> et
+                        <persName>Urbano Batthyany</persName><note xml:id="note.8">Orbán Batthyány
+                        (†1547) studied on the University of Padua, and became Royal Secretary in
+                        1523. After Mohács, he changed sides many times. First he was an adherent of
+                        King Ferdinand I, then of King John I, followed Lodovico Gritti until
+                        Gritti’s death, and finally was an adherent of Queen Isabelle, except for a
+                        short time when he was appointed Captain of Szeged (1541–1542). See <hi
+                            rend="smallcap">Kasza</hi> 2012, 522.</note> sceleris ducibus, addita
+                    Turcarum manu noctu aggressum trucidavit, ob id tota ea regio Transsylvania, cum
+                    amore viri, tum libertatis in illum concitata convenit. Illum in oppidum
+                        <placeName>Meggies</placeName><note xml:id="note.9">Mediaș.</note> conclusum
+                    obsedit obstinato animo. Intelligimus et modo premi illum obsidione. Quid
+                    futurum sit, evadatne aliqua calliditate deceptis obsidentibus <milestone
+                        unit="pb"/>aut delinitis eorum animis, an istic vitae finem sortiatur,
+                    incertum est. Ita illius opera veteranus hostis in perniciem nostram abuti
+                    instituerat. Quis enim ab exortu tyrannidis illius audivit provinciam aliquam
+                    armis contritam alteri cuipiam tradere, quam sibi reservare Turcas maluisse. De
+                    tranquillitate futura propterea nihil certi divinare licet, quod alia
+                    exspectantur illo huc adveniente, si captivitatem et mortem evadat, alia item ab
+                    illius obitu, quae omnia in incerto posita sunt. Ita cum nondum ullum tot
+                    malorum finem certum videamus, dies et noctes animo excruciamur. Gauderemus
+                    profecto inter cetera, si <persName>maiestas reginalis</persName>, domina nostra
+                    gratiosissima huc aliquando <persName>maiestatem regiam fratrem</persName>, bona
+                    denique et servitores suos nos inviseret. Cui, ut Dominatio Vestra nostra
+                    servitia sedulo commendet, rogamus, et valeat feliciter. </p>
                 <p xml:id="p.4">Ex <placeName>Vienna</placeName> VIII. die Octobris anno Domini
                     1534.</p>
             </div>

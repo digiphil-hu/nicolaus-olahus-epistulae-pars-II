@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,8 +231,8 @@
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. </p>
                 <p xml:id="p.2">Intelleximus Devotionem Tuam in oppidum nostrum
-                        <placeName>Buckam</placeName><note type="critic" xml:id="note.1">Bruck an
-                        der Mur.</note> salvam et incolumem apprendisse idque nobis pro nostra etiam <choice>
+                        <placeName>Buckam</placeName><note xml:id="note.1">Bruck an der Mur.</note>
+                    salvam et incolumem apprendisse idque nobis pro nostra etiam <choice>
                         <orig><gap extent="1" reason="illegible" unit="word"/></orig>
                         <supplied><corr>eadem</corr></supplied>
                     </choice> clementia nobis <choice>
@@ -248,19 +246,19 @@
                         potest</del> quos non semper <del corresp="scriba">ad</del> necesse est
                     Devotioni Tuae ad manum esse istic <placeName>Bruckae</placeName> per aliquot
                     adhuc dies relinquas, neque id gravetur attente, quod nos etiam licet in arce
-                    nostra <placeName>Eberstorff</placeName><note type="critic" xml:id="note.2"
-                        >Ebersdorf.</note> satis multum <del corresp="scriba">aurae</del> salubris
-                    aurae ceperimus te et non recta huc profecti sumus, sed <del corresp="scriba"
-                        >prius antea per diem dies</del><add corresp="scriba" type="corr">ex
-                        itinere</add> in oppidum nostrum <placeName>Leoben</placeName> divertimus,
-                    et ibi decem dies moram habuerimus. Factum est eo etc.</p>
+                    nostra <placeName>Eberstorff</placeName><note xml:id="note.2">Ebersdorf.</note>
+                    satis multum <del corresp="scriba">aurae</del> salubris aurae ceperimus te et
+                    non recta huc profecti sumus, sed <del corresp="scriba">prius antea per diem
+                        dies</del><add corresp="scriba" type="corr">ex itinere</add> in oppidum
+                    nostrum <placeName>Leoben</placeName> divertimus, et ibi decem dies moram
+                    habuerimus. Factum est eo etc.</p>
                 <p xml:id="p.3">Datum <placeName>Gratz</placeName> 16. Decembris 1552.</p>
                 <p xml:id="p.4">Postscripta cum intelligamus etiam cum Devotione Tua esse <gap
                         extent="1" reason="illegible" unit="word"/> fidelem nobis dilectum
-                        <persName>Eustachium a Veledy</persName><note type="critic" xml:id="note.3"
-                        >Lestár Feledi.</note> et <persName>Georgium Rakowsky</persName>.<note
-                        type="critic" xml:id="note.4">György Rakovszky.</note> Ideo volumus quod
-                    ipsos quoque <gap extent="1" reason="illegible" unit="word"/> adducat.</p>
+                        <persName>Eustachium a Veledy</persName><note xml:id="note.3">Lestár
+                        Feledi.</note> et <persName>Georgium Rakowsky</persName>.<note
+                        xml:id="note.4">György Rakovszky.</note> Ideo volumus quod ipsos quoque <gap
+                        extent="1" reason="illegible" unit="word"/> adducat.</p>
             </div>
             <div style="handwritten" type="verso" xml:id="d.2">
                 <head>Probably on the outer side:</head>

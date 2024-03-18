@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Rutger Ressen<idno type="ITIdata">Q470425</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,33 +229,32 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Rutgerus Rescius Nicolao Olao. </p>
-                <p xml:id="p.2"><persName>Nannii</persName><note type="critic" xml:id="note.1"
-                        >Pieter Nanninck (1496–1557) was born in Alkmaar. He first taught in Gouda,
-                        then in 1535 he went to Leuven and succeeded Conrad Wackers as a Latin
-                        teacher at the Collegium Trilingue in 1539. After Wacker left, Oláh looked
-                        for a new tutor for John Henckel the Younger, and Nanninck was available.
-                        Nanninck wrote commentaries on Horace’s <hi rend="italic">Ars Poetica</hi>,
-                            <hi rend="italic">Aeneid</hi>, Livy, and translated many Greek authors,
-                        for example, Plutarch and Athanasius. He also wrote a few works, mainly
+                <p xml:id="p.2"><persName>Nannii</persName><note xml:id="note.1">Pieter Nanninck
+                        (1496–1557) was born in Alkmaar. He first taught in Gouda, then in 1535 he
+                        went to Leuven and succeeded Conrad Wackers as a Latin teacher at the
+                        Collegium Trilingue in 1539. After Wacker left, Oláh looked for a new tutor
+                        for John Henckel the Younger, and Nanninck was available. Nanninck wrote
+                        commentaries on Horace’s <hi rend="italic">Ars Poetica</hi>, <hi
+                            rend="italic">Aeneid</hi>, Livy, and translated many Greek authors, for
+                        example, Plutarch and Athanasius. He also wrote a few works, mainly
                         declamations and speeches. On their friendship see <hi rend="smallcap"
                             >Polet</hi> 1936, 243–278; and <hi rend="smallcap">Tournoy</hi>
-                        2006.</note> nostri <hi rend="italic">Declamationem</hi><note type="critic"
+                        2006.</note> nostri <hi rend="italic">Declamationem</hi><note
                         xml:id="note.2">Nanninck’s <hi rend="italic">Declamatio de bello Turcis
                             inferendo</hi> was published by Rutger Ressen, and it was dedicated to
                         Oláh, see <hi rend="smallcap">Nannius Alcmarianus</hi> 1536.</note> ad te
                     mitto, Domine Olahe plurimum Observande, quam hic proximo institio dixit et
                     frequentissimo auditorio et maximo omnium applausu. Eam quare tibi dedicare
-                    decreverit, intelliges ex epistola ipsius ad te scripta.<note type="critic"
-                        xml:id="note.3">See Ep. 554. This letter and the answers to it were
-                        published at the beggining of the <hi rend="italic"
+                    decreverit, intelliges ex epistola ipsius ad te scripta.<note xml:id="note.3"
+                        >See Ep. 554. This letter and the answers to it were published at the
+                        beggining of the <hi rend="italic"
                             >Declamatio</hi>.<ref>olahus.tei.15351229_1</ref></note> Rogamus autem
                     Dominationem Tuam, ut quamprimum ipsam recognoveris, ilico ad nos remittas.
                     Cupit enim quidam bibliopola aliquot exemplaria ipsius mittere in Galliam et
                     Angliam. Bene valeat Dominatio Tua. Raptim. </p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> in festo domini Ioannis Evangelistae. </p>
-                <p xml:id="p.4"><persName>Magistrum Iacobum</persName><note type="critic"
-                        xml:id="note.4">In ms. M. Iacobum, he was probably Jakob Jespersen.</note>
-                    cupio salutari.</p>
+                <p xml:id="p.4"><persName>Magistrum Iacobum</persName><note xml:id="note.4">In ms.
+                        M. Iacobum, he was probably Jakob Jespersen.</note> cupio salutari.</p>
             </div>
         </body>
     </text>

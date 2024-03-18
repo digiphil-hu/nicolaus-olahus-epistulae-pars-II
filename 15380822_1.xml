@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,18 +242,17 @@
                 <pb/>
                 <p xml:id="p.1">Idem Nannius domino Nicolao <del corresp="Olahus">Olacho</del><add
                         corresp="Olahus" type="corr">Olaho</add> salutem plurimam.</p>
-                <p xml:id="p.2">[1.] Vidimus in litteris<note type="critic" xml:id="note.1">We do
-                        not know these letters.</note> ad <persName>Iacobum Danum</persName><note
-                        type="critic" xml:id="note.2">Jakob Jespersen.</note> mihi et
-                        <persName>Rutgero Rescio</persName><note type="critic" xml:id="note.3"
-                        >Rutger Ressen.</note> salutem adscriptam, quae res nobis iucundissima fuit,
-                    multo tamen iucundius, quod tuam valetudinem nullo morbo attentatam audivimus.
-                    In hoc tam <del corresp="editor">tam</del> pestifero anno infiniti ubique
-                    pereunt. <persName>Rutgerus</persName> periculosissime aegrotat, hactenus cum
-                    ipsius et omnium desperatione nunc aliquanto commodius habet, satis tamen res
-                        <del corresp="Olahus">anticipiti</del><add corresp="Olahus" type="corr"
-                        >ancipiti</add> loco est. Ego vertigine cerebri laboravi cum fastidio
-                    stomachi perpetuo, in studiis nec publicis, </p>
+                <p xml:id="p.2">[1.] Vidimus in litteris<note xml:id="note.1">We do not know these
+                        letters.</note> ad <persName>Iacobum Danum</persName><note xml:id="note.2"
+                        >Jakob Jespersen.</note> mihi et <persName>Rutgero Rescio</persName><note
+                        xml:id="note.3">Rutger Ressen.</note> salutem adscriptam, quae res nobis
+                    iucundissima fuit, multo tamen iucundius, quod tuam valetudinem nullo morbo
+                    attentatam audivimus. In hoc tam <del corresp="editor">tam</del> pestifero anno
+                    infiniti ubique pereunt. <persName>Rutgerus</persName> periculosissime aegrotat,
+                    hactenus cum ipsius et omnium desperatione nunc aliquanto commodius habet, satis
+                    tamen res <del corresp="Olahus">anticipiti</del><add corresp="Olahus"
+                        type="corr">ancipiti</add> loco est. Ego vertigine cerebri laboravi cum
+                    fastidio stomachi perpetuo, in studiis nec publicis, </p>
                 <pb/>
                 <p xml:id="p.3">nec privatis quicquam feliciter potui. </p>
                 <p xml:id="p.4">[2.] Hunc infelicem libellum abortivi potius, quam edidi, ad id
@@ -272,8 +269,8 @@
                         incumbere, ut Aiax ille Augusti,</quote><note type="quote"
                         xml:id="note.quote.1">Suet. <hi rend="italic">De vitis caesarum</hi>, Div.
                         Aug. 85: “respondit, Aiacem suum in spongeam incubuisse”.</note><note
-                        type="critic" xml:id="note.4">Frans van Cranevelt liked citing this line,
-                        see Ep. 585. and Ep. 592. Cap.
+                        xml:id="note.4">Frans van Cranevelt liked citing this line, see Ep. 585. and
+                        Ep. 592. Cap.
                         2.<ref>olahus.tei.15370428_1</ref></note><ref>/o:olahus.tei.15371004_1</ref>
                     sed Latine sordibus <quote xml:id="quote.2">naufragium pati</quote><note
                         type="quote" xml:id="note.quote.2">Sen. <hi rend="italic">Herc. Oet.</hi>
@@ -283,15 +280,14 @@
                         <orig>manus in summa</orig>
                         <supplied>in manus sumam</supplied>
                     </choice>, priusquam illum <hi rend="italic">Antheum</hi> confecero.<note
-                        type="critic" xml:id="note.5">Agathon’s tragedies, for example <hi
-                            rend="italic">Antheus</hi>, continued in the footstep of Euripides’
-                        tragedies. Not long before, Nanninck had translated Euripides’ <hi
-                            rend="italic">Andromache</hi>, see Ep.
-                            590.<ref>olahus.tei.15370928_1</ref></note> Generosissime et
-                    Magnificentissime, peream pessime, si mihi quicquam difficilius expertus sum;
-                    non remorantur sententiae, sed cupio in Latinis non nihil respondere
-                    Demosthenicis virtutibus, id non nisi extremo et assiduo conatu impetrare
-                    possum. Ante tamen tuum reditum spero librum evulgatum iri. </p>
+                        xml:id="note.5">Agathon’s tragedies, for example <hi rend="italic"
+                            >Antheus</hi>, continued in the footstep of Euripides’ tragedies. Not
+                        long before, Nanninck had translated Euripides’ <hi rend="italic"
+                            >Andromache</hi>, see Ep. 590.<ref>olahus.tei.15370928_1</ref></note>
+                    Generosissime et Magnificentissime, peream pessime, si mihi quicquam difficilius
+                    expertus sum; non remorantur sententiae, sed cupio in Latinis non nihil
+                    respondere Demosthenicis virtutibus, id non nisi extremo et assiduo conatu
+                    impetrare possum. Ante tamen tuum reditum spero librum evulgatum iri. </p>
                 <p xml:id="p.5">De rebus novis turpe est ad te scribere, cuius fidelissimae
                     conscientiae reges et monarchae sua arcana committunt. Faxit Deus, ut et
                     Hungariam et te talem videamus, <choice>

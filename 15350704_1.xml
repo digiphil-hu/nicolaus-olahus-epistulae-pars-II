@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -234,26 +232,25 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem dicit. </p>
-                <p xml:id="p.2">Hodie bene mane binas tuas litteras accepi:<note type="critic"
-                        xml:id="note.1">We do not know these letters.</note> alteras XIII., alteras
-                    XX. Iunii datas, ex quibus <persName>princeps</persName><note type="critic"
-                        xml:id="note.2">Francesco II Sforza.</note> meus valde laetatus est,
-                    cupiebat enim summe intelligere, quid istic Gallus et Anglus molirentur. Item
-                        <milestone unit="pb"/>res Cymbricas et Monasteriensem<note type="critic"
-                        xml:id="note.3">Münster.</note> famem, quod a te exspectabant, optime
-                    absolvisti, reliquum est, ut in hac consueta scriptione perseveres, quippe et
-                    principibus meis et mihi rem maxime gratam facturus es. Exitum rerum
-                    Aphricanarum brevi exspectamus, qui <persName>caesari</persName> nostro non
-                    homine, sed Deo felicissimus erit. Res Turcica in summo naufragio est, quod ex
-                    quibusdam exemplis litterarum nuper nobis allatis intelliges, ea serenissimae
-                        <persName>reginae</persName> mittuntur. De libello
-                        <persName>Gemmae</persName><note type="critic" xml:id="note.4">Jemme
-                        Reinerszoon.</note> tibi gratias ago, et cum globi canones habueris, operam
-                    dabis, ut quamprimum habeam. Duces te resalutant et te diligunt, tu meis verbis
-                        <persName>Scepero</persName><note type="critic" xml:id="note.5">Cornelis de
-                        Schepper.</note> et eius <persName>uxori</persName><note type="critic"
-                        xml:id="note.6">Anna Isabella (Elizabeth) Donche.</note> plurimam salutem
-                    adscribes. Vale, Optime Olae, et me, ut facis, ama. </p>
+                <p xml:id="p.2">Hodie bene mane binas tuas litteras accepi:<note xml:id="note.1">We
+                        do not know these letters.</note> alteras XIII., alteras XX. Iunii datas, ex
+                    quibus <persName>princeps</persName><note xml:id="note.2">Francesco II
+                        Sforza.</note> meus valde laetatus est, cupiebat enim summe intelligere,
+                    quid istic Gallus et Anglus molirentur. Item <milestone unit="pb"/>res Cymbricas
+                    et Monasteriensem<note xml:id="note.3">Münster.</note> famem, quod a te
+                    exspectabant, optime absolvisti, reliquum est, ut in hac consueta scriptione
+                    perseveres, quippe et principibus meis et mihi rem maxime gratam facturus es.
+                    Exitum rerum Aphricanarum brevi exspectamus, qui <persName>caesari</persName>
+                    nostro non homine, sed Deo felicissimus erit. Res Turcica in summo naufragio
+                    est, quod ex quibusdam exemplis litterarum nuper nobis allatis intelliges, ea
+                    serenissimae <persName>reginae</persName> mittuntur. De libello
+                        <persName>Gemmae</persName><note xml:id="note.4">Jemme Reinerszoon.</note>
+                    tibi gratias ago, et cum globi canones habueris, operam dabis, ut quamprimum
+                    habeam. Duces te resalutant et te diligunt, tu meis verbis
+                        <persName>Scepero</persName><note xml:id="note.5">Cornelis de
+                        Schepper.</note> et eius <persName>uxori</persName><note xml:id="note.6"
+                        >Anna Isabella (Elizabeth) Donche.</note> plurimam salutem adscribes. Vale,
+                    Optime Olae, et me, ut facis, ama. </p>
                 <p xml:id="p.3"><placeName>Mediolano</placeName> IIII. Nonarum Iulias anno
                     MDXXXV.</p>
             </div>

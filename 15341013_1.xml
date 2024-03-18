@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh <idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -236,16 +234,16 @@
                 <p xml:id="p.1">Idem Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Alteris litteris meis scriptis ecce tabellarius ex
                         <placeName>Genua</placeName>. Is enim nobis pro certo confirmavit
-                        <persName>regulum Tuneti</persName>,<note type="critic" xml:id="note.1">Abu
-                        Abdallah Muhammad V al-Hasa.</note> Tuneto per deditionem
-                        <persName>Aenobarbo</persName><note type="critic" xml:id="note.2">Hayreddin
-                        Barbarossa Pasha.</note> tradita, ab oppidanis una cum liberis et coniuge
-                    trucidatum. Idem Iudeum pyratam pro <persName>Aenobarbo</persName> in classe
-                    Turcica vicariam operam agere et propter insulam <placeName>Corsicam</placeName>
-                    cum bene magna parte classis esse, et maritimam omnem
+                        <persName>regulum Tuneti</persName>,<note xml:id="note.1">Abu Abdallah
+                        Muhammad V al-Hasa.</note> Tuneto per deditionem
+                        <persName>Aenobarbo</persName><note xml:id="note.2">Hayreddin Barbarossa
+                        Pasha.</note> tradita, ab oppidanis una cum liberis et coniuge trucidatum.
+                    Idem Iudeum pyratam pro <persName>Aenobarbo</persName> in classe Turcica
+                    vicariam operam agere et propter insulam <placeName>Corsicam</placeName> cum
+                    bene magna parte classis esse, et maritimam omnem
                         <placeName>Sardiniae</placeName> oram populatum. <persName>Princeps
-                        Auria</persName><note type="critic" xml:id="note.3">Andrea Doria (D’Oria)
-                        was usually called Admiral Doria, although he also became Prince of Melfi in
+                        Auria</persName><note xml:id="note.3">Andrea Doria (D’Oria) was usually
+                        called Admiral Doria, although he also became Prince of Melfi in
                         1531.</note> durissimis tempestatibus adhuc in
                         <placeName>Sicilia</placeName> retinetur. Si in illum incidet, di boni, quas
                     strages edet. Accepimus eundem a Turca in mandatis habere, ut Venetis et Gallis

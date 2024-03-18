@@ -212,11 +212,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -254,10 +252,10 @@
                     intelligam, non fuit consilium tuum <hi rend="italic">Athilam</hi> diutius
                     invitum retinere, ne mihi quoque negotium facessat, illud autem abs te cupio
                     impetrare, ne vir tantas inter chartas tuas diutius delitescat, sed in publicum
-                        prodeat,<note type="critic" xml:id="note.1"><hi rend="italic">Athila</hi>
-                        was only published in 1568, by János Zsámboky. On the editions of Oláh’s
-                        historical works, see <hi rend="smallcap">Tóth</hi> 2019, 124.</note>
-                    mirifica voluptate studiosos omnes affecturus. Quid enim possit esse praeclarius
+                        prodeat,<note xml:id="note.1"><hi rend="italic">Athila</hi> was only
+                        published in 1568, by János Zsámboky. On the editions of Oláh’s historical
+                        works, see <hi rend="smallcap">Tóth</hi> 2019, 124.</note> mirifica
+                    voluptate studiosos omnes affecturus. Quid enim possit esse praeclarius
                     historiarum exacta cognitione? Sed vereor, ne nostro quoque tempore propter <del
                         corresp="editor">propter</del> hominum scelera rursus exoriatur divinum
                     aliquod flagellum ad mores hominum castigandos luxumque domandum. Omne in
@@ -267,40 +265,38 @@
                         type="corr">pater</add> exhibet <milestone unit="pb"/>filio improbo, dum
                     castigat et flagrum adhibet, cum sanari aliter non vult lenioraque remedia
                     contemnit. </p>
-                <p xml:id="p.3">[2.] Audivi ex <persName>Brugensi</persName><note type="critic"
-                        xml:id="note.2">We do not know him more closely.</note> quodam, qui
+                <p xml:id="p.3">[2.] Audivi ex <persName>Brugensi</persName><note xml:id="note.2">We
+                        do not know him more closely.</note> quodam, qui
                         <placeName>Parrisiis</placeName> fuit et latuit hoc bello, Gallos edidisse
                     libellum recenti fetura XXXVI plus minus <del corresp="Olahus"
                         >quateniores</del><add corresp="Olahus" type="corr">quaterniones</add>
                     continentem, in quo multa adversus caesaream maiestatem calumniantur.<note
-                        type="critic" xml:id="note.3">For more, see <hi rend="smallcap"
-                            >Detering–Pulia</hi> 2020.</note> Mirum est principes vulgi iudicio
-                    causam committere, et quaedam aperire mysteria, quae postea <del
-                        corresp="Olahus">forsitam</del><add corresp="Olahus" type="corr"
-                        >forsitan</add> occultata cuperent. Sic bellum gerere deberent, veluti
-                    memores aliquando sese in gratiam redire posse. <quote xml:id="quote.1">Sic
-                        oderis, inquit ille, tamquam aliquando amaturus.</quote><note type="quote"
-                        xml:id="note.quote.1">Erasm. <hi rend="italic">Adag</hi>. 1072. II, I, 72.
-                        Ama tanquam osurus, oderis tanquam amaturus.</note> Mitto his adiunctas
-                    litteras ad <persName>Zwallembergum</persName>,<note type="critic"
-                        xml:id="note.4">Theodor Adam Svallenberg.</note> qui
-                        <placeName>Parisiis</placeName><del corresp="Olahus">et</del><add
-                        corresp="Olahus" type="corr">est</add> in collegio Cameracensi, quas licebit
-                    aperire et si quis <del corresp="Olahus">istius</del><add corresp="Olahus"
-                        type="corr">istinc</add> eo proficiscitur mittere, nam hinc nemo
-                    proficiscitur. Misi nudiustertius litteras unacum epitaphiis tuis et Graeco illo
-                    pro virili mea in Latinum converso duplici versione,<note type="critic"
-                        xml:id="note.5">See Ep. 592. and the text editions of the poems: <hi
-                            rend="smallcap">Ipolyi</hi> 595. Cranevelt translated Oláh’s Greek poem.
-                        For the original poem see <hi rend="smallcap">Neagu</hi> 2003,
+                        xml:id="note.3">For more, see <hi rend="smallcap">Detering–Pulia</hi>
+                        2020.</note> Mirum est principes vulgi iudicio causam committere, et quaedam
+                    aperire mysteria, quae postea <del corresp="Olahus">forsitam</del><add
+                        corresp="Olahus" type="corr">forsitan</add> occultata cuperent. Sic bellum
+                    gerere deberent, veluti memores aliquando sese in gratiam redire posse. <quote
+                        xml:id="quote.1">Sic oderis, inquit ille, tamquam aliquando
+                        amaturus.</quote><note type="quote" xml:id="note.quote.1">Erasm. <hi
+                            rend="italic">Adag</hi>. 1072. II, I, 72. Ama tanquam osurus, oderis
+                        tanquam amaturus.</note> Mitto his adiunctas litteras ad
+                        <persName>Zwallembergum</persName>,<note xml:id="note.4">Theodor Adam
+                        Svallenberg.</note> qui <placeName>Parisiis</placeName><del corresp="Olahus"
+                        >et</del><add corresp="Olahus" type="corr">est</add> in collegio
+                    Cameracensi, quas licebit aperire et si quis <del corresp="Olahus"
+                        >istius</del><add corresp="Olahus" type="corr">istinc</add> eo proficiscitur
+                    mittere, nam hinc nemo proficiscitur. Misi nudiustertius litteras unacum
+                    epitaphiis tuis et Graeco illo pro virili mea in Latinum converso duplici
+                        versione,<note xml:id="note.5">See Ep. 592. and the text editions of the
+                        poems: <hi rend="smallcap">Ipolyi</hi> 595. Cranevelt translated Oláh’s
+                        Greek poem. For the original poem see <hi rend="smallcap">Neagu</hi> 2003,
                             350.<ref>olahus.tei.15371004_1</ref></note> ut si altera minus arrideat,
                     utaris altera, nisi malis utramque <quote xml:id="quote.2">in spongiam
                         incumbere</quote>.<note type="quote" xml:id="note.quote.2">Suet. <hi
                             rend="italic">De vitis caesarum,</hi> Div. Aug. 85: “respondit, Aiacem
-                        suum in spongeam incubuisse”.</note><note type="critic" xml:id="note.6"
-                        >Cranevelt liked citing this line, see Ep.
-                            585.<ref>olahus.tei.15370428_1</ref></note> Vale, Vir Ornatissime, et
-                    Craneveldium inter tuos <choice>
+                        suum in spongeam incubuisse”.</note><note xml:id="note.6">Cranevelt liked
+                        citing this line, see Ep. 585.<ref>olahus.tei.15370428_1</ref></note> Vale,
+                    Vir Ornatissime, et Craneveldium inter tuos <choice>
                         <orig>munera</orig>
                         <supplied>numera</supplied>
                     </choice>. </p>

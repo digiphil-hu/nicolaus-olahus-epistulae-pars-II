@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Christian Kellenaer<idno type="ITIdata">Q470229</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,12 +242,12 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1"><persName>Christianus Sacheus</persName><note type="critic"
-                        xml:id="note.1">Christian Kellenaer, Chrétien Kelders, or Christianus
-                        Cellarius taught Greek and Latin in the Pedagogy the Lily, then by 1530, he
-                        taught Greek at the Collegium Trilinge. For more on his life, see <hi
-                            rend="smallcap">De Vocht</hi> 1954, 291–296 and passim; and <hi
-                            rend="smallcap">Polet</hi> 1936, 255–256.</note> Nicolao Olao servitium. </p>
+                <p xml:id="p.1"><persName>Christianus Sacheus</persName><note xml:id="note.1"
+                        >Christian Kellenaer, Chrétien Kelders, or Christianus Cellarius taught
+                        Greek and Latin in the Pedagogy the Lily, then by 1530, he taught Greek at
+                        the Collegium Trilinge. For more on his life, see <hi rend="smallcap">De
+                            Vocht</hi> 1954, 291–296 and passim; and <hi rend="smallcap">Polet</hi>
+                        1936, 255–256.</note> Nicolao Olao servitium. </p>
                 <p xml:id="p.2">[1.] Diu dubius anxiusque steti, veluti in trivio haerens, num
                     Dominationem Tuam meis litteris interpellarem, necne, alio enim recenti adhuc
                     acceptorum beneficiorum stimulante memoria, quae sine summa ingratitudinis nota

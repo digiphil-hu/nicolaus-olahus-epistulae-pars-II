@@ -207,7 +207,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -237,18 +236,18 @@
                 <pb/>
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori Caroli caesaris. </p>
                 <p xml:id="p.2">[1.] Decima huius mensis litteras tuas accepi datas<note
-                        type="critic" xml:id="note.1">We do not know this letter.</note> XXX.
-                    Decembris <placeName>Pragae</placeName>. De rebus novis habeo tibi gratias. Noli
-                    et deinceps praetermittere, quin sciam a te nova, maxime de rebus Hungaricis, ex
+                        xml:id="note.1">We do not know this letter.</note> XXX. Decembris
+                        <placeName>Pragae</placeName>. De rebus novis habeo tibi gratias. Noli et
+                    deinceps praetermittere, quin sciam a te nova, maxime de rebus Hungaricis, ex
                     quibus pendeo. Ex <placeName>Hispanis</placeName><del corresp="Olahus"
                         >et</del><add corresp="Olahus" type="corr">XII.</add> huius accepimus
                     litteras, dum antea a tribus circiter mensibus nullas acceperamus, nescio, an ob
                     negotiorum multitudinem aut expeditionum negligentiam. Scripsit ad me
-                        <persName>Cornelius</persName><note type="critic" xml:id="note.2">Cornelis
-                        de Schepper.</note> se brevi illinc expediri et brevi reversurum, utra tamen
+                        <persName>Cornelius</persName><note xml:id="note.2">Cornelis de
+                        Schepper.</note> se brevi illinc expediri et brevi reversurum, utra tamen
                     via Burgundiaca, scilicet an hac <placeName>Brabantia</placeName>, incertum
-                        esse.<note type="critic" xml:id="note.3">See Ep.
-                            434.<ref>olahus.tei.15331227_1</ref></note> Ego mallem eum reverti
+                        esse.<note xml:id="note.3">See Ep.
+                        434.<ref>olahus.tei.15331227_1</ref></note> Ego mallem eum reverti
                     Burgundiaca propter <milestone unit="pb"/>celeriorem ad vos ipsius adventum,
                     quamvis id quoque mihi gratum esset, si huc veniret. Si huc non venerit, scribam
                     ad eum latius de rebus meis omnibus, ut tecum eas communicet. Amborum postea
@@ -260,11 +259,11 @@
                     constituisse conventum agere cum commissariis caesaris, huius patriae locus est
                         <placeName>Hamburga</placeName>, dies, ni fallor, XV. Februarii. Inter alios
                     commissarios profecturus est eo <persName>Erhardus noster
-                        Mueler</persName>,<note type="critic" xml:id="note.4">Erhard Müller.</note>
-                    alii nondum certo designati. Advenient eo et oratores Dani, qui huc debebant
-                    venire. Agetur istic prius negotium, postea fortasse et Dani et Lubecenses
-                    legati huc venient. Egi ego cum <persName>regina</persName> et
-                        <persName>Panormitano</persName>,<note type="critic" xml:id="note.5">Jean II
+                        Mueler</persName>,<note xml:id="note.4">Erhard Müller.</note> alii nondum
+                    certo designati. Advenient eo et oratores Dani, qui huc debebant venire. Agetur
+                    istic prius negotium, postea fortasse et Dani et Lubecenses legati huc venient.
+                    Egi ego cum <persName>regina</persName> et
+                        <persName>Panormitano</persName>,<note xml:id="note.5">Jean II
                         Carondelet.</note> ut daretur informatio ipsi <persName>Mueler</persName> et
                     aliis, qui ipsius erunt collegae in rebus tuis, ut agerent inter alios tractatus
                     etiam de his tuis rebus cum Danis, si qui forte eo sunt venturi. Et iam ante
@@ -286,8 +285,8 @@
                     eligendo scribam propediem. Res meas tibi commendo
                         <persName>Cornelioque</persName> nostro. Quibus si ille hic non diverterit,
                     brevi, ut praemisi, plura scribam. De adventu <persName>Grythi</persName>,<note
-                        type="critic" xml:id="note.6">Lodovico Gritti.</note> de rebus meis et novis
-                    aliis Hungaricis a te exspecto. Vale.</p>
+                        xml:id="note.6">Lodovico Gritti.</note> de rebus meis et novis aliis
+                    Hungaricis a te exspecto. Vale.</p>
                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 15. Ianuarii anno Domini 1534.</p>
             </div>
         </body>

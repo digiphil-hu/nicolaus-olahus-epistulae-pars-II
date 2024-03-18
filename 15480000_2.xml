@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>[Mihály Révay]<idno type="ITIdata">Q470216</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,8 +229,8 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ad reverendissimum Nicolaum Olachum.<note type="critic"
-                        xml:id="note.1">See Ep. 699.<ref>olahus.tei.15480000_1</ref></note></p>
+                <p xml:id="p.1">Ad reverendissimum Nicolaum Olachum.<note xml:id="note.1">See Ep.
+                            699.<ref>olahus.tei.15480000_1</ref></note></p>
                 <p xml:id="p.2">Cum, Reverendissime Domine Patrone mihi omnibus officiis Colende,
                     haberem proprium tabellarium, nolui <del corresp="author">intermittere</del><add
                         corresp="author" type="corr">praetermittere</add>, ni hae tanta occasione
@@ -244,12 +242,11 @@
                     authoritate paratus sis. Quapropter oro <del corresp="author">Tuam
                         Reverendissimam</del><add corresp="author" type="corr">vehementer</add>, ut
                     Dominatio Tua Reverendissima apud serenissimam <persName>regiam
-                        maiestatem</persName><note type="critic" xml:id="note.2">King Ferdinand
-                        I.</note> omnes res nostras promovere studeat. Quod si fecerit
-                    Reverendissima Dominatio Tua, erimus Dominationi Tuae Reverendissimae
-                    devinctissimi omni genere obsequiorum. Nam gratiam referre non possumus, sed
-                    tamen ingrati omnino esse nolumus, de ingrato enim bene mereri stultissimum est,
-                    ut etiam noster Theognis ait:</p>
+                        maiestatem</persName><note xml:id="note.2">King Ferdinand I.</note> omnes
+                    res nostras promovere studeat. Quod si fecerit Reverendissima Dominatio Tua,
+                    erimus Dominationi Tuae Reverendissimae devinctissimi omni genere obsequiorum.
+                    Nam gratiam referre non possumus, sed tamen ingrati omnino esse nolumus, de
+                    ingrato enim bene mereri stultissimum est, ut etiam noster Theognis ait:</p>
                 <quote xml:id="quote.1">
                     <lg xml:id="lg.1">
                         <l xml:id="l.1">Δειλοὺς δ’ <choice>

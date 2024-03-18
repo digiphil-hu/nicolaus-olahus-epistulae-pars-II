@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,11 +229,11 @@
                 <pb/>
                 <p xml:id="p.1">Spectabilis et Magnifice Domine, Frater nobis Observandissime,
                     salutem et servitiorum meorum commendationem! </p>
-                <p xml:id="p.2">Hac hora allatae sunt mihi litterae<note type="critic"
-                        xml:id="note.1">See Ep. 764.<ref>olahus.tei.15510309_1</ref></note> a
-                        <persName>regia maiestate</persName>, domino nostro clementissimo, quibus
-                    scribit se X. die huius mensis <placeName>Augusta</placeName> moturam, et intra
-                    octavum <placeName>Viennae</placeName> futuram. Commisit mihi, ne interim usque
+                <p xml:id="p.2">Hac hora allatae sunt mihi litterae<note xml:id="note.1">See Ep.
+                            764.<ref>olahus.tei.15510309_1</ref></note> a <persName>regia
+                        maiestate</persName>, domino nostro clementissimo, quibus scribit se X. die
+                    huius mensis <placeName>Augusta</placeName> moturam, et intra octavum
+                        <placeName>Viennae</placeName> futuram. Commisit mihi, ne interim usque
                     discedam, sed hic se exspectem. Vestram itaque Magnificam Dominationem facio de
                     adventu eius maiestatis certiorem, ut ipsa quoque una cum aliis reverendissimis
                     et magnificis dominis consiliariis, ad quos similiter hoc perscripsi, ad

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pál Várday <idno type="ITIdata">Q50220</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,15 +229,14 @@
                 <p xml:id="p.1">Reverendissime Domine et Frater Observandissime, salutem et nostri
                     commendationem! </p>
                 <p xml:id="p.2"><persName>Servitor</persName> quidam domini <persName>Fratris
-                        Georgii</persName><note type="critic" xml:id="note.1">George
-                        Martinuzzi.</note> huc veniens attulit litteras <persName>maiestati
-                        regiae</persName> inscriptas, quibus adiunctae erant alterae ad Dominationem
-                    Vestram Reverendissimam. Ambas, ut manibus nostris assignatae sunt, huc annexas
-                    Dominationi Vestrae Reverendissimae mittimus, velit acceptum a maiestate regia
-                    ad eas responsum, et si quid praeterea Dominatio Vestra scribere voluerit, ad
-                    nos dirigere, praestolabitur hic nuntius responsum regium, quo allato rediturus
-                    est ad dominum suum. Reverendissimam Dominationem Vestram optamus valere
-                    feliciter.</p>
+                        Georgii</persName><note xml:id="note.1">George Martinuzzi.</note> huc
+                    veniens attulit litteras <persName>maiestati regiae</persName> inscriptas,
+                    quibus adiunctae erant alterae ad Dominationem Vestram Reverendissimam. Ambas,
+                    ut manibus nostris assignatae sunt, huc annexas Dominationi Vestrae
+                    Reverendissimae mittimus, velit acceptum a maiestate regia ad eas responsum, et
+                    si quid praeterea Dominatio Vestra scribere voluerit, ad nos dirigere,
+                    praestolabitur hic nuntius responsum regium, quo allato rediturus est ad dominum
+                    suum. Reverendissimam Dominationem Vestram optamus valere feliciter.</p>
                 <p xml:id="p.3"><placeName>Posonii</placeName> 10. die Novembris 1543.</p>
                 <p xml:id="p.4">Reverendissimae Dominationis Vestrae bonus frater</p>
                 <p xml:id="p.5">

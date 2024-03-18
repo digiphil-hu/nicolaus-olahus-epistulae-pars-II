@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Pál Gregorjánczy<idno type="ITIdata">Q59539</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,16 +243,16 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Reverendissime in Christo Pater,<note type="critic" xml:id="note.1"
-                        >Pál Gregorjánczy (†1565) was a humanist prelate. He was Bishop of Pécs
+                <p xml:id="p.1">Reverendissime in Christo Pater,<note xml:id="note.1">Pál
+                        Gregorjánczy (†1565) was a humanist prelate. He was Bishop of Pécs
                         (1548–1550), Canon of Zagreb and Canon of Bratislava, Bishop of Zagreb
                         (1550–1558), Bishop of Győr (1554–1565), and Archbishop of Kalocsa (1565).
                         He negotiated in Rome as an envoy of King Ferdinand I during 1551 and 1552,
                         see <hi rend="smallcap">Varga</hi> 2010a.</note> Domine et Frater nobis
                     Honorandissime, salutem! </p>
-                <p xml:id="p.2">[1.] Accepimus litteras<note type="critic" xml:id="note.2">We do not
-                        know this letter.</note> Dominationis Vestrae, quarum statim initio hortatur
-                    nos ad sollicitandum <persName>maiestatem regiam</persName>, dominum nostrum
+                <p xml:id="p.2">[1.] Accepimus litteras<note xml:id="note.2">We do not know this
+                        letter.</note> Dominationis Vestrae, quarum statim initio hortatur nos ad
+                    sollicitandum <persName>maiestatem regiam</persName>, dominum nostrum
                     clementissimum, ut laboranti et in summa necessitate constitutae Hungariae
                     subvenire eamque ab impendentibus periculis defendere dignaretur. Sciat
                     Dominatio Vestra nos cum antea, tum etiam nunc diligenter egisse, et deinceps
@@ -263,17 +261,16 @@
                     propensam esse intelleximus, ut etiam si nullius adhortatio accederet, ultro
                     defensionem eius esset curatura.</p>
                 <p xml:id="p.3">Ubi vero Dominatio Vestra scribit de magistro <persName>Gregorio
-                        Mayczeny</persName>,<note type="critic" xml:id="note.3">Gergely Majczen was
-                        Canon of Zagreb. Oláh tried to help and gave him the title of Court
-                        Chaplain, but Majczen seems to have rejected it, see <hi rend="smallcap"
-                            >Fazekas</hi> 2021, 82.</note> nos eius commodo providere volebamus, sed
-                    postaquam ipse aliam habet sententiam, videat, quid in re sua expediat.</p>
+                        Mayczeny</persName>,<note xml:id="note.3">Gergely Majczen was Canon of
+                        Zagreb. Oláh tried to help and gave him the title of Court Chaplain, but
+                        Majczen seems to have rejected it, see <hi rend="smallcap">Fazekas</hi>
+                        2021, 82.</note> nos eius commodo providere volebamus, sed postaquam ipse
+                    aliam habet sententiam, videat, quid in re sua expediat.</p>
                 <p xml:id="p.4">[2.] Quod litteras domini <persName>Lucae Zekel</persName><note
-                        type="critic" xml:id="note.4">Lukács Székely. We do not know this
-                        letter.</note> attinet, postquam eas ad Dominationem Vestram misimus,
-                    supplicarunt maiestati regiae pro bonis illis filii<note type="critic"
-                        xml:id="note.5">Máté and Ferenc Keglevich.</note> domini <persName>Petri
-                        Keglewith</persName>,<note type="critic" xml:id="note.6">Petar Keglević II
+                        xml:id="note.4">Lukács Székely. We do not know this letter.</note> attinet,
+                    postquam eas ad Dominationem Vestram misimus, supplicarunt maiestati regiae pro
+                    bonis illis filii<note xml:id="note.5">Máté and Ferenc Keglevich.</note> domini
+                        <persName>Petri Keglewith</persName>,<note xml:id="note.6">Petar Keglević II
                         of Bužim was the Ban of Croatia and Slavonia between 1537 and 1542.</note>
                     quorum merita suae maiestati grata sunt, eo potissimum nomine quod unus eorum,
                     natu maior in regno Sclavoniae sacrae regni Hungariae, alter vero serenissimo
@@ -292,17 +289,16 @@
                     vel coram, ut speramus, brevi, vel per litteras significabimus. <add
                         corresp="Olahus" type="insert">Speramus tamen nos quoque in Februario
                         redituros.</add> Litteras iuris regii pro <persName>fratre</persName><note
-                        type="critic" xml:id="note.7">Probably Ambrus Gregorjánczy. Varga claims
-                        that Ambrus was Pál’s brother, not his uncle, as it is often claimed in the
-                        literature. Pál also had other brothers: István, Mihály, and Márk, but we do
-                        not know about their activities. Ambrus was a constable in Križevci, and
-                        served the Zrínyi family, see <hi rend="smallcap">Varga</hi> 2010,
-                        129–130.</note> Dominationis Vestrae ad eam cum praesentibus misimus.
-                    Credimus nos quoque, <add corresp="Olahus" type="insert">ut praemisimus,</add>
-                    ineunte quadragesimali tempore unacum regia maiestate
-                        <placeName>Viennam</placeName> descensuros, tunc tum de his, tum etiam aliis
-                    negotiis ad Dominationem Vestram affatim colloquemur, quam bene valere
-                    optamus.</p>
+                        xml:id="note.7">Probably Ambrus Gregorjánczy. Varga claims that Ambrus was
+                        Pál’s brother, not his uncle, as it is often claimed in the literature. Pál
+                        also had other brothers: István, Mihály, and Márk, but we do not know about
+                        their activities. Ambrus was a constable in Križevci, and served the Zrínyi
+                        family, see <hi rend="smallcap">Varga</hi> 2010, 129–130.</note>
+                    Dominationis Vestrae ad eam cum praesentibus misimus. Credimus nos quoque, <add
+                        corresp="Olahus" type="insert">ut praemisimus,</add> ineunte quadragesimali
+                    tempore unacum regia maiestate <placeName>Viennam</placeName> descensuros, tunc
+                    tum de his, tum etiam aliis negotiis ad Dominationem Vestram affatim
+                    colloquemur, quam bene valere optamus.</p>
                 <p xml:id="p.5">Datum <placeName>Augustae Rheticae</placeName> 17. Ianuarii
                     1551.</p>
                 <p xml:id="p.6">

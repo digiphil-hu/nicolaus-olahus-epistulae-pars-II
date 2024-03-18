@@ -224,11 +224,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Lieven van den Zande<idno type="ITIdata">Q470351</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -280,27 +278,26 @@
                     ascribito velim, quam meo in te alieno animo. Qui dum spirabit, mea sponte <add
                         corresp="Olahus" type="insert">non</add> modo non alienabitur, sed, ut
                     spero, cum aetate utriusque nostrum indies iam maturescente erga te augebitur. </p>
-                <p xml:id="p.3">[2.] Binas a te, immo ternas<note type="critic" xml:id="note.1"
-                        >Probably Ep. 472; Ep. 481; and Ep.
+                <p xml:id="p.3">[2.] Binas a te, immo ternas<note xml:id="note.1">Probably Ep. 472;
+                        Ep. 481; and Ep.
                         489.<ref>olahus.tei.15340317_1</ref></note><ref>/o:olahus.tei.15340419_1</ref><ref>/o:olahus.tei.15340529_1</ref>
                     (alteris enim veteres erant, quaedam inclusae) accepi litteras: alteras ultima,
                     ni fallor, Aprilis, alteras hodie, dum e Lovanio reverteremur. Priores unus ex
                     meis pueris acceperat, nescio, a quo tabellione incerto, quem ego non vidi. Has
                     novissimas reddidit mihi <persName>Ioannes Langhius</persName><note
-                        type="critic" xml:id="note.2">John de Lange.</note> a secretis
-                        <persName>Panormitani</persName>.<note type="critic" xml:id="note.3">Jean II
+                        xml:id="note.2">John de Lange.</note> a secretis
+                        <persName>Panormitani</persName>.<note xml:id="note.3">Jean II
                         Carondelet.</note> Nunc ad utrasque accipe. </p>
                 <p xml:id="p.4">Agis mihi gratias de libellis a me tibi dono missis, et purgas te,
                     ne ingratitudinis te accusem, quod prius gratias non egeris. Inter τοὺς
-                        φίλους<note type="critic" xml:id="note.4">‘(Among) friends’.</note> non
-                    licet uti hac excusatione. Nam quae gratia agi <del corresp="Olahus"
-                        >debetur</del><add corresp="Olahus" type="corr">debet</add> amico, sponte
-                    cupienti amico gratificari, et alioqui vera ἡ φιλία<note type="critic"
-                        xml:id="note.5">‘friendship’.</note> seu ἀγαπή,<note type="critic"
-                        xml:id="note.6">‘love’.</note> ut Paulino utar verbo, ab amico neque
-                    exspectat sibi referri gratiam, neque <quote xml:id="quote.1">λογίζεται τὸ
+                        φίλους<note xml:id="note.4">‘(Among) friends’.</note> non licet uti hac
+                    excusatione. Nam quae gratia agi <del corresp="Olahus">debetur</del><add
+                        corresp="Olahus" type="corr">debet</add> amico, sponte cupienti amico
+                    gratificari, et alioqui vera ἡ φιλία<note xml:id="note.5">‘friendship’.</note>
+                    seu ἀγαπή,<note xml:id="note.6">‘love’.</note> ut Paulino utar verbo, ab amico
+                    neque exspectat sibi referri gratiam, neque <quote xml:id="quote.1">λογίζεται τὸ
                         κακόν</quote><note type="quote" xml:id="note.quote.1">1Cor
-                        13:6.</note>,<note type="critic" xml:id="note.7">‘it takes no pleasure in
+                        13:6.</note>,<note xml:id="note.7">‘it takes no pleasure in
                         wrongdoing’.</note> sed omnia, quae <milestone unit="pb"/>amicus facit, sive
                     sileat, sive multis verborum utatur cumulis gratitudinem referentibus, in bonam
                     interpretatur partem. Non igitur erat opus aut excusatione silentii aut
@@ -312,8 +309,8 @@
                 <p xml:id="p.5">[3.] <choice>
                         <orig>Scribes</orig>
                         <supplied>Scribis</supplied>
-                    </choice><note type="critic" xml:id="note.8">Ep. 489. Cap.
-                            1.<ref>olahus.tei.15340529_1</ref></note> quendam
+                    </choice><note xml:id="note.8">Ep. 489. Cap.
+                        1.<ref>olahus.tei.15340529_1</ref></note> quendam
                         <persName>Benedictum</persName> ad te fuisse profectum, qui dixerit se
                     comitem <persName>Erasmo</persName> ex <placeName>Colonia Agrippina</placeName>
                     huc venienti fuisse, et laetaris illum iam esse apud
@@ -325,81 +322,78 @@
                     narravit. Somniaverat fortasse se vidisse <persName>Erasmum</persName>. Nondum
                     illum puto se itineri potuisse <del corresp="Olahus">commisisse</del><add
                         corresp="Olahus" type="corr">committere</add>. Nam praemisisset aliquem, qui
-                    suum mihi adventum nuntiaret. Cuius animum ex his litterarum<note type="critic"
+                    suum mihi adventum nuntiaret. Cuius animum ex his litterarum<note
                         xml:id="note.9">Ep. 482.<ref>olahus.tei.15340422_1</ref></note> suarum XXII.
                     Aprilis ad me datarum fragmentis cognosces: “Ad Kalendas Aprilis coepi non bene
                     quidem, sed aliquanto minus male habere, et in bonam spem erectus sum. At post
                     dies octo gravissimis cruciatibus invasit sinistrum capitis et colli latus cum
                     humero et brachio, qui sic illi haeret, ut videatur nusquam abiturus. Quinque
-                    mensibus non extuleram pedem domo. Ipso die Paschae<note type="critic"
-                        xml:id="note.10">5 April.</note> sacrificavi in cubiculo. Me a reditu
-                    monachorum intemperies non deterrerent, nisi mihi metuerem a paralysi. Quod si
-                    iter esset quattuor aut quinque dierum, vel lectita curarem me istic
-                    deportandum. <add corresp="editor">Arguerent, inquis, te
-                        inconstatiae</add>,<note type="critic" xml:id="note.11">Inserted after
-                        Erasmus’ letter. Without these words the sentence does not make
+                    mensibus non extuleram pedem domo. Ipso die Paschae<note xml:id="note.10">5
+                        April.</note> sacrificavi in cubiculo. Me a reditu monachorum intemperies
+                    non deterrerent, nisi mihi metuerem a paralysi. Quod si iter esset quattuor aut
+                    quinque dierum, vel lectita curarem me istic deportandum. <add corresp="editor"
+                        >Arguerent, inquis, te inconstatiae</add>,<note xml:id="note.11">Inserted
+                        after Erasmus’ letter. Without these words the sentence does not make
                         sense.</note> utinam hoc crimen in me haereret. <persName>Marchio</persName>
-                    nihil faciet, <persName>Hellenio</persName><note type="critic" xml:id="note.12"
-                        >Michaël Hillen von Hoochstraaten.</note> favet funigeris et iam volumina
-                    distracta sunt. Quamquam ille stolidus liber haud multum officiet meo nomini,
-                    hic timeo graviora a sectarum fautoribus, qui sibi persuadent Erasmum in mora
-                    esse, quo minus impune regnent ubique. <persName>Lutherus</persName> epistolam
-                    emisit simpliciter furiosam, nec aliud spirantem, quam odium parricidiale. De
-                    tuo in me studio, Olahe Carissime, profecto memorem mones, nec sum ignarus, quot
-                    et quantis nominibus tibi debeam. Id utinam officio quopiam insigni queam
-                    declarare! <persName>Levinus</persName><note type="critic" xml:id="note.13"
-                        >Lieven Algoet.</note> significat te parare reditum in Hungariam, quod ut
-                    tibi precor, quam felicissimum esse, ita mihi futurum est incommodum, sive
-                    redeo, sive non redeo. τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι<note type="critic"
-                        xml:id="note.14">‘friends who love far away are not friends’. Oláh omitted
-                        one sentence of Erasmus’ letter here.</note> Vix haec potui scribere prae
-                    cruciatu. Crede mihi nullis hortamentis opus est ad reditum. Non deero
-                    occasioni.” Non igitur adhuc venit, neque animum abiecit redeundi, nisi eum
-                    inique et praeter ullam <milestone unit="pb"/>iustam rationem acrius impeterent
-                    aetatis suae iam senilis inimici capitales. Si venerit, vel aliquid ab eo certi
-                    habuero, faciam, ut scias. </p>
+                    nihil faciet, <persName>Hellenio</persName><note xml:id="note.12">Michaël Hillen
+                        von Hoochstraaten.</note> favet funigeris et iam volumina distracta sunt.
+                    Quamquam ille stolidus liber haud multum officiet meo nomini, hic timeo graviora
+                    a sectarum fautoribus, qui sibi persuadent Erasmum in mora esse, quo minus
+                    impune regnent ubique. <persName>Lutherus</persName> epistolam emisit
+                    simpliciter furiosam, nec aliud spirantem, quam odium parricidiale. De tuo in me
+                    studio, Olahe Carissime, profecto memorem mones, nec sum ignarus, quot et
+                    quantis nominibus tibi debeam. Id utinam officio quopiam insigni queam
+                    declarare! <persName>Levinus</persName><note xml:id="note.13">Lieven
+                        Algoet.</note> significat te parare reditum in Hungariam, quod ut tibi
+                    precor, quam felicissimum esse, ita mihi futurum est incommodum, sive redeo,
+                    sive non redeo. τηλοῦ φίλοι ναίοντες οὐκ εἰσὶν φίλοι<note xml:id="note.14"
+                        >‘friends who love far away are not friends’. Oláh omitted one sentence of
+                        Erasmus’ letter here.</note> Vix haec potui scribere prae cruciatu. Crede
+                    mihi nullis hortamentis opus est ad reditum. Non deero occasioni.” Non igitur
+                    adhuc venit, neque animum abiecit redeundi, nisi eum inique et praeter ullam
+                        <milestone unit="pb"/>iustam rationem acrius impeterent aetatis suae iam
+                    senilis inimici capitales. Si venerit, vel aliquid ab eo certi habuero, faciam,
+                    ut scias. </p>
                 <p xml:id="p.6">[4.] Novi enim te virtutis illius mecum una esse amantem.
-                        <persName>Danus</persName>,<note type="critic" xml:id="note.15">Jakob
-                        Jespersen.</note> si morbus illius pateretur, non desereret meum servitium.
-                    Laborat τῇ ὕδρωπι<note type="critic" xml:id="note.16">‘from dropsy’.</note>
-                    morbo pestifero, provisum est a me illi et de hospitio et de medicis aliisque
-                    necessariis rebus. Nec sinam eum egere, cum sanus mihi servierit. Studium meum
-                    Graecanicum adeo mihi interruptum est ipsius morbo et meis aliis non modo aulae
-                    huius mihi molestis negotiis, sed etiam tum regis mei
-                        <persName>Ferdinandi</persName>, tum patriae meae rebus publicis et meis
-                    quoque privatis in Hungaria turbatis, ut parum nunc promoveam.
-                        <persName>Buccius</persName><note type="critic" xml:id="note.17">See Ep.
-                        489. Cap. 2. We do not know him more
-                            closely.<ref>olahus.tei.15340529_1</ref></note> noster fuit apud me
-                    nuper. Ostenderam ei quaedam a me versa e Graeco exercitii gratia. Ea tamen
-                    talia sunt, qualia exspectare possunt a tirone. </p>
-                <p xml:id="p.7">[5.] Exactio illa,<note type="critic" xml:id="note.18">Ep. 489. Cap.
+                        <persName>Danus</persName>,<note xml:id="note.15">Jakob Jespersen.</note> si
+                    morbus illius pateretur, non desereret meum servitium. Laborat τῇ ὕδρωπι<note
+                        xml:id="note.16">‘from dropsy’.</note> morbo pestifero, provisum est a me
+                    illi et de hospitio et de medicis aliisque necessariis rebus. Nec sinam eum
+                    egere, cum sanus mihi servierit. Studium meum Graecanicum adeo mihi interruptum
+                    est ipsius morbo et meis aliis non modo aulae huius mihi molestis negotiis, sed
+                    etiam tum regis mei <persName>Ferdinandi</persName>, tum patriae meae rebus
+                    publicis et meis quoque privatis in Hungaria turbatis, ut parum nunc promoveam.
+                        <persName>Buccius</persName><note xml:id="note.17">See Ep. 489. Cap. 2. We
+                        do not know him more closely.<ref>olahus.tei.15340529_1</ref></note> noster
+                    fuit apud me nuper. Ostenderam ei quaedam a me versa e Graeco exercitii gratia.
+                    Ea tamen talia sunt, qualia exspectare possunt a tirone. </p>
+                <p xml:id="p.7">[5.] Exactio illa,<note xml:id="note.18">Ep. 489. Cap.
                             3.<ref>olahus.tei.15340529_1</ref></note> qua nunc omnes ecclesiastici
                     huius regionis urgentur, tam arcta est, difficilis et ἀνεὺ τῆς ἐλεημοσύνης,<note
-                        type="critic" xml:id="note.19">‘ruthless’.</note> ut nemini adhuc
-                    crediderim, vel minimam ex ea partem esse relaxatam etiam ad quorumvis magnatum
-                    preces. Res agitur per financiarios, non per reginam, hi quales sint, puto te
-                    audivisse. Accipere dicuntur libentius ab aliis quam dare, hos urgent οἱ
-                        τραπεζίται,<note type="critic" xml:id="note.20">‘bankers’.</note> qui iam
-                    olim huius exactionis gratia argentum crediderunt ad caesaris negotia. Quibus
-                    haec exactio est designata, si igitur nec ego, nec alii possunt
-                        <persName>Molendino</persName><note type="critic" xml:id="note.21">Jean
-                        Molinier.</note> nostro, qui tamen apud me nec fuit, nec eum vidi hac in re
-                    gratificari, bono accipe animo. Nihil est, quod tum pro te, tum pro eo, qui dum
-                        <placeName>Tornaci</placeName> cum <persName>caesare</persName> essemus,
-                        <del corresp="Olahus"> nonnihil</del><add corresp="Olahus" type="corr"
-                        >nonnulla</add> humanitatis in me praestitit <del corresp="Olahus"
-                        >officii</del><add corresp="Olahus" type="corr">officia</add>, non libenter
-                    essem obiturus, si in qua re eius voluntati satisfacere possem. </p>
+                        xml:id="note.19">‘ruthless’.</note> ut nemini adhuc crediderim, vel minimam
+                    ex ea partem esse relaxatam etiam ad quorumvis magnatum preces. Res agitur per
+                    financiarios, non per reginam, hi quales sint, puto te audivisse. Accipere
+                    dicuntur libentius ab aliis quam dare, hos urgent οἱ τραπεζίται,<note
+                        xml:id="note.20">‘bankers’.</note> qui iam olim huius exactionis gratia
+                    argentum crediderunt ad caesaris negotia. Quibus haec exactio est designata, si
+                    igitur nec ego, nec alii possunt <persName>Molendino</persName><note
+                        xml:id="note.21">Jean Molinier.</note> nostro, qui tamen apud me nec fuit,
+                    nec eum vidi hac in re gratificari, bono accipe animo. Nihil est, quod tum pro
+                    te, tum pro eo, qui dum <placeName>Tornaci</placeName> cum
+                        <persName>caesare</persName> essemus, <del corresp="Olahus">
+                        nonnihil</del><add corresp="Olahus" type="corr">nonnulla</add> humanitatis
+                    in me praestitit <del corresp="Olahus">officii</del><add corresp="Olahus"
+                        type="corr">officia</add>, non libenter essem obiturus, si in qua re eius
+                    voluntati satisfacere possem. </p>
                 <p xml:id="p.8">Mitto ad te <choice>
                         <orig>Erasmum</orig>
                         <supplied>Erasmi</supplied>
-                    </choice><hi rend="italic">De praeparatione ad mortem</hi><note type="critic"
-                        xml:id="note.22">This book was published in Basel in 1534.</note> et eiusdem
-                        <hi rend="italic">τὴν ἀπολογίαν</hi><note type="critic" xml:id="note.23"
-                        >‘his defence’.</note> adversus epistolam <persName>Lutheri</persName>, ut
-                    cum adhuc praesens alloqui <persName>Desiderium</persName> non possis, eius
-                    legendo opera cum illo confabulari videare. Vale et me ama. </p>
+                    </choice><hi rend="italic">De praeparatione ad mortem</hi><note xml:id="note.22"
+                        >This book was published in Basel in 1534.</note> et eiusdem <hi
+                        rend="italic">τὴν ἀπολογίαν</hi><note xml:id="note.23">‘his defence’.</note>
+                    adversus epistolam <persName>Lutheri</persName>, ut cum adhuc praesens alloqui
+                        <persName>Desiderium</persName> non possis, eius legendo opera cum illo
+                    confabulari videare. Vale et me ama. </p>
                 <p xml:id="p.9"><placeName>Bruxellae</placeName> sexta Iunii anno 1534.</p>
             </div>
         </body>

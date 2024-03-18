@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -239,35 +237,34 @@
                 <pb/>
                 <p xml:id="p.1">Ioannes archiepiscopus Lundensis Nicolao Olao salutem.</p>
                 <p xml:id="p.2">Reverende et Magnifice Domine! Die XXVIII. mensis Augusti redditae
-                    mihi sunt litterae Dominationis Vestrae datae<note type="critic" xml:id="note.1"
-                        >We do not know this letter.</note><placeName>Bruxellae</placeName> die
-                    sexta eiusdem, ago autem gratias de rebus novis perscriptis immortales. In quo
-                    statu vero res Hungariae sint, dudum satis prolixe scripsi.
-                        <persName>Caesaris</persName> victoriam non scribo ob id, quod sciam nobilem
-                    ab illius maiestate ad vos nuntium victoriae tam inauditae missum. Quid
-                    conventus <persName>reginarum</persName> boni attulerit, aveo omnino scire,
-                    similiter et quod in negotio Danico conclusum est. Cum Valentino autem
-                        <persName>Turkh</persName>,<note type="critic" xml:id="note.2">Bálint
-                        Török.</note> qui mihi iam factus est amicissimus, egi, ut bona custodiae
-                    Dominationi Vestrae remiserit in totum et quo fructus reliqui anni praesentis ex
-                    Dominationis Vestrae commodo elocentur. Profectus est <del corresp="Olahus"
-                        >dominus</del><persName>Ioannes Cegledinus</persName><note type="critic"
-                        xml:id="note.3">János Czeglédi.</note> una cum domino
-                        <persName>Valentino</persName>, quemadmodum latius fortassis Dominatio
-                    Vestra ex litteris ipsius Cegledini, quas praesentibus mitto,<note type="critic"
-                        xml:id="note.4">We do not know this letter.</note> intelliget. Domino
-                            <persName><del corresp="Olahus">Vlach</del><add corresp="Olahus"
-                            type="corr">Vlachi</add></persName><note type="critic" xml:id="note.5"
-                        >Ferenc Újlaki.</note> regiae maiestatis secretario, amico meo singulari
-                    negotium est cum reginali maiestate, quem in modum Dominatio Vestra ex litteris
-                    et earum copiis praesentibus annexis videre poterit. Hic plurimum me rogavit, ut
-                    negotium istud suum commendarem reginali maiestati. Cum autem neminem habeam,
-                    qui maiori affectu rem istam curare possit et velit praeter Dominationem Vestram
-                    Reverendam, eandem ex animo rogo, ut meo nomine, quantum poterit, apud reginalem
-                    maiestatem negotium istud provehat, ita ut idem vir bonus sentiat se mea
-                    pollicitatione non esse frustratum, id mutuis officiis et vicissitudine erga
-                    eandem Vestrae Dominationi summo studio conabor promereri, quam Dominus Deus diu
-                    incolumem servet, cuique ex animo me commendo. </p>
+                    mihi sunt litterae Dominationis Vestrae datae<note xml:id="note.1">We do not
+                        know this letter.</note><placeName>Bruxellae</placeName> die sexta eiusdem,
+                    ago autem gratias de rebus novis perscriptis immortales. In quo statu vero res
+                    Hungariae sint, dudum satis prolixe scripsi. <persName>Caesaris</persName>
+                    victoriam non scribo ob id, quod sciam nobilem ab illius maiestate ad vos
+                    nuntium victoriae tam inauditae missum. Quid conventus
+                        <persName>reginarum</persName> boni attulerit, aveo omnino scire, similiter
+                    et quod in negotio Danico conclusum est. Cum Valentino autem
+                        <persName>Turkh</persName>,<note xml:id="note.2">Bálint Török.</note> qui
+                    mihi iam factus est amicissimus, egi, ut bona custodiae Dominationi Vestrae
+                    remiserit in totum et quo fructus reliqui anni praesentis ex Dominationis
+                    Vestrae commodo elocentur. Profectus est <del corresp="Olahus"
+                        >dominus</del><persName>Ioannes Cegledinus</persName><note xml:id="note.3"
+                        >János Czeglédi.</note> una cum domino <persName>Valentino</persName>,
+                    quemadmodum latius fortassis Dominatio Vestra ex litteris ipsius Cegledini, quas
+                    praesentibus mitto,<note xml:id="note.4">We do not know this letter.</note>
+                    intelliget. Domino <persName><del corresp="Olahus">Vlach</del><add
+                            corresp="Olahus" type="corr">Vlachi</add></persName><note
+                        xml:id="note.5">Ferenc Újlaki.</note> regiae maiestatis secretario, amico
+                    meo singulari negotium est cum reginali maiestate, quem in modum Dominatio
+                    Vestra ex litteris et earum copiis praesentibus annexis videre poterit. Hic
+                    plurimum me rogavit, ut negotium istud suum commendarem reginali maiestati. Cum
+                    autem neminem habeam, qui maiori affectu rem istam curare possit et velit
+                    praeter Dominationem Vestram Reverendam, eandem ex animo rogo, ut meo nomine,
+                    quantum poterit, apud reginalem maiestatem negotium istud provehat, ita ut idem
+                    vir bonus sentiat se mea pollicitatione non esse frustratum, id mutuis officiis
+                    et vicissitudine erga eandem Vestrae Dominationi summo studio conabor promereri,
+                    quam Dominus Deus diu incolumem servet, cuique ex animo me commendo. </p>
                 <p xml:id="p.3">Datae <placeName>Viennae</placeName> V. mensis Septembris anno
                     Domini MV<hi rend="super">c</hi>XXXV.</p>
             </div>

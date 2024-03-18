@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Kristóf Batthyány<idno type="ITIdata">Q141481</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,15 +241,15 @@
                     accuratis gratiis pro parvis officiis, cum alioqui nos et in similibus et in
                     maioribus omnem amicitiam et fraternitatem nostram semper sumus erga eam
                     ostensuri. Quod vero rogaverat nos, ut apud magnificum dominum
-                        <persName>Franciscum Bathyany</persName><note type="critic" xml:id="note.1"
-                        >Ferenc Batthyány.</note> fratrem suum ageremus <del corresp="scriba">suo
+                        <persName>Franciscum Bathyany</persName><note xml:id="note.1">Ferenc
+                        Batthyány.</note> fratrem suum ageremus <del corresp="scriba">suo
                         nomine</del> ratione cuiusdam villae <del corresp="Olahus"
                         >oppnoratitiae</del><add corresp="Olahus" type="corr">oppignoratitiae</add>,
                     egimus diligenter, et ex animo eiusque magnifici domini rem et causam eam omnem
                     reiecit in arbitrium reverendissimi domini
-                        <persName>locumtenentis</persName>,<note type="critic" xml:id="note.2"
-                        >Ferenc Révay.</note> in nostrum et in reverendissimi domini
-                        <persName>Vesprimiensis</persName>,<note type="critic" xml:id="note.3">Pál
+                        <persName>locumtenentis</persName>,<note xml:id="note.2">Ferenc
+                        Révay.</note> in nostrum et in reverendissimi domini
+                        <persName>Vesprimiensis</persName>,<note xml:id="note.3">Pál
                         Bornemissza.</note> ita ut in proximo conventu, qui propediem
                         <placeName>Posonii</placeName> Deo dante celebrabitur, nos eandem causam
                     revideamus, et discutiamus; seque <milestone unit="pb"/>idem dominus

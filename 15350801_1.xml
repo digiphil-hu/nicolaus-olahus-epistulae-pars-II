@@ -217,11 +217,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Cornelis De Schrijver<idno type="ITIdata">Q470233</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,7 +244,7 @@
                 <pb/>
                 <p xml:id="p.1">Nicolai Olai ad Cornelium Graphaeum Antverpiensem.</p>
                 <p xml:id="p.2"><hi rend="italic">Topographiam veteris Romae</hi>, quam ad me,
-                    Doctissime Cornelii, dono misisti,<note type="critic" xml:id="note.1">Ep.
+                    Doctissime Cornelii, dono misisti,<note xml:id="note.1">Ep.
                             544.<ref>olahus.tei.15350727_1</ref></note> nudiustertius accepi. Quae
                     duplici nomine fuit mihi gratissima, primum, quod tuum in me candidum amorem,
                     quem nuper verbis declararas, nunc re ipsa cognoverim, tum quod Urbis, totius
@@ -260,17 +258,16 @@
                     Olaum talem semper in te et tuos cognosces, qualem amor noster mutuus
                     postulaverit. Quod me <del corresp="Olahus">petit</del><add corresp="Olahus"
                         type="corr">petis</add>, ut <persName>Cornelio Sceppero</persName>,
-                        <persName>Volffgango Hallero</persName>,<note type="critic" xml:id="note.2"
-                        >Wolfgang Haller.</note> quaestori reginae, amicis communibus te commendem,
-                    etsi es, ut id satis scio, ob ingentem tuam virtutem et doctrinam excellentem
-                    eis satis commendatus, tamen, ut iubes, faciam id diligenter. Et neque in hac,
-                    neque in aliis multo maioribus rebus meam unquam operam, quam quidem tibi gratam
-                    fore sensero, patiar a te desiderari. <persName>Franciscus
-                        Craneveldius</persName>,<note type="critic" xml:id="note.3">Frans van
-                        Cranevelt.</note> amicus meus singularis hunc ad me misit
-                        <persName>Basilii</persName><note type="critic" xml:id="note.4">Basil of
-                        Caesarea.</note> libellum a se Latinitate donatum, quem, ut perlegas, ad te
-                    misi. Vale et me, ut coepisti, ama. </p>
+                        <persName>Volffgango Hallero</persName>,<note xml:id="note.2">Wolfgang
+                        Haller.</note> quaestori reginae, amicis communibus te commendem, etsi es,
+                    ut id satis scio, ob ingentem tuam virtutem et doctrinam excellentem eis satis
+                    commendatus, tamen, ut iubes, faciam id diligenter. Et neque in hac, neque in
+                    aliis multo maioribus rebus meam unquam operam, quam quidem tibi gratam fore
+                    sensero, patiar a te desiderari. <persName>Franciscus
+                        Craneveldius</persName>,<note xml:id="note.3">Frans van Cranevelt.</note>
+                    amicus meus singularis hunc ad me misit <persName>Basilii</persName><note
+                        xml:id="note.4">Basil of Caesarea.</note> libellum a se Latinitate donatum,
+                    quem, ut perlegas, ad te misi. Vale et me, ut coepisti, ama. </p>
                 <p xml:id="p.4"><placeName>Bruxellae</placeName> Kalendis Augusti 1535.</p>
             </div>
         </body>

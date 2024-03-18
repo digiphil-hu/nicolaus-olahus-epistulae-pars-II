@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>The Seven Mining Towns</orgName>
                 </correspAction>
             </correspDesc>
@@ -232,18 +230,18 @@
                 <p xml:id="p.1">Salutem plurimam, Prudentes et Circumspecti Domini et Amici
                     Honorandi!</p>
                 <p xml:id="p.2">Sicuti me medio domini <persName>notarii</persName><note
-                        type="critic" xml:id="note.1">We do not know him more closely, see Ep.
+                        xml:id="note.1">We do not know him more closely, see Ep.
                             665.<ref>olahus.tei.15460606_1</ref></note> Novi Zoliensis rogaveratis,
                     ut meam operam apud <persName>maiestatem regiam</persName>, dominum nostrum
                     clementissimum interponerem pro non admittendo istuc
                         <persName>tricesimatore</persName>, adhibui apud suam maiestatem curam ea in
                     re, quam potui diligentem. Quicquid autem maiestas sua responderit, ex litteris
                     suae maiestatis, quibus litterarum etiam eius copiam, quas ad <persName>dominum
-                        Strigoniensem</persName><note type="critic" xml:id="note.2">Pál
-                        Várday.</note> et <persName>tricesimatorem</persName> dedit, adiunxi, clare
-                    intelligetis. Ego quicquid etiam deinceps in rem et commodum vestrum ac
-                    dominorum Novizoliensium <add corresp="Olahus" type="insert">facere</add>
-                    potero, faxim libenter. Valete.</p>
+                        Strigoniensem</persName><note xml:id="note.2">Pál Várday.</note> et
+                        <persName>tricesimatorem</persName> dedit, adiunxi, clare intelligetis. Ego
+                    quicquid etiam deinceps in rem et commodum vestrum ac dominorum Novizoliensium
+                        <add corresp="Olahus" type="insert">facere</add> potero, faxim libenter.
+                    Valete.</p>
                 <p xml:id="p.3">Ex <placeName>Ratisbona</placeName> 20. Iunii anno 1546.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Nicolaus Olahus Zagrabiensis cancellarius regiae

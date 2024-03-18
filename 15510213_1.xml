@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,35 +233,35 @@
                 <p xml:id="p.1">Spectabilis et Magnifice Domine et Frater Observandissime,
                     servitiorum meorum commendationem!</p>
                 <p xml:id="p.2">Querelae et rumores, de quibus <persName>Feyerthoy</persName><note
-                        type="critic" xml:id="note.1">János Fejérthóy.</note> nomine Dominationis
-                    Vestrae Magnificae locutus fuit, vanae sunt. Nihil eorum certum est. </p>
+                        xml:id="note.1">János Fejérthóy.</note> nomine Dominationis Vestrae
+                    Magnificae locutus fuit, vanae sunt. Nihil eorum certum est. </p>
                 <p xml:id="p.3">Tota Germaniae pars in quiete silet. Magdeburgenses quoque sunt in
-                    desperatione. <persName>Mauritius</persName><note type="critic" xml:id="note.2"
-                        >Maurice, Elector of Saxony.</note> dux arcta eos urget obsidione non paucis
-                    equitum et peditum viribus speratum illorum itaque aut deditio aut expugnatio.
-                    Hic omnia ex voto caesaris et regis confecta iam fere sunt, <add
-                        corresp="Olahus" type="insert">subsidium habebitis</add>, affinitates adhuc
-                    secretae sunt. Ego obtenta <del corresp="Olahus">ut</del> iam tandem venia
-                    praecedam <add corresp="Olahus" type="insert">ad
-                        triduum</add><persName>maiestatem regiam</persName>, quae sexto vel octavo
-                    post die sequetur cum <persName>Maximiliano</persName> rege. Serenissima regina
+                    desperatione. <persName>Mauritius</persName><note xml:id="note.2">Maurice,
+                        Elector of Saxony.</note> dux arcta eos urget obsidione non paucis equitum
+                    et peditum viribus speratum illorum itaque aut deditio aut expugnatio. Hic omnia
+                    ex voto caesaris et regis confecta iam fere sunt, <add corresp="Olahus"
+                        type="insert">subsidium habebitis</add>, affinitates adhuc secretae sunt.
+                    Ego obtenta <del corresp="Olahus">ut</del> iam tandem venia praecedam <add
+                        corresp="Olahus" type="insert">ad triduum</add><persName>maiestatem
+                        regiam</persName>, quae sexto vel octavo post die sequetur cum
+                        <persName>Maximiliano</persName> rege. Serenissima regina
                         <persName>Maria</persName> statim post discessum regium revertetur in
                     Flandriam. <persName>Caesar</persName> hic aliquandiu manebit. Dominam
-                        <persName>coniugem</persName><note type="critic" xml:id="note.3">Katalin
-                        Svetkovics.</note> domini <persName>Bothyany</persName><note type="critic"
-                        xml:id="note.4">Ferenc Batthyány.</note> cum honore 10. huius mensis die
-                        <add corresp="Olahus" type="insert">huc</add> introduci feci. De rebus
-                    omnibus <add corresp="Olahus" type="insert">aliis</add>, de quibus Dominatio
-                    Vestra ad me scripsit, non contemnendum reporto responsum, de quo citavi plura.
-                    Dominatio Vestra cum domina <persName>coniuge</persName><note type="critic"
-                        xml:id="note.5">Orsolya Kanizsai.</note> sua carissima, domina mea
-                    observandissima feliciter valeat.</p>
+                        <persName>coniugem</persName><note xml:id="note.3">Katalin
+                        Svetkovics.</note> domini <persName>Bothyany</persName><note xml:id="note.4"
+                        >Ferenc Batthyány.</note> cum honore 10. huius mensis die <add
+                        corresp="Olahus" type="insert">huc</add> introduci feci. De rebus omnibus
+                        <add corresp="Olahus" type="insert">aliis</add>, de quibus Dominatio Vestra
+                    ad me scripsit, non contemnendum reporto responsum, de quo citavi plura.
+                    Dominatio Vestra cum domina <persName>coniuge</persName><note xml:id="note.5"
+                        >Orsolya Kanizsai.</note> sua carissima, domina mea observandissima
+                    feliciter valeat.</p>
                 <p xml:id="p.4">Ex <placeName>Augusta</placeName> 13. Februarii anno 1551.</p>
                 <p xml:id="p.5">
                     <seg type="signature">Servitor Agriensis manu sua.</seg>
                 </p>
-                <p xml:id="p.6">Surculos regina exspectat.<note type="critic" xml:id="note.6">See
-                        Ep. 757., and Ep.
+                <p xml:id="p.6">Surculos regina exspectat.<note xml:id="note.6">See Ep. 757., and
+                        Ep.
                         761.<ref>olahus.tei.15510106_1</ref></note><ref>/o:olahus.tei.15510127_1</ref></p>
                 <pb/>
             </div>

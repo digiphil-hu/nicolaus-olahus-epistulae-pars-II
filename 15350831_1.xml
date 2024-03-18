@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -235,26 +233,24 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
-                <p xml:id="p.2">Post Hipponensem praedam<note type="critic" xml:id="note.1">On the
-                        sack of Annaba, see Ep. 548.<ref>olahus.tei.15350822_1</ref></note> varii de
-                    Aphricano <persName>caesare</persName>, Deo nostro rumores sunt, qui eum in
-                    Hispaniam traiecisse putent, alii in Siciliam. Nos ex Urbanis litteris
-                    accepimus, sed incerto quidem authore, <placeName>Drepanum</placeName><note
-                        type="critic" xml:id="note.2">Trapani.</note> concessisse, et ibi maximam
-                    exercitus sui partem exposuise. Si quid magis certi intelligemus, curabo,
-                    quamprimum ut scias. <persName>Pontifex</persName>,<note type="critic"
-                        xml:id="note.3">Pope Paul III.</note> quo facilius Perusinas<note
-                        type="critic" xml:id="note.4">Perugia.</note> controversias componeret, eo
-                    ire decreverat <milestone unit="pb"/>hoc autumno
-                        <persName>filium</persName><note type="critic" xml:id="note.5">Pier Luigi
-                        Farnese (1503–1547) was the illegitimate son of Alessandro Farnese, and the
-                        Duke of Parma and Piacenza from 1545 to 1547.</note> ad caesarem missurus.
-                    Ex morte <persName>cardinalis Medices</persName><note type="critic"
-                        xml:id="note.6">Ippolito de’ Medici.</note> nepotes maximis sacerdotiis
-                    auxit. <persName>Gallum</persName><note type="critic" xml:id="note.7">King
-                        Francis I.</note> fama nos tenet de caesaris victoria foris maxime laetatum,
-                    et quinque dierum supplicationes decrevisse per totum regnum. Vale et amicis me
-                    commenda. </p>
+                <p xml:id="p.2">Post Hipponensem praedam<note xml:id="note.1">On the sack of Annaba,
+                        see Ep. 548.<ref>olahus.tei.15350822_1</ref></note> varii de Aphricano
+                        <persName>caesare</persName>, Deo nostro rumores sunt, qui eum in Hispaniam
+                    traiecisse putent, alii in Siciliam. Nos ex Urbanis litteris accepimus, sed
+                    incerto quidem authore, <placeName>Drepanum</placeName><note xml:id="note.2"
+                        >Trapani.</note> concessisse, et ibi maximam exercitus sui partem exposuise.
+                    Si quid magis certi intelligemus, curabo, quamprimum ut scias.
+                        <persName>Pontifex</persName>,<note xml:id="note.3">Pope Paul III.</note>
+                    quo facilius Perusinas<note xml:id="note.4">Perugia.</note> controversias
+                    componeret, eo ire decreverat <milestone unit="pb"/>hoc autumno
+                        <persName>filium</persName><note xml:id="note.5">Pier Luigi Farnese
+                        (1503–1547) was the illegitimate son of Alessandro Farnese, and the Duke of
+                        Parma and Piacenza from 1545 to 1547.</note> ad caesarem missurus. Ex morte
+                        <persName>cardinalis Medices</persName><note xml:id="note.6">Ippolito de’
+                        Medici.</note> nepotes maximis sacerdotiis auxit.
+                        <persName>Gallum</persName><note xml:id="note.7">King Francis I.</note> fama
+                    nos tenet de caesaris victoria foris maxime laetatum, et quinque dierum
+                    supplicationes decrevisse per totum regnum. Vale et amicis me commenda. </p>
                 <p xml:id="p.3">Ex <placeName>Mediolano</placeName> pridie Kalendas Septembris
                     MDXXXV.</p>
             </div>

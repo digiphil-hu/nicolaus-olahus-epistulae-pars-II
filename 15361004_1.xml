@@ -216,11 +216,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Frans van Cranevelt<idno type="ITIdata">Q470243</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,7 +243,7 @@
                 <p xml:id="p.1">Franciscus Craneveldius Nicolao Olao salutem. </p>
                 <p xml:id="p.2">Non est, quod speres, Ornatissime Vir, carmina tua elegantissima per
                     me castigari, qui si maxime conarer, nihil eiusmodi praestare potuissem.
-                        Scribis<note type="critic" xml:id="note.1">Ep. 572. Cap.
+                        Scribis<note xml:id="note.1">Ep. 572. Cap.
                             1.<ref>olahus.tei.15360916_1</ref></note> te multis iam annis in
                     desuetudinem venisse carminum scribendorum, sed verum est, quod scribit
                     Hieronimus: <quote xml:id="quote.1">Bos lassus fortius figit <del
@@ -254,28 +252,28 @@
                             <hi rend="italic">Epist.</hi> 102,2; cf. Erasm. <hi rend="italic"
                             >Adag.</hi> 47. I,I,47. Bos lassus fortius figit pedem.</note> Deinde
                     mirum, quantum praestet affectus ardensque animus. </p>
-                <p xml:id="p.3">Superioribus diebus apud fanum divi Amandi<note type="critic"
-                        xml:id="note.2">It is not clear which church or abbey this is.</note>
-                    mortuus est iuvenis incomparabilis <persName>Ioannes Secundus
-                        Hagiensis</persName>,<note type="critic" xml:id="note.3">Johannes Everaerts
-                        (1511–1536), Neo-Latin poet and numismatist. “He portrayed Cranevelt on a
-                        fine medal in 1533”, see <hi rend="smallcap">Leijenhorst</hi> 1985,
-                        355.</note> qui cum multis aliis ingenii dotibus polleret felicissime, etiam
-                    quodvis genus carminis scribebat, sed raptus est morte immatura iuvenis maximae
-                    spei, sic volentibus fatis, quibus nemo sapiens repugnat. Ille, si in hoc
-                    argumento vires ingenii exercuisset, primas ingenii, ut arbitror, tulisset.
-                    Habeo gratiam de carminibus <persName>Graphei</persName><note type="critic"
-                        xml:id="note.4">Cornelis de Schrijver.</note> ac <persName>Francisci a
-                        Burgundia</persName>,<note type="critic" xml:id="note.5">Probably François
-                        de Bourgogne, see <hi rend="smallcap">Enenkel</hi>, 2002, 34. See his and
-                        Oláh’s poems tu each other: <hi rend="smallcap">Hegedüs</hi> 1906, 374; <hi
-                            rend="smallcap">Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap"
-                            >Neagu</hi> 2003, 294.</note> utinam simul cum tuis prodeant in
-                    publicum, ut homines Erasmici nominis studiosi videant superesse virtutis
-                    admiratores, et ne posthac mutire audeant, si qui supersint Ἐρασμομάστιγες,<note
-                        type="critic" xml:id="note.6">‘the whips/critics of Erasmus’.</note> cum
-                    illum laudari viderint a laudatis viris, sed a funere conquiescit invidia, cum
-                    iam livorem omnem virtute superarit. Vale, Vir Ornatissime. </p>
+                <p xml:id="p.3">Superioribus diebus apud fanum divi Amandi<note xml:id="note.2">It
+                        is not clear which church or abbey this is.</note> mortuus est iuvenis
+                    incomparabilis <persName>Ioannes Secundus Hagiensis</persName>,<note
+                        xml:id="note.3">Johannes Everaerts (1511–1536), Neo-Latin poet and
+                        numismatist. “He portrayed Cranevelt on a fine medal in 1533”, see <hi
+                            rend="smallcap">Leijenhorst</hi> 1985, 355.</note> qui cum multis aliis
+                    ingenii dotibus polleret felicissime, etiam quodvis genus carminis scribebat,
+                    sed raptus est morte immatura iuvenis maximae spei, sic volentibus fatis, quibus
+                    nemo sapiens repugnat. Ille, si in hoc argumento vires ingenii exercuisset,
+                    primas ingenii, ut arbitror, tulisset. Habeo gratiam de carminibus
+                        <persName>Graphei</persName><note xml:id="note.4">Cornelis de
+                        Schrijver.</note> ac <persName>Francisci a Burgundia</persName>,<note
+                        xml:id="note.5">Probably François de Bourgogne, see <hi rend="smallcap"
+                            >Enenkel</hi>, 2002, 34. See his and Oláh’s poems tu each other: <hi
+                            rend="smallcap">Hegedüs</hi> 1906, 374; <hi rend="smallcap"
+                            >Fógel–Juhász</hi> 1934, 4; <hi rend="smallcap">Neagu</hi> 2003,
+                        294.</note> utinam simul cum tuis prodeant in publicum, ut homines Erasmici
+                    nominis studiosi videant superesse virtutis admiratores, et ne posthac mutire
+                    audeant, si qui supersint Ἐρασμομάστιγες,<note xml:id="note.6">‘the
+                        whips/critics of Erasmus’.</note> cum illum laudari viderint a laudatis
+                    viris, sed a funere conquiescit invidia, cum iam livorem omnem virtute
+                    superarit. Vale, Vir Ornatissime. </p>
                 <p xml:id="p.4">Ex <placeName>Mechlinia</placeName> ipso die divi Francisci anno
                     1536.</p>
             </div>

@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Camillo Ghilino<idno type="ITIdata">Q470226</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,84 +238,80 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Idem Nicolao Olao suo salutem. </p>
-                <p xml:id="p.2">[1.] Quae mihi superioribus litteris tuis<note type="critic"
-                        xml:id="note.1">We do not know this letter.</note> significasti de
-                        <persName>Christerni</persName><note type="critic" xml:id="note.2">King
-                        Christian II of Denmark.</note> Danorum regis salute, principibus meis valde
-                    grata fuerunt, utinam illius libertati certissima spes, quam nobis pollicens, si
-                    in rem caesaris est, in nervum haud erumpat. De <persName>Britanno
-                        rege</persName><note type="critic" xml:id="note.3">King Henry VIII.</note>
-                    longe peiora circumferuntur, mihi crede, haec omnia fieri, ut tandem caesar Deus
-                    noster totius orbis imperio potiatur. </p>
+                <p xml:id="p.2">[1.] Quae mihi superioribus litteris tuis<note xml:id="note.1">We do
+                        not know this letter.</note> significasti de
+                        <persName>Christerni</persName><note xml:id="note.2">King Christian II of
+                        Denmark.</note> Danorum regis salute, principibus meis valde grata fuerunt,
+                    utinam illius libertati certissima spes, quam nobis pollicens, si in rem
+                    caesaris est, in nervum haud erumpat. De <persName>Britanno rege</persName><note
+                        xml:id="note.3">King Henry VIII.</note> longe peiora circumferuntur, mihi
+                    crede, haec omnia fieri, ut tandem caesar Deus noster totius orbis imperio
+                    potiatur. </p>
                 <pb/>
                 <p xml:id="p.3">Laetamur reginam bene valere, et ad istius bonae valetudinis
-                    praesidia <persName>Candianum</persName><note type="critic" xml:id="note.4"
-                        >Ambrogio Candiano.</note> medicum maximo vobis usui fore. Vir certe probus
-                    est et in medendi ratione experiens et fortunatus. In Scipionis morte maximum
-                    dux meus naufragium fecit. Iste ab se secundus erat, cui maxime confideret.
-                        <persName>Princeps noster</persName><note type="critic" xml:id="note.5"
-                        >Francesco II Sforza.</note> maximas tibi gratias agit, quod in scriptione
-                    tua me de Anglicis et Cimbricis rebus prolixe monueris. Illarum auditione mecum
-                    ducitur, quare si me tantum amas, quantum me a te amari sentio, operam dabis, ut
-                    quam aliunde intelligere posset, ex litteris tuis intelligat, hoc certe mihi nec
+                    praesidia <persName>Candianum</persName><note xml:id="note.4">Ambrogio
+                        Candiano.</note> medicum maximo vobis usui fore. Vir certe probus est et in
+                    medendi ratione experiens et fortunatus. In Scipionis morte maximum dux meus
+                    naufragium fecit. Iste ab se secundus erat, cui maxime confideret.
+                        <persName>Princeps noster</persName><note xml:id="note.5">Francesco II
+                        Sforza.</note> maximas tibi gratias agit, quod in scriptione tua me de
+                    Anglicis et Cimbricis rebus prolixe monueris. Illarum auditione mecum ducitur,
+                    quare si me tantum amas, quantum me a te amari sentio, operam dabis, ut quam
+                    aliunde intelligere posset, ex litteris tuis intelligat, hoc certe mihi nec
                     gratius quicquam hoc tempore, nec iucundius erit. </p>
                 <p xml:id="p.4">[2.] Turca, ut fertur, in Parthica expeditione adhuc detinetur.
-                    Persarum <persName>imperator</persName><note type="critic" xml:id="note.6"
-                        >Tahmasp I, Shah of Iran.</note> cum tercentum millibus hominum VII castris
-                    ab exercitu Turcico aberat, si certabitur omnibus utrinque viribus, res
-                    Christiana nequaquam periclitari poterit, nisi cruenta esse, et victor in ipsa
-                    victoria cadet. A Persa ad Turcam defecit unus ex suis ducibus cum tribus
-                    millibus <choice>
+                    Persarum <persName>imperator</persName><note xml:id="note.6">Tahmasp I, Shah of
+                        Iran.</note> cum tercentum millibus hominum VII castris ab exercitu Turcico
+                    aberat, si certabitur omnibus utrinque viribus, res Christiana nequaquam
+                    periclitari poterit, nisi cruenta esse, et victor in ipsa victoria cadet. A
+                    Persa ad Turcam defecit unus ex suis ducibus cum tribus millibus <choice>
                         <orig>selopottaniorum</orig>
                         <supplied>sclopetariorum</supplied>
-                    </choice>.<note type="critic" xml:id="note.7">‘an arquebusier’, see <hi
-                            rend="smallcap">Hoven</hi> 2006, 496.</note> Duo oratores Persici ad
-                    Turcam missi, alter securi caesaris iussu percussus est, alter praecisis auribus
-                    et naso ad Persam remissus, haec sunt, quae ex <placeName>Bizantio</placeName>
-                    nuper accepimus. <persName>Aenobarbus</persName><note type="critic"
-                        xml:id="note.8">Hayreddin Barbarossa
-                        Pasha.</note><placeName>Constantinam</placeName> in deditionem accepit et
-                    tota regni Tuneti ditione nunc potitur, classem habet divisam et a remigibus et
-                    militibus flagitiose rumor est XI triremes in Galliam designasse, ne orator
-                    Turca, qui apud illum <persName>regem</persName> Christianissimum vestrum
-                    sororium de foedere egit, in <persName>Doriae principis</persName><note
-                        type="critic" xml:id="note.9">Andrea Doria.</note> potestatem veniat.
+                    </choice>.<note xml:id="note.7">‘an arquebusier’, see <hi rend="smallcap"
+                            >Hoven</hi> 2006, 496.</note> Duo oratores Persici ad Turcam missi,
+                    alter securi caesaris iussu percussus est, alter praecisis auribus et naso ad
+                    Persam remissus, haec sunt, quae ex <placeName>Bizantio</placeName> nuper
+                    accepimus. <persName>Aenobarbus</persName><note xml:id="note.8">Hayreddin
+                        Barbarossa Pasha.</note><placeName>Constantinam</placeName> in deditionem
+                    accepit et tota regni Tuneti ditione nunc potitur, classem habet divisam et a
+                    remigibus et militibus flagitiose rumor est XI triremes in Galliam designasse,
+                    ne orator Turca, qui apud illum <persName>regem</persName> Christianissimum
+                    vestrum sororium de foedere egit, in <persName>Doriae principis</persName><note
+                        xml:id="note.9">Andrea Doria.</note> potestatem veniat.
                         <persName>Rex</persName> pulsus apud uxoris suae fratrem est, qui maxima cum
                     Arabis amicitia iuncti sunt, quorum et caesaris patrocinio brevi in antiquas
                     sedes suas restituetur. Ex Hispaniis nuper <persName>Aloysius
-                        Avila</persName><note type="critic" xml:id="note.10">Aloysius Avila was an
-                        orator of Emperor Charles V to Pope Julius III at the Council of Trent, see
-                            <hi rend="smallcap">Sforza Pallavicino</hi> 1673, Pars II. Cc 2.
-                        v.</note> a cubiculo caesaris ad nos venit. Is refert praeter LXXX triremes
-                    et naves onerarias LXX et myoparones<note type="critic" xml:id="note.11">From
-                        the Ancient Greek μυοπάρων, meaning ‘small pirate galley’.</note>
-                    anfractusque multos caesarem XXV millia peditum Germanorum, Italorum, item
-                    Hispanorum in classe habiturum, hoc si praestiterit, quid est, quod timeamus,
-                        <persName>Gallus</persName><note type="critic" xml:id="note.12">King Francis
-                        I.</note> si non ad sanitatem redibit, saltem in visceribus regni sui
-                    continebitur. Ab Helvetiis nihil cura: si
-                        <persName>Virtembergensis</persName><note type="critic" xml:id="note.13"
-                        >Ulrich, Duke of Württemberg.</note> et
-                        <persName>Landgravius</persName><note type="critic" xml:id="note.14">Philipp
-                        I, Landgrave of Hesse.</note> aliquid fortasse gravius adversus
-                        <persName>caesarem</persName> molientur, meritas poenas luent. Hic de eis
-                    nihil certi habemus. Tu, qui in specula es, fac nos de singulis rebus certiores,
-                    refert multum haec scire. <persName>Pontifex</persName><note type="critic"
+                        Avila</persName><note xml:id="note.10">Aloysius Avila was an orator of
+                        Emperor Charles V to Pope Julius III at the Council of Trent, see <hi
+                            rend="smallcap">Sforza Pallavicino</hi> 1673, Pars II. Cc 2. v.</note> a
+                    cubiculo caesaris ad nos venit. Is refert praeter LXXX triremes et naves
+                    onerarias LXX et myoparones<note xml:id="note.11">From the Ancient Greek
+                        μυοπάρων, meaning ‘small pirate galley’.</note> anfractusque multos caesarem
+                    XXV millia peditum Germanorum, Italorum, item Hispanorum in classe habiturum,
+                    hoc si praestiterit, quid est, quod timeamus, <persName>Gallus</persName><note
+                        xml:id="note.12">King Francis I.</note> si non ad sanitatem redibit, saltem
+                    in visceribus regni sui continebitur. Ab Helvetiis nihil cura: si
+                        <persName>Virtembergensis</persName><note xml:id="note.13">Ulrich, Duke of
+                        Württemberg.</note> et <persName>Landgravius</persName><note
+                        xml:id="note.14">Philipp I, Landgrave of Hesse.</note> aliquid fortasse
+                    gravius adversus <persName>caesarem</persName> molientur, meritas poenas luent.
+                    Hic de eis nihil certi habemus. Tu, qui in specula es, fac nos de singulis rebus
+                    certiores, refert multum haec scire. <persName>Pontifex</persName><note
                         xml:id="note.15">Pope Paul III.</note> torquetur sibi ab
-                        <placeName>Urbini</placeName><note type="critic" xml:id="note.16"
-                        >Urbino.</note><milestone unit="pb"/><persName>duce</persName><note
-                        type="critic" xml:id="note.17">Francesco Maria I della Rovere (1490–1538)
-                        became Duke of Urbino in 1521.</note><placeName>Camerinum</placeName><note
-                        type="critic" xml:id="note.18">Camerino.</note> esse ereptum, et caesarem in
-                    hac re sibi parum faustum, secreta cum Gallis colloquia habet, non tantum, ut a
-                    caesare deficiat, sed ut tali obtrectatione illum in partes suas compellat, sed
-                    bonus senex gnarus virium caesaris in portu se continebit, in Petri naviculum
-                    iamdiu fluctibus agitatum omnino naufragium facere velit, quae de eo certi
-                    habuerimus, curabo, ut intelligas. Duces nostri bene valent et tibi plurimam
-                    salutem dicunt, me serenissimae reginae, item <persName>Lucretiae
-                        Virgini</persName>,<note type="critic" xml:id="note.19">Lucretia Caballis
-                        (vom Ross).</note> omnibusque amicis communibus multum commendabis. Vale,
-                    Olae Suavissime, et me mutuo, ut facis, ama. </p>
+                        <placeName>Urbini</placeName><note xml:id="note.16">Urbino.</note><milestone
+                        unit="pb"/><persName>duce</persName><note xml:id="note.17">Francesco Maria I
+                        della Rovere (1490–1538) became Duke of Urbino in
+                        1521.</note><placeName>Camerinum</placeName><note xml:id="note.18"
+                        >Camerino.</note> esse ereptum, et caesarem in hac re sibi parum faustum,
+                    secreta cum Gallis colloquia habet, non tantum, ut a caesare deficiat, sed ut
+                    tali obtrectatione illum in partes suas compellat, sed bonus senex gnarus virium
+                    caesaris in portu se continebit, in Petri naviculum iamdiu fluctibus agitatum
+                    omnino naufragium facere velit, quae de eo certi habuerimus, curabo, ut
+                    intelligas. Duces nostri bene valent et tibi plurimam salutem dicunt, me
+                    serenissimae reginae, item <persName>Lucretiae Virgini</persName>,<note
+                        xml:id="note.19">Lucretia Caballis (vom Ross).</note> omnibusque amicis
+                    communibus multum commendabis. Vale, Olae Suavissime, et me mutuo, ut facis,
+                    ama. </p>
                 <p xml:id="p.5">Ex <placeName>Mediolano</placeName> XXI. Ianuarii anno Domini
                     MDXXXV.</p>
             </div>

@@ -214,11 +214,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Pieter Nanninck<idno type="ITIdata">Q470423</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -262,17 +260,17 @@
                 <pb/>
                 <p xml:id="p.3">conquerar ultra enim unam hebdamadam, et vix eam plenam mihi eius
                     usus permissus non est, hactenus enim eum detinuit
-                        <persName>Goclenius</persName>.<note type="critic" xml:id="note.1">Conrad
-                        Wackers.</note> Credo nondum satur eius lectionis, nam mirificas de eo mihi
-                    decantavit laudes, dedit autem eo tempore, quo nihil mihi unquam vel
-                    tumultuosius vel occupatius. Sed quid ad te mea negotia, legi avidissime libros
-                    illos, <del corresp="Olahus">geluatus</del><add corresp="Olahus" type="corr"
-                        >helluatus</add> sum in eis, usque ad summas aures miris voluptatibus me
-                    implevi. Usuram mihi non longiorem concessam fuisse etiam nunc doleo, non
-                    omittam, non intermittam ullum laborem, donec vel ex prelo, vel a te eum
-                    recuperavero. Cupio frontispicio carmen aliquod praefligere, <add
-                        corresp="Olahus" type="insert">etsi</add> nihil possum, quia tamen eam
-                    operam Holao sum impensurus, puto me aliquid posse. Si natura negat, amor est, <choice>
+                        <persName>Goclenius</persName>.<note xml:id="note.1">Conrad Wackers.</note>
+                    Credo nondum satur eius lectionis, nam mirificas de eo mihi decantavit laudes,
+                    dedit autem eo tempore, quo nihil mihi unquam vel tumultuosius vel occupatius.
+                    Sed quid ad te mea negotia, legi avidissime libros illos, <del corresp="Olahus"
+                        >geluatus</del><add corresp="Olahus" type="corr">helluatus</add> sum in eis,
+                    usque ad summas aures miris voluptatibus me implevi. Usuram mihi non longiorem
+                    concessam fuisse etiam nunc doleo, non omittam, non intermittam ullum laborem,
+                    donec vel ex prelo, vel a te eum recuperavero. Cupio frontispicio carmen aliquod
+                    praefligere, <add corresp="Olahus" type="insert">etsi</add> nihil possum, quia
+                    tamen eam operam Holao sum impensurus, puto me aliquid posse. Si natura negat,
+                    amor est, <choice>
                         <orig>quae</orig>
                         <supplied>qui</supplied>
                     </choice> carmina condit. </p>
@@ -281,22 +279,22 @@
                     admirari. <del corresp="Olahus">Quid</del><add corresp="Olahus" type="corr"
                         >Quis</add> enim fidelior in rebus gestis trandendis, quis certior in
                     topographiis, quis distinctior omni genere varietatis, qui te Hungarum esse
-                    nescit, satis tamen id colligit ἐκ τῆς τῶν πάντων ἀκριβείας<note type="critic"
-                        xml:id="note.2">‘from an all-encompassing precision’.</note> vel Hungarum
-                        αὐτόπτην.<note type="critic" xml:id="note.3">‘witness’.</note> Absit
-                    adulatio a nostra amicitia, quam et tu odisti et ego non fero, videris mihi
-                    plurimorum authorum virtutes coniunxisse, habes in locis describendis
-                    exactissimam curam <persName>Strabonis</persName>, ubi etiam tua illa
-                    mathematicarum disciplinarum peritia non obscuriter lucet, nec ibi gratiae illae
+                    nescit, satis tamen id colligit ἐκ τῆς τῶν πάντων ἀκριβείας<note xml:id="note.2"
+                        >‘from an all-encompassing precision’.</note> vel Hungarum αὐτόπτην.<note
+                        xml:id="note.3">‘witness’.</note> Absit adulatio a nostra amicitia, quam et
+                    tu odisti et ego non fero, videris mihi plurimorum authorum virtutes
+                    coniunxisse, habes in locis describendis exactissimam curam
+                        <persName>Strabonis</persName>, ubi etiam tua illa mathematicarum
+                    disciplinarum peritia non obscuriter lucet, nec ibi gratiae illae
                         <persName>Herodoti</persName> absunt. Multa parodoxa de moribus gentium
                     afferuntur non e mendaciis, ut ille fecit, sed ex fide rerum deprompta; adsunt
-                    deinde locorum vocabula nativo sono expressa,<note type="critic" xml:id="note.4"
-                        >Oláh also wrote geographical names in <hi rend="italic">Athila</hi> and <hi
+                    deinde locorum vocabula nativo sono expressa,<note xml:id="note.4">Oláh also
+                        wrote geographical names in <hi rend="italic">Athila</hi> and <hi
                             rend="italic">Hungaria</hi> in Hungarian.</note> non κακοζηλίᾳ<note
-                        type="critic" xml:id="note.5">‘by artificially imitating (the Latin
-                        language)’.</note> Latini sermonis in alienam speciem deformata, quod cum
-                    maxime cupit <persName>Lucianus</persName> in historiis observari, nescio, an
-                    ullus praeter te vere praestitit. </p>
+                        xml:id="note.5">‘by artificially imitating (the Latin language)’.</note>
+                    Latini sermonis in alienam speciem deformata, quod cum maxime cupit
+                        <persName>Lucianus</persName> in historiis observari, nescio, an ullus
+                    praeter te vere praestitit. </p>
                 <pb/>
                 <p xml:id="p.5">Veteres barbarum vocum sonos assecuti non sunt neoterici, qui toti
                     sunt in mollioribus sonis, reformidant, quare omnia ita fingunt ac refingunt, ut
@@ -313,43 +311,43 @@
                         <persName>Xenophontis</persName>, hoc <persName>Salustii</persName>. In
                     orationibus vehemens es vel, ut <del corresp="Olahus">melius</del><add
                         corresp="Olahus" type="corr">mollius</add> aiunt Graeci δεινός,<note
-                        type="critic" xml:id="note.6">‘overwhelming’.</note> et quod ego maxime amo,
-                    sermonem personis attemperas et ipsorum indoli et praesenti fortunae <choice>
+                        xml:id="note.6">‘overwhelming’.</note> et quod ego maxime amo, sermonem
+                    personis attemperas et ipsorum indoli et praesenti fortunae <choice>
                         <orig>congruam</orig>
                         <supplied>congruum</supplied>
                     </choice>. Abstulit Turca magna ex parte Hungariam, tu nobis totam reddidisti,
                     et ut <persName>Iosephus</persName><hi rend="italic"> Antiquitatibus</hi><note
-                        type="critic" xml:id="note.7">Josephus Flavius’ <hi rend="italic"
-                            >Antiquitates Judaicae.</hi></note> suis memoriae suorum consuluit, qui
-                    iam maximis cladibus ceciderant, ita tu res gestas maiorum tuorum, cum iam
-                    periisse quodammodo viderentur, aeternitati consecravisti, ac nescio, an eodem
-                    zelo, quo ipse, inductus fueris, certe idem praestitisti. <del corresp="Olahus"
+                        xml:id="note.7">Josephus Flavius’ <hi rend="italic">Antiquitates
+                            Judaicae.</hi></note> suis memoriae suorum consuluit, qui iam maximis
+                    cladibus ceciderant, ita tu res gestas maiorum tuorum, cum iam periisse
+                    quodammodo viderentur, aeternitati consecravisti, ac nescio, an eodem zelo, quo
+                    ipse, inductus fueris, certe idem praestitisti. <del corresp="Olahus"
                         >Camen</del><add corresp="Olahus" type="corr">Carmen</add><note
-                        type="critic" xml:id="note.8">Probably the opening poem of <hi rend="italic"
-                            >Hungaria</hi>, or Erasmus of Rotterdam’s epitaph.</note> tuum emendavi,
-                    ut volebas, vel potius mutavi, ut iussisti, nulla enim emendatione opus fuit.
-                    Scis, quantopere mihi tua carmina placent, hoc mihi tamen, quod
-                        <persName>Craneveldio</persName><note type="critic" xml:id="note.9">Frans
-                        van Cranevelt.</note> dedisti, prae omnibus placet. τὰ δευτέρα ἀμείνω, εἰ
-                    καὶ τὰ πάντα <choice>
+                        xml:id="note.8">Probably the opening poem of <hi rend="italic"
+                        >Hungaria</hi>, or Erasmus of Rotterdam’s epitaph.</note> tuum emendavi, ut
+                    volebas, vel potius mutavi, ut iussisti, nulla enim emendatione opus fuit. Scis,
+                    quantopere mihi tua carmina placent, hoc mihi tamen, quod
+                        <persName>Craneveldio</persName><note xml:id="note.9">Frans van
+                        Cranevelt.</note> dedisti, prae omnibus placet. τὰ δευτέρα ἀμείνω, εἰ καὶ τὰ
+                    πάντα <choice>
                         <orig>κάλα</orig>
                         <supplied>καλά</supplied>
-                    </choice>.<note type="critic" xml:id="note.10">‘the second ones are better,
-                        although all of them are pretty’.</note></p>
+                    </choice>.<note xml:id="note.10">‘the second ones are better, although all of
+                        them are pretty’.</note></p>
                 <pb/>
                 <p xml:id="p.7">[4.] Desino, ne, dum vera dico, tuae modestiae supra verum dicere
-                    videar. Hic,<note type="critic" xml:id="note.11">Rutger Pathius, see <hi
-                            rend="smallcap">Polet</hi> 1936, 256.</note> qui litteras adfert,
-                    iuvenis est probis et honestis parentibus natus et mediocris fortunae, mores
-                    illius per quadriennium, quod mecum vixit, probissimos <del corresp="Olahus"
-                        >expersus</del><add corresp="Olahus" type="corr">expertus</add> sum;
-                    placidum illi ingenium et fidum, nihil in moribus vanum aut futile, arcani
-                    tenax, promptus ad obsequia et Graece et Latine non male peritus, hunc talem
-                    esse mea fide polliceor, quare si <del corresp="Olahus">tum</del> dominus <del
-                        corresp="Olahus">Rugerus</del><add corresp="Olahus" type="corr"
-                            ><persName>Rutgerus</persName></add><note type="critic" xml:id="note.12"
-                        >Rutger Ressen.</note> eum in suum famulitium suscipiet, recte faciet, sin
-                    minus, rogo, ut iuveni ad nos redituro viaticum refundatur. Optime vale, Optime
+                    videar. Hic,<note xml:id="note.11">Rutger Pathius, see <hi rend="smallcap"
+                            >Polet</hi> 1936, 256.</note> qui litteras adfert, iuvenis est probis et
+                    honestis parentibus natus et mediocris fortunae, mores illius per quadriennium,
+                    quod mecum vixit, probissimos <del corresp="Olahus">expersus</del><add
+                        corresp="Olahus" type="corr">expertus</add> sum; placidum illi ingenium et
+                    fidum, nihil in moribus vanum aut futile, arcani tenax, promptus ad obsequia et
+                    Graece et Latine non male peritus, hunc talem esse mea fide polliceor, quare si
+                        <del corresp="Olahus">tum</del> dominus <del corresp="Olahus"
+                        >Rugerus</del><add corresp="Olahus" type="corr"
+                            ><persName>Rutgerus</persName></add><note xml:id="note.12">Rutger
+                        Ressen.</note> eum in suum famulitium suscipiet, recte faciet, sin minus,
+                    rogo, ut iuveni ad nos redituro viaticum refundatur. Optime vale, Optime
                     Patrone. </p>
                 <p xml:id="p.8">Pridie Kalendas Iulias, raptim, ut vides. 1537.</p>
             </div>

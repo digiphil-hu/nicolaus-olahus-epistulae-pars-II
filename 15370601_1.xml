@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Conrad Wackers<idno type="ITIdata">Q470231</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -245,19 +243,19 @@
                         >Chorographia Hungariae</hi> legi magno fructu. Nam multa didici, quae
                     iucundum erit meminisse. Adnotavi quaedam, sed pauca, non tam, quod mihi
                     magnopere videantur esse mutanda, sed ut facerem fidem perlecti libri.<note
-                        type="critic" xml:id="note.1">Unfortunately, we do not know Wackers’
-                        emendations. On the manuscripts and editions of these historical pieces, see
-                            <hi rend="smallcap">Szilágyi</hi> 2014; and <hi rend="smallcap"
-                            >Tóth</hi> 2019.</note> Descripsissem omnia, nisi bona spe ducerer tuam
-                    pietatem in patriae laudem non relicturam in obscuro, quae merentur versari in
-                    maxima luce. Quod non adfui, in causa fuit <persName>Nannius</persName>,<note
-                        type="critic" xml:id="note.2">Pieter Nanninck.</note> qui non contentus
-                    unica lectione, denuo postulavit eodem epulo satiari. Quamquam et illud absque
-                        <persName>Nannio</persName> impedivisset, quod propter bellum <del
-                        corresp="Olahus">millia</del><add corresp="Olahus" type="corr">nulla</add>
-                    reperiuntur esseda in usus proficiscentium. Carmen nondum recognovi, sed servavi
-                    exemplar, et id agam plus nactus otii. Nam famulus asserit sibi illico esse
-                    revertendum. Bene vale, Vir Clarissime et Domine Observande. </p>
+                        xml:id="note.1">Unfortunately, we do not know Wackers’ emendations. On the
+                        manuscripts and editions of these historical pieces, see <hi rend="smallcap"
+                            >Szilágyi</hi> 2014; and <hi rend="smallcap">Tóth</hi> 2019.</note>
+                    Descripsissem omnia, nisi bona spe ducerer tuam pietatem in patriae laudem non
+                    relicturam in obscuro, quae merentur versari in maxima luce. Quod non adfui, in
+                    causa fuit <persName>Nannius</persName>,<note xml:id="note.2">Pieter
+                        Nanninck.</note> qui non contentus unica lectione, denuo postulavit eodem
+                    epulo satiari. Quamquam et illud absque <persName>Nannio</persName>
+                    impedivisset, quod propter bellum <del corresp="Olahus">millia</del><add
+                        corresp="Olahus" type="corr">nulla</add> reperiuntur esseda in usus
+                    proficiscentium. Carmen nondum recognovi, sed servavi exemplar, et id agam plus
+                    nactus otii. Nam famulus asserit sibi illico esse revertendum. Bene vale, Vir
+                    Clarissime et Domine Observande. </p>
                 <p xml:id="p.3"><placeName>Lovanii</placeName> Kalendis Iunii anno 1537.</p>
             </div>
         </body>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I <idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -230,19 +228,19 @@
                 <pb/>
                 <p xml:id="p.1">Ferdinandus etc. Reverendissime Devote Fidelis Dilecte!</p>
                 <p xml:id="p.2">Quoniam Devotio Tua litteras et scripta illa, quae <persName>bassa
-                        Budensis</persName><note type="critic" xml:id="note.1">Gazi Kasim Pasha was
-                        Pasha of Buda between 1548–1551 and 1557–1558. He was also Bey of Mohács for
-                        a few years, then Bey of Pécs, Bey of Székesfehérvár, and Pasha of Timișoara
-                        and Bosnia. See <hi rend="smallcap">Gévay</hi> 1841, 6, <hi rend="smallcap"
-                            >Dávid</hi> 1995; and <hi rend="smallcap">Dávid</hi> 1996.</note> ad nos
-                    et vicissim nos ad eum dedimus, adhuc penes se habet, nos vero <del
-                        corresp="scriba">illis ipsis litteris si scriptis brevi opus habituri simus,
-                        illam</del> tum <del corresp="scriba">praedictas</del><add corresp="scriba"
-                        type="corr">iam dictas</add> litteras, tum etiam Agriensium querelas et
-                    gravamina prae manibus <del corresp="scriba">esse</del><add corresp="scriba"
-                        type="corr">habere</add> pro <del corresp="scriba">futura</del><add
-                        corresp="scriba" type="corr">ulteriori</add> ea de re <del corresp="scriba"
-                        >tentatio</del> in ipso <persName>bassa</persName> fienda tractaverit, valde <choice>
+                        Budensis</persName><note xml:id="note.1">Gazi Kasim Pasha was Pasha of Buda
+                        between 1548–1551 and 1557–1558. He was also Bey of Mohács for a few years,
+                        then Bey of Pécs, Bey of Székesfehérvár, and Pasha of Timișoara and Bosnia.
+                        See <hi rend="smallcap">Gévay</hi> 1841, 6, <hi rend="smallcap">Dávid</hi>
+                        1995; and <hi rend="smallcap">Dávid</hi> 1996.</note> ad nos et vicissim nos
+                    ad eum dedimus, adhuc penes se habet, nos vero <del corresp="scriba">illis ipsis
+                        litteris si scriptis brevi opus habituri simus, illam</del> tum <del
+                        corresp="scriba">praedictas</del><add corresp="scriba" type="corr">iam
+                        dictas</add> litteras, tum etiam Agriensium querelas et gravamina prae
+                    manibus <del corresp="scriba">esse</del><add corresp="scriba" type="corr"
+                        >habere</add> pro <del corresp="scriba">futura</del><add corresp="scriba"
+                        type="corr">ulteriori</add> ea de re <del corresp="scriba">tentatio</del> in
+                    ipso <persName>bassa</persName> fienda tractaverit, valde <choice>
                         <orig>cupiamus</orig>
                         <supplied>cupimus</supplied>
                     </choice>, sicuti Devotioni litteris, cum <placeName>Viennae</placeName> adhuc

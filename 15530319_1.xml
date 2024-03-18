@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -232,15 +230,15 @@
                 <p xml:id="p.2">In negotio Dominationis Vestrae quid hic effecerimus et quantum
                     laboris in expeditione litterarum ex cancellaria Germanica habuerimus,
                     Dominationi Vestrae referet is dominus <persName>Bothka</persName>.<note
-                        type="critic" xml:id="note.1">Probably Imre Botka of Szántó. He was Tamás
-                        Nádasdy’s secretary and retainer <hi rend="italic">(familiaris)</hi>, see
-                        Antal Sárkány’s letters to Tamás Nádasdy, <hi rend="smallcap">Komáromy</hi>
-                        1910, 383–384, 527; and <hi rend="smallcap">Szatlóczki</hi> 2016, 95.</note>
-                    Non est igitur, quis me eandem longioribus litteris turbare, quae etiam hic
-                    agantur, in rebus aliis ipse referre poterit. Dominationem Vestram feliciter
-                    unacum domina <persName>coniuge</persName><note type="critic" xml:id="note.2"
-                        >Orsolya Kanizsai.</note> sua carissima, domina mea observandissima valere
-                    opto, quibus servitia mea commendo. </p>
+                        xml:id="note.1">Probably Imre Botka of Szántó. He was Tamás Nádasdy’s
+                        secretary and retainer <hi rend="italic">(familiaris)</hi>, see Antal
+                        Sárkány’s letters to Tamás Nádasdy, <hi rend="smallcap">Komáromy</hi> 1910,
+                        383–384, 527; and <hi rend="smallcap">Szatlóczki</hi> 2016, 95.</note> Non
+                    est igitur, quis me eandem longioribus litteris turbare, quae etiam hic agantur,
+                    in rebus aliis ipse referre poterit. Dominationem Vestram feliciter unacum
+                    domina <persName>coniuge</persName><note xml:id="note.2">Orsolya
+                        Kanizsai.</note> sua carissima, domina mea observandissima valere opto,
+                    quibus servitia mea commendo. </p>
                 <p xml:id="p.3">Ex <placeName>Gracz</placeName> 19. Martii anno 1553.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Frater et servitor Agriensis etc. manu sua.</seg>

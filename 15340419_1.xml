@@ -222,7 +222,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Lieven van den Zande<idno type="ITIdata">Q470351</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -247,21 +246,21 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Levinus Ammonius Carthusianus monachus Nicolao Olao. </p>
-                <p xml:id="p.2">En mitto ad te epistolam,<note type="critic" xml:id="note.1">Ep.
+                <p xml:id="p.2">En mitto ad te epistolam,<note xml:id="note.1">Ep.
                             472.<ref>olahus.tei.15340317_1</ref></note> Clarissime Olahe, de qua iam
-                    pridem scripsi, quam fuerat οἰκονόμος<note type="critic" xml:id="note.2"
+                    pridem scripsi, quam fuerat οἰκονόμος<note xml:id="note.2"
                         >‘administrator’.</note> noster tibi redditurus; si potuisset istuc
                     proficisci eo tempore, quo in ea signatum est, qui tandem mihi eam reddidit,
                     dicens nolle frustra fatigari, quod istic nemini gratia fiat. Eam itaque tibi
                     mitto, ut me scias in tempore respondisse, deque beneficiis acceptis egisse
                     gratias. Si vel tantillum fuerit otii, precor te, mihi scribas, an sit etiam num
-                    spes reditus <persName>Erasmi</persName> nostri.<note type="critic"
-                        xml:id="note.3">It is not clear if Lieven van den Zande received Oláh’s
-                        letter on Erasmus, see Ep. 468.<ref>olahus.tei.15340307_1</ref></note> Vix
-                    credas, quam formidem, ne quid ei accidat humani. Sin autem ne tantillum quidem
-                    inter ista negotia sit otii, fas erit, opinor, ut huic homini, qui reddidit
-                    epistolam, <milestone unit="pb"/>in aurem dicas, quid sperandum sit. Audio <hi
-                        rend="italic">De praeparatione ad mortem libellum</hi> esse iamdudum
+                    spes reditus <persName>Erasmi</persName> nostri.<note xml:id="note.3">It is not
+                        clear if Lieven van den Zande received Oláh’s letter on Erasmus, see Ep.
+                            468.<ref>olahus.tei.15340307_1</ref></note> Vix credas, quam formidem,
+                    ne quid ei accidat humani. Sin autem ne tantillum quidem inter ista negotia sit
+                    otii, fas erit, opinor, ut huic homini, qui reddidit epistolam, <milestone
+                        unit="pb"/>in aurem dicas, quid sperandum sit. Audio <hi rend="italic">De
+                        praeparatione ad mortem libellum</hi> esse iamdudum
                         <placeName>Antverpiae</placeName> venalem, quem tamen hic nemo, quod equidem
                     sciam, vidit. Christus Iesus te servet incolumem, cui me totum commendo. </p>
                 <p xml:id="p.3">E Valleregia iuxta <placeName>Gandavum</placeName> 13. Kalendas

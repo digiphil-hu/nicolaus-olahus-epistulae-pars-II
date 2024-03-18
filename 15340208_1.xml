@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Johan Weze<idno type="ITIdata">Q470331</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,51 +238,49 @@
                 <pb/>
                 <p xml:id="p.1">Idem archiepiscopo Lundensi oratori Caroli caesaris. </p>
                 <p xml:id="p.2">[1.] Litteras tuas XV. Ianuarii <placeName>Pragae</placeName>
-                        datas<note type="critic" xml:id="note.1">We do not know this letter.</note>
-                    nudiusquartus accepi, ex quibus inter alia intellexi, quid sit in rebus meis
-                    responsum. Iam credo <persName>Griteum</persName><note type="critic"
-                        xml:id="note.2">Lodovico Gritti.</note> propediem adventurum et rebus
-                    Hungaricis finem futurum, utinam bonum et optatum! Fac cum
-                        <persName>Cornelio</persName><note type="critic" xml:id="note.3">Cornelis de
+                        datas<note xml:id="note.1">We do not know this letter.</note> nudiusquartus
+                    accepi, ex quibus inter alia intellexi, quid sit in rebus meis responsum. Iam
+                    credo <persName>Griteum</persName><note xml:id="note.2">Lodovico Gritti.</note>
+                    propediem adventurum et rebus Hungaricis finem futurum, utinam bonum et optatum!
+                    Fac cum <persName>Cornelio</persName><note xml:id="note.3">Cornelis de
                         Schepper.</note> nostro eam curam, in quamcumque partem sors devolvatur,
                     mearum rerum habeas, ut earum finem vestra opera, cura et labore consequar.
-                    Contentus esse posset <persName>Valentinus</persName><note type="critic"
-                        xml:id="note.4">Bálint Török.</note> et sui me meis a quattuor fere annis
-                    spoliatum fuisse.<note type="critic" xml:id="note.5">On Török’s devastations see
-                        Ep. 146. Cap. 1. and <hi rend="smallcap">Bessenyei</hi> 1994,
+                    Contentus esse posset <persName>Valentinus</persName><note xml:id="note.4"
+                        >Bálint Török.</note> et sui me meis a quattuor fere annis spoliatum
+                        fuisse.<note xml:id="note.5">On Török’s devastations see Ep. 146. Cap. 1.
+                        and <hi rend="smallcap">Bessenyei</hi> 1994,
                             XIV.<ref>olahus.tei.15310502_1</ref></note></p>
                 <p xml:id="p.3">[2.] Res tua in hoc se habet statu: diu hic deliberatum fuit, qui
                     mitterentur ad <placeName>Hamburgum</placeName> ad XV. huius mensis diem, primo
                     erant designati aliqui ex secretariis et <milestone unit="pb"/>aliis, nescio
                     quibus. Postremo delectus est <persName>dominus Brixiensis</persName>,<note
-                        type="critic" xml:id="note.6">George of Austria (1504–1557) was an
-                        illegitimate son of Emperor Maximilian I. He was Bishop of Brixen between
-                        1526 and 1539, and Archbishop of Valencia between 1538 and 1544, see <hi
-                            rend="smallcap">Hamann</hi> 1990, 156–157. See Oláh’s poems to his
-                        administrator and on his return: <hi rend="smallcap">Hegedüs</hi> 1906,
-                        372–373; <hi rend="smallcap">Fógel–Juhász</hi> 1934, 3; and <hi
-                            rend="smallcap">Neagu</hi> 2003, 292–293.</note><persName>Maximilianus
-                        noster Transsilvanus</persName><note type="critic" xml:id="note.7"
-                        >Maximiliaan van Zevenbergen (ca. 1485–1538) was a courtier of Emperor
-                        Charles V, famous for his account of Magellan’s circumnavigation of the
-                        world. He was born in Brussels and quite soon added this Latinized name.
-                        There used to be a misconception in the literature that he was of
-                        Transylvanian origin, but Gilbert Tournoy dispelled it, see <hi
-                            rend="smallcap">Tournoy</hi> 2019, 163–164.</note> et <persName>Erhardus
-                        Mueler</persName>,<note type="critic" xml:id="note.8">Erhard Müller.</note>
-                    cui, ut antea scripseram, dederam <choice>
+                        xml:id="note.6">George of Austria (1504–1557) was an illegitimate son of
+                        Emperor Maximilian I. He was Bishop of Brixen between 1526 and 1539, and
+                        Archbishop of Valencia between 1538 and 1544, see <hi rend="smallcap"
+                            >Hamann</hi> 1990, 156–157. See Oláh’s poems to his administrator and on
+                        his return: <hi rend="smallcap">Hegedüs</hi> 1906, 372–373; <hi
+                            rend="smallcap">Fógel–Juhász</hi> 1934, 3; and <hi rend="smallcap"
+                            >Neagu</hi> 2003, 292–293.</note><persName>Maximilianus noster
+                        Transsilvanus</persName><note xml:id="note.7">Maximiliaan van Zevenbergen
+                        (ca. 1485–1538) was a courtier of Emperor Charles V, famous for his account
+                        of Magellan’s circumnavigation of the world. He was born in Brussels and
+                        quite soon added this Latinized name. There used to be a misconception in
+                        the literature that he was of Transylvanian origin, but Gilbert Tournoy
+                        dispelled it, see <hi rend="smallcap">Tournoy</hi> 2019, 163–164.</note> et
+                        <persName>Erhardus Mueler</persName>,<note xml:id="note.8">Erhard
+                        Müller.</note> cui, ut antea scripseram, dederam <choice>
                         <orig>μιμνόσιμον</orig>
                         <supplied>τὸ μνημόσυνον</supplied>
-                    </choice><note type="critic" xml:id="note.9">‘the writing immortalizing (your
-                        deeds)’.</note> tuarum rerum. Alii duo praedicti heri hinc profecti sunt,
-                    qui in commissione eorum scripta et sigillata mandatum de re quoque tua habent
-                    inter alios articulos tractandi. Quos sigillatim ego quoque conveni tuum illis
-                    commendans negotium. <persName>Brixiensis</persName> se totum, quicquid possit,
-                    tibi et tuis rebus dedidit. A <persName>Maximiliano</persName> pro ea, quae
-                    inter nos ob patriam communem intercedit familiaritas, ut ipse dicit et ego
-                    quoque ita credo non vulgaris contendi, ut et ipse omnem suam operam possibilem
-                    in rebus tuis polliceretur. Ita data eis commissione non minimam spem habeo, ut
-                    aliquid boni in rebus tuis reducant. Quid reportarint, rescribam postea. </p>
+                    </choice><note xml:id="note.9">‘the writing immortalizing (your deeds)’.</note>
+                    tuarum rerum. Alii duo praedicti heri hinc profecti sunt, qui in commissione
+                    eorum scripta et sigillata mandatum de re quoque tua habent inter alios
+                    articulos tractandi. Quos sigillatim ego quoque conveni tuum illis commendans
+                    negotium. <persName>Brixiensis</persName> se totum, quicquid possit, tibi et
+                    tuis rebus dedidit. A <persName>Maximiliano</persName> pro ea, quae inter nos ob
+                    patriam communem intercedit familiaritas, ut ipse dicit et ego quoque ita credo
+                    non vulgaris contendi, ut et ipse omnem suam operam possibilem in rebus tuis
+                    polliceretur. Ita data eis commissione non minimam spem habeo, ut aliquid boni
+                    in rebus tuis reducant. Quid reportarint, rescribam postea. </p>
                 <p xml:id="p.4">[3.] Si rex electus aliquis esset in <placeName>Dania</placeName>,
                     facilior esset apud illum actio. Nunc cum interregnum sit et cum oratoribus
                     illorum agi debeat, qui beneficia ipsa possideant, difficilior res videtur,

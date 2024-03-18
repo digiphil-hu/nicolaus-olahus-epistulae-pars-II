@@ -207,11 +207,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,18 +238,18 @@
                     fungi placuit, conservet igitur Deus Dominationem Vestram Magnificam <del
                         corresp="Olahus">in</del><add corresp="Olahus" type="corr">unacum</add><add
                         corresp="Olahus" type="insert">domina <persName>coniunge</persName><note
-                            type="critic" xml:id="note.1">Orsolya Kanizsai.</note> sua in</add> omni
-                    rerum prosperitate faxitque idem, ut vicissim mutuo nos incolumes videre
-                    possimus. Domum autem nostram Viennensem simul cum consanguineis nostris
-                    Dominationi Vestrae Magnificae iterum iterumque commendamus.</p>
+                            xml:id="note.1">Orsolya Kanizsai.</note> sua in</add> omni rerum
+                    prosperitate faxitque idem, ut vicissim mutuo nos incolumes videre possimus.
+                    Domum autem nostram Viennensem simul cum consanguineis nostris Dominationi
+                    Vestrae Magnificae iterum iterumque commendamus.</p>
                 <p xml:id="p.3">Litteras praesentibus nostris iunctas ex mandato
                         <persName>maiestatis regiae</persName>, domini nostri clementissimi mittimus
                     ad Dominationem Vestram Magnificam, quas eadem ex eiusdem maiestatis regiae
                     voluntate per proprium et spectabilem hominem suum mittere debeat ad
-                        <persName>Paulum litteratum Kapornoky</persName>.<note type="critic"
-                        xml:id="note.2">Pál Kapornaky, who was obviously a relative of Ferenc
-                        Kapornaky. On Ferenc Kapornaky, see <hi rend="smallcap">Fazekas</hi> 2018,
-                        235.</note> Omnipotens eandem in reliquo felicissimam conservet. </p>
+                        <persName>Paulum litteratum Kapornoky</persName>.<note xml:id="note.2">Pál
+                        Kapornaky, who was obviously a relative of Ferenc Kapornaky. On Ferenc
+                        Kapornaky, see <hi rend="smallcap">Fazekas</hi> 2018, 235.</note> Omnipotens
+                    eandem in reliquo felicissimam conservet. </p>
                 <p xml:id="p.4">Ex civitate Thwllensi 14. <choice>
                         <orig><gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied><corr>mensis</corr></supplied>

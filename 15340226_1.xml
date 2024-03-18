@@ -206,11 +206,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Erasmus Schets<idno type="ITIdata">Q470240</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -233,11 +231,11 @@
                 <p xml:id="p.2"><persName>Erasmus Roterodamus</persName> ille vere tuus meusque
                     summe me requisivit suis epistolis: has, quas una hac ad te mitto, summa fide
                     tibi transmittendas, id securius non potui, quam per manus thesaurarii
-                        <persName>Haller</persName>,<note type="critic" xml:id="note.1">Wolfgang
-                        Haller von Hallerstein.</note> quem huic operi, et tui et mei gratia non
-                    defuturum puto. Si quid est, Clarissime Vir, quod in tui gratiam gloriamque
-                    potero, puta me esse tibi, et si de facie non noscam, esse devinctissimum
-                    clarissima nominis tui fama id merente.</p>
+                        <persName>Haller</persName>,<note xml:id="note.1">Wolfgang Haller von
+                        Hallerstein.</note> quem huic operi, et tui et mei gratia non defuturum
+                    puto. Si quid est, Clarissime Vir, quod in tui gratiam gloriamque potero, puta
+                    me esse tibi, et si de facie non noscam, esse devinctissimum clarissima nominis
+                    tui fama id merente.</p>
                 <p xml:id="p.3">Ex <placeName>Antverpia</placeName> XXVI. Februarii 1534.</p>
             </div>
         </body>

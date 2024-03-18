@@ -221,12 +221,10 @@
                         </creation>
                         <correspDesc>
                                 <correspAction type="sent">
-                                        <date/>
                                         <persName>Miklós Oláh<idno type="ITIdata"
                                                 >Q244878</idno></persName>
                                 </correspAction>
                                 <correspAction type="recieved">
-                                        <date/>
                                         <persName>Erasmus of Rotterdam<idno type="ITIdata"
                                                   >Q470238</idno></persName>
                                 </correspAction>
@@ -265,33 +263,33 @@
                                                   plurimam!</lem>
                                                 <rdg wit="#II" xml:id="rdg.1"/>
                                         </app> Litteras, quas ad me XXII. Aprilis dedisti,<note
-                                                type="critic" xml:id="note.1">Ep.
+                                                xml:id="note.1">Ep.
                                                   482.<ref>olahus.tei.15340422_1</ref></note> XII.
                                         Maii praeteriti accepi. Nuntium hunc nolui sine meis
                                         litteris ad te proficisci. Ad litteras igitur tuas breviter
                                         accipe. </p>
                                 <p xml:id="p.3">Angliae <persName>regis</persName><note
-                                                type="critic" xml:id="note.2">King Henry
-                                                VIII.</note><app xml:id="app.2">
+                                                xml:id="note.2">King Henry VIII.</note><app
+                                                xml:id="app.2">
                                                 <lem wit="#CE #I" xml:id="lem.2">res</lem>
                                                 <rdg wit="#II" xml:id="rdg.2">actiones</rdg>
                                         </app> scribis te ex parte credere. At credes brevi in
-                                        omnibus. <persName>Morus</persName><note type="critic"
-                                                xml:id="note.3">Thomas More.</note> adhuc captus
-                                        esse dicitur cum <app xml:id="app.3">
+                                        omnibus. <persName>Morus</persName><note xml:id="note.3"
+                                                >Thomas More.</note> adhuc captus esse dicitur cum
+                                                <app xml:id="app.3">
                                                 <lem wit="#CE #I" xml:id="lem.3">Rofensi</lem>
                                                 <rdg wit="#II" xml:id="rdg.3">Roffensi</rdg>
-                                        </app>,<note type="critic" xml:id="note.4">John
-                                                Fisher.</note> non sine periculo, ut aiunt. Valetudo
-                                        tua est mihi <app xml:id="app.4">
+                                        </app>,<note xml:id="note.4">John Fisher.</note> non sine
+                                        periculo, ut aiunt. Valetudo tua est mihi <app
+                                                xml:id="app.4">
                                                 <lem wit="#CE #I" xml:id="lem.4">molestissima</lem>
                                                 <rdg wit="#II" xml:id="rdg.4">ingratissima</rdg>
                                         </app>, cuperem, ut bene valeres et redires.
-                                                <persName>Marchionem</persName><note type="critic"
-                                                xml:id="note.5">William van den Werwe.</note> nihil
-                                        facturum scribis <persName>Hillenio</persName>.<note
-                                                type="critic" xml:id="note.6">Michaël Hillen von
-                                                Hoochstraaten</note> Times <app xml:id="app.5">
+                                                <persName>Marchionem</persName><note xml:id="note.5"
+                                                >William van den Werwe.</note> nihil facturum
+                                        scribis <persName>Hillenio</persName>.<note xml:id="note.6"
+                                                >Michaël Hillen von Hoochstraaten</note> Times <app
+                                                xml:id="app.5">
                                                 <lem wit="#CE #I" xml:id="lem.5">monachos</lem>
                                                 <rdg wit="#II" xml:id="rdg.5">funigeros</rdg>
                                         </app>. Si factus es tam timidus, et in <app xml:id="app.6">
@@ -386,12 +384,12 @@
                                                 <rdg wit="#II" xml:id="rdg.26">statis statuere</rdg>
                                         </app> possum, huius rei causa tempori serviendum esse
                                         arbitror. Apud <persName>reginam</persName> meam, ducem
-                                                <persName>Arscoti</persName>,<note type="critic"
-                                                xml:id="note.7">Philippe II de
+                                                <persName>Arscoti</persName>,<note xml:id="note.7"
+                                                >Philippe II de
                                                 Croÿ.</note><persName>Panormitanum</persName><note
-                                                type="critic" xml:id="note.8">Jean II
-                                                Carondelet.</note> fui, tibi vice epistolae et quae
-                                        voluisti, eis retuli. Vale et me, ut soles, ama. </p>
+                                                xml:id="note.8">Jean II Carondelet.</note> fui, tibi
+                                        vice epistolae et quae voluisti, eis retuli. Vale et me, ut
+                                        soles, ama. </p>
                                 <p xml:id="p.5"><placeName>Bruxellae</placeName> 25. Iunii 1534.</p>
                                 <p xml:id="p.6">
                                         <app xml:id="app.27">

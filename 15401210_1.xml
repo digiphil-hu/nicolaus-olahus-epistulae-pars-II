@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Gergely Feyner<idno type="ITIdata">Q470274</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -231,44 +229,41 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Salutem plurimam, Nobilis Amice Carissime!<note type="critic"
-                        xml:id="note.1">Gergely Feyner (†1552) was Notary of Banská Štiavnica. He
-                        was a citizen of Prešov and had a remarkable library, see <hi
-                            rend="smallcap">Békefi</hi> 1906, 267 and 522; and <hi rend="smallcap"
-                            >Iványi</hi> 1911, 304–305.</note> ! </p>
-                <p xml:id="p.2">Remisi hunc civitatis vestrae<note type="critic" xml:id="note.2"
-                        >Prešov.</note> servitorem cum litteris, quae erant ad rem vestram publicam
-                    necessaria, mittatis ad dominum <persName>Dobrawiczki</persName><note
-                        type="critic" xml:id="note.3">János Dubraviczky was a Deputy Count of the
-                        Chamber <hi rend="italic">(Unterkammergraf)</hi> of Kremnica, see <hi
-                            rend="smallcap">Heiss</hi> 1971, 211.</note> has litteras praesentibus
-                    adiunctas. A quo habebitis subsidium illud, de quo ego vobis dixeram, per me ad
-                    culturam fodinae Glauthenperg a <persName>maiestate regia</persName>, domino meo
-                    clementissimo imperatum. Id autem erit ad summam circiter quadringentorum aut
-                        V<hi rend="super">c</hi> Florenorum Hungaricalium. Quamquidem summam dominus
-                        <persName>Dobrawiczki</persName> unacum mineris<note type="critic"
-                        xml:id="note.4">‘mine’, see <hi rend="smallcap">Ramminger</hi> 2008.</note>
-                    argenti per vos ei <choice>
+                <p xml:id="p.1">Salutem plurimam, Nobilis Amice Carissime!<note xml:id="note.1"
+                        >Gergely Feyner (†1552) was Notary of Banská Štiavnica. He was a citizen of
+                        Prešov and had a remarkable library, see <hi rend="smallcap">Békefi</hi>
+                        1906, 267 and 522; and <hi rend="smallcap">Iványi</hi> 1911, 304–305.</note>
+                    ! </p>
+                <p xml:id="p.2">Remisi hunc civitatis vestrae<note xml:id="note.2">Prešov.</note>
+                    servitorem cum litteris, quae erant ad rem vestram publicam necessaria, mittatis
+                    ad dominum <persName>Dobrawiczki</persName><note xml:id="note.3">János
+                        Dubraviczky was a Deputy Count of the Chamber <hi rend="italic"
+                            >(Unterkammergraf)</hi> of Kremnica, see <hi rend="smallcap">Heiss</hi>
+                        1971, 211.</note> has litteras praesentibus adiunctas. A quo habebitis
+                    subsidium illud, de quo ego vobis dixeram, per me ad culturam fodinae
+                    Glauthenperg a <persName>maiestate regia</persName>, domino meo clementissimo
+                    imperatum. Id autem erit ad summam circiter quadringentorum aut V<hi
+                        rend="super">c</hi> Florenorum Hungaricalium. Quamquidem summam dominus
+                        <persName>Dobrawiczki</persName> unacum mineris<note xml:id="note.4">‘mine’,
+                        see <hi rend="smallcap">Ramminger</hi> 2008.</note> argenti per vos ei <choice>
                         <orig>reditis</orig>
                         <supplied>redditis</supplied>
-                    </choice> ad Stholucae<note type="critic" xml:id="note.5">Uncertain
-                        reading.</note> continuatuum est expositurus. Vos quoque rogo, non destitis
-                    vobis et commodo vestro publico. Deinceps quoque, si quid in rem vestram
-                    communem aut apud regiam aut reginalem maiestates principes nostros
-                    clementissimos praestare potero, faciam id libenter. Ad <persName>Ioannem
-                        Somory</persName><note type="critic" xml:id="note.6">János Zomor, see Ep.
-                            611.<ref>olahus.tei.15400112_1</ref></note> et <persName>Valentinum
-                        litteratum</persName>,<note type="critic" xml:id="note.7">We do not know him
-                        more closely.</note> uti me rogastis, scripsi; quas litteras cum
+                    </choice> ad Stholucae<note xml:id="note.5">Uncertain reading.</note>
+                    continuatuum est expositurus. Vos quoque rogo, non destitis vobis et commodo
+                    vestro publico. Deinceps quoque, si quid in rem vestram communem aut apud regiam
+                    aut reginalem maiestates principes nostros clementissimos praestare potero,
+                    faciam id libenter. Ad <persName>Ioannem Somory</persName><note xml:id="note.6"
+                        >János Zomor, see Ep. 611.<ref>olahus.tei.15400112_1</ref></note> et
+                        <persName>Valentinum litteratum</persName>,<note xml:id="note.7">We do not
+                        know him more closely.</note> uti me rogastis, scripsi; quas litteras cum
                     praesentibus accipietis. Arbitror eos non gravatim et vestrae civitatis et
                     aliarum montanarum patrocinium suscepturos. Me autem id fecisse significetis
-                    etiam domino <persName>Wolffgango Ginglinger</persName><note type="critic"
-                        xml:id="note.8">Farkas Guglinger or Wolfgang Guglinger was a citizen of
-                        Kremnica. In 1540, he is named as <hi rend="italic">archigrammaticus</hi> of
-                        Kremnica and schoolmaster in Banská Bystrica, see <hi rend="smallcap"
-                            >Békefi</hi> 1906, 125, 462, and passim.</note> amico nostro, ad quem
-                    aliis rebus occupatus nunc scribere non potui. Valete et me civibus vestris
-                    commendate. </p>
+                    etiam domino <persName>Wolffgango Ginglinger</persName><note xml:id="note.8"
+                        >Farkas Guglinger or Wolfgang Guglinger was a citizen of Kremnica. In 1540,
+                        he is named as <hi rend="italic">archigrammaticus</hi> of Kremnica and
+                        schoolmaster in Banská Bystrica, see <hi rend="smallcap">Békefi</hi> 1906,
+                        125, 462, and passim.</note> amico nostro, ad quem aliis rebus occupatus
+                    nunc scribere non potui. Valete et me civibus vestris commendate. </p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 10. Decembris 1540.</p>
                 <p xml:id="p.4">
                     <seg type="signature">Vester Nicolaus Olahus custos Albensis etc. consiliarius

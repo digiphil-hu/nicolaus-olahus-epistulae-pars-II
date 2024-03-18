@@ -215,11 +215,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Queen Mary<idno type="ITIdata">Q165927</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -256,69 +254,67 @@
                 <p xml:id="p.2">[1.] Cum <placeName>Viennae</placeName> in procinctu huc veniendi
                     cum sacra <persName>regia maiestate</persName>, domino meo clementissimo, fratre
                     Serenissimae Maiestatis Vestrae clarissimo essemus, redditae sint mihi
-                        litterae<note type="critic" xml:id="note.1">Ep.
-                            793.<ref>olahus.tei.15511118_1</ref></note> Maiestatis Vestrae, in
-                    quibus Serenitas Vestra scribit meam in suis negotiis sollicitudinem et
-                    diligentiam sibi gratam fuisse. Novit optime Maiestas Vestra me omnia Maiestati
-                    Vestrae debere, debiturumque semper pro sua in me clementia, dum vivam, et hac
-                    de causa nihil a me unquam praetermittitur, in quo Maiestati Vestrae
-                    Serenissimae me posse servire putavero, sed semper ea faciam, quae bonus et
-                    fidelis Maiestastis Vestrae servitor facere debeo.</p>
+                        litterae<note xml:id="note.1">Ep.
+                        793.<ref>olahus.tei.15511118_1</ref></note> Maiestatis Vestrae, in quibus
+                    Serenitas Vestra scribit meam in suis negotiis sollicitudinem et diligentiam
+                    sibi gratam fuisse. Novit optime Maiestas Vestra me omnia Maiestati Vestrae
+                    debere, debiturumque semper pro sua in me clementia, dum vivam, et hac de causa
+                    nihil a me unquam praetermittitur, in quo Maiestati Vestrae Serenissimae me
+                    posse servire putavero, sed semper ea faciam, quae bonus et fidelis Maiestastis
+                    Vestrae servitor facere debeo.</p>
                 <p xml:id="p.3">Quod vero Maiestas Vestra scribit de debito quingentorum Florenorum
-                        <persName>Ioannis Dobrowych</persName>,<note type="critic" xml:id="note.2"
-                        >János Dubraviczky.</note> cum eo tempore in via essemus, agi per me ea de
-                    re nihil potuit, nam ea res a me tractari post maiestatem regiam debuit cum
-                    consiliariis Camerae Hungaricae, qui sunt <placeName>Posonii</placeName>; verum
-                    cum Deo volente <placeName>Viennam</placeName> revertemur, credo autem ante
-                    festum Purificationis beatae Virginis<note type="critic" xml:id="note.3">2
-                        February.</note> hic comitia finem habitura, et nos mox
-                        <placeName>Viennam</placeName> redituros atque statim in hoc negotio
-                    Maiestatis Vestrae omnem solitam ac debitam meam operam sollicitudinemque
-                    impendam perficiamque, quantum in me erit, ut Maiestas Vestra intelligere
-                    possit, mihi quasque res Maiestatis Vestrae etiam minimas maxime curae
-                    fuisse.</p>
+                        <persName>Ioannis Dobrowych</persName>,<note xml:id="note.2">János
+                        Dubraviczky.</note> cum eo tempore in via essemus, agi per me ea de re nihil
+                    potuit, nam ea res a me tractari post maiestatem regiam debuit cum consiliariis
+                    Camerae Hungaricae, qui sunt <placeName>Posonii</placeName>; verum cum Deo
+                    volente <placeName>Viennam</placeName> revertemur, credo autem ante festum
+                    Purificationis beatae Virginis<note xml:id="note.3">2 February.</note> hic
+                    comitia finem habitura, et nos mox <placeName>Viennam</placeName> redituros
+                    atque statim in hoc negotio Maiestatis Vestrae omnem solitam ac debitam meam
+                    operam sollicitudinemque impendam perficiamque, quantum in me erit, ut Maiestas
+                    Vestra intelligere possit, mihi quasque res Maiestatis Vestrae etiam minimas
+                    maxime curae fuisse.</p>
                 <p xml:id="p.4">[2.] Quem autem finem <persName>Frater Georgius</persName><note
-                        type="critic" xml:id="note.4">George Martinuzzi was killed on 17 December,
-                        1551. He had been Archbishop of Esztergom since August 1551. After his
-                        death, the Archbishop’s seat stayed vacant.</note> quondam episcopus
-                    Waradiensis tractationum suarum vitaeque habuerit, Maiestas Vestra ex litteris
-                    sacrae maiestatis regiae, domini mei clementissimi per postham proximum ad eam
-                    missis simul cum causis et rationibus omnibus cur id fieri debuit, clare
-                    intellexit. Sua maiestas regia magnis profecto gratiis et clementia illum
-                    prosecuta fuit, adeo ut in numerum etiam cardinalium adiungendum curaret, quo
-                    cum beneficiis tam amplis sibi devinciret. Sed ille his omnibus a suo facinore
-                    avocari non potuit, et hac de causa, quem finem actionum suarum quaerebat et
-                    merebatur, repperit.</p>
+                        xml:id="note.4">George Martinuzzi was killed on 17 December, 1551. He had
+                        been Archbishop of Esztergom since August 1551. After his death, the
+                        Archbishop’s seat stayed vacant.</note> quondam episcopus Waradiensis
+                    tractationum suarum vitaeque habuerit, Maiestas Vestra ex litteris sacrae
+                    maiestatis regiae, domini mei clementissimi per postham proximum ad eam missis
+                    simul cum causis et rationibus omnibus cur id fieri debuit, clare intellexit.
+                    Sua maiestas regia magnis profecto gratiis et clementia illum prosecuta fuit,
+                    adeo ut in numerum etiam cardinalium adiungendum curaret, quo cum beneficiis tam
+                    amplis sibi devinciret. Sed ille his omnibus a suo facinore avocari non potuit,
+                    et hac de causa, quem finem actionum suarum quaerebat et merebatur,
+                    repperit.</p>
                 <p xml:id="p.5">[3.] Ceterum in natali die sacrae <persName>caesareae
-                        maiestatis</persName><note type="critic" xml:id="note.5">The birthday of
-                        Emperor Charles V was on 24 February, i.e. the feast of St.
+                        maiestatis</persName><note xml:id="note.5">The birthday of Emperor Charles V
+                        was on 24 February, i.e. the feast of St.
                         Matthias.</note><placeName>Posonii</placeName><persName>regia
                         maiestas</persName> cum ordinibus et statibus regni Hungariae conventum
                     habebit et cum me Deus optimus maximus ex ineffabili sua misericordia ad munus
                     episcopale vocare et Vestrae Serenissimae Maiestates eo munere ornare dignatae
                     fuerint, decrevi praedicto die et loco in festo videlicet divi Mathiae apostoli
                     proxime venturo primitias meas sacrificii altaris domini celebrare,<note
-                        type="critic" xml:id="note.6">Oláh invited the Chapter of Oradea and István
-                        Losonczy to this mass, see Ep. 781. and Ep. 782. According to his <hi
-                            rend="italic">Ephemerides</hi>, his mess was celebrated on 29 February,
-                        1552. See <hi rend="smallcap">Kovachich</hi> 1798,
-                            92.<ref>olahus.tei.15510919_1</ref></note><ref>/o:olahus.tei.15510919_2</ref>
+                        xml:id="note.6">Oláh invited the Chapter of Oradea and István Losonczy to
+                        this mass, see Ep. 781. and Ep. 782. According to his <hi rend="italic"
+                            >Ephemerides</hi>, his mess was celebrated on 29 February, 1552. See <hi
+                            rend="smallcap">Kovachich</hi> 1798,
+                        92.<ref>olahus.tei.15510919_1</ref></note><ref>/o:olahus.tei.15510919_2</ref>
                     quae supplico Maiestati Vestrae, velit illas sua praesentia aut per hominem suum
                     ornare. Supplico praeterea Maiestati Vestrae humillime, ut dum arbitrer
                     maiestatem regiam, fratrem Maiestatis Vestrae carissimum omnia negotia Hungariae
                     et etiam ecclesiarum Dei in aliquem ordinem tunc redacturum, dignetur Maiestas
                     Vestra illud gratiae et clementiae suae apponere, ut quod in me coepit, gratiose
                     perficere, suaque manu aliquot verba ad maiestatem regiam scribere de ea re
-                        Strigoniensi,<note type="critic" xml:id="note.7">Oláh tried to be
-                        Martinuzzi’s successor as Archbishop of Esztergom, in which he succeeded in
-                        1553.</note> de qua antea quoque et scribere et novissime
-                        <placeName>Augustae</placeName><note type="critic" xml:id="note.8"
-                        >Augsburg.</note> loqui dignata fuerat et bonam spem mihi fecerat, quod ego
-                    a Serenissima Vestra Maiestate et domino meo clementissimo semper dum vivam,
-                    perpetuis servitiis et orationibus promereri volo. Deus optimus maximus
-                    Serenissimam Maiestatem Vestram et in hoc novo anno et quam plurimis sequentibus
-                    felicissimam et incolumem conservare dignetur. In cuius clementiam humillima
-                    servitia mea iterum atque iterum unice commendo.</p>
+                        Strigoniensi,<note xml:id="note.7">Oláh tried to be Martinuzzi’s successor
+                        as Archbishop of Esztergom, in which he succeeded in 1553.</note> de qua
+                    antea quoque et scribere et novissime <placeName>Augustae</placeName><note
+                        xml:id="note.8">Augsburg.</note> loqui dignata fuerat et bonam spem mihi
+                    fecerat, quod ego a Serenissima Vestra Maiestate et domino meo clementissimo
+                    semper dum vivam, perpetuis servitiis et orationibus promereri volo. Deus
+                    optimus maximus Serenissimam Maiestatem Vestram et in hoc novo anno et quam
+                    plurimis sequentibus felicissimam et incolumem conservare dignetur. In cuius
+                    clementiam humillima servitia mea iterum atque iterum unice commendo.</p>
                 <p xml:id="p.6"><placeName>Pragae</placeName> 6. Ianuarii anno 1552.</p>
                 <p xml:id="p.7">Eiusdem Serenissimae Maiestatis Vestrae fidelis et humilis
                     servitor</p>

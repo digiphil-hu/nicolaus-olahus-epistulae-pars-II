@@ -209,11 +209,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Pál Várday<idno type="ITIdata">Q50220</idno></persName>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
@@ -240,24 +238,24 @@
                     </body>
                 </floatingText>
                 <pb/>
-                <p xml:id="p.1">Ferdinandus.<note type="critic" xml:id="note.1">there is a comment
-                        on the margin: “ponetur titulus”.</note></p>
+                <p xml:id="p.1">Ferdinandus.<note xml:id="note.1">there is a comment on the margin:
+                        “ponetur titulus”.</note></p>
                 <p xml:id="p.2">Ex supplicatione comitatus Soproniensis <add corresp="scriba"
                         type="insert">hisce adiecta</add> Fidelitas Vestra abunde intelliget, quod
                     spectabilis et magnificus fidelis nobis dilectus <persName>Thomas de
                         Nadasd</persName> etc. <add corresp="scriba" type="insert">acceptare</add>
                     recusaverit et repudiarit egregium fidelem nobis dilectum <del corresp="scriba"
                         >Simonem</del><persName><add corresp="scriba" type="corr">Franciscum</add>
-                        Soss de Mykebuda</persName><note type="critic" xml:id="note.2">Ferenc Soós
-                        of Mikebuda was a retainer <hi rend="italic">(familiaris)</hi> and vidame
-                            <hi rend="italic">(praefectus)</hi> of the Széchy family in Sopron, see
-                            <hi rend="smallcap">Koppány</hi> 2014, 227.</note> pro commissario in
+                        Soss de Mykebuda</persName><note xml:id="note.2">Ferenc Soós of Mikebuda was
+                        a retainer <hi rend="italic">(familiaris)</hi> and vidame <hi rend="italic"
+                            >(praefectus)</hi> of the Széchy family in Sopron, see <hi
+                            rend="smallcap">Koppány</hi> 2014, 227.</note> pro commissario in
                     controversiis inter dictum <persName>Nadasd</persName> et comitatum Soproniensem
                     versantibus. Et quamquam comitatus praedictus cuperet in locum ipsius
                         <persName>Soss</persName> comitem suum <persName>Iohannem a
-                        Weisprach</persName><note type="critic" xml:id="note.3">Hans von Weispriach
-                        or János Weispriach was <hi rend="italic">ispán</hi> of Sopron county, Baron
-                        of Kabold and owner of the castle in Landsee until 1548. For more on him and
+                        Weisprach</persName><note xml:id="note.3">Hans von Weispriach or János
+                        Weispriach was <hi rend="italic">ispán</hi> of Sopron county, Baron of
+                        Kabold and owner of the castle in Landsee until 1548. For more on him and
                         his family, see <hi rend="smallcap">Csermelyi</hi> 2013; and <hi
                             rend="smallcap">Csermelyi</hi> 2021, 197–209.</note> substitui, nos
                     tamen existimamus, quod nihilo serius nec inmerito <add corresp="scriba"
@@ -276,8 +274,8 @@
                         type="corr">citra omnem moram et ea quidem celeritate</add> debitum et
                     optatum effectum consequatur, <del corresp="scriba">ita ut</del><add
                         corresp="scriba" type="corr">ut</add> nos ad proxime futurum generalem
-                    conventum Posoniensem<note type="critic" xml:id="note.4">16 October, 1548, see
-                            <hi rend="smallcap">Mikó</hi> 2017, 69–73.</note> per dictorum
+                    conventum Posoniensem<note xml:id="note.4">16 October, 1548, see <hi
+                            rend="smallcap">Mikó</hi> 2017, 69–73.</note> per dictorum
                     commissariorum relationem <add corresp="scriba" type="insert">de statu eius
                         negotii</add> informati, postea in huiusmodi causa ulterius progredi atque
                     id quod necessitas ac status earum rerum postulaverit, ordinare, <del

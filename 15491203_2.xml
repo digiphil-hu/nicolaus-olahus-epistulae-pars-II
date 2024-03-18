@@ -210,11 +210,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Wolfgang Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -243,26 +241,25 @@
                 </floatingText>
                 <pb/>
                 <p xml:id="p.1">Hochwirdiger fürst, gnediger fürst und herr, e. f.<note
-                        type="critic" xml:id="note.1">I.e. eure fürstliche.</note> gnaden sein mein
-                    ganz willig dienst jederzeit bevor! </p>
+                        xml:id="note.1">I.e. eure fürstliche.</note> gnaden sein mein ganz willig
+                    dienst jederzeit bevor! </p>
                 <p xml:id="p.2">Gnediger herr, ich hab e. f. gnaden mit jungster post anzaigt, was
                     die verhinderung bracht hat, das <add corresp="author" type="insert">von</add>
-                    ro. kay. mt.<note type="critic" xml:id="note.2">I.e. römische kaiserliche
-                        Majestät.</note> unnd der künigin an die ro. ku. mt.<note type="critic"
-                        xml:id="note.3">I.e. römische königliche Majestät.</note> e. f. gnaden
-                    halben nit geschriben wer worden. Also seidt hat ir mt.<note type="critic"
-                        xml:id="note.4">I.e. Majestät.</note> auf mein und der <persName>gräffin von
-                        Nogeroll</persName><note type="critic" xml:id="note.5">Lucretia Caballis
-                        (vom Ross), see Ep. 610.<ref>olahus.tei.15391117_1</ref></note> anhalten ain
-                    schreiben von ir mt. aigen handt an sein mt. in fast gutter form geschriben, wie
-                    e. f. gnaden in der copey, so ich hieneben neben ir mt. brief e. f. gnaden sambt
-                    ainer translatierten copey zuschickh. Ist unns wol laid, das ir mt. es nit
-                    lengst gefertigt hat, unnd genzlich ist unserer sollicitierung schuld nit. Got
-                    der herr geb, es zeitlich genug kom und e. f. gnaden wol erschieslich sey. E. f.
-                    gnaden wirt mich auch wissen lassen, ob ich die tappissereyen unnd eseldecken
-                    mit den wappen und dem titl also fertigen oder noch verziehen soll. Pit, e. f.
-                    gnaden in mein aigen sachen auch underthenigist bevolchen lassen sein. Damit
-                    bevelich ich mich e. f. g. meinem gnedigen fürsten und herren gannz
+                    ro. kay. mt.<note xml:id="note.2">I.e. römische kaiserliche Majestät.</note>
+                    unnd der künigin an die ro. ku. mt.<note xml:id="note.3">I.e. römische
+                        königliche Majestät.</note> e. f. gnaden halben nit geschriben wer worden.
+                    Also seidt hat ir mt.<note xml:id="note.4">I.e. Majestät.</note> auf mein und
+                    der <persName>gräffin von Nogeroll</persName><note xml:id="note.5">Lucretia
+                        Caballis (vom Ross), see Ep. 610.<ref>olahus.tei.15391117_1</ref></note>
+                    anhalten ain schreiben von ir mt. aigen handt an sein mt. in fast gutter form
+                    geschriben, wie e. f. gnaden in der copey, so ich hieneben neben ir mt. brief e.
+                    f. gnaden sambt ainer translatierten copey zuschickh. Ist unns wol laid, das ir
+                    mt. es nit lengst gefertigt hat, unnd genzlich ist unserer sollicitierung schuld
+                    nit. Got der herr geb, es zeitlich genug kom und e. f. gnaden wol erschieslich
+                    sey. E. f. gnaden wirt mich auch wissen lassen, ob ich die tappissereyen unnd
+                    eseldecken mit den wappen und dem titl also fertigen oder noch verziehen soll.
+                    Pit, e. f. gnaden in mein aigen sachen auch underthenigist bevolchen lassen
+                    sein. Damit bevelich ich mich e. f. g. meinem gnedigen fürsten und herren gannz
                     underthanigclich. </p>
                 <p xml:id="p.3">Datum <placeName>Brüsl</placeName> den III<hi rend="super">ten</hi>
                     Decembris anno etc. im XLIX<hi rend="super">ten</hi>. </p>

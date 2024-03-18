@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Trnava Town Council</orgName>
                 </correspAction>
             </correspDesc>
@@ -234,34 +232,33 @@
                 <pb/>
                 <p xml:id="p.1">Prudentes et Circumspecti Domini et Amici nobis Honorandi, salutem
                     et nostri commendationem!</p>
-                <p xml:id="p.2">Doctor <persName>Petrus Illicinus</persName><note type="critic"
-                        xml:id="note.1">Pietro Illicino (†1582) was a <hi rend="italic">doctor
-                            utriusque juris</hi> and a humanist writer. He studied law at Padova in
-                        the late 1540s, then he lectured at the universities in Krakow and in
-                        Vienna. Oláh invited him to lead the chapter school of Esztergom in Trnava
-                        around 1552. In 1553, he became Canon of Alba Julia. After 1561, he
-                        practiced as a lawyer and because of his corruption cases, he clashed with
-                        his supporters, e.g. Oláh and Verancsics, and he was excommunicated in
-                        1566/1567. For more on his life, see <hi rend="smallcap">Molnár</hi> 2019,
-                        especially 185–187.</note> canonicus Strigoniensis, quoddam desiderium suum
-                    nobis exposuit de una ex illis domibus, quae sunt altaribus adiunctae in
-                    ecclesia vestra Sancti Nicolai,<note type="critic" xml:id="note.2">St. Nicolas
-                        Church in Trnava.</note> petivitque a nobis, ut se Dominationibus Vestris
-                    commendaremus. Nos, cum pro nostra erga illum benevolentiam, tum pro eius
-                    meritis non vulgaribus id propensissime praestare voluimus, cum vir sit
-                    eruditione ac probitate non mediocri, et apud regiam maiestatem, dominum nostrum
-                    clementissimum gratia et existimatione haudquaquam parva, Vestrae vero civitati
-                    et ecclesiae utilitati et ornamento esse plurimum poterit. Itaque petimus a
-                    Dominationibus Vestris, quam possumus, vehementer, ut domum, quae primo vacabit,
-                    cum suis proventibus universis illi conferant, atque interim aliquam aliam
-                    habitationem ei decernant. Quoniam si hoc Dominationes Vestrae aliis canonicis
-                    praestiterunt, in neque doctrina, neque potestate vobis gratificandi, et gratiae
-                    referendae cum illo sunt comparandi, multomagis eiusmodi liberalitate erga eum
-                    uti poterunt. Nostri vero ob respectum quicquid beneficii in ipsum doctorem
-                    Illicinum Dominationes Vestrae collocabunt, id nos eisdem simili amicitia ac
-                    multo etiam maiori reponere studebimus. Exspectabimus autem ex litteris eiusdem
-                    cognoscere, quid hac in re Dominationes Vestrae constituerint. Easdem feliciter
-                    valere optamus.</p>
+                <p xml:id="p.2">Doctor <persName>Petrus Illicinus</persName><note xml:id="note.1"
+                        >Pietro Illicino (†1582) was a <hi rend="italic">doctor utriusque juris</hi>
+                        and a humanist writer. He studied law at Padova in the late 1540s, then he
+                        lectured at the universities in Krakow and in Vienna. Oláh invited him to
+                        lead the chapter school of Esztergom in Trnava around 1552. In 1553, he
+                        became Canon of Alba Julia. After 1561, he practiced as a lawyer and because
+                        of his corruption cases, he clashed with his supporters, e.g. Oláh and
+                        Verancsics, and he was excommunicated in 1566/1567. For more on his life,
+                        see <hi rend="smallcap">Molnár</hi> 2019, especially 185–187.</note>
+                    canonicus Strigoniensis, quoddam desiderium suum nobis exposuit de una ex illis
+                    domibus, quae sunt altaribus adiunctae in ecclesia vestra Sancti Nicolai,<note
+                        xml:id="note.2">St. Nicolas Church in Trnava.</note> petivitque a nobis, ut
+                    se Dominationibus Vestris commendaremus. Nos, cum pro nostra erga illum
+                    benevolentiam, tum pro eius meritis non vulgaribus id propensissime praestare
+                    voluimus, cum vir sit eruditione ac probitate non mediocri, et apud regiam
+                    maiestatem, dominum nostrum clementissimum gratia et existimatione haudquaquam
+                    parva, Vestrae vero civitati et ecclesiae utilitati et ornamento esse plurimum
+                    poterit. Itaque petimus a Dominationibus Vestris, quam possumus, vehementer, ut
+                    domum, quae primo vacabit, cum suis proventibus universis illi conferant, atque
+                    interim aliquam aliam habitationem ei decernant. Quoniam si hoc Dominationes
+                    Vestrae aliis canonicis praestiterunt, in neque doctrina, neque potestate vobis
+                    gratificandi, et gratiae referendae cum illo sunt comparandi, multomagis
+                    eiusmodi liberalitate erga eum uti poterunt. Nostri vero ob respectum quicquid
+                    beneficii in ipsum doctorem Illicinum Dominationes Vestrae collocabunt, id nos
+                    eisdem simili amicitia ac multo etiam maiori reponere studebimus. Exspectabimus
+                    autem ex litteris eiusdem cognoscere, quid hac in re Dominationes Vestrae
+                    constituerint. Easdem feliciter valere optamus.</p>
                 <p xml:id="p.3"><placeName>Viennae</placeName> 18. Novembris 1552.</p>
                 <p xml:id="p.4">
                     <seg type="signature">

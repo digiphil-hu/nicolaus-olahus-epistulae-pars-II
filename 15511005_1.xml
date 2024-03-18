@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <orgName>Hungarian Chamber</orgName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -247,39 +245,38 @@
                     clementissimo, ut protonotarium et certos homines designare dignaretur, qui
                     querelas incolarum possessionis <persName>Gwtha</persName> in ipsa facie loci
                     cognosceret, lamentatur enim occupari per <persName>provisorem
-                        Comaronensem</persName><note type="critic" xml:id="note.1">We do not know
-                        him more closely.</note> terras, prata et imprimis loca erectionis capturae
-                    usonum, venerant quidem <choice>
+                        Comaronensem</persName><note xml:id="note.1">We do not know him more
+                        closely.</note> terras, prata et imprimis loca erectionis capturae usonum,
+                    venerant quidem <choice>
                         <orig>adlata</orig>
                         <supplied>ad mandata</supplied>
                     </choice> suae maiestatis ad egregium <persName>Antonium
-                        Naghwaty</persName><note type="critic" xml:id="note.2">Antal
-                        Nagyváthi.</note> protonotarium, <del corresp="author">sed</del> per
-                    reverendissimum <persName>dominum locumtenentem</persName><note type="critic"
-                        xml:id="note.3">Ferenc Újlaki.</note> hic directa. Ille tamen sub idem
-                    tempus aliam accepit commissionem, nimirum ut in eum ipsum terminum ad
-                        <placeName>Zacolcza</placeName><note type="critic" xml:id="note.4"
-                        >Skalica.</note> eat differentiarum Moravicalium gratia, igitur anceps
-                    haeret et utro potius se conferat, nescit, nisi quod putat publicas metas
-                    Moraviae marchionis esse ponderis. Quare Reverendissimam Dominationem Vestram
-                    rogamus, velit hac de re conferre cum domino reverendissimo locumtenente et
-                    efficere, ne causa pauperum illorum diutius suspendatur, carent Guthenses omni
-                    vinea, carent et agris, quos serant, una restat piscatoria, quae si eripiatur,
-                    necesse est, ut alio migrent destito loco sterili, nec autem strenue curat
-                    clasuras provisor Comaronensis in loco, qui sibi utilior valere et existimare
-                        <del corresp="author">valeret</del><add corresp="author" type="corr"
-                        >putat</add> sufficere in defensionem sententiae, quod ita sibi dentur, sit,
-                    quod locus ille ad Comarom spectet, est maiestas regia quoque de <del
-                        corresp="author">impunitate</del><add corresp="author" type="corr"
-                        >licentia</add> hominis admovenda, apud quam quicquid conclusum finiret,
-                    exspectamus a Reverendissima Dominatione Vestra, ut sciamus. </p>
+                        Naghwaty</persName><note xml:id="note.2">Antal Nagyváthi.</note>
+                    protonotarium, <del corresp="author">sed</del> per reverendissimum
+                        <persName>dominum locumtenentem</persName><note xml:id="note.3">Ferenc
+                        Újlaki.</note> hic directa. Ille tamen sub idem tempus aliam accepit
+                    commissionem, nimirum ut in eum ipsum terminum ad
+                        <placeName>Zacolcza</placeName><note xml:id="note.4">Skalica.</note> eat
+                    differentiarum Moravicalium gratia, igitur anceps haeret et utro potius se
+                    conferat, nescit, nisi quod putat publicas metas Moraviae marchionis esse
+                    ponderis. Quare Reverendissimam Dominationem Vestram rogamus, velit hac de re
+                    conferre cum domino reverendissimo locumtenente et efficere, ne causa pauperum
+                    illorum diutius suspendatur, carent Guthenses omni vinea, carent et agris, quos
+                    serant, una restat piscatoria, quae si eripiatur, necesse est, ut alio migrent
+                    destito loco sterili, nec autem strenue curat clasuras provisor Comaronensis in
+                    loco, qui sibi utilior valere et existimare <del corresp="author"
+                        >valeret</del><add corresp="author" type="corr">putat</add> sufficere in
+                    defensionem sententiae, quod ita sibi dentur, sit, quod locus ille ad Comarom
+                    spectet, est maiestas regia quoque de <del corresp="author">impunitate</del><add
+                        corresp="author" type="corr">licentia</add> hominis admovenda, apud quam
+                    quicquid conclusum finiret, exspectamus a Reverendissima Dominatione Vestra, ut
+                    sciamus. </p>
                 <p xml:id="p.4">[2.] Ceterum miramur, qua arte persuasit maiestati regiae
-                        <persName>Michael Pograny</persName>,<note type="critic" xml:id="note.5"
-                        >Mihály Pogrányi was a constable and later <hi rend="italic">ispán</hi> of
-                        Nyitra county, see <hi rend="smallcap">C.
-                            Tóth–Horváth–Neumann–Pálosfalvi</hi> II, 2017, 176; and <hi
-                            rend="smallcap">Borovszky</hi> 1907, 578.</note> ut vineas eius a
-                    decimarum solutione eximeret, qui pro regia maiestate nulla incommoda a terris
+                        <persName>Michael Pograny</persName>,<note xml:id="note.5">Mihály Pogrányi
+                        was a constable and later <hi rend="italic">ispán</hi> of Nyitra county, see
+                            <hi rend="smallcap">C. Tóth–Horváth–Neumann–Pálosfalvi</hi> II, 2017,
+                        176; and <hi rend="smallcap">Borovszky</hi> 1907, 578.</note> ut vineas eius
+                    a decimarum solutione eximeret, qui pro regia maiestate nulla incommoda a terris
                     sumpsit, nisi quod et alii <del corresp="author">nempe</del> captis quidem
                     facit, sed non invenit, qui enim sexaginta asperis emeret et libere citra
                     pactationem evasit aut potius dimissus est. Is dominum

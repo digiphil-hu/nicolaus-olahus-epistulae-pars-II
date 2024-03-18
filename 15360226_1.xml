@@ -219,7 +219,6 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>István Brodarics<idno type="ITIdata">Q142886</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
@@ -247,14 +246,14 @@
                 <pb/>
                 <p xml:id="p.1">Stephanus Brodericus episcopus Quinqueecclesiensis Nicolao Olao suo. </p>
                 <p xml:id="p.2">Carissime Domine et Frater, salutem plurimam et commendationem!
-                    Tamdiu nec tu quicquam ad me scribis,<note type="critic" xml:id="note.1">The
-                        last letters we know between them, were written by Oláh to Brodarics on 18
-                        February, 1533, and Brodarics to Oláh on 8 March, 1533.</note> nec ego ad
-                    te, licet et ego te <add corresp="Olahus" type="insert">ut</add> fratrem amem,
-                    et eundem affectum in te esse erga me non dubitem. Statum rerum nostrarum aperte
-                    intelligis. Tamdiu tractata est pax <placeName>Viennae</placeName>, ut huc nunc
-                    sit translata, hic, speramus, bonum exitum habebit, quod Deus concedere
-                    dignetur, bonorum omnium largitor, fortuna caesaris et fratris. </p>
+                    Tamdiu nec tu quicquam ad me scribis,<note xml:id="note.1">The last letters we
+                        know between them, were written by Oláh to Brodarics on 18 February, 1533,
+                        and Brodarics to Oláh on 8 March, 1533.</note> nec ego ad te, licet et ego
+                    te <add corresp="Olahus" type="insert">ut</add> fratrem amem, et eundem affectum
+                    in te esse erga me non dubitem. Statum rerum nostrarum aperte intelligis. Tamdiu
+                    tractata est pax <placeName>Viennae</placeName>, ut huc nunc sit translata, hic,
+                    speramus, bonum exitum habebit, quod Deus concedere dignetur, bonorum omnium
+                    largitor, fortuna caesaris et fratris. </p>
                 <p xml:id="p.3">Rogo Tuam Dominationem, ut meam humillimam servitutem in gratiam
                     sacrae <persName>reginalis maiestatis</persName>, dominae meae clementissimae
                     commendare velis. Cui, si ob meum ex <placeName>Posonio</placeName> a se et a

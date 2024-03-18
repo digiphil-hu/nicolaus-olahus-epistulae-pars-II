@@ -213,11 +213,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Conrad Wackers<idno type="ITIdata">Q470231</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -240,9 +238,9 @@
                 <p xml:id="p.1">Conradus Goclenius Nicolao Olao salutem plurimam. </p>
                 <p xml:id="p.2">Clarissime Domine Olahe! Nescio, quis genius aut potius reverentia
                     tui me deterret a provincia, quam mihi demandasti. Nam quoties sumo in manus
-                    tuam <hi rend="italic">Hungariam</hi>,<note type="critic" xml:id="note.1">Oláh
-                        finished it on 16 May, 1536, see <hi rend="smallcap">Eperjessy–Juhász</hi>
-                        1938, V. and probably sent it to Pieter Nanninck, see Ep.
+                    tuam <hi rend="italic">Hungariam</hi>,<note xml:id="note.1">Oláh finished it on
+                        16 May, 1536, see <hi rend="smallcap">Eperjessy–Juhász</hi> 1938, V. and
+                        probably sent it to Pieter Nanninck, see Ep.
                             578.<ref>olahus.tei.15361018_2</ref></note> quam mihi castigandam
                     tradidisti, toties animus ad illud munus velut obtorpescit, praesertim cum
                     stilus ille tuus inaffectatus rem ipsam clarissime non exponat modo, verum etiam

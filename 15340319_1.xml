@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Cornelis de Schepper<idno type="ITIdata">Q470232</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,52 +242,50 @@
                 <p xml:id="p.1">Cornelius Scepperus Nicolao Olao suo salutem. </p>
                 <p xml:id="p.2">Et prosperis et adversis tempestatibus usus haereo in hac
                         <placeName>insula Lesina</placeName>, quae antiquis fuit Pttaros,<note
-                        type="critic" xml:id="note.1">Pharos is the old name of Hvar.</note>
-                    memorata <persName>Appiano</persName> in Illirico.<note type="critic"
-                        xml:id="note.2">Book IX of Appian’s <hi rend="italic">Roman History</hi> is
-                        dedicated to the Illyrian wars. Pharos is mentioned in IX,17–21, 24.</note>
-                    Heri hodieque venere huc aliquot triremes Venetorum ex
-                        <placeName>Creta</placeName>, ex <placeName>Constantinopoli</placeName>, ex
-                        <placeName>Phaeacia</placeName> sive <placeName>Corfu</placeName> narrantes
-                        <persName>Imbrahimum bassam</persName><note type="critic" xml:id="note.3"
-                        >Ibrahim Pargalı Pasha.</note> profligatum esse a
-                        <persName>Sophy</persName>.<note type="critic" xml:id="note.4">Tahmasp I,
+                        xml:id="note.1">Pharos is the old name of Hvar.</note> memorata
+                        <persName>Appiano</persName> in Illirico.<note xml:id="note.2">Book IX of
+                        Appian’s <hi rend="italic">Roman History</hi> is dedicated to the Illyrian
+                        wars. Pharos is mentioned in IX,17–21, 24.</note> Heri hodieque venere huc
+                    aliquot triremes Venetorum ex <placeName>Creta</placeName>, ex
+                        <placeName>Constantinopoli</placeName>, ex <placeName>Phaeacia</placeName>
+                    sive <placeName>Corfu</placeName> narrantes <persName>Imbrahimum
+                        bassam</persName><note xml:id="note.3">Ibrahim Pargalı Pasha.</note>
+                    profligatum esse a <persName>Sophy</persName>.<note xml:id="note.4">Tahmasp I,
                         Shah of Iran.</note> Id quod pridem fuit dictum, sed nunquam certius, quam
                     nunc scitum. Habuit <persName>Imbrahimus</persName> medietatem Portae, hoc est
                     mediam partem militum ordinariorum <persName>caesaris</persName> Turcarum, quae
-                    summa ascendit ad quadraginta millia praeter acangios<note type="critic"
-                        xml:id="note.5">The akinji were members of an irregular light cavalry unit
-                        according to Ramminger, i.e. ‘a trooper in the Turkish army’, see <hi
-                            rend="smallcap">Ramminger</hi> 2008.</note> et alios et familiam suam.
-                    Nunc quicquid residuum est militum in <placeName>Graecia</placeName>, id omne
-                    iustum est venire <placeName>Constantinopolim</placeName> et Callypolim<note
-                        type="critic" xml:id="note.6">Instead of Gallypolum.</note> ad traiciendum
-                    in <placeName>Asiam</placeName> cum ipso <persName>caesare</persName> Turcarum
+                    summa ascendit ad quadraginta millia praeter acangios<note xml:id="note.5">The
+                        akinji were members of an irregular light cavalry unit according to
+                        Ramminger, i.e. ‘a trooper in the Turkish army’, see <hi rend="smallcap"
+                            >Ramminger</hi> 2008.</note> et alios et familiam suam. Nunc quicquid
+                    residuum est militum in <placeName>Graecia</placeName>, id omne iustum est
+                    venire <placeName>Constantinopolim</placeName> et Callypolim<note
+                        xml:id="note.6">Instead of Gallypolum.</note> ad traiciendum in
+                        <placeName>Asiam</placeName> cum ipso <persName>caesare</persName> Turcarum
                     proximo Aprili. Ingens metus invasit hanc gentem, quia et Christiani, qui fuere
                         <placeName>Constantinopoli</placeName>, omnes fugiunt, nescio quo presagio.
-                        <persName>Petrus Crusitz</persName><note type="critic" xml:id="note.7">Péter
+                        <persName>Petrus Crusitz</persName><note xml:id="note.7">Péter
                         Krusics.</note> capitaneus <placeName>Clyssae</placeName> praetexto nomine
                         <persName>cesaris</persName> et <persName>papae</persName> magnam praedam
                     abduxit ex <placeName>Bossina</placeName> et <placeName>Polyza</placeName>.
                     Sansachus huius provinciae <persName>Myhalybegovitz</persName><note
-                        type="critic" xml:id="note.8">Probably Gazi Hüsrev Bey, who was an Ottoman
-                        Bosnian sanjak-bey of the Sanjak of Bosnia in 1521–1525, 1526–1534, and
-                        1536–1541, see <hi rend="smallcap">Zlatar</hi> 2010.</note> vellet vices
-                    rependere, nisi obstaret alius et fortior hostis, contra quem delectus faciendus
-                    est. Turcae a <persName>rege Ferdinando</persName> aiunt pacem ruptam, eo quod
+                        xml:id="note.8">Probably Gazi Hüsrev Bey, who was an Ottoman Bosnian
+                        sanjak-bey of the Sanjak of Bosnia in 1521–1525, 1526–1534, and 1536–1541,
+                        see <hi rend="smallcap">Zlatar</hi> 2010.</note> vellet vices rependere,
+                    nisi obstaret alius et fortior hostis, contra quem delectus faciendus est.
+                    Turcae a <persName>rege Ferdinando</persName> aiunt pacem ruptam, eo quod
                         <persName>Petrus Crusitz</persName> et milites et colonos abduxerit e
                     provinciis regiis et inibi praedam vendat, et semper fuerit ipsius regiae
                     maiestatis servitor, <placeName>Clyssa</placeName>que non
                         <persName>caesaris</persName> sit, sed <persName>regis</persName>.
-                        <persName>Aloisius Gryti</persName><note type="critic" xml:id="note.9"
-                        >Lodovico Gritti.</note> dicitur a <placeName>Constantinopoli</placeName>
-                    abiisse, sed nec dum id certo scitur. Ego <placeName>Rhagusii</placeName>, quo
-                    tendo, omnia certiora sciam, et abinde rescribam facturus ea, quae conveniunt
-                    servitio maiestatis regiae et caesareae. Res meas particulares commendatas
-                    habebis reginali maiestati aliisque dominis et patronis illic existentibus, pro
-                    ut merentur, servitia mea, <persName>uxorem</persName><note type="critic"
-                        xml:id="note.10">Anna Isabella (Elizabeth) Donche.</note> amicosque
-                    consolabere, et vale. </p>
+                        <persName>Aloisius Gryti</persName><note xml:id="note.9">Lodovico
+                        Gritti.</note> dicitur a <placeName>Constantinopoli</placeName> abiisse, sed
+                    nec dum id certo scitur. Ego <placeName>Rhagusii</placeName>, quo tendo, omnia
+                    certiora sciam, et abinde rescribam facturus ea, quae conveniunt servitio
+                    maiestatis regiae et caesareae. Res meas particulares commendatas habebis
+                    reginali maiestati aliisque dominis et patronis illic existentibus, pro ut
+                    merentur, servitia mea, <persName>uxorem</persName><note xml:id="note.10">Anna
+                        Isabella (Elizabeth) Donche.</note> amicosque consolabere, et vale. </p>
                 <p xml:id="p.3">Ex <placeName>insula Lesina</placeName> die 19. Martii 1534.</p>
             </div>
         </body>

@@ -205,11 +205,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Tamás Nádasdy<idno type="ITIdata">Q244869</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -244,37 +242,35 @@
                     fortasse vellet. Mala valetudo ex renibus mea et occupationes etiam molestae me
                     tardiorem in scribendo et fecerunt et faciunt. De redemptione decimarum
                     Soproniensium, de qua Dominatio Vestra Magnifica nuper ad me scripserat,<note
-                        type="critic" xml:id="note.1">We do not know this letter, but Oláh mentions
-                        it in his previous letter, see Ep.
-                        716.<ref>olahus.tei.15490411_1</ref></note> mox fui locutus
-                        <persName>maiestati regiae</persName>. Quia tamen negotium
-                        <persName>Bakyth</persName><note type="critic" xml:id="note.2">Péter
-                        Bakics.</note> et <persName>Reway</persName><note type="critic"
-                        xml:id="note.3">Ferenc Révay.</note> nondum est conclusum,<note
-                        type="critic" xml:id="note.4">They fought about the possession of Holíč
+                        xml:id="note.1">We do not know this letter, but Oláh mentions it in his
+                        previous letter, see Ep. 716.<ref>olahus.tei.15490411_1</ref></note> mox fui
+                    locutus <persName>maiestati regiae</persName>. Quia tamen negotium
+                        <persName>Bakyth</persName><note xml:id="note.2">Péter Bakics.</note> et
+                        <persName>Reway</persName><note xml:id="note.3">Ferenc Révay.</note> nondum
+                    est conclusum,<note xml:id="note.4">They fought about the possession of Holíč
                         castle. They publicly insulted each other at the diet in 1546, see <hi
                             rend="smallcap">Paulinyi</hi> 1934, 216–217, and 212. Note 34.</note>
                     immo illud rursus sua maiestas Dominationi Vestrae Magnificae et domino
-                        <persName>locumtenenti</persName><note type="critic" xml:id="note.5">Ferenc
-                        Révay.</note> tractandum commisit, non visum fuit suae maiestati in hoc
-                    aliter decernere, quam prius decreverat, ante quam finem videret tractatuum;
-                    cuperet enim utrumque praedictorum bonorum virorum eo esse contentum, quod
-                    conveniens et aequum esset. Ego sive nunc, sive postea faciam, quicquid in
-                    commodum Dominationis Vestrae Magnificae fore putavero.</p>
+                        <persName>locumtenenti</persName><note xml:id="note.5">Ferenc Révay.</note>
+                    tractandum commisit, non visum fuit suae maiestati in hoc aliter decernere, quam
+                    prius decreverat, ante quam finem videret tractatuum; cuperet enim utrumque
+                    praedictorum bonorum virorum eo esse contentum, quod conveniens et aequum esset.
+                    Ego sive nunc, sive postea faciam, quicquid in commodum Dominationis Vestrae
+                    Magnificae fore putavero.</p>
                 <p xml:id="p.3">[2.] Dominus et frater noster <persName>Maylath</persName><note
-                        type="critic" xml:id="note.6">István Majláth.</note> dedit ad me nuper
-                    litteras suas,<note type="critic" xml:id="note.7">We do not know this
-                        letter.</note> ex quibus postquam intellexi eum sollicite exspectare
-                    intercessionem <persName>Galli</persName>,<note type="critic" xml:id="note.8"
-                        >King Francis I.</note><persName>maiestatem regiam</persName>, dominum
-                    nostrum clementissimum sum in negotio ipsius allocutus, respondit iterum, sicut
-                    prius, se nondum habere <milestone unit="pb"/>responsum ab <persName>oratore
+                        xml:id="note.6">István Majláth.</note> dedit ad me nuper litteras suas,<note
+                        xml:id="note.7">We do not know this letter.</note> ex quibus postquam
+                    intellexi eum sollicite exspectare intercessionem
+                        <persName>Galli</persName>,<note xml:id="note.8">King Francis
+                        I.</note><persName>maiestatem regiam</persName>, dominum nostrum
+                    clementissimum sum in negotio ipsius allocutus, respondit iterum, sicut prius,
+                    se nondum habere <milestone unit="pb"/>responsum ab <persName>oratore
                         caesaris</persName> apud Gallum agente, dixit tamen, quod cum
-                        <persName>Wandar A.</persName><note type="critic" xml:id="note.9">The French
-                        secretary of Emperor Charles V. We do not know him more closely.</note>
-                    secretario Gallo hac de re loquerer, quod feci. Is tamen, nescio, quo casu
-                    correptus febre, tunc, cum maiestas regia ante nonum diem venatum
-                    proficisceretur, non potuit regem alloqui. Ego quoque propter <choice>
+                        <persName>Wandar A.</persName><note xml:id="note.9">The French secretary of
+                        Emperor Charles V. We do not know him more closely.</note> secretario Gallo
+                    hac de re loquerer, quod feci. Is tamen, nescio, quo casu correptus febre, tunc,
+                    cum maiestas regia ante nonum diem venatum proficisceretur, non potuit regem
+                    alloqui. Ego quoque propter <choice>
                         <orig>praemissam</orig>
                         <supplied>praemissum</supplied>
                     </choice> renum meorum dolorem non fui secutus <persName>regem</persName>,

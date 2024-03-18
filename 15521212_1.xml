@@ -216,11 +216,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>King Ferdinand I<idno type="ITIdata">Q254221</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -251,33 +249,32 @@
                         <supplied>commen<corr>dationem</corr></supplied>
                     </choice>!</p>
                 <p xml:id="p.2">Hodie hic redditae sunt mihi Sacratissimae Maiestatis Vestrae
-                    litterae in <placeName>Gracz</placeName> sexta huius datae<note type="critic"
-                        xml:id="note.1">Ep. 833.<ref>olahus.tei.15521206_1</ref></note> et ex
+                    litterae in <placeName>Gracz</placeName> sexta huius datae<note xml:id="note.1"
+                        >Ep. 833.<ref>olahus.tei.15521206_1</ref></note> et ex
                         <placeName>Vienna</placeName> ad me remissae in negotio <persName>Petri
                         Haller</persName> etc. Cumprimum ad Sacratissimam Maiestatem Vestram ex Dei
                     clementia pervenero, statim litterae expediri poterunt necessariae iussu
                     Sacratissimae Maiestatis Vestrae. Hoc unum supplico per eandem mihi gratiose
                     significari, si recta ad Maiestatem Vestram Sacratissimam proficisci
-                        debeam,<note type="critic" xml:id="note.2">See Ep.
-                            834.<ref>olahus.tei.15521210_1</ref></note> an adhuc vento magis quam in
-                    horto Wiennensi<note type="critic" xml:id="note.3">On his Vienna palace, see Ep.
+                        debeam,<note xml:id="note.2">See Ep.
+                        834.<ref>olahus.tei.15521210_1</ref></note> an adhuc vento magis quam in
+                    horto Wiennensi<note xml:id="note.3">On his Vienna palace, see Ep.
                             736.<ref>olahus.tei.15500323_1</ref></note> et in via perflatus sum,
                     alicubi m<gap extent="unknown" reason="damage" unit="word"/> perflari faciam.
-                        <persName>Feledi</persName><note type="critic" xml:id="note.4">Lestár Feledi
-                        was Captain of Košice. In 1553, Péter Bornemisza tried to convert him to the
-                        Lutheran faith, without success, see <hi rend="smallcap">Schulek</hi> 1939,
-                        4–5; and <hi rend="smallcap">Bornemisza</hi> Péter, Postilla V. hhhh last
-                        pages.</note> et <persName>Rakoczy</persName><note type="critic"
-                        xml:id="note.5">György Rakovszky, see Ep. 838. Rakovszky (†1560) was Royal
-                        Commissioner, see <hi rend="smallcap">Domokos</hi> 1997, 668; and <hi
-                            rend="smallcap">Federmayer</hi> 2019,
-                            81–82.<ref>olahus.tei.15521216_1</ref></note><gap extent="unknown"
-                        unit="word"/> mecum sunt ex partibus superioribus <gap extent="unknown"
-                        reason="damage" unit="word"/> regni Hungariae et
-                        <placeName>Cassoviae</placeName>,<note type="critic" xml:id="note.6"
-                        >Košice.</note> ubi pe<gap extent="unknown" reason="damage" unit="word"/>
-                    nulla est venientes. Deus optimus maximus Sacratissimam Maiestatem Vestram
-                    diutissime felicem et incolumem conservare <choice>
+                        <persName>Feledi</persName><note xml:id="note.4">Lestár Feledi was Captain
+                        of Košice. In 1553, Péter Bornemisza tried to convert him to the Lutheran
+                        faith, without success, see <hi rend="smallcap">Schulek</hi> 1939, 4–5; and
+                            <hi rend="smallcap">Bornemisza</hi> Péter, Postilla V. hhhh last
+                        pages.</note> et <persName>Rakoczy</persName><note xml:id="note.5">György
+                        Rakovszky, see Ep. 838. Rakovszky (†1560) was Royal Commissioner, see <hi
+                            rend="smallcap">Domokos</hi> 1997, 668; and <hi rend="smallcap"
+                            >Federmayer</hi> 2019, 81–82.<ref>olahus.tei.15521216_1</ref></note><gap
+                        extent="unknown" unit="word"/> mecum sunt ex partibus superioribus <gap
+                        extent="unknown" reason="damage" unit="word"/> regni Hungariae et
+                        <placeName>Cassoviae</placeName>,<note xml:id="note.6">Košice.</note> ubi
+                        pe<gap extent="unknown" reason="damage" unit="word"/> nulla est venientes.
+                    Deus optimus maximus Sacratissimam Maiestatem Vestram diutissime felicem et
+                    incolumem conservare <choice>
                         <orig>digne<gap extent="unknown" reason="damage" unit="word"/></orig>
                         <supplied>digne<corr>tur</corr></supplied>
                     </choice>. In cuius clementiam me et servitia mea fidelia iterum atque iterum

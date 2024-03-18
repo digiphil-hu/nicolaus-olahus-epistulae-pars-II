@@ -210,13 +210,11 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                     <persName>Nicolaus Prossinowzky</persName>
                     <persName>Ruprecht Haller</persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <orgName>Banská Štiavnica Town Council </orgName>
                 </correspAction>
             </correspDesc>
@@ -246,18 +244,17 @@
                     sambt irenn weib unnd khindern, auch ire habend, guettern vonn der
                         <placeName>Schembnitz</placeName> ann anndere ordtt ziehenn, das dann nit
                     allein gemainer statt <placeName>Schembnitz</placeName> dem ganntzenn lanndt
-                    unnd ir khu. mt.,<note type="critic" xml:id="note.1">I.e. königliche
-                        Majestät.</note> unser <persName>allergnedigsten frawenn</persName> camer,
-                    sonnder auch zu erhaltung der pergkhwerch zw grossem nachtaill reicht, ist
-                    desshalb inn namenn hochgemelter khu. mt., unnser <persName>allergnedigsten
-                        frawen</persName> unnser bevelh an euch, ir wollet sollichs wekhziehen nit
-                    allem niemanndt gepattenn, sonnder auch ewern mitwannern, so sich also
-                    wekhzogenn, ernstlich bevelhenn unnd gepiettenn, daß sie sich mit irer personn
-                    hab unnd guettern unverzogennlich wider auf di <placeName>Schembnitz</placeName>
-                    stellenn unnd ireß hanndls unnd pergwerchs außwartenn, dann, wo sie in sollichem
-                    ungehorsam erscheinenn, wurdt ir khu. mt. verursacht in annder weg, wie sich in
-                    sollichem geburdt, gegen in zu hanndln. Damit thw wier euch und unns all dem
-                    almechtigen Got bevelhen. </p>
+                    unnd ir khu. mt.,<note xml:id="note.1">I.e. königliche Majestät.</note> unser
+                        <persName>allergnedigsten frawenn</persName> camer, sonnder auch zu
+                    erhaltung der pergkhwerch zw grossem nachtaill reicht, ist desshalb inn namenn
+                    hochgemelter khu. mt., unnser <persName>allergnedigsten frawen</persName> unnser
+                    bevelh an euch, ir wollet sollichs wekhziehen nit allem niemanndt gepattenn,
+                    sonnder auch ewern mitwannern, so sich also wekhzogenn, ernstlich bevelhenn unnd
+                    gepiettenn, daß sie sich mit irer personn hab unnd guettern unverzogennlich
+                    wider auf di <placeName>Schembnitz</placeName> stellenn unnd ireß hanndls unnd
+                    pergwerchs außwartenn, dann, wo sie in sollichem ungehorsam erscheinenn, wurdt
+                    ir khu. mt. verursacht in annder weg, wie sich in sollichem geburdt, gegen in zu
+                    hanndln. Damit thw wier euch und unns all dem almechtigen Got bevelhen. </p>
                 <p xml:id="p.3">Datum <placeName>Altsoll</placeName> 24. Juni 1542<hi rend="super"
                         >ten</hi>. </p>
                 <p xml:id="p.4">
@@ -280,9 +277,8 @@
             <div style="handwritten" type="verso" xml:id="d.2">
                 <pb/>
                 <head>On the outer side:</head>
-                <p xml:id="p.7">Den ersamen und weyssen, n.,<note type="critic" xml:id="note.2">I.e.
-                        Name.</note> richter unnd ratt der statt Schembnitz, unnsern sonder liebenn
-                    frainnden.</p>
+                <p xml:id="p.7">Den ersamen und weyssen, n.,<note xml:id="note.2">I.e. Name.</note>
+                    richter unnd ratt der statt Schembnitz, unnsern sonder liebenn frainnden.</p>
             </div>
         </body>
     </text>

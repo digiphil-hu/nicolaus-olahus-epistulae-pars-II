@@ -211,11 +211,9 @@
             </creation>
             <correspDesc>
                 <correspAction type="sent">
-                    <date/>
                     <persName>Ferenc Nyári<idno type="ITIdata">Q470239</idno></persName>
                 </correspAction>
                 <correspAction type="recieved">
-                    <date/>
                     <persName>Miklós Oláh<idno type="ITIdata">Q244878</idno></persName>
                 </correspAction>
             </correspDesc>
@@ -246,9 +244,9 @@
                     muscatellini, quod Dominatio Vestra Reverendissima interim, quoad amittet
                     dulcedinem, ebibat, nam amissa dulcedine non facit tantum ad palatum. Ceterum
                     illos centum Florenos, quos <persName>Bernardus litteratus</persName><note
-                        type="critic" xml:id="note.1">Probably Bernát Zichy (†1567), who was Ferenc
-                        Nyári’s servitor, see <hi rend="smallcap">Odescalchi</hi> 1897, especially
-                        32. In 1550, he became Royal Deputy-Master of the Horse <hi rend="italic"
+                        xml:id="note.1">Probably Bernát Zichy (†1567), who was Ferenc Nyári’s
+                        servitor, see <hi rend="smallcap">Odescalchi</hi> 1897, especially 32. In
+                        1550, he became Royal Deputy-Master of the Horse <hi rend="italic"
                             >(vicemagister agazonum regalium)</hi>, see MNL OL, SML
                         XV.22.-1.-1.</note> Reverendissimae Dominationi Vestrae
                         <placeName>Pragae</placeName> accommodarat, eidem per praesentes relaxamus,
